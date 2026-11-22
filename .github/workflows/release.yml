@@ -74,9 +74,17 @@ jobs:
           npm pack --silent --pack-destination "$RUNNER_TEMP" > "$RUNNER_TEMP/packed.txt"
           mv "$RUNNER_TEMP/$(tail -n 1 "$RUNNER_TEMP/packed.txt")" "$RUNNER_TEMP/package.tgz"
 
-      # a prerelease version (0.2.0-beta.1) goes to the `next` dist-tag, not `latest`
+      # a prerelease version (0.2.0-beta.1) goes to the `next` dist-tag, not `latest`. A
+      # version already on npm is not published again, so the release can be re-run, and the
+      # first version, published by hand before trusted publishing could be set up, still
+      # gets its GitHub release
       - name: Publish to npm
         run: |
+          VERSION=$(node -p "require('./package.json').version")
+          if [ "$(npm view "@aoxborrow/rdap-whois@$VERSION" version 2> /dev/null)" = "$VERSION" ]; then
+            echo "@aoxborrow/rdap-whois@$VERSION is already on npm; not publishing it again"
+            exit 0
+          fi
           TAG=latest
           case "$GITHUB_REF_NAME" in *-*) TAG=next ;; esac
           npm publish "$RUNNER_TEMP/package.tgz" --provenance --access public --tag "$TAG"
