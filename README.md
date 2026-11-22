@@ -25,8 +25,6 @@
 
 This library is extracted from [DNS.Tools](https://dns.tools). Check out our [Domain API](https://dns.tools/docs#domain) if you need a hosted version of this library.
 
-> **Status: not published yet.** The first release will be 0.1.0.
-
 ## Install
 
 ```bash

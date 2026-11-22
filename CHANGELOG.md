@@ -9,7 +9,7 @@ Routing data (which server answers for which TLD) changes in patch releases, lis
 
 ## [Unreleased]
 
-## [0.1.0] - Unreleased
+## [0.1.0] - 2026-11-22
 
 First release.
 
