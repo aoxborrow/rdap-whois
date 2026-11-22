@@ -1,6 +1,6 @@
 {
   "name": "@aoxborrow/rdap-whois",
-  "version": "0.0.0-dev",
+  "version": "0.1.0",
   "description": "Smart domain lookup combining RDAP and WHOIS, with one normalized result",
   "license": "MIT",
   "author": "Aaron Oxborrow",
