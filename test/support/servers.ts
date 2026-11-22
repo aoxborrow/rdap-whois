@@ -93,7 +93,13 @@ export async function startWhoisServer(
           typeof reply === 'string' || reply instanceof Uint8Array ? { text: reply } : reply;
         if (options.hang) return;
         if (options.reset) {
-          socket.write(options.text ?? '', () => socket.resetAndDestroy());
+          // the reset follows the text after a pause: on Node 22 (libuv 1.51) a reset that
+          // reaches the client together with the last data reads as a clean end of stream
+          socket.write(options.text ?? '', () =>
+            setTimeout(() => {
+              if (!socket.destroyed) socket.resetAndDestroy();
+            }, 50)
+          );
           return;
         }
         if (options.stall) {
