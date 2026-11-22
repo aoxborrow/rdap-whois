@@ -1,0 +1,115 @@
+###%%% QRY: hicloud.com
+###%%% SRV: whois.sfn.cn
+###%%% TME: 2026-11-22T08:09:28Z
+
+Domain Name: hicloud.com
+
+Registry Domain ID: 1429950708_DOMAIN_COM-VRSN
+
+Registrar WHOIS Server: whois.sfn.cn
+
+Registrar URL: www.sfn.cn
+
+Updated Date: 
+
+Creation Date: 2008-03-22 21:56:43.0
+
+Registrar Registration Expiration Date: 2028-03-22 21:56:43.0
+
+Registrar: BEIJING SANFRONT INFORMATION TECHNOLOGY CO., LTD
+
+Registrar IANA ID: 1588
+
+Registrar Abuse Contact Email: kefu@sfn.cn
+
+Registrar Abuse Contact Phone: +86.1083026123
+
+Reseller: 
+
+Domain Status: ok
+
+Registry Registrant ID: sfn7031463227653
+
+Registrant Name: 该域名已开通隐私保护
+
+Registrant Organization: 该域名已开通隐私保护
+
+Registrant Street: No.101,RuanjiandadaoRd.,YuhuataiDistrict,Nanjing,Jiangsu,China
+
+Registrant City: Nan Jing Shi
+
+Registrant State/Province: Jiang Su Sheng
+
+Registrant Postal Code: 210000
+
+Registrant Country: CN
+
+Registrant Phone: 
+
+Registrant Phone Ext: 
+
+Registrant Fax: 
+
+Registrant Fax Ext: 
+
+Registrant Email: 
+
+Registry Admin ID: 
+
+Admin Name: 该域名已开通隐私保护
+
+Admin Organization: 该域名已开通隐私保护
+
+Admin Street: No.101,RuanjiandadaoRd.,YuhuataiDistrict,Nanjing,Jiangsu,China
+
+Admin City: Nan Jing Shi
+
+Admin State/Province: Jiang Su Sheng
+
+Admin Postal Code: 210000
+
+Admin Country: CN
+
+Admin Phone: 
+
+Admin Phone Ext: 
+
+Admin Fax: 
+
+Admin Fax Ext: 
+
+Admin Email: 
+
+Registry Tech ID: 
+
+Tech Name: 该域名已开通隐私保护
+
+Tech Organization: 该域名已开通隐私保护
+
+Tech Street: No.101,RuanjiandadaoRd.,YuhuataiDistrict,Nanjing,Jiangsu,China
+
+Tech City: Nan Jing Shi
+
+Tech State/Province: Jiang Su Sheng
+
+Tech Postal Code: 210000
+
+Tech Country: CN
+
+Tech Phone: 
+
+Tech Phone Ext: 
+
+Tech Fax: 
+
+Tech Fax Ext: 
+
+Tech Email: 
+
+Name Server: NS3.DNSV5.COM
+
+Name Server: NS4.DNSV5.COM
+
+DNSSEC: 
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

@@ -1,0 +1,37 @@
+{
+  "query": "eitb.eus",
+  "server": "whois.entorno.com",
+  "domainId": "D17-EUS",
+  "domainName": "eitb.eus",
+  "creationDate": "2014-06-26T09:20:19Z",
+  "expirationDate": "2027-06-26T09:20:19Z",
+  "registrarExpirationDate": "2027-06-26T09:20:19Z",
+  "updatedDate": "2026-06-12T12:05:52Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1-33.azure-dns.com",
+    "ns2-33.azure-dns.net",
+    "ns3-33.azure-dns.org",
+    "ns4-33.azure-dns.info"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "696",
+  "registrarIanaId": 696,
+  "registrarName": "Entorno Digital, S.A.",
+  "registrarUrl": "http://www.entorno.es",
+  "registrarAbuseEmail": "abuse@entorno.es",
+  "registrarAbusePhone": "+34.935942101",
+  "registrarWhoisServer": "whois.entorno.com",
+  "registrantOrg": "EUSKAL IRRATI TELEBISTA - ENTE PUBLICO RADIO TELEVISION VASCA",
+  "registrantState": "Bilbao",
+  "registrantCountry": "ES",
+  "registrantEmail": "https://nic.entorno.es/checkdomain/form-whois.php?locale=en&tipo=r&dominio=eitb.eus",
+  "adminEmail": "https://nic.entorno.es/checkdomain/form-whois.php?locale=en&tipo=a&dominio=eitb.eus",
+  "techEmail": "https://nic.entorno.es/checkdomain/form-whois.php?locale=en&tipo=t&dominio=eitb.eus"
+}

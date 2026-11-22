@@ -1,0 +1,30 @@
+{
+  "query": "nic.netbank",
+  "server": "whois.nic.netbank",
+  "domainId": "DB83325BBA81448C5BC8E25E02CB2991C-ARI",
+  "domainName": "nic.netbank",
+  "creationDate": "2015-03-04T01:49:42Z",
+  "expirationDate": "2027-03-04T01:49:42Z",
+  "updatedDate": "2026-04-18T01:49:46Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.netbank",
+    "b.nic.netbank",
+    "c.nic.netbank",
+    "d.nic.netbank"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "COMMONWEALTH BANK OF AUSTRALIA"
+}

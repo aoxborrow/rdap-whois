@@ -1,0 +1,38 @@
+{
+  "domainName": "karnaugh.za.net",
+  "creationDate": "2002-03-29T22:03:53Z",
+  "updatedDate": "2002-03-29T22:03:53Z",
+  "nameservers": [
+    "ns3.zoneedit.com",
+    "ns5.zoneedit.com"
+  ],
+  "registrantName": "Colin Alston",
+  "registrantAddress": [
+    "11 Swales Crescent"
+  ],
+  "registrantCity": "Pinetown",
+  "registrantPostalCode": "3610",
+  "registrantCountry": "South Africa",
+  "adminName": "Colin Alston",
+  "adminOrg": "DAC",
+  "adminAddress": [
+    "11 Swales Crecent"
+  ],
+  "adminCity": "Pinetown",
+  "adminState": "KZN",
+  "adminPostalCode": "3610",
+  "adminCountry": "South Africa",
+  "adminPhone": "7037634",
+  "adminEmail": "diskbox@yifan.net",
+  "techName": "Colin Alston",
+  "techOrg": "DAC",
+  "techAddress": [
+    "11 Swales Crecent"
+  ],
+  "techCity": "Pinetown",
+  "techState": "KZN",
+  "techPostalCode": "3610",
+  "techCountry": "South Africa",
+  "techPhone": "7037634",
+  "techEmail": "diskbox@yifan.net"
+}

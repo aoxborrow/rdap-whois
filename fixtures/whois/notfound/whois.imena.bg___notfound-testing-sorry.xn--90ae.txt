@@ -1,0 +1,6 @@
+###%%% QRY: notfound-testing-sorry.xn--90ae
+###%%% SRV: whois.imena.bg
+###%%% TME: 2025-03-20T18:21:23Z
+
+DOMAIN NAME: notfound-testing-sorry.бг (notfound-testing-sorry.xn--90ae)
+registration status: invalid

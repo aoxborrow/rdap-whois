@@ -1,0 +1,22 @@
+###%%% QRY: datec.net.pg
+###%%% SRV: whois.nic.pg
+###%%% TME: 2026-07-16T23:46:09Z
+
+Domain Name: datec.net.pg
+Registry Domain ID: 37553-nicpg
+Updated Date: 2025-04-19T00:00:13Z
+Creation Date: 1999-05-17T00:00:00Z
+Registry Expiry Date: 2025-05-17T00:00:00Z
+Registrar Registration Expiration Date: 2025-05-17T00:00:00Z
+Registrar: Datec PNG Ltd
+Registrar Email: kkema@datec.com.pg
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: ns2.datec.net.pg
+Name Server: ns3.datec.net.pg
+Name Server: ns1.datec.net.pg
+DNSSEC: signedDelegation
+>>> Last update of WHOIS database: 2026-07-16T23:42:27.715Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

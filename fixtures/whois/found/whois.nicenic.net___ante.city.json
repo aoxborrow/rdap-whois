@@ -1,0 +1,38 @@
+{
+  "query": "ante.city",
+  "server": "whois.nicenic.net",
+  "domainId": "D202204021417398-COM",
+  "domainName": "ante.city",
+  "creationDate": "2022-04-01T16:00:00Z",
+  "expirationDate": "2025-04-01T16:00:00Z",
+  "registrarExpirationDate": "2025-04-01T16:00:00Z",
+  "updatedDate": "2022-04-01T16:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "chloe.ns.cloudflare.com",
+    "ned.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3765",
+  "registrarIanaId": 3765,
+  "registrarName": "NICENIC INTERNATIONAL GROUP CO., LIMITED",
+  "registrarUrl": "http://www.nicenic.net",
+  "registrarAbuseEmail": "abuse@nicenic.net",
+  "registrarAbusePhone": "+853.2354112",
+  "registrarWhoisServer": "whois.nicenic.net",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantState": "Ekaterinburg",
+  "registrantCountry": "RU",
+  "registrantEmail": "http://whois.nicenic.net/?page=whoisform",
+  "adminEmail": "http://whois.nicenic.net/?page=whoisform&emailtype=admin",
+  "techEmail": "http://whois.nicenic.net/?page=whoisform&emailtype=tech"
+}

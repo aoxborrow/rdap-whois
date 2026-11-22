@@ -1,0 +1,89 @@
+###%%% QRY: backpack.tf
+###%%% SRV: whois.nic.tf
+###%%% TME: 2026-07-16T11:44:24Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        backpack.tf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      PPTS99-FRNIC
+admin-c:                       PPTS99-FRNIC
+tech-c:                        TL1740-FRNIC
+registrar:                     INSTRA CORPORATION PTY LTD
+Expiry Date:                   2028-06-17T22:07:34Z
+created:                       2012-05-09T02:01:21Z
+last-update:                   2026-05-24T17:00:52.989689Z
+source:                        FRNIC
+
+nserver:                       bruce.ns.cloudflare.com
+nserver:                       sharon.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     INSTRA CORPORATION PTY LTD
+address:                       Level 1
+address:                       222-225 Beach Road
+address:                       3195 MORDIALLOC, VICTORIA
+country:                       AU
+phone:                         +61.397831800
+fax-no:                        +61.397836844
+e-mail:                        support@instra.com
+website:                       http://www.instra.com
+anonymous:                     No
+registered:                    2007-10-22T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       PPTS99-FRNIC
+type:                          ORGANIZATION
+contact:                       PTS Privacy & Trustee Services GmbH
+address:                       PTS Privacy & Trustee Services GmbH
+address:                       Neunkircher-Str. 43
+address:                       66299 Friedrichsthal
+country:                       DE
+phone:                         +49.68975054909
+fax-no:                        +49.68975021435
+e-mail:                        info@ptstrustee.com
+registrar:                     INSTRA CORPORATION PTY LTD
+changed:                       2023-11-10T15:06:34.87958Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       TL1740-FRNIC
+type:                          ORGANIZATION
+contact:                       DOMAIN DIRECTORS
+address:                       Domain Directors France (SARL)
+address:                       10, rue des Carmes
+address:                       17000 la Rochelle
+country:                       FR
+phone:                         +33.176607101
+e-mail:                        frdomains@instra.com
+registrar:                     INSTRA CORPORATION PTY LTD
+changed:                       2016-06-15T15:21:44Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRY
+eligdate:                      2016-06-15T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    phone
+reachsource:                   REGISTRY
+reachdate:                     2016-06-15T00:00:00Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:25.323648Z <<<

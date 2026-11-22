@@ -1,0 +1,81 @@
+{
+  "query": "active.domains",
+  "server": "whois.domaincontext.com",
+  "domainId": "f6a391861ac147289df88ac2c60da7f1-DONUTS",
+  "domainName": "active.domains",
+  "creationDate": "2016-12-12T11:06:20Z",
+  "expirationDate": "2035-12-12T11:06:20Z",
+  "registrarExpirationDate": "2035-12-12T11:06:20Z",
+  "updatedDate": "2026-09-23T21:56:17Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ben.ns.cloudflare.com",
+    "zara.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1111",
+  "registrarIanaId": 1111,
+  "registrarName": "DomainContext Inc.",
+  "registrarUrl": "https://domaincontext.com",
+  "registrarAbuseEmail": "tld-abuse@domaincontext.com",
+  "registrarAbusePhone": "+1.3022981348",
+  "registrarWhoisServer": "whois.domaincontext.com",
+  "registrantId": "DC_2287575WP",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "REDACTED FOR PRIVACY",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "active.domains@redacted-for-privacy.name",
+  "adminId": "DC_2287575WP",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "active.domains@redacted-for-privacy.name",
+  "techId": "DC_2287575WP",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "active.domains@redacted-for-privacy.name",
+  "billingId": "DC_2287575WP",
+  "billingName": "REDACTED FOR PRIVACY",
+  "billingOrg": "REDACTED FOR PRIVACY",
+  "billingAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "billingCity": "REDACTED FOR PRIVACY",
+  "billingState": "REDACTED FOR PRIVACY",
+  "billingPostalCode": "REDACTED FOR PRIVACY",
+  "billingCountry": "REDACTED FOR PRIVACY",
+  "billingPhone": "REDACTED FOR PRIVACY",
+  "billingFax": "REDACTED FOR PRIVACY",
+  "billingEmail": "active.domains@redacted-for-privacy.name"
+}

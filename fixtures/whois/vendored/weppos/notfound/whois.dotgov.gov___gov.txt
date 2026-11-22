@@ -1,0 +1,11 @@
+###%%% SRV: whois.dotgov.gov
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.dotgov.gov/gov/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+% DOTGOV WHOIS Server ready
+No match for "U34JEDZCQ.GOV".
+
+>>> Last update of whois database: 2014-02-18T20:37:51Z <<<
+Please be advised that this whois server only contains information pertaining
+to the .GOV domain. For information for other domains please use the whois
+server at RS.INTERNIC.NET.

@@ -1,0 +1,45 @@
+{
+  "query": "nic.mobile",
+  "server": "whois.nic.mobile",
+  "domainId": "DO_e340bd03e6e520b8ad2bf298c46d2a72-DISH",
+  "domainName": "nic.mobile",
+  "creationDate": "2025-04-09T21:14:29Z",
+  "expirationDate": "2035-04-09T21:14:29Z",
+  "updatedDate": "2025-09-21T08:10:25Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Dish DBS Corporation,",
+  "registrarUrl": "http://mobile-registry.com",
+  "registrarAbuseEmail": "support@mobile-registry.com",
+  "registrarAbusePhone": "+1.3037231000",
+  "registrarWhoisServer": "whois.mobile-registry.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Dish DBS Corporation,",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "CO",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

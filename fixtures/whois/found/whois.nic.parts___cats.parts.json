@@ -1,0 +1,73 @@
+{
+  "query": "cats.parts",
+  "server": "whois.nic.parts",
+  "domainId": "25997e0d4a544828a256e2e4281d5a80-DONUTS",
+  "domainName": "cats.parts",
+  "creationDate": "2021-07-26T13:40:32Z",
+  "expirationDate": "2025-07-26T13:40:32Z",
+  "updatedDate": "2025-01-10T15:45:29Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "lucy.ns.cloudflare.com",
+    "moura.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1564",
+  "registrarIanaId": 1564,
+  "registrarName": "TLD Registrar Solutions Ltd.",
+  "registrarUrl": "http://www.tldregistrarsolutions.com",
+  "registrarAbuseEmail": "abuse@tldregistrarsolutions.com",
+  "registrarAbusePhone": "+44.2034357304",
+  "registrarWhoisServer": "whois.tldregistrarsolutions.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Whois Privacy Corp.",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "New Providence",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "BS",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

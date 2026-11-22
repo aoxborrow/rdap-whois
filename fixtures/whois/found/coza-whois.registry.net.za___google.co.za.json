@@ -1,0 +1,40 @@
+{
+  "query": "google.co.za",
+  "server": "coza-whois.registry.net.za",
+  "domainId": "1szmf_DOMAIN-CO.ZA",
+  "domainName": "google.co.za",
+  "creationDate": "2001-06-25T20:37:59Z",
+  "expirationDate": "2027-06-25T20:37:59Z",
+  "registrarExpirationDate": "2027-06-25T20:37:59Z",
+  "updatedDate": "2026-05-24T10:24:57Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrarAbuseEmail": "ccops@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantCountry": "US",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

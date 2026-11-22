@@ -1,0 +1,36 @@
+{
+  "query": "visit.alsace",
+  "server": "whois.nameshield.net",
+  "domainId": "DOM000000529022-ALSACE",
+  "domainName": "visit.alsace",
+  "creationDate": "2015-09-17T22:00:00Z",
+  "expirationDate": "2027-09-17T22:00:00Z",
+  "registrarExpirationDate": "2027-09-17T22:00:00Z",
+  "updatedDate": "2026-09-16T22:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "bruce.ns.cloudflare.com",
+    "sue.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1251",
+  "registrarIanaId": 1251,
+  "registrarName": "Nameshield SAS",
+  "registrarUrl": "https://www.nameshield.com",
+  "registrarAbuseEmail": "abuse@nameshield.net",
+  "registrarAbusePhone": "+33.241182828",
+  "registrarWhoisServer": "whois.nameshield.net",
+  "registrantState": "FR",
+  "registrantCountry": "FR",
+  "registrantEmail": "https://secure.nameshield.net/contact/visit.alsace/owner",
+  "adminEmail": "https://secure.nameshield.net/contact/visit.alsace/admin",
+  "techEmail": "https://secure.nameshield.net/contact/visit.alsace/tech"
+}

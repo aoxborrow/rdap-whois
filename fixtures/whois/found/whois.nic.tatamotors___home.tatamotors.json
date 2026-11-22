@@ -1,0 +1,30 @@
+{
+  "query": "home.tatamotors",
+  "server": "whois.nic.tatamotors",
+  "domainId": "fd064fdfd24e4ea09ab74aad6091ea2a-DONUTS",
+  "domainName": "home.tatamotors",
+  "creationDate": "2016-02-05T10:25:37Z",
+  "expirationDate": "2027-02-05T10:25:37Z",
+  "updatedDate": "2026-08-12T12:31:18Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-8.awsdns-01.com",
+    "ns-969.awsdns-57.net",
+    "ns-1153.awsdns-16.org",
+    "ns-1543.awsdns-00.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

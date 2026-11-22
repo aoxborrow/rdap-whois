@@ -1,0 +1,34 @@
+{
+  "query": "nic.lundbeck",
+  "server": "whois.nic.lundbeck",
+  "domainId": "c8e50731eb4442829ccb0af4c7206dfd-DONUTS",
+  "domainName": "nic.lundbeck",
+  "creationDate": "2016-05-06T20:27:45Z",
+  "expirationDate": "2027-05-06T20:27:45Z",
+  "updatedDate": "2026-08-12T08:31:21Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.lundbeck",
+    "a2.nic.lundbeck",
+    "b0.nic.lundbeck",
+    "c0.nic.lundbeck"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

@@ -1,0 +1,79 @@
+{
+  "query": "nic.ismaili",
+  "server": "whois.nic.ismaili",
+  "domainId": "REDACTED",
+  "domainName": "nic.ismaili",
+  "creationDate": "2017-02-23T22:26:19Z",
+  "expirationDate": "2027-02-23T22:26:19Z",
+  "updatedDate": "2026-08-12T05:13:25Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.ismaili",
+    "a2.nic.ismaili",
+    "b0.nic.ismaili",
+    "c0.nic.ismaili"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "Fondation Aga Khan (Aga Khan Foundation)",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "Geneva",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "CH",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

@@ -1,0 +1,103 @@
+###%%% QRY: galaxy.tf
+###%%% SRV: whois.nic.tf
+###%%% TME: 2026-11-22T08:14:25Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        galaxy.tf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       X7110-FRNIC
+tech-c:                        OVH5-FRNIC
+registrar:                     OVH
+Expiry Date:                   2027-06-24T18:41:38Z
+created:                       2013-06-24T18:41:38Z
+last-update:                   2026-07-31T22:00:52.448472Z
+source:                        FRNIC
+
+nserver:                       ns-1492.awsdns-58.org
+nserver:                       ns-1602.awsdns-08.co.uk
+nserver:                       ns-300.awsdns-37.com
+nserver:                       ns-905.awsdns-49.net
+source:                        FRNIC
+
+registrar:                     OVH
+address:                       2 Rue Kellermann
+address:                       59100 ROUBAIX
+country:                       FR
+phone:                         +33.899701761
+fax-no:                        +33.320200958
+e-mail:                        support@ovh.net
+website:                       http://www.ovh.com
+anonymous:                     No
+registered:                    1999-10-18T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     OVH
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       X7110-FRNIC
+type:                          ORGANIZATION
+contact:                       xo7
+address:                       xo7
+address:                       157 Bd Macdonald
+address:                       75019 Paris
+country:                       FR
+phone:                         +33.620802138
+e-mail:                        5iwjopadnk7uujuy0bss@b.o-w-o.info
+registrar:                     OVH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       OVH5-FRNIC
+type:                          ORGANIZATION
+contact:                       OVH NET
+address:                       OVH
+address:                       140, quai du Sartel
+address:                       59100 Roubaix
+country:                       FR
+phone:                         +33.899701761
+e-mail:                        tech@ovh.net
+registrar:                     OVH
+changed:                       2026-11-20T09:37:59.892929Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-11-22T08:14:25.422513Z <<<

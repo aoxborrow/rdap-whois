@@ -1,0 +1,43 @@
+{
+  "query": "likemanga.ink",
+  "server": "whois.opensrs.net",
+  "domainId": "D00BAF07287E040B988D936760727B718-GDREG",
+  "domainName": "likemanga.ink",
+  "creationDate": "2024-09-24T06:44:18Z",
+  "expirationDate": "2027-09-24T06:44:18Z",
+  "registrarExpirationDate": "2027-09-24T06:44:18Z",
+  "updatedDate": "2026-08-07T22:59:28Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "jasper.ns.cloudflare.com",
+    "liv.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "TUCOWS.COM, CO.",
+  "registrarUrl": "http://tucowsdomains.com",
+  "registrarAbuseEmail": "domainabuse@tucows.com",
+  "registrarAbusePhone": "+1.4165350123",
+  "registrarWhoisServer": "whois.tucows.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Charlestown",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "KN",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://tieredaccess.com/contact/a37c1a1c-77b1-46f9-a2c4-46b28014a108"
+}

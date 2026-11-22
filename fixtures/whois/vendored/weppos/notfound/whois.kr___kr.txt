@@ -1,0 +1,24 @@
+###%%% SRV: whois.kr
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.kr/kr/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+query : u34jedzcq.kr
+
+
+# KOREAN(UTF8)
+
+상기 도메인이름은 등록되어 있지 않습니다.
+
+
+# ENGLISH
+
+Above domain name is not registered to KRNIC.
+
+
+상기 정보는 UTF-8 인코딩되어 서비스되고 있습니다.
+EUC-KR 인코딩 서비스는 oldwhois.kisa.or.kr에서 서비스 되고 있습니다.
+The above information is encoded with UTF-8
+EUC-KR encoding WHOIS is being serviced in this URL:oldwhois.kisa.or.kr
+
+
+- KISA/KRNIC Whois Service -

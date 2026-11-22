@@ -1,0 +1,17 @@
+{
+  "query": "google.tm",
+  "server": "whois.nic.tm",
+  "domainName": "google.tm",
+  "expirationDate": "2027-01-30T00:00:00Z",
+  "eppStatusRaw": [
+    "Client Updt+Delt Lock"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC"
+}

@@ -1,0 +1,37 @@
+###%%% QRY: wsbetting.co.ls
+###%%% SRV: whois.nic.ls
+###%%% TME: 2026-07-16T11:42:21Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.10.2
+% Timestamp: Thu Jul 16 13:42:22 2026
+
+domain:       wsbetting.co.ls
+registrant:   ADMIN-LEO
+admin-c:      ADMIN-LEO
+nsset:        NS-WSBETTING
+registrar:    REG-LEO
+registered:   26.07.2017 17:20:18
+changed:      11.11.2019 16:27:36
+expire:       26.07.2029
+
+contact:      ADMIN-LEO
+registrar:    REG-LEO
+created:      05.04.2017 19:37:49
+
+nsset:        NS-WSBETTING
+nserver:      curt.ns.cloudflare.com 
+nserver:      venus.ns.cloudflare.com 
+tech-c:       TECH-LEO
+registrar:    REG-LEO
+created:      11.11.2019 16:26:06
+
+contact:      TECH-LEO
+registrar:    REG-LEO
+created:      05.04.2017 19:39:02
+changed:      21.05.2019 15:06:33
+
+
+>>> Terms: Data provided for information purposes only.
+>>> Rate limited; bulk access prohibited.

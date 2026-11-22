@@ -1,0 +1,31 @@
+###%%% QRY: ddizi.im
+###%%% SRV: whois.nic.im
+###%%% TME: 2026-11-22T08:14:12Z
+
+This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name: ddizi.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 11/05/2027 00:59:57
+Name Server:jean.ns.cloudflare.com.
+Name Server:vern.ns.cloudflare.com.

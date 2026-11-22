@@ -1,0 +1,92 @@
+###%%% QRY: xnxxvideos.rest
+###%%% SRV: whois.evonames.com
+###%%% TME: 2026-11-22T08:11:23Z
+
+Domain Name: XNXXVIDEOS.REST
+Registry Domain ID: 
+Registrar WHOIS Server: whois.danesconames.com
+Registrar URL: https://danesconames.com/
+Updated Date: 2023-04-04 20:04:08.949812
+Creation Date: 2022-04-04
+Registrar Registration Expiration Date: 2024-04-04
+Registrar: DANESCO TRADING LTD
+Registrar IANA ID: 1418
+Registrar Abuse Contact Email: abuse@danesconames.com
+Registrar Abuse Contact Phone: +357.95713635
+Reseller: AHnames.com  https://www.AHnames.com/
+Registry Registrant ID: MR_101800609WP
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY  
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: REDACTED FOR PRIVACY
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: 
+Registrant Email: xnxxvideos.rest@whoisprotectservice.net
+Registry Admin ID: MR_101800609WP
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY  
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: 
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: 
+Admin Email: xnxxvideos.rest@whoisprotectservice.net
+Registry Tech ID: MR_101800609WP
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY  
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: 
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: 
+Tech Email: xnxxvideos.rest@whoisprotectservice.net
+Registry Billing ID: MR_101800609WP
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY  
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: 
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Phone Ext: 
+Billing Fax: REDACTED FOR PRIVACY
+Billing Fax Ext: 
+Billing Email: xnxxvideos.rest@whoisprotectservice.net
+Name Server: NS1.HOSTISERVICES.COM
+Name Server: NS2.HOSTISERVICES.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2023-04-04 20:04:10 <<<
+
+LEGAL NOTIFICATION: Danesco Trading LLC acts as a Domain Name Registrar only,
+provides to Registrants registration and related services, and complies with ICANN rules and policies.
+Danesco Trading LLC shall not bear any responsibility for any consequences regarding operations with
+or content of on-line resources available via the registered domain name unless otherwise provided by law.
+The Registrant is solely responsible for compliance with the jurisdiction laws for which his website,
+web resource, goods, services, or Content is available.
+The WhoIs Data is provided for information purposes only. The fact that Danesco Trading LLC displays such
+information does not provide any guarantee expressed or implied on the purpose for which the database may
+be used, its accuracy or usefulness. By submitting a WHOIS query, you agree that you will use this Data
+only for lawful purposes. Danesco Trading LLC cannot guarantee the accuracy of the data provided.
+Danesco Trading LLC protects the WhoIs Data under the law or the Registrants'  requests usin
+special notifications as follows 'redacted for privacy'. If you have a legitimate interest in viewi
+g the redacted WHOIS details, send your request to the Registrar's email with the reasons for ur request.
+We will review that request and may ask for supporting documentation and explanation.
+Please use the Registrar's email if you wish to raise a legal issue connected with the Registrant,
+operations with or content of resources available via the registered domain name. Danesco Trading LLC
+has the ability to contact the Registrant with the requirement to investigate a legal issue.
+For more information on Whois status codes, please visit https://icann.org/epp

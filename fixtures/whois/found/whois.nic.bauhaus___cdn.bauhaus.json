@@ -1,0 +1,31 @@
+{
+  "query": "cdn.bauhaus",
+  "server": "whois.nic.bauhaus",
+  "domainId": "Doffk55-BAUHAUS",
+  "domainName": "cdn.bauhaus",
+  "creationDate": "2022-11-09T09:00:49Z",
+  "expirationDate": "2032-11-09T09:00:49Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "amber.ns.cloudflare.com",
+    "merlin.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3779",
+  "registrarIanaId": 3779,
+  "registrarName": "Knipp Medien und Kommunikation GmbH",
+  "registrarUrl": "http://www.knipp.de",
+  "registrarAbuseEmail": "registrar@knipp.de",
+  "registrarAbusePhone": "+49.23197030",
+  "registrarWhoisServer": "whois.registrar.knipp.de",
+  "registrantCountry": "DE",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

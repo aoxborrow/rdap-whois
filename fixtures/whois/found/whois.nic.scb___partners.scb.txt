@@ -1,0 +1,72 @@
+###%%% QRY: partners.scb
+###%%% SRV: whois.nic.scb
+###%%% TME: 2026-11-22T08:12:48Z
+
+Domain Name: PARTNERS.SCB
+Domain ID: DOMAIN_10058-SCB
+WHOIS Server: whois.nic.scb
+Referral URL: http://www.nic.scb
+Updated Date: 2026-02-05T12:33:00Z
+Creation Date: 2019-03-21T06:58:35Z
+Registry Expiry Date: 2027-03-21T06:58:35Z
+Sponsoring Registrar: DOTARAI CO.,LTD.
+Sponsoring Registrar IANA ID: 1373
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Registrant Name: Redacted for Data Protection
+Registrant Organization: The Siam Commercial Bank Public Company Limited
+Registrant Street: Redacted for Data Protection
+Registrant City: Redacted for Data Protection
+Registrant State/Province: Bangkok
+Registrant Postal Code: Redacted for Data Protection
+Registrant Country: TH
+Registrant Phone: Redacted for Data Protection
+Registrant Phone Ext: 
+Registrant Fax: Redacted for Data Protection
+Registrant Fax Ext: 
+Registrant Email: Please query the RDDS service of the Registrar for information on how to contact the Registrant
+Admin Name: Redacted for Data Protection
+Admin Organization: Redacted for Data Protection
+Admin Street: Redacted for Data Protection
+Admin City: Redacted for Data Protection
+Admin State/Province: Redacted for Data Protection
+Admin Postal Code: Redacted for Data Protection
+Admin Country: TH
+Admin Phone: Redacted for Data Protection
+Admin Phone Ext: 
+Admin Fax: Redacted for Data Protection
+Admin Fax Ext: 
+Admin Email: Please query the RDDS service of the Registrar for information on how to contact the Admin contact
+Tech Name: Redacted for Data Protection
+Tech Organization: Redacted for Data Protection
+Tech Street: Redacted for Data Protection
+Tech City: Redacted for Data Protection
+Tech State/Province: Redacted for Data Protection
+Tech Postal Code: Redacted for Data Protection
+Tech Country: TH
+Tech Phone: Redacted for Data Protection
+Tech Phone Ext: 
+Tech Fax: Redacted for Data Protection
+Tech Fax Ext: 
+Tech Email: Please query the RDDS service of the Registrar for information on how to contact the Tech contact
+Name Server: NS-1517.AWSDNS-61.ORG
+Name Server: NS-743.AWSDNS-28.NET
+Name Server: NS-1852.AWSDNS-39.CO.UK
+Name Server: NS-145.AWSDNS-18.COM
+DNSSEC: signedDelegation
+DS Created: 2021-11-19T15:37:49Z
+DS Key Tag: 29863
+Algorithm: 13
+Digest Type: 2
+Digest: 962D0EB26DD690626A8967116C25D20DE473A6333744A5F9879BF335527098DC
+>>> Last update of WHOIS database: 2026-11-22T08:12:47Z <<< 
+
+If certain contact information is not shown for a Registrant, Administrative, or Technical contact, and you wish to send a message to these contacts, please send your message to whoisrelay@nic.scb and specify the domain name in the subject line. We will forward that message to the underlying contact. 
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send your request and the reasons for your request to abusecomplaints@nic.scb and specify the domain name in the subject line. We will review that request and may ask for supporting documentation and explanation. 
+
+LEGAL STATEMENT AND TERMS OF USE: Access to Thai Name Server WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Thai Name Server registry database. The data in this record is provided by Thai Name Server for informational purposes only, and Thai Name Server does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Thai Name Server reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.

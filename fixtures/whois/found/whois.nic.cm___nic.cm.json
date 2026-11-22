@@ -1,0 +1,37 @@
+{
+  "query": "nic.cm",
+  "server": "whois.nic.cm",
+  "domainId": "5309-RegCM",
+  "domainName": "nic.cm",
+  "creationDate": "2009-08-28T00:00:00Z",
+  "expirationDate": "2035-08-27T00:00:00Z",
+  "registrarExpirationDate": "2035-08-27T00:00:00Z",
+  "updatedDate": "2026-08-21T08:43:38Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "dns1.antic.cm",
+    "ns.registrar.cm",
+    "ns1.nic.cm",
+    "ns2.nic.cm"
+  ],
+  "registrarName": "Registrar ANTIC",
+  "registrarAddress": [
+    "P.O BOX 6170 Yaoundé, Cameroun, BASTOS - RUE AMBASSADE DE CHINE"
+  ],
+  "registrarEmail": "dg@antic.cm",
+  "registrarUrl": "http://www.antic.cm",
+  "registrantId": "68495-RegCM",
+  "registrantName": "ANTIC",
+  "registrantAddress": [
+    "Bastos, Rue Ambassade de Chine"
+  ],
+  "registrantCity": "Yaounde",
+  "registrantPostalCode": "6170",
+  "registrantCountry": "CM",
+  "registrantEmail": "dotcm@antic.cm"
+}

@@ -1,0 +1,34 @@
+{
+  "query": "xn--90aiim0b4c.xn--80aswg",
+  "server": "whois.nic.xn--80aswg",
+  "domainId": "Djssc4190-80ASWG",
+  "domainName": "xn--90aiim0b4c.xn--80aswg",
+  "creationDate": "2019-10-04T13:25:38Z",
+  "expirationDate": "2027-10-04T13:25:38Z",
+  "updatedDate": "2026-09-19T22:53:39Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.reg.ru",
+    "ns2.reg.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "REG.RU Registrar of Domain Names Limited Liability Company",
+  "registrarUrl": "http://www.reg.ru",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.ru",
+  "registrantOrg": "Protection of Private Person",
+  "registrantState": "Moscow",
+  "registrantCountry": "RU",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

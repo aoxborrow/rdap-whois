@@ -1,0 +1,5 @@
+###%%% QRY: google.sm
+###%%% SRV: whois.nic.sm
+###%%% TME: 2026-11-22T08:29:16Z
+
+% Error: service unavailable

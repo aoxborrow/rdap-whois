@@ -1,0 +1,68 @@
+{
+  "query": "param.claims",
+  "server": "whois.ownregistrar.com",
+  "domainId": "2227359",
+  "domainName": "param.claims",
+  "creationDate": "2024-11-23T03:47:52Z",
+  "expirationDate": "2025-11-23T03:47:52Z",
+  "registrarExpirationDate": "2025-11-23T03:47:52Z",
+  "updatedDate": "2024-11-23T03:47:51Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "malavika.ns.cloudflare.com",
+    "vasilii.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1250",
+  "registrarIanaId": 1250,
+  "registrarName": "OwnRegistrar, Inc.",
+  "registrarUrl": "http://www.ownregistrar.com",
+  "registrarAbuseEmail": "abuse@ownregistrar.com",
+  "registrarAbusePhone": "+91.2261426042",
+  "registrarWhoisServer": "whois.ownregistrar.com",
+  "registrantId": "OR_1396",
+  "registrantName": "WhoisSecure",
+  "registrantOrg": "WhoisSecure",
+  "registrantAddress": [
+    "18 San Carlos Street"
+  ],
+  "registrantCity": "Los Angeles",
+  "registrantState": "California",
+  "registrantPostalCode": "94110",
+  "registrantCountry": "United States",
+  "registrantPhone": "+1.6144481974",
+  "registrantPhoneExt": "1",
+  "registrantEmail": "contact@whoissecure.net",
+  "adminId": "OR_1396",
+  "adminName": "WhoisSecure",
+  "adminOrg": "WhoisSecure",
+  "adminAddress": [
+    "18 San Carlos Street"
+  ],
+  "adminCity": "Los Angeles",
+  "adminState": "California",
+  "adminPostalCode": "94110",
+  "adminCountry": "United States",
+  "adminPhone": "+1.6144481974",
+  "adminPhoneExt": "1",
+  "adminEmail": "contact@whoissecure.net",
+  "techId": "OR_1396",
+  "techName": "WhoisSecure",
+  "techOrg": "WhoisSecure",
+  "techAddress": [
+    "18 San Carlos Street"
+  ],
+  "techCity": "Los Angeles",
+  "techState": "California",
+  "techPostalCode": "94110",
+  "techCountry": "United States",
+  "techPhone": "+1.6144481974",
+  "techPhoneExt": "1",
+  "techEmail": "contact@whoissecure.net"
+}

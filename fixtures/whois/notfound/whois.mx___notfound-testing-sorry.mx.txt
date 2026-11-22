@@ -1,0 +1,14 @@
+###%%% QRY: notfound-testing-sorry.mx
+###%%% SRV: whois.mx
+###%%% TME: 2025-03-20T16:18:55Z
+
+No_Se_Encontro_El_Objeto/Object_Not_Found
+
+&PARAMETROS VALIDOS:
+
+ &NombreObjeto    Busca en la base de datos de NIC Mexico el objeto solicitado.
+ &=NombreDominio  Verifica la disponibilidad de un nombre de dominio.
+ &?               Muestra este mensaje.
+
+&NOTA:
+ &Si se busca informacion sobre un dominio este debe pertenecer al ccTLD .mx

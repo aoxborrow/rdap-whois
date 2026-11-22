@@ -1,0 +1,40 @@
+###%%% QRY: registerdomain.net.za
+###%%% SRV: net-whois.registry.net.za
+###%%% TME: 2026-07-16T23:19:55Z
+
+Domain Name: registerdomain.net.za
+Registry Domain ID: 4ym5y4_DOMAIN-NET.ZA
+Registrar WHOIS Server: 
+Registrar URL: www.registerdomain.co.za
+Updated Date: 2024-09-22T19:47:50Z
+Creation Date: 2022-11-19T06:34:43Z
+Registry Expiry Date: 2027-11-19T06:34:43Z
+Registrar Registration Expiration Date: 2027-11-19T06:34:43Z
+Registrar: Register Domain SA
+Registrar Abuse Contact Email: rar@registerdomain.co.za
+Registrar Abuse Contact Phone: +27.212001480
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Register Domain SA
+Registrant Country: ZA
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: glen.ns.cloudflare.com
+Name Server: bonnie.ns.cloudflare.com
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:19:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZARC Complaint/s Procedure and Form: https://zarc.web.za/wp-content/uploads/2025/08/ZA-SLD_Takedown_Policy.docx.pdf
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://zarc.web.za/whois-terms-and-conditions
+# Copyright (c) ZARC 1995-2026

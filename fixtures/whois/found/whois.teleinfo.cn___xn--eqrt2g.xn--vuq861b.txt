@@ -1,0 +1,43 @@
+###%%% QRY: xn--eqrt2g.xn--vuq861b
+###%%% SRV: whois.teleinfo.cn
+###%%% TME: 2026-11-22T08:13:35Z
+
+Domain Name: xn--eqrt2g.xn--vuq861b
+Internationalized Domain Name: 域名.信息
+Registry Domain ID: 11217_DOMAIN-BTI
+Registrar WHOIS Server: www.west263.com
+Registrar URL: http://www.west263.com
+Updated Date: 2021-01-26T03:54:00Z
+Creation Date: 2016-06-29T10:41:00Z
+Registry Expiry Date: 2028-06-29T10:41:00Z
+Registrar: Chengdu West Dimension Digital Technology Co., Ltd.
+Registrar IANA ID: 1556
+Registrar Abuse Contact Email: abuse@west.cn
+Registrar Abuse Contact Phone: +86.02862778877
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Country: cn
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.alidns.com
+Name Server: ns2.alidns.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:13:34Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE:The data contained in Beijing Tele-info Network
+Technology Co.  LTD's("TELE-INFO") WhoIs database is provided for the
+sole purpose of assisting you in obtaining information about or
+related to a domain name registration record.  TELE-INFO provides the
+data in accordance with the registration record, but does not
+guarantee its accuracy.  By submitting a WHOIS query, you agree that
+you will use this Data only for lawful purposes and that, under no
+circumstances will you: (1) use electronic processes that are
+automated and high-volume to access or query the Whois database;
+(2)support the transmission of mass unsolicited, commercial
+advertising or solicitations via facsimile, e-mail and telephone.
+Without the prior written consent of TELE-INFO, the compilation,
+repackaging and dissemination of this Data is expressly prohibited.
+TELE-INFO reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy.

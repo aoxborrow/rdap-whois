@@ -1,0 +1,8 @@
+###%%% QRY: notfound-testing-sorry.ax
+###%%% SRV: whois.ax
+###%%% TME: 2025-03-20T18:23:07Z
+
+Domain not found
+
+
+Copyright (c) Ålands Landskapsregering

@@ -1,0 +1,67 @@
+{
+  "query": "ext.politie",
+  "server": "whois.nic.politie",
+  "domainId": "DNM_100740-SIDN",
+  "domainName": "ext.politie",
+  "creationDate": "2019-04-15T10:12:30Z",
+  "expirationDate": "2027-04-15T10:12:30Z",
+  "updatedDate": "2026-04-15T00:15:01Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a1-90.akam.net",
+    "a5-67.akam.net",
+    "a6-67.akam.net",
+    "a9-66.akam.net",
+    "a10-67.akam.net",
+    "a28-67.akam.net",
+    "ns2.kpn.net",
+    "ns4.kpn.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Stichting Internet Domeinregistratie Nederland (Operationeel)",
+  "registrarUrl": "https://www.nic.politie",
+  "registrarAbuseEmail": "support@sidn.nl",
+  "registrarAbusePhone": "+31.0263525555",
+  "registrarWhoisServer": "whois.nic.politie",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Politie",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "NL",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name"
+}

@@ -1,0 +1,41 @@
+{
+  "query": "pairnic.com",
+  "server": "whois.pairnic.com",
+  "domainId": "2806983_DOMAIN_COM-VRSN",
+  "domainName": "pairnic.com",
+  "creationDate": "1998-12-19T05:00:00Z",
+  "expirationDate": "2027-12-19T05:00:00Z",
+  "registrarExpirationDate": "2027-12-19T05:00:00Z",
+  "updatedDate": "2026-11-03T09:49:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "pdns0.den.pair.net",
+    "pdns0.pit.pair.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "99",
+  "registrarIanaId": 99,
+  "registrarName": "Pair Domains",
+  "registrarUrl": "https://pairdomains.com",
+  "registrarAbuseEmail": "abuse@pairdomains.com",
+  "registrarAbusePhone": "+1.4123815195",
+  "registrarWhoisServer": "pairdomains.com",
+  "registrantName": "GDPR Redacted",
+  "registrantOrg": "pair Networks, Inc.",
+  "registrantAddress": [
+    "GDPR Redacted"
+  ],
+  "registrantCity": "GDPR Redacted",
+  "registrantState": "PA",
+  "registrantPostalCode": "GDPR Redacted",
+  "registrantCountry": "US",
+  "registrantPhone": "GDPR Redacted",
+  "registrantFax": "GDPR Redacted",
+  "registrantEmail": "https://whois.pairdomains.com/contact?domain=pairnic.com&type=registrant"
+}

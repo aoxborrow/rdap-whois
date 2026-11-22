@@ -1,0 +1,29 @@
+###%%% QRY: nic.nl
+###%%% SRV: whois.domain-registry.nl
+###%%% TME: 2026-07-16T11:14:27Z
+
+Domain name: nic.nl
+Status:      active
+
+Registrar:
+   Stichting Internet Domeinregistratie Nederland
+   Meander 501
+   6825MD Arnhem
+   Netherlands
+
+Abuse Contact:
+   +31.263525555
+   abuse@sidn.nl
+
+DNSSEC:      yes
+
+Domain nameservers:
+   ns1.sidn.nl
+   ns2.sidn.nl
+   ns3.sidn.nl
+
+Creation Date: 1994-12-31
+
+Updated Date: 2026-05-12
+
+Record maintained by: SIDN BV

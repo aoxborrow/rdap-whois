@@ -1,0 +1,31 @@
+{
+  "query": "nic.web.za",
+  "server": "web-whois.registry.net.za",
+  "domainId": "3b2rgc_DOMAIN-WEB.ZA",
+  "domainName": "nic.web.za",
+  "creationDate": "2014-04-10T13:43:52Z",
+  "expirationDate": "2099-12-31T00:00:00Z",
+  "registrarExpirationDate": "2099-12-31T00:00:00Z",
+  "updatedDate": "2023-11-23T06:30:22Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.coza.net.za",
+    "ns1.dns.net.za"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Raphus Ltd",
+  "registrarUrl": "https://raphus.mu",
+  "registrarAbuseEmail": "abuse@raphus.mu",
+  "registrarAbusePhone": "+27.785112910",
+  "registrantCountry": "ZA",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

@@ -1,0 +1,40 @@
+{
+  "query": "nic.llp",
+  "server": "whois.nic.llp",
+  "domainId": "D344303216-CNIC",
+  "domainName": "nic.llp",
+  "creationDate": "2019-12-05T19:05:30Z",
+  "expirationDate": "2029-12-05T23:59:59Z",
+  "updatedDate": "2025-02-19T15:40:51Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.llp",
+    "b.nic.llp",
+    "c.nic.llp",
+    "d.nic.llp"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Intercap Registry Inc.",
+  "registrarUrl": "https://intercap.inc",
+  "registrarAbuseEmail": "abuse@my.box",
+  "registrarAbusePhone": "+44.123456789",
+  "registrarWhoisServer": "whois.nic.inc",
+  "registrantOrg": "Intercap Registry Inc.",
+  "registrantCountry": "KY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

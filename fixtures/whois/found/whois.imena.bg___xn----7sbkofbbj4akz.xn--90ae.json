@@ -1,0 +1,17 @@
+{
+  "query": "xn----7sbkofbbj4akz.xn--90ae",
+  "server": "whois.imena.bg",
+  "domainName": "казино-игри.бг",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "busy, active"
+  ],
+  "nameservers": [
+    "jonah.ns.cloudflare.com",
+    "mimi.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "inactive"
+}

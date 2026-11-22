@@ -1,0 +1,33 @@
+{
+  "domainName": "hentai.yt",
+  "creationDate": "2015-09-23T09:16:36Z",
+  "expirationDate": "2026-09-23T09:16:36Z",
+  "updatedDate": "2025-02-11T05:51:32Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "jim.ns.cloudflare.com",
+    "zoe.ns.cloudflare.com"
+  ],
+  "registrarName": "TLD Registrar Solutions Ltd",
+  "registrarAddress": [
+    "35-39 Moorgate",
+    "Level 1",
+    "EC2R 6AR London"
+  ],
+  "registrarCountry": "GB",
+  "registrarPhone": "+44.2034357304",
+  "registrarEmail": "admin@tldregistrarsolutions.com",
+  "registrarUrl": "https://internetbs.net/en/domain-name-registrations/price.html?setcurrency=eur",
+  "registrantName": "Ano Nymous",
+  "techName": "TLD Registrar Solutions",
+  "techAddress": [
+    "TLD Registrar Solutions",
+    "Saddlers House 44 Gutter Lane",
+    "EC2V 6BR London"
+  ],
+  "techCountry": "GB",
+  "techPhone": "+44.2033880600",
+  "techEmail": "abuse@tldregistrarsolutions.com"
+}

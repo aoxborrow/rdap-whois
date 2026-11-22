@@ -1,0 +1,34 @@
+{
+  "query": "home.saxo",
+  "server": "whois.nic.saxo",
+  "domainId": "4b927ec3f7d84fed81ae901b81a761b7-DONUTS",
+  "domainName": "home.saxo",
+  "creationDate": "2016-09-14T06:37:22Z",
+  "expirationDate": "2027-09-14T06:37:22Z",
+  "updatedDate": "2026-08-12T00:05:53Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "edns4.ultradns.biz",
+    "edns4.ultradns.com",
+    "edns4.ultradns.net",
+    "edns4.ultradns.org",
+    "ns0106.secondary.cloudflare.com",
+    "ns0219.secondary.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

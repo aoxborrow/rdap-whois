@@ -1,0 +1,20 @@
+###%%% QRY: notfound-testing-sorry.rio
+###%%% SRV: whois.gtlds.nic.br
+###%%% TME: 2025-03-20T16:22:54Z
+
+The queried object does not exist: notfound-testing-sorry.rio
+>>> Last update of WHOIS database: 2025-03-20T16:22:54Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% The queried data can only be used for technical or
+% administrative requirements associated with the Internet
+% or in order to contact the domain or block holder over
+% legal problems, being prohibited the distribution,
+% repackaging, modification, comercialization or
+% reproduction, in particular, to use it for advertising or
+% any similar purpose;
+%
+% Any prohibited use or harvesting, may cause, without
+% previous warning, access restriction, without prejudice
+% of future legal action.

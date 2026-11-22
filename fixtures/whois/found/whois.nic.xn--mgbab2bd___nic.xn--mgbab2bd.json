@@ -1,0 +1,35 @@
+{
+  "query": "nic.xn--mgbab2bd",
+  "server": "whois.nic.xn--mgbab2bd",
+  "domainId": "D10-BAZAAR",
+  "domainName": "nic.xn--mgbab2bd",
+  "creationDate": "2013-11-21T14:36:38Z",
+  "expirationDate": "2026-11-21T14:36:38Z",
+  "updatedDate": "2026-07-07T08:09:57Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "pendingRenew"
+  ],
+  "eppStatusRaw": [
+    "pendingRenew https://icann.org/epp#pendingRenew",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CORE Internal Registrar",
+  "registrarUrl": "http://corehub.net",
+  "registrarAbuseEmail": "secretariat@corenic.org",
+  "registrarAbusePhone": "+41.229295744",
+  "registrarWhoisServer": "whois.nic.xn--mgbab2bd",
+  "registrantOrg": "CORE Association",
+  "registrantState": "Geneva",
+  "registrantCountry": "CH",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

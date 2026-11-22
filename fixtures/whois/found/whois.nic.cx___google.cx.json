@@ -1,0 +1,73 @@
+{
+  "domainId": "447518-CoCCA",
+  "domainName": "google.cx",
+  "creationDate": "2010-07-29T18:15:42Z",
+  "expirationDate": "2025-07-29T18:15:42Z",
+  "registrarExpirationDate": "2025-07-29T18:15:42Z",
+  "updatedDate": "2024-06-27T09:51:04Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor",
+  "registrarAddress": [
+    "1120 S. Rackham Way, Suite 300",
+    "Meridian, Idaho",
+    "83642"
+  ],
+  "registrarCountry": "US",
+  "registrarPhone": "+1.2083895740",
+  "registrarFax": "+1.2083895771",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantId": "1671988-CoCCA",
+  "registrantName": "Domain Administrator",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "1671988-CoCCA",
+  "adminName": "Domain Administrator",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminState": "CA",
+  "adminPostalCode": "94043",
+  "adminPhone": "+1.6502530000",
+  "adminEmail": "dns-admin@google.com",
+  "techId": "1671988-CoCCA",
+  "techName": "Domain Administrator",
+  "techAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "techCity": "Mountain View",
+  "techState": "CA",
+  "techPostalCode": "94043",
+  "techPhone": "+1.6502530000",
+  "techEmail": "dns-admin@google.com"
+}

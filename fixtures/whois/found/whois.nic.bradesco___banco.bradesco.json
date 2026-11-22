@@ -1,0 +1,32 @@
+{
+  "query": "banco.bradesco",
+  "server": "whois.nic.bradesco",
+  "domainId": "bbb2bad0c4bf4c34b1a96aaf62f0fa9f-DONUTS",
+  "domainName": "banco.bradesco",
+  "creationDate": "2015-09-28T17:40:23Z",
+  "expirationDate": "2027-09-28T17:40:23Z",
+  "updatedDate": "2026-09-27T05:03:20Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1-60.akam.net",
+    "a7-65.akam.net",
+    "a13-65.akam.net",
+    "a18-66.akam.net",
+    "a22-67.akam.net",
+    "a28-64.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

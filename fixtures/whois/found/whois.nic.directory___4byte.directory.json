@@ -1,0 +1,73 @@
+{
+  "query": "4byte.directory",
+  "server": "whois.nic.directory",
+  "domainId": "f12fa1e529624d8d98f089e4a88e1321-DONUTS",
+  "domainName": "4byte.directory",
+  "creationDate": "2016-07-08T04:56:33Z",
+  "expirationDate": "2025-07-08T04:56:33Z",
+  "updatedDate": "2024-07-15T11:35:36Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "rihana.ns.cloudflare.com",
+    "zod.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "895",
+  "registrarIanaId": 895,
+  "registrarName": "Squarespace Domains II LLC",
+  "registrarAbuseEmail": "abuse-complaints@squarespace.com",
+  "registrarAbusePhone": "+1.6466935324",
+  "registrarWhoisServer": "whois.donuts.co",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "bitfly explorer gmbh",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "AT",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

@@ -1,0 +1,81 @@
+{
+  "query": "nic.kaufen",
+  "server": "whois.nic.kaufen",
+  "domainId": "de7ccee3172445028cdc45487f09b9a5-DONUTS",
+  "domainName": "nic.kaufen",
+  "creationDate": "2013-11-13T23:17:14Z",
+  "expirationDate": "2025-11-13T23:17:14Z",
+  "updatedDate": "2024-12-28T23:18:04Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.kaufen",
+    "v0n1.nic.kaufen",
+    "v0n2.nic.kaufen",
+    "v0n3.nic.kaufen",
+    "v2n0.nic.kaufen",
+    "v2n1.nic.kaufen"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Rightside Registry",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Dublin 2",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "IE",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

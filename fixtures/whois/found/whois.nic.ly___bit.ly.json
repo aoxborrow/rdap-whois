@@ -1,0 +1,43 @@
+{
+  "query": "bit.ly",
+  "server": "whois.nic.ly",
+  "domainId": "24501-CoCCA",
+  "domainName": "bit.ly",
+  "creationDate": "2008-05-17T22:00:00Z",
+  "expirationDate": "2032-05-17T22:00:00Z",
+  "registrarExpirationDate": "2032-05-17T22:00:00Z",
+  "updatedDate": "2022-04-18T03:12:18Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-705.awsdns-24.net",
+    "ns-1372.awsdns-43.org",
+    "ns-cloud-c1.googledomains.com",
+    "ns-cloud-c2.googledomains.com",
+    "ns-cloud-c3.googledomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Libyan Spider Network (int)",
+  "registrarAbuseEmail": "abuse@register.ly",
+  "registrarAbusePhone": "+18448469791",
+  "registrantId": "13427-CoCCA",
+  "registrantName": "bitly operations",
+  "registrantAddress": [
+    "DPT 5006"
+  ],
+  "registrantCity": "New York",
+  "registrantState": "NY",
+  "registrantPostalCode": "10001",
+  "registrantCountry": "US",
+  "registrantPhone": "16465254078",
+  "registrantEmail": "hostmaster@bit.ly"
+}

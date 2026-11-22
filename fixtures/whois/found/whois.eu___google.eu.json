@@ -1,0 +1,14 @@
+{
+  "query": "google.eu",
+  "server": "whois.eu",
+  "domainName": "google.eu",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor Inc.",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrantName": "NOT DISCLOSED!"
+}

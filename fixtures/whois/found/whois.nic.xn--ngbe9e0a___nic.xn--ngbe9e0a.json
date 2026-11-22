@@ -1,0 +1,86 @@
+{
+  "query": "nic.xn--ngbe9e0a",
+  "server": "whois.nic.xn--ngbe9e0a",
+  "domainId": "DO_13e77270680e97ff493b45a8202c3cb0-KFH",
+  "domainName": "nic.xn--ngbe9e0a",
+  "creationDate": "2026-02-26T14:38:18Z",
+  "expirationDate": "2036-02-26T14:38:18Z",
+  "updatedDate": "2026-02-26T15:47:54Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Kuwait Finance House",
+  "registrarUrl": "https://www.kfh.com",
+  "registrarAbuseEmail": "majeed@kfh.com",
+  "registrarAbusePhone": "+965.24966400",
+  "registrarWhoisServer": "whois.registry.kfh",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Kuwait Finance House",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Kuwait",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "KW",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingId": "REDACTED FOR PRIVACY",
+  "billingName": "REDACTED FOR PRIVACY",
+  "billingOrg": "REDACTED FOR PRIVACY",
+  "billingAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "billingCity": "REDACTED FOR PRIVACY",
+  "billingState": "REDACTED FOR PRIVACY",
+  "billingPostalCode": "REDACTED FOR PRIVACY",
+  "billingCountry": "REDACTED FOR PRIVACY",
+  "billingPhone": "REDACTED FOR PRIVACY",
+  "billingFax": "REDACTED FOR PRIVACY",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

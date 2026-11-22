@@ -1,0 +1,36 @@
+{
+  "query": "nic.visa",
+  "server": "whois.nic.visa",
+  "domainId": "f0d35ed7b8f14ab0ac83a0c26e995852-DONUTS",
+  "domainName": "nic.visa",
+  "creationDate": "2023-09-29T19:31:30Z",
+  "expirationDate": "2027-09-29T19:31:30Z",
+  "updatedDate": "2026-11-13T19:31:36Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.visa",
+    "v0n1.nic.visa",
+    "v0n2.nic.visa",
+    "v0n3.nic.visa",
+    "v2n0.nic.visa",
+    "v2n1.nic.visa"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

@@ -1,0 +1,12 @@
+{
+  "query": "999.md",
+  "server": "whois.nic.md",
+  "domainName": "999.md",
+  "creationDate": "1999-12-05T00:00:00Z",
+  "expirationDate": "2027-12-05T00:00:00Z",
+  "nameservers": [
+    "pdns03.domaincontrol.com",
+    "pdns04.domaincontrol.com"
+  ],
+  "registrarName": "HOST.MD"
+}

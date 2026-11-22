@@ -1,0 +1,5 @@
+# built/installed oracle artifacts — the sources + lockfiles are committed, the
+# toolchain outputs are not
+likexian/likexian-oracle
+weppos/vendor/
+weppos/.bundle/

@@ -1,0 +1,41 @@
+###%%% QRY: milliyet.com.tr
+###%%% SRV: whois.trabis.gov.tr
+###%%% TME: 2026-07-16T11:45:33Z
+
+** Domain Name: milliyet.com.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer.
+
+** Registrant:
+Milliyet Gazetecilik ve Yayıncılık Anonim Şirketi
+Hidden upon user request
+Hidden upon user request
+Hidden upon user request
+Hidden upon user request
+
+
+** Registrar:
+NIC Handle  : ogv40
+Organization Name : ODTÜ GELİŞTİRME VAKFI BİLGİ TEKNOLOJİLERİ SAN. VE TİC. A.Ş.
+Address   : Mustafa Kemal Mahallesi Dumlupınar Bulvarı
+     No:280G/1104 Çankaya
+     06800 Ankara Türkiye
+Phone   : 90-312-9881106-
+Fax   : - 
+
+
+** Domain Servers:
+ns-98.awsdns-12.com
+ns-1504.awsdns-60.org
+ns-766.awsdns-31.net
+ns-1815.awsdns-34.co.uk
+
+
+** Additional Info:
+Created on..............: 1996-Oct-15.
+Expires on..............: 2029-Oct-14.
+
+
+** Whois Server:
+Last Update Time: 2026-07-16T14:31:42+03:00

@@ -1,0 +1,47 @@
+###%%% QRY: crackstreams.cx
+###%%% SRV: whois.nic.cx
+###%%% TME: 2026-07-16T11:40:51Z
+
+Domain Name: crackstreams.cx
+Registry Domain ID: 2032281-CoCCA
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2025-08-29T16:54:09Z
+Creation Date: 2024-09-09T19:51:14Z
+Registry Expiry Date: 2028-09-09T19:51:17Z
+Registrar Registration Expiration Date: 2028-09-09T19:51:17Z
+Registrar: MarkMonitor
+Registrar Street Address: 1120 S. Rackham Way, Suite 300
+Registrar City: Meridian
+Registrar State: Idaho
+Registrar Postal Code: 83642
+Registrar Country: US
+Registrar Phone: +1.2083895740
+Registrar Fax: +1.2083895771
+Registrar Email: ccops@markmonitor.com
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 1938851-CoCCA
+Registrant Name: Domain Admin
+Registrant Street: 15301 Ventura Blvd.
+Registrant City: Sherman Oaks
+Registrant State/Province: CA
+Registrant Postal Code: 91403
+Registrant Country: US
+Registrant Email: dns_admin@motionpictures.org
+Registrant Phone: +1.8189956600
+Name Server: ns4.films.org
+Name Server: ns3.films.org
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T11:33:22.064Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our Whois database through the use of electronic processes that are high-volume and automated. Whois database is provided by Christmas Island Domain Administration Limited ("cxDA").
+
+cxDA makes every effort to maintain the completeness and accuracy of the Whois data, but cannot guarantee that the results are error-free. Therefore, any data provided through the Whois service are on an "as is" basis without any warranties. BY USING THE WHOIS SERVICE AND THE DATA CONTAINED HEREIN OR IN ANY REPORT GENERATED WITH RESPECT THERETO, IT IS ACCEPTED THAT CIIA IS NOT LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF, OR IN CONNECTION WITH, THE REPORT OR THE INFORMATION PROVIDED BY THE WHOIS SERVICE, NOR OMISSIONS OR MISSING INFORMATION. THE RESULTS OF ANY WHOIS REPORT OR INFORMATION PROVIDED BY THE WHOIS SERVICE CANNOT BE RELIED UPON IN CONTEMPLATION OF LEGAL PROCEEDINGS WITHOUT FURTHER VERIFICATION, NOR DO SUCH RESULTS CONSTITUTE A LEGAL OPINION. Acceptance of the results of the Whois constitutes acceptance of these terms, conditions and limitations. Whois data may be requested only for lawful purposes, in particular, to protect legal rights and obligations. Illegitimate uses of Whois data include, but are not limited to, unsolicited email, data mining, direct marketing or any other improper purpose. Any request made for Whois data will be documented by cxDA but will not be used for any commercial purpose whatsoever. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+© 2021 cxDA All rights reserved.

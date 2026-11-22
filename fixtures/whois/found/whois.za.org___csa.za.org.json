@@ -1,0 +1,41 @@
+{
+  "query": "csa.za.org",
+  "server": "whois.za.org",
+  "domainName": "csa.za.org",
+  "creationDate": "2000-11-05T14:03:48Z",
+  "updatedDate": "2005-08-15T12:15:10Z",
+  "nameservers": [
+    "blade.wcic.co.za",
+    "ns2.iafrica.com",
+    "sabertooth.wcic.co.za"
+  ],
+  "registrantName": "W&C Information Consultants CC",
+  "registrantAddress": [
+    "No 4 Botano Bldg"
+  ],
+  "registrantCity": "Centurion",
+  "registrantPostalCode": "0046",
+  "registrantCountry": "South Africa",
+  "adminName": "Willo van der Merwe  <hostmaster@wcic.co.za>",
+  "adminOrg": "W&C Information Consultants CC",
+  "adminAddress": [
+    "No 4 Botano Bldg"
+  ],
+  "adminCity": "Centurion",
+  "adminState": "Gauteng",
+  "adminPostalCode": "0046",
+  "adminCountry": "South Africa",
+  "adminPhone": "+27 12 643 0288",
+  "adminEmail": "hostmaster@wcic.co.za",
+  "techName": "Willo van der Merwe  <hostmaster@wcic.co.za>",
+  "techOrg": "W&C Information Consultants CC",
+  "techAddress": [
+    "No 4 Botano Bldg"
+  ],
+  "techCity": "Centurion",
+  "techState": "Gauteng",
+  "techPostalCode": "0046",
+  "techCountry": "South Africa",
+  "techPhone": "+27 12 643 0288",
+  "techEmail": "hostmaster@wcic.co.za"
+}

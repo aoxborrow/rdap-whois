@@ -1,0 +1,37 @@
+###%%% QRY: mschannel.durban
+###%%% SRV: whois.nic.durban
+###%%% TME: 2026-07-16T23:30:31Z
+
+Domain Name: mschannel.durban
+Registry Domain ID: hwgbq_DOMAIN-DURBAN
+Registrar WHOIS Server: 
+Registrar URL: https://opensrs.com
+Updated Date: 2026-01-22T10:59:41Z
+Creation Date: 2025-02-22T03:58:23Z
+Registry Expiry Date: 2027-02-22T03:58:23Z
+Registrar Registration Expiration Date: 2027-02-22T03:58:23Z
+Registrar: Open SRS
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: nicrelations@opensrs.com
+Registrar Abuse Contact Phone: +49.2283296859
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Individual
+Registrant Country: MM
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: da1200a.trouble-free.net
+Name Server: da1200b.trouble-free.net
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:30:33Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Policies and Procedures: https://zacities.africa/policies/
+# The use of this Whois facility is subject to the following terms and
+# conditions: https://zacities.africa/whois-terms-and-conditions/
+# Copyright ZACR (NPC) 1995-2026

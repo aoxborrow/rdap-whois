@@ -1,0 +1,60 @@
+###%%% QRY: register.com
+###%%% SRV: whois.register.com
+###%%% TME: 2026-11-22T08:15:04Z
+
+Domain Name: register.com
+Registry Domain ID: 3441369_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.register.com
+Registrar URL: http://www.register.com
+Updated Date: 2020-12-02T11:04:19Z
+Creation Date: 1994-11-01T05:00:00Z
+Registrar Registration Expiration Date: 2028-08-04T14:10:18Z
+Registrar: Register.com, Inc.
+Registrar IANA ID: 009
+Reseller: 
+Domain Status: clientTransferProhibited http://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Registrar
+Registrant Organization: 
+Registrant Street: 575 8th Avenue
+Registrant City: New York
+Registrant State/Province: NY
+Registrant Postal Code: 10018
+Registrant Country: US
+Registrant Phone: +1.9027492701
+Registrant Phone Ext.: 
+Registrant Fax: 
+Registrant Fax Ext.: 
+Registrant Email: domainregistrar@register.com
+Registry Tech ID: 
+Tech Name: Domain Registrar
+Tech Phone: +1.9027492701
+Tech Email: domainregistrar@register.com
+Name Server: rex.ns.cloudflare.com
+Name Server: heidi.ns.cloudflare.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:15:04Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+The data in Register.com's WHOIS database is provided to you by
+Register.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Register.com makes this information available "as is," and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Register.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Register.com.
+Register.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

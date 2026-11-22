@@ -1,0 +1,33 @@
+{
+  "query": "qlivecdn.com",
+  "server": "whois.dnspod.cn",
+  "domainId": "2690565752_DOMAIN_COM-VRSN",
+  "domainName": "qlivecdn.com",
+  "creationDate": "2022-04-20T03:28:14Z",
+  "expirationDate": "2029-04-20T03:28:14Z",
+  "updatedDate": "2024-09-11T09:24:06Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns3.dnsv5.com",
+    "ns4.dnsv5.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1697",
+  "registrarIanaId": 1697,
+  "registrarName": "DNSPod, Inc.",
+  "registrarUrl": "https://www.dnspod.com",
+  "registrarAbuseEmail": "dnsabuse@tencent.com",
+  "registrarAbusePhone": "+86.4009100100",
+  "registrarWhoisServer": "whois.dnspod.com",
+  "registrantId": "Not Available From Registry",
+  "registrantCountry": "CN",
+  "registrantEmail": "Select Contact Domain Holder link at https://whois.cloud.tencent.com/domain?domain=qlivecdn.com"
+}

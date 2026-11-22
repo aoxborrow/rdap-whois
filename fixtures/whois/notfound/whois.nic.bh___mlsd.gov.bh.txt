@@ -1,0 +1,5 @@
+###%%% QRY: mlsd.gov.bh
+###%%% SRV: whois.nic.bh
+###%%% TME: 2025-03-20T13:41:32Z
+
+The queried object does not exist: DOMAIN NOT FOUND

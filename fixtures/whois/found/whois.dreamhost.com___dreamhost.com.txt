@@ -1,0 +1,64 @@
+###%%% QRY: dreamhost.com
+###%%% SRV: whois.dreamhost.com
+###%%% TME: 2026-11-22T08:13:56Z
+
+Domain Name: dreamhost.com
+Registry Domain ID: 494018_DOMAIN_COM-VRSN
+Registrar WHOIS Server: WHOIS.DREAMHOST.COM
+Registrar URL: WWW.DREAMHOST.COM
+Updated Date: 2026-08-21T11:32:53.00Z
+Creation Date: 1997-09-22T21:00:00.00Z
+Registrar Registration Expiration Date: 2027-09-22T04:00:00.00Z
+Registrar: DREAMHOST
+Registrar IANA ID: 431
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registrant Name: Proxy Protection LLC
+Registrant Organization: Proxy Protection LLC
+Registrant Street: 417 Associated Rd #327
+Registrant Street: C/O dreamhost.com
+Registrant City: Brea
+Registrant State/Province: CA
+Registrant Postal Code: 92821
+Registrant Country: US
+Registrant Phone: +1.7147064182
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Email: yw3gazmc77btmtf@proxy.dreamhost.com
+Admin Name: Proxy Protection LLC
+Admin Organization: Proxy Protection LLC
+Admin Street: 417 Associated Rd #327
+Admin Street: C/O dreamhost.com
+Admin City: Brea
+Admin State/Province: CA
+Admin Postal Code: 92821
+Admin Country: US
+Admin Phone: +1.7147064182
+Admin Phone Ext: 
+Admin Fax: 
+Admin Email: yw3gazmc77btmtf@proxy.dreamhost.com
+Tech Name: Proxy Protection LLC
+Tech Organization: Proxy Protection LLC
+Tech Street: 417 Associated Rd #327
+Tech Street: C/O dreamhost.com
+Tech City: Brea
+Tech State/Province: CA
+Tech Postal Code: 92821
+Tech Country: US
+Tech Phone: +1.7147064182
+Tech Phone Ext: 
+Tech Fax: 
+Tech Email: yw3gazmc77btmtf@proxy.dreamhost.com
+Name Server: NS1.DREAMHOST.COM
+Name Server: NS2.DREAMHOST.COM
+Name Server: NS3.DREAMHOST.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: DOMAIN-ABUSE@DREAMHOST.COM
+Registrar Abuse Contact Phone: +1.7148729370
+URL of the ICANN WHOIS Data Problem Reporting System: HTTPS://ICANN.ORG/WICF
+>>> Last update of WHOIS database: 2026-11-22T08:13:55.00Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+DreamHost whois server terms of service: http://whois.dreamhost.com/
+
+DreamHost is a global Web hosting and cloud services provider with over 375,000 customers and 1.2 million blogs, websites and apps hosted. The company offers a wide spectrum of Web hosting and cloud services including Shared Hosting, Virtual Private Servers (VPS), Dedicated Server Hosting, Domain Name Registration, the cloud storage service, DreamObjects, and the cloud computing service DreamCompute. Please visit http://DreamHost.com for more information.

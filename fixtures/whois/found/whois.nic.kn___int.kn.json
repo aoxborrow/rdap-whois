@@ -1,0 +1,27 @@
+{
+  "query": "int.kn",
+  "server": "whois.nic.kn",
+  "domainId": "1734-knNIC",
+  "domainName": "int.kn",
+  "creationDate": "2008-05-23T04:00:00Z",
+  "expirationDate": "2028-02-29T00:00:00Z",
+  "registrarExpirationDate": "2028-02-29T00:00:00Z",
+  "updatedDate": "2025-02-10T14:51:27Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns9.managed-ip.com",
+    "ns10.managed-ip.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "KN NIC Registrar",
+  "registrarAddress": [
+    "Adviser of National ICT Center, National ICT Center, No. 3 C.A. Paul Southwell Industrial Site, Saint Kitts And Nevis"
+  ],
+  "registrarEmail": "hostmaster@nic.kn"
+}

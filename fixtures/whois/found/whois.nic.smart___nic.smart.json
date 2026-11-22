@@ -1,0 +1,58 @@
+{
+  "query": "nic.smart",
+  "server": "whois.nic.smart",
+  "domainId": "D61910224-CNIC",
+  "domainName": "nic.smart",
+  "creationDate": "2015-03-30T00:00:00Z",
+  "expirationDate": "2027-03-30T23:59:59Z",
+  "updatedDate": "2026-03-24T00:06:15Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.smart",
+    "b.nic.smart",
+    "c.nic.smart",
+    "d.nic.smart"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CentralNic Ltd",
+  "registrarUrl": "https://www.centralnic.com",
+  "registrarAbuseEmail": "ops@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.centralnic.com",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "CentralNic Ltd",
+  "registrantAddress": [
+    "35-39 Moorgate"
+  ],
+  "registrantCity": "London",
+  "registrantPostalCode": "EC2R 6AR",
+  "registrantCountry": "GB",
+  "registrantPhone": "+44.2033880600",
+  "registrantFax": "+44.2033880601",
+  "registrantEmail": "domains@centralnic.com",
+  "techName": "Domain Administrator",
+  "techOrg": "CentralNic Ltd",
+  "techAddress": [
+    "35-39 Moorgate"
+  ],
+  "techCity": "London",
+  "techPostalCode": "EC2R 6AR",
+  "techCountry": "GB",
+  "techPhone": "+44.2033880600",
+  "techFax": "+44.2033880601",
+  "techEmail": "domains@centralnic.com"
+}

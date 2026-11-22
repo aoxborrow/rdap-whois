@@ -1,0 +1,53 @@
+{
+  "query": "galaxy.tf",
+  "server": "whois.nic.tf",
+  "domainName": "galaxy.tf",
+  "creationDate": "2013-06-24T18:41:38Z",
+  "expirationDate": "2027-06-24T18:41:38Z",
+  "updatedDate": "2026-07-31T22:00:52Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE",
+    "active"
+  ],
+  "nameservers": [
+    "ns-300.awsdns-37.com",
+    "ns-905.awsdns-49.net",
+    "ns-1492.awsdns-58.org",
+    "ns-1602.awsdns-08.co.uk"
+  ],
+  "registrarName": "OVH",
+  "registrarAddress": [
+    "2 Rue Kellermann",
+    "59100 ROUBAIX"
+  ],
+  "registrarCountry": "FR",
+  "registrarPhone": "+33.899701761",
+  "registrarFax": "+33.320200958",
+  "registrarEmail": "support@ovh.net",
+  "registrarUrl": "http://www.ovh.com",
+  "registrantId": "ANO00-FRNIC",
+  "registrantName": "Ano Nymous",
+  "adminId": "X7110-FRNIC",
+  "adminName": "xo7",
+  "adminAddress": [
+    "xo7",
+    "157 Bd Macdonald",
+    "75019 Paris"
+  ],
+  "adminCountry": "FR",
+  "adminPhone": "+33.620802138",
+  "adminEmail": "5iwjopadnk7uujuy0bss@b.o-w-o.info",
+  "techId": "OVH5-FRNIC",
+  "techName": "OVH NET",
+  "techAddress": [
+    "OVH",
+    "140, quai du Sartel",
+    "59100 Roubaix"
+  ],
+  "techCountry": "FR",
+  "techPhone": "+33.899701761",
+  "techEmail": "tech@ovh.net"
+}

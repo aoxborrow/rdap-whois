@@ -1,0 +1,17 @@
+{
+  "domainName": "clean.gg",
+  "creationDate": "2018-04-01T04:14:07Z",
+  "status": [
+    "active",
+    "transferProhibitedByRegistrar"
+  ],
+  "nameservers": [
+    "awsdns-18.com",
+    "awsdns-31.co.uk",
+    "awsdns-35.org",
+    "awsdns-46.net"
+  ],
+  "registrarName": "NameCheap, Inc (https://www.namecheap.com)",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrantName": "Clean.io Inc."
+}

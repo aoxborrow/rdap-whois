@@ -1,0 +1,66 @@
+{
+  "query": "fb.audio",
+  "server": "whois.registrarsec.com",
+  "domainName": "fb.audio",
+  "creationDate": "2017-02-24T16:54:59Z",
+  "expirationDate": "2027-02-24T23:59:59Z",
+  "registrarExpirationDate": "2027-02-24T23:59:59Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.ns.facebook.com",
+    "b.ns.facebook.com",
+    "c.ns.facebook.com",
+    "d.ns.facebook.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned Delegation",
+  "registrarId": "2475",
+  "registrarIanaId": 2475,
+  "registrarName": "RegistrarSEC, LLC",
+  "registrarUrl": "https://www.registrarsec.com",
+  "registrarAbuseEmail": "abusecomplaints@registrarsec.com",
+  "registrarAbusePhone": "+1.6503087004",
+  "registrarWhoisServer": "whois.registrarsec.com",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Meta Platforms, Inc.",
+  "registrantAddress": [
+    "1601 Willow Rd"
+  ],
+  "registrantCity": "Menlo Park",
+  "registrantState": "CA",
+  "registrantPostalCode": "94025",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505434800",
+  "registrantEmail": "domain@fb.com",
+  "adminName": "Domain Admin",
+  "adminOrg": "Meta Platforms, Inc.",
+  "adminAddress": [
+    "1601 Willow Rd"
+  ],
+  "adminCity": "Menlo Park",
+  "adminState": "CA",
+  "adminPostalCode": "94025",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505434800",
+  "adminEmail": "domain@fb.com",
+  "techName": "Domain Admin",
+  "techOrg": "Meta Platforms, Inc.",
+  "techAddress": [
+    "1601 Willow Rd"
+  ],
+  "techCity": "Menlo Park",
+  "techState": "CA",
+  "techPostalCode": "94025",
+  "techCountry": "US",
+  "techPhone": "+1.6505434800",
+  "techEmail": "domain@fb.com"
+}

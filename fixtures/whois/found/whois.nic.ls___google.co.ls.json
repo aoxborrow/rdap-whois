@@ -1,0 +1,18 @@
+{
+  "query": "google.co.ls",
+  "server": "whois.nic.ls",
+  "domainName": "google.co.ls",
+  "creationDate": "2017-07-03T12:54:23Z",
+  "expirationDate": "2027-05-30T00:00:00Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "REG-LEO",
+  "registrantId": "ADMIN-LEO",
+  "registrantName": "ADMIN-LEO",
+  "adminId": "ADMIN-LEO",
+  "techId": "TECH-LEO"
+}

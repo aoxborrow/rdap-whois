@@ -1,0 +1,49 @@
+###%%% QRY: sbb.rs
+###%%% SRV: whois.rnids.rs
+###%%% TME: 2026-07-16T11:45:17Z
+
+% The data in the Whois database are provided by RNIDS
+% for information purposes only and to assist persons in obtaining
+% information about or related to a domain name registration record. 
+% Data in the database are created by registrants and we do not guarantee 
+% their accuracy. We reserve the right to remove access 
+% for entities abusing the data, without notice.
+% All timestamps are given in Serbian local time. 
+%
+Domain name: sbb.rs
+Domain status: Active https://www.rnids.rs/en/domain-name-status-codes#Active
+Registration date: 10.03.2008 12:00:00
+Modification date: 20.05.2025 17:32:00
+Expiration date: 10.03.2028 12:00:00
+Confirmed: 10.03.2008 12:00:00
+Registrar: Mainstream Public Cloud Services d.o.o.
+
+
+Registrant: SERBIA BROADBAND - SRPSKE KABLOVSKE MREZE D.O.O.
+Address: Bulevar Peka Dapcevica 19, Beograd, Serbia
+Postal Code: 11000
+ID Number: 17280554
+Tax ID: 101038731
+
+Administrative contact: SERBIA BROADBAND - SRPSKE KABLOVSKE MREZE D.O.O.
+Address: Bulevar Peka Dapcevica 19, Beograd, Serbia
+Postal Code: 11000
+ID Number: 17280554
+Tax ID: 101038731
+
+Technical contact: SERBIA BROADBAND - SRPSKE KABLOVSKE MREZE D.O.O.
+Address: Bulevar Peka Dapcevica 19, Beograd, Serbia
+Postal Code: 11000
+ID Number: 17280554
+Tax ID: 101038731
+
+
+DNS: dns1.sbb.rs - 82.117.194.2
+DNS: dns2.sbb.rs - 89.216.1.1
+DNS: dns3.sbb.rs - 82.117.194.3
+DNS: dns4.sbb.rs - 89.216.1.2
+
+
+DNSSEC signed: no
+
+Whois Timestamp: 16.07.2026 13:45:18

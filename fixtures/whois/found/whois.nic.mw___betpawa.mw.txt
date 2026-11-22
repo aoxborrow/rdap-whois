@@ -1,0 +1,63 @@
+###%%% QRY: betpawa.mw
+###%%% SRV: whois.nic.mw
+###%%% TME: 2026-07-16T11:42:34Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+% Timestamp: Thu Jul 16 13:42:35 2026
+
+domain:       betpawa.mw
+registrant:   MCRC456656
+admin-c:      MCRC0000
+nsset:        MCRNS116040
+registrar:    MARCARIA-REG
+registered:   30.08.2017 23:51:58
+changed:      02.04.2026 13:05:13
+expire:       30.08.2026
+
+contact:      MCRC456656
+org:          PAWATECH GULF IP - FZCO
+name:         PAWATECH GULF IP - FZCO
+address:      IFZA Business Park, Premises Number DDP, Makani Number A1 – 3641379065
+address:      Dubai
+address:      77531 – 001
+address:      Dubai
+address:      AE
+phone:        +1.3054348621
+e-mail:       domains@marcaria.com
+registrar:    MARCARIA-REG
+created:      02.04.2026 13:01:11
+
+contact:      MCRC0000
+org:          Marcaria.com LLC
+name:         Francisco Fuentealba
+address:      1915 Brickell Av. #1112
+address:      Miami
+address:      33166
+address:      Florida
+address:      US
+phone:        +1.3054348621
+e-mail:       domains@marcaria.com
+registrar:    MARCARIA-REG
+created:      24.03.2017 22:33:16
+
+nsset:        MCRNS116040
+nserver:      damian.ns.cloudflare.com 
+nserver:      isla.ns.cloudflare.com 
+tech-c:       MCRC261585
+registrar:    MARCARIA-REG
+created:      18.05.2022 15:27:23
+
+contact:      MCRC261585
+org:          Nanovas Limited
+name:         Domain Manager
+address:      Suite 202, Sham Peng Tong Plaza
+address:      Victoria
+address:      361
+address:      Mahe
+address:      SC
+phone:        +1.3054348621
+e-mail:       domains@marcaria.com
+registrar:    MARCARIA-REG
+created:      30.08.2017 23:51:45

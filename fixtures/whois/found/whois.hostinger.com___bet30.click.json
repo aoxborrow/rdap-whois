@@ -1,0 +1,67 @@
+{
+  "query": "bet30.click",
+  "server": "whois.hostinger.com",
+  "domainId": "Not Available From Registry",
+  "domainName": "bet30.click",
+  "creationDate": "2024-08-09T22:50:47Z",
+  "expirationDate": "2025-08-09T22:50:47Z",
+  "registrarExpirationDate": "2025-08-09T22:50:47Z",
+  "updatedDate": "2024-10-09T02:17:57Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-453.awsdns-56.com",
+    "ns-736.awsdns-28.net",
+    "ns-1517.awsdns-61.org",
+    "ns-1643.awsdns-13.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1636",
+  "registrarIanaId": 1636,
+  "registrarName": "Hostinger Operations, UAB",
+  "registrarUrl": "https://www.hostinger.com",
+  "registrarAbuseEmail": "abuse@hostinger.com",
+  "registrarAbusePhone": "+37064503378",
+  "registrarWhoisServer": "whois.hostinger.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Privacy Protect, LLC (PrivacyProtect.org)",
+  "registrantAddress": [
+    "10 Corporate Drive"
+  ],
+  "registrantCity": "Burlington",
+  "registrantState": "MA",
+  "registrantPostalCode": "01803",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.8022274003",
+  "registrantEmail": "contact@privacyprotect.org",
+  "adminId": "Not Available From Registry",
+  "adminName": "Domain Admin",
+  "adminOrg": "Privacy Protect, LLC (PrivacyProtect.org)",
+  "adminAddress": [
+    "10 Corporate Drive"
+  ],
+  "adminCity": "Burlington",
+  "adminState": "MA",
+  "adminPostalCode": "01803",
+  "adminCountry": "US",
+  "adminPhone": "+1.8022274003",
+  "adminEmail": "contact@privacyprotect.org",
+  "techId": "Not Available From Registry",
+  "techName": "Domain Admin",
+  "techOrg": "Privacy Protect, LLC (PrivacyProtect.org)",
+  "techAddress": [
+    "10 Corporate Drive"
+  ],
+  "techCity": "Burlington",
+  "techState": "MA",
+  "techPostalCode": "01803",
+  "techCountry": "US",
+  "techPhone": "+1.8022274003",
+  "techEmail": "contact@privacyprotect.org"
+}

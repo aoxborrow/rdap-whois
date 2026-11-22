@@ -1,0 +1,46 @@
+{
+  "query": "ehu.eus",
+  "server": "whois.dinahosting.com",
+  "domainId": "991-D",
+  "domainName": "ehu.eus",
+  "creationDate": "2014-11-25T17:26:56Z",
+  "expirationDate": "2027-11-25T17:26:56Z",
+  "registrarExpirationDate": "2027-11-25T17:26:56Z",
+  "updatedDate": "2026-11-13T14:12:28Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok (http://www.icann.org/epp#ok)"
+  ],
+  "nameservers": [
+    "chico.rediris.es",
+    "dns1.ehu.es",
+    "dns2.ehu.es",
+    "sun.rediris.es"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1262",
+  "registrarIanaId": 1262,
+  "registrarName": "Dinahosting s.l.",
+  "registrarUrl": "http://dinahosting.com",
+  "registrarAbuseEmail": "abuse@dinahosting.com",
+  "registrarAbusePhone": "+34.981040200",
+  "registrarWhoisServer": "whois.dinahosting.com",
+  "registrantId": "DHCEk-1587537414",
+  "registrantName": "Nekane Zaldua Legorburu",
+  "registrantAddress": [
+    "Barrio Sarriena sn"
+  ],
+  "registrantCity": "Leioa",
+  "registrantState": "Vizcaya",
+  "registrantPostalCode": "48940",
+  "registrantCountry": "ES",
+  "registrantPhone": "+34.946012093",
+  "registrantEmail": "jorge.tomas@ehu.es",
+  "techId": "DHCEk-1525619562",
+  "techName": "Jorge Tomás Guerra",
+  "techPhone": "+34.946012093",
+  "techEmail": "jorge.tomas@ehu.eus"
+}

@@ -1,0 +1,28 @@
+{
+  "query": "porno.vegas",
+  "server": "whois.nic.vegas",
+  "domainId": "REDACTED",
+  "domainName": "porno.vegas",
+  "creationDate": "2022-08-10T17:13:57Z",
+  "expirationDate": "2027-08-10T17:13:57Z",
+  "updatedDate": "2026-09-24T17:14:18Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns1.registrar-servers.com",
+    "dns2.registrar-servers.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

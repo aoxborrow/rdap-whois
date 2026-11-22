@@ -1,0 +1,30 @@
+{
+  "query": "engageapps.jio",
+  "server": "whois.nic.jio",
+  "domainId": "REDACTED",
+  "domainName": "engageapps.jio",
+  "creationDate": "2020-10-13T08:54:41Z",
+  "expirationDate": "2027-10-13T08:54:41Z",
+  "updatedDate": "2026-09-06T05:02:22Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-cloud-d1.googledomains.com",
+    "ns-cloud-d2.googledomains.com",
+    "ns-cloud-d3.googledomains.com",
+    "ns-cloud-d4.googledomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1609",
+  "registrarIanaId": 1609,
+  "registrarName": "Synergy Wholesale Accreditations Pty Ltd",
+  "registrarUrl": "https://synergywholesale.com",
+  "registrarAbuseEmail": "registry-abuse@nexigen.digital",
+  "registrarAbusePhone": "+61.383999483",
+  "registrarWhoisServer": "whois.synergywholesale.com"
+}

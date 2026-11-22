@@ -1,0 +1,51 @@
+{
+  "query": "nic.catholic",
+  "server": "whois.nic.catholic",
+  "domainId": "DF7AB8B5B41D946E7A7CF866C2AE82E02-ARI",
+  "domainName": "nic.catholic",
+  "creationDate": "2015-02-17T01:11:29Z",
+  "expirationDate": "2027-02-17T01:11:29Z",
+  "updatedDate": "2026-11-12T06:03:30Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.catholic",
+    "b.nic.catholic",
+    "c.nic.catholic",
+    "d.nic.catholic"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)",
+  "registrarWhoisServer": "not applicable",
+  "registrantId": "C2C05034B50A64AE196995383A171624E-NSR",
+  "registrantName": "DotCatholic Office",
+  "registrantOrg": "Secretariat for Communications",
+  "registrantAddress": [
+    "Piazza Pia, 3"
+  ],
+  "registrantCity": "Citta del Vaticano",
+  "registrantPostalCode": "00120",
+  "registrantCountry": "va",
+  "registrantEmail": "info.catholictld@spc.va",
+  "techId": "C2C05034B50A64AE196995383A171624E-NSR",
+  "techName": "DotCatholic Office",
+  "techOrg": "Secretariat for Communications",
+  "techAddress": [
+    "Piazza Pia, 3"
+  ],
+  "techCity": "Citta del Vaticano",
+  "techPostalCode": "00120",
+  "techCountry": "va",
+  "techEmail": "info.catholictld@spc.va"
+}

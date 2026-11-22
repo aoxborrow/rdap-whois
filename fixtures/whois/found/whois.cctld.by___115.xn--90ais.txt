@@ -1,0 +1,20 @@
+###%%% QRY: 115.xn--90ais
+###%%% SRV: whois.cctld.by
+###%%% TME: 2026-11-22T08:13:51Z
+
+Domain name: 115.бел
+Registrar: Reliable Software, Ltd
+Org: Коммунальное унитарное предприятие "Центр информационных технологий Мингорисполкома"
+Country: BY
+Address: 220007, -, г. Минск, ул. Московская, д. 9/25, -
+Registration or other identification number: 190095031
+Phone: +375172158879
+Email: sglem@it-minsk.by
+Name Server: ns1.it-minsk.by
+Name Server: ns2.it-minsk.by
+Update Date: 2025-07-07
+Creation Date: 2015-07-22
+Expiration Date: 2027-07-22
+
+-------------------------------------------
+Service provided by Belarusian Cloud Technologies LLC

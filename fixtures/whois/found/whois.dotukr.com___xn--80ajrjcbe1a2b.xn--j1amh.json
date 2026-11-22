@@ -1,0 +1,80 @@
+{
+  "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+  "server": "whois.dotukr.com",
+  "domainId": "D00118711-ukr",
+  "domainName": "полотенца.укр",
+  "creationDate": "2019-09-20T06:46:01Z",
+  "expirationDate": "2028-09-20T06:46:01Z",
+  "updatedDate": "2026-03-31T17:12:27Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns116.inhostedns.com",
+    "ns216.inhostedns.net",
+    "ns316.inhostedns.org"
+  ],
+  "registrarId": "uaukraine",
+  "registrarName": "ТОВ \"Хостінг Україна\"",
+  "registrarUrl": "http://www.ukraine.com.ua",
+  "registrarAbuseEmail": "domain@abuse.team",
+  "registrarAbusePhone": "+380443927433",
+  "registrantId": "icn-901262-koeht",
+  "registrantName": "hidden",
+  "registrantAddress": [
+    "hidden"
+  ],
+  "registrantCity": "hidden",
+  "registrantPostalCode": "hidden",
+  "registrantCountry": "hidden",
+  "registrantPhone": "hidden",
+  "registrantPhoneExt": "hidden",
+  "registrantFax": "hidden",
+  "registrantFaxExt": "hidden",
+  "registrantEmail": "aa45e03550ae398a58@privacyprotected.net",
+  "adminId": "icn-901262-koeht",
+  "adminName": "hidden",
+  "adminOrg": "hidden",
+  "adminAddress": [
+    "hidden"
+  ],
+  "adminCity": "hidden",
+  "adminPostalCode": "hidden",
+  "adminCountry": "hidden",
+  "adminPhone": "hidden",
+  "adminPhoneExt": "hidden",
+  "adminFax": "hidden",
+  "adminFaxExt": "hidden",
+  "adminEmail": "aa45e03550ae398a58@privacyprotected.net",
+  "techId": "icn-901262-koeht",
+  "techName": "hidden",
+  "techOrg": "hidden",
+  "techAddress": [
+    "hidden"
+  ],
+  "techCity": "hidden",
+  "techPostalCode": "hidden",
+  "techCountry": "hidden",
+  "techPhone": "hidden",
+  "techPhoneExt": "hidden",
+  "techFax": "hidden",
+  "techFaxExt": "hidden",
+  "techEmail": "aa45e03550ae398a58@privacyprotected.net",
+  "billingId": "icn-901262-koeht",
+  "billingName": "hidden",
+  "billingOrg": "hidden",
+  "billingAddress": [
+    "hidden"
+  ],
+  "billingCity": "hidden",
+  "billingPostalCode": "hidden",
+  "billingCountry": "hidden",
+  "billingPhone": "hidden",
+  "billingPhoneExt": "hidden",
+  "billingFax": "hidden",
+  "billingFaxExt": "hidden",
+  "billingEmail": "aa45e03550ae398a58@privacyprotected.net"
+}

@@ -1,0 +1,74 @@
+{
+  "query": "poop.asia",
+  "server": "whois.netim.com",
+  "domainId": "f30d3c3a545b4deda3e1b9ac5a878d32-DONUTS",
+  "domainName": "poop.asia",
+  "creationDate": "2025-02-23T00:00:00Z",
+  "expirationDate": "2026-02-23T21:00:00Z",
+  "registrarExpirationDate": "2026-02-23T21:00:00Z",
+  "updatedDate": "2025-02-23T19:12:06Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "charles.ns.cloudflare.com",
+    "desiree.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1519",
+  "registrarIanaId": 1519,
+  "registrarName": "NETIM",
+  "registrarUrl": "https://www.netim.com",
+  "registrarAbuseEmail": "abuse@netim.net",
+  "registrarAbusePhone": "+33.972307476",
+  "registrarWhoisServer": "whois.netim.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "ID",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please use the online form https://www.whoisprivacy.domains/ to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please use the online form https://www.whoisprivacy.domains/ to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please use the online form https://www.whoisprivacy.domains/ to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

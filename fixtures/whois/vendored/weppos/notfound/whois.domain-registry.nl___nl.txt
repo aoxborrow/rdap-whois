@@ -1,0 +1,23 @@
+###%%% SRV: whois.domain-registry.nl
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.domain-registry.nl/nl/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+u34jedzcq.nl is free
+
+   Copyright notice
+   No part of this publication may be reproduced, published, stored in a
+   retrieval system, or transmitted, in any form or by any means, electronic,
+   mechanical, recording, or otherwise, without prior permission of the
+   Foundation for Internet Domain Registration in the Netherlands (SIDN).
+   Registrars are bound by these restrictions without any limitations,
+   except in case of reasonable and necessary reproductions or publications
+   and solely for those business activities as mentioned in the 'General
+   terms and Conditions for Registrars'.
+   
+   Any use of this material to target advertising, commercial speech or
+   similar activities is explicitly forbidden and will be prosecuted. The
+   Stichting Internet Domeinregistratie Nederland requests to be notified
+   of any such activities or suspicions thereof.
+   (c) The Foundation for Internet Domain Registration in the Netherlands
+   (SIDN) Dutch Copyright Act, protection of authors' rights (Section 10,
+   subsection 1, clause 1).

@@ -1,0 +1,43 @@
+{
+  "query": "nic.music",
+  "server": "whois.nic.music",
+  "domainId": "DO_d38ceb1792123ed266f49fb27261d153-MUSIC",
+  "domainName": "nic.music",
+  "creationDate": "2024-08-05T19:06:37Z",
+  "expirationDate": "2034-08-05T19:06:37Z",
+  "updatedDate": "2025-07-25T19:29:47Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-318.awsdns-39.com",
+    "ns-894.awsdns-47.net",
+    "ns-1367.awsdns-42.org",
+    "ns-2026.awsdns-61.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "DotMusic Limited,",
+  "registrarUrl": "http://registryservices.music",
+  "registrarAbuseEmail": "registrarsupport@registryservices.music",
+  "registrarAbusePhone": "+1.6042831139",
+  "registrarWhoisServer": "whois.registryservices.music",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "DotMusic Limited,",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "BC",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "CA",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

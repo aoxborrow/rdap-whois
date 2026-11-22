@@ -1,0 +1,69 @@
+{
+  "query": "nic.versicherung",
+  "server": "whois.nic.versicherung",
+  "domainId": "D0000000007-VERS",
+  "domainName": "nic.versicherung",
+  "creationDate": "2014-04-29T14:08:54Z",
+  "expirationDate": "2025-04-29T14:08:54Z",
+  "updatedDate": "2017-06-07T06:39:57Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "sec1.rcode0.net",
+    "sec2.rcode0.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "tldbox GmbH",
+  "registrarUrl": "http://www.nic.versicherung",
+  "registrarAbuseEmail": "service@tld-box.at",
+  "registrarAbusePhone": "+43.6624669",
+  "registrarWhoisServer": "whois.nic.versicherung",
+  "registrantId": "C0000013489-VERS",
+  "registrantName": "tldbox GmbH",
+  "registrantAddress": [
+    "Jakob-Haringer-Strasse 8/V"
+  ],
+  "registrantCity": "Salzburg",
+  "registrantPostalCode": "5020",
+  "registrantCountry": "AT",
+  "registrantEmail": "service@tld-box.at",
+  "adminId": "C0000013489-VERS",
+  "adminName": "tldbox GmbH",
+  "adminAddress": [
+    "Jakob-Haringer-Strasse 8/V"
+  ],
+  "adminCity": "Salzburg",
+  "adminPostalCode": "5020",
+  "adminCountry": "AT",
+  "adminEmail": "service@tld-box.at",
+  "techId": "C0000000002-VERS",
+  "techName": "TLDBOX",
+  "techOrg": "tldbox GmbH",
+  "techAddress": [
+    "Jakob-Haringer-Strasse 8/V"
+  ],
+  "techCity": "Salzburg",
+  "techState": "Salzburg",
+  "techPostalCode": "5020",
+  "techCountry": "AT",
+  "techPhone": "+43.662234548",
+  "techPhoneExt": "730",
+  "techEmail": "iana@tld-box.at"
+}

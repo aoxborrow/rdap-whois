@@ -1,0 +1,44 @@
+{
+  "query": "nic.ve",
+  "server": "whois.nic.ve",
+  "domainName": "nic.ve",
+  "creationDate": "2019-08-08T18:04:00Z",
+  "expirationDate": "2034-12-31T00:00:00Z",
+  "updatedDate": "2026-07-07T14:39:42Z",
+  "nameservers": [
+    "ns3.nic.ve",
+    "ns4.nic.ve",
+    "ns5.nic.ve",
+    "ns6.nic.ve"
+  ],
+  "registrarName": "NIC-VE",
+  "registrantId": "CON000031823",
+  "registrantOrg": "Conatel",
+  "registrantAddress": [
+    "Madrid",
+    "Caracas",
+    "1201",
+    "Distrito Capital",
+    "VE"
+  ],
+  "registrantState": "VE",
+  "registrantPostalCode": "1201",
+  "adminId": "CON000031823",
+  "adminOrg": "Conatel",
+  "adminAddress": [
+    "Madrid",
+    "Caracas",
+    "1201",
+    "Distrito Capital",
+    "VE"
+  ],
+  "techId": "CON000031823",
+  "techOrg": "Conatel",
+  "techAddress": [
+    "Madrid",
+    "Caracas",
+    "1201",
+    "Distrito Capital",
+    "VE"
+  ]
+}

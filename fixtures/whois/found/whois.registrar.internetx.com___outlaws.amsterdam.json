@@ -1,0 +1,74 @@
+{
+  "query": "outlaws.amsterdam",
+  "server": "whois.registrar.internetx.com",
+  "domainId": "DNM_142249-SIDN",
+  "domainName": "outlaws.amsterdam",
+  "creationDate": "2018-10-25T12:55:14Z",
+  "expirationDate": "2027-10-24T22:00:00Z",
+  "registrarExpirationDate": "2027-10-24T22:00:00Z",
+  "updatedDate": "2025-11-03T23:01:30Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "ns.zxcs.be",
+    "ns.zxcs.eu",
+    "ns.zxcs.nl"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "151",
+  "registrarIanaId": 151,
+  "registrarName": "InterNetX GmbH",
+  "registrarUrl": "https://registrar.internetx.com",
+  "registrarAbuseEmail": "domain-abuse@internetx.com",
+  "registrarAbusePhone": "+49.94159559482",
+  "registrarWhoisServer": "whois.registrar.internetx.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Onbekend",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "NL",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://whoispro.domain-robot.org/whois/outlaws.amsterdam",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "https://whoispro.domain-robot.org/whois/outlaws.amsterdam",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "https://whoispro.domain-robot.org/whois/outlaws.amsterdam"
+}

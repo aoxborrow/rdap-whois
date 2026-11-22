@@ -1,0 +1,32 @@
+{
+  "query": "freestyle.abbott",
+  "server": "whois.nic.abbott",
+  "domainId": "24b7a6fed1da4d6fb96125d09e77556b-DONUTS",
+  "domainName": "freestyle.abbott",
+  "creationDate": "2016-06-03T14:52:32Z",
+  "expirationDate": "2027-06-03T14:52:32Z",
+  "updatedDate": "2026-08-12T07:58:19Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1-242.akam.net",
+    "a6-65.akam.net",
+    "a9-64.akam.net",
+    "a11-67.akam.net",
+    "a16-65.akam.net",
+    "a22-66.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

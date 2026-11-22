@@ -1,0 +1,41 @@
+###%%% QRY: nic.co.za
+###%%% SRV: whois.registry.net.za
+###%%% TME: 2026-11-22T08:16:26Z
+
+Domain Name: nic.co.za
+Registry Domain ID: 1yhue_DOMAIN-CO.ZA
+Registrar WHOIS Server: 
+Registrar URL: https://1-grid.com/
+Updated Date: 2026-05-26T09:21:14Z
+Creation Date: 2004-08-14T13:53:34Z
+Registry Expiry Date: 2027-08-14T13:53:34Z
+Registrar Registration Expiration Date: 2027-08-14T13:53:34Z
+Registrar: 1-Grid
+Registrar Abuse Contact Email: abuse@1-grid.com
+Registrar Abuse Contact Phone: None
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: 
+Registrant Country: --
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns1.dreamhost.com
+Name Server: ns2.dreamhost.com
+Name Server: ns3.dreamhost.com
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:16:26Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZARC Complaint/s Procedure and Form: https://zarc.web.za/wp-content/uploads/2025/08/ZA-SLD_Takedown_Policy.docx.pdf
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://zarc.web.za/whois-terms-and-conditions
+# Copyright (c) ZARC 1995-2026

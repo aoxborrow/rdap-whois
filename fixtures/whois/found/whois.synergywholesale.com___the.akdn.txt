@@ -1,0 +1,71 @@
+###%%% QRY: the.akdn
+###%%% SRV: whois.synergywholesale.com
+###%%% TME: 2026-11-22T08:07:47Z
+
+Domain Name: the.akdn
+Registry Domain ID: c3a3258f159d4cdf9809551a1f3e6ddb-DONUTS
+Registrar WHOIS Server: whois.synergywholesale.com
+Registrar URL: https://synergywholesale.com/partner-lookup
+Updated Date: 2023-08-01 01:05:59
+Creation Date: 2022-02-17 16:37:43
+Registrar Registration Expiration Date: 2032-02-17 16:37:43
+Registrar: Synergy Wholesale Accreditations Pty Ltd
+Registrar IANA ID: 1609
+Registrar Abuse Contact Email: registry-abuse@nexigen.digital
+Registrar Abuse Contact Phone: +61.383999483
+Reseller: Foundation Aga Khan
+Reseller: 
+Reseller: noreply@synergywholesale.com
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Shahed Karim
+Registrant Organization: 
+Registrant Street: Aiglemont
+Registrant Street: 
+Registrant Street: 
+Registrant City: Gouvieux
+Registrant State/Province: N/A
+Registrant Postal Code: 60270
+Registrant Country: FR
+Registrant Phone: +33.344584000
+Registrant Fax: 
+Registrant Email: shahed.karim@akdn.org
+Registry Admin ID: Not Available From Registry
+Admin Name: Shahed Karim
+Admin Organization: 
+Admin Street: Aiglemont
+Admin Street: 
+Admin Street: 
+Admin City: Gouvieux
+Admin State/Province: N/A
+Admin Postal Code: 60270
+Admin Country: FR
+Admin Phone: +33.344584000
+Admin Fax: 
+Admin Email: shahed.karim@akdn.org
+Registry Tech ID: Not Available From Registry
+Tech Name: Shahed Karim
+Tech Organization: 
+Tech Street: Aiglemont
+Tech Street: 
+Tech Street: 
+Tech City: Gouvieux
+Tech State/Province: N/A
+Tech Postal Code: 60270
+Tech Country: FR
+Tech Phone: +33.344584000
+Tech Fax: 
+Tech Email: shahed.karim@akdn.org
+Name Server: cory.ns.cloudflare.com
+Name Server: erin.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit https://icann.org/epp
+>>> Last update of WHOIS database: 2026-11-22 08:07:46 <<<
+
+Domain Service Provider:
+    Foundation Aga Khan, noreply@synergywholesale.com
+    +41.229097200
+    
+    Please contact the provider listed above for assistance with
+    your domain name, such as updating your name servers or WHOIS contact information.

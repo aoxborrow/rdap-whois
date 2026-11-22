@@ -1,0 +1,16 @@
+###%%% QRY: moi.gov.qa
+###%%% SRV: whois.registry.qa
+###%%% TME: 2026-07-16T11:45:22Z
+
+Domain Name:                     moi.gov.qa
+Registrar ID:                    QDR
+Registrar Name:                  Qatar Domains Registry - Registrar
+Status:                          ok
+
+Registrant:                      Ministry of Interior
+Eligibility Type:                Government
+
+Name Server:                     dns1.moi.gov.qa
+Name Server IP:                  78.100.102.9
+Name Server:                     dns2.moi.gov.qa
+Name Server IP:                  78.100.102.69

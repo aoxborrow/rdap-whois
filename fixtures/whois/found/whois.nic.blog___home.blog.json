@@ -1,0 +1,89 @@
+{
+  "query": "home.blog",
+  "server": "whois.nic.blog",
+  "domainId": "597004-BLOG",
+  "domainName": "home.blog",
+  "creationDate": "2016-10-10T15:41:37Z",
+  "expirationDate": "2027-10-10T23:59:59Z",
+  "updatedDate": "2026-10-11T00:04:04Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "ns1.automattic.com",
+    "ns2.automattic.com",
+    "ns3.automattic.com",
+    "ns4.automattic.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Knock Knock WHOIS There, LLC",
+  "registrarUrl": "https://my.blog",
+  "registrarAbuseEmail": "admin@my.blog",
+  "registrarAbusePhone": "+1.8772733049",
+  "registrarWhoisServer": "whois.blog.fury.ca",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name",
+  "billingId": "REDACTED FOR PRIVACY",
+  "billingName": "REDACTED FOR PRIVACY",
+  "billingOrg": "REDACTED FOR PRIVACY",
+  "billingAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "billingCity": "REDACTED FOR PRIVACY",
+  "billingState": "REDACTED FOR PRIVACY",
+  "billingPostalCode": "REDACTED FOR PRIVACY",
+  "billingCountry": "REDACTED FOR PRIVACY",
+  "billingPhone": "REDACTED FOR PRIVACY",
+  "billingPhoneExt": "REDACTED FOR PRIVACY",
+  "billingFax": "REDACTED FOR PRIVACY",
+  "billingFaxExt": "REDACTED FOR PRIVACY",
+  "billingEmail": "Please ask the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Other contacts of the queried domain name"
+}

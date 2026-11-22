@@ -1,0 +1,55 @@
+{
+  "query": "google.co.cr",
+  "server": "whois.nic.cr",
+  "domainName": "google.co.cr",
+  "creationDate": "2002-04-18T18:00:00Z",
+  "expirationDate": "2027-04-17T00:00:00Z",
+  "updatedDate": "2026-02-25T09:09:23Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MARKMONITOR",
+  "registrantId": "MMR-171195",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "MMR-87489",
+  "adminName": "DNS Admin",
+  "adminOrg": "Google Inc.",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "adminPhone": "+1.6502530000",
+  "adminFax": "+1.6502530001",
+  "adminEmail": "dns-admin@google.com",
+  "techId": "MMR-45306",
+  "techName": "Domain Provisioning",
+  "techOrg": "MarkMonitor, Inc.",
+  "techAddress": [
+    "1120 S. Rackham Way",
+    "Suite 300",
+    "Meridian",
+    "83642",
+    "ID",
+    "US"
+  ],
+  "techPhone": "+1.2083895740",
+  "techFax": "+1.2083895771",
+  "techEmail": "ccops@markmonitor.com"
+}

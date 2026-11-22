@@ -1,0 +1,38 @@
+{
+  "query": "google.co.id",
+  "server": "whois.id",
+  "domainId": "166626_DOMAIN_ID-ID",
+  "domainName": "google.co.id",
+  "creationDate": "2004-12-18T13:33:21Z",
+  "expirationDate": "2027-09-01T23:59:59Z",
+  "updatedDate": "2026-08-08T06:00:10Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1",
+  "registrarIanaId": 1,
+  "registrarName": "PT Digital Registra Indonesia",
+  "registrarUrl": "https://www.digitalregistra.co.id",
+  "registrarAbuseEmail": "info@digitalregistra.co.id"
+}

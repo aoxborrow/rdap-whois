@@ -1,0 +1,39 @@
+{
+  "query": "ibomma.bond",
+  "server": "whois.nic.bond",
+  "domainId": "D433621224-CNIC",
+  "domainName": "ibomma.bond",
+  "creationDate": "2024-02-16T18:15:00Z",
+  "expirationDate": "2026-02-16T23:59:59Z",
+  "updatedDate": "2025-02-20T06:04:47Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "ns1.renewyourname.net",
+    "ns2.renewyourname.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "Tucows.com Co.",
+  "registrarUrl": "http://www.tucows.com",
+  "registrarAbuseEmail": "domainabuse@tucows.com",
+  "registrarAbusePhone": "+1.4165350123",
+  "registrarWhoisServer": "whois.tucows.com",
+  "registrantOrg": "1337 Services LLC",
+  "registrantState": "Charlestown",
+  "registrantCountry": "KN",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

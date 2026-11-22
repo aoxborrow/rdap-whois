@@ -1,0 +1,21 @@
+{
+  "domainName": "google.is",
+  "creationDate": "2002-05-22T00:00:00Z",
+  "expirationDate": "2025-05-22T00:00:00Z",
+  "status": [],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned delegation",
+  "registrantId": "GL210-IS",
+  "registrantName": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View, CA 94043",
+    "US"
+  ],
+  "registrantPhone": "+1 6502530000",
+  "registrantEmail": "ccops@markmonitor.com"
+}

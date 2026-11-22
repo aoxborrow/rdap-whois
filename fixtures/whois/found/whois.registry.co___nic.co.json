@@ -1,0 +1,38 @@
+{
+  "query": "nic.co",
+  "server": "whois.registry.co",
+  "domainId": "D30230624-CNIC",
+  "domainName": "nic.co",
+  "creationDate": "2025-10-04T06:47:10Z",
+  "expirationDate": "2027-10-04T23:59:59Z",
+  "updatedDate": "2026-09-28T00:01:30Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "nameserver01.mi.com.co",
+    "nameserver02.mi.com.co",
+    "nameserver03.mi.com.co",
+    "nameserver04.mi.com.co"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": ".co Registry",
+  "registrarUrl": "https://registry.co",
+  "registrarAbuseEmail": "spam@centralnicregistry.com",
+  "registrarAbusePhone": "+57.123456789",
+  "registrarWhoisServer": "whois.registry.co",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

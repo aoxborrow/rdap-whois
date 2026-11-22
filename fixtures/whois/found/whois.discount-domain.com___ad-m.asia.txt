@@ -1,0 +1,65 @@
+###%%% QRY: ad-m.asia
+###%%% SRV: whois.discount-domain.com
+###%%% TME: 2025-03-20T11:20:19Z
+
+Domain Name: ad-m.asia
+Registry Domain ID: 09e88c4860294ddb9db5e9cd0c93baf3-DONUTS
+Registrar WHOIS Server: whois.discount-domain.com
+Registrar URL: http://www.onamae.com
+Updated Date: 2024-03-27T00:26:02Z
+Creation Date: 2013-04-11T08:14:36Z
+Registrar Registration Expiration Date: 2025-04-11T08:14:36Z
+Registrar: GMO Internet, Inc.
+Registrar IANA ID: 49
+Registrar Abuse Contact Email: abuse@gmo.jp
+Registrar Abuse Contact Phone: +81.337709199
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 13df82911b8
+Registrant Name: Tamotsu Ryogoku
+Registrant Organization: CRAID Inc.
+Registrant Street: 3-6 Maruyamacho
+Registrant Street: E.SpaceTower
+Registrant City: Shibuya ku
+Registrant State/Province: Tokyo
+Registrant Postal Code: 150-0044
+Registrant Country: JP
+Registrant Phone: +81.357285880
+Registrant Phone Ext:
+Registrant Fax: +81.354577708
+Registrant Fax Ext:
+Registrant Email: ryogoku@craid-inc.com
+Registry Admin ID: 13df82914b3
+Admin Name: Tamotsu Ryogoku
+Admin Organization: CRAID Inc.
+Admin Street: 3-6 Maruyamacho
+Admin Street: E.SpaceTower
+Admin City: Shibuya ku
+Admin State/Province: Tokyo
+Admin Postal Code: 150-0044
+Admin Country: JP
+Admin Phone: +81.357285880
+Admin Phone Ext:
+Admin Fax: +81.354577708
+Admin Fax Ext:
+Admin Email: ryogoku@craid-inc.com
+Registry Tech ID: 13df82917af
+Tech Name: Tamotsu Ryogoku
+Tech Organization: CRAID Inc.
+Tech Street: 3-6 Maruyamacho
+Tech Street: E.SpaceTower
+Tech City: Shibuya ku
+Tech State/Province: Tokyo
+Tech Postal Code: 150-0044
+Tech Country: JP
+Tech Phone: +81.357285880
+Tech Phone Ext:
+Tech Fax: +81.354577708
+Tech Fax Ext:
+Tech Email: ryogoku@craid-inc.com
+Name Server: ns21.freebit.net
+Name Server: ns22.freebit.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-03-27T00:26:02Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

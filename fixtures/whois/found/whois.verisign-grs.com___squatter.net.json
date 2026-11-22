@@ -1,0 +1,28 @@
+{
+  "query": "squatter.net",
+  "server": "whois.verisign-grs.com",
+  "domainId": "12385641_DOMAIN_NET-VRSN",
+  "domainName": "squatter.net",
+  "creationDate": "1999-11-06T17:12:30Z",
+  "expirationDate": "2027-11-06T17:12:30Z",
+  "updatedDate": "2026-11-07T08:32:04Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "3939.ns1.abovedomains.com",
+    "3939.ns2.abovedomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "670",
+  "registrarIanaId": 670,
+  "registrarName": "$$$ Private Label Internet Service Kiosk, Inc. (dba \"PLISK.com\")",
+  "registrarUrl": "http://www.plisk.com",
+  "registrarAbuseEmail": "ABUSE@plisk.com",
+  "registrarAbusePhone": "7252223687",
+  "registrarWhoisServer": "whois.plisk.com"
+}

@@ -1,0 +1,3 @@
+# generated tables are written by the generators, not formatted by hand
+src/whois/generated/
+src/record/generated/

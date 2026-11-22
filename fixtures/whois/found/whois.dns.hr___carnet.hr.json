@@ -1,0 +1,24 @@
+{
+  "query": "carnet.hr",
+  "server": "whois.dns.hr",
+  "domainName": "carnet.hr",
+  "creationDate": "2001-12-12T23:00:00Z",
+  "expirationDate": "2050-11-15T23:00:00Z",
+  "registrarExpirationDate": "2050-11-15T23:00:00Z",
+  "updatedDate": "2025-02-19T23:00:00Z",
+  "nameservers": [
+    "dns1.carnet.hr",
+    "dns2.carnet.hr"
+  ],
+  "registrarName": "CARNET",
+  "registrarUrl": "http://whois.dns.hr",
+  "registrarWhoisServer": "whois.dns.hr",
+  "registrantName": "CARNet",
+  "registrantAddress": [
+    "ULICA JOSIPA MAROHNIĆA 5"
+  ],
+  "registrantCity": "ZAGREB",
+  "registrantPostalCode": "10000",
+  "registrantCountry": "HR",
+  "registrantEmail": "registar@domene.hr"
+}

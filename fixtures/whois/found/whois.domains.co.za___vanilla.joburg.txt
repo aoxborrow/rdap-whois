@@ -1,0 +1,25 @@
+###%%% QRY: vanilla.joburg
+###%%% SRV: whois.domains.co.za
+###%%% TME: 2026-11-22T08:13:54Z
+
+Domain Name: vanilla.joburg
+Registry Domain ID: DOM_5S1-ZACITIES
+Registrar WHOIS Server: whois.domains.co.za
+Registrar URL: https://www.domains.co.za
+Updated Date: 2026-06-22 14:24:30
+Creation Date: 2021-08-06 12:53:29
+Registrar Registration Expiration Date: 2027-08-06 12:53:29
+Registrar: DIAMATRIX C.C.
+Registrar IANA ID: 1645
+Registrar Abuse Email: abuse@domains.co.za
+Registrar Abuse Phone: +27.116409714
+Domain Status: ok https://icann.org/epp#ok
+Registrant Email: https://contact.gtld-whois.com/385dde8bc812d6bfcc4c9d339af73c9e
+Admin Email: https://contact.gtld-whois.com/385dde8bc812d6bfcc4c9d339af73c9e
+Tech Email: https://contact.gtld-whois.com/385dde8bc812d6bfcc4c9d339af73c9e
+Name Server: ns3.vanilla.joburg
+Name Server: ns2.vanillaregistrar.co.za
+Name Server: ns1.vanillaregistrar.co.za
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2026-11-22T10:13:54SAST <<<

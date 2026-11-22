@@ -1,0 +1,43 @@
+###%%% QRY: abc.xyz
+###%%% SRV: whois.markmonitor.com
+###%%% TME: 2026-11-22T08:13:43Z
+
+Domain Name: abc.xyz
+Registry Domain ID: D2192285-CNIC
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar Registration Expiration Date: 2027-03-20T07:00:00.000+00:00
+Registry Expiry Date: 2027-03-20T00:00:00.000+00:00
+Creation Date: 2014-03-20T12:59:17.000+00:00
+Updated Date: 2026-02-16T10:45:11.000+00:00
+Registrant Contact URL: https://domains.markmonitor.com/whois/contact/abc.xyz
+Registrant Name: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Tech Contact URL: https://domains.markmonitor.com/whois/contact/abc.xyz
+Tech Name: 
+Registrar Organization: Markmonitor Inc.
+Registrar Street: 3540 E Longwing Ln
+Registrar City: Meridian
+Registrar State/Province: ID
+Registrar Postal Code: 83646
+Registrar Country: US
+Registrar Contact URL: https://www.markmonitor.com/contact-us/
+Registrar: Markmonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact: https://corp.markmonitor.com/domain/ui/abuse-report
+Registrar Abuse Contact Phone: +1.2086851750
+Registrar Abuse Contact Name: Markmonitor Inc.
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Name Server Status: active
+Name Server Last Changed: 2015-08-09T18:00:24.000+00:00 (most recent)
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

@@ -1,0 +1,43 @@
+###%%% QRY: ktnet.kg
+###%%% SRV: whois.kg
+###%%% TME: 2026-07-16T11:39:18Z
+
+% This is the .kg ccTLD Whois server
+% Register your own domain at https://www.cctld.kg
+% Whois web service - https://www.cctld.kg/whois
+
+Domain KTNET.KG (ACTIVE)
+
+Administrative Contact:
+   PID: 3262-KG
+   Name: ОАО "Кыргызтелеком"
+   Address: Kyrgyzstan Бишкек Чуй 96
+   Email: admin@kt.kg
+   phone: 996552920745
+   fax: + 996 312 662424
+
+Technical Contact:
+   PID: 3262-KG
+   Name: ОАО "Кыргызтелеком"
+   Address: Kyrgyzstan Бишкек Чуй 96
+   Email: admin@kt.kg
+   phone: 996552920745
+   fax: + 996 312 662424
+
+Billing Contact:
+   PID: 3262-KG
+   Name: ОАО "Кыргызтелеком"
+   Address: Kyrgyzstan Бишкек Чуй 96
+   Email: admin@kt.kg
+   phone: 996552920745
+   fax: + 996 312 662424
+
+
+Record created: Tue Jan 16 08:42:32 2001
+Record last updated on:  Tue Jan 13 16:42:56 2026
+Record expires on: Fri Jan 29 00:00:00 2027
+
+Name servers in the listed order:
+
+NS1.KTNET.KG
+NS2.KTNET.KG

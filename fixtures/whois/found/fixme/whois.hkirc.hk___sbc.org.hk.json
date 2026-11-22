@@ -1,0 +1,41 @@
+{
+  "domainName": "sbc.org.hk",
+  "creationDate": "1998-07-14T00:00:00Z",
+  "expirationDate": "2035-03-07T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns7.ctdgp.com",
+    "ns8.ctdgp.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Hong Kong Domain Name Registration Company Limited",
+  "registrarPhone": "+852 2319 1313",
+  "registrarEmail": "enquiry@hkdnr.hk",
+  "registrantName": "SOCIETY OF BOYS' CENTRES",
+  "registrantAddress": [
+    "47 CORNWALL STREET, SHAMSHUIPO, KOWLOON"
+  ],
+  "registrantCountry": "Hong Kong (HK)",
+  "registrantEmail": "info@sbc.org.hk",
+  "adminName": "SOCIETY OF BOYS' CENTRES",
+  "adminOrg": "SOCIETY OF BOYS' CENTRES",
+  "adminAddress": [
+    "47 CORNWALL STREET, SHAMSHUIPO, KOWLOON"
+  ],
+  "adminCountry": "Hong Kong (HK)",
+  "adminPhone": "+852-27796442",
+  "adminFax": "+852-27793622",
+  "adminEmail": "admin@sbc.org.hk",
+  "techName": "SOCIETY OF BOYS' CENTRES",
+  "techOrg": "SOCIETY OF BOYS' CENTRES",
+  "techAddress": [
+    "47 CORNWALL STREET, SHAMSHUIPO, KOWLOON"
+  ],
+  "techCountry": "Hong Kong (HK)",
+  "techPhone": "+852-27796442",
+  "techFax": "+852-27793622",
+  "techEmail": "admin@sbc.org.hk"
+}

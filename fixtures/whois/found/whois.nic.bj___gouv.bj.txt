@@ -1,0 +1,64 @@
+###%%% QRY: gouv.bj
+###%%% SRV: whois.nic.bj
+###%%% TME: 2026-07-16T23:25:22Z
+
+Domain Name: gouv.bj
+Registry Domain ID: 748-CoCCA
+Updated Date: 2024-08-22T08:23:54.464Z
+Creation Date: 2015-02-03T15:24:02.624Z
+Registry Expiry Date: 2035-12-30T23:00:00.0Z
+Registrar Registration Expiration Date: 2035-12-30T23:00:00.0Z
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 6p5gc-Gsicn
+Registrant Name: Agence des Services et Systemes d'Information (ASSI)
+Registrant Organization: ASSI
+Registrant Street: cotonou
+Registrant City: cotonou
+Registrant Country: BJ
+Registrant Phone: 0022965738787
+Registrant Email: info-assi@presidence.bj
+Registry Admin ID: dH2eI-iXax6
+Admin Name: Redacted | Registry Policy
+Admin Organization: ASSI
+Admin Street: Redacted | Registry Policy
+Admin City: Redacted | Registry Policy
+Admin Country: BJ
+Admin Phone: Redacted | Registry Policy
+Admin Email: Redacted | Registry Policy
+Registry Tech ID: bhLzK-kJzZQ
+Tech Name: GBAGUIDI Frejus
+Tech Organization: ASSI
+Tech Street: Redacted | Registry Policy
+Tech City: Redacted | Registry Policy
+Tech Country: BJ
+Tech Phone: 00229 96162223
+Tech Email: fgbaguidi@presidence.bj
+Registry Billing ID: qufje-kkL8E
+Billing Name: Redacted | Registry Policy
+Billing Organization: ASSI
+Billing Street: Redacted | Registry Policy
+Billing City: Redacted | Registry Policy
+Billing Country: BJ
+Billing Phone: Redacted | Registry Policy
+Billing Email: Redacted | Registry Policy
+Registry Billing ID: N79ij-DMDqj
+Billing Name: Redacted | Registry Policy
+Billing Organization: ASSI
+Billing Street: Redacted | Registry Policy
+Billing City: Redacted | Registry Policy
+Billing Country: BJ
+Billing Phone: Redacted | Registry Policy
+Billing Email: Redacted | Registry Policy
+Registrar: NIC Registrar
+Name Server: beau.ns.cloudflare.com
+Name Server: emma.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T21:30:00.634Z <<<
+
+For more information on EPP status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes.
+
+The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

@@ -1,0 +1,37 @@
+###%%% QRY: citylife.capetown
+###%%% SRV: whois.nic.capetown
+###%%% TME: 2026-07-16T23:26:57Z
+
+Domain Name: citylife.capetown
+Registry Domain ID: bwz1z_DOMAIN-CAPETOWN
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: https://www.openprovider.com
+Updated Date: 2025-12-03T09:41:10Z
+Creation Date: 2024-09-12T09:37:37Z
+Registry Expiry Date: 2026-09-12T09:37:37Z
+Registrar Registration Expiration Date: 2026-09-12T09:37:37Z
+Registrar: Open Provider
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: 
+Registrant Country: FR
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: amy.ns.cloudflare.com
+Name Server: scott.ns.cloudflare.com
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:26:58Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Policies and Procedures: https://zacities.africa/policies/
+# The use of this Whois facility is subject to the following terms and
+# conditions: https://zacities.africa/whois-terms-and-conditions/
+# Copyright ZACR (NPC) 1995-2026

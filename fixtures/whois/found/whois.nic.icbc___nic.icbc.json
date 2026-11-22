@@ -1,0 +1,72 @@
+{
+  "query": "nic.icbc",
+  "server": "whois.nic.icbc",
+  "domainId": "D20221017G10001G_89685922-AGRS",
+  "domainName": "nic.icbc",
+  "creationDate": "2022-10-17T08:27:59Z",
+  "expirationDate": "2032-10-17T08:27:59Z",
+  "updatedDate": "2025-01-02T11:02:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "a.zdnscloud.cn",
+    "b.zdnscloud.cn",
+    "c.zdnscloud.com",
+    "d.zdnscloud.com",
+    "f.zdnscloud.cn",
+    "i.zdnscloud.cn",
+    "j.zdnscloud.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "knet",
+  "registrarUrl": "http://www.knet.cn",
+  "registrarAbuseEmail": "tech-supprot@zdns.cn",
+  "registrarAbusePhone": "+86.01058813521",
+  "registrarWhoisServer": "202.173.11.141",
+  "registrantId": "C20221017C_77088149-AGRS",
+  "registrantName": "Operation Manager",
+  "registrantOrg": "Industrial and Commercial Bank of China Limited",
+  "registrantAddress": [
+    "15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District"
+  ],
+  "registrantCity": "Beijing",
+  "registrantState": "Beijing",
+  "registrantPostalCode": "100088",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.01082096303",
+  "registrantFax": "+86.01082096262",
+  "registrantEmail": "web.yy4b@wjyy.icbc.com.cn",
+  "adminId": "C20221017C_77088149-AGRS",
+  "adminName": "Operation Manager",
+  "adminOrg": "Industrial and Commercial Bank of China Limited",
+  "adminAddress": [
+    "15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District"
+  ],
+  "adminCity": "Beijing",
+  "adminState": "Beijing",
+  "adminPostalCode": "100088",
+  "adminCountry": "CN",
+  "adminPhone": "+86.01082096303",
+  "adminFax": "+86.01082096262",
+  "adminEmail": "web.yy4b@wjyy.icbc.com.cn",
+  "techId": "C20221017C_77088149-AGRS",
+  "techName": "Operation Manager",
+  "techOrg": "Industrial and Commercial Bank of China Limited",
+  "techAddress": [
+    "15F，Tower D, Desheng International Center, No.77 DeshengMenWai Avenue,Xicheng District"
+  ],
+  "techCity": "Beijing",
+  "techState": "Beijing",
+  "techPostalCode": "100088",
+  "techCountry": "CN",
+  "techPhone": "+86.01082096303",
+  "techFax": "+86.01082096262",
+  "techEmail": "web.yy4b@wjyy.icbc.com.cn"
+}

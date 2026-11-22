@@ -1,0 +1,90 @@
+name: Release
+
+# Publishes to npm when a version tag is pushed: `git tag v0.1.1 && git push origin v0.1.1`,
+# after the version in package.json has been bumped to match on main. Routing data changes
+# (the merged weekly registry-health pull requests) go out as patch releases.
+#
+# The package is published with npm's trusted publishing: npm trusts this workflow by
+# OIDC (configured once on npmjs.com under the package's settings, naming this repository
+# and release.yml), so there is no npm token, and the release carries a provenance
+# statement linking it to this run and commit.
+#
+# The manifest's `exports`, `main`, `types` and `bin` already point at dist/, so the tarball
+# `npm pack` writes is what is published, and the same file is attached to the GitHub
+# release.
+
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: write # the GitHub release
+  id-token: write # npm trusted publishing and provenance
+
+concurrency:
+  group: release
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.repository == 'aoxborrow/rdap-whois'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment: npm
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: 'npm'
+          registry-url: 'https://registry.npmjs.org'
+
+      # trusted publishing needs npm 11.5.1 or later
+      - name: Update npm
+        run: npm install -g npm@^11.5.1
+
+      - name: Install dependencies (from the lockfile)
+        run: npm ci
+
+      - name: Tag matches package.json
+        run: |
+          VERSION=$(node -p "require('./package.json').version")
+          if [ "v$VERSION" != "$GITHUB_REF_NAME" ]; then
+            echo "tag $GITHUB_REF_NAME does not match package.json version $VERSION"
+            exit 1
+          fi
+
+      - name: Offline checks
+        run: |
+          npm run typecheck
+          npm run eslint
+          npm test
+          npm run check:browser
+          npm run check:pack
+
+      - name: Build and pack
+        run: |
+          npm run build
+          npm pack --silent --pack-destination "$RUNNER_TEMP" > "$RUNNER_TEMP/packed.txt"
+          mv "$RUNNER_TEMP/$(tail -n 1 "$RUNNER_TEMP/packed.txt")" "$RUNNER_TEMP/package.tgz"
+
+      # a prerelease version (0.2.0-beta.1) goes to the `next` dist-tag, not `latest`
+      - name: Publish to npm
+        run: |
+          TAG=latest
+          case "$GITHUB_REF_NAME" in *-*) TAG=next ;; esac
+          npm publish "$RUNNER_TEMP/package.tgz" --provenance --access public --tag "$TAG"
+
+      - name: GitHub release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          FLAGS="--generate-notes --verify-tag"
+          case "$GITHUB_REF_NAME" in *-*) FLAGS="$FLAGS --prerelease" ;; esac
+          gh release create "$GITHUB_REF_NAME" "$RUNNER_TEMP/package.tgz" $FLAGS --repo "$GITHUB_REPOSITORY"

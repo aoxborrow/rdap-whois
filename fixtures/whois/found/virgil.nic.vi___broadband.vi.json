@@ -1,0 +1,21 @@
+{
+  "query": "broadband.vi",
+  "server": "virgil.nic.vi",
+  "domainId": "24237-VI",
+  "domainName": "broadband.vi",
+  "creationDate": "2002-09-30T04:00:00Z",
+  "updatedDate": "2024-12-11T14:21:09Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.broadband.vi",
+    "ns2.broadband.vi"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Nic VI"
+}

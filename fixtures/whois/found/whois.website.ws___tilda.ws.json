@@ -1,0 +1,37 @@
+{
+  "query": "tilda.ws",
+  "server": "whois.website.ws",
+  "domainId": "D865CD71559E835CE040010AAB015FFF",
+  "domainName": "tilda.ws",
+  "creationDate": "2014-02-15T09:17:05Z",
+  "expirationDate": "2027-02-15T09:17:05Z",
+  "registrarExpirationDate": "2027-02-15T09:17:05Z",
+  "updatedDate": "2022-03-17T10:13:27Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited",
+    "clientDeleteProhibited",
+    "clientUpdateProhibited",
+    "clientRenewProhibited"
+  ],
+  "nameservers": [
+    "ns-118.awsdns-14.com",
+    "ns-985.awsdns-59.net",
+    "ns-1258.awsdns-29.org",
+    "ns-1912.awsdns-47.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com",
+  "registrarUrl": "https://www.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "4805058800",
+  "registrarWhoisServer": "whois.godaddy.com"
+}

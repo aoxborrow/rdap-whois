@@ -1,0 +1,28 @@
+###%%% QRY: telekom.de
+###%%% SRV: whois.denic.de
+###%%% TME: 2026-07-16T11:38:16Z
+
+% Restricted rights.
+% 
+% Terms and Conditions of Use
+% 
+% The above data may only be used within the scope of technical or
+% administrative necessities of Internet operation or to remedy legal
+% problems.
+% The use for other purposes, in particular for advertising, is not permitted.
+% 
+% The DENIC whois service on port 43 doesn't disclose any information concerning
+% the domain holder, general request and abuse contact.
+% This information can be obtained through use of our web-based whois service
+% available at the DENIC website:
+% https://webwhois.denic.de/?lang=en
+% 
+% 
+
+Domain: telekom.de
+Nserver: dns1.telekom.de 194.25.225.19
+Nserver: dns2.telekom.de 194.25.225.3
+Nserver: ns1.telekom.net
+Nserver: pns.dtag.de
+Status: connect
+Changed: 2023-07-17T10:11:30+02:00

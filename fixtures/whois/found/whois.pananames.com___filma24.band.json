@@ -1,0 +1,62 @@
+{
+  "query": "filma24.band",
+  "server": "whois.pananames.com",
+  "domainId": "7975781adc614ffd85cb6e062b5982d2-DONUTS",
+  "domainName": "filma24.band",
+  "creationDate": "2024-09-10T19:58:09Z",
+  "expirationDate": "2025-09-10T19:58:09Z",
+  "registrarExpirationDate": "2025-09-10T19:58:09Z",
+  "updatedDate": "2024-09-25T14:22:07Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited -- http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jeff.ns.cloudflare.com",
+    "zara.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1449",
+  "registrarIanaId": 1449,
+  "registrarName": "URL SOLUTIONS INC.",
+  "registrarUrl": "http://www.pananames.com",
+  "registrarAbuseEmail": "abuse@pananames.com",
+  "registrarAbusePhone": "+1.4692250522",
+  "registrarWhoisServer": "whois.pananames.com",
+  "registrantName": "Private Whois",
+  "registrantOrg": "GLOBAL DOMAIN PRIVACY SERVICES INC",
+  "registrantAddress": [
+    "Tower Financial Center Flr 35, 50th St y E. Mendez St"
+  ],
+  "registrantCity": "Panama",
+  "registrantState": "NA",
+  "registrantPostalCode": "NA",
+  "registrantCountry": "PA",
+  "registrantPhone": "+1.4692250522",
+  "registrantEmail": "filma24.band.hm8xeep088d6@domains-anonymizer.com",
+  "adminName": "Private Whois",
+  "adminOrg": "GLOBAL DOMAIN PRIVACY SERVICES INC",
+  "adminAddress": [
+    "Tower Financial Center Flr 35, 50th St y E. Mendez St"
+  ],
+  "adminCity": "Panama",
+  "adminState": "NA",
+  "adminPostalCode": "NA",
+  "adminCountry": "PA",
+  "adminPhone": "+1.4692250522",
+  "adminEmail": "admin.filma24.band.hm8xeep088d6@domains-anonymizer.com",
+  "techName": "Private Whois",
+  "techOrg": "GLOBAL DOMAIN PRIVACY SERVICES INC",
+  "techAddress": [
+    "Tower Financial Center Flr 35, 50th St y E. Mendez St"
+  ],
+  "techCity": "Panama",
+  "techState": "NA",
+  "techPostalCode": "NA",
+  "techCountry": "PA",
+  "techPhone": "+1.4692250522",
+  "techEmail": "tech.filma24.band.hm8xeep088d6@domains-anonymizer.com"
+}

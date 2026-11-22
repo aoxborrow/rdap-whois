@@ -1,0 +1,56 @@
+{
+  "domainName": "avito.st",
+  "creationDate": "2010-10-13T12:35:11Z",
+  "expirationDate": "2025-10-13T21:59:59Z",
+  "updatedDate": "2024-10-08T22:00:28Z",
+  "status": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.edgedns.ru",
+    "ns2.edgedns.world"
+  ],
+  "registrarName": "EPAG Domainservices GmbH",
+  "registrarUrl": "https://epag.de",
+  "registrantName": "Anastasiya Yatchenko (AT4300413545673)",
+  "registrantOrg": "LLC KEKh eKOMMERC",
+  "registrantAddress": [
+    "ul. Lesnaya, d. 7, komn. 1"
+  ],
+  "registrantCity": "Moscow",
+  "registrantPostalCode": "125196",
+  "registrantCountry": "RU",
+  "registrantPhone": "+7.4952283630",
+  "registrantEmail": "malisitskaya@avito.ru",
+  "adminName": "Anastasiya Yatchenko (AT4300413555773)",
+  "adminOrg": "LLC KEKh eKOMMERC",
+  "adminAddress": [
+    "ul. Lesnaya, d. 7, komn. 1"
+  ],
+  "adminCity": "Moscow",
+  "adminPostalCode": "125196",
+  "adminCountry": "RU",
+  "adminPhone": "+7.4952283630",
+  "adminEmail": "malisitskaya@avito.ru",
+  "techName": "Evgeny Sekachev (AT3753504195073)",
+  "techOrg": "RU-CENTER",
+  "techAddress": [
+    "2/1, 3d Khoroshevskaya str."
+  ],
+  "techCity": "Moscow",
+  "techPostalCode": "123308",
+  "techCountry": "RU",
+  "techPhone": "+7.4957370601",
+  "techEmail": "omt18-epnic@ru.mailc.at",
+  "billingName": "Evgeny Sekachev (R32122-EPNIC)",
+  "billingOrg": "RU-CENTER",
+  "billingAddress": [
+    "2/1, 3d Khoroshevskaya str."
+  ],
+  "billingCity": "Moscow",
+  "billingState": "Moscow",
+  "billingPostalCode": "123308",
+  "billingCountry": "RU",
+  "billingPhone": "+7.4957370601",
+  "billingEmail": "omt18-epnic@ru.mailc.at"
+}

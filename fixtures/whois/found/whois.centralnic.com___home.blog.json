@@ -1,0 +1,36 @@
+{
+  "query": "home.blog",
+  "server": "whois.centralnic.com",
+  "domainId": "D120017951-CNIC",
+  "domainName": "home.blog",
+  "creationDate": "2016-10-10T15:41:37Z",
+  "expirationDate": "2025-10-10T23:59:59Z",
+  "updatedDate": "2024-10-04T00:01:11Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.automattic.com",
+    "ns2.automattic.com",
+    "ns3.automattic.com",
+    "ns4.automattic.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Knock Knock WHOIS There, LLC",
+  "registrarUrl": "https://my.blog",
+  "registrarAbuseEmail": "admin@my.blog",
+  "registrarAbusePhone": "+1.8772733049",
+  "registrarWhoisServer": "whois.centralnic.com",
+  "registrantOrg": "Knock Knock WHOIS There, LLC",
+  "registrantState": "CA",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

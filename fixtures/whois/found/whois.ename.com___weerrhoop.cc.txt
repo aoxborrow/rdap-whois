@@ -1,0 +1,64 @@
+###%%% QRY: weerrhoop.cc
+###%%% SRV: whois.ename.com
+###%%% TME: 2026-11-22T08:08:54Z
+
+Domain Name: weerrhoop.cc
+Registry Domain ID: 126233740_DOMAIN_CC-VRSN
+Registrar WHOIS Server: whois.ename.com
+Registrar URL: http://www.ename.net
+Updated Date: 2026-09-23T18:46:39Z
+Creation Date: 2016-10-02T01:51:19Z
+Registrar Registration Expiration Date: 2027-10-02T01:51:19Z
+Registrar: eName Technology Co., Ltd.
+Registrar IANA ID: 1331
+Registrar Abuse Contact Email: abuse@ename.com
+Registrar Abuse Contact Phone: +86.4000044400
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: ran yong 
+Registrant Organization: ran yong 
+Registrant Street: guang dong zhu hai shi dou men qu jing an zhen xi di lu 2 2 hao 
+Registrant City: zhu hai shi 
+Registrant State/Province: guang dong 
+Registrant Postal Code: 519000
+Registrant Country: CN
+Registrant Phone: 13246048759
+Registrant Phone Ext: 
+Registrant Fax: 13246048759
+Registrant Fax Ext: 
+Registrant Email: 2057689561@qq.com
+Registry Admin ID: Not Available From Registry
+Admin Name: ran yong 
+Admin Organization: ran yong 
+Admin Street: guang dong zhu hai shi dou men qu jing an zhen xi di lu 2 2 hao 
+Admin City: zhu hai shi 
+Admin State/Province: guang dong 
+Admin Postal Code: 519000
+Admin Country: CN
+Admin Phone: 13246048759
+Admin Phone Ext: 
+Admin Fax: 13246048759
+Admin Fax Ext: 
+Admin Email: 2057689561@qq.com
+Registry Tech ID: Not Available From Registry
+Tech Name: ran yong 
+Tech Organization: ran yong 
+Tech Street: guang dong zhu hai shi dou men qu jing an zhen xi di lu 2 2 hao 
+Tech City: zhu hai shi 
+Tech State/Province: guang dong 
+Tech Postal Code: 519000
+Tech Country: CN
+Tech Phone: 13246048759
+Tech Phone Ext: 
+Tech Fax: 13246048759
+Tech Fax Ext: 
+Tech Email: 2057689561@qq.com
+Name Server:ns1.ename.net
+Name Server:ns2.ename.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T16:08:53Z <<<
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

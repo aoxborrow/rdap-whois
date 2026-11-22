@@ -1,0 +1,69 @@
+###%%% QRY: kuka.ninja
+###%%% SRV: whois.registrar.amazon
+###%%% TME: 2025-03-21T04:13:17Z
+
+Domain Name: kuka.ninja
+Registry Domain ID: 
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: https://registrar.amazon.com
+Updated Date: 2025-01-07T15:03:16Z
+Creation Date: 2025-01-07T14:28:40Z
+Registrar Registration Expiration Date: 2026-01-07T14:28:40Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of kuka.ninja owner
+Registrant Organization: Identity Protection Service
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext:
+Registrant Fax: +44.1483304031
+Registrant Fax Ext:
+Registrant Email: 2b7b4c6b-8758-4743-b401-3490df300ad5@identity-protect.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of kuka.ninja owner
+Tech Organization: Identity Protection Service
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext:
+Tech Fax: +44.1483304031
+Tech Fax Ext:
+Tech Email: 2b7b4c6b-8758-4743-b401-3490df300ad5@identity-protect.org
+Name Server: PEYTON.NS.CLOUDFLARE.COM
+Name Server: WREN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-21T04:13:17Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+By submitting a query to the Amazon Registrar, Inc. WHOIS database, you
+agree to abide by the following terms. The data in Amazon Registrar, Inc.'s
+WHOIS database is provided by Amazon Registrar, Inc. for the sole purpose of
+assisting you in obtaining information about domain name accuracy. You agree
+to use this data only for lawful purposes and further agree not to use this
+data for any unlawful purpose or to: (1) enable, allow, or otherwise support
+the transmission by email, telephone, or facsimile of commercial advertising
+or unsolicited bulk email, or (2) enable high volume, automated, electronic
+processes to collect or compile this data for any purpose, including mining
+this data for your own personal or commercial purposes. Amazon Registrar, Inc.
+reserves the right to restrict or terminate your access to the data if you fail
+to abide by these terms of use. Amazon Registrar, Inc. reserves the right
+to modify these terms at any time.
+
+Visit Amazon Registrar, Inc. at https://registrar.amazon.com
+
+Contact information available here:
+https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-contact-support.html
+
+© 2020, Amazon.com, Inc., or its affiliates

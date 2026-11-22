@@ -1,0 +1,36 @@
+{
+  "query": "boqueria.barcelona",
+  "server": "whois.cdmon.com",
+  "domainName": "boqueria.barcelona",
+  "creationDate": "2016-03-20T15:44:04Z",
+  "expirationDate": "2027-03-20T15:44:04Z",
+  "registrarExpirationDate": "2027-03-20T15:44:04Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns.dinahosting.com",
+    "ns2.dinahosting.com",
+    "ns3.dinahosting.com",
+    "ns4.dinahosting.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1403",
+  "registrarIanaId": 1403,
+  "registrarName": "10DENCEHISPAHARD, S.L",
+  "registrarReseller": "LA TEVA WEB SL",
+  "registrarUrl": "https://www.cdmon.com",
+  "registrarAbuseEmail": "abuse@cdmon.com",
+  "registrarAbusePhone": "+34.935677577",
+  "registrarWhoisServer": "whois.cdmon.com",
+  "registrantOrg": "Associacio de Comerciants Mercat Boqueria",
+  "registrantState": "Barcelona",
+  "registrantCountry": "ES",
+  "registrantEmail": "http://www.whoiscontactsprotection.com/",
+  "adminEmail": "http://www.whoiscontactsprotection.com/",
+  "techEmail": "http://www.whoiscontactsprotection.com/"
+}

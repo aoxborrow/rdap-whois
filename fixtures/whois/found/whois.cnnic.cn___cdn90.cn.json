@@ -1,0 +1,24 @@
+{
+  "query": "cdn90.cn",
+  "server": "whois.cnnic.cn",
+  "domainId": "20170913s10001s95804771-cn",
+  "domainName": "cdn90.cn",
+  "creationDate": "2017-09-13T17:54:28Z",
+  "expirationDate": "2027-09-13T17:54:28Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "dns1.cncdomain.com",
+    "dns2.cncdomain.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "阿里云计算有限公司（万网）",
+  "registrantId": "网宿科技股份有限公司北京分公司",
+  "registrantName": "网宿科技股份有限公司北京分公司",
+  "registrantEmail": "wsdnsgroup@wangsu.com"
+}

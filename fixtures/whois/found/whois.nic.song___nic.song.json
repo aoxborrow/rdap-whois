@@ -1,0 +1,36 @@
+{
+  "query": "nic.song",
+  "server": "whois.nic.song",
+  "domainId": "REDACTED",
+  "domainName": "nic.song",
+  "creationDate": "2013-08-09T22:57:11Z",
+  "expirationDate": "2027-08-08T23:59:59Z",
+  "updatedDate": "2026-09-23T00:00:20Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.song",
+    "v0n1.nic.song",
+    "v0n2.nic.song",
+    "v0n3.nic.song",
+    "v2n0.nic.song",
+    "v2n1.nic.song"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

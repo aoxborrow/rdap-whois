@@ -1,0 +1,68 @@
+{
+  "query": "nic.grocery",
+  "server": "whois.nic.grocery",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "nic.grocery",
+  "creationDate": "2024-08-01T02:15:51Z",
+  "expirationDate": "2027-08-01T02:15:51Z",
+  "updatedDate": "2026-09-15T02:15:55Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.grocery",
+    "b.nic.grocery",
+    "c.nic.grocery",
+    "x.nic.grocery",
+    "y.nic.grocery",
+    "z.nic.grocery"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Wal-Mart Stores, Inc.",
+  "registrarUrl": "https://nic.walmart",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.4242624238",
+  "registrarWhoisServer": "whois.nic.walmart",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Wal-Mart Stores, Inc.",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "AR",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

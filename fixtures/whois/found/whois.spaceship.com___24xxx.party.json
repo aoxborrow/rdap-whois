@@ -1,0 +1,68 @@
+{
+  "query": "24xxx.party",
+  "server": "whois.spaceship.com",
+  "domainId": "DCD33BF4FAF604ACBA14E6EFC06C64E86-GDREG",
+  "domainName": "24xxx.party",
+  "creationDate": "2024-08-19T21:41:41Z",
+  "expirationDate": "2025-08-19T21:41:41Z",
+  "registrarExpirationDate": "2025-08-19T21:41:41Z",
+  "updatedDate": "2024-08-19T21:41:41Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "nadia.ns.cloudflare.com",
+    "zeus.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3862",
+  "registrarIanaId": 3862,
+  "registrarName": "Spaceship, Inc.",
+  "registrarReseller": "Spaceship, Inc.",
+  "registrarUrl": "https://www.spaceship.com",
+  "registrarAbuseEmail": "abuse@spaceship.com",
+  "registrarAbusePhone": "+1.6613102107",
+  "registrarWhoisServer": "whois.spaceship.com",
+  "registrantId": "EIP5CJT1PJ05JZHG",
+  "registrantName": "Redacted for Privacy Purposes",
+  "registrantOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "registrantAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "registrantCity": "Reykjavik",
+  "registrantState": "Capital Region",
+  "registrantPostalCode": "101",
+  "registrantCountry": "IS",
+  "registrantPhone": "+354.4212434",
+  "registrantEmail": "https://www.spaceship.com/domains/whois/contact/?d=24xxx.party",
+  "adminId": "5VYF0Z8LNOL3CQZU",
+  "adminName": "Redacted for Privacy Purposes",
+  "adminOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "adminAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "adminCity": "Reykjavik",
+  "adminState": "Capital Region",
+  "adminPostalCode": "101",
+  "adminCountry": "IS",
+  "adminPhone": "+354.4212434",
+  "adminEmail": "https://www.spaceship.com/domains/whois/contact/?d=24xxx.party",
+  "techId": "FS3EYGX8TB2ZDYS4",
+  "techName": "Redacted for Privacy Purposes",
+  "techOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "techAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "techCity": "Reykjavik",
+  "techState": "Capital Region",
+  "techPostalCode": "101",
+  "techCountry": "IS",
+  "techPhone": "+354.4212434",
+  "techEmail": "https://www.spaceship.com/domains/whois/contact/?d=24xxx.party"
+}

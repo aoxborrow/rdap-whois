@@ -1,0 +1,30 @@
+{
+  "query": "framer.website",
+  "server": "whois.nic.website",
+  "domainId": "D260091112-CNIC",
+  "domainName": "framer.website",
+  "creationDate": "2021-11-19T16:04:21Z",
+  "expirationDate": "2029-11-19T23:59:59Z",
+  "updatedDate": "2026-11-21T13:43:23Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-336.awsdns-42.com",
+    "ns-792.awsdns-35.net",
+    "ns-1243.awsdns-27.org",
+    "ns-1818.awsdns-35.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://www.cscdbs.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "whois.cscglobal.com"
+}

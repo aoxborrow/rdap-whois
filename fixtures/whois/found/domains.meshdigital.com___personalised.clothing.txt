@@ -1,0 +1,42 @@
+###%%% QRY: personalised.clothing
+###%%% SRV: domains.meshdigital.com
+###%%% TME: 2026-11-22T08:09:07Z
+
+Domain Name: personalised.clothing
+Registry Domain ID: 4d4246598f104a65a6706404e0034e15-D
+Registrar WHOIS Server: whois.meshdigital.com
+Registrar URL: http://www.domainbox.com
+Updated Date: 2025-01-30T04:23:24Z
+Creation Date: 2014-02-04T15:51:44Z
+Registrar Registration Expiration Date: 2027-02-04T15:51:44Z
+Registrar: MESH DIGITAL LIMITED
+Registrar IANA ID: 1390
+Registrar Abuse Contact Email: abuse@domainbox.com
+Registrar Abuse Contact Phone: +1.8779770099
+Domain Status: ok https://icann.org/epp#ok
+Registrant State/Province: Staffordshire
+Registrant Country: GB
+Registrant Email: https://webform.meshdigital.com
+Name Server: NS.MAINNAMESERVER.COM
+Name Server: NS2.MAINNAMESERVER.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:09:06Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Data in this WHOIS database is provided
+for information purposes only, and is designed to assist persons in
+obtaining information related to domain name registration records.
+It's accuracy is not guaranteed. By submitting a
+WHOIS query, you agree that you will use this Data only for lawful
+purposes and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or (2) enable high volume, automated, electronic processes that
+apply to this WHOIS or any of its related systems. The provider of
+this WHOIS reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+LACK OF A DOMAIN RECORD IN THE WHOIS DATABASE DOES
+NOT INDICATE DOMAIN AVAILABILITY.
+
+**NOTICE** This WHOIS server is being retired. Please use our RDAP service instead.

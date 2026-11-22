@@ -1,0 +1,27 @@
+{
+  "query": "brainly.lat",
+  "server": "whois.nic.lat",
+  "domainId": "D330287218-CNIC",
+  "domainName": "brainly.lat",
+  "creationDate": "2015-07-31T15:59:27Z",
+  "expirationDate": "2027-07-31T23:59:59Z",
+  "updatedDate": "2026-07-26T05:02:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "adi.ns.cloudflare.com",
+    "chad.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

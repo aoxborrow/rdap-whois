@@ -1,0 +1,17 @@
+###%%% QRY: ctdns.cn
+###%%% SRV: whois.cnnic.cn
+###%%% TME: 2026-07-16T11:14:25Z
+
+Domain Name: ctdns.cn
+ROID: 20130522s10001s63886522-cn
+Domain Status: ok
+Registrant: 天翼云科技有限公司
+Registrant Contact Email: zenggengf@chinatelecom.cn
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: ns4.ctdns.cn
+Name Server: ns1.ctdns.cn
+Name Server: ns2.ctdns.cn
+Name Server: ns3.ctdns.cn
+Registration Time: 2013-05-22 13:53:31
+Expiration Time: 2027-05-22 13:53:31
+DNSSEC: unsigned

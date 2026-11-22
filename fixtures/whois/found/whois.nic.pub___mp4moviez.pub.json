@@ -1,0 +1,28 @@
+{
+  "query": "mp4moviez.pub",
+  "server": "whois.nic.pub",
+  "domainId": "ff68fba3ea04463d9fc58dd50eeeb10c-DONUTS",
+  "domainName": "mp4moviez.pub",
+  "creationDate": "2025-01-30T05:31:03Z",
+  "expirationDate": "2026-01-30T05:31:03Z",
+  "updatedDate": "2025-02-04T05:32:00Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jerry.ns.cloudflare.com",
+    "teagan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com"
+}

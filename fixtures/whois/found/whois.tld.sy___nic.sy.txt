@@ -1,0 +1,17 @@
+###%%% QRY: nic.sy
+###%%% SRV: whois.tld.sy
+###%%% TME: 2026-07-16T23:58:29Z
+
+Domain Name: nic.sy
+Domain ID: 121346-sy
+WHOIS Server: 
+Referral URL: 
+Creation Date: 2026-06-28T06:46:32.922Z
+Registry Expiry Date: 2027-06-28T06:46:32.953Z
+Sponsoring Registrar: ?????? ??????? ?????? ????? ?????????
+Sponsoring Registrar IANA ID: 
+Domain Status: ok
+Name Server: ns3.tld.sy
+Name Server: ns4.tld.sy
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:30:07.918Z <<<

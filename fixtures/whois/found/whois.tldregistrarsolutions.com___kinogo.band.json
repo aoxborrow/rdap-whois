@@ -1,0 +1,76 @@
+{
+  "query": "kinogo.band",
+  "server": "whois.tldregistrarsolutions.com",
+  "domainId": "286ee4f5e06743e3a237b48d61c861a0-DONUTS",
+  "domainName": "kinogo.band",
+  "creationDate": "2024-03-26T14:53:52Z",
+  "expirationDate": "2027-03-26T14:53:52Z",
+  "registrarExpirationDate": "2027-03-26T14:53:52Z",
+  "updatedDate": "2026-03-26T09:04:07Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "anirban.ns.cloudflare.com",
+    "davina.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1564",
+  "registrarIanaId": 1564,
+  "registrarName": "TLD Registrar Solutions Ltd.",
+  "registrarAbuseEmail": "abuse@tldregistrarsolutions.com",
+  "registrarAbusePhone": "+1.5167401179",
+  "registrarWhoisServer": "whois.tldregistrarsolutions.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Whois Privacy Corp.",
+  "registrantAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "registrantCity": "Nassau",
+  "registrantState": "New Providence",
+  "registrantPostalCode": "00000",
+  "registrantCountry": "BS",
+  "registrantPhone": "+1.5163872248",
+  "registrantEmail": "OWNER@kinogo.band.customers.whoisprivacycorp.com",
+  "adminId": "Not Available From Registry",
+  "adminName": "Domain Admin",
+  "adminOrg": "Whois Privacy Corp.",
+  "adminAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "adminCity": "Nassau",
+  "adminState": "New Providence",
+  "adminPostalCode": "00000",
+  "adminCountry": "BS",
+  "adminPhone": "+1.5163872248",
+  "adminEmail": "ADMIN@kinogo.band.customers.whoisprivacycorp.com",
+  "techId": "Not Available From Registry",
+  "techName": "Domain Admin",
+  "techOrg": "Whois Privacy Corp.",
+  "techAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "techCity": "Nassau",
+  "techState": "New Providence",
+  "techPostalCode": "00000",
+  "techCountry": "BS",
+  "techPhone": "+1.5163872248",
+  "techEmail": "TECH@kinogo.band.customers.whoisprivacycorp.com",
+  "billingId": "Not Available From Registry",
+  "billingName": "Domain Admin",
+  "billingOrg": "Whois Privacy Corp.",
+  "billingAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "billingCity": "Nassau",
+  "billingState": "New Providence",
+  "billingPostalCode": "00000",
+  "billingCountry": "BS",
+  "billingPhone": "+1.5163872248",
+  "billingEmail": "BILLING@kinogo.band.customers.whoisprivacycorp.com"
+}

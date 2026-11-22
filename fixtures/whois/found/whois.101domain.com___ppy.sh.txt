@@ -1,0 +1,18 @@
+###%%% QRY: ppy.sh
+###%%% SRV: whois.101domain.com
+###%%% TME: 2026-11-22T08:11:51Z
+
+Domain Name: PPY.SH
+Registrar WHOIS Server: whois.101domain.com
+Registrar URL: https://www.101domain.com/
+Updated Date: 2024-01-26T03:24:23Z
+Creation Date: 2007-01-09T18:54:36Z
+Registrar Registration Expiration Date: 2032-01-09T18:54:36Z
+Registrar: https://www.101domain.com/
+Registrar IANA ID: 1011
+Registrar Abuse Contact Email: abuse@101domain.com
+Registrar Abuse Contact Phone: +1.8582954626
+Name Server: ZARA.NS.CLOUDFLARE.COM
+Name Server: KIP.NS.CLOUDFLARE.COM
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2026-11-22 <<<

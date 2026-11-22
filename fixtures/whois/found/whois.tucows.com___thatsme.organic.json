@@ -1,0 +1,45 @@
+{
+  "query": "thatsme.organic",
+  "server": "whois.tucows.com",
+  "domainId": "3a2a61fbfa76408aa02628f4d48b6a69-DONUTS",
+  "domainName": "thatsme.organic",
+  "creationDate": "2021-02-19T20:15:30Z",
+  "expirationDate": "2027-02-19T20:15:30Z",
+  "registrarExpirationDate": "2027-02-19T20:15:30Z",
+  "updatedDate": "2026-02-07T07:22:10Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-cloud-b1.googledomains.com",
+    "ns-cloud-b2.googledomains.com",
+    "ns-cloud-b3.googledomains.com",
+    "ns-cloud-b4.googledomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "TUCOWS.COM, CO.",
+  "registrarReseller": "Shopify",
+  "registrarUrl": "http://tucowsdomains.com",
+  "registrarAbuseEmail": "domainabuse@tucows.com",
+  "registrarAbusePhone": "+1.4165350123",
+  "registrarWhoisServer": "whois.tucows.com",
+  "registrantName": "Contact Privacy Inc. Customer 0160915844",
+  "registrantOrg": "Contact Privacy Inc. Customer 0160915844",
+  "registrantAddress": [
+    "96 Mowat Ave"
+  ],
+  "registrantCity": "Toronto",
+  "registrantState": "ON",
+  "registrantPostalCode": "M6K 3M1",
+  "registrantCountry": "CA",
+  "registrantPhone": "+1.4165385457",
+  "registrantEmail": "thatsme.organic@contactprivacy.com"
+}

@@ -1,0 +1,35 @@
+{
+  "query": "cast4.audio",
+  "server": "whois.ledl.net",
+  "domainName": "cast4.audio",
+  "creationDate": "2016-01-03T22:15:04Z",
+  "expirationDate": "2027-01-03T23:59:59Z",
+  "registrarExpirationDate": "2027-01-03T23:59:59Z",
+  "updatedDate": "2017-05-19T08:47:54Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.domaintechnik.at",
+    "ns2.domaintechnik.at",
+    "ns3.domaintechnik.at",
+    "ns4.domaintechnik.at"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "809",
+  "registrarIanaId": 809,
+  "registrarName": "Ledl.net GmbH & Co KG",
+  "registrarUrl": "http://www.ledl.net",
+  "registrarAbuseEmail": "abuse@ledl.net",
+  "registrarAbusePhone": "+43.621520888999",
+  "registrarWhoisServer": "whois.ledl.net",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantCountry": "AT",
+  "registrantEmail": "https://whois.ledl.net/contact"
+}

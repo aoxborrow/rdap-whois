@@ -1,0 +1,52 @@
+{
+  "domainId": "6808-NIRA",
+  "domainName": "nic.net.ng",
+  "creationDate": "2009-05-13T14:27:27Z",
+  "expirationDate": "2099-01-30T23:00:00Z",
+  "registrarExpirationDate": "2099-01-30T23:00:00Z",
+  "updatedDate": "2023-03-07T09:31:53Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.desec.io",
+    "ns2.desec.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Nigeria Internet Registration Association (NiRA)",
+  "registrarAddress": [
+    "Nigeria Internet Registration Association (NiRA). 8, Funsho William Avenue, Iponri, Surulere, Lagos."
+  ],
+  "registrarCountry": "NG",
+  "registrarAbuseEmail": "coo@nira.org.ng",
+  "registrantId": "80023-NIRA",
+  "registrantName": "NiRA",
+  "registrantOrg": "NiRA",
+  "registrantAddress": [
+    "8 Funsho Williams Avenue"
+  ],
+  "registrantCity": "Lagos",
+  "registrantState": "Lagos",
+  "registrantPostalCode": "23401",
+  "registrantCountry": "NG",
+  "registrantPhone": "+234 8172004272",
+  "registrantEmail": "admin@nira.org.ng",
+  "adminId": "292688-NIRA",
+  "adminName": "NiRA",
+  "adminOrg": "NiRA",
+  "adminAddress": [
+    "8, Funsho Williams Avenue"
+  ],
+  "adminCity": "Lagos",
+  "adminState": "Lagos",
+  "adminPostalCode": "23401",
+  "adminCountry": "NG",
+  "adminPhone": "+234 8172004272",
+  "adminEmail": "coo@nira.org.ng"
+}

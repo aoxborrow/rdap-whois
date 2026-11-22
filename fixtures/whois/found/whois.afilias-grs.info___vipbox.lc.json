@@ -1,0 +1,71 @@
+{
+  "query": "vipbox.lc",
+  "server": "whois.afilias-grs.info",
+  "domainId": "REDACTED",
+  "domainName": "vipbox.lc",
+  "creationDate": "2020-01-28T13:52:51Z",
+  "expirationDate": "2028-01-28T13:52:51Z",
+  "updatedDate": "2026-08-12T04:48:46Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "bethany.ns.cloudflare.com",
+    "bryce.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarUrl": "http://key-systems.net",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "SC",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

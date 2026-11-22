@@ -1,0 +1,29 @@
+###%%% QRY: web.de
+###%%% SRV: whois.denic.de
+###%%% TME: 2025-03-20T12:21:33Z
+
+% Restricted rights.
+% 
+% Terms and Conditions of Use
+% 
+% The above data may only be used within the scope of technical or
+% administrative necessities of Internet operation or to remedy legal
+% problems.
+% The use for other purposes, in particular for advertising, is not permitted.
+% 
+% The DENIC whois service on port 43 doesn't disclose any information concerning
+% the domain holder, general request and abuse contact.
+% This information can be obtained through use of our web-based whois service
+% available at the DENIC website:
+% http://www.denic.de/en/domains/whois-service/web-whois.html
+% 
+% 
+
+Domain: web.de
+Nserver: ns-webde.ui-dns.biz
+Nserver: ns-webde.ui-dns.com
+Nserver: ns-webde.ui-dns.de
+Nserver: ns-webde.ui-dns.org
+Dnskey: 257 3 8 AwEAAcBs30zgmOeYcUYzJetRzRYGQXlnXpv2gO3KWf5BYRn9OqFtUBzFOqO16Ow2XPqR8SWqpAVpnToQICICZyf58SHaefGn94fTj+PlwJi4HhoCbim2U3G5sYtl5xoNfUCaDXDQFJp+HnZlaA9afHutOVFtqCmMHV+2ApSyOFFETQNmq4YoxLxiJoxSjvQAaaiJKVoA4wykjXALMyCmbXGH4aMVbW2m0Fuqe+nKU8myW14nCASBo0mDO6cBNsBwu7IiL4SxxnflDCSTkn/FnCKtzf7aVzzrRM4SqTe4NOm7wPmCZiAGoxOL15PZ7YQSt9BEXU6gMdGxCGVBdtgM13NfziM=
+Status: connect
+Changed: 2016-04-11T11:09:54+02:00

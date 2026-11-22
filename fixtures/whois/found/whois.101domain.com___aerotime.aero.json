@@ -1,0 +1,53 @@
+{
+  "query": "aerotime.aero",
+  "server": "whois.101domain.com",
+  "domainName": "aerotime.aero",
+  "creationDate": "2015-02-02T14:21:51Z",
+  "expirationDate": "2027-02-02T14:21:51Z",
+  "registrarExpirationDate": "2027-02-02T14:21:51Z",
+  "updatedDate": "2026-02-20T16:58:06Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ollie.ns.cloudflare.com",
+    "todd.ns.cloudflare.com"
+  ],
+  "registrarId": "1011",
+  "registrarIanaId": 1011,
+  "registrarName": "https://www.101domain.com/",
+  "registrarUrl": "https://www.101domain.com",
+  "registrarAbuseEmail": "abuse@101domain.com",
+  "registrarAbusePhone": "+1.8582954626",
+  "registrarWhoisServer": "whois.101domain.com",
+  "registrantOrg": "Avia Solutions Group",
+  "registrantAddress": [
+    "Smolensko str. 10"
+  ],
+  "registrantCity": "Vilnius",
+  "registrantPostalCode": "LT-03201",
+  "registrantCountry": "LT",
+  "registrantPhone": "+370.52525500",
+  "registrantFax": "+370.52525501",
+  "adminOrg": "Avia Solutions Group",
+  "adminAddress": [
+    "Smolensko str. 10"
+  ],
+  "adminCity": "Vilnius",
+  "adminPostalCode": "LT-03201",
+  "adminCountry": "LT",
+  "adminPhone": "+370.52525500",
+  "adminFax": "+370.52525501",
+  "techOrg": "Avia Solutions Group",
+  "techAddress": [
+    "Smolensko str. 10"
+  ],
+  "techCity": "Vilnius",
+  "techPostalCode": "LT-03201",
+  "techCountry": "LT",
+  "techPhone": "+370.52525500",
+  "techFax": "+370.52525501"
+}

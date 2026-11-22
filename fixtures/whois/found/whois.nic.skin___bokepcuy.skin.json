@@ -1,0 +1,30 @@
+{
+  "query": "bokepcuy.skin",
+  "server": "whois.nic.skin",
+  "domainId": "D411535104-CNIC",
+  "domainName": "bokepcuy.skin",
+  "creationDate": "2023-11-20T19:05:16Z",
+  "expirationDate": "2027-11-20T23:59:59Z",
+  "updatedDate": "2026-11-21T00:12:53Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "dns101.registrar-servers.com",
+    "dns102.registrar-servers.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

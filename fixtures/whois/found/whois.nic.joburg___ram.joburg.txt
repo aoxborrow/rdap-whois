@@ -1,0 +1,41 @@
+###%%% QRY: ram.joburg
+###%%% SRV: whois.nic.joburg
+###%%% TME: 2025-03-20T16:22:30Z
+
+Domain Name: ram.joburg
+Registry Domain ID: dom_7K5--1
+Registrar WHOIS Server:
+Registrar URL: https://opensrs.com
+Updated Date: 2025-01-01T17:10:14Z
+Creation Date: 2024-10-18T17:10:12Z
+Registry Expiry Date: 2025-10-18T17:10:12Z
+Registrar Registration Expiration Date: 2025-10-18T17:10:12Z
+Registrar: Open SRS
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: nicrelations@opensrs.com
+Registrar Abuse Contact Phone: +49.2283296859
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: Njalla Okta LLC
+Registrant Country: KN
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: jocelyn.ns.cloudflare.com
+Name Server: logan.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-20T16:22:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Complaint/s Procedure and Form: https://registry.net.za/content.php?gen=1&contentid=226
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://registry.net.za/whois_terms
+# Copyright (c) ZACR 1995-2025

@@ -1,0 +1,9 @@
+###%%% QRY: www.gov.mo
+###%%% SRV: whois.monic.mo
+###%%% TME: 2025-03-20T16:19:00Z
+
+% Domain Information over Whois protocol
+%
+% Monic Whois Server Version 1.0
+
+No match for www.gov.mo

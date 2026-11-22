@@ -1,0 +1,62 @@
+{
+  "query": "prof.actor",
+  "server": "whois.reg.com",
+  "domainId": "ec9571e209d04236aa4bf6a12519e096-DONUTS",
+  "domainName": "prof.actor",
+  "creationDate": "2023-06-19T06:14:26Z",
+  "expirationDate": "2027-06-19T06:14:26Z",
+  "registrarExpirationDate": "2027-06-19T06:14:26Z",
+  "updatedDate": "2026-05-09T06:44:39Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns5.hosting.reg.ru",
+    "ns6.hosting.reg.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarUrl": "https://www.reg.com",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com",
+  "registrantId": "oget14n2p-kvqcr3",
+  "registrantName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "registrantCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantPhone": "+7.4955801111",
+  "registrantFax": "+7.4955801111",
+  "registrantEmail": "prof.actor@regprivate.ru",
+  "adminId": "jgp0xi8qa3ogm7-w",
+  "adminName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "adminCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminPhone": "+7.4955801111",
+  "adminFax": "+7.4955801111",
+  "adminEmail": "prof.actor@regprivate.ru",
+  "techId": "wztwxm5l2bhuq4q9",
+  "techName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "techCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techPhone": "+7.4955801111",
+  "techFax": "+7.4955801111",
+  "techEmail": "prof.actor@regprivate.ru"
+}

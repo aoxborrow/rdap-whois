@@ -1,0 +1,76 @@
+###%%% QRY: naver.com
+###%%% SRV: whois.gabia.com
+###%%% TME: 2025-03-20T15:34:20Z
+
+Domain Name:                            naver.com
+Registry Domain ID:                     
+Registrar WHOIS Server:                 whois.gabia.com
+Registrar URL:                          https://www.gabia.com
+Updated Date:                           2023-06-29T06:40:26Z
+Creation Date:                          1997-09-12
+Registrar Registration Expiration Date: 2032-09-11
+Registrar:                              gabia
+Registrar IANA ID:                      244
+Reseller:                               gabia
+Domain Status:                          ok https://icann.org/epp#ok
+Registry Registrant ID:                 Not Available From Registry
+Registrant Name:                        NAVER Corp.
+Registrant Organization:                NAVER Corp.
+Registrant Street:                      6 Buljung-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, 463-867, Korea
+Registrant City:                        Gyeonggi
+Registrant State/Province:              
+Registrant Postal Code:                 463463
+Registrant Country:                     KR
+Registrant Phone:                       +82.215883829
+Registrant Phone Ext:                   
+Registrant Fax:                         
+Registrant Fax Ext:                     
+Registrant Email:                       white.4818@navercorp.com
+Registry Admin ID:                      Not Available From Registry
+Admin Name:                             NAVER Corp.
+Admin Organization:                     
+Admin Street:                           6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do
+Admin City:                             Gyeonggi
+Admin State/Province:                   
+Admin Postal Code:                      13561
+Admin Country:                          KR
+Admin Phone:                            +82.28293528
+Admin Phone Ext:                        
+Admin Fax:                              
+Admin Fax Ext:                          
+Admin Email:                            dl_ssl@navercorp.com
+Registry Tech ID:                      Not Available From Registry
+Tech Name:                             NAVER Corp.
+Tech Organization:                     
+Tech Street:                           6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do
+Tech City:                             Gyeonggi
+Tech State/Province:                   
+Tech Postal Code:                      13561
+Tech Country:                          KR
+Tech Phone:                            +82.28293528
+Tech Phone Ext:                        
+Tech Fax:                              
+Tech Fax Ext:                          
+Tech Email:                            dl_ssl@navercorp.com
+Name Server:                            ns1.naver.com
+Name Server:                            ns2.naver.com
+DNSSEC:          unsigned
+Registrar Abuse Contact Email:          abuse@gabia.com
+Registrar Abuse Contact Phone:          82.28293543
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-21T00:30:22Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The Data in Gabia' WHOIS database is provided by Gabia 
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Gabia does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Gabia (or its systems).  Gabia reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.

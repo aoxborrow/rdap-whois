@@ -1,0 +1,25 @@
+{
+  "query": "google.com.br",
+  "server": "whois.registro.br",
+  "domainName": "google.com.br",
+  "creationDate": "1999-05-18T00:00:00Z",
+  "expirationDate": "2027-05-18T00:00:00Z",
+  "updatedDate": "2026-04-21T00:00:00Z",
+  "eppStatusRaw": [
+    "published"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrantId": "06.990.590/0001-23",
+  "registrantName": "Google Brasil Internet Ltda",
+  "registrantCountry": "BR",
+  "registrantEmail": "ccops@markmonitor.com",
+  "techId": "DOADM17",
+  "techName": "Domain Admin",
+  "techCountry": "BR",
+  "techEmail": "ccops@markmonitor.com"
+}

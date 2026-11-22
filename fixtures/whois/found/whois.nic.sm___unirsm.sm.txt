@@ -1,0 +1,31 @@
+###%%% QRY: unirsm.sm
+###%%% SRV: whois.nic.sm
+###%%% TME: 2026-07-16T11:43:57Z
+
+Domain Name: unirsm.sm
+Registration date: 24/04/1996
+Status: Active
+
+Owner:
+Universita' di San Marino
+strada Bandirola, 44
+47890 Montegiardino
+SM
+Phone: +378 0549 996181
+Fax: +378 0549 996253
+Email: andrea.rebosio@unirsm.sm
+
+Technical Contact:
+Andrea Rebosio
+Universita' di San Marino
+strada Bandirola, 44
+47890 Montegiardino
+SM
+Phone: +378 0549 996181
+Fax: +378 0549 996253
+Email: andrea.rebosio@unirsm.sm
+
+DNS Servers:
+ns1.unirsm.sm
+ns2.unirsm.sm
+ns3.unirsm.sm

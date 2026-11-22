@@ -1,0 +1,23 @@
+###%%% SRV: whois.nic.fr
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.nic.fr/tf/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+###%%% CHG: changed from upstream: the address the server said the request came from is replaced with a documentation address
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format : DD/MM/YYYY
+%% short date format    : DD/MM
+%% version              : FRNIC-2.5
+%%
+%% Rights restricted by copyright.
+%% See http://www.afnic.fr/afnic/web/mentions-legales-whois_en
+%%
+%% Use '-h' option to obtain more information about this service.
+%%
+%% [192.0.2.1 REQUEST] >> u34jedzcq.tf
+%%
+%% RL Net [##########] - RL IP [#########.]
+%%
+
+%% No entries found in the AFNIC Database.

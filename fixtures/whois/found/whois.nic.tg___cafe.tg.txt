@@ -1,0 +1,114 @@
+###%%% QRY: cafe.tg
+###%%% SRV: whois.nic.tg
+###%%% TME: 2026-07-16T23:53:48Z
+
+This is JWhoisServer serving ccTLD tg
+Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net
+All rights reserved.
+Copyright "NICTogo2 - http://www.nic.tg"
+
+Domain:.............cafe.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2024-11-26
+Expiration:.........2030-12-31
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...ns5.netmaster.tg
+Name Server (DB):...ns1.cafe.tg
+Name Server (DB):...ns2.cafe.tg
+
+----------------------------------------
+
+Domain:.............cafe.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2024-11-26
+Expiration:.........2030-12-31
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...ns5.netmaster.tg
+Name Server (DB):...ns1.cafe.tg
+Name Server (DB):...ns2.cafe.tg
+
+----------------------------------------
+
+Domain:.............cafe.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2024-11-26
+Expiration:.........2030-12-31
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...ns5.netmaster.tg
+Name Server (DB):...ns1.cafe.tg
+Name Server (DB):...ns2.cafe.tg
+
+----------------------------------------
+
+Domain:.............cafe.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2024-11-26
+Expiration:.........2030-12-31
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...ns5.netmaster.tg
+Name Server (DB):...ns1.cafe.tg
+Name Server (DB):...ns2.cafe.tg
+
+----------------------------------------
+
+Domain:.............cafe.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2024-11-26
+Expiration:.........2030-12-31
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...ns5.netmaster.tg
+Name Server (DB):...ns1.cafe.tg
+Name Server (DB):...ns2.cafe.tg
+
+----------------------------------------
+
+Domain:.............cafe.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2024-11-26
+Expiration:.........2030-12-31
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...ns5.netmaster.tg
+Name Server (DB):...ns1.cafe.tg
+Name Server (DB):...ns2.cafe.tg

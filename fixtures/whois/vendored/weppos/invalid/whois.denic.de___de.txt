@@ -1,0 +1,8 @@
+###%%% SRV: whois.denic.de
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.denic.de/de/status_invalid.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+Domain: googlededewdedewdewde.foo.de
+Status: invalid
+
+% DB time is 2010-09-22T00:37:18+02:00

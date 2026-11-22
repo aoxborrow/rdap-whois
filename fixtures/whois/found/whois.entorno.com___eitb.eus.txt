@@ -1,0 +1,44 @@
+###%%% QRY: eitb.eus
+###%%% SRV: whois.entorno.com
+###%%% TME: 2026-11-22T08:09:55Z
+
+Domain Name: eitb.eus
+Registry Domain ID: D17-EUS
+Registrar WHOIS Server: whois.entorno.com
+Registrar URL: http://www.entorno.es
+Updated Date: 2026-06-12T12:05:52.0Z
+Creation Date: 2014-06-26T09:20:19.0Z
+Registrar Registration Expiration Date: 2027-06-26T09:20:19.0Z
+Registrar: Entorno Digital, S.A.
+Registrar IANA ID: 696
+Registrar Abuse Contact Email: abuse@entorno.es
+Registrar Abuse Contact Phone: +34.935942101
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+
+Registrant Organization: EUSKAL IRRATI TELEBISTA - ENTE PUBLICO RADIO TELEVISION VASCA
+Registrant State/Province: Bilbao
+Registrant Country: ES
+Registrant Email: https://nic.entorno.es/checkdomain/form-whois.php?locale=en&tipo=r&dominio=eitb.eus
+Admin Email: https://nic.entorno.es/checkdomain/form-whois.php?locale=en&tipo=a&dominio=eitb.eus
+Tech Email: https://nic.entorno.es/checkdomain/form-whois.php?locale=en&tipo=t&dominio=eitb.eus
+Name Server: ns1-33.azure-dns.com
+Name Server: ns2-33.azure-dns.net
+Name Server: ns3-33.azure-dns.org
+Name Server: ns4-33.azure-dns.info
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T04:47:31.0Z <<<
+
+Entorno Digital's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Entorno Digital does not guarantee the accuracy of the information
+contained in the WHOIS. Entorno Digital allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be used for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.

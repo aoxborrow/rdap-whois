@@ -1,0 +1,40 @@
+{
+  "query": "reddit.com",
+  "server": "whois.verisign-grs.com",
+  "domainId": "153584275_DOMAIN_COM-VRSN",
+  "domainName": "reddit.com",
+  "creationDate": "2005-04-29T17:59:19Z",
+  "expirationDate": "2028-04-29T17:59:19Z",
+  "updatedDate": "2026-03-28T10:06:56Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-378.awsdns-47.com",
+    "ns-557.awsdns-05.net",
+    "ns-1029.awsdns-00.org",
+    "ns-1887.awsdns-43.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com"
+}

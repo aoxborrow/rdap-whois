@@ -1,0 +1,30 @@
+{
+  "query": "mp4moviez.dog",
+  "server": "whois.nic.dog",
+  "domainId": "91d10fd3557d4955a929aa68c53c71f0-DONUTS",
+  "domainName": "mp4moviez.dog",
+  "creationDate": "2025-01-02T03:31:27Z",
+  "expirationDate": "2026-01-02T03:31:27Z",
+  "updatedDate": "2025-03-14T19:53:24Z",
+  "eppStatus": [
+    "clientHold",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientHold https://icann.org/epp#clientHold",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jerry.ns.cloudflare.com",
+    "teagan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

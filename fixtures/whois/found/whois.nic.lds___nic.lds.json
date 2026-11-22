@@ -1,0 +1,79 @@
+{
+  "query": "nic.lds",
+  "server": "whois.nic.lds",
+  "domainId": "REDACTED",
+  "domainName": "nic.lds",
+  "creationDate": "2019-05-28T19:21:32Z",
+  "expirationDate": "2027-05-28T19:21:32Z",
+  "updatedDate": "2026-08-12T10:30:42Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.lds",
+    "a2.nic.lds",
+    "b0.nic.lds",
+    "c0.nic.lds"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "IRI Domain Management, LLC",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "UT",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

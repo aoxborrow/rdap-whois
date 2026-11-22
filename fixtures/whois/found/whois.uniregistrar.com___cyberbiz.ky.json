@@ -1,0 +1,61 @@
+{
+  "query": "cyberbiz.ky",
+  "server": "whois.uniregistrar.com",
+  "domainId": "23760779718557_DOMAIN-KEYSYS",
+  "domainName": "cyberbiz.ky",
+  "creationDate": "2014-07-25T14:24:38Z",
+  "expirationDate": "2027-07-25T14:24:38Z",
+  "registrarExpirationDate": "2027-07-25T14:24:38Z",
+  "updatedDate": "2026-07-25T10:14:16Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.cyberbiz.ky",
+    "ns2.cyberbiz.ky"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1659",
+  "registrarIanaId": 1659,
+  "registrarName": "GoDaddy Online Services Cayman Islands Ltd.",
+  "registrarUrl": "http://uniregistry.com",
+  "registrarAbuseEmail": "abuse@uniregistry.com",
+  "registrarAbusePhone": "+1.4426008800",
+  "registrarWhoisServer": "whois.uniregistrar.com",
+  "registrantId": "P-RKP27743",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "https://www.godaddy.com/whois/results.aspx?domain=cyberbiz.ky&action=contactDomainOwner",
+  "techId": "P-RMP27278",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "https://www.godaddy.com/whois/results.aspx?domain=cyberbiz.ky&action=contactDomainOwner"
+}

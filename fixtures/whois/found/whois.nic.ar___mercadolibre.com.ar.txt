@@ -1,0 +1,37 @@
+###%%% QRY: mercadolibre.com.ar
+###%%% SRV: whois.nic.ar
+###%%% TME: 2026-07-16T11:39:58Z
+
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:  mercadolibre.com.ar
+registrant: 30703088534
+registrar: nicar
+registered: 1999-05-11 00:00:00
+changed: 2026-05-08 16:23:55.419894
+expire:  2027-05-11 00:00:00
+
+contact: 30703088534
+name:  MERCADOLIBRE S.R.L.
+registrar: nicar
+created: 2013-10-18 00:00:00
+changed: 2026-06-23 15:47:35.600009
+
+nserver: ns-476.awsdns-59.com ()
+nserver: ns-771.awsdns-32.net ()
+nserver: ns-1193.awsdns-21.org ()
+nserver: ns-1887.awsdns-43.co.uk ()
+registrar: nicar
+created: 2018-12-03 19:19:48.853478

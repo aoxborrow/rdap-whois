@@ -1,0 +1,41 @@
+{
+  "query": "alibaba.com",
+  "server": "grs-whois.hichina.com",
+  "domainId": "5435352_DOMAIN_COM-VRSN",
+  "domainName": "alibaba.com",
+  "creationDate": "1999-04-15T04:00:00Z",
+  "expirationDate": "2030-05-23T19:54:58Z",
+  "registrarExpirationDate": "2030-05-23T19:54:58Z",
+  "updatedDate": "2026-08-28T11:35:35Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.alibabadns.cn",
+    "ns1.alibabadns.com",
+    "ns2.alibabadns.cn",
+    "ns2.alibabadns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "420",
+  "registrarIanaId": 420,
+  "registrarName": "Alibaba Cloud Computing (Beijing) Co., Ltd.",
+  "registrarUrl": "http://www.net.cn",
+  "registrarAbuseEmail": "DomainAbuse@service.aliyun.com",
+  "registrarAbusePhone": "+86.95187",
+  "registrarWhoisServer": "grs-whois.hichina.com",
+  "registrantId": "Not Available From Registry",
+  "registrantState": "Zhejiang",
+  "registrantCountry": "CN",
+  "registrantEmail": "https://whois.aliyun.com/whois/whoisForm"
+}

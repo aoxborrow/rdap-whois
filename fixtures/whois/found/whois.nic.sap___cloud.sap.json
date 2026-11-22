@@ -1,0 +1,69 @@
+{
+  "query": "cloud.sap",
+  "server": "whois.nic.sap",
+  "domainId": "D96-SAP",
+  "domainName": "cloud.sap",
+  "creationDate": "2016-01-18T07:50:31Z",
+  "expirationDate": "2036-01-18T07:50:31Z",
+  "updatedDate": "2026-08-27T06:48:21Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.sap.net",
+    "ns2.sap.de",
+    "ns3.sap.com",
+    "ns4.sap.asia"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3779",
+  "registrarIanaId": 3779,
+  "registrarName": "Knipp Medien und Kommunikation GmbH",
+  "registrarUrl": "http://www.knipp.de",
+  "registrarAbuseEmail": "registrar@knipp.de",
+  "registrarAbusePhone": "+49.23197030",
+  "registrarWhoisServer": "whois.registrar.knipp.de",
+  "registrantId": "CTUULNIHRGT15-SAP",
+  "registrantName": "SAP SE",
+  "registrantOrg": "SAP SE",
+  "registrantAddress": [
+    "Dietmar-Hopp-Allee 16"
+  ],
+  "registrantCity": "Walldorf",
+  "registrantState": "BW",
+  "registrantPostalCode": "69190",
+  "registrantCountry": "DE",
+  "registrantPhone": "+49.6227747474",
+  "registrantFax": "+49.6227757575",
+  "registrantEmail": "hostmaster@sap.com",
+  "adminId": "CMDNZGAGVGL16-SAP",
+  "adminName": "Soenke Lange",
+  "adminOrg": "SAP SE",
+  "adminAddress": [
+    "Dietmar-Hopp-Allee 16"
+  ],
+  "adminCity": "Walldorf",
+  "adminState": "BW",
+  "adminPostalCode": "69190",
+  "adminCountry": "DE",
+  "adminPhone": "+49.6227749270",
+  "adminFax": "+49.6227757575",
+  "adminEmail": "hostmaster@sap.com",
+  "techId": "CTZTTJQETDV17-SAP",
+  "techName": "Soenke Lange",
+  "techOrg": "SAP SE",
+  "techAddress": [
+    "Dietmar-Hopp-Allee 16"
+  ],
+  "techCity": "Walldorf",
+  "techState": "BW",
+  "techPostalCode": "69190",
+  "techCountry": "DE",
+  "techPhone": "+49.6227749270",
+  "techFax": "+49.6227757575",
+  "techEmail": "hostmaster@sap.com"
+}

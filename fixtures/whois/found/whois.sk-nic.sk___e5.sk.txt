@@ -1,0 +1,39 @@
+###%%% QRY: e5.sk
+###%%% SRV: whois.sk-nic.sk
+###%%% TME: 2026-07-16T11:45:23Z
+
+Domain:                       e5.sk
+Created:                      2011-09-20
+Valid Until:                  2026-09-20
+Updated:                      2025-09-08
+Domain Status:                ok
+Nameserver:                   h1-f5gtm01-s.eset.com
+Nameserver:                   h3-f5gtm01-s.eset.com
+Nameserver:                   h5-f5gtm01-s.eset.com
+
+Domain registrant:            ESET-0001-3959
+Name:                         ESET, spol. s r.o.
+Organization:                 ESET, spol. s r.o.
+Organization ID:              31333532
+Phone:                        +421.232244111
+Email:                        domains@eset.sk
+Street:                       Einsteinova 24
+City:                         Bratislava
+Postal Code:                  85101
+Country Code:                 SK
+Authorised Registrar:         WEBG-0001
+Created:                      2017-09-01
+Updated:                      2017-09-01
+
+Registrar:                    WEBG-0001
+Name:                         Webglobe, a.s.
+Organization:                 Webglobe, a.s.
+Organization ID:              52486567
+Phone:                        +421.258101062
+Email:                        info@webglobe.sk,adriana.slugenova@webglobe.sk
+Street:                       Stará Prievozská 1349/2
+City:                         Bratislava - mestská časť Ružinov
+Postal Code:                  821 09
+Country Code:                 SK
+Created:                      2017-09-01
+Updated:                      2026-07-16

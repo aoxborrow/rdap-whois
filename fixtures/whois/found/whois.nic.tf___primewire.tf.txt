@@ -1,0 +1,94 @@
+###%%% QRY: primewire.tf
+###%%% SRV: whois.nic.tf
+###%%% TME: 2026-07-16T11:44:19Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        primewire.tf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      CTC7189-FRNIC
+admin-c:                       CTC7189-FRNIC
+tech-c:                        CTC7190-FRNIC
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+Expiry Date:                   2027-03-07T05:31:11Z
+created:                       2022-03-07T05:31:11Z
+last-update:                   2026-01-11T00:18:22.007537Z
+source:                        FRNIC
+
+nserver:                       1-you.njalla.no
+nserver:                       2-can.njalla.in
+nserver:                       3-get.njalla.fo
+source:                        FRNIC
+
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+address:                       Hofplein 20
+address:                       Spaces Business Centre
+address:                       3032 AC ROTTERDAM
+country:                       NL
+phone:                         +31.104482299
+fax-no:                        +31.102440250
+e-mail:                        sales@openprovider.com
+website:                       https://www.openprovider.com
+anonymous:                     No
+registered:                    2005-06-27T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC7189-FRNIC
+type:                          ORGANIZATION
+contact:                       Njalla Guokte S.R.L.
+address:                       Njalla Guokte S.R.L.
+address:                       Bulevardul Metalurgiei 132 B1C
+address:                       041837 Bucuresti
+country:                       RO
+phone:                         +40.371701213
+e-mail:                        whois+primewire.tf@njal.la
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-02-05T11:11:03.75652Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-02-05T11:10:46.939362Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-02-05T11:10:46.939362Z
+source:                        FRNIC
+
+nic-hdl:                       CTC7190-FRNIC
+type:                          ORGANIZATION
+contact:                       Njalla Guokte S.R.L.
+address:                       Njalla Guokte S.R.L.
+address:                       Bulevardul Metalurgiei 132 B1C
+address:                       041837 Bucuresti
+country:                       RO
+phone:                         +40.371701213
+e-mail:                        whois+primewire.tf@njal.la
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-02-05T11:11:03.749566Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-02-05T11:10:47.186873Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-02-05T11:10:47.186873Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:20.515745Z <<<

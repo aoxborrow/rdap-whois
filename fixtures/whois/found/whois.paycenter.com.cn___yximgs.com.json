@@ -1,0 +1,74 @@
+{
+  "query": "yximgs.com",
+  "server": "whois.paycenter.com.cn",
+  "domainId": "1714497889_domain_com-vrsn",
+  "domainName": "yximgs.com",
+  "creationDate": "2012-04-19T10:04:14Z",
+  "expirationDate": "2026-04-19T10:04:14Z",
+  "registrarExpirationDate": "2026-04-19T10:04:14Z",
+  "updatedDate": "2025-03-20T14:32:42Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns3.dnsv5.com",
+    "ns4.dnsv5.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "120",
+  "registrarIanaId": 120,
+  "registrarName": "Xin Net Technology Corporation",
+  "registrarUrl": "http://www.xinnet.com",
+  "registrarAbuseEmail": "supervision@xinnet.com",
+  "registrarAbusePhone": "+86.4008182233",
+  "registrarWhoisServer": "whois.paycenter.com.cn",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "BJ",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "CN",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "link at http://whois.xinnet.com/sendemail/yximgs.com",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "link at http://whois.xinnet.com/sendemail/yximgs.com",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "link at http://whois.xinnet.com/sendemail/yximgs.com"
+}

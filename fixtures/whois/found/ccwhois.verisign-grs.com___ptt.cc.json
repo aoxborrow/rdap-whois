@@ -1,0 +1,28 @@
+{
+  "query": "ptt.cc",
+  "server": "ccwhois.verisign-grs.com",
+  "domainId": "86408511_DOMAIN_CC-VRSN",
+  "domainName": "ptt.cc",
+  "creationDate": "2002-01-18T04:21:24Z",
+  "expirationDate": "2032-01-19T04:21:24Z",
+  "updatedDate": "2026-11-19T07:31:39Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "scott.ns.cloudflare.com",
+    "violet.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "2",
+  "registrarIanaId": 2,
+  "registrarName": "Network Solutions, LLC",
+  "registrarUrl": "http://networksolutions.com",
+  "registrarAbuseEmail": "domain.operations@web.com",
+  "registrarAbusePhone": "+1.8777228662",
+  "registrarWhoisServer": "whois.networksolutions.com"
+}

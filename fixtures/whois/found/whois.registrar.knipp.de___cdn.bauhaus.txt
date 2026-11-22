@@ -1,0 +1,95 @@
+###%%% QRY: cdn.bauhaus
+###%%% SRV: whois.registrar.knipp.de
+###%%% TME: 2025-03-20T13:39:05Z
+
+Domain Name: cdn.bauhaus
+Registry Domain ID: Doffk55-BAUHAUS
+Registrar WHOIS Server: whois.registrar.knipp.de
+Registrar URL: https://www.knipp.de
+Updated Date:
+Creation Date: 2022-11-09T09:00:49.215Z
+Registrar Registration Expiration Date: 2032-11-09T09:00:49.215Z
+Registrar: Knipp Medien und Kommunikation GmbH
+Registrar IANA ID: 3779
+Registrar Abuse Contact Email: registrar@knipp.de
+Registrar Abuse Contact Phone: +49.23197030
+Reseller: CORE-39 (Knipp Medien und Kommunikation GmbH)
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: 
+Registrant Postal Code: 
+Registrant Country: DE
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: undisclosed-email@knipp.de
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: undisclosed-email@knipp.de
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: undisclosed-email@knipp.de
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: undisclosed-email@knipp.de
+Name Server: merlin.ns.cloudflare.com
+Name Server: amber.ns.cloudflare.com
+DNSSEC: unsigned
+IDN Tag:
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of Whois database: 2025-01-10T11:55:37.763Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+(c) Knipp Medien und Kommunikation GmbH ("Knipp"). All rights reserved.
+
+NOTICE: Access to the domain name's information is restricted in
+order to protect the privacy of Registrants. If you believe you
+have a legitimate interest in having access to part or all of the
+data not published in the above output, please contact the
+Registrar of record at the address shown in the output above.
+
+The compilation, repackaging, dissemination or other use of the data
+in the Knipp Whois database is expressly prohibited without the
+prior written consent of Knipp. Knipp reserves the right to
+restrict your access to the Whois database in its sole discretion to
+ensure operational stability. Knipp may restrict or terminate your
+access to the Whois database for failure to abide by these terms of
+use. Knipp reserves the right to modify these terms at any time.
+
+End of Whois record.

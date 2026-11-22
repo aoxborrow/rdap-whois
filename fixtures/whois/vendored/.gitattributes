@@ -1,0 +1,9 @@
+# Vendored third-party whois responses: store and check out VERBATIM.
+#
+# Two reasons not to let git normalize line endings here:
+#   1. ATTRIBUTION.md claims these are upstream's files at a named commit — that claim
+#      only holds if the bytes are upstream's bytes.
+#   2. Some of them (likexian's testdata) genuinely use CRLF, which makes them the
+#      corpus's only real test of the tokenizer's \r\n normalization (plan §2). Rewriting
+#      them to LF would quietly delete the thing they're useful for.
+* -text

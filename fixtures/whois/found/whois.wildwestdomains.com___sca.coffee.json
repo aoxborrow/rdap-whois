@@ -1,0 +1,62 @@
+{
+  "query": "sca.coffee",
+  "server": "whois.wildwestdomains.com",
+  "domainId": "aaea6fdce2d944e0915d54b7ced50a18-DONUTS",
+  "domainName": "sca.coffee",
+  "creationDate": "2016-11-17T21:00:41Z",
+  "expirationDate": "2025-11-17T21:00:41Z",
+  "registrarExpirationDate": "2025-11-17T21:00:41Z",
+  "updatedDate": "2024-11-18T17:30:35Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns57.domaincontrol.com",
+    "ns58.domaincontrol.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "440",
+  "registrarIanaId": 440,
+  "registrarName": "Wild West Domains, LLC",
+  "registrarReseller": "Method Domains",
+  "registrarUrl": "https://www.wildwestdomains.com",
+  "registrarAbuseEmail": "abuse@wildwestdomains.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "whois.wildwestdomains.com",
+  "registrantId": "CR767160412",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=sca.coffee",
+  "techId": "CR767160442",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "Select Contact Domain Holder link at https://www.secureserver.net/whois?plid=1387&domain=sca.coffee"
+}

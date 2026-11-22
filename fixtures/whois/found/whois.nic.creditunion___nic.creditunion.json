@@ -1,0 +1,45 @@
+{
+  "query": "nic.creditunion",
+  "server": "whois.nic.creditunion",
+  "domainId": "DO_ba3fefd7eb94ba7cf885ae60d5fc828c-UR",
+  "domainName": "nic.creditunion",
+  "creationDate": "2021-02-18T19:38:26Z",
+  "expirationDate": "2031-02-18T19:38:26Z",
+  "updatedDate": "2024-02-27T17:29:22Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "DotCoop",
+  "registrarUrl": "https://identity.coop",
+  "registrarAbuseEmail": "info+whois@registry.coop",
+  "registrarAbusePhone": "+44.1865403136",
+  "registrarWhoisServer": "whois.registry.coop",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "DootCoop",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Oxford",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "GB",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

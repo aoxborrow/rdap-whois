@@ -1,0 +1,76 @@
+{
+  "query": "homemade.adult",
+  "server": "whois.danesconames.com",
+  "domainId": "D76063661284B44068DE9D259D6EDA0D6-GDREG",
+  "domainName": "homemade.adult",
+  "creationDate": "2023-10-12T07:43:56Z",
+  "expirationDate": "2027-10-12T07:43:56Z",
+  "registrarExpirationDate": "2027-10-12T07:43:56Z",
+  "updatedDate": "2026-10-07T07:46:22Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited",
+    "clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns.anycastns1.org",
+    "ns.anycastns2.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1418",
+  "registrarIanaId": 1418,
+  "registrarName": "Danesco Trading Ltd.",
+  "registrarWhoisServer": "whois.danesconames.com",
+  "registrantId": "MI_142831256WP",
+  "registrantName": "Statutory Masking for data privacy",
+  "registrantOrg": "Statutory Masking for data privacy",
+  "registrantAddress": [
+    "Statutory Masking for data privacy"
+  ],
+  "registrantCity": "Statutory Masking for data privacy",
+  "registrantPostalCode": "Statutory Masking for data privacy",
+  "registrantCountry": "Statutory Masking for data privacy",
+  "registrantPhone": "Statutory Masking for data privacy",
+  "registrantFax": "Statutory Masking for data privacy",
+  "registrantEmail": "homemade.adult@whoisprotectservice.net",
+  "adminId": "MI_142831256WP",
+  "adminName": "Statutory Masking for data privacy",
+  "adminOrg": "Statutory Masking for data privacy",
+  "adminAddress": [
+    "Statutory Masking for data privacy"
+  ],
+  "adminCity": "Statutory Masking for data privacy",
+  "adminPostalCode": "Statutory Masking for data privacy",
+  "adminCountry": "Statutory Masking for data privacy",
+  "adminPhone": "Statutory Masking for data privacy",
+  "adminFax": "Statutory Masking for data privacy",
+  "adminEmail": "homemade.adult@whoisprotectservice.net",
+  "techId": "MI_142831256WP",
+  "techName": "Statutory Masking for data privacy",
+  "techOrg": "Statutory Masking for data privacy",
+  "techAddress": [
+    "Statutory Masking for data privacy"
+  ],
+  "techCity": "Statutory Masking for data privacy",
+  "techPostalCode": "Statutory Masking for data privacy",
+  "techCountry": "Statutory Masking for data privacy",
+  "techPhone": "Statutory Masking for data privacy",
+  "techFax": "Statutory Masking for data privacy",
+  "techEmail": "homemade.adult@whoisprotectservice.net",
+  "billingId": "MI_142831256WP",
+  "billingName": "Statutory Masking for data privacy",
+  "billingOrg": "Statutory Masking for data privacy",
+  "billingAddress": [
+    "Statutory Masking for data privacy"
+  ],
+  "billingCity": "Statutory Masking for data privacy",
+  "billingPostalCode": "Statutory Masking for data privacy",
+  "billingCountry": "Statutory Masking for data privacy",
+  "billingPhone": "Statutory Masking for data privacy",
+  "billingFax": "Statutory Masking for data privacy",
+  "billingEmail": "homemade.adult@whoisprotectservice.net"
+}

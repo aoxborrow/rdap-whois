@@ -1,0 +1,20 @@
+###%%% QRY: cafebazaar.ir
+###%%% SRV: whois.nic.ir
+###%%% TME: 2026-11-22T08:13:29Z
+
+% This is the IRNIC Whois server v2.0.0.
+% Available on web at http://whois.nic.ir/
+% Find the terms and conditions of use on http://www.nic.ir/
+% 
+% This server uses UTF-8 as the encoding for requests and responses.
+
+% NOTE: This output has been filtered.
+
+% Information related to 'cafebazaar.ir'
+
+domain:  cafebazaar.ir
+ascii:  cafebazaar.ir
+remarks: The information about this domain is hidden by the domain holder
+nserver: ns.sotoon53.com
+nserver: c.ns.sotoon53.com
+source:  IRNIC

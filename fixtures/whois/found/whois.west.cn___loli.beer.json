@@ -1,0 +1,68 @@
+{
+  "query": "loli.beer",
+  "server": "whois.west.cn",
+  "domainId": "20213022530026",
+  "domainName": "loli.beer",
+  "creationDate": "2018-06-27T12:22:34Z",
+  "expirationDate": "2025-06-27T12:22:34Z",
+  "registrarExpirationDate": "2025-06-27T12:22:34Z",
+  "updatedDate": "2018-06-27T12:22:34Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok http://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.he.net",
+    "ns2.he.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1556",
+  "registrarIanaId": 1556,
+  "registrarName": "Chengdu west dimension digital technology Co., LTD",
+  "registrarUrl": "https://www.west.cn",
+  "registrarAbuseEmail": "westabuse@gmail.com",
+  "registrarAbusePhone": "+86.2862778877",
+  "registrarWhoisServer": "whois.west.cn",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Jiang Xi",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "CN",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "link at https://www.west.cn/web/whoisform?domain=loli.beer",
+  "adminId": "Not Available From Registry",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "link at https://www.west.cn/web/whoisform?domain=loli.beer",
+  "techId": "Not Available From Registry",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "link at https://www.west.cn/web/whoisform?domain=loli.beer"
+}

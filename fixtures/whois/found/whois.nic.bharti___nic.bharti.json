@@ -1,0 +1,34 @@
+{
+  "query": "nic.bharti",
+  "server": "whois.nic.bharti",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "nic.bharti",
+  "creationDate": "2025-09-18T04:55:29Z",
+  "expirationDate": "2035-09-18T04:55:29Z",
+  "updatedDate": "2026-11-12T05:52:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.bharti",
+    "b.nic.bharti",
+    "c.nic.bharti",
+    "x.nic.bharti",
+    "y.nic.bharti",
+    "z.nic.bharti"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Bharti Airtel Limited"
+}

@@ -1,0 +1,38 @@
+{
+  "query": "euskadi.eus",
+  "server": "whois.nic.eus",
+  "domainId": "D959-EUS",
+  "domainName": "euskadi.eus",
+  "creationDate": "2014-11-25T17:26:55Z",
+  "expirationDate": "2026-11-25T17:26:55Z",
+  "updatedDate": "2025-12-19T15:36:13Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-212.awsdns-26.com",
+    "ns-613.awsdns-12.net",
+    "ns-1442.awsdns-52.org",
+    "ns-1680.awsdns-18.co.uk",
+    "ns1.itbatera.euskadi.eus",
+    "ns2.itbatera.euskadi.eus"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "76",
+  "registrarIanaId": 76,
+  "registrarName": "Nominalia Internet S.L.",
+  "registrarUrl": "http://www.nominalia.com",
+  "registrarAbuseEmail": "abuse@nominalia.com",
+  "registrarAbusePhone": "+34.935074387",
+  "registrarWhoisServer": "whois.nominalia.com",
+  "registrantOrg": "Administracion General de La Comunidad Autonoma de Euskadi",
+  "registrantState": "vi",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

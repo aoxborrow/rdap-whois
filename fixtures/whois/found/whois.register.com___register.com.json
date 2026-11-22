@@ -1,0 +1,48 @@
+{
+  "query": "register.com",
+  "server": "whois.register.com",
+  "domainId": "3441369_DOMAIN_COM-VRSN",
+  "domainName": "register.com",
+  "creationDate": "1994-11-01T05:00:00Z",
+  "expirationDate": "2028-08-04T14:10:18Z",
+  "registrarExpirationDate": "2028-08-04T14:10:18Z",
+  "updatedDate": "2020-12-02T11:04:19Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited http://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited http://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "heidi.ns.cloudflare.com",
+    "rex.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "009",
+  "registrarIanaId": 9,
+  "registrarName": "Register.com, Inc.",
+  "registrarUrl": "http://www.register.com",
+  "registrarAbuseEmail": "domain.operations@web.com",
+  "registrarAbusePhone": "+1.8777228662",
+  "registrarWhoisServer": "whois.register.com",
+  "registrantName": "Domain Registrar",
+  "registrantAddress": [
+    "575 8th Avenue"
+  ],
+  "registrantCity": "New York",
+  "registrantState": "NY",
+  "registrantPostalCode": "10018",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.9027492701",
+  "registrantEmail": "domainregistrar@register.com",
+  "techName": "Domain Registrar",
+  "techPhone": "+1.9027492701",
+  "techEmail": "domainregistrar@register.com"
+}

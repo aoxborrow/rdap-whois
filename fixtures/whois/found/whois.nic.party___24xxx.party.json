@@ -1,0 +1,43 @@
+{
+  "query": "24xxx.party",
+  "server": "whois.nic.party",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "24xxx.party",
+  "creationDate": "2024-08-19T21:41:41Z",
+  "expirationDate": "2027-08-19T21:41:41Z",
+  "updatedDate": "2026-08-17T21:41:58Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nadia.ns.cloudflare.com",
+    "zeus.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3862",
+  "registrarIanaId": 3862,
+  "registrarName": "Spaceship, Inc.",
+  "registrarUrl": "https://www.spaceship.com",
+  "registrarAbuseEmail": "abuse@spaceship.com",
+  "registrarAbusePhone": "+1.6613102107",
+  "registrarWhoisServer": "whois.spaceship.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Delaware",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

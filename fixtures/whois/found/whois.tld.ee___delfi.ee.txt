@@ -1,0 +1,52 @@
+###%%% QRY: delfi.ee
+###%%% SRV: whois.tld.ee
+###%%% TME: 2026-11-22T08:14:28Z
+
+Search results may not be used for commercial, advertising, recompilation,
+repackaging, redistribution, reuse, obscuring or other similar activities.
+
+Estonia .ee Top Level Domain WHOIS server
+
+Domain:
+name:       delfi.ee
+status:     ok (paid and in zone)
+registered: 2010-07-04 03:59:01 +03:00
+changed:    2026-10-29 08:05:22 +02:00
+expire:     2027-11-17
+outzone:    
+delete:     
+
+Registrant:
+name:       AS EKSPRESS MEEDIA
+org id:     10586863
+country:    EE
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+phone:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2026-10-29 08:05:22 +02:00
+
+Administrative contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Technical contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Registrar:
+name:       Zone Media OÜ
+url:        http://www.zone.ee
+phone:      +372 6886886
+changed:    2026-07-24 10:58:40 +03:00
+
+Name servers:
+nserver:   ns-1864.awsdns-41.co.uk
+nserver:   ns-1049.awsdns-03.org
+nserver:   ns-350.awsdns-43.com
+nserver:   ns-1018.awsdns-63.net
+changed:   2018-09-18 12:17:11 +03:00
+
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

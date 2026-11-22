@@ -1,0 +1,73 @@
+###%%% QRY: google.ga
+###%%% SRV: whois.nic.ga
+###%%% TME: 2026-07-14T10:43:48Z
+
+Domain ID:                     DOM8624-GA
+Nom de domaine:                google.ga
+Date de création:              2023-06-06T19:15:12.718385Z
+Dernière modification:         2026-05-12T17:27:38.344508Z
+Date d'expiration:             2027-06-06T19:15:12.694489Z
+Registrar:                     MARKMONITOR Inc.
+Statut:                        actif
+
+[ADMIN_C]
+ID Contact:                    REDACTED_FOR_PRIVACY
+Type:                          Organisation
+Nom:                           REDACTED_FOR_PRIVACY
+Adresse:                       REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY
+Code postal:                   REDACTED_FOR_PRIVACY
+Ville:                         REDACTED_FOR_PRIVACY
+Pays:                          REDACTED_FOR_PRIVACY
+Téléphone:                     REDACTED_FOR_PRIVACY
+Fax:                           REDACTED_FOR_PRIVACY
+Courriel:                      REDACTED_FOR_PRIVACY
+
+[HOLDER]
+ID Contact:                    REDACTED_FOR_PRIVACY
+Type:                          Organisation
+Nom:                           REDACTED_FOR_PRIVACY
+Adresse:                       REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY
+Code postal:                   REDACTED_FOR_PRIVACY
+Ville:                         REDACTED_FOR_PRIVACY
+Pays:                          REDACTED_FOR_PRIVACY
+Téléphone:                     REDACTED_FOR_PRIVACY
+Fax:                           REDACTED_FOR_PRIVACY
+Courriel:                      REDACTED_FOR_PRIVACY
+
+[TECH_C]
+ID Contact:                    REDACTED_FOR_PRIVACY
+Type:                          Organisation
+Nom:                           REDACTED_FOR_PRIVACY
+Adresse:                       REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY
+Code postal:                   REDACTED_FOR_PRIVACY
+Ville:                         REDACTED_FOR_PRIVACY
+Pays:                          REDACTED_FOR_PRIVACY
+Téléphone:                     REDACTED_FOR_PRIVACY
+Fax:                           REDACTED_FOR_PRIVACY
+Courriel:                      REDACTED_FOR_PRIVACY
+
+[BILLING_C]
+ID Contact:                    REDACTED_FOR_PRIVACY
+Type:                          Organisation
+Nom:                           REDACTED_FOR_PRIVACY
+Adresse:                       REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY,REDACTED_FOR_PRIVACY
+Code postal:                   REDACTED_FOR_PRIVACY
+Ville:                         REDACTED_FOR_PRIVACY
+Pays:                          REDACTED_FOR_PRIVACY
+Téléphone:                     REDACTED_FOR_PRIVACY
+Fax:                           REDACTED_FOR_PRIVACY
+Courriel:                      REDACTED_FOR_PRIVACY
+Dernière modification:         2023-11-09T18:15:51.973324Z
+
+Serveur de noms:               ns1.google.com
+Serveur de noms:               ns2.google.com
+Serveur de noms:               ns3.google.com
+Serveur de noms:               ns4.google.com
+
+DNSSEC:                        unsigned
+
+>>> Last update of WHOIS database: 2026-07-14T10:43:49.386589Z <<<
+
+%% This is the ANINF Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ

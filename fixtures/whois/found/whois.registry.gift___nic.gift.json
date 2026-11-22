@@ -1,0 +1,32 @@
+{
+  "query": "nic.gift",
+  "server": "whois.registry.gift",
+  "domainId": "DO_082748d93a7589fa07cdbe0881cb13f1-ISC",
+  "domainName": "nic.gift",
+  "creationDate": "2013-09-16T14:21:26Z",
+  "expirationDate": "2027-09-16T14:21:26Z",
+  "updatedDate": "2026-10-31T14:22:12Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Dot Gift Limited",
+  "registrarUrl": "http://registry.gift",
+  "registrarAbuseEmail": "andrew@grs.domains",
+  "registrarAbusePhone": "+34.684050519",
+  "registrarWhoisServer": "whois.registry.gift"
+}

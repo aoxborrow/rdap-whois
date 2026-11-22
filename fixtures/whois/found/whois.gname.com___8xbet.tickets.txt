@@ -1,0 +1,55 @@
+###%%% QRY: 8xbet.tickets
+###%%% SRV: whois.gname.com
+###%%% TME: 2026-11-22T08:10:30Z
+
+Domain Name: 8XBET.TICKETS
+Registry Domain ID: D523419696-CNIC
+Registrar WHOIS Server: whois.gname.com
+Registrar URL: www.gname.com
+Updated Date: 2026-11-16T18:42:54Z
+Creation Date: 2025-02-01T11:40:20Z
+Registrar Registration Expiration Date: 2027-02-01T23:59:59Z
+Registrar: Gname.com Pte. Ltd.
+Registrar IANA ID: 1923
+Reseller:
+Registrar Abuse Contact Email: complaint@gname.com
+Registrar Abuse Contact Phone: +65.31581931
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Redacted for privacy
+Registrant Name: Redacted for privacy
+Registrant Organization: Redacted for privacy
+Registrant Street: Redacted for privacy
+Registrant City: Redacted for privacy
+Registrant State/Province: Redacted for privacy
+Registrant Postal Code: Redacted for privacy
+Registrant Country: CW
+Registrant Phone: Redacted for privacy
+Registrant Fax: Redacted for privacy
+Registrant Email: https://rdap.gname.com/extra/contact?type=registrant&domain=8XBET.TICKETS
+Admin Name: Redacted for privacy
+Admin Organization: Redacted for privacy
+Admin Street: Redacted for privacy
+Admin City: Redacted for privacy
+Admin State/Province: Redacted for privacy
+Admin Postal Code: Redacted for privacy
+Admin Country: Redacted for privacy
+Admin Phone: Redacted for privacy
+Admin Fax: Redacted for privacy
+Admin Email: https://rdap.gname.com/extra/contact?type=admin&domain=8XBET.TICKETS
+Tech Name: Redacted for privacy
+Tech Organization: Redacted for privacy
+Tech Street: Redacted for privacy
+Tech City: Redacted for privacy
+Tech State/Province: Redacted for privacy
+Tech Postal Code: Redacted for privacy
+Tech Country: Redacted for privacy
+Tech Phone: Redacted for privacy
+Tech Fax: Redacted for privacy
+Tech Email: https://rdap.gname.com/extra/contact?type=technical&domain=8XBET.TICKETS
+Name Server: CORA.NS.CLOUDFLARE.COM
+Name Server: NILE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2026-11-16T18:42:54Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

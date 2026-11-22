@@ -1,0 +1,13 @@
+###%%% QRY: likexian-have-no-money-to-register.int
+###%%% SRC: likexian/whois-parser@2426ff1e36f7540b2e0e7f69324cbe2091f5b278 testdata/notfound/int_likexian-have-no-money-to-register.int
+###%%% LIC: Apache-2.0 — Copyright 2014-2026 Li Kexian
+###%%% NOTE: vendored fixture (current through 2026) — validates the ENGINE, not today's registry output
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 0 objects.
+%
+% You queried for likexian-have-no-money-to-register.int but this server does not have
+% any data for likexian-have-no-money-to-register.int.
+%
+% If you need further information please check the web site
+% or use -h for help

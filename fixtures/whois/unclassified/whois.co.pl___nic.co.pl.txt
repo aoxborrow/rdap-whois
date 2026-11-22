@@ -1,0 +1,14 @@
+###%%% QRY: co.pl
+###%%% SRV: whois.co.pl
+###%%% TME: 2026-07-14T10:43:02Z
+
+************************************************************
+co.pl WHOIS server @ whois.co.pl
+Data usage pending restrictions.
+************************************************************
+
+Domain data:
+Name...: co.pl
+Status.: INVALID
+
+Please note that the WHOIS database is refreshed every hour.

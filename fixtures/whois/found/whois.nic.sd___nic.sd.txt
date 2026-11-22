@@ -1,0 +1,32 @@
+###%%% QRY: nic.sd
+###%%% SRV: whois.nic.sd
+###%%% TME: 2026-11-22T08:16:02Z
+
+Domain Name: nic.sd
+Registry Domain ID: 24475-sdnic
+Updated Date: 2026-01-14T19:11:01Z
+Creation Date: 2018-05-09T21:00:00Z
+Registry Expiry Date: 2018-05-09T21:00:00Z
+Registrar Registration Expiration Date: 2018-05-09T21:00:00Z
+Registrar: Sudan Internet Society
+Registrar Street Address: Telecom Tower first floor
+Registrar City: Khartoum
+Registrar State: Khartoum
+Registrar Postal Code: 11111
+Registrar Country: SD
+Registrar Phone: +249155689555
+Registrar Email: info@isoc.sd
+Registrar Abuse Contact Email: info@isoc.sd
+Registrar Abuse Contact Phone: +249155689555
+Domain Status: active https://icann.org/epp#active
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Name Server: ns1.desec.io
+Name Server: ns2.desec.org
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T08:08:14.440Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorised to access or query the .SD WHOIS database through the use of electronic processes that are high-volume and automated. This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

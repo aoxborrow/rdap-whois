@@ -1,0 +1,36 @@
+{
+  "query": "filmyfly.durban",
+  "server": "whois.nic.durban",
+  "domainId": "dom_1G4E--1",
+  "domainName": "filmyfly.durban",
+  "creationDate": "2024-11-21T16:42:49Z",
+  "expirationDate": "2025-11-21T16:42:49Z",
+  "registrarExpirationDate": "2025-11-21T16:42:49Z",
+  "updatedDate": "2025-02-04T16:42:52Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "edna.ns.cloudflare.com",
+    "sam.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "Open SRS",
+  "registrarUrl": "https://opensrs.com",
+  "registrarAbuseEmail": "nicrelations@opensrs.com",
+  "registrarAbusePhone": "+49.2283296859",
+  "registrantOrg": "Njalla Okta LLC",
+  "registrantCountry": "KN",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

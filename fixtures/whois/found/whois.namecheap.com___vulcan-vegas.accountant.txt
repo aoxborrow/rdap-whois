@@ -1,0 +1,62 @@
+###%%% QRY: vulcan-vegas.accountant
+###%%% SRV: whois.namecheap.com
+###%%% TME: 2026-11-22T08:07:35Z
+
+Domain name: vulcan-vegas.accountant
+Registry Domain ID: DBDE56EC98B964D05A69819C23B5E680B-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2026-03-14T05:52:40.85Z
+Creation Date: 2020-04-13T17:19:12.63Z
+Registrar Registration Expiration Date: 2027-04-13T17:19:12.63Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy Purposes
+Registrant Organization: Privacy service provided by WITHHELD FOR PRIVACY LLC
+Registrant Street: 16192 Coastal Highway 
+Registrant City: Lewes
+Registrant State/Province: Delaware
+Registrant Postal Code: 19958
+Registrant Country: US
+Registrant Phone: +1.3022061391
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 7dc9af68584a4d53b4efce532b813bef.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy Purposes
+Admin Organization: Privacy service provided by WITHHELD FOR PRIVACY LLC
+Admin Street: 16192 Coastal Highway 
+Admin City: Lewes
+Admin State/Province: Delaware
+Admin Postal Code: 19958
+Admin Country: US
+Admin Phone: +1.3022061391
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 7dc9af68584a4d53b4efce532b813bef.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy Purposes
+Tech Organization: Privacy service provided by WITHHELD FOR PRIVACY LLC
+Tech Street: 16192 Coastal Highway 
+Tech City: Lewes
+Tech State/Province: Delaware
+Tech Postal Code: 19958
+Tech Country: US
+Tech Phone: +1.3022061391
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 7dc9af68584a4d53b4efce532b813bef.protect@withheldforprivacy.com
+Name Server: rene.ns.cloudflare.com
+Name Server: stella.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T01:07:35.01Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp

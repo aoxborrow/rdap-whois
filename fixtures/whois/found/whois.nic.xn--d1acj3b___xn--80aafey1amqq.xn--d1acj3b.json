@@ -1,0 +1,76 @@
+{
+  "query": "xn--80aafey1amqq.xn--d1acj3b",
+  "server": "whois.nic.xn--d1acj3b",
+  "domainId": "XN--80AAFEY1AMQQ.XN--D1ACJ3B",
+  "domainName": "xn--80aafey1amqq.xn--d1acj3b",
+  "creationDate": "2018-03-21T12:41:12Z",
+  "expirationDate": "2027-03-21T12:41:12Z",
+  "updatedDate": "2025-02-19T09:16:37Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns01.inlearno.com",
+    "ns02.inlearno.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "JSC RU-CENTER [RU-CENTER-DETI]",
+  "registrarUrl": "http://whois.nic.ru",
+  "registrarAbuseEmail": "tld-abuse@nic.ru",
+  "registrarAbusePhone": "+7.4959944601",
+  "registrarWhoisServer": "whois.nic.ru",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "LLC \"GOSUDARSTVO DETEI\"",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "RU",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the Registrar in this output for contact the Registrant",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the Registrar in this output for contact the Registrant",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the Registrar in this output for contact the Registrant",
+  "billingId": "REDACTED FOR PRIVACY",
+  "billingName": "REDACTED FOR PRIVACY",
+  "billingOrg": "REDACTED FOR PRIVACY",
+  "billingAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "billingCity": "REDACTED FOR PRIVACY",
+  "billingPostalCode": "REDACTED FOR PRIVACY",
+  "billingCountry": "REDACTED FOR PRIVACY",
+  "billingPhone": "REDACTED FOR PRIVACY",
+  "billingPhoneExt": "REDACTED FOR PRIVACY",
+  "billingEmail": "Please query the Registrar in this output for contact the Registrant"
+}

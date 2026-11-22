@@ -1,0 +1,33 @@
+###%%% QRY: sudani.sd
+###%%% SRV: whois.nic.sd
+###%%% TME: 2026-07-16T23:50:57Z
+
+Domain Name: sudani.sd
+Registry Domain ID: 4437-sdnic
+Updated Date: 2025-02-24T17:02:23Z
+Creation Date: 2009-08-29T21:00:00Z
+Registry Expiry Date: 2015-08-29T21:00:00Z
+Registrar Registration Expiration Date: 2015-08-29T21:00:00Z
+Registrar: sdnic registrar
+Registrar Street Address: Sudan Internet Society "SIS" - .SD Registry
+NTC Tower, 1th Floor
+P.O.Box 13713
+Khartoum, SUDAN
+Tel : + 249 157898600
+Registrar Country: SD
+Registrar Phone:  249 157898600
+Registrar Email: domains@isoc.sd
+Registrar Abuse Contact Email: admin@isoc.sd
+Registrar Abuse Contact Phone:  249 157898600
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Name Server: ns2.sudatel.sd
+Name Server: ns3.sudatel.sd
+Name Server: ns1.sudatel.sd
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:51:02.867Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorised to access or query the .SD WHOIS database through the use of electronic processes that are high-volume and automated. This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

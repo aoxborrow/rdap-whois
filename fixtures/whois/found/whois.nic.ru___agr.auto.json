@@ -1,0 +1,68 @@
+{
+  "query": "agr.auto",
+  "server": "whois.nic.ru",
+  "domainId": "D378259014-CNIC",
+  "domainName": "agr.auto",
+  "creationDate": "2023-07-04T07:10:20Z",
+  "expirationDate": "2025-07-04T21:00:00Z",
+  "registrarExpirationDate": "2025-07-04T21:00:00Z",
+  "updatedDate": "2023-07-04T07:17:38Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns3-l2.nic.ru",
+    "ns4-cloud.nic.ru",
+    "ns4-l2.nic.ru",
+    "ns8-cloud.nic.ru",
+    "ns8-l2.nic.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "Regional Network Information Center, JSC dba RU-CENTER",
+  "registrarUrl": "http://www.nic.ru",
+  "registrarAbuseEmail": "tld-abuse@nic.ru",
+  "registrarAbusePhone": "+7.4959944601",
+  "registrarWhoisServer": "whois.nic.ru",
+  "registrantId": "C1092004080-CNIC",
+  "registrantName": "Privacy protection service - whoisproxy.ru",
+  "registrantOrg": "Privacy protection service - whoisproxy.ru",
+  "registrantAddress": [
+    "PO box 99, whoisproxy.ru"
+  ],
+  "registrantCity": "Moscow",
+  "registrantState": "Moscow",
+  "registrantPostalCode": "123308",
+  "registrantCountry": "RU",
+  "registrantPhone": "+7.4957856536",
+  "registrantEmail": "agr.auto@whoisproxy.ru",
+  "adminId": "C1092004080-CNIC",
+  "adminName": "Privacy protection service - whoisproxy.ru",
+  "adminOrg": "Privacy protection service - whoisproxy.ru",
+  "adminAddress": [
+    "PO box 99, whoisproxy.ru"
+  ],
+  "adminCity": "Moscow",
+  "adminState": "Moscow",
+  "adminPostalCode": "123308",
+  "adminCountry": "RU",
+  "adminPhone": "+7.4957856536",
+  "adminEmail": "agr.auto@whoisproxy.ru",
+  "techId": "C1092004080-CNIC",
+  "techName": "Privacy protection service - whoisproxy.ru",
+  "techOrg": "Privacy protection service - whoisproxy.ru",
+  "techAddress": [
+    "PO box 99, whoisproxy.ru"
+  ],
+  "techCity": "Moscow",
+  "techState": "Moscow",
+  "techPostalCode": "123308",
+  "techCountry": "RU",
+  "techPhone": "+7.4957856536",
+  "techEmail": "agr.auto@whoisproxy.ru"
+}

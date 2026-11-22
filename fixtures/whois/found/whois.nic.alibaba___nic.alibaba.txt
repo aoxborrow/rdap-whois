@@ -1,0 +1,21 @@
+###%%% QRY: nic.alibaba
+###%%% SRV: whois.nic.alibaba
+###%%% TME: 2026-11-22T08:15:17Z
+
+Domain Name: nic.alibaba
+Registry Domain ID: d_200310878000012-ALIBABA
+Registrar WHOIS Server: whois.aliregistry.cn
+Registrar URL: https://www.aliyun.com
+Updated Date: 2026-06-10T11:25:06Z
+Creation Date: 2019-06-07T21:18:05Z
+Registry Expiry Date: 2027-05-07T17:54:38Z
+Registrar: Registry Operator acts as Registrar (9999) (9999)
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: abuse.alitld@list.alibaba-inc.com
+Registrar Abuse Contact Phone: +86.57128223456
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: vip3.alidns.com
+Name Server: vip4.alidns.com
+DNSSEC: signedDelegation

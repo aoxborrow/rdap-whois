@@ -1,0 +1,12 @@
+###%%% QRY: telecom.tm
+###%%% SRV: whois.nic.tm
+###%%% TME: 2026-07-16T11:44:30Z
+
+Domain : telecom.tm
+Status : Live
+Expiry : 2040-12-31
+
+NS 1   : webns1.telecom.tm
+       : 217.174.238.141
+NS 2   : webns2.telecom.tm
+       : 217.174.239.141

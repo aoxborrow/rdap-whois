@@ -1,0 +1,39 @@
+###%%% QRY: turkiye.gov.tr
+###%%% SRV: whois.trabis.gov.tr
+###%%% TME: 2026-07-16T11:17:38Z
+
+** Domain Name: turkiye.gov.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer.
+
+** Registrant:
+T.C. Cumhurbaşkanlığı Siber Güvenlik Başkanlığı
+Hidden upon user request
+Hidden upon user request
+Hidden upon user request
+Hidden upon user request
+
+
+** Registrar:
+NIC Handle  : tk1036
+Organization Name : TRABİS KK
+Address   : ANKARA
+     ANKARA
+     00000 Ankara Türkiye
+Phone   : 90-312-2100060
+Fax   : 90-312-2100060 
+
+
+** Domain Servers:
+ns1.turkiye.gov.tr 94.55.117.7 2a00:1d58:0:1901:94:55:117:7
+ns2.turkiye.gov.tr 94.55.118.8 2a00:1d58:0:1901:94:55:118:8
+
+
+** Additional Info:
+Created on..............: 2001-Jun-07.
+Expires on..............: 2027-Jun-06.
+
+
+** Whois Server:
+Last Update Time: 2026-07-16T14:02:02+03:00

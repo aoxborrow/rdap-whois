@@ -1,0 +1,38 @@
+{
+  "query": "nic.merckmsd",
+  "server": "whois.nic.merckmsd",
+  "domainId": "DF17C672731D7429296FCC3087EB464D3-GDREG",
+  "domainName": "nic.merckmsd",
+  "creationDate": "2023-04-11T01:58:43Z",
+  "expirationDate": "2027-04-11T01:58:43Z",
+  "updatedDate": "2026-05-26T01:58:48Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.merckmsd",
+    "b.nic.merckmsd",
+    "c.nic.merckmsd",
+    "x.nic.merckmsd",
+    "y.nic.merckmsd",
+    "z.nic.merckmsd"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "MSD Registry Holdings, Inc",
+  "registrarUrl": "https://nic.msd",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.9082432545",
+  "registrarWhoisServer": "whois.nic.msd"
+}

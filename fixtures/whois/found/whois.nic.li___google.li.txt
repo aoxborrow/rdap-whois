@@ -1,0 +1,24 @@
+This information is subject to an Acceptable Use Policy.
+See https://www.nic.ch/terms/aup/
+
+
+Domain name:
+google.li
+
+Registrar:
+MarkMonitor
+
+2150 S Bonito Way, Suite 150
+US-ID 83642 Meridian
+United States
+
+First registration date:
+2000-08-04
+
+DNSSEC:N
+
+Name servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com

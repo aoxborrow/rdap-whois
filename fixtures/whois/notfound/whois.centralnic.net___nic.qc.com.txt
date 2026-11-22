@@ -1,0 +1,5 @@
+###%%% QRY: nic.qc.com
+###%%% SRV: whois.centralnic.net
+###%%% TME: 2026-07-14T10:42:37Z
+
+The queried object does not exist: DOMAIN NOT FOUND

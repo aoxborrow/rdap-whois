@@ -1,0 +1,31 @@
+###%%% QRY: shopee.tw
+###%%% SRV: whois.twnic.net.tw
+###%%% TME: 2026-07-16T11:45:30Z
+
+Domain Name: shopee.tw
+   Domain Status: clientTransferProhibited
+   Registrant:
+      
+      Shopee Singapore Private Limited
+      domain@garena.com
+      SG
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2026-11-28 11:45:10 (UTC+8)
+   Record created on 2014-11-28 11:45:10 (UTC+8)
+
+   Domain servers in listed order:
+      ns-123.awsdns-15.com        
+      ns-1361.awsdns-42.org       
+      ns-1987.awsdns-56.co.uk     
+      ns-743.awsdns-28.net        
+
+Registration Service Provider: CSC Corporate Domains, Inc.
+Registration Service URL: https://www.csccorporatedomains.com
+Provided by Registry Services, LLC. Registry Gateway Services

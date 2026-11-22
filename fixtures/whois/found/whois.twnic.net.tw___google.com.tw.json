@@ -1,0 +1,31 @@
+{
+  "query": "google.com.tw",
+  "server": "whois.twnic.net.tw",
+  "domainName": "google.com.tw",
+  "creationDate": "2000-08-29T02:22:50Z",
+  "expirationDate": "2027-11-08T16:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited,clientTransferProhibited,clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor, Inc.",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrantName": "Google LLC",
+  "registrantOrg": "Google LLC",
+  "registrantCountry": "US",
+  "registrantEmail": "dns-admin@google.com",
+  "adminName": "(Redacted for privacy)",
+  "adminEmail": "(Redacted for privacy)",
+  "techName": "(Redacted for privacy)",
+  "techEmail": "(Redacted for privacy)"
+}

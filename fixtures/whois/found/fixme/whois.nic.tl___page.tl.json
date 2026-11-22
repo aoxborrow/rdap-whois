@@ -1,0 +1,33 @@
+{
+  "domainId": "20277-CoCCA",
+  "domainName": "page.tl",
+  "creationDate": "2006-03-25T12:00:00Z",
+  "expirationDate": "2026-03-25T12:00:00Z",
+  "updatedDate": "2025-03-12T13:43:43Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns01.webme.com",
+    "ns02.webme.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "InterNetX GmbH",
+  "registrarAddress": [
+    "Johanna-Dachs-Str. 55"
+  ],
+  "registrarCity": "Regensburg",
+  "registrarState": "Bayern",
+  "registrarPostalCode": "93055",
+  "registrarEmail": "nic-cx@domains.internetx.de",
+  "registrantId": "752747-CoCCA",
+  "adminId": "752747-CoCCA",
+  "techId": "752748-CoCCA",
+  "techAddress": [
+    "Strassburger Strasse 55"
+  ],
+  "techCity": "Berlin",
+  "techState": "de",
+  "techPostalCode": "10405"
+}

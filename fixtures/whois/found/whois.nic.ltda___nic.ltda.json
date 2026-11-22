@@ -1,0 +1,79 @@
+{
+  "query": "nic.ltda",
+  "server": "whois.nic.ltda",
+  "domainId": "REDACTED",
+  "domainName": "nic.ltda",
+  "creationDate": "2014-10-03T18:58:44Z",
+  "expirationDate": "2027-10-03T18:58:44Z",
+  "updatedDate": "2026-11-17T18:58:45Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.ltda",
+    "a2.nic.ltda",
+    "b0.nic.ltda",
+    "c0.nic.ltda"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "InterNetX Corp.",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "Florida",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

@@ -1,0 +1,63 @@
+###%%% QRY: loli.beer
+###%%% SRV: whois.west.cn
+###%%% TME: 2025-03-20T13:40:20Z
+
+Domain Name: loli.beer                
+Registry Domain ID: 20213022530026
+Registrar WHOIS Server: whois.west.cn
+Registrar URL: www.west.cn
+Updated Date: 2018-06-27T12:22:34.0Z
+Creation Date: 2018-06-27T12:22:34.0Z
+Registrar Registration Expiration Date: 2025-06-27T12:22:34.0Z
+Registrar: Chengdu west dimension digital technology Co., LTD
+Registrar IANA ID: 1556
+Reseller:
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Jiang Xi
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: CN
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: link at https://www.west.cn/web/whoisform?domain=loli.beer
+Registry Admin ID: Not Available From Registry
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: link at https://www.west.cn/web/whoisform?domain=loli.beer
+Registry Tech ID: Not Available From Registry
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: link at https://www.west.cn/web/whoisform?domain=loli.beer
+Name Server: ns1.he.net
+Name Server: ns2.he.net
+DNSSEC: unsigned
+Registrar Abuse Contact Email: westabuse@gmail.com 
+Registrar Abuse Contact Phone: +86.2862778877
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
+>>> Last update of WHOIS database: 2025-03-20T13:40:15.0Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

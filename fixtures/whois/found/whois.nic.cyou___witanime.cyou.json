@@ -1,0 +1,28 @@
+{
+  "query": "witanime.cyou",
+  "server": "whois.nic.cyou",
+  "domainId": "D444303696-CNIC",
+  "domainName": "witanime.cyou",
+  "creationDate": "2024-04-02T00:08:57Z",
+  "expirationDate": "2027-04-02T23:59:59Z",
+  "updatedDate": "2026-05-01T12:13:25Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "art.ns.cloudflare.com",
+    "rihana.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

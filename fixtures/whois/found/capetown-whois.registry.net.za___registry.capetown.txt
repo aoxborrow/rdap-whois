@@ -1,0 +1,40 @@
+###%%% QRY: registry.capetown
+###%%% SRV: capetown-whois.registry.net.za
+###%%% TME: 2025-04-09T07:39:45Z
+
+Domain Name: registry.capetown
+Registry Domain ID: dom_AMF--1
+Registrar WHOIS Server: https://whois.gateway.africa
+Registrar URL: https://www.gateway.africa
+Updated Date: 2025-02-28T14:40:05Z
+Creation Date: 2024-02-28T14:35:35Z
+Registry Expiry Date: 2026-02-28T14:35:35Z
+Registrar Registration Expiration Date: 2026-02-28T14:35:35Z
+Registrar: DNS Africa Ltd
+Registrar IANA ID: 2287
+Registrar Abuse Contact Email: abuse@dns.business
+Registrar Abuse Contact Phone: +27.115682800
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Ed Pascoe Domains
+Registrant Country: ZA
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns10.dns.business
+Name Server: ns11.dns.business
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-04-09T07:39:45Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Complaint/s Procedure and Form: https://registry.net.za/content.php?gen=1&contentid=226
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://registry.net.za/whois_terms
+# Copyright (c) ZACR 1995-2025

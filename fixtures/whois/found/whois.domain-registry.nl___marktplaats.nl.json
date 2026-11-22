@@ -1,0 +1,25 @@
+{
+  "query": "marktplaats.nl",
+  "server": "whois.domain-registry.nl",
+  "domainName": "marktplaats.nl",
+  "creationDate": "1999-05-19T00:00:00Z",
+  "updatedDate": "2024-07-08T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active"
+  ],
+  "nameservers": [
+    "ns-449.awsdns-56.com",
+    "ns-758.awsdns-30.net",
+    "ns-1512.awsdns-61.org",
+    "ns-1656.awsdns-15.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "no",
+  "registrarName": "MarkMonitor Inc.",
+  "registrarCity": "Meridian",
+  "registrarPostalCode": "83642",
+  "registrarCountry": "United States of America"
+}

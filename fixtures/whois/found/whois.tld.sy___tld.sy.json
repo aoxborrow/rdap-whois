@@ -1,0 +1,21 @@
+{
+  "domainId": "7-sy",
+  "domainName": "tld.sy",
+  "creationDate": "2010-12-02T16:01:27Z",
+  "expirationDate": "2030-12-01T22:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns3.tld.sy",
+    "ns4.tld.sy"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "?????? ??????? ?????? ????? ?????????",
+  "registrantEmail": "domain@tld.sy",
+  "billingEmail": "domain@tld.sy"
+}

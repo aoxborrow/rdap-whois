@@ -1,0 +1,40 @@
+###%%% QRY: nic.bostik
+###%%% SRV: whois.nic.bostik
+###%%% TME: 2026-11-22T08:15:33Z
+
+Domain Name:                   nic.bostik
+Registry Domain ID:            DOM000000000002-BOSTIK
+Registrar WHOIS Server:        whois.nic.bostik
+Registrar URL:                 
+Updated Date:                  2026-10-12T15:15:45.134376Z
+Creation Date:                 2015-08-28T15:12:54Z
+Registry Expiry Date:          2027-08-28T15:12:54Z
+Registrar:                     Registry Operations
+Registrar IANA ID:             9999
+Domain Status:                 active https://icann.org/epp#active
+Name Server:                   g.ext.nic.fr
+Name Server:                   ns1.nic.fr
+Name Server:                   ns2.nic.fr
+Name Server:                   ns3.nic.fr
+DNSSEC:                        signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:15:33.549754Z <<<
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Rights restricted by copyright.
+Terms of Use : AFNIC's database is protected by the provisions of the French Law of the 1st of July 1998
+transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code.
+
+AFNIC is the only entity to hold the producing rights of the databases as substantial investment, quantitative
+as much as qualitative, that were used to achieve this database.
+Complete or partial reproduction and/or use of AFNIC's database without the express permission of AFNIC
+is strictly forbidden.
+
+Any breach to these rules can carry penal sanctions as counterfeit, without prejudice of a potential damages request from AFNIC,
+holder of these rights. AFNIC's database user commits to use the published data according to the laws
+and rules in effect. Moreover, the user is bound to respect the French Data Protection Law.
+The infringement of the French Data Protection Law can carry penal sanctions. As the user will access personal information,
+the user must refrain from collecting or misuse this information. In a more general way, the user must refrain from any act likely
+to infringe the privacy or reputation of individuals.

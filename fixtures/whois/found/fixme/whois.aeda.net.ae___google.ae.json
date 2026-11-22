@@ -1,0 +1,21 @@
+{
+  "domainName": "google.ae",
+  "status": [
+    "clientDeleteProhibited",
+    "clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrarId": "markmonitor",
+  "registrarName": "MarkMonitor",
+  "registrantId": "MMR-171195",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantEmail": "Visit whois.aeda.net.ae for Web based WhoIs",
+  "techId": "MMR-171195",
+  "techName": "Domain Administrator",
+  "techOrg": "Google LLC",
+  "techEmail": "Visit whois.aeda.net.ae for Web based WhoIs"
+}

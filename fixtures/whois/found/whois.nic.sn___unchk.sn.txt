@@ -1,0 +1,77 @@
+###%%% QRY: unchk.sn
+###%%% SRV: whois.nic.sn
+###%%% TME: 2026-07-16T11:44:04Z
+
+============================================================================
+Whois du Registre .SN
+Les informations fournies par ce service ne sont qu'à titre informatif.
+
+Les données collectées via le formulaire d'enregistrement sont traitées exclusivement à des fins liées au traitement des domaines conformément à la RFC 3912 par le NIC Sénégal.
+
+En application des dispositions de la loi n°2008-12 du 25 janvier 2008 portant sur la protection des données à caractère personnel, vous pouvez exercer vos droits d'accès, d'opposition, de rectification et de suppression auprès du NIC Sénégal - abuse(at)nic.sn.
+============================================================================
+
+Domain ID:                     DOM3881101-SN
+Nom de domaine:                unchk.sn
+Date de création:              2023-03-15T13:54:14.816489Z
+Dernière modification:         2026-04-29T14:59:14.139669Z
+Date d'expiration:             2027-03-15T13:54:14.798936Z
+Registrar:                     NIC Sénégal
+Statut:                        actif
+
+[HOLDER]
+ID Contact:                    CTC21738
+Type:                          Organisation
+Nom:                           UNCHK
+Adresse:                       Cite du Savoir
+Code postal:                   15126
+Ville:                         Diamniadio
+Pays:                          SN
+Téléphone:                     +221.301084153
+Courriel:                      nsmanager@unchk.edu.sn
+Dernière modification:         2025-06-07T10:16:44.558237Z
+
+[ADMIN_C]
+ID Contact:                    CTC3069
+Type:                          Organisation
+Nom:                           Cabinet du Recteur
+Adresse:                       Cité du Savoir 
+Code postal:                   15126
+Ville:                         Diamniadio
+Pays:                          SN
+Téléphone:                     +221.301084153
+Courriel:                      cabinet@unchk.edu.sn
+Dernière modification:         2025-06-07T10:01:20.678706Z
+
+[BILLING_C]
+ID Contact:                    CTC3068
+Type:                          Organisation
+Nom:                           Direction des Finances et de la Comptabilité
+Adresse:                       Cité du Savoir
+Code postal:                   15126
+Ville:                         Diamniadio
+Pays:                          SN
+Téléphone:                     +221.301084153
+Courriel:                      dfc@unchk.edu.sn
+Dernière modification:         2025-06-07T10:03:03.61736Z
+
+[TECH_C]
+ID Contact:                    CTC3070
+Type:                          Organisation
+Nom:                           Direction des Infrastructures technologiques et des Systèmes dInformation
+Adresse:                       Cité du Savoir
+Code postal:                   15126
+Ville:                         Diamniadio
+Pays:                          SN
+Téléphone:                     +221.301084153
+Courriel:                      ditsi@unchk.edu.sn
+Dernière modification:         2025-06-07T10:05:41.811173Z
+
+Serveur de noms:               dns.ucad.sn
+Serveur de noms:               ns-a.unchk.sn
+Serveur de noms:               ns-b.unchk.sn
+Serveur de noms:               ns.unchk.sn
+
+DNSSEC:                        signedDelegation
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:05.39499Z <<<

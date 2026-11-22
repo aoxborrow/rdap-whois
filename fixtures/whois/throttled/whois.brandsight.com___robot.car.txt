@@ -1,0 +1,5 @@
+###%%% QRY: robot.car
+###%%% SRV: whois.brandsight.com
+###%%% TME: 2025-03-20T13:52:03Z
+
+This WHOIS server is being retired. Please use our RDAP service instead. Rate limit exceeded. Try again after: 28s.

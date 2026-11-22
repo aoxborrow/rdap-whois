@@ -1,0 +1,29 @@
+{
+  "query": "google.je",
+  "server": "whois.je",
+  "domainName": "google.je",
+  "creationDate": "2002-10-31T00:00:00Z",
+  "eppStatus": [
+    "ok",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "Active",
+    "Transfer Prohibited by Registry",
+    "Update Prohibited by Registry",
+    "Delete Prohibited by Registry",
+    "Registered until cancelled"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantName": "Google Inc.",
+  "registrantOrg": "Google Inc."
+}

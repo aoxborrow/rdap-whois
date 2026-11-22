@@ -1,0 +1,25 @@
+###%%% QRY: fbcnews.com.fj
+###%%% SRV: www.whois.fj
+###%%% TME: 2026-07-16T11:45:48Z
+
+Domain Name: fbcnews.com.fj
+Registrar URL: https://www.domains.fj
+Updated Date: 2025-11-10T05:07:53Z
+Creation Date: 2016-05-01T12:00:00Z
+Registry Expiry Date: 2027-05-01T12:00:00Z
+Registrar Registration Expiration Date: 2027-05-01T12:00:00Z
+Registrar: USP Registrar
+Registrar Street Address: The University of the South Pacific, 
+IT Services,
+Suva.
+Registrar Email: domreg@usp.ac.fj
+Domain Status: active https://icann.org/epp#active
+Name Server: bayan.ns.cloudflare.com
+Name Server: robin.ns.cloudflare.com
+>>> Last update of WHOIS database: 2026-07-16T11:45:49.510Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to FJ Domain Registry Services. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

@@ -1,0 +1,81 @@
+{
+  "query": "google.mu",
+  "server": "whois.tld.mu",
+  "domainId": "REDACTED",
+  "domainName": "google.mu",
+  "creationDate": "2000-12-20T13:00:00Z",
+  "expirationDate": "2027-12-19T13:00:00Z",
+  "updatedDate": "2026-11-17T10:25:27Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "renewPeriod"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "renewPeriod https://icann.org/epp#renewPeriod"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "CA",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

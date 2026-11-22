@@ -1,0 +1,26 @@
+{
+  "domainName": "amazon.ae",
+  "status": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.amzndns.co.uk",
+    "ns1.amzndns.com",
+    "ns1.amzndns.net",
+    "ns1.amzndns.org",
+    "ns2.amzndns.co.uk",
+    "ns2.amzndns.com",
+    "ns2.amzndns.net",
+    "ns2.amzndns.org"
+  ],
+  "registrarId": "COMLAUDE",
+  "registrarName": "Com Laude",
+  "registrantId": "COMLDE-006616",
+  "registrantName": "Legal Department",
+  "registrantOrg": "Amazon Technologies, Inc.",
+  "registrantEmail": "Visit whois.aeda.net.ae for Web based WhoIs",
+  "techId": "COMLDE-000284",
+  "techName": "Technical Manager",
+  "techOrg": "Com Laude",
+  "techEmail": "Visit whois.aeda.net.ae for Web based WhoIs"
+}

@@ -1,0 +1,15 @@
+{
+  "query": "xn--kche-0ra.de",
+  "server": "whois.denic.de",
+  "domainName": "küche.de",
+  "updatedDate": "2025-05-09T07:14:15Z",
+  "eppStatusRaw": [
+    "connect"
+  ],
+  "nameservers": [
+    "a.ns14.net",
+    "b.ns14.net",
+    "c.ns14.net",
+    "d.ns14.net"
+  ]
+}

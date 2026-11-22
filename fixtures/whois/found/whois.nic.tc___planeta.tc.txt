@@ -1,0 +1,23 @@
+###%%% QRY: planeta.tc
+###%%% SRV: whois.nic.tc
+###%%% TME: 2026-07-16T11:44:14Z
+
+Domain Name: planeta.tc
+WHOIS Server: whois.nic.tc
+Creation Date: 2005-10-24T04:00:00.0Z
+Registry Expiry Date: 2026-10-25T04:00:00.0Z
+Sponsoring Registrar: 1API
+Domain Status: ok
+Registrant Organization: "Comtechcenter" Ltd.
+Name Server: ns0.mirasystem.net
+Name Server: ns1.mirasystem.net
+DNSSEC: unsigned
+Additional Section
+Sponsoring Registrar URL: 
+Sponsoring Registrar Address: Kaiserstrasse 172-174  66386 St. Ingbert
+Sponsoring Registrar Country: DE
+Sponsoring Registrar Customer Service Email:
+>>> Last update of WHOIS database: 2026-07-16T11:44:08.488Z <<<
+
+The data in the WHOIS database of TC Registry is provided by NICTC Registry LTD for information purposes, and to assist persons in obtaining information about or related to domain name registration records. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances, you will use this data to enable high volume, automated, electronic processes that apply to NICTC Registry or its systems. NIC TC Registry LTD reserves the right to modify these terms.
+By submitting this query, you agree to abide by this policy.

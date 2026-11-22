@@ -1,0 +1,43 @@
+{
+  "domainName": "hsbc",
+  "creationDate": "2015-01-15T00:00:00Z",
+  "updatedDate": "2024-05-11T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a.nic.hsbc",
+    "b.nic.hsbc",
+    "c.nic.hsbc",
+    "ns1.dns.nic.hsbc",
+    "ns2.dns.nic.hsbc",
+    "ns3.dns.nic.hsbc"
+  ],
+  "dnssecRaw": "16129 8 2 1e993a683fd63ba6fa436d235eddbb949901975649b11c628dfef8105264ae9d",
+  "registrantOrg": "HSBC Global Services (UK) Limited",
+  "registrantAddress": [
+    "8 Canada Square, Canary Wharf",
+    "London E14 5HQ",
+    "United Kingdom of Great Britain and Northern Ireland (the)"
+  ],
+  "adminName": "Kevin Audritt",
+  "adminOrg": "HSBC Holdings PLC",
+  "adminAddress": [
+    "8 Canada Square",
+    "Canary Wharf",
+    "London E14 5HQ",
+    "United Kingdom of Great Britain and Northern Ireland (the)"
+  ],
+  "adminPhone": "+44 (0)20 7991 0814",
+  "adminEmail": "kevinaudritt@hsbc.com",
+  "techName": "IANA Contact",
+  "techOrg": "GoDaddy Registry",
+  "techAddress": [
+    "100 S. Mill Ave, Suite 1600",
+    "Tempe AZ 85281",
+    "United States of America (the)"
+  ],
+  "techPhone": "+1 480 505 8800",
+  "techFax": "+1 480 624 2546",
+  "techEmail": "iana@registry.godaddy"
+}

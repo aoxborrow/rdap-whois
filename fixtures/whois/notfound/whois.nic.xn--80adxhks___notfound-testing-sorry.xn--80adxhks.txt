@@ -1,0 +1,14 @@
+###%%% QRY: notfound-testing-sorry.xn--80adxhks
+###%%% SRV: whois.nic.xn--80adxhks
+###%%% TME: 2025-03-20T18:30:07Z
+
+Domain not found.
+
+>>> Last update of WHOIS database: 2025-03-20T18:30:07Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://flexireg.net/whois-terms_of_use.html (in Russian)
+% http://flexireg.net/whois-terms_of_use.en.html (in English)

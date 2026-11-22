@@ -1,0 +1,53 @@
+{
+  "query": "google.mw",
+  "server": "whois.nic.mw",
+  "domainName": "google.mw",
+  "creationDate": "2002-12-20T16:08:33Z",
+  "expirationDate": "2027-10-05T00:00:00Z",
+  "updatedDate": "2022-09-13T04:15:25Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MARKMONITOR-REG",
+  "registrantId": "MM1171195",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "MM1171195",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "adminPhone": "+1.6502530000",
+  "adminFax": "+1.6502530001",
+  "adminEmail": "dns-admin@google.com",
+  "techId": "MM1168279",
+  "techName": "Domain Administrator",
+  "techOrg": "MarkMonitor Inc.",
+  "techAddress": [
+    "1120 S. Rackham Way, Suite 300",
+    "Meridian",
+    "83642",
+    "US"
+  ],
+  "techPhone": "+1.2083895740",
+  "techFax": "+1.2083895771",
+  "techEmail": "ccops@markmonitor.com"
+}

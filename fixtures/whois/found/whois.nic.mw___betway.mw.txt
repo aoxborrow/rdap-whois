@@ -1,0 +1,77 @@
+###%%% QRY: betway.mw
+###%%% SRV: whois.nic.mw
+###%%% TME: 2026-07-16T11:42:40Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+% Timestamp: Thu Jul 16 13:42:41 2026
+
+domain:       betway.mw
+registrant:   BETWAY-MW-REG
+admin-c:      BETWAY-MW-ADMIN
+admin-c:      BETWAY-MW-BILLING
+nsset:        INSC1660941420555
+registrar:    INSTRA-REG
+registered:   18.03.2016 10:50:26
+changed:      20.08.2022 00:37:01
+expire:       25.02.2028
+
+contact:      BETWAY-MW-REG
+org:          Merryvale Ltd
+name:         Merryvale Ltd
+address:      Merryvale Ltd  La Corvee House  Channel Islands  GY9 3TQ  GG
+address:      Channel Islands
+address:      --
+address:      AU
+phone:        +265.397831800
+fax-no:       +61.397831800
+e-mail:       mwdomains@instra.com
+registrar:    mw_system_reg
+created:      25.03.2016 19:25:56
+
+contact:      BETWAY-MW-ADMIN
+org:          Instra Coorperation
+name:         Tony Lentino
+address:      Instra Corporation  GPO Box 998  AU
+address:      Melbourne
+address:      --
+address:      MW
+phone:        +61.397831800
+fax-no:       +61.397831800
+e-mail:       mwdomains@instra.com
+registrar:    mw_system_reg
+created:      25.03.2016 19:25:56
+
+contact:      BETWAY-MW-BILLING
+org:          Instra Corporation
+name:         Tony Lentino
+address:      Instra Corporation  GPO Box 998  AU
+address:      Melbourne
+address:      --
+address:      MW
+phone:        +61.397831800
+fax-no:       +61.397831800
+e-mail:       mwdomains@instra.com
+registrar:    mw_system_reg
+created:      25.03.2016 19:25:57
+
+nsset:        INSC1660941420555
+nserver:      karsyn.ns.cloudflare.com 
+nserver:      kolton.ns.cloudflare.com 
+tech-c:       INSC1660941417497
+registrar:    INSTRA-REG
+created:      20.08.2022 00:37:00
+
+contact:      INSC1660941417497
+org:          Merryvale Limited
+name:         Richard Akitt
+address:      The Cedars, 17 Odins Way
+address:      Ballakillowey
+address:      IM9 4BQ
+address:      Isle of Man
+address:      IM
+phone:        +44.2071997368
+e-mail:       betwayadmin@betway.com
+registrar:    INSTRA-REG
+created:      20.08.2022 00:37:00

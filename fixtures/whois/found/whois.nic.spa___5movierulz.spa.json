@@ -1,0 +1,30 @@
+{
+  "query": "5movierulz.spa",
+  "server": "whois.nic.spa",
+  "domainId": "REDACTED",
+  "domainName": "5movierulz.spa",
+  "creationDate": "2025-01-12T15:20:28Z",
+  "expirationDate": "2027-01-12T15:20:28Z",
+  "updatedDate": "2026-08-12T03:03:32Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "carlane.ns.cloudflare.com",
+    "troy.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "Tucows Domains Inc.",
+  "registrarUrl": "http://www.tucows.com",
+  "registrarAbuseEmail": "compliance@tucows.com",
+  "registrarAbusePhone": "+1.4165350123",
+  "registrarWhoisServer": "whois.tucows.com"
+}

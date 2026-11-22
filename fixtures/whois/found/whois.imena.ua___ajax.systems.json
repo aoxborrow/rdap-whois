@@ -1,0 +1,73 @@
+{
+  "query": "ajax.systems",
+  "server": "whois.imena.ua",
+  "domainId": "dfdc6ca2593b4f748a95918ccc2fcf23-DONUTS",
+  "domainName": "ajax.systems",
+  "creationDate": "2014-06-04T14:35:12Z",
+  "expirationDate": "2027-06-04T14:35:12Z",
+  "registrarExpirationDate": "2027-06-04T14:35:12Z",
+  "updatedDate": "2026-08-13T21:34:16Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "anna.ns.cloudflare.com",
+    "cleo.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signed",
+  "registrarId": "1112",
+  "registrarIanaId": 1112,
+  "registrarName": "INTERNET INVEST, LTD. DBA IMENA.UA",
+  "registrarUrl": "http://www.imena.ua",
+  "registrarAbuseEmail": "abuse@imena.ua",
+  "registrarAbusePhone": "+380.442010102",
+  "registrarWhoisServer": "whois.imena.ua",
+  "registrantId": "imn-cl-xse25duk6",
+  "registrantName": "Aleksandr Konotopskyi",
+  "registrantOrg": "AJAX SYSTEMS CYPRUS HOLDINGS LTD",
+  "registrantAddress": [
+    "Ifigeneias, 17, Strovolos"
+  ],
+  "registrantCity": "Nicosia",
+  "registrantPostalCode": "2007",
+  "registrantCountry": "Cyprus",
+  "registrantPhone": "+380.504145808",
+  "registrantEmail": "legal@ajax.systems",
+  "adminId": "imn-cl-5pnklbfbc",
+  "adminName": "Aleksandr Konotopskyi",
+  "adminOrg": "AJAX SYSTEMS CYPRUS HOLDINGS LTD",
+  "adminAddress": [
+    "Ifigeneias, 17, Strovolos"
+  ],
+  "adminCity": "Nicosia",
+  "adminPostalCode": "2007",
+  "adminCountry": "Cyprus",
+  "adminPhone": "+380.504145808",
+  "adminEmail": "legal@ajax.systems",
+  "techId": "imn-cl-64dahnu3r",
+  "techName": "Aleksandr Konotopskyi",
+  "techOrg": "AJAX SYSTEMS CYPRUS HOLDINGS LTD",
+  "techAddress": [
+    "Ifigeneias, 17, Strovolos"
+  ],
+  "techCity": "Nicosia",
+  "techPostalCode": "2007",
+  "techCountry": "Cyprus",
+  "techPhone": "+380.504145808",
+  "techEmail": "legal@ajax.systems",
+  "billingId": "imn-cl-afmv4n9xh",
+  "billingName": "Aleksandr Konotopskyi",
+  "billingOrg": "AJAX SYSTEMS CYPRUS HOLDINGS LTD",
+  "billingAddress": [
+    "Ifigeneias, 17, Strovolos"
+  ],
+  "billingCity": "Nicosia",
+  "billingPostalCode": "2007",
+  "billingCountry": "Cyprus",
+  "billingPhone": "+380.504145808",
+  "billingEmail": "legal@ajax.systems"
+}

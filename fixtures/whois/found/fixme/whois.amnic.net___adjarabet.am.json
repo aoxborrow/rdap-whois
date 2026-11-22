@@ -1,0 +1,20 @@
+{
+  "domainName": "adjarabet.am",
+  "creationDate": "2017-08-17T00:00:00Z",
+  "expirationDate": "2025-08-17T00:00:00Z",
+  "updatedDate": "2024-07-23T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.cdnetdns.net",
+    "ns2.cdnetdns.net"
+  ],
+  "registrarName": "abcdomain (ABCDomain LLC)",
+  "registrantName": "Domain Privacy",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY",
+    "0000"
+  ],
+  "registrantCountry": "AM"
+}

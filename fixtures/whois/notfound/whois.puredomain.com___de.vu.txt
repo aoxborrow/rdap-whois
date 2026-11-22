@@ -1,0 +1,7 @@
+###%%% QRY: de.vu
+###%%% SRV: whois.puredomain.com
+###%%% TME: 2025-03-20T16:41:19Z
+
+domain not found
+
+9 out of 10 requests per hour remaining.

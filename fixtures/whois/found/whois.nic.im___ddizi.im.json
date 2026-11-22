@@ -1,0 +1,14 @@
+{
+  "query": "ddizi.im",
+  "server": "whois.nic.im",
+  "domainName": "ddizi.im",
+  "expirationDate": "2027-05-11T00:59:57Z",
+  "nameservers": [
+    "jean.ns.cloudflare.com",
+    "vern.ns.cloudflare.com"
+  ],
+  "registrantName": "Redacted",
+  "adminName": "Redacted",
+  "techName": "Redacted",
+  "billingName": "Redacted"
+}

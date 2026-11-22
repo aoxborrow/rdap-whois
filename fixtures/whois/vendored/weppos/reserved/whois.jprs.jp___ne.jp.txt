@@ -1,0 +1,27 @@
+###%%% SRV: whois.jprs.jp
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.jprs.jp/ne.jp/status_reserved.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+Domain Information:
+a. [Domain Name]                NE.JP
+d. [Network Service Name]       Network Service Domain
+l. [Organization Type]           
+m. [Administrative Contact]      
+n. [Technical Contact]          
+p. [Name Server]                a.dns.jp
+p. [Name Server]                b.dns.jp
+p. [Name Server]                c.dns.jp
+p. [Name Server]                d.dns.jp
+p. [Name Server]                e.dns.jp
+p. [Name Server]                f.dns.jp
+p. [Name Server]                g.dns.jp
+s. [Signing Key]                
+[State]                         Reserved
+[Registered Date]                
+[Connected Date]                 
+[Last Update]                   2005/03/30 17:37:52 (JST)

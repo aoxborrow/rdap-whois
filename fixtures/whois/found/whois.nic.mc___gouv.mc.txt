@@ -1,0 +1,46 @@
+###%%% QRY: gouv.mc
+###%%% SRV: whois.nic.mc
+###%%% TME: 2026-07-16T23:40:31Z
+
+>>
+>> Welcome to the NIC Monaco Whois server.
+>>
+>> Complete date format : YYYY-MM-DDThh:mm:ssZ
+>>
+>> You are not allowed to duplicate these information without
+>> authorization of NIC Monaco.
+>> See https://www.nic.mc for informations about .mc domains.
+>> Please contact nic@gouv.mc for any question.
+>>
+>>
+--------------------------------------------------------------
+Domain             : GOUV.MC
+Status             : ACTIVE
+DNSSEC             : Unsigned
+Owner-c            : Restricted
+Admin-c            : Restricted
+Tech-c             : Restricted
+Registrar          : Monaco Telecom
+
+nserver            : ns1.monaco-telecom.mc
+nserver            : ns2.monaco-telecom.net
+
+Created            : 1997-11-26T10:52:00Z
+Expires on         : 2026-11-25
+Last update        : 2025-11-25T00:10:02Z
+
+Registrar          : Monaco Telecom
+Registrar          : 25 Boulevard de Suisse
+Registrar          : BP 377
+Registrar          : 98000 Monaco
+Registrar          : Monaco
+Registrar email    : stce@monaco-telecom.mc
+Registrar Phone    : +377 99 66 63 10
+--------------------------------------------------------------
+
+>>>> Last update of WHOIS Database : 2026-07-16T16:56:48Z <<<<
+
+>> The information contained in the WHOIS database is provided
+>> as is. The NIC Monaco cannot be held responsible for any
+>> errors. For more information about a domain, please contact
+>> the responsible registrar.

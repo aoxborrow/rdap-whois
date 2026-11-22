@@ -1,0 +1,74 @@
+{
+  "query": "itservice.moscow",
+  "server": "whois.nic.moscow",
+  "domainId": "20170828161719880681_03b7aa2078ff8c498e716c6355e24047_domain-FIR",
+  "domainName": "itservice.moscow",
+  "creationDate": "2017-08-28T16:17:19Z",
+  "expirationDate": "2027-08-28T16:17:19Z",
+  "updatedDate": "2026-06-02T04:38:05Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a.ns.selectel.ru",
+    "b.ns.selectel.ru",
+    "c.ns.selectel.ru",
+    "d.ns.selectel.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsignedDelegation",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "JSC \"RU-CENTER\"",
+  "registrarUrl": "https://www.nic.ru",
+  "registrarAbuseEmail": "tld-abuse@nic.ru",
+  "registrarAbusePhone": "+7.4957370683",
+  "registrarWhoisServer": "whois.nic.ru",
+  "registrantId": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "registrantCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantState": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantCountry": "RU",
+  "registrantPhone": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantEmail": "Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminId": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "adminCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminState": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminPhone": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminEmail": "Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.",
+  "techId": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "techCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techState": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techPhone": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techEmail": "Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingId": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "billingCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingState": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingPhone": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "billingEmail": "Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws."
+}

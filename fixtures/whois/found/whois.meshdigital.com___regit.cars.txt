@@ -1,0 +1,68 @@
+###%%% QRY: regit.cars
+###%%% SRV: whois.meshdigital.com
+###%%% TME: 2026-11-22T08:08:50Z
+
+Domain Name: regit.cars
+Registry Domain ID: D211533113-CNIC
+Registrar WHOIS Server: whois.meshdigital.com
+Registrar URL: http://www.domainbox.com
+Updated Date: 2026-11-05T09:50:10Z
+Creation Date: 2016-11-04T11:51:41Z
+Registrar Registration Expiration Date: 2027-11-04T23:59:59Z
+Registrar: MESH DIGITAL LIMITED
+Registrar IANA ID: 1390
+Registrar Abuse Contact Email: abuse@domainbox.com
+Registrar Abuse Contact Phone: +1.8779770099
+Reseller: 123 Reg
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: CR764133576
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: DBP@domainsbyproxy.com
+Registry Tech ID: CR764134140
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: DBP@domainsbyproxy.com
+Name Server: LISA.NS.CLOUDFLARE.COM
+Name Server: RYAN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:08:50Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Data in this WHOIS database is provided
+for information purposes only, and is designed to assist persons in
+obtaining information related to domain name registration records.
+It's accuracy is not guaranteed. By submitting a
+WHOIS query, you agree that you will use this Data only for lawful
+purposes and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or (2) enable high volume, automated, electronic processes that
+apply to this WHOIS or any of its related systems. The provider of
+this WHOIS reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.
+LACK OF A DOMAIN RECORD IN THE WHOIS DATABASE DOES
+NOT INDICATE DOMAIN AVAILABILITY.
+
+**NOTICE** This WHOIS server is being retired. Please use our RDAP service instead.

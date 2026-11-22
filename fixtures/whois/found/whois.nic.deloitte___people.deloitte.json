@@ -1,0 +1,40 @@
+{
+  "query": "people.deloitte",
+  "server": "whois.nic.deloitte",
+  "domainId": "D151928266-CNIC",
+  "domainName": "people.deloitte",
+  "creationDate": "2019-12-11T17:57:37Z",
+  "expirationDate": "2027-12-11T23:59:59Z",
+  "updatedDate": "2026-08-05T14:52:54Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "a1-129.akam.net",
+    "a5-65.akam.net",
+    "a7-66.akam.net",
+    "a12-66.akam.net",
+    "a14-67.akam.net",
+    "a16-64.akam.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarAbuseEmail": "ccops@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantOrg": "Deloitte Touche Tohmatsu",
+  "registrantState": "NY",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

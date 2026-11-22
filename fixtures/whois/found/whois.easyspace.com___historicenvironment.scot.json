@@ -1,0 +1,44 @@
+{
+  "query": "historicenvironment.scot",
+  "server": "whois.easyspace.com",
+  "domainId": "D14538-SCOT",
+  "domainName": "historicenvironment.scot",
+  "creationDate": "2015-10-28T16:22:28Z",
+  "expirationDate": "2027-10-28T16:22:28Z",
+  "registrarExpirationDate": "2027-10-28T16:22:28Z",
+  "updatedDate": "2026-09-29T02:13:53Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.namecity.com",
+    "ns2.namecity.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "79",
+  "registrarIanaId": 79,
+  "registrarName": "Easyspace Ltd.",
+  "registrarReseller": "Easyspace Ltd",
+  "registrarUrl": "https://www.easyspace.com",
+  "registrarAbuseEmail": "abuse@easyspace.com",
+  "registrarAbusePhone": "+44.3707555066",
+  "registrarWhoisServer": "whois.easyspace.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Edinburgh",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "GB",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://tieredaccess.com/contact/8f5bfe1b-c70b-4267-b4df-485c3cae639b"
+}

@@ -1,0 +1,48 @@
+###%%% QRY: bitwise.best
+###%%% SRV: whois.nic.best
+###%%% TME: 2026-07-16T23:24:40Z
+
+Domain Name: BITWISE.BEST
+Registry Domain ID: D632450218-CNIC
+Registrar WHOIS Server: whois.spaceship.com
+Registrar URL: https://www.spaceship.com/
+Updated Date: 2026-07-01T17:16:18.0Z
+Creation Date: 2026-07-01T17:16:17.0Z
+Registry Expiry Date: 2027-07-01T23:59:59.0Z
+Registrar: Spaceship, Inc.
+Registrar IANA ID: 3862
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Privacy service provided by Withheld for Privacy ehf
+Registrant State/Province: Capital Region
+Registrant Country: IS
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: LAUNCH2.SPACESHIP.NET
+Name Server: LAUNCH1.SPACESHIP.NET
+DNSSEC: signedDelegation
+Registrar Abuse Contact Email: abuse@spaceship.com
+Registrar Abuse Contact Phone: +1.9854014545
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:24:41.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit
+https://www.centralnicregistry.com/support/information/rdap <<<
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

@@ -1,0 +1,60 @@
+###%%% QRY: lyrics.camp
+###%%% SRV: whois.regtons.com
+###%%% TME: 2025-03-20T13:51:40Z
+
+Domain Name: lyrics.camp
+Registry Domain ID: f2b74ff6f3124af7b8f3e3e2ae8f8844-DONUTS
+Registrar WHOIS Server: whois.regtons.com
+Registrar URL: http://regtons.com
+Updated Date: 2024-11-29T00:00:00Z
+Creation Date: 2017-09-19T00:00:00Z
+Registrar Registration Expiration Date: 2025-09-19T00:00:00Z
+Registrar: GRANSY S.R.O D/B/A SUBREG.CZ
+Registrar IANA ID: 1505
+Registrar Abuse Contact Email: abuse@regtons.com
+Registrar Abuse Contact Phone: +420.734463373
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: Not Disclosed
+Registrant Name: Not Disclosed Not Disclosed
+Registrant Organization: Future media partners Ltd.
+Registrant Street: Not Disclosed
+Registrant City: Not Disclosed
+Registrant State/Province: 
+Registrant Postal Code: Not Disclosed
+Registrant Country: VC
+Registrant Phone: Not Disclosed
+Registrant Phone Ext: Not Disclosed
+Registrant Fax: Not Disclosed
+Registrant Fax Ext:  Not Disclosed
+Registrant Email: webproxy@whoisprotection.domains
+Registry Admin ID: Not Disclosed
+Admin Name: Not Disclosed Not Disclosed
+Admin Organization: 
+Admin Street: Not Disclosed
+Admin City: Not Disclosed
+Admin State/Province: Not Disclosed
+Admin Postal Code: Not Disclosed
+Admin Country: Not Disclosed
+Admin Phone: Not Disclosed
+Admin Phone Ext: Not Disclosed
+Admin Fax: Not Disclosed
+Admin Fax Ext:  Not Disclosed
+Admin Email: webproxy@whoisprotection.domains
+Registry Tech ID: Not Disclosed
+Tech Name: Not Disclosed Not Disclosed
+Tech Organization: 
+Tech Street: Not Disclosed
+Tech City: Not Disclosed
+Tech State/Province: Not Disclosed
+Tech Postal Code: Not Disclosed
+Tech Country: Not Disclosed
+Tech Phone: Not Disclosed
+Tech Phone Ext: Not Disclosed
+Tech Fax: Not Disclosed
+Tech Fax Ext:  Not Disclosed
+Tech Email: webproxy@whoisprotection.domains
+Name Server: abby.ns.cloudflare.com
+Name Server: frank.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-20T00:00:00Z <<<

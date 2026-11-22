@@ -1,0 +1,45 @@
+###%%% QRY: qlivecdn.com
+###%%% SRV: whois.dnspod.com
+###%%% TME: 2026-11-22T08:09:18Z
+
+Domain Name: qlivecdn.com
+Registry Domain ID: 2690565752_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.dnspod.com
+Registrar URL: https://www.dnspod.com
+Updated Date: 2024-09-11 09:24:06
+Creation Date: 2022-04-20 03:28:14
+Registry Expiry Date: 2029-04-20 03:28:14
+Registrar: DNSPod, Inc.
+Registrar IANA ID: 1697
+Registrar Abuse Contact Email: dnsabuse@tencent.com
+Registrar Abuse Contact Phone: +86.4009100100
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant City: 
+Registrant State/Province: 
+Registrant Country: CN
+Registrant Email: Select Contact Domain Holder link at https://whois.cloud.tencent.com/domain?domain=qlivecdn.com
+Name Server:ns3.dnsv5.com
+Name Server:ns4.dnsv5.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>>Last update of WHOIS database: 2026-11-22T00:00:00Z <<<
+
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available "as is," and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.

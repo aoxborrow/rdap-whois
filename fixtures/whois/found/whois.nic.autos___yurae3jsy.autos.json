@@ -1,0 +1,28 @@
+{
+  "query": "yurae3jsy.autos",
+  "server": "whois.nic.autos",
+  "domainId": "D451441128-CNIC",
+  "domainName": "yurae3jsy.autos",
+  "creationDate": "2024-05-01T01:55:11Z",
+  "expirationDate": "2027-05-01T23:59:59Z",
+  "updatedDate": "2026-05-01T12:16:08Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "aspen.ns.cloudflare.com",
+    "kanye.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

@@ -1,0 +1,35 @@
+{
+  "query": "visitorbet7.motorcycles",
+  "server": "whois.nic.motorcycles",
+  "domainId": "D519697320-CNIC",
+  "domainName": "visitorbet7.motorcycles",
+  "creationDate": "2025-01-16T10:11:26Z",
+  "expirationDate": "2026-01-16T23:59:59Z",
+  "updatedDate": "2025-02-13T10:19:42Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nile.ns.cloudflare.com",
+    "sasha.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "Namecheap",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "registrantState": "Capital Region",
+  "registrantCountry": "IS",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

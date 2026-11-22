@@ -1,0 +1,28 @@
+{
+  "query": "nic.sr",
+  "server": "whois.sr",
+  "domainName": "nic.sr",
+  "creationDate": "2001-05-04T00:00:00Z",
+  "expirationDate": "2038-01-01T00:00:00Z",
+  "eppStatus": [
+    "inactive"
+  ],
+  "eppStatusRaw": [
+    "inactive"
+  ],
+  "registrarName": "Caribbean Communication Services N.V. (Datasur)",
+  "registrarCountry": "SR",
+  "registrarUrl": "https://isp.datasur.sr",
+  "registrarAbuseEmail": "abuse@datasur.sr",
+  "registrarWhoisServer": "https://whois.sr",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "REDACTED FOR PRIVACY",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY"
+}

@@ -1,0 +1,30 @@
+{
+  "query": "nic.tg",
+  "server": "whois.nic.tg",
+  "domainName": "nic.tg",
+  "creationDate": "2023-03-02T00:00:00Z",
+  "expirationDate": "2030-06-26T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Activé",
+    "Activé",
+    "Activé",
+    "Activé",
+    "Activé",
+    "Activé"
+  ],
+  "nameservers": [
+    "ns1.nic.tg",
+    "ns2.nic.tg"
+  ],
+  "registrarName": "NETMASTER SARL",
+  "registrantName": "[PRIVEE]",
+  "registrantAddress": [
+    "[PRIVEE]"
+  ],
+  "registrantPhone": "[PRIVEE]",
+  "registrantFax": "[PRIVEE]",
+  "registrantEmail": "[PRIVEE]"
+}

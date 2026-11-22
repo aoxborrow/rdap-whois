@@ -1,0 +1,25 @@
+{
+  "query": "bnnic.bn",
+  "server": "whois.bnnic.bn",
+  "domainName": "bnnic.bn",
+  "creationDate": "2014-02-13T00:00:00Z",
+  "expirationDate": "2027-02-13T00:00:00Z",
+  "updatedDate": "2016-02-13T00:45:04Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns104.brunet.bn",
+    "ns204.brunet.bn"
+  ],
+  "registrarName": "IMAGINE SDN BHD",
+  "registrantName": "Aliffian Hj Awg Damit - (BNC1318T)",
+  "registrantEmail": "aliffian.damit@aiti.gov.bn",
+  "adminName": "Aliffian Hj Awg Damit - (BNC1318T)",
+  "adminEmail": "aliffian.damit@aiti.gov.bn",
+  "techName": "Aliffian Hj Awg Damit - (BNC1318T)",
+  "techEmail": "aliffian.damit@aiti.gov.bn"
+}

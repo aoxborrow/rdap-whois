@@ -1,0 +1,34 @@
+{
+  "query": "onlinesizing.bike",
+  "server": "rdap.routing.net",
+  "domainId": "b0bd0f8a84f14ec7b286fdbce941c997-DONUTS",
+  "domainName": "onlinesizing.bike",
+  "creationDate": "2018-07-06T00:00:00Z",
+  "expirationDate": "2025-07-06T00:00:00Z",
+  "registrarExpirationDate": "2025-07-06T00:00:00Z",
+  "updatedDate": "2018-07-06T10:00:24Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.routing.net",
+    "ns2.routing.net",
+    "ns3.routing.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "976",
+  "registrarIanaId": 976,
+  "registrarName": "http.net Internet GmbH",
+  "registrarUrl": "https://www.http.net",
+  "registrarAbuseEmail": "abuse @ http.net",
+  "registrarAbusePhone": "+49.24146314115",
+  "registrarWhoisServer": "rdap.routing.net",
+  "registrantCountry": "DE",
+  "registrantEmail": "ie6skeqx7bmnje47devcsl7rxjojwkr5jgdwwdsqdqvpe@protectedmx.com",
+  "adminEmail": "ie6skeqx7bmnje47devcsl7rxjojwkr5jgdwwdsqdqvpe@protectedmx.com",
+  "techEmail": "ibvoctit5i2zqq2bmxuplaxrrnk5oviogtv64izqwgrhy@protectedmx.com"
+}

@@ -1,0 +1,54 @@
+###%%% QRY: jps.go.cr
+###%%% SRV: whois.nic.cr
+###%%% TME: 2026-07-16T11:40:49Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 11:40:50 2026
+
+domain:       jps.go.cr
+registrant:   CN_1604
+nsset:        NS_JPS_GO_CR
+registrar:    NIC-REG1
+registered:   11.03.2001 18:00:00
+changed:      03.06.2024 15:34:42
+expire:       01.01.2035
+
+contact:      CN_1604
+org:          Junta de Proteccion Social de San Jose
+name:         Ronald Ortiz Mendez
+address:      300 Sur del Hospital Nacional de Nios
+address:      San Jose
+address:      00000
+address:      San Jos
+address:      CR
+phone:        +123.3866936
+e-mail:       rortiz@jps.go.cr
+registrar:    NIC-REG1
+created:      14.03.2024 09:42:18
+changed:      28.05.2024 13:06:27
+
+nsset:        NS_JPS_GO_CR
+nserver:      aleena.ns.cloudflare.com 
+nserver:      kip.ns.cloudflare.com 
+tech-c:       CN_1604
+tech-c:       CN_9611
+registrar:    NIC-REG1
+created:      14.03.2024 13:20:50
+changed:      14.11.2024 16:13:19
+
+contact:      CN_9611
+org:          Junta de Protección Social
+name:         JAIRO ALBERTO CRUZ SIBAJA
+address:      Magallanes
+address:      San Ramón
+address:      20202
+address:      Alajuela
+address:      CR
+phone:        +506.72090478
+fax-no:       +506.60240585
+e-mail:       jcruz@jps.go.cr
+registrar:    NIC-REG1
+created:      03.06.2024 15:22:31
+changed:      03.06.2024 15:22:32

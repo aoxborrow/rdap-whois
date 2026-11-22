@@ -1,0 +1,62 @@
+###%%% QRY: xnxx.gold
+###%%% SRV: whois.regtons.com
+###%%% TME: 2025-03-21T04:11:38Z
+
+Domain Name: xnxx.gold
+Registry Domain ID: e21699ad99b54f1da7ec0c8bf948e60b-DONUTS
+Registrar WHOIS Server: whois.regtons.com
+Registrar URL: http://regtons.com
+Updated Date: 2024-11-30T00:00:00Z
+Creation Date: 2019-12-01T00:00:00Z
+Registrar Registration Expiration Date: 2025-12-02T00:00:00Z
+Registrar: GRANSY S.R.O D/B/A SUBREG.CZ
+Registrar IANA ID: 1505
+Registrar Abuse Contact Email: abuse@regtons.com
+Registrar Abuse Contact Phone: +420.734463373
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: sub_1220929
+Registrant Name: Domain Admin
+Registrant Organization: Whois protection, this company does not own this domain name s.r.o.
+Registrant Street: Jaurisova 515/4
+Registrant City: Praha 4
+Registrant State/Province: 
+Registrant Postal Code: 14000
+Registrant Country: CZ
+Registrant Phone: +420.226517351
+Registrant Phone Ext: 
+Registrant Fax: +420.226517341
+Registrant Fax Ext:  
+Registrant Email: xnxx.gold@whoisprotection.domains
+Registry Admin ID: sub_1220929
+Admin Name: Domain Admin
+Admin Organization: Whois protection, this company does not own this domain name s.r.o.
+Admin Street: Jaurisova 515/4
+Admin City: Praha 4
+Admin State/Province: 
+Admin Postal Code: 14000
+Admin Country: CZ
+Admin Phone: +420.226517351
+Admin Phone Ext: 
+Admin Fax: +420.226517341
+Admin Fax Ext:  
+Admin Email: xnxx.gold@whoisprotection.domains
+Registry Tech ID: sub_1220929
+Tech Name: Domain Tech
+Tech Organization: Whois protection, this company does not own this domain name s.r.o.
+Tech Street: Jaurisova 515/4
+Tech City: Praha 4
+Tech State/Province: 
+Tech Postal Code: 14000
+Tech Country: CZ
+Tech Phone: +420.226517351
+Tech Phone Ext: 
+Tech Fax: +420.226517341
+Tech Fax Ext:  
+Tech Email: xnxx.gold@whoisprotection.domains
+Name Server: ns1.serverstack.com
+Name Server: ns2.serverstack.com
+Name Server: ns3.serverstack.com
+Name Server: ns4.serverstack.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-21T00:00:00Z <<<

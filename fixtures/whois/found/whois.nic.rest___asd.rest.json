@@ -1,0 +1,28 @@
+{
+  "query": "asd.rest",
+  "server": "whois.nic.rest",
+  "domainId": "DO_2c5e43ab85a7a264beb6ad7853bdea7d-PUNTO",
+  "domainName": "asd.rest",
+  "creationDate": "2025-01-16T06:23:55Z",
+  "expirationDate": "2028-01-16T06:23:55Z",
+  "updatedDate": "2026-11-16T20:19:08Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.ag614.parklogic.com",
+    "ns2.ag614.parklogic.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot, LLC",
+  "registrarUrl": "https://www.dynadot.com",
+  "registrarAbuseEmail": "info@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com"
+}

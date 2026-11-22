@@ -1,0 +1,59 @@
+###%%% QRY: automobile.tn
+###%%% SRV: whois.ati.tn
+###%%% TME: 2026-11-22T08:13:14Z
+
+NIC Whois server for cTLDs : .tn , .تونس
+All rights reserved
+Copyright "Tunisian Internet Agency - https://whois.ati.tn
+Supported ccTLDs : .tn , .تونس
+Sectorial domains : .com.tn,.ens.tn,.fin.tn,.gov.tn,.ind.tn,.intl.tn,.nat.tn,.net.tn,.org.tn,.info.tn,.perso.tn,.tourism.tn,.mincom.tn
+
+Domain name.........: automobile.tn
+Details:
+Creation date.......: 26-12-2020 22:27:01 GMT+1
+Domain status.......: Active
+Registrar...........: OOREDOO
+
+Owner Contact
+Name................: STE E Partner
+First name..........: 
+Address.............: Appart 4 Residence najeh 2
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: 71882394
+Fax.................: 71882394
+Email...............: contact@automobile.tn
+
+Administrativ contact
+Name................: STE E Partner
+First name..........: 
+Address.............: Appart 4 Residence najeh 2
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: 71882394
+Fax.................: 71882394
+Email...............: contact@automobile.tn
+
+Technical contact
+Name................: STE E Partner
+First name..........: 
+Address.............: Appart 4 Residence najeh 2
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: 71882394
+Fax.................: 71882394
+Email...............: contact@automobile.tn
+dnssec..............: unsigned
+
+DNS servers
+Name................: sam.ns.cloudflare.com.
+Name................: sasha.ns.cloudflare.com.

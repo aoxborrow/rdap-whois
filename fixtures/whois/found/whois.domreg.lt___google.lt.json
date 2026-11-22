@@ -1,0 +1,20 @@
+{
+  "query": "google.lt",
+  "server": "whois.domreg.lt",
+  "domainName": "google.lt",
+  "creationDate": "2018-12-07T00:00:00Z",
+  "expirationDate": "2027-12-08T00:00:00Z",
+  "eppStatusRaw": [
+    "registered"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com"
+  ],
+  "registrarName": "MarkMonitor, Inc.",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantOrg": "Markmonitor Inc.",
+  "registrantEmail": "ccops@markmonitor.com"
+}

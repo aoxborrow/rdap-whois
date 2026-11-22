@@ -1,0 +1,64 @@
+{
+  "query": "only.bible",
+  "server": "whois.epik.com",
+  "domainId": "D76C53C85414142BF85AD6371AA50D660-GDREG",
+  "domainName": "only.bible",
+  "creationDate": "2022-03-31T14:48:06Z",
+  "expirationDate": "2032-03-31T14:48:06Z",
+  "registrarExpirationDate": "2032-03-31T14:48:06Z",
+  "updatedDate": "2024-02-09T10:48:35Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1.ns.only.bible",
+    "a2.ns.only.bible",
+    "a3.ns.only.bible",
+    "a4.ns.only.bible"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "617",
+  "registrarIanaId": 617,
+  "registrarName": "Epik LLC",
+  "registrarUrl": "http://www.epik.com",
+  "registrarAbuseEmail": "abuse@epik.com",
+  "registrarAbusePhone": "+1.7373015923",
+  "registrarWhoisServer": "whois.epik.com",
+  "registrantName": "Privacy Administrator",
+  "registrantOrg": "Anonymize, LLC.",
+  "registrantAddress": [
+    "30 N. Gould Street, Ste E"
+  ],
+  "registrantCity": "Sheridan",
+  "registrantState": "WY",
+  "registrantPostalCode": "82801",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.3076839553",
+  "registrantEmail": "only.bible-s162sb20ogo4@anonymize.com",
+  "adminName": "Privacy Administrator",
+  "adminOrg": "Anonymize, Inc.",
+  "adminAddress": [
+    "30 N. Gould Street, Ste E"
+  ],
+  "adminCity": "Sheridan",
+  "adminState": "WY",
+  "adminPostalCode": "82801",
+  "adminCountry": "US",
+  "adminPhone": "+1.3076839553",
+  "adminEmail": "only.bible-s162sb20ogo4@anonymize.com",
+  "techName": "Privacy Administrator",
+  "techOrg": "Anonymize, Inc.",
+  "techAddress": [
+    "30 N. Gould Street, Ste E"
+  ],
+  "techCity": "Sheridan",
+  "techState": "WY",
+  "techPostalCode": "82801",
+  "techCountry": "US",
+  "techPhone": "+1.3076839553",
+  "techEmail": "only.bible-s162sb20ogo4@anonymize.com"
+}

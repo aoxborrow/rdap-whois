@@ -1,0 +1,24 @@
+###%%% QRY: shopee.co.id
+###%%% SRV: whois.id
+###%%% TME: 2026-07-16T11:38:59Z
+
+Domain Name: SHOPEE.CO.ID
+Registry Domain ID: 351001_DOMAIN_ID-ID
+Registrar WHOIS Server: 
+Registrar URL: www.digitalregistra.co.id
+Updated Date: 2025-08-24T03:12:12Z
+Creation Date: 2014-11-28T07:09:17Z
+Registry Expiry Date: 2026-11-28T23:59:59Z
+Registrar: PT Digital Registra Indonesia
+Registrar IANA ID: 1
+Registrar Abuse Contact Email: info@digitalregistra.co.id
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited
+Domain Status: serverTransferProhibited
+Name Server: NS-1460.AWSDNS-54.ORG
+Name Server: NS-1558.AWSDNS-02.CO.UK
+Name Server: NS-242.AWSDNS-30.COM
+Name Server: NS-831.AWSDNS-39.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:39:00Z <<<

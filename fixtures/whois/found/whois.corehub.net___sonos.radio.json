@@ -1,0 +1,39 @@
+{
+  "query": "sonos.radio",
+  "server": "whois.corehub.net",
+  "domainId": "Dffnl3159-RADIO",
+  "domainName": "sonos.radio",
+  "creationDate": "2019-07-17T17:40:55Z",
+  "expirationDate": "2025-07-17T17:40:55Z",
+  "registrarExpirationDate": "2025-07-17T17:40:55Z",
+  "updatedDate": "2024-07-16T15:40:50Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-330.awsdns-41.com",
+    "ns-736.awsdns-28.net",
+    "ns-1359.awsdns-41.org",
+    "ns-1872.awsdns-42.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "15",
+  "registrarIanaId": 15,
+  "registrarName": "COREhub, S.R.L.",
+  "registrarReseller": "CORE-713 (Register.radio)",
+  "registrarUrl": "http://corehub.net",
+  "registrarAbuseEmail": "abuse@corehub.net",
+  "registrarAbusePhone": "+34.931807144",
+  "registrarWhoisServer": "whois.corehub.net",
+  "registrantOrg": "Super Hi-Fi",
+  "registrantState": "CA",
+  "registrantCountry": "US",
+  "registrantEmail": "https://corehub.net/whoiscontact/",
+  "adminEmail": "https://corehub.net/whoiscontact/",
+  "techEmail": "https://corehub.net/whoiscontact/",
+  "billingEmail": "https://corehub.net/whoiscontact/"
+}

@@ -1,0 +1,28 @@
+{
+  "query": "iett.istanbul",
+  "server": "whois.nic.istanbul",
+  "domainId": "REDACTED",
+  "domainName": "iett.istanbul",
+  "creationDate": "2016-01-26T18:42:39Z",
+  "expirationDate": "2027-01-26T18:42:39Z",
+  "updatedDate": "2026-08-12T03:40:32Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.iett.gov.tr",
+    "ns2.iett.gov.tr"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "Registry Operator acts as Registrar (9998)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

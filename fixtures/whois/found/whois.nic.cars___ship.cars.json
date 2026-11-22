@@ -1,0 +1,34 @@
+{
+  "query": "ship.cars",
+  "server": "whois.nic.cars",
+  "domainId": "D211533193-CNIC",
+  "domainName": "ship.cars",
+  "creationDate": "2016-01-20T22:56:36Z",
+  "expirationDate": "2027-01-20T23:59:59Z",
+  "updatedDate": "2026-04-25T08:07:34Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "annalise.ns.cloudflare.com",
+    "harvey.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "https://www.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4805058800",
+  "registrarWhoisServer": "whois.godaddy.com"
+}

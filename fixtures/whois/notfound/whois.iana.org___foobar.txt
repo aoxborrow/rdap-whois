@@ -1,0 +1,13 @@
+###%%% QRY: foobar
+###%%% SRV: whois.iana.org
+###%%% TME: 2025-04-01T12:37:26Z
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 0 objects.
+%
+% You queried for foobar but this server does not have
+% any data for foobar.
+%
+% If you need further information please check the web site
+% or use -h for help

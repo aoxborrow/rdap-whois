@@ -1,0 +1,24 @@
+{
+  "query": "ynet.co.il",
+  "server": "whois.isoc.org.il",
+  "domainName": "ynet.co.il",
+  "creationDate": "2016-11-01T00:00:00Z",
+  "expirationDate": "2027-11-01T00:00:00Z",
+  "eppStatusRaw": [
+    "Transfer Locked"
+  ],
+  "nameservers": [
+    "eur2.akam.net",
+    "ns1-61.akam.net",
+    "ns1-92.akam.net",
+    "usc2.akam.net",
+    "use1.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Domain The Net Technologies Ltd",
+  "registrarUrl": "https://www.domainthenet.com",
+  "registrantId": "Yediot Information Technologies ltd",
+  "registrantName": "Yediot Information Technologies ltd",
+  "registrantEmail": "domain AT yit.co.il"
+}

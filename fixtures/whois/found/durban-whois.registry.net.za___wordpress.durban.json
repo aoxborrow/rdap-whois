@@ -1,0 +1,42 @@
+{
+  "domainId": "dom_7G--1",
+  "domainName": "wordpress.durban",
+  "creationDate": "2014-11-04T08:00:01Z",
+  "expirationDate": "2025-11-04T08:00:01Z",
+  "registrarExpirationDate": "2025-11-04T08:00:01Z",
+  "updatedDate": "2024-10-03T11:37:06Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.markmonitor.com",
+    "ns2.markmonitor.com",
+    "ns3.markmonitor.com",
+    "ns4.markmonitor.com",
+    "ns5.markmonitor.com",
+    "ns6.markmonitor.com",
+    "ns7.markmonitor.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrarAbuseEmail": "registry.billing@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895771",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantOrg": "DNStination Inc.",
+  "registrantCountry": "US",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

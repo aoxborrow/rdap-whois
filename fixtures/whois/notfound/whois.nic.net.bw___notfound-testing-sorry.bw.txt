@@ -1,0 +1,12 @@
+###%%% QRY: notfound-testing-sorry.bw
+###%%% SRV: whois.nic.net.bw
+###%%% TME: 2025-03-20T16:12:35Z
+
+Domain Name: notfound-testing-sorry.bw
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2025-03-20T14:16:48.454Z <<<
+
+
+TERMS OF USE: You are NOT authorized to access or query the Botswana ccTLD WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this WHOIS data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

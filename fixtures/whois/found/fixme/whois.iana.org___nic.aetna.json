@@ -1,0 +1,42 @@
+{
+  "domainName": "aetna",
+  "creationDate": "2016-04-21T00:00:00Z",
+  "updatedDate": "2024-05-11T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "a.nic.aetna",
+    "b.nic.aetna",
+    "c.nic.aetna",
+    "ns1.dns.nic.aetna",
+    "ns2.dns.nic.aetna",
+    "ns3.dns.nic.aetna"
+  ],
+  "dnssecRaw": "40324 8 2 6a4c3c1cd8d865ce88fc01c009d393d12ab8b585a68a196c4b2651239f531b85",
+  "registrantOrg": "Aetna Life Insurance Company",
+  "registrantAddress": [
+    "151 Farmington Avenue",
+    "Hartford CT 06156",
+    "United States of America (the)"
+  ],
+  "adminName": "Jeff Muehlhausen",
+  "adminOrg": "Aetna Life Insurance Company",
+  "adminAddress": [
+    "151 Farmington Avenue",
+    "Hartford CT 06156",
+    "United States of America (the)"
+  ],
+  "adminPhone": "+011 860 273 0123",
+  "adminEmail": "domains@aetna.com",
+  "techName": "IANA Contact",
+  "techOrg": "GoDaddy Registry",
+  "techAddress": [
+    "100 S. Mill Ave, Suite 1600",
+    "Tempe AZ 85281",
+    "United States of America (the)"
+  ],
+  "techPhone": "+1 480 505 8800",
+  "techFax": "+1 480 624 2546",
+  "techEmail": "iana@registry.godaddy"
+}

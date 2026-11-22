@@ -1,0 +1,66 @@
+{
+  "query": "songly.gift",
+  "server": "whois.webnames.ru",
+  "domainId": "DO_e4885371f2f58a91a52be4a8687a2ef2-UR",
+  "domainName": "songly.gift",
+  "creationDate": "2024-06-04T00:00:00Z",
+  "expirationDate": "2027-06-04T04:00:00Z",
+  "registrarExpirationDate": "2027-06-04T04:00:00Z",
+  "updatedDate": "2026-04-20T01:05:08Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "OK"
+  ],
+  "nameservers": [
+    "pam.ns.cloudflare.com",
+    "sam.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1362",
+  "registrarIanaId": 1362,
+  "registrarName": "REGTIME LTD.",
+  "registrarReseller": "AO \"TAJMVEB\"",
+  "registrarUrl": "http://www.webnames.ru",
+  "registrarAbuseEmail": "abuse@regtime.net",
+  "registrarAbusePhone": "+7.8463733047",
+  "registrarWhoisServer": "whois.regtime.net",
+  "registrantId": "co4438069-rt",
+  "registrantName": "Ivan Vaskov",
+  "registrantOrg": "No company",
+  "registrantAddress": [
+    "Kalinina 62"
+  ],
+  "registrantCity": "N/A",
+  "registrantState": "N/A",
+  "registrantPostalCode": "623850",
+  "registrantCountry": "RU",
+  "registrantPhone": "+7.9950055995",
+  "registrantEmail": "neflamaster@mail.ru",
+  "adminId": "ca4438069-rt",
+  "adminName": "Ivan Vaskov",
+  "adminOrg": "No company",
+  "adminAddress": [
+    "Kalinina 62"
+  ],
+  "adminCity": "N/A",
+  "adminState": "N/A",
+  "adminPostalCode": "623850",
+  "adminCountry": "RU",
+  "adminPhone": "+7.9950055995",
+  "adminEmail": "neflamaster@mail.ru",
+  "techId": "ct4438069-rt",
+  "techName": "Ivan Vaskov",
+  "techOrg": "No company",
+  "techAddress": [
+    "Kalinina 62"
+  ],
+  "techCity": "N/A",
+  "techState": "N/A",
+  "techPostalCode": "623850",
+  "techCountry": "RU",
+  "techPhone": "+7.9950055995",
+  "techEmail": "neflamaster@mail.ru"
+}

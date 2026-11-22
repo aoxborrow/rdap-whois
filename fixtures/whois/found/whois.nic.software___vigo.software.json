@@ -1,0 +1,28 @@
+{
+  "query": "vigo.software",
+  "server": "whois.nic.software",
+  "domainId": "ccc3a893e5e44ce5bf4910bd144357dd-DONUTS",
+  "domainName": "vigo.software",
+  "creationDate": "2023-05-29T12:39:25Z",
+  "expirationDate": "2025-05-29T12:39:25Z",
+  "updatedDate": "2025-03-03T18:21:46Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns1.yandex.net",
+    "dns2.yandex.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1052",
+  "registrarIanaId": 1052,
+  "registrarName": "EuroDNS S.A.",
+  "registrarUrl": "http://www.eurodns.com",
+  "registrarAbuseEmail": "legalservices@eurodns.com",
+  "registrarAbusePhone": "+352.27220150",
+  "registrarWhoisServer": "whois.eurodns.com"
+}

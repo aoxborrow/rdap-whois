@@ -1,0 +1,32 @@
+{
+  "query": "home.barclays",
+  "server": "whois.nic.barclays",
+  "domainId": "3c7d2b99815b45779a930481e3cd5c60-DONUTS",
+  "domainName": "home.barclays",
+  "creationDate": "2015-04-28T07:46:35Z",
+  "expirationDate": "2027-04-28T07:46:35Z",
+  "updatedDate": "2026-08-12T07:41:48Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1-71.akam.net",
+    "a9-66.akam.net",
+    "a10-66.akam.net",
+    "a11-67.akam.net",
+    "a12-64.akam.net",
+    "a18-65.akam.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

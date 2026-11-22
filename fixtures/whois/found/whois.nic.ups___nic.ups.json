@@ -1,0 +1,36 @@
+{
+  "query": "nic.ups",
+  "server": "whois.nic.ups",
+  "domainId": "ceed13d5d84142a3842686dc8b59bd3e-DONUTS",
+  "domainName": "nic.ups",
+  "creationDate": "2017-11-07T18:36:17Z",
+  "expirationDate": "2027-11-07T18:36:17Z",
+  "updatedDate": "2026-11-07T18:36:39Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a0.nic.ups",
+    "a2.nic.ups",
+    "b0.nic.ups",
+    "c0.nic.ups"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

@@ -1,0 +1,30 @@
+{
+  "query": "hotdrop.case",
+  "server": "whois.nic.case",
+  "domainId": "D380985996-CNIC",
+  "domainName": "hotdrop.case",
+  "creationDate": "2023-07-14T15:16:05Z",
+  "expirationDate": "2027-07-14T23:59:59Z",
+  "updatedDate": "2026-08-29T00:42:19Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.zomro.net",
+    "ns2.zomro.ru",
+    "ns3.zomro.com",
+    "ns4.zomro.su"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1011",
+  "registrarIanaId": 1011,
+  "registrarName": "101domain GRS Limited",
+  "registrarUrl": "https://101domain.com",
+  "registrarAbuseEmail": "abuse@101domain.com",
+  "registrarAbusePhone": "+1.7604448674",
+  "registrarWhoisServer": "whois.101domain.com"
+}

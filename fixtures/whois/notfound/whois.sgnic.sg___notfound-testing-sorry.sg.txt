@@ -1,0 +1,11 @@
+###%%% QRY: notfound-testing-sorry.sg
+###%%% SRV: whois.sgnic.sg
+###%%% TME: 2025-03-20T18:16:15Z
+
+Not found: notfound-testing-sorry.sg
+
+% ----------------------------------------------------------------------
+% SGNIC WHOIS Server
+% ----------------------------------------------------------------------
+%
+% This data is provided for information purposes only.

@@ -1,0 +1,51 @@
+###%%% QRY: fortebet.ug
+###%%% SRV: whois.co.ug
+###%%% TME: 2026-11-22T08:13:58Z
+
+**********************************************************
+*            The UG ccTLD Registry Database              *
+**********************************************************
+
+Domain name:                    fortebet.ug
+Status:                         ACTIVE
+Locked:                         No
+Expires On:                     2028-12-04
+Registered On:                  2016-12-04
+Renewed On:                     2026-11-04
+Nameserver:                     cameron.ns.cloudflare.com
+Nameserver:                     vera.ns.cloudflare.com
+
+Registrant Contact Information:
+Registrant Name:                Vaclav Rychtarik
+Registrant Organization:        MASSALIA COMPANY LIMITED
+Registrant Country:             Seychelles
+Registrant State / Province:    Mahe
+Registrant City:                Victoria
+Registrant Address:             Francis Rachel Street, 2nd floor, Allied Building Annex
+Registrant Postal Code:         
+Registrant Phone:               +420.777335355
+Registrant Email:               ugdomains@instra.com
+
+Administrative Contact Information:
+Admin Name:                     Vaclav Rychtarik
+Admin Organization:             MASSALIA COMPANY LIMITED
+Admin Country:                  Seychelles
+Admin State / Province:         Mahe
+Admin City:                     Victoria
+Admin Address:                  Francis Rachel Street, 2nd floor, Allied Building Annex
+Admin Postal Code:              
+Admin Phone:                    +420.777335355
+Admin Email:                    ugdomains@instra.com
+
+Technical Contact Information:
+Tech Name:                      Louise Lentino ugdomains@instra.com
+Tech Organization:              Instra Corporation Pty. Ltd
+Tech Country:                   Australia
+Tech State / Province:          Victoria
+Tech City:                      Melbourne
+Tech Address:                   GPO Box 988
+Tech Postal Code:               3001
+Tech Phone:                     61.397831800
+Tech Email:                     ugdomains@instra.com
+
+Information Last Updated:       2026-11-04T10:38:05.000+03:00

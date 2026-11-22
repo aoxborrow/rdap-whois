@@ -1,0 +1,79 @@
+{
+  "query": "nic.unicom",
+  "server": "whois.nic.unicom",
+  "domainId": "D20181130G10001G_86708720-UNICOM",
+  "domainName": "nic.unicom",
+  "creationDate": "2017-04-18T23:07:41Z",
+  "expirationDate": "2027-04-18T23:07:41Z",
+  "updatedDate": "2018-06-02T23:07:41Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "cns1.zdnscloud.net",
+    "dns1.zdnscloud.info",
+    "ins1.zdnscloud.com",
+    "vns1.zdnscloud.biz"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "knet",
+  "registrarUrl": "http://www.knet.cn",
+  "registrarAbuseEmail": "tech-supprot@zdns.cn",
+  "registrarAbusePhone": "+86.01058813521",
+  "registrarWhoisServer": "202.173.11.141",
+  "registrantId": "C20181130C_35919515-UNICOM",
+  "registrantName": "Unicom",
+  "registrantOrg": "China United Network Communciations Corporation Limited",
+  "registrantAddress": [
+    "No.21 Financial Street, Xicheng District"
+  ],
+  "registrantCity": "Beijing",
+  "registrantState": "Beijing",
+  "registrantPostalCode": "1000091",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.01058813521",
+  "registrantPhoneExt": "0",
+  "registrantFax": "+86.01058813521",
+  "registrantFaxExt": "0",
+  "registrantEmail": "tech-support@zdns.cn",
+  "adminId": "C20181130C_35919515-UNICOM",
+  "adminName": "Unicom",
+  "adminOrg": "China United Network Communciations Corporation Limited",
+  "adminAddress": [
+    "No.21 Financial Street, Xicheng District"
+  ],
+  "adminCity": "Beijing",
+  "adminState": "Beijing",
+  "adminPostalCode": "1000091",
+  "adminCountry": "CN",
+  "adminPhone": "+86.01058813521",
+  "adminPhoneExt": "0",
+  "adminFax": "+86.01058813521",
+  "adminFaxExt": "0",
+  "adminEmail": "tech-support@zdns.cn",
+  "techId": "C20181130C_35919515-UNICOM",
+  "techName": "Unicom",
+  "techOrg": "China United Network Communciations Corporation Limited",
+  "techAddress": [
+    "No.21 Financial Street, Xicheng District"
+  ],
+  "techCity": "Beijing",
+  "techState": "Beijing",
+  "techPostalCode": "1000091",
+  "techCountry": "CN",
+  "techPhone": "+86.01058813521",
+  "techPhoneExt": "0",
+  "techFax": "+86.01058813521",
+  "techFaxExt": "0",
+  "techEmail": "tech-support@zdns.cn"
+}

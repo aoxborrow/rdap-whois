@@ -1,0 +1,35 @@
+{
+  "query": "udag.net",
+  "server": "whois.udag.net",
+  "domainId": "59973274_DOMAIN_NET-VRSN",
+  "domainName": "udag.net",
+  "creationDate": "2001-02-11T20:15:57Z",
+  "expirationDate": "2027-02-11T20:15:57Z",
+  "registrarExpirationDate": "2027-02-11T20:15:57Z",
+  "updatedDate": "2026-10-01T01:55:41Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns.udag.de",
+    "ns.udag.net",
+    "ns.udag.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1408",
+  "registrarIanaId": 1408,
+  "registrarName": "united domains AG",
+  "registrarUrl": "https://www.united-domains.de",
+  "registrarAbuseEmail": "abuse@united-domains.de",
+  "registrarAbusePhone": "+49.8151368670",
+  "registrarWhoisServer": "whois.udag.net",
+  "registrantState": "Bayern",
+  "registrantCountry": "DE",
+  "registrantEmail": "https://www.united-domains.de/domain-inhaber-kontaktieren",
+  "adminEmail": "https://www.united-domains.de/domain-inhaber-kontaktieren",
+  "techEmail": "https://www.united-domains.de/domain-inhaber-kontaktieren"
+}

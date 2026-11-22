@@ -1,0 +1,10 @@
+{
+  "query": "google.uy",
+  "server": "whois.nic.org.uy",
+  "domainName": "google.uy",
+  "updatedDate": "2012-09-12T02:32:59Z",
+  "nameservers": [
+    "ns1.markmonitor.com",
+    "ns3.markmonitor.com"
+  ]
+}

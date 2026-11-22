@@ -1,0 +1,15 @@
+{
+  "query": "carletti.name",
+  "server": "whois.nic.name",
+  "domainId": "134493575_DOMAIN_NAME-VRSN",
+  "domainName": "carletti.name",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "registrarId": "1387",
+  "registrarIanaId": 1387,
+  "registrarName": "1API GmbH"
+}

@@ -1,0 +1,25 @@
+{
+  "domainName": "google.sm",
+  "creationDate": "2003-04-03T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrantName": "Google Llc",
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "techName": "Matt Serlin",
+  "techOrg": "MarkMonitor Inc.",
+  "techPhone": "+1.2083895740",
+  "techFax": "+1.2083895799",
+  "techEmail": "ccops@markmonitor.com"
+}

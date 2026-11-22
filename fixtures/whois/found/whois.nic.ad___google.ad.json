@@ -1,0 +1,30 @@
+{
+  "query": "google.ad",
+  "server": "whois.nic.ad",
+  "domainId": "D1086-AD",
+  "domainName": "google.ad",
+  "creationDate": "2006-12-06T12:00:00Z",
+  "expirationDate": "2028-12-06T12:00:00Z",
+  "updatedDate": "2026-11-09T10:02:44Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "SAPIM, SLU",
+  "registrarUrl": "https://www.sapim.com",
+  "registrarAbuseEmail": "contacte-ad@sapim.ad",
+  "registrarAbusePhone": "+376.869407",
+  "registrantOrg": "Google LLC",
+  "registrantCountry": "US",
+  "registrantEmail": "Please contact the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please contact the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please contact the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

@@ -1,0 +1,102 @@
+###%%% QRY: homemade.adult
+###%%% SRV: whois.danesconames.com
+###%%% TME: 2026-11-22T08:07:40Z
+
+Danesco Trading LLC shall not bear responsibility for consequences regarding
+operations with or content of on-line resources available via the registered
+domain name.
+
+Danesco Trading LLC protects the WhoIs Data under the law or the Registrants’
+requests using special notifications as follows “Statutory masking for data
+privacy”. If you have a legitimate interest in viewing the redacted WHOIS
+details, send  us a request.
+
+Domain Name:                            HOMEMADE.ADULT
+Domain ID:                              D76063661284B44068DE9D259D6EDA0D6-GDREG
+Creation Date:                          2023-10-12T07:43:56Z
+Updated Date:                           2026-10-07T07:46:22Z
+Registry Expiry Date:                   2027-10-12T07:43:56Z
+Registrar Registration Expiration Date: 2027-10-12T07:43:56Z
+Sponsoring Registrar:                   Danesco Trading Ltd.
+Sponsoring Registrar IANA ID:           1418
+WHOIS Server:                           whois.danesconames.com
+Domain Status:                          clientTransferProhibited
+Domain Status:                          clientDeleteProhibited
+Registrant ID:                          MI_142831256WP
+Registrant Name:                        Statutory Masking for data privacy
+Registrant Organization:                Statutory Masking for data privacy
+Registrant Street:                      Statutory Masking for data privacy
+Registrant City:                        Statutory Masking for data privacy
+Registrant Postal Code:                 Statutory Masking for data privacy
+Registrant Country:                     Statutory Masking for data privacy
+Registrant Phone:                       Statutory Masking for data privacy
+Registrant Fax:                         Statutory Masking for data privacy
+Registrant Email:                       homemade.adult@whoisprotectservice.net
+Admin ID:                               MI_142831256WP
+Admin Name:                             Statutory Masking for data privacy
+Admin Organization:                     Statutory Masking for data privacy
+Admin Street:                           Statutory Masking for data privacy
+Admin City:                             Statutory Masking for data privacy
+Admin Postal Code:                      Statutory Masking for data privacy
+Admin Country:                          Statutory Masking for data privacy
+Admin Phone:                            Statutory Masking for data privacy
+Admin Fax:                              Statutory Masking for data privacy
+Admin Email:                            homemade.adult@whoisprotectservice.net
+Tech ID:                                MI_142831256WP
+Tech Name:                              Statutory Masking for data privacy
+Tech Organization:                      Statutory Masking for data privacy
+Tech Street:                            Statutory Masking for data privacy
+Tech City:                              Statutory Masking for data privacy
+Tech Postal Code:                       Statutory Masking for data privacy
+Tech Country:                           Statutory Masking for data privacy
+Tech Phone:                             Statutory Masking for data privacy
+Tech Fax:                               Statutory Masking for data privacy
+Tech Email:                             homemade.adult@whoisprotectservice.net
+Billing ID:                             MI_142831256WP
+Billing Name:                           Statutory Masking for data privacy
+Billing Organization:                   Statutory Masking for data privacy
+Billing Street:                         Statutory Masking for data privacy
+Billing City:                           Statutory Masking for data privacy
+Billing Postal Code:                    Statutory Masking for data privacy
+Billing Country:                        Statutory Masking for data privacy
+Billing Phone:                          Statutory Masking for data privacy
+Billing Fax:                            Statutory Masking for data privacy
+Billing Email:                          homemade.adult@whoisprotectservice.net
+Name Server:                            NS.ANYCASTNS2.ORG
+Name Server:                            NS.ANYCASTNS1.ORG
+DNSSEC:                                 unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:07:40Z <<<
+
+Danesco Trading LLC acts as a Domain Name Registrar only, provides to
+Registrants registration and related services, and complies with ICANN rules and
+policies.
+
+Danesco Trading LLC shall not bear any responsibility for any consequences
+regarding operations with or content of on-line resources available via the
+registered domain name unless otherwise provided by law.
+
+The Registrant is solely responsible for compliance with the jurisdiction laws
+for which his website, web resource, goods, services, or Content is available.
+
+The WhoIs Data is provided for information purposes only. The fact that Danesco
+Trading LLC displays such information does not provide any guarantee expressed
+or implied on the purpose for which the database may be used, its accuracy or
+usefulness. By submitting a WHOIS query, you agree that you will use this Data
+only for lawful purposes. Danesco Trading LLC cannot guarantee the accuracy of
+the data provided.
+
+Danesco Trading LLC protects the WhoIs Data under the law or the Registrants’
+requests using special notifications as follows “Statutory masking for data
+privacy”. If you have a legitimate interest in viewing the redacted WHOIS
+details, send your request to the Registrar's email with the reasons for your
+request. We will review that request and may ask for supporting documentation
+and explanation.
+
+Please use the Registrar's email if you wish to raise a legal issue connected
+with the Registrant, operations with or content of resources available via the
+registered domain name. Danesco Trading LLC has the ability to contact the
+Registrant with the requirement to investigate a legal issue.
+
+For more information on Whois status codes, please visit https://icann.org/epp

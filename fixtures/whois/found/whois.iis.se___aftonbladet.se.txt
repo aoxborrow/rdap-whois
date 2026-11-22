@@ -1,0 +1,36 @@
+###%%% QRY: aftonbladet.se
+###%%% SRV: whois.iis.se
+###%%% TME: 2026-07-16T11:38:56Z
+
+# Copyright (c) 1997- The Swedish Internet Foundation.
+# All rights reserved.
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+# Result of search for registered domain names under
+# the .se top level domain.
+# This whois printout is printed with UTF-8 encoding.
+#
+state:            active
+domain:           aftonbladet.se
+holder:           jk6nj22511-56860
+created:          2000-08-28
+modified:         2026-04-17
+expires:          2026-08-28
+transferred:      2026-01-16
+nserver:          b.ns.ip-only.net
+nserver:          a.ns.ip-only.net
+nserver:          c.ns.ip-only.net
+nserver:          ns1.schibsted.se
+nserver:          ns2.schibsted.se
+nserver:          ystad.dns.swip.net
+dnssec:           unsigned delegation
+registry-lock:    unlocked
+status:           ok
+registrar:        ExcedoNetworksAB

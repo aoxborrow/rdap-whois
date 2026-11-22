@@ -1,0 +1,72 @@
+{
+  "query": "nic.zara",
+  "server": "whois.nic.zara",
+  "domainId": "487cda67d7cd4d8db25dfd5dda3d151d-DONUTS",
+  "domainName": "nic.zara",
+  "creationDate": "2017-02-17T16:23:51Z",
+  "expirationDate": "2026-02-17T16:23:51Z",
+  "updatedDate": "2025-02-17T16:24:08Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a0.nic.zara",
+    "a2.nic.zara",
+    "b0.nic.zara",
+    "c0.nic.zara"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "fa212dbf6a9246c5b9ebb25c07603f16-DONUTS",
+  "registrantName": "Premium Reserved Names",
+  "registrantOrg": "Industria de Diseno Textil, S.A. (INDITEX, S.A.)",
+  "registrantAddress": [
+    "Avenida de la Diputacion, Edificio Inditex"
+  ],
+  "registrantCity": "Arteixo",
+  "registrantState": "A Coruna",
+  "registrantPostalCode": "15142",
+  "registrantCountry": "ES",
+  "registrantPhone": "+1.34981185400",
+  "registrantEmail": "domain@inditex.com",
+  "adminId": "fa212dbf6a9246c5b9ebb25c07603f16-DONUTS",
+  "adminName": "Premium Reserved Names",
+  "adminOrg": "Industria de Diseno Textil, S.A. (INDITEX, S.A.)",
+  "adminAddress": [
+    "Avenida de la Diputacion, Edificio Inditex"
+  ],
+  "adminCity": "Arteixo",
+  "adminState": "A Coruna",
+  "adminPostalCode": "15142",
+  "adminCountry": "ES",
+  "adminPhone": "+1.34981185400",
+  "adminEmail": "domain@inditex.com",
+  "techId": "fa212dbf6a9246c5b9ebb25c07603f16-DONUTS",
+  "techName": "Premium Reserved Names",
+  "techOrg": "Industria de Diseno Textil, S.A. (INDITEX, S.A.)",
+  "techAddress": [
+    "Avenida de la Diputacion, Edificio Inditex"
+  ],
+  "techCity": "Arteixo",
+  "techState": "A Coruna",
+  "techPostalCode": "15142",
+  "techCountry": "ES",
+  "techPhone": "+1.34981185400",
+  "techEmail": "domain@inditex.com"
+}

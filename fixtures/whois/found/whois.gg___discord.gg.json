@@ -1,0 +1,23 @@
+{
+  "query": "discord.gg",
+  "server": "whois.gg",
+  "domainName": "discord.gg",
+  "creationDate": "2015-02-26T22:52:30Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active",
+    "Transfer Prohibited by Registrar",
+    "Registered until cancelled"
+  ],
+  "nameservers": [
+    "gabe.ns.cloudflare.com",
+    "sima.ns.cloudflare.com"
+  ],
+  "registrarName": "Gandi SAS",
+  "registrarUrl": "http://www.gandi.net",
+  "registrantName": "Hammer & Chisel",
+  "registrantOrg": "Hammer & Chisel"
+}

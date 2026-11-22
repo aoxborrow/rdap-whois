@@ -1,0 +1,12 @@
+###%%% QRY: hns.tm
+###%%% SRV: whois.nic.tm
+###%%% TME: 2026-07-16T11:44:32Z
+
+Domain : hns.tm
+Status : Live
+Expiry : 2027-06-08
+
+NS 1   : ns-1820.awsdns-35.co.uk
+NS 2   : ns-866.awsdns-44.net
+NS 3   : ns-374.awsdns-46.com
+NS 4   : ns-1165.awsdns-17.org

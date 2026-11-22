@@ -1,0 +1,51 @@
+###%%% QRY: cloud.bmw
+###%%% SRV: whois.nic.bmw
+###%%% TME: 2026-07-16T23:25:28Z
+
+Domain Name: CLOUD.BMW
+Registry Domain ID: D96408829-CNIC
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.key-systems.net/
+Updated Date: 2026-07-01T03:01:47.0Z
+Creation Date: 2016-08-01T08:17:57.0Z
+Registry Expiry Date: 2027-08-01T23:59:59.0Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: Bayerische Motoren Werke AG
+Registrant State/Province: BY
+Registrant Country: DE
+Registrant Email: https://whois.nic.bmw/contact/cloud.bmw/registrant
+Tech Email: https://whois.nic.bmw/contact/cloud.bmw/tech
+Name Server: NS2.BRANDSHELTER.DE
+Name Server: NS3.BRANDSHELTER.INFO
+Name Server: NS1.BRANDSHELTER.COM
+Name Server: NS4.BRANDSHELTER.NET
+Name Server: NS5.BRANDSHELTER.US
+DNSSEC: unsigned
+Registrar Abuse Contact Email: registry@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:25:28.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This data is provided by BMW REGISTRY for information purposes only in
+accordance with the BMW REGISTRY TLD Privacy Policy. It is intended to
+assist persons to obtain information about or related to domain name
+registration records. BMW REGISTRY does not guarantee its accuracy.
+By submitting this query, you agree to abide as follows:
+
+You agree to use this data only for lawful purposes and that under no
+circumstances will you permit this data to
+1) allow, enable, or otherwise support the transmission of mass
+    unsolicited, commercial advertising or solicitations via e-mail,
+    telephone or fax (spam); nor
+2) enable high volume, automated, electronic processes to the systems
+    of BMW REGISTRY or Registrars, except as reasonably required to
+    register new domain names or modify existing registrations; nor
+3) will you generate a database of registered domain names and
+    registrant data.
+
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

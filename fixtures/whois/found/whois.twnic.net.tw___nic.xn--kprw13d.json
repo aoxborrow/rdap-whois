@@ -1,0 +1,24 @@
+{
+  "query": "nic.xn--kprw13d",
+  "server": "whois.twnic.net.tw",
+  "domainName": "nic.台灣",
+  "creationDate": "2025-07-14T08:00:00Z",
+  "expirationDate": "2099-12-31T15:59:59Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "registrarName": "TWNIC",
+  "registrarUrl": "https://rs.twnic.tw",
+  "registrarAbuseEmail": "abuse@twnic.tw",
+  "registrantName": "財團法人台灣網路資訊中心",
+  "registrantOrg": "財團法人台灣網路資訊中心",
+  "registrantCountry": "TW",
+  "registrantEmail": "tech@twnic.net.tw",
+  "adminName": "(Redacted for privacy)",
+  "adminEmail": "(Redacted for privacy)",
+  "techName": "(Redacted for privacy)",
+  "techEmail": "(Redacted for privacy)"
+}

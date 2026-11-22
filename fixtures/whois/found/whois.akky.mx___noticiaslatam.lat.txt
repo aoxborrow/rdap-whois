@@ -1,0 +1,77 @@
+###%%% QRY: noticiaslatam.lat
+###%%% SRV: whois.akky.mx
+###%%% TME: 2026-11-22T08:13:30Z
+
+Domain Name: noticiaslatam.lat
+Registry Domain ID: D434356662-CNIC
+Registrar WHOIS Server: whois.akky.mx
+Registrar URL: http://www.akky.mx
+Updated Date: 2026-06-08T10:15:38-0600
+Creation Date: 2024-02-19T12:01:47-0600
+Registrar Registration Expiration Date: 2027-02-19T00:00:00-0600
+Registrar: Akky Online Solutions S.A. de C.V.
+Registrar IANA ID: 1705
+Registrar Abuse Contact Email: abuse@akky.mx
+Registrar Abuse Contact Phone: +52.8188642625
+Reseller:
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: Redacted for Privacy (Redactado por Privacidad)
+Registrant Name: Redacted for Privacy (Redactado por Privacidad)
+Registrant Organization: Agencia Internacional de Informacion Rossiya Segodnya
+Registrant Street: Redacted for Privacy (Redactado por Privacidad)
+Registrant City: Redacted for Privacy (Redactado por Privacidad)
+Registrant State/Province: Ciudad de Mexico
+Registrant Postal Code: Redacted for Privacy (Redactado por Privacidad)
+Registrant Country: MX
+Registrant Phone: Redacted for Privacy (Redactado por Privacidad)
+Registrant Phone Ext: Redacted for Privacy (Redactado por Privacidad)
+Registrant Fax: Redacted for Privacy (Redactado por Privacidad)
+Registrant Fax Ext: Redacted for Privacy (Redactado por Privacidad)
+Registrant Email: https://www.akky.mx/WhoisContact
+Registry Admin ID: Redacted for Privacy (Redactado por Privacidad)
+Admin Email: https://www.akky.mx/WhoisContact
+Registry Tech ID: Redacted for Privacy (Redactado por Privacidad)
+Tech Email: https://www.akky.mx/WhoisContact
+Name Server: nss1.rian.ru
+Name Server: nss2.rian.ru
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T01:57:44-0600 <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+% The requested information ("Information") is provided only for the delegation
+% of domain names and the operation of the DNS administered by Akky Online Solutions.
+
+% It is absolutely prohibited to use the Information for other purposes, 
+% including sending not requested emails for advertising or promoting products
+% and services purposes (SPAM) without the authorization of the owners of the
+% Information and Akky Online Solutions.
+
+% The database generated from the delegation system is protected by the
+% intellectual property laws and all international treaties on the matter.
+
+% If you need more information on the records displayed here, please contact us
+% by email at ayuda@akky.mx.
+
+% If you want notify the receipt of SPAM or unauthorized access, please send a
+% email to abuse@akky.mx.
+
+% La informacion que ha solicitado se provee exclusivamente para fines
+% relacionados con la delegacion de nombres de dominio y la operacion del DNS
+% administrado por Akky Online Solutions.
+
+% Queda absolutamente prohibido su uso para otros propositos, incluyendo el
+% envio de Correos Electronicos no solicitados con fines publicitarios o de
+% promocion de productos y servicios (SPAM) sin mediar la autorizacion de los
+% afectados y de Akky Online Solutions.
+
+% La base de datos generada a partir del sistema de delegacion, esta protegida
+% por las leyes de Propiedad Intelectual y todos los tratados internacionales
+% sobre la materia.
+
+% Si necesita mayor informacion sobre los registros aqui mostrados, favor de
+% comunicarse a ayuda@akky.mx.
+
+% Si desea notificar sobre correo no solicitado o accesos no autorizados, favor
+% de enviar su mensaje a abuse@akky.mx.

@@ -1,0 +1,28 @@
+{
+  "query": "hku.hk",
+  "server": "whois.hkirc.hk",
+  "domainName": "hku.hk",
+  "creationDate": "1990-01-03T00:00:00Z",
+  "expirationDate": "2033-06-07T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns1.hku.hk",
+    "ns2.cuhk.edu.hk",
+    "ns2.hku.hk",
+    "ns3.hku.hk",
+    "ns4.hku.hk",
+    "ns10.gdnsdef.com",
+    "ns10.gdnsec.com"
+  ],
+  "registrarName": "Hong Kong Domain Name Registration Company Limited",
+  "registrarEmail": "enquiry@hkdnr.hk                       Hotline: +852 2319 1313",
+  "registrantName": "Company English Name (It should be the same as the registered/corporation name on your Business Register Certificate or relevant documents): THE UNIVERSITY OF HONG KONG",
+  "registrantOrg": "THE UNIVERSITY OF HONG KONG",
+  "registrantCountry": "Hong Kong (HK)",
+  "registrantEmail": "dnradmin@hku.hk"
+}

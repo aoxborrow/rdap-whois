@@ -1,0 +1,24 @@
+###%%% QRY: rakuten.co.jp
+###%%% SRV: whois.jprs.jp
+###%%% TME: 2026-07-16T11:39:13Z
+
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+Domain Information:
+a. [Domain Name]                RAKUTEN.CO.JP
+g. [Organization]               Rakuten Group, Inc.
+l. [Organization Type]          joint stock corporation
+m. [Administrative Contact]     YT54926JP
+n. [Technical Contact]          GY6743JP
+p. [Name Server]                ns02.rakuten.co.jp
+p. [Name Server]                ns06.rakuten.co.jp
+p. [Name Server]                ns01.rakuten.ad.jp
+p. [Name Server]                ns02.rakuten.ad.jp
+s. [Signing Key]                
+[State]                         Connected (2027/02/28)
+[Lock Status]                   AgentChangeLocked
+[Registered Date]               1997/02/07
+[Connected Date]                1997/02/19
+[Last Update]                   2026/07/15 11:11:58 (JST)

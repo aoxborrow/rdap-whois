@@ -1,0 +1,71 @@
+{
+  "query": "google.do",
+  "server": "whois.nic.do",
+  "domainName": "google.do",
+  "creationDate": "2010-03-08T04:00:00Z",
+  "expirationDate": "2027-03-08T04:00:00Z",
+  "registrarExpirationDate": "2027-03-08T04:00:00Z",
+  "updatedDate": "2026-02-06T18:56:58Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Registrar NIC .DO (midominio.do)",
+  "registrarAddress": [
+    "Av. Rómulo Betancourt 1108, La Julia",
+    "Apartado postal 2748, Santo Domingo"
+  ],
+  "registrarCountry": "DO",
+  "registrantId": "229581-DO",
+  "registrantName": "GOOGLE LLC",
+  "registrantOrg": "GOOGLE LLC",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY",
+  "adminId": "229582-DO",
+  "adminName": "Google LLC",
+  "adminOrg": "GOOGLE LLC",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminEmail": "REDACTED FOR PRIVACY",
+  "techId": "229580-DO",
+  "techName": "Google LLC",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY",
+  "billingId": "202209-DO",
+  "billingName": "MARKMONITOR",
+  "billingOrg": "MARKMONITOR",
+  "billingAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "billingCity": "REDACTED FOR PRIVACY",
+  "billingState": "REDACTED FOR PRIVACY",
+  "billingPostalCode": "REDACTED FOR PRIVACY",
+  "billingPhone": "REDACTED FOR PRIVACY",
+  "billingEmail": "REDACTED FOR PRIVACY"
+}

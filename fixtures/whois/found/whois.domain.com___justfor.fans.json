@@ -1,0 +1,28 @@
+{
+  "query": "justfor.fans",
+  "server": "whois.domain.com",
+  "domainName": "justfor.fans",
+  "creationDate": "2018-01-19T19:23:40Z",
+  "expirationDate": "2027-04-17T04:00:00Z",
+  "registrarExpirationDate": "2027-04-17T04:00:00Z",
+  "updatedDate": "2026-03-28T11:56:06Z",
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "886",
+  "registrarIanaId": 886,
+  "registrarName": "Domain.com",
+  "registrarUrl": "http://www.networksolutions.com",
+  "registrarAbuseEmail": "domain.operations@web.com",
+  "registrarAbusePhone": "+1.8777228662",
+  "registrarWhoisServer": "whois.networksolutions.com",
+  "registrantName": "PERFECT PRIVACY, LLC",
+  "registrantAddress": [
+    "5335 Gate Parkway care of Network Solutions PO Box 459"
+  ],
+  "registrantCity": "Jacksonville",
+  "registrantState": "FL",
+  "registrantPostalCode": "32256",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.5707088622",
+  "registrantEmail": "privacy@networksolutionsprivateregistration.com"
+}

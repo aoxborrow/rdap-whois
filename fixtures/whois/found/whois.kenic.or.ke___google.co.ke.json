@@ -1,0 +1,36 @@
+{
+  "query": "google.co.ke",
+  "server": "whois.kenic.or.ke",
+  "domainId": "1625-Kenic",
+  "domainName": "google.co.ke",
+  "creationDate": "2003-04-17T21:00:00Z",
+  "expirationDate": "2027-12-31T21:00:00Z",
+  "registrarExpirationDate": "2027-12-31T21:00:00Z",
+  "updatedDate": "2025-11-30T16:22:23Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Afriregister Limited",
+  "registrarAddress": [
+    "Riara Rd, Bamboo ln, P.O. Box 21682 - 00100, Nairobi"
+  ],
+  "registrarPhone": "+254 20 711101253",
+  "registrarEmail": "admin@afriregister.co.ke"
+}

@@ -1,0 +1,34 @@
+{
+  "query": "nic.edu",
+  "server": "whois.educause.edu",
+  "domainName": "nic.edu",
+  "creationDate": "1996-12-20T00:00:00Z",
+  "expirationDate": "2027-07-31T00:00:00Z",
+  "updatedDate": "2026-07-20T00:00:00Z",
+  "nameservers": [
+    "nicns1.nic.edu",
+    "nicns2.nic.edu"
+  ],
+  "registrantName": "North Idaho College",
+  "registrantOrg": "North Idaho College",
+  "registrantAddress": [
+    "1000 W. Garden Avenue"
+  ],
+  "registrantCountry": "USA",
+  "adminName": "NetAdmin Admin",
+  "adminOrg": "North Idaho College",
+  "adminAddress": [
+    "1000 W. Garden Avenue"
+  ],
+  "adminCountry": "USA",
+  "adminPhone": "+1.2087693230",
+  "adminEmail": "netsys@nic.edu",
+  "techName": "Network Systems",
+  "techOrg": "North Idaho College",
+  "techAddress": [
+    "1000 W. Garden Avenue"
+  ],
+  "techCountry": "USA",
+  "techPhone": "+1.2087693231",
+  "techEmail": "netsys@nic.edu"
+}

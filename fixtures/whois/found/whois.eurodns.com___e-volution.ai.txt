@@ -1,0 +1,74 @@
+###%%% QRY: e-volution.ai
+###%%% SRV: whois.eurodns.com
+###%%% TME: 2026-11-22T08:07:45Z
+
+Domain Name: e-volution.ai
+Registry Domain ID: D23332802-AI
+Registrar WHOIS Server: whois.eurodns.com
+Registrar URL: http://www.eurodns.com
+Updated Date: 2026-11-06T12:14:00Z
+Creation Date: 2019-09-03T00:00:00Z
+Registrar Registration Expiration Date: 2027-09-02T00:00:00Z
+Registrar: Eurodns S.A.
+Registrar IANA ID: 1052
+Registrar Abuse Contact Email: legalservices@eurodns.com
+Registrar Abuse Contact Phone: +352.27220150
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: edns_r2149680
+Registrant Name: Rea Alex
+Registrant Organization: Evolution Tech
+Registrant Street: 1349 Westmatch Welinghom, Welminghom
+Registrant City: Welminghom
+Registrant State/Province:
+Registrant Postal Code: 3323321
+Registrant Country: US
+Registrant Phone: +39.3346572071
+Registrant Fax: 
+Registrant Email: it@metup.it
+Registry Admin ID: edns_a2149680
+Admin Name: Rea Alex
+Admin Organization: Evolution Tech
+Admin Street: 1349 Westmatch Welinghom, Welminghom
+Admin City: Welminghom
+Admin State/Province:
+Admin Postal Code: 3323321
+Admin Country: US
+Admin Phone: +39.3346572071
+Admin Fax: 
+Admin Email: it@metup.it
+Registry Tech ID: edns_t2149680
+Tech Name: Rea Alex
+Tech Organization: Evolution Tech
+Tech Street: 1349 Westmatch Welinghom, Welminghom
+Tech City: Welminghom
+Tech State/Province:
+Tech Postal Code: 3323321
+Tech Country: US
+Tech Phone: +39.3346572071
+Tech Fax: 
+Tech Email: it@metup.it
+Name Server: ns-1043.awsdns-02.org
+Name Server: ns-11.awsdns-01.com
+Name Server: ns-1963.awsdns-53.co.uk
+Name Server: ns-954.awsdns-55.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:07:45Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Please email the listed admin email address if you wish to raise a legal issue.
+
+The Data in EuroDNS WHOIS database is provided for information purposes only.
+The fact that EuroDNS display such information does not provide any guarantee
+expressed or implied on the purpose for which the database may be used, its
+accuracy or usefulness. By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no circumstances will
+you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that apply to EuroDNS
+(or its systems). EuroDNS reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the above policy.

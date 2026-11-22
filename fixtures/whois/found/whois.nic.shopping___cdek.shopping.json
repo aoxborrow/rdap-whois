@@ -1,0 +1,27 @@
+{
+  "query": "cdek.shopping",
+  "server": "whois.nic.shopping",
+  "domainId": "1933816f072241d788d5232756a221fb-DONUTS",
+  "domainName": "cdek.shopping",
+  "creationDate": "2022-01-17T14:26:53Z",
+  "expirationDate": "2027-01-17T14:26:53Z",
+  "updatedDate": "2024-12-06T01:52:28Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "camilo.ns.cloudflare.com",
+    "keyla.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com"
+}

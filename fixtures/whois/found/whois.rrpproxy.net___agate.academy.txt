@@ -1,0 +1,97 @@
+###%%% QRY: agate.academy
+###%%% SRV: whois.rrpproxy.net
+###%%% TME: 2026-11-22T08:07:34Z
+
+Domain Name: agate.academy
+Registry Domain ID: 73cca54c40354c9fb9629c337a4cfe5e-DONUTS
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.key-systems.net
+Updated Date: 2026-11-16T13:49:44Z
+Creation Date: 2017-10-12T08:56:05Z
+Registrar Registration Expiration Date: 2027-10-12T08:56:05Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Abuse Contact Email: abusereport@key-systems.net
+Registrar Abuse Contact URL: http://www.report-abuse.online
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of agate.academy OWNER 
+Registrant Organization: c/o whoisproxy.com
+Registrant Street: 604 Cameron Street
+Registrant City: Alexandria
+Registrant State/Province: VA
+Registrant Postal Code: 22314
+Registrant Country: US
+Registrant Phone: +64.48319528
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 34ad1747e592a412344a63fa9a279bebce7b2b4e57faa075ce8a5a167c9e4cbc@agate.academy.whoisproxy.org
+Registry Admin ID: Not Available From Registry
+Admin Name: On behalf of agate.academy ADMIN 
+Admin Organization: c/o whoisproxy.com
+Admin Street: 604 Cameron Street
+Admin City: Alexandria
+Admin State/Province: VA
+Admin Postal Code: 22314
+Admin Country: US
+Admin Phone: +64.48319528
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 34ad1747e592a412344a63fa9a279bebce7b2b4e57faa075ce8a5a167c9e4cbc@agate.academy.whoisproxy.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of agate.academy TECH 
+Tech Organization: c/o whoisproxy.com
+Tech Street: 604 Cameron Street
+Tech City: Alexandria
+Tech State/Province: VA
+Tech Postal Code: 22314
+Tech Country: US
+Tech Phone: +64.48319528
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 34ad1747e592a412344a63fa9a279bebad824775ed5ff6f2b95555803ca3e250@agate.academy.whoisproxy.org
+Registry Billing ID: Not Available From Registry
+Billing Name: On behalf of agate.academy BILLING 
+Billing Organization: c/o whoisproxy.com
+Billing Street: 604 Cameron Street
+Billing City: Alexandria
+Billing State/Province: VA
+Billing Postal Code: 22314
+Billing Country: US
+Billing Phone: +64.48319528
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: 34ad1747e592a412344a63fa9a279beb69b9d3a9ff19ee288da82b81da555f3b@agate.academy.whoisproxy.org
+Name Server: ns1.domaindiscount24.net 
+Name Server: ns2.domaindiscount24.net 
+Name Server: ns3.domaindiscount24.net 
+DNSSEC: unsigned
+Whoisprivacy: 1
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:07:33Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+To contact the registered registrant please proceed to:
+https://www.domain-contact.org
+
+Please register your domains at; http://www.key-systems.net
+This data is provided by 
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+ does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

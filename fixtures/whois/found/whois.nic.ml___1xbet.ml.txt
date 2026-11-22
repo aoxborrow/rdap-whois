@@ -1,0 +1,29 @@
+###%%% QRY: 1xbet.ml
+###%%% SRV: whois.nic.ml
+###%%% TME: 2026-07-16T23:40:56Z
+
+Domain Name: 1xbet.ml
+Registry Domain ID: 24547-nicml
+Updated Date: 2026-07-13T08:27:58Z
+Creation Date: 2023-09-08T03:14:50Z
+Registry Expiry Date: 2027-01-31T00:00:00Z
+Registrar Registration Expiration Date: 2027-01-31T00:00:00Z
+Registrar: Safenames Ltd.
+Registrar Email: hostmaster@safenames.net
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: serverHold https://icann.org/epp#serverHold
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Name Server: edns7.ultradns.net
+Name Server: edns7.ultradns.org
+Name Server: edns7.ultradns.biz
+Name Server: edns7.ultradns.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:40:57.278Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to AGETIC  computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

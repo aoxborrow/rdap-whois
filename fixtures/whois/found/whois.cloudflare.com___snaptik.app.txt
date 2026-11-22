@@ -1,0 +1,47 @@
+###%%% QRY: snaptik.app
+###%%% SRV: whois.cloudflare.com
+###%%% TME: 2026-11-22T08:07:49Z
+
+Domain Name: SNAPTIK.APP
+Registry Domain ID: 425E8C809-APP
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: https://www.cloudflare.com
+Updated Date: 2026-06-05T06:54:46Z
+Creation Date: 2020-05-05T00:18:22Z
+Registrar Registration Expiration Date: 2032-05-05T00:18:22Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: clienttransferprohibited https://icann.org/epp#clienttransferprohibited
+Registry Registrant ID:
+Registrant Name: DATA REDACTED
+Registrant Organization: 
+Registrant Street: DATA REDACTED
+Registrant City: DATA REDACTED
+Registrant State/Province: Ha Noi
+Registrant Postal Code: DATA REDACTED
+Registrant Country: VN
+Registrant Phone: +1.4153197517
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 
+Name Server: jessica.ns.cloudflare.com
+Name Server: logan.ns.cloudflare.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:07:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Cloudflare provides more than 13 million domains with the tools to give their global users a faster, more secure, and more reliable internet experience.
+
+NOTICE:
+
+Data in the Cloudflare Registrar WHOIS database is provided to you by Cloudflare
+under the terms and conditions at https://www.cloudflare.com/domain-registration-agreement/
+
+By submitting this query, you agree to abide by these terms.
+
+Register your domain name at https://www.cloudflare.com/registrar/

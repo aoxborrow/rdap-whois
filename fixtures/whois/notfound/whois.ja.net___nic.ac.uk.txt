@@ -1,0 +1,5 @@
+###%%% QRY: nic.ac.uk
+###%%% SRV: whois.ja.net
+###%%% TME: 2026-07-14T10:38:51Z
+
+No such domain nic.ac.uk

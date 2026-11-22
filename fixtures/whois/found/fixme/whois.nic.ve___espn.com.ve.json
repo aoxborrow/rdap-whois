@@ -1,0 +1,34 @@
+{
+  "query": "espn.com.ve",
+  "server": "whois.nic.ve",
+  "domainName": "espn.com.ve",
+  "creationDate": "2007-01-23T07:45:42Z",
+  "expirationDate": "2026-01-23T00:00:00Z",
+  "status": [],
+  "nameservers": [
+    "ns-8.awsdns-01.com",
+    "ns-755.awsdns-30.net",
+    "ns-1185.awsdns-20.org",
+    "ns-1871.awsdns-41.co.uk"
+  ],
+  "registrarName": "NIC-VE",
+  "registrantId": "CON000030314",
+  "registrantOrg": "Disney Enterprises, Inc.",
+  "registrantAddress": [
+    "500 South Buena Vista Street, Mail Code 8029"
+  ],
+  "registrantCity": "Burbank",
+  "registrantState": "Ca",
+  "registrantPostalCode": "91521",
+  "registrantCountry": "US",
+  "adminId": "CON000005984",
+  "adminOrg": "Csc Corporate Domains Inc",
+  "adminAddress": [
+    "251 Little Falls Drive"
+  ],
+  "adminCity": "Wilmington",
+  "adminState": "De",
+  "adminPostalCode": "19808",
+  "adminCountry": "US",
+  "techId": "CON000005984"
+}

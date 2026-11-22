@@ -1,0 +1,111 @@
+###%%% QRY: nz.ua
+###%%% SRV: whois.ua
+###%%% TME: 2026-07-16T11:45:40Z
+
+% Request from 192.0.2.1
+% This is the Ukrainian Whois query server #P.
+% The Whois is subject to Terms of use
+% See https://hostmaster.ua/services/
+%
+% IN THE PROCESS OF DELEGATION OF A DOMAIN NAME,
+% THE REGISTRANT IS AN ENTITY WHO USES AND MANAGES A CERTAIN DOMAIN NAME,
+% AND THE REGISTRAR IS A BUSINESS ENTITY THAT PROVIDES THE REGISTRANT
+% WITH THE SERVICES NECESSARY FOR THE TECHNICAL MAINTENANCE OF THE REGISTRATION AND OPERATION OF THE DOMAIN NAME.
+% FOR INFORMATION ABOUT THE REGISTRANT OF THE DOMAIN NAME, YOU SHOULD CONTACT THE REGISTRAR.
+
+domain:           nz.ua
+dom-public:       NO
+license:          140251
+mnt-by:           ua.imena
+nserver:          matteo.ns.cloudflare.com
+nserver:          nina.ns.cloudflare.com
+status:           ok
+created:          2011-06-14 18:15:41+03
+modified:         2026-06-08 17:42:07+03
+expires:          2027-06-14 18:15:41+03
+source:           UAEPP
+
+% Registrar:
+%
+% The following disclaimer was provided by the domain name registrar
+% ==========
+% Надана інформація є неповною і може містити помилки, пов'язані з особливостями механізмів кешування інформації, несинхронного оновлення реєстрів тощо, тому не є достовірною та надається виключно для ознайомлення.
+% У зв'язку із зазначеним вище, дана інформація не може бути використана з метою вирішення спорів, конфліктів, визначення майнових та немайнових прав тощо.
+% Єдиним джерелом первинних даних про доменне ім'я є реєстратор (registrar) доменного імені, який може надати необхідну інформацію на запит у встановленому законом порядку.
+% 
+% The provided information is incomplete and may contain errors related to the specificity 
+% of information caching mechanisms, asynchronous updating of registries, etc., 
+% therefore it is not reliable and is provided for informational purposes only. 
+% In connection with the above, this information can not be used to resolve disputes, 
+% conflicts, determine property and non-property rights, etc.
+% The only source of primary data about the domain name is the registrar of the domain name, 
+% which can provide the required information upon request, in accordance with the procedure established by law.
+% ==========
+registrar:        ua.imena
+organization:     Internet Invest LLC
+organization-loc: ТОВ "Інтернет Інвест"
+url:              http://www.imena.ua
+city:             Kyiv
+country:          UA
+abuse-email:      abuse@imena.ua
+abuse-phone:      +380.442010102
+abuse-postal:     50-B Simi Prakhovykh St., Kyiv, 01033, Ukraine
+abuse-postal-loc: вул. Сім'ї Прахових, 50-Б, м. Київ, 01033, Україна
+source:           UAEPP
+
+% Registrant:
+% ===========
+person:           not published
+person-loc:       not published
+organization:     not published
+organization-loc: not published
+e-mail:           not published
+address:          not published
+address-loc:      not published
+phone:            not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2014-04-03 05:40:19+03
+modified:         2025-06-06 15:54:22+03
+source:           UAEPP
+
+
+% Administrative Contacts:
+% =======================
+person:           not published
+person-loc:       not published
+organization:     not published
+organization-loc: not published
+e-mail:           not published
+address:          not published
+address-loc:      not published
+phone:            not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2014-04-03 05:40:19+03
+modified:         2025-06-06 15:54:48+03
+source:           UAEPP
+
+
+% Technical Contacts:
+% ===================
+person:           not published
+person-loc:       not published
+organization:     not published
+organization-loc: not published
+e-mail:           not published
+address:          not published
+address-loc:      not published
+phone:            not published
+mnt-by:           ua.imena
+status:           ok
+status:           linked
+created:          2014-04-03 05:40:20+03
+modified:         2025-06-06 15:54:48+03
+source:           UAEPP
+
+
+
+% Query time:     3 msec

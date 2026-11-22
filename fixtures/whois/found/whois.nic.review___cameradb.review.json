@@ -1,0 +1,42 @@
+{
+  "query": "cameradb.review",
+  "server": "whois.nic.review",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "cameradb.review",
+  "creationDate": "2018-04-29T06:16:38Z",
+  "expirationDate": "2028-04-29T06:16:38Z",
+  "updatedDate": "2026-08-03T17:37:08Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "raegan.ns.cloudflare.com",
+    "simon.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.6613102107",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "sichuan",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "CN",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

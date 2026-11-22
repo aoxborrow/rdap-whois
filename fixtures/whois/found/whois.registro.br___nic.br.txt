@@ -1,0 +1,46 @@
+###%%% QRY: nic.br
+###%%% SRV: whois.registro.br
+###%%% TME: 2026-07-16T11:17:25Z
+
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2026-07-16T08:17:25-03:00 - 192.0.2.1
+
+domain:      nic.br
+owner:       N�cleo de Inf. e Coord. do Ponto BR - NIC.BR
+owner-c:     FAN
+tech-c:      FAN
+nserver:     a.dns.br
+nsstat:      20260715 AA
+nslastaa:    20260715
+nserver:     b.dns.br
+nsstat:      20260715 AA
+nslastaa:    20260715
+nserver:     c.dns.br
+nsstat:      20260715 AA
+nslastaa:    20260715
+nserver:     d.dns.br
+nsstat:      20260715 AA
+nslastaa:    20260715
+nserver:     e.dns.br
+nsstat:      20260715 AA
+nslastaa:    20260715
+dsrecord:    47828 ECDSA-SHA-256 B9BEC0EAC0F064929C8586DB185537787015EC3A48F0894BEA74DEEA452F3060
+dsstatus:    20260715 DSOK
+dslastok:    20260715
+created:     19970711 #46903
+changed:     20180327
+status:      published
+
+nic-hdl-br:  FAN
+person:      Frederico Augusto de Carvalho Neves
+created:     19971217
+changed:     20241121
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

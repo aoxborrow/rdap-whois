@@ -1,0 +1,32 @@
+{
+  "query": "filmyfly.qpon",
+  "server": "whois.nic.qpon",
+  "domainId": "D517427262-CNIC",
+  "domainName": "filmyfly.qpon",
+  "creationDate": "2025-01-07T18:56:22Z",
+  "expirationDate": "2027-01-07T23:59:59Z",
+  "updatedDate": "2026-01-26T12:01:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "edna.ns.cloudflare.com",
+    "sam.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1647",
+  "registrarIanaId": 1647,
+  "registrarName": "Hosting Concepts B.V. d/b/a Registrar.eu",
+  "registrarUrl": "https://www.openprovider.com",
+  "registrarAbuseEmail": "abuse@registrar.eu",
+  "registrarAbusePhone": "+31.104482297",
+  "registrarWhoisServer": "whois.registrar.eu",
+  "registrantOrg": "enforcement",
+  "registrantCountry": "RU",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

@@ -1,0 +1,74 @@
+###%%% QRY: anime.gf
+###%%% SRV: whois.mediaserv.net
+###%%% TME: 2026-07-16T11:39:21Z
+
+This is JWhoisServer serving ccTLD tld;mq;gf;gp
+Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net
+#########################################################################
+# All data copyright of the organization unit running this server!
+# By querying this server, you agree that you :
+# -may use this data only for lawful purposes;
+# -will not re-use data for any kind of support
+#   for the transmission of unsolicited advertising
+#   via e-mail, telephone, or facsimile;
+# -will not reproduce and/or store any part of the data
+#   without prior permission of the copyright holders;
+# -are aware of and agree to the fact that all access to the
+#   server is under constant monitoring and will be logged
+#   for the purpose of prosecution in case of missuse!
+#########################################################################
+
+domain:     anime.gf
+mntnr:      MNTNR1832
+changed:    2025-11-29 00:00:00.0
+nameserver: dale.ns.cloudflare.com
+nameserver: tia.ns.cloudflare.com
+
+[holder]
+mntnr:      MNTNR1832
+type:       ORGANISATION
+name:       Chuni CHAT
+address:    4441 Six Forks Rd
+NC
+pcode:      27609
+country:    US
+phone:      +1.3366121393
+fax:        
+email:      xshare.id@proton.me
+changed:    2026-07-16 07:35:09.0
+
+[admin_c]
+mntnr:      MNTNR1832
+type:       ORGANISATION
+name:       Vincent Bruno
+address:    264 av arthur notebart
+pcode:      59160
+country:    FR
+phone:      +33.972307470
+fax:        +33.972307470
+email:      tld@netim.com
+changed:    2026-07-16 07:35:09.0
+
+[tech_c]
+mntnr:      MNTNR1832
+type:       ORGANISATION
+name:       Vincent Bruno
+address:    264 av arthur notebart
+pcode:      59160
+country:    FR
+phone:      +33.972307470
+fax:        +33.972307470
+email:      tld@netim.com
+changed:    2026-07-16 07:35:09.0
+
+[zone_c]
+mntnr:      MNTNR1832
+type:       ORGANISATION
+name:       VINCENT Bruno
+address:    264 av Arthur Notebart
+pcode:      59160
+country:    FR
+phone:      +33.972307470
+fax:        
+email:      tld@netim.com
+changed:    2026-07-16 07:35:09.0

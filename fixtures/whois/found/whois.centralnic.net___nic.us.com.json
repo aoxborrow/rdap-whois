@@ -1,0 +1,32 @@
+{
+  "query": "nic.us.com",
+  "server": "whois.centralnic.net",
+  "domainId": "D375725-CNIC",
+  "domainName": "nic.us.com",
+  "creationDate": "2008-04-02T16:32:44Z",
+  "expirationDate": "2027-04-02T23:59:59Z",
+  "updatedDate": "2026-07-23T10:21:56Z",
+  "eppStatus": [
+    "inactive",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "inactive https://icann.org/epp#inactive"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CentralNic Ltd",
+  "registrarUrl": "https://www.centralnic.com",
+  "registrarAbuseEmail": "ops@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.centralnic.com"
+}

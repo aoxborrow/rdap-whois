@@ -1,0 +1,76 @@
+{
+  "query": "onlinesbi.sbi",
+  "server": "whois.nic.sbi",
+  "domainId": "REDACTED",
+  "domainName": "onlinesbi.sbi",
+  "creationDate": "2020-04-27T07:30:50Z",
+  "expirationDate": "2027-04-27T07:30:50Z",
+  "updatedDate": "2026-09-16T13:11:32Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1-148.akam.net",
+    "a3-66.akam.net",
+    "a5-66.akam.net",
+    "a16-64.akam.net",
+    "a20-64.akam.net",
+    "a22-65.akam.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1609",
+  "registrarIanaId": 1609,
+  "registrarName": "Synergy Wholesale Accreditations Pty Ltd",
+  "registrarUrl": "https://synergywholesale.com",
+  "registrarAbuseEmail": "registry-abuse@nexigen.digital",
+  "registrarAbusePhone": "+61.383999483",
+  "registrarWhoisServer": "whois.synergywholesale.com",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "State Bank Of India",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "IN",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

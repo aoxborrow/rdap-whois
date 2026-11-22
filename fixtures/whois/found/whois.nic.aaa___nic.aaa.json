@@ -1,0 +1,32 @@
+{
+  "query": "nic.aaa",
+  "server": "whois.nic.aaa",
+  "domainId": "D4372-AAA",
+  "domainName": "nic.aaa",
+  "creationDate": "2013-09-16T19:34:30Z",
+  "expirationDate": "2027-09-15T23:59:59Z",
+  "updatedDate": "2026-11-12T05:14:28Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.nic.aaa",
+    "ns2.dns.nic.aaa",
+    "ns3.dns.nic.aaa",
+    "ns4.dns.nic.aaa",
+    "ns5.dns.nic.aaa",
+    "ns6.dns.nic.aaa"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "American Automobile Association, Inc."
+}

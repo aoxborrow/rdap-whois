@@ -1,0 +1,30 @@
+{
+  "query": "amedia.lol",
+  "server": "whois.nic.lol",
+  "domainId": "D428840274-CNIC",
+  "domainName": "amedia.lol",
+  "creationDate": "2024-01-29T16:55:18Z",
+  "expirationDate": "2027-01-29T23:59:59Z",
+  "updatedDate": "2026-02-01T10:08:00Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.zomro.net",
+    "ns2.zomro.ru",
+    "ns3.zomro.com",
+    "ns4.zomro.su"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

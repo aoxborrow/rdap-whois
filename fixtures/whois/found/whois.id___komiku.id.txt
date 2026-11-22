@@ -1,0 +1,21 @@
+###%%% QRY: komiku.id
+###%%% SRV: whois.id
+###%%% TME: 2026-07-16T11:38:54Z
+
+Domain Name: KOMIKU.ID
+Registry Domain ID: 2368846_DOMAIN_ID-ID
+Registrar WHOIS Server: 
+Registrar URL: www.belidomain.co.id
+Updated Date: 2024-12-24T19:24:52Z
+Creation Date: 2020-06-22T12:58:16Z
+Registry Expiry Date: 2028-06-22T23:59:59Z
+Registrar: PT Jagat Informasi Solusi (int)
+Registrar IANA ID: 1
+Registrar Abuse Contact Email: international@belidomain.id
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited
+Name Server: ALI.NS.CLOUDFLARE.COM
+Name Server: MAREK.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:38:55Z <<<

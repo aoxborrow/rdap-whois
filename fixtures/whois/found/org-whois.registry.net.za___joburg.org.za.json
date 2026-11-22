@@ -1,0 +1,36 @@
+{
+  "query": "joburg.org.za",
+  "server": "org-whois.registry.net.za",
+  "domainId": "6m5mut_DOMAIN-ORG.ZA",
+  "domainName": "joburg.org.za",
+  "creationDate": "1997-10-03T09:46:34Z",
+  "expirationDate": "2027-08-31T09:44:13Z",
+  "registrarExpirationDate": "2027-08-31T09:44:13Z",
+  "updatedDate": "2026-08-01T22:42:55Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "demeter.is.co.za",
+    "jupiter.is.co.za",
+    "titan.is.co.za"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1466",
+  "registrarIanaId": 1466,
+  "registrarName": "Lexsynergy Limited",
+  "registrarReseller": "NTT Data",
+  "registrarUrl": "https://www.lexsynergy.com",
+  "registrarAbuseEmail": "abuse@lexsynergy.com",
+  "registrarAbusePhone": "+44.2031370459",
+  "registrarWhoisServer": "whois.lexsynergy.com",
+  "registrantCountry": "ZA",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

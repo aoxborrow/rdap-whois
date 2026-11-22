@@ -1,0 +1,78 @@
+{
+  "query": "nostr.band",
+  "server": "whois.registrar.amazon",
+  "domainId": "b52def42dc8c470ea948fadd0a196ca6-DONUTS",
+  "domainName": "nostr.band",
+  "creationDate": "2022-12-28T10:56:19Z",
+  "expirationDate": "2026-12-28T10:56:19Z",
+  "registrarExpirationDate": "2026-12-28T10:56:19Z",
+  "updatedDate": "2025-11-28T10:58:46Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-198.awsdns-24.com",
+    "ns-620.awsdns-13.net",
+    "ns-1262.awsdns-29.org",
+    "ns-2035.awsdns-62.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "468",
+  "registrarIanaId": 468,
+  "registrarName": "Amazon Registrar, Inc.",
+  "registrarAbuseEmail": "trustandsafety@support.aws.com",
+  "registrarAbusePhone": "+1.2024422253",
+  "registrarWhoisServer": "whois.registrar.amazon",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "On behalf of nostr.band OWNER",
+  "registrantOrg": "c/o whoisproxy.com",
+  "registrantAddress": [
+    "604 Cameron Street"
+  ],
+  "registrantCity": "Alexandria",
+  "registrantState": "VA",
+  "registrantPostalCode": "22314",
+  "registrantCountry": "US",
+  "registrantPhone": "+64.48319528",
+  "registrantEmail": "ec5d4972d431a5f9b055876405372b6669dc4832889e2f72d453ee9c662d1931@nostr.band.whoisproxy.org",
+  "adminId": "Not Available From Registry",
+  "adminName": "On behalf of nostr.band ADMIN",
+  "adminOrg": "c/o whoisproxy.com",
+  "adminAddress": [
+    "604 Cameron Street"
+  ],
+  "adminCity": "Alexandria",
+  "adminState": "VA",
+  "adminPostalCode": "22314",
+  "adminCountry": "US",
+  "adminPhone": "+64.48319528",
+  "adminEmail": "ec5d4972d431a5f9b055876405372b66a501cd350e45bed5918d7317d70651f0@nostr.band.whoisproxy.org",
+  "techId": "Not Available From Registry",
+  "techName": "On behalf of nostr.band TECH",
+  "techOrg": "c/o whoisproxy.com",
+  "techAddress": [
+    "604 Cameron Street"
+  ],
+  "techCity": "Alexandria",
+  "techState": "VA",
+  "techPostalCode": "22314",
+  "techCountry": "US",
+  "techPhone": "+64.48319528",
+  "techEmail": "ec5d4972d431a5f9b055876405372b667dabf331b83d8501fe234da8ecdb2d6c@nostr.band.whoisproxy.org",
+  "billingId": "Not Available From Registry",
+  "billingName": "On behalf of nostr.band BILLING",
+  "billingOrg": "c/o whoisproxy.com",
+  "billingAddress": [
+    "604 Cameron Street"
+  ],
+  "billingCity": "Alexandria",
+  "billingState": "VA",
+  "billingPostalCode": "22314",
+  "billingCountry": "US",
+  "billingPhone": "+64.48319528",
+  "billingEmail": "ec5d4972d431a5f9b055876405372b665edf4f90297a07806d253b6e6c37a361@nostr.band.whoisproxy.org"
+}

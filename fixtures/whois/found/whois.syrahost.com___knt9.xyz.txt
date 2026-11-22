@@ -1,0 +1,33 @@
+###%%% QRY: knt9.xyz
+###%%% SRV: whois.syrahost.com
+###%%% TME: 2026-11-22T08:11:17Z
+
+Domain Name: KNT9.XYZ
+Registry Domain ID: D241209892-CNIC
+Registrar WHOIS Server: whois.syrahost.com
+Registrar URL: http://www.crazydomains.com
+Updated Date: 2025-06-02T00:00:00Z
+Creation Date: 2021-07-02T00:00:00Z
+Registrar Registration Expiration Date: 2027-07-02T00:00:00Z
+Registrar: Dreamscape Networks International Pte Ltd
+Registrar IANA ID: 1291
+Registrar Abuse Contact Email: abuse@dreamscapenetworks.com
+Registrar Abuse Contact Phone: +65.69147880
+Domain Status: ok https://icann.org/epp#ok
+Domain Status: 3 https://icann.org/epp#3
+Registry Registrant ID: r027525922sn
+Registrant Name: Kevin Cheng
+Registrant Organization: PRIVATE REGISTRY AUTHORITY
+Registrant Street: 1202, 12/F., AT TOWER, 180 ELECTRIC ROAD, NORTH POINT
+Registrant City: HONG KONG
+Registrant State/Province: HONG KONG
+Registrant Postal Code: 00000
+Registrant Country: HK
+Registrant Phone: +852.66401834
+Registrant Phone Ext: 
+Registrant Email: ACCOUNTING@GHTCON.COM
+Name Server: H4.KNT9.XYZ
+Name Server: H7.KNT9.XYZ
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T16:03:40Z <<<

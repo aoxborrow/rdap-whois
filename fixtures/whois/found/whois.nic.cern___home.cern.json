@@ -1,0 +1,28 @@
+{
+  "query": "home.cern",
+  "server": "whois.nic.cern",
+  "domainId": "b41994cd780947ef8a31b8b8fbf7e7d8-DONUTS",
+  "domainName": "home.cern",
+  "creationDate": "2015-08-07T12:53:20Z",
+  "expirationDate": "2027-08-07T12:53:20Z",
+  "updatedDate": "2026-08-12T00:39:08Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ext-dns-1.cern.ch",
+    "ext-dns-2.cern.ch"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

@@ -1,0 +1,76 @@
+{
+  "query": "nabp.pharmacy",
+  "server": "whois.nic.pharmacy",
+  "domainId": "D26170-PHARMACY",
+  "domainName": "nabp.pharmacy",
+  "creationDate": "2016-03-02T14:51:32Z",
+  "expirationDate": "2030-03-01T23:59:59Z",
+  "updatedDate": "2023-01-11T16:19:30Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-173.awsdns-21.com",
+    "ns-824.awsdns-39.net",
+    "ns-1073.awsdns-06.org",
+    "ns-2025.awsdns-61.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "National Association of Boards of Pharmacy",
+  "registrarAbuseEmail": "abuse@safe.pharmacy",
+  "registrarAbusePhone": "+18473914497",
+  "registrantId": "C2283-PHARMACY",
+  "registrantName": "NABP",
+  "registrantOrg": "National Association of Boards of Pharmacy",
+  "registrantAddress": [
+    "1600 Feehanville Drive"
+  ],
+  "registrantCity": "Mt. Prospect",
+  "registrantState": "IL",
+  "registrantPostalCode": "60056",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.8473914497",
+  "registrantEmail": "abuse@safe.pharmacy",
+  "adminId": "C2283-PHARMACY",
+  "adminName": "NABP",
+  "adminOrg": "National Association of Boards of Pharmacy",
+  "adminAddress": [
+    "1600 Feehanville Drive"
+  ],
+  "adminCity": "Mt. Prospect",
+  "adminState": "IL",
+  "adminPostalCode": "60056",
+  "adminCountry": "US",
+  "adminPhone": "+1.8473914497",
+  "adminEmail": "abuse@safe.pharmacy",
+  "techId": "C2283-PHARMACY",
+  "techName": "NABP",
+  "techOrg": "National Association of Boards of Pharmacy",
+  "techAddress": [
+    "1600 Feehanville Drive"
+  ],
+  "techCity": "Mt. Prospect",
+  "techState": "IL",
+  "techPostalCode": "60056",
+  "techCountry": "US",
+  "techPhone": "+1.8473914497",
+  "techEmail": "abuse@safe.pharmacy",
+  "billingId": "C2283-PHARMACY",
+  "billingName": "NABP",
+  "billingOrg": "National Association of Boards of Pharmacy",
+  "billingAddress": [
+    "1600 Feehanville Drive"
+  ],
+  "billingCity": "Mt. Prospect",
+  "billingState": "IL",
+  "billingPostalCode": "60056",
+  "billingCountry": "US",
+  "billingPhone": "+1.8473914497",
+  "billingEmail": "abuse@safe.pharmacy"
+}

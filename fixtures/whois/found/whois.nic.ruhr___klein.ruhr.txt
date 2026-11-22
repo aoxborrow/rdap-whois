@@ -1,0 +1,45 @@
+###%%% QRY: klein.ruhr
+###%%% SRV: whois.nic.ruhr
+###%%% TME: 2026-07-16T23:49:44Z
+
+Domain Name: KLEIN.RUHR
+Registry Domain ID: D362186400-CNIC
+Registrar WHOIS Server: whois.ascio.com
+Registrar URL: http://www.ascio.com
+Updated Date: 2026-04-18T00:09:13.0Z
+Creation Date: 2023-04-17T14:42:38.0Z
+Registry Expiry Date: 2027-04-17T23:59:59.0Z
+Registrar: Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA
+Registrar IANA ID: 106
+Domain Status: ok https://icann.org/epp#ok
+Registrant Country: DE
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ELIAS.NS.CLOUDFLARE.COM
+Name Server: MEILANI.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@ascio.com
+Registrar Abuse Contact Phone: +1.4165350123
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:49:45.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit
+https://www.centralnicregistry.com/support/information/rdap <<<
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

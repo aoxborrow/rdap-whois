@@ -1,0 +1,55 @@
+###%%% QRY: dv.tech
+###%%% SRV: whois.nic.tech
+###%%% TME: 2026-07-16T23:53:19Z
+
+Domain Name: dv.tech
+Registry Domain ID: D355453272-CNIC
+Registrar WHOIS Server: https://gcd.com/whois/
+Registrar URL: https://gcd.com
+Updated Date: 2026-03-17T16:13:04.825Z
+Creation Date: 2023-03-22T03:43:30.000Z
+Registry Expiry Date: 2027-03-22T23:59:59.000Z
+Registrar: GoDaddy Corporate Domains, LLC
+Registrar IANA ID: 3786
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4805058800
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns-cloud-e1.googledomains.com
+Name Server: ns-cloud-e2.googledomains.com
+Name Server: ns-cloud-e3.googledomains.com
+Name Server: ns-cloud-e4.googledomains.com
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-07-16T23:53:19.920Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.

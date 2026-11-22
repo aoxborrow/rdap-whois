@@ -1,0 +1,37 @@
+{
+  "query": "concesionarios.seat",
+  "server": "whois.nic.seat",
+  "domainId": "Dnmwk777-SEAT",
+  "domainName": "concesionarios.seat",
+  "creationDate": "2020-11-24T11:06:22Z",
+  "expirationDate": "2026-11-24T11:06:22Z",
+  "updatedDate": "2026-01-08T12:00:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a1-210.akam.net",
+    "a9-66.akam.net",
+    "a10-65.akam.net",
+    "a11-64.akam.net",
+    "a14-67.akam.net",
+    "a28-64.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "15",
+  "registrarIanaId": 15,
+  "registrarName": "COREhub",
+  "registrarUrl": "http://corehub.net",
+  "registrarAbuseEmail": "abuse@corehub.net",
+  "registrarAbusePhone": "+34.935275235",
+  "registrarWhoisServer": "whois.corehub.net",
+  "registrantOrg": "SEAT S.A.",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

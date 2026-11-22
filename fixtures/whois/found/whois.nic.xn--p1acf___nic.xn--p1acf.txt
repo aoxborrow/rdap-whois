@@ -1,0 +1,38 @@
+###%%% QRY: nic.xn--p1acf
+###%%% SRV: whois.nic.xn--p1acf
+###%%% TME: 2025-03-20T16:25:50Z
+
+Domain Name: nic.рус
+Registry Domain ID: 8-CoCCA
+Registrar URL: http://rusnames.ru/
+Updated Date: 2025-03-04T19:48:22Z
+Creation Date: 2014-10-02T20:45:48Z
+Registry Expiry Date: 2023-10-02T20:45:48Z
+Registrar Registration Expiration Date: 2023-10-02T20:45:48Z
+Registrar: RUSNAMES LIMITED
+Registrar IANA ID: 9999
+Registrar Street Address: 17 Moskowskoye shosse str, office 2103
+Registrar City: Samara, Russia
+Registrar Country: RU
+Registrar Phone: +79649772117
+Registrar Fax: +7(846)3799039
+Registrar Email: alexeisozonov@rusnames.ru
+Registrar Abuse Contact Email: abuse@rusnames.ru
+Registrar Abuse Contact Phone: +79649772117
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Registry Registrant ID: 6-CoCCA
+Name Server: desec2.nic.xn--p1acf
+Name Server: desec1.nic.xn--p1acf
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-20T16:25:50.769Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to Rusnames  it's members The compilation, repackaging, dissemination or other use of this data is expressly prohibited.

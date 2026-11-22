@@ -1,0 +1,82 @@
+###%%% QRY: prostoporno.yachts
+###%%% SRV: whois.directnic.com
+###%%% TME: 2026-11-22T08:11:24Z
+
+Domain Name: PROSTOPORNO.YACHTS
+Registry Domain ID: D495694902-CNIC
+Registrar WHOIS Server: whois.directnic.com
+Registrar URL: http://www.directnic.com
+Updated Date: 2025-12-03T01:12:10Z
+Creation Date: 2024-10-21T19:20:43Z
+Registrar Registration Expiration Date: 2025-10-22T18:59:59Z
+Registrar: DNC Holdings, Inc
+Registrar IANA ID: 291
+Registrar Abuse Contact Email: abuse@directnic.com
+Registrar Abuse Contact Phone: +1.5043550081
+Domain Status: pendingDelete (https://www.icann.org/epp#pendingDelete)
+Domain Status: serverHold (https://www.icann.org/epp#serverHold)
+Domain Status: serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: redemptionPeriod (https://www.icann.org/epp#redemptionPeriod)
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY 
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Kemerovskaya Oblast'
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: RU
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: 
+Registrant Email: webmaster@tube36.com
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY 
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: 
+Admin Email: webmaster@tube36.com
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY 
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: 
+Tech Email: webmaster@tube36.com
+Name Server: EXPIRED-DOMAIN-NS50.DIRECTNIC.COM
+Name Server: EXPIRED-DOMAIN-NS51.DIRECTNIC.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2026-11-21T20:11:24Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+
+The compilation, repackaging, dissemination, or other use of this WHOIS
+data is expressly prohibited without the prior written consent of
+The Producers, Inc.
+
+The Producers reserves the right to terminate your access to its WHOIS
+database in its sole discretion, including without limitation, for
+excessive querying of the database or for failure to otherwise abide by
+this policy.
+
+The Producers reserves the right to modify these terms at any time.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.
+LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

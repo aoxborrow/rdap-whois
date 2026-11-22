@@ -1,0 +1,29 @@
+###%%% QRY: gamer.com.tw
+###%%% SRV: whois.twnic.net.tw
+###%%% TME: 2026-07-16T11:45:33Z
+
+Domain Name: gamer.com.tw
+   Domain Status: ok
+   Registrant:
+      旺普網路資訊股份有限公司
+      Oneup Network Corp.
+      pr@gamer.com.tw
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2028-09-10 00:00:00 (UTC+8)
+   Record created on 2000-07-10 10:21:10 (UTC+8)
+
+   Domain servers in listed order:
+      greg.ns.cloudflare.com        
+      jessica.ns.cloudflare.com     
+
+Registration Service Provider: TWNIC
+Registration Service URL: https://rs.twnic.tw/
+Registrar Abuse Contact Email: abuse@twnic.tw

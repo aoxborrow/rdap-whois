@@ -1,0 +1,90 @@
+###%%% QRY: de.vu
+###%%% SRV: whois.dnrs.vu
+###%%% TME: 2026-07-16T11:38:20Z
+
+Domain Name: de.vu
+Registry Domain ID: DD7DA9BFDCF1A4ADC89BABA1DB20F19FA-NSR
+Registrar WHOIS Server: whois.puredomain.com
+Registrar URL: www.puredomain.com
+Updated Date: 2025-07-22T22:04:14Z
+Creation Date: 2012-06-07T10:04:14Z
+Registry Expiry Date: 2026-06-07T22:04:14Z
+Registrar: Variomedia AG
+Registrar IANA ID: 1257
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: ok https://icann.org/epp#ok
+Domain Status: autoRenewPeriod https://icann.org/epp#autoRenewPeriod
+Registry Registrant ID: C6C07F488EF0148F18AD8B043C2BFA5C9-NSR
+Registrant Name: Juergen Riedel
+Registrant Organization: SuedwestMedia
+Registrant Street: Maybachstr. 39
+Registrant Street:
+Registrant Street:
+Registrant City: Stuttgart
+Registrant State/Province:
+Registrant Postal Code: 70469
+Registrant Country: DE
+Registrant Phone: +49.7112865799
+Registrant Phone Ext:
+Registrant Fax: +49.721151353711
+Registrant Fax Ext:
+Registrant Email: info@citymedia.de
+Registry Admin ID: C6C07F488EF0148F18AD8B043C2BFA5C9-NSR
+Admin Name: Juergen Riedel
+Admin Organization: SuedwestMedia
+Admin Street: Maybachstr. 39
+Admin Street:
+Admin Street:
+Admin City: Stuttgart
+Admin State/Province:
+Admin Postal Code: 70469
+Admin Country: DE
+Admin Phone: +49.7112865799
+Admin Phone Ext:
+Admin Fax: +49.721151353711
+Admin Fax Ext:
+Admin Email: info@citymedia.de
+Registry Tech ID: C5ABFD60044284DED87A5FCF3271B89ED-ARI
+Tech Name: Marten Lehmann
+Tech Organization: Variomedia AG
+Tech Street: August-Bebel-Strasse 68
+Tech Street:
+Tech Street:
+Tech City: Potsdam
+Tech State/Province:
+Tech Postal Code: 14482
+Tech Country: DE
+Tech Phone: +49.331237890
+Tech Phone Ext:
+Tech Fax: +49.3312378959
+Tech Fax Ext:
+Tech Email: lehmann@variomedia.de
+Name Server: ns1.variomedia.de
+Name Server: ns2.variomedia.de
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:38:21Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Service is provided so that you may look up certain information in relation to domain names that we store in our database.
+
+Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy.
+
+The information provided by this Service is 'as is' and we make no guarantee of it its accuracy.
+
+You agree that by your use of the Service you will not use the information provided by us in a way which is:
+* inconsistent with any applicable laws,
+* inconsistent with any policy issued by us,
+* to generate, distribute, or facilitate unsolicited mass email, promotions, advertisings or other solicitations, or
+* to enable high volume, automated, electronic processes that apply to the Service.
+
+You acknowledge that:
+* a response from the Service that a domain name is 'available', does not guarantee that is able to be registered,
+* we may restrict, suspend or terminate your access to the Service at any time, and
+* the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is not permitted, without our express written consent.
+
+This information has been prepared and published in order to represent administrative and technical management of the TLD.
+
+We may discontinue or amend any part or the whole of these Terms of Service from time to time at our absolute discretion.

@@ -1,0 +1,32 @@
+###%%% QRY: archive.is
+###%%% SRV: whois.isnic.is
+###%%% TME: 2026-11-22T08:13:58Z
+
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See https://www.isnic.is/en/about/copyright
+
+domain:       archive.is
+registrant:   DP36-IS
+admin-c:      DP36-IS
+tech-c:       DP36-IS
+zone-c:       DP36-IS
+billing-c:    DP36-IS
+nserver:      carl.archive.is
+nserver:      elsa.archive.li
+nserver:      dave.archive.ph
+dnssec:       unsigned delegation
+created:      May 16 2012
+expires:      May 16 2028
+source:       ISNIC 
+
+person:       Denis Petrov
+nic-hdl:      DP36-IS
+address:      Bilkova 16
+address:      Prague, Stare Mesto 11000
+address:      CZ
+phone:        +420 775168924
+e-mail:       domains@dns.li
+created:      May 16 2012
+source:       ISNIC

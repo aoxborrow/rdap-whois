@@ -1,0 +1,32 @@
+{
+  "query": "nic.charity",
+  "server": "whois.nic.charity",
+  "domainId": "REDACTED",
+  "domainName": "nic.charity",
+  "creationDate": "2018-04-18T17:20:04Z",
+  "expirationDate": "2027-04-18T17:20:04Z",
+  "updatedDate": "2026-08-12T01:43:24Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "v0n0.nic.charity",
+    "v0n1.nic.charity",
+    "v0n2.nic.charity",
+    "v0n3.nic.charity",
+    "v2n0.nic.charity",
+    "v2n1.nic.charity"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "PIR Internal (9999)",
+  "registrarUrl": "https://thenew.org",
+  "registrarAbuseEmail": "cbath@pir.org",
+  "registrarAbusePhone": "+1.1234567890",
+  "registrarWhoisServer": "whois.publicinterestregistry.org"
+}

@@ -1,0 +1,18 @@
+###%%% QRY: likexian-have-no-money-to-register.pl
+###%%% SRC: likexian/whois-parser@2426ff1e36f7540b2e0e7f69324cbe2091f5b278 testdata/notfound/pl_likexian-have-no-money-to-register.pl
+###%%% LIC: Apache-2.0 — Copyright 2014-2026 Li Kexian
+###%%% NOTE: vendored fixture (current through 2026) — validates the ENGINE, not today's registry output
+No information available about domain name likexian-have-no-money-to-register.pl in the Registry NASK database.
+
+
+
+
+
+
+
+
+WHOIS database responses: https://dns.pl/en/whois
+
+
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system

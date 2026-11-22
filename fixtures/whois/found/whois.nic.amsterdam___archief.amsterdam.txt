@@ -1,0 +1,78 @@
+###%%% QRY: archief.amsterdam
+###%%% SRV: whois.nic.amsterdam
+###%%% TME: 2026-07-16T11:39:58Z
+
+Domain Name: archief.amsterdam
+Registry Domain ID: DNM_100844-SIDN
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.key-systems.net/tld/amsterdam
+Updated Date: 2026-05-29T00:15:47Z
+Creation Date: 2015-05-29T07:52:22Z
+Registry Expiry Date: 2027-05-29T07:52:22Z
+Registrar: Key-Systems LLC
+Registrar IANA ID: 1345
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: IT Department
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province:
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: NL
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province:
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province:
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant of the queried domain name
+Name Server: ns0.transip.net
+Name Server: ns1.transip.nl
+Name Server: ns2.transip.eu
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:39:58Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp.
+
+Record maintained by: SIDN BV
+
+Terms of use: No part of this publication may be reproduced,
+published, stored in a retrieval system, or transmitted, in any form
+or by any means, electronic, mechanical, recording, or otherwise,
+without prior permission of the City of Amsterdam. These restrictions
+apply equally to registrars, except in that reproductions and
+publications are permitted insofar as they are reasonable, necessary
+and solely in the context of the registration activities referred to
+in the Registrar Agreement. Any use of this material for advertising,
+targeting commercial offers or similar activities is explicitly
+forbidden and liable to result in legal action. Anyone who is aware or
+suspects that such activities are taking place is asked to inform the
+City of Amsterdam.

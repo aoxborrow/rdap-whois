@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.gea
+###%%% SRV: whois.nic.gea
+###%%% TME: 2025-03-20T16:13:25Z
+
+The queried object does not exist: domain notfound-testing-sorry.gea

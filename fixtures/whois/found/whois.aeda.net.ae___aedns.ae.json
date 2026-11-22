@@ -1,0 +1,25 @@
+{
+  "query": "aedns.ae",
+  "server": "whois.aeda.net.ae",
+  "domainName": "aedns.ae",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.aedns.ae",
+    "ns2.aedns.ae",
+    "nsext-pch.aedns.ae",
+    "sns-pb.isc.org"
+  ],
+  "registrarId": "aeDA Registry",
+  "registrarName": "aeDA Registry",
+  "registrantId": "R123659",
+  "registrantName": "Telecommunications Regulatory Authority",
+  "techId": "C157151",
+  "techName": ".ae Domain Administration"
+}

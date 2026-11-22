@@ -1,0 +1,42 @@
+{
+  "query": "longueuil.quebec",
+  "server": "whois.nic.quebec",
+  "domainId": "D11239-QUEBEC",
+  "domainName": "longueuil.quebec",
+  "creationDate": "2015-05-12T19:29:47Z",
+  "expirationDate": "2035-05-12T19:29:47Z",
+  "updatedDate": "2026-04-15T13:06:59Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited"
+  ],
+  "nameservers": [
+    "ns1-05.azure-dns.com",
+    "ns2-05.azure-dns.net",
+    "ns3-05.azure-dns.org",
+    "ns4-05.azure-dns.info"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "https://godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "www.godaddy.com",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantState": "Arizona",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

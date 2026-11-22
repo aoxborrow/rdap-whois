@@ -1,0 +1,69 @@
+{
+  "query": "topmovies.beer",
+  "server": "whois.opensrs.net",
+  "domainId": "DCBA58FA6BE8F4538AF0A596DC0E98A54-GDREG",
+  "domainName": "topmovies.beer",
+  "creationDate": "2025-01-11T15:04:28Z",
+  "expirationDate": "2026-01-11T15:04:28Z",
+  "registrarExpirationDate": "2026-01-11T15:04:28Z",
+  "updatedDate": "2025-01-12T16:31:12Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "anahi.ns.cloudflare.com",
+    "jimmy.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "TUCOWS, INC.",
+  "registrarUrl": "http://tucowsdomains.com",
+  "registrarAbuseEmail": "domainabuse@tucows.com",
+  "registrarAbusePhone": "+1.4165350123",
+  "registrarWhoisServer": "whois.tucows.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Charlestown",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "KN",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://tieredaccess.com/contact/f2f598ea-934c-40da-a679-8c2a6905e334",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY"
+}

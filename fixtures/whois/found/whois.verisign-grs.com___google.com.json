@@ -1,0 +1,40 @@
+{
+  "query": "google.com",
+  "server": "whois.verisign-grs.com",
+  "domainId": "2138514_DOMAIN_COM-VRSN",
+  "domainName": "google.com",
+  "creationDate": "1997-09-15T04:00:00Z",
+  "expirationDate": "2028-09-14T04:00:00Z",
+  "updatedDate": "2019-09-09T15:39:04Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com"
+}

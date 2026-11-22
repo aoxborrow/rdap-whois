@@ -1,0 +1,35 @@
+{
+  "query": "nic.vi",
+  "server": "virgil.nic.vi",
+  "domainId": "24012-VI",
+  "domainName": "nic.vi",
+  "creationDate": "1998-04-26T04:00:00Z",
+  "updatedDate": "2024-02-17T12:40:03Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited"
+  ],
+  "nameservers": [
+    "ns3.nic.vi",
+    "pch.nic.vi"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Nic VI"
+}

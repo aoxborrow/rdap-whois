@@ -1,0 +1,8 @@
+###%%% QRY: lordfilm.limo
+###%%% SRV: whois.regtime.net
+###%%% TME: 2025-03-20T18:15:08Z
+
+It is our policy not to return whois information for domains 
+owned by other registrars.
+
+Domain lordfilm.limo not found

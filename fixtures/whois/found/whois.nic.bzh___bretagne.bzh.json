@@ -1,0 +1,80 @@
+{
+  "query": "bretagne.bzh",
+  "server": "whois.nic.bzh",
+  "domainId": "DOM000000129397-BZH",
+  "domainName": "bretagne.bzh",
+  "creationDate": "2014-12-03T11:41:10Z",
+  "expirationDate": "2028-12-03T11:41:10Z",
+  "updatedDate": "2025-11-20T13:53:05Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "clint.ns.cloudflare.com",
+    "treasure.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1345",
+  "registrarIanaId": 1345,
+  "registrarName": "KEY-SYSTEMS LLC",
+  "registrarUrl": "https://www.key-systems.net/en/tld/bzh",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net",
+  "registrantId": "REDACTED_FOR_PRIVACY",
+  "registrantName": "REDACTED_FOR_PRIVACY",
+  "registrantOrg": "REGION BRETAGNE",
+  "registrantAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "registrantCity": "REDACTED_FOR_PRIVACY",
+  "registrantState": "REDACTED_FOR_PRIVACY",
+  "registrantPostalCode": "REDACTED_FOR_PRIVACY",
+  "registrantCountry": "REDACTED_FOR_PRIVACY",
+  "registrantPhone": "REDACTED_FOR_PRIVACY",
+  "registrantFax": "REDACTED_FOR_PRIVACY",
+  "registrantEmail": "REDACTED_FOR_PRIVACY",
+  "adminId": "REDACTED_FOR_PRIVACY",
+  "adminName": "REDACTED_FOR_PRIVACY",
+  "adminOrg": "SOLIDNAMES",
+  "adminAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "adminCity": "REDACTED_FOR_PRIVACY",
+  "adminState": "REDACTED_FOR_PRIVACY",
+  "adminPostalCode": "REDACTED_FOR_PRIVACY",
+  "adminCountry": "REDACTED_FOR_PRIVACY",
+  "adminPhone": "REDACTED_FOR_PRIVACY",
+  "adminFax": "REDACTED_FOR_PRIVACY",
+  "adminEmail": "REDACTED_FOR_PRIVACY",
+  "techId": "REDACTED_FOR_PRIVACY",
+  "techName": "REDACTED_FOR_PRIVACY",
+  "techOrg": "SOLIDNAMES",
+  "techAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "techCity": "REDACTED_FOR_PRIVACY",
+  "techState": "REDACTED_FOR_PRIVACY",
+  "techPostalCode": "REDACTED_FOR_PRIVACY",
+  "techCountry": "REDACTED_FOR_PRIVACY",
+  "techPhone": "REDACTED_FOR_PRIVACY",
+  "techFax": "REDACTED_FOR_PRIVACY",
+  "techEmail": "REDACTED_FOR_PRIVACY",
+  "billingId": "REDACTED_FOR_PRIVACY",
+  "billingName": "REDACTED_FOR_PRIVACY",
+  "billingOrg": "SOLIDNAMES",
+  "billingAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "billingCity": "REDACTED_FOR_PRIVACY",
+  "billingState": "REDACTED_FOR_PRIVACY",
+  "billingPostalCode": "REDACTED_FOR_PRIVACY",
+  "billingCountry": "REDACTED_FOR_PRIVACY",
+  "billingPhone": "REDACTED_FOR_PRIVACY",
+  "billingFax": "REDACTED_FOR_PRIVACY",
+  "billingEmail": "REDACTED_FOR_PRIVACY"
+}

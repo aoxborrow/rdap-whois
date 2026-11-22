@@ -1,0 +1,5 @@
+###%%% QRY: nic.xn--wgbl6a
+###%%% SRV: whois.registry.qa
+###%%% TME: 2026-07-14T10:47:35Z
+
+No Data Found

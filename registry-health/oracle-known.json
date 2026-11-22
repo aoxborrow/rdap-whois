@@ -1,0 +1,2162 @@
+{
+  "whois.acens.net|registrar_abuse_phone|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.akky.mx|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.akky.mx|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.akky.mx|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.amnic.net|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.amnic.net|admin_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.amnic.net|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.amnic.net|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.amnic.net|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.amnic.net|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.ati.tn|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.ati.tn|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ati.tn|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ax|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.ax|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.biz.ua|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.biz.ua|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.bnnic.bn|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.bnnic.bn|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.bnnic.bn|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.bnnic.bn|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.bnnic.bn|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.bnnic.bn|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.cctld.by|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.cctld.by|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.cctld.uz|admin_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.cctld.uz|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.cctld.uz|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.cctld.uz|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.cctld.uz|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.cnnic.cn|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.co.ua|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.co.ua|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.co.ug|updated_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.denic.de|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dns.be|registrant_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dns.be|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.dns.be|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.dns.lu|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dns.lu|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dns.lu|status|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dns.pl|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.dns.pt|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.dns.pt|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.domain.com|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.domain.com|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.domain.com|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.domains.co.za|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.domains.co.za|registrar_abuse_phone|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.domreg.lt|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.domreg.lt|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.dotukr.com|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dotukr.com|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dotukr.com|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dotukr.com|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dotukr.com|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dotukr.com|status|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.dotukr.com|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.easydns.com|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.easydns.com|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.easydns.com|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.easyspace.com|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.easyspace.com|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.easyspace.com|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.educause.edu|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.educause.edu|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.eenet.ee|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.eenet.ee|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.eenet.ee|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.eu|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.eu|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.fi|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.fi|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.fi|tech_email|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.fi|tech_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.gg|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.gg|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.gg|registrar_url|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.gov.za|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|creation_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.gov.za|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.hkirc.hk|admin_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.hkirc.hk|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.hkirc.hk|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.iana.org|admin_email|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 8
+  },
+  "whois.iana.org|admin_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 8
+  },
+  "whois.iana.org|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.iana.org|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 9
+  },
+  "whois.iana.org|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.iana.org|registrar_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 9
+  },
+  "whois.iana.org|tech_email|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 8
+  },
+  "whois.iana.org|tech_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 8
+  },
+  "whois.id|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.id|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.iis.nu|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.iis.se|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.inregistry.net|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.isnic.is|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.isnic.is|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.isnic.is|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isnic.is|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isnic.is|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isnic.is|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.isnic.is|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.isoc.org.il|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isoc.org.il|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.isoc.org.il|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isoc.org.il|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isoc.org.il|registrar_url|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.isoc.org.il|updated_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ja.net|creation_date|we-extra": {
+    "firstSeen": "2026-08-31T19:46:50.382Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.ja.net|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.ja.net|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.ja.net|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.je|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.je|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.je|registrar_url|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.jprs.jp|admin_email|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.jprs.jp|admin_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.jprs.jp|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.jprs.jp|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.jprs.jp|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.kg|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.kg|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.kg|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.kg|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.kg|status|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.kg|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.kg|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.kg|updated_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.kr|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.kr|dnssec|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.kr|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.kr|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.kr|registrar_url|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.marnet.mk|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.marnet.mk|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.marnet.mk|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.marnet.mk|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.marnet.mk|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.marnet.mk|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mediaserv.net|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mx|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mx|status|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.mx|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nameshield.net|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nameshield.net|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nameshield.net|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nc|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.ar|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.ar|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.as|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.as|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.as|registrar_abuse_phone|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.as|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.as|registrar_url|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.at|domain_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.at|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.at|registrant_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.at|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.at|tech_email|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.at|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.auspost|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.aw|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.bo|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.bo|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.catholic|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ch|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ch|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ch|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ch|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ch|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.cr|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.cr|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.cr|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.cr|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.cr|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.cr|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.cr|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.cr|updated_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.cz|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.cz|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.dz|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.fr|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.fr|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.fr|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.fr|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ge|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.it|dnssec|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.it|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.it|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.krd|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.kz|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.kz|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.kz|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.kz|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.kz|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.kz|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.kz|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.li|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.li|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ls|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.ls|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.ls|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.ls|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ls|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.ls|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.ls|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.ls|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.ls|updated_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.lv|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.lv|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.lv|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.lv|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.ly|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.md|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.md|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.md|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.md|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.md|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.md|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.md|status|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.mw|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.mw|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.mw|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.mw|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.mw|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.mw|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.mw|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.mw|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.net.sa|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.org.uy|creation_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.org.uy|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.pm|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.pm|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.pm|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.pm|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.pm|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.priv.at|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.priv.at|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.priv.at|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.priv.at|updated_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.re|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.re|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.re|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.re|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.re|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.sm|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sm|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sm|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sm|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sm|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|admin_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|domain_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|status|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.sn|updated_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.st|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.st|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.st|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.tf|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.tf|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.tf|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.tf|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.tf|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.tf|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.tg|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.tg|domain_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.tg|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.tg|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.tg|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.tg|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.tg|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.nic.tm|expiration_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.tm|nameservers|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.tr|registrar_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.tr|updated_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.uk|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.uk|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.uk|registrar_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.uk|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ve|registrant_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.nic.ve|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.ve|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.ve|updated_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.wf|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.wf|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.wf|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.nic.wf|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.wf|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.nic.xn--80aqecdr1a|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.xn--mgbi4ecexp|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.xn--tiq49xqyj|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.yt|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.yt|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.yt|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.yt|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.nic.yt|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.nic.yt|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.norid.no|domain_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.norid.no|registrar_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.opensrs.net|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.opensrs.net|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.opensrs.net|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.ovh.com|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.pandi.or.id|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.pandi.or.id|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.pp.ua|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.pp.ua|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.register.bg|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.register.si|registrant_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.register.si|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.registre.bf|registrar_url|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.registro.br|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.registro.br|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.registry.gy|nameservers|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.hm|creation_date|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.hm|tech_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|creation_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|domain_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|nameservers|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|registrar_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|tech_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.pf|updated_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.registry.qa|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.registry.qa|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.registry.qa|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.rnids.rs|dnssec|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.rnids.rs|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.rotld.ro|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.sk-nic.sk|expiration_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.sk-nic.sk|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.sk-nic.sk|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 3
+  },
+  "whois.sk-nic.sk|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.sk-nic.sk|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.sk-nic.sk|registrar_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.sk-nic.sk|registrar_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.sk-nic.sk|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.srs.net.nz|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.srs.net.nz|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.srs.net.nz|status|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.srs.net.nz|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.sr|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.tcinet.ru|admin_email|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.tcinet.ru|admin_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.tcinet.ru|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.thnic.co.th|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.thnic.co.th|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.tld.ee|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.tld.ee|registrant_org|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.tld.ee|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.trabis.gov.tr|nameservers|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.trabis.gov.tr|registrar_id|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.trabis.gov.tr|updated_date|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.twnic.net.tw|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.twnic.net.tw|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 6
+  },
+  "whois.twnic.net.tw|expiration_date|value-mismatch": {
+    "firstSeen": "2026-08-31T19:46:50.382Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.twnic.net.tw|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.twnic.net.tw|registrant_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.twnic.net.tw|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.twnic.net.tw|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 2
+  },
+  "whois.twnic.net.tw|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.twnic.net.tw|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 7
+  },
+  "whois.tznic.or.tz|registrant_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.tznic.or.tz|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.tznic.or.tz|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ua|admin_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.ua|creation_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ua|expiration_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ua|registrant_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.ua|registrant_org|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.ua|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ua|registrar_abuse_phone|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ua|registrar_id|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ua|status|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.ua|tech_email|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.ua|tech_name|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 4
+  },
+  "whois.ua|updated_date|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 5
+  },
+  "whois.ukraine.com.ua|dnssec|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.usp.ac.fj|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.usp.ac.fj|registrant_org|we-missing": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.usp.ac.fj|status|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.net|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.net|admin_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.net|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.net|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.net|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.net|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.org|admin_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.org|admin_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.org|registrant_country|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.org|registrant_name|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.org|tech_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "whois.za.org|tech_name|value-mismatch": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  },
+  "www.whois.fj|registrar_abuse_email|we-extra": {
+    "firstSeen": "2026-07-31T07:59:50.707Z",
+    "lastSeen": "2026-11-16T23:26:48.391Z",
+    "count": 1
+  }
+}

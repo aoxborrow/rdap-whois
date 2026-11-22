@@ -1,0 +1,76 @@
+###%%% QRY: google.bf
+###%%% SRV: whois.registre.bf
+###%%% TME: 2026-11-22T08:08:37Z
+
+Domain Name: google.bf
+Registry Domain ID: 1286-BFA
+Registry WHOIS Server: whois.registre.bf
+Registrar URL: RegistrarURL
+Updated Date: 2026-04-27T13:29:34.973Z
+Creation Date: 2021-01-01T00:00:00.0Z
+Registry Expiry Date: 2027-04-25T00:00:00.0Z
+Registrar Registration Expiration Date: 2027-04-25T00:00:00.0Z
+Registrar: AFRIREGISTER BURKINA
+Registrar Abuse Contact Email: admin@afriregister.bf
+Registrar Abuse Contact Phone: +226.76590185
+Registrar Country: BF
+Registrar Phone: +226.76590185
+Registrar Admin Contact: BE AFRIREGISTER BURKINA
+Registrar Admin Email: admin@afriregister.bf
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: lPsS0-Wrcvo
+Registrant Name: Redacted | Registry Policy
+Registrant Organization: Google LLC
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94043
+Registrant Country: US
+Registrant Phone: Redacted | Registry Policy
+Registrant Fax: Redacted | Registry Policy
+Registrant Email: Redacted | Registry Policy
+Registry Admin ID: NL3SQ-EDvgu
+Admin Name: Redacted | Registry Policy
+Admin Organization: Google LLC
+Admin Street: Redacted | Registry Policy
+Admin City: Redacted | Registry Policy
+Admin State/Province: Redacted | Registry Policy
+Admin Postal Code: Redacted | Registry Policy
+Admin Country: US
+Admin Phone: Redacted | Registry Policy
+Admin Fax: Redacted | Registry Policy
+Admin Email: Redacted | Registry Policy
+Registry Tech ID: 0XXVf-YUslM
+Tech Name: Redacted | Registry Policy
+Tech Organization: Google LLC
+Tech Street: Redacted | Registry Policy
+Tech City: Redacted | Registry Policy
+Tech State/Province: Redacted | Registry Policy
+Tech Postal Code: Redacted | Registry Policy
+Tech Country: US
+Tech Phone: Redacted | Registry Policy
+Tech Fax: Redacted | Registry Policy
+Tech Email: Redacted | Registry Policy
+Registry Billing ID: rxfPk-As0OG
+Billing Name: Redacted | Registry Policy
+Billing Organization: Markmonitor Inc.
+Billing Street: Redacted | Registry Policy
+Billing City: Redacted | Registry Policy
+Billing State/Province: Redacted | Registry Policy
+Billing Postal Code: Redacted | Registry Policy
+Billing Country: US
+Billing Phone: Redacted | Registry Policy
+Billing Fax: Redacted | Registry Policy
+Billing Email: Redacted | Registry Policy
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T08:00:01.475Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.aw
+###%%% SRV: whois.nic.aw
+###%%% TME: 2025-03-20T16:23:50Z
+
+notfound-testing-sorry.aw is free

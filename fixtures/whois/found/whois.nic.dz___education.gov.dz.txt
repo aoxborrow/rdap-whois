@@ -1,0 +1,18 @@
+###%%% QRY: education.gov.dz
+###%%% SRV: whois.nic.dz
+###%%% TME: 2026-07-16T11:41:03Z
+
+% This is the WHOIS server for Example Registry.
+% Queries are subject to terms of use.
+%
+Domain Name:    EDUCATION.GOV.DZ
+Registrar:      djaweb
+Registrant:     Ministère de l'Education Nationale
+Admin Name:    MOUAICI Mohamed
+Admin Email:      mouaci@univ-mosta.dz
+Tech Name:   MOUAICI Mohamed
+Tech Email:     mouaci@univ-mosta.dz
+Creation Date:  2013-04-25
+Expiry Date:    N/A
+
+% Query served at 2026-07-16T12:40:38.090860557+01:00

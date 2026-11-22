@@ -1,0 +1,16 @@
+###%%% QRY: daraz.pk
+###%%% SRV: whois.pknic.net.pk
+###%%% TME: 2026-07-16T11:17:23Z
+
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: daraz.pk
+    Status: Domain is Registered
+    
+
+    Creation Date: 2012-05-14
+    Expiry Date: 2028-05-14
+    Name Server: ns1.alibabadns.com
+    Name Server: ns2.alibabadns.com
+    Name Server: 
+    Name Server:

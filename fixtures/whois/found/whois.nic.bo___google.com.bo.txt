@@ -1,0 +1,46 @@
+###%%% QRY: google.com.bo
+###%%% SRV: whois.nic.bo
+###%%% TME: 2026-11-22T08:25:18Z
+
+Dominio: google.com.bo
+
+TITULAR:
+Email: dns-admin en google.com
+Pais: Estados Unidos de America
+Ciudad: Mountain View
+Direccion: 1600 Amphitheatre Parkway
+Telefono: 16502530000
+
+
+CONTACTO ADMINISTRATIVO:
+Nombre: Domain Administrator
+Email: dns-admin en google.com
+Pais: Estados Unidos de America
+Ciudad: Mountain View, CA
+Direccion: 1600 Amphitheatre Parkway
+Telefono: 16502530000
+
+
+CONTACTO TECNICO:
+Nombre: Domain
+Email: ccops en markmonitor.com
+Pais: Estados Unidos de America
+Ciudad: Meridian
+Direccion: 3540 East Longwing Lane Suite 300
+Telefono: 12083895740
+
+
+CONTACTO FINANCIERO:
+Nombre: Domain
+Email: ccops en markmonitor.com
+Pais: Estados Unidos de America
+Ciudad: Meridian
+Direccion: 3540 East Longwing Lane Suite 300
+Telefono: 12083895740
+
+
+Fecha de registro: 2019-01-15
+Fecha de vencimiento: 2027-01-15
+
+
+whois.nic.bo solo acepta consultas con dominios .bo

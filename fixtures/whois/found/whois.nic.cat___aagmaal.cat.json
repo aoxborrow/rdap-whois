@@ -1,0 +1,31 @@
+{
+  "query": "aagmaal.cat",
+  "server": "whois.nic.cat",
+  "domainId": "Daufc311047-CAT",
+  "domainName": "aagmaal.cat",
+  "creationDate": "2024-12-30T15:55:25Z",
+  "expirationDate": "2027-12-30T15:55:25Z",
+  "updatedDate": "2026-05-17T16:14:38Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ignat.ns.cloudflare.com",
+    "perla.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "Namecheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrantState": "Jawa Barat",
+  "registrantCountry": "ID",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

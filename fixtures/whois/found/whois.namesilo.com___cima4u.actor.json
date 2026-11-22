@@ -1,0 +1,62 @@
+{
+  "query": "cima4u.actor",
+  "server": "whois.namesilo.com",
+  "domainId": "6f88e0dce3e7404da0c135d119350cba-DONUTS",
+  "domainName": "cima4u.actor",
+  "creationDate": "2024-10-15T07:00:00Z",
+  "expirationDate": "2025-10-15T07:00:00Z",
+  "registrarExpirationDate": "2025-10-15T07:00:00Z",
+  "updatedDate": "2025-03-18T07:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ian.ns.cloudflare.com",
+    "samara.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1479",
+  "registrarIanaId": 1479,
+  "registrarName": "NameSilo, LLC",
+  "registrarUrl": "https://www.namesilo.com",
+  "registrarAbuseEmail": "abuse@namesilo.com",
+  "registrarAbusePhone": "+1.4805240066",
+  "registrarWhoisServer": "whois.namesilo.com",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "See PrivacyGuardian.org",
+  "registrantAddress": [
+    "1928 E. Highland Ave. Ste F104 PMB# 255"
+  ],
+  "registrantCity": "Phoenix",
+  "registrantState": "AZ",
+  "registrantPostalCode": "85016",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.3478717726",
+  "registrantEmail": "pwp-40a0fe757fdc71c6202216963419b0ca@privacyguardian.org",
+  "adminName": "Domain Administrator",
+  "adminOrg": "See PrivacyGuardian.org",
+  "adminAddress": [
+    "1928 E. Highland Ave. Ste F104 PMB# 255"
+  ],
+  "adminCity": "Phoenix",
+  "adminState": "AZ",
+  "adminPostalCode": "85016",
+  "adminCountry": "US",
+  "adminPhone": "+1.3478717726",
+  "adminEmail": "pwp-40a0fe757fdc71c6202216963419b0ca@privacyguardian.org",
+  "techName": "Domain Administrator",
+  "techOrg": "See PrivacyGuardian.org",
+  "techAddress": [
+    "1928 E. Highland Ave. Ste F104 PMB# 255"
+  ],
+  "techCity": "Phoenix",
+  "techState": "AZ",
+  "techPostalCode": "85016",
+  "techCountry": "US",
+  "techPhone": "+1.3478717726",
+  "techEmail": "pwp-40a0fe757fdc71c6202216963419b0ca@privacyguardian.org"
+}

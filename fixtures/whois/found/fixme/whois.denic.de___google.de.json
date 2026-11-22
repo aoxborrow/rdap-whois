@@ -1,0 +1,15 @@
+{
+  "query": "google.de",
+  "server": "whois.denic.de",
+  "domainName": "google.de",
+  "updatedDate": "2018-03-12T21:44:25Z",
+  "status": [
+    "connect"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ]
+}

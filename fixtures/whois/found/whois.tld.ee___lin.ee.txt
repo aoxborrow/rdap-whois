@@ -1,0 +1,52 @@
+###%%% QRY: lin.ee
+###%%% SRV: whois.tld.ee
+###%%% TME: 2026-07-16T11:45:31Z
+
+Search results may not be used for commercial, advertising, recompilation,
+repackaging, redistribution, reuse, obscuring or other similar activities.
+
+Estonia .ee Top Level Domain WHOIS server
+
+Domain:
+name:       lin.ee
+status:     ok (paid and in zone)
+registered: 2014-09-26 10:20:08 +03:00
+changed:    2025-09-08 21:40:08 +03:00
+expire:     2026-09-27
+outzone:    
+delete:     
+
+Registrant:
+name:       LY Corporation
+org id:     0104-01-039979
+country:    JP
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+phone:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2025-09-08 21:40:08 +03:00
+
+Administrative contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Technical contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Registrar:
+name:       Zone Media OÜ
+url:        http://www.zone.ee
+phone:      +372 6886886
+changed:    2020-07-01 13:55:58 +03:00
+
+Name servers:
+nserver:   ns1.naver.jp
+nserver:   ns2.naver.jp
+nserver:   ans2.linecorp.com
+nserver:   ans1.linecorp.com
+changed:   2024-12-10 17:05:08 +02:00
+
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

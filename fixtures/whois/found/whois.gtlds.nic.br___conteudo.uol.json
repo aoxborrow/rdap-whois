@@ -1,0 +1,65 @@
+{
+  "query": "conteudo.uol",
+  "server": "whois.gtlds.nic.br",
+  "domainId": "D1409-UOL",
+  "domainName": "conteudo.uol",
+  "creationDate": "2016-01-21T18:31:27Z",
+  "expirationDate": "2025-01-21T18:31:27Z",
+  "updatedDate": "2024-03-04T13:59:01Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "borges.uol.com.br",
+    "charles.uol.com.br",
+    "eliot.uol.com.br"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "NIC.br New gTLD Back-End Registry Services",
+  "registrarUrl": "http://gtlds.nic.br",
+  "registrarAbuseEmail": "novossufixos@registro.br",
+  "registrarAbusePhone": "+55.1155093511",
+  "registrarWhoisServer": "whois.gtlds.nic.br",
+  "registrantId": "C5R3-NICBR",
+  "registrantName": "UBN INTERNET LTDA.",
+  "registrantOrg": "03.629.758/0001-81",
+  "registrantAddress": [
+    "Av. Marcos Penteado Ulhoa Rodrigues 700"
+  ],
+  "registrantCity": "Santana do Parnaba",
+  "registrantState": "SP",
+  "registrantPostalCode": "06543-001",
+  "registrantCountry": "BR",
+  "registrantPhone": "+55.1130388627",
+  "registrantEmail": "l-adm-dns@uolinc.com",
+  "adminId": "C5R3-NICBR",
+  "adminName": "UBN INTERNET LTDA.",
+  "adminOrg": "03.629.758/0001-81",
+  "adminAddress": [
+    "Av. Marcos Penteado Ulhoa Rodrigues 700"
+  ],
+  "adminCity": "Santana do Parnaba",
+  "adminState": "SP",
+  "adminPostalCode": "06543-001",
+  "adminCountry": "BR",
+  "adminPhone": "+55.1130388627",
+  "adminEmail": "l-adm-dns@uolinc.com",
+  "techId": "C5R3-NICBR",
+  "techName": "UBN INTERNET LTDA.",
+  "techOrg": "03.629.758/0001-81",
+  "techAddress": [
+    "Av. Marcos Penteado Ulhoa Rodrigues 700"
+  ],
+  "techCity": "Santana do Parnaba",
+  "techState": "SP",
+  "techPostalCode": "06543-001",
+  "techCountry": "BR",
+  "techPhone": "+55.1130388627",
+  "techEmail": "l-adm-dns@uolinc.com"
+}

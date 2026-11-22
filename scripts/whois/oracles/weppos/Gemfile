@@ -1,0 +1,6 @@
+# the weppos oracle's only dependencies (docs/registry-health.md O1) — upstream is
+# declared here and pinned by the committed Gemfile.lock, never vendored
+source 'https://rubygems.org'
+
+gem 'whois'
+gem 'whois-parser'

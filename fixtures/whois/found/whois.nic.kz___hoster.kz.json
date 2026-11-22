@@ -1,0 +1,54 @@
+{
+  "query": "hoster.kz",
+  "server": "whois.nic.kz",
+  "domainName": "hoster.kz",
+  "creationDate": "2004-10-19T09:01:55Z",
+  "expirationDate": "2030-10-18T19:00:00Z",
+  "updatedDate": "2026-07-31T09:56:08Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited - Deletion of the domain is",
+    "prohibited by the registrar.",
+    "clientTransferProhibited - Transfer of the domain is",
+    "prohibited by the registrar.",
+    "clientRenewProhibited - Auto-renewal of the domain is",
+    "prohibited by the registrar.",
+    "registrantIdentityVerified - Registrant identity",
+    "verified successfully"
+  ],
+  "nameservers": [
+    "ns1.hoster.kz",
+    "ns2.hoster.kz",
+    "ns3.hoster.kz",
+    "ns4.hoster.kz"
+  ],
+  "registrarName": "HOSTER.KZ",
+  "registrantOrg": "TOO \"Kompaniia Hoster.KZ\"",
+  "registrantAddress": [
+    "Komissarova, 45g, ofis 405"
+  ],
+  "registrantCity": "Karaganda",
+  "registrantState": "-",
+  "registrantPostalCode": "100000",
+  "registrantCountry": "KZ",
+  "registrantPhone": "+7.7470949284",
+  "registrantFax": "+7.7272379284",
+  "registrantEmail": "hostmaster@hoster.kz",
+  "adminName": "Сухачев Денис Сергеевич",
+  "adminOrg": "ТОО \"Компания Hoster.KZ\"",
+  "adminAddress": [
+    "Комиссарова, 45г, офис 405"
+  ],
+  "adminCity": "Караганда",
+  "adminState": "-",
+  "adminPostalCode": "-",
+  "adminCountry": "KZ",
+  "adminPhone": "+77470949284",
+  "adminFax": "87272379284",
+  "adminEmail": "hostmaster@hoster.kz",
+  "techName": "Сухачев Денис Сергеевич"
+}

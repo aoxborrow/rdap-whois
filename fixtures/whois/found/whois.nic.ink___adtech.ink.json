@@ -1,0 +1,58 @@
+{
+  "query": "adtech.ink",
+  "server": "whois.nic.ink",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "adtech.ink",
+  "creationDate": "2024-10-29T15:04:16Z",
+  "expirationDate": "2027-10-29T15:04:16Z",
+  "updatedDate": "2026-09-27T13:20:23Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "cass.ns.cloudflare.com",
+    "vern.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "https://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Super Privacy Service LTD c/o Dynadot",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "California",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

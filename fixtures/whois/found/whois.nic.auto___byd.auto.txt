@@ -1,0 +1,44 @@
+###%%% QRY: byd.auto
+###%%% SRV: whois.nic.auto
+###%%% TME: 2026-07-16T23:23:27Z
+
+Domain Name: BYD.AUTO
+Registry Domain ID: D211586033-CNIC
+Registrar WHOIS Server: whois.paycenter.com.cn
+Registrar URL: http://www.xinnet.com
+Updated Date: 2026-01-24T01:57:05.0Z
+Creation Date: 2016-01-20T16:43:06.0Z
+Registry Expiry Date: 2027-01-20T23:59:59.0Z
+Registrar: Xin Net Technology Corporation
+Registrar IANA ID: 120
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Name Server: NS1.HUAWEICLOUD-DNS.ORG
+Name Server: NS1.HUAWEICLOUD-DNS.NET
+Name Server: NS1.HUAWEICLOUD-DNS.CN
+Name Server: NS1.HUAWEICLOUD-DNS.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: supervision@xinnet.com
+Registrar Abuse Contact Phone: +86.4008182233
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:23:27.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit
+https://www.centralnicregistry.com/support/information/rdap <<<
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

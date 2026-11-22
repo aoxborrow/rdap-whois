@@ -1,0 +1,82 @@
+{
+  "query": "visit.alsace",
+  "server": "whois.nic.alsace",
+  "domainId": "DOM000000529022-ALSACE",
+  "domainName": "visit.alsace",
+  "creationDate": "2015-09-18T08:43:27Z",
+  "expirationDate": "2027-09-18T08:43:27Z",
+  "updatedDate": "2026-09-21T22:37:28Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "bruce.ns.cloudflare.com",
+    "sue.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1251",
+  "registrarIanaId": 1251,
+  "registrarName": "NAMESHIELD",
+  "registrarUrl": "http://www.nameshield.net",
+  "registrarAbuseEmail": "abuse@nameshield.net",
+  "registrarAbusePhone": "+33.241182828",
+  "registrarWhoisServer": "whois.nameshield.net",
+  "registrantId": "REDACTED_FOR_PRIVACY",
+  "registrantName": "REDACTED_FOR_PRIVACY",
+  "registrantOrg": "AGENCE REGIONALE DU TOURISME GRAND EST",
+  "registrantAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "registrantCity": "REDACTED_FOR_PRIVACY",
+  "registrantState": "REDACTED_FOR_PRIVACY",
+  "registrantPostalCode": "REDACTED_FOR_PRIVACY",
+  "registrantCountry": "REDACTED_FOR_PRIVACY",
+  "registrantPhone": "REDACTED_FOR_PRIVACY",
+  "registrantFax": "REDACTED_FOR_PRIVACY",
+  "registrantEmail": "REDACTED_FOR_PRIVACY",
+  "adminId": "REDACTED_FOR_PRIVACY",
+  "adminName": "REDACTED_FOR_PRIVACY",
+  "adminOrg": "AGENCE REGIONALE DU TOURISME GRAND EST",
+  "adminAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "adminCity": "REDACTED_FOR_PRIVACY",
+  "adminState": "REDACTED_FOR_PRIVACY",
+  "adminPostalCode": "REDACTED_FOR_PRIVACY",
+  "adminCountry": "REDACTED_FOR_PRIVACY",
+  "adminPhone": "REDACTED_FOR_PRIVACY",
+  "adminFax": "REDACTED_FOR_PRIVACY",
+  "adminEmail": "REDACTED_FOR_PRIVACY",
+  "techId": "REDACTED_FOR_PRIVACY",
+  "techName": "REDACTED_FOR_PRIVACY",
+  "techOrg": "NAMESHIELD",
+  "techAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "techCity": "REDACTED_FOR_PRIVACY",
+  "techState": "REDACTED_FOR_PRIVACY",
+  "techPostalCode": "REDACTED_FOR_PRIVACY",
+  "techCountry": "REDACTED_FOR_PRIVACY",
+  "techPhone": "REDACTED_FOR_PRIVACY",
+  "techFax": "REDACTED_FOR_PRIVACY",
+  "techEmail": "REDACTED_FOR_PRIVACY",
+  "billingId": "REDACTED_FOR_PRIVACY",
+  "billingName": "REDACTED_FOR_PRIVACY",
+  "billingOrg": "NAMESHIELD",
+  "billingAddress": [
+    "REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY, REDACTED_FOR_PRIVACY"
+  ],
+  "billingCity": "REDACTED_FOR_PRIVACY",
+  "billingState": "REDACTED_FOR_PRIVACY",
+  "billingPostalCode": "REDACTED_FOR_PRIVACY",
+  "billingCountry": "REDACTED_FOR_PRIVACY",
+  "billingPhone": "REDACTED_FOR_PRIVACY",
+  "billingFax": "REDACTED_FOR_PRIVACY",
+  "billingEmail": "REDACTED_FOR_PRIVACY"
+}

@@ -1,0 +1,84 @@
+###%%% QRY: archive.org
+###%%% SRV: whois.easydns.com
+###%%% TME: 2025-03-20T18:29:55Z
+
+Domain Name: ARCHIVE.ORG
+Registry Domain ID: D2445039-LROR
+Registrar WHOIS Server: whois.easydns.com
+Registrar URL: http://www.easydns.com
+Updated Date: 2022-07-20T21:03:42
+Creation Date: 1995-12-14T05:00:00
+Registrar Registration Expiration Date: 2025-12-13T05:00:00
+Registrar: easyDNS Technologies, Inc.
+Registrar IANA ID: 469
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Internet Archive
+Registrant Organization: Internet Archive
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: REDACTED FOR PRIVACY
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: REDACTED FOR PRIVACY
+Registry Admin ID: 
+Admin Name: Internet Archive
+Admin Organization: Internet Archive
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: REDACTED FOR PRIVACY
+Registry Tech ID: 
+Tech Name: Internet Archive
+Tech Organization: Internet Archive
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: REDACTED FOR PRIVACY
+Name Server: ns0036.secondary.cloudflare.com
+Name Server: ns0208.secondary.cloudflare.com
+Name Server: ns1.archive.org
+Name Server: ns2.archive.org
+Name Server: ns3.archive.org
+Name Server: ns-global.kjsl.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+URL of the ICANN WHOIS Data Problem Reporting System: https://icann.org/wicf
+>>> Last update of WHOIS database: 2025-03-20T18:29:55Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns )
+
+
+Unredacted data available via https://whois.easydns.com
+
+You have 19 lookups left today

@@ -1,0 +1,18 @@
+###%%% QRY: nic.e164.arpa
+###%%% SRV: whois.ripe.net
+###%%% TME: 2026-07-14T10:43:23Z
+
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See https://docs.db.ripe.net/terms-conditions.html
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+%ERROR:101: no entries found
+%
+% No entries found in source RIPE.
+
+% This query was served by the RIPE Database Query Service version 1.123 (BUSA)

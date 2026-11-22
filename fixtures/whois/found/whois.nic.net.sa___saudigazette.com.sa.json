@@ -1,0 +1,12 @@
+{
+  "query": "saudigazette.com.sa",
+  "server": "whois.nic.net.sa",
+  "domainName": "saudigazette.com.sa",
+  "nameservers": [
+    "nancy.ns.cloudflare.com",
+    "nitin.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrantName": "OKAZ FOR PRESS AND PUBLICATION مؤسسة عكاظ للصحافة والنشر"
+}

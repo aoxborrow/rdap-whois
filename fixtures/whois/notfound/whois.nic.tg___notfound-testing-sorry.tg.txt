@@ -1,0 +1,12 @@
+###%%% QRY: notfound-testing-sorry.tg
+###%%% SRV: whois.nic.tg
+###%%% TME: 2025-03-20T16:09:05Z
+
+This is JWhoisServer serving ccTLD tg
+Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net
+All rights reserved.
+Copyright "NICTogo2 - http://www.nic.tg"
+
+NO OBJECT FOUND!
+object:.............notfound-testing-sorry.tg
+type:...............domain

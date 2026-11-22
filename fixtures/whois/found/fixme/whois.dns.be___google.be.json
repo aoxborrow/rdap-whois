@@ -1,0 +1,17 @@
+{
+  "domainName": "google.be",
+  "creationDate": "2000-12-12T00:00:00Z",
+  "status": [
+    "clientTransferProhibited",
+    "not available"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor Inc.",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrantName": "Not shown, please visit www.dnsbelgium.be for webbased whois."
+}

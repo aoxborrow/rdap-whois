@@ -1,0 +1,41 @@
+{
+  "query": "wikipedia.org",
+  "server": "whois.markmonitor.com",
+  "domainId": "D51687756-LROR",
+  "domainName": "wikipedia.org",
+  "creationDate": "2001-01-13T00:12:14Z",
+  "expirationDate": "2027-01-13T00:00:00Z",
+  "registrarExpirationDate": "2027-01-13T00:12:14Z",
+  "updatedDate": "2025-12-12T09:26:03Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns0.wikimedia.org",
+    "ns1.wikimedia.org",
+    "ns2.wikimedia.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantState": "CA",
+  "registrantCountry": "US"
+}

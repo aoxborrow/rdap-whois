@@ -1,0 +1,23 @@
+###%%% QRY: halveti.tc
+###%%% SRV: whois.nic.tc
+###%%% TME: 2026-07-16T11:44:24Z
+
+Domain Name: halveti.tc
+WHOIS Server: whois.nic.tc
+Creation Date: 2011-12-31T05:00:00.0Z
+Registry Expiry Date: 2027-01-02T05:00:00.0Z
+Sponsoring Registrar: NICTC A.S.
+Domain Status: clientTransferProhibited
+Registrant Organization: HuseyIn BASAR
+Name Server: rafe.ns.cloudflare.com
+Name Server: west.ns.cloudflare.com
+DNSSEC: unsigned
+Additional Section
+Sponsoring Registrar URL: https://www.tc
+Sponsoring Registrar Address: Çamlaraltı Mah. Hüseyin Yılmaz Cad. No : 67 D Blok - 207 Pamukkale / DENİZLİ
+Sponsoring Registrar Country: US
+Sponsoring Registrar Customer Service Email: posta@www.tc
+>>> Last update of WHOIS database: 2026-07-16T11:44:08.488Z <<<
+
+The data in the WHOIS database of TC Registry is provided by NICTC Registry LTD for information purposes, and to assist persons in obtaining information about or related to domain name registration records. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances, you will use this data to enable high volume, automated, electronic processes that apply to NICTC Registry or its systems. NIC TC Registry LTD reserves the right to modify these terms.
+By submitting this query, you agree to abide by this policy.

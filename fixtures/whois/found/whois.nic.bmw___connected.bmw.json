@@ -1,0 +1,35 @@
+{
+  "query": "connected.bmw",
+  "server": "whois.nic.bmw",
+  "domainId": "D96408819-CNIC",
+  "domainName": "connected.bmw",
+  "creationDate": "2018-08-06T07:15:15Z",
+  "expirationDate": "2027-08-06T23:59:59Z",
+  "updatedDate": "2026-07-06T03:00:42Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-228.awsdns-28.com",
+    "ns-999.awsdns-60.net",
+    "ns-1167.awsdns-17.org",
+    "ns-1841.awsdns-38.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarUrl": "http://www.key-systems.net",
+  "registrarAbuseEmail": "registry@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net",
+  "registrantOrg": "Bayerische Motoren Werke AG",
+  "registrantState": "BY",
+  "registrantCountry": "DE",
+  "registrantEmail": "https://whois.nic.bmw/contact/connected.bmw/registrant",
+  "techEmail": "https://whois.nic.bmw/contact/connected.bmw/tech"
+}

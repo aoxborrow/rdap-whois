@@ -1,0 +1,78 @@
+{
+  "query": "agate.academy",
+  "server": "whois.rrpproxy.net",
+  "domainId": "73cca54c40354c9fb9629c337a4cfe5e-DONUTS",
+  "domainName": "agate.academy",
+  "creationDate": "2017-10-12T08:56:05Z",
+  "expirationDate": "2027-10-12T08:56:05Z",
+  "registrarExpirationDate": "2027-10-12T08:56:05Z",
+  "updatedDate": "2026-11-16T13:49:44Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.domaindiscount24.net",
+    "ns2.domaindiscount24.net",
+    "ns3.domaindiscount24.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarUrl": "http://www.key-systems.net",
+  "registrarAbuseEmail": "abusereport@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "On behalf of agate.academy OWNER",
+  "registrantOrg": "c/o whoisproxy.com",
+  "registrantAddress": [
+    "604 Cameron Street"
+  ],
+  "registrantCity": "Alexandria",
+  "registrantState": "VA",
+  "registrantPostalCode": "22314",
+  "registrantCountry": "US",
+  "registrantPhone": "+64.48319528",
+  "registrantEmail": "34ad1747e592a412344a63fa9a279bebce7b2b4e57faa075ce8a5a167c9e4cbc@agate.academy.whoisproxy.org",
+  "adminId": "Not Available From Registry",
+  "adminName": "On behalf of agate.academy ADMIN",
+  "adminOrg": "c/o whoisproxy.com",
+  "adminAddress": [
+    "604 Cameron Street"
+  ],
+  "adminCity": "Alexandria",
+  "adminState": "VA",
+  "adminPostalCode": "22314",
+  "adminCountry": "US",
+  "adminPhone": "+64.48319528",
+  "adminEmail": "34ad1747e592a412344a63fa9a279bebce7b2b4e57faa075ce8a5a167c9e4cbc@agate.academy.whoisproxy.org",
+  "techId": "Not Available From Registry",
+  "techName": "On behalf of agate.academy TECH",
+  "techOrg": "c/o whoisproxy.com",
+  "techAddress": [
+    "604 Cameron Street"
+  ],
+  "techCity": "Alexandria",
+  "techState": "VA",
+  "techPostalCode": "22314",
+  "techCountry": "US",
+  "techPhone": "+64.48319528",
+  "techEmail": "34ad1747e592a412344a63fa9a279bebad824775ed5ff6f2b95555803ca3e250@agate.academy.whoisproxy.org",
+  "billingId": "Not Available From Registry",
+  "billingName": "On behalf of agate.academy BILLING",
+  "billingOrg": "c/o whoisproxy.com",
+  "billingAddress": [
+    "604 Cameron Street"
+  ],
+  "billingCity": "Alexandria",
+  "billingState": "VA",
+  "billingPostalCode": "22314",
+  "billingCountry": "US",
+  "billingPhone": "+64.48319528",
+  "billingEmail": "34ad1747e592a412344a63fa9a279beb69b9d3a9ff19ee288da82b81da555f3b@agate.academy.whoisproxy.org"
+}

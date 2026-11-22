@@ -1,0 +1,41 @@
+{
+  "query": "google.com.au",
+  "server": "whois.audns.net.au",
+  "domainId": "92bb371462a94cd584a36765406a795d-AU",
+  "domainName": "google.com.au",
+  "updatedDate": "2026-08-15T21:50:56Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://identitydigital.au/whois-status-codes#clientDeleteProhibited",
+    "serverDeleteProhibited https://identitydigital.au/whois-status-codes#serverDeleteProhibited",
+    "serverRenewProhibited https://identitydigital.au/whois-status-codes#serverRenewProhibited",
+    "serverTransferProhibited https://identitydigital.au/whois-status-codes#serverTransferProhibited",
+    "clientUpdateProhibited https://identitydigital.au/whois-status-codes#clientUpdateProhibited",
+    "serverUpdateProhibited https://identitydigital.au/whois-status-codes#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor Corporate Services Inc",
+  "registrarUrl": "https://whois-webform.markmonitor.com/whois",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895770",
+  "registrarWhoisServer": "whois.auda.org.au",
+  "registrantId": "7055747f961642aba9a15c5747b629c4-AU",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Google LLC",
+  "techId": "e49b68daf8c4486e9122cd5231fd7bf5-AU",
+  "techName": "Domain Administrator"
+}

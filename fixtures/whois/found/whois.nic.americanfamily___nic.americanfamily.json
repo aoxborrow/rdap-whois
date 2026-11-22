@@ -1,0 +1,36 @@
+{
+  "query": "nic.americanfamily",
+  "server": "whois.nic.americanfamily",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "nic.americanfamily",
+  "creationDate": "2024-04-03T23:30:06Z",
+  "expirationDate": "2027-04-03T23:30:06Z",
+  "updatedDate": "2026-11-12T05:25:10Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.americanfamily",
+    "b.nic.americanfamily",
+    "c.nic.americanfamily",
+    "d.nic.americanfamily"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "AmFam, Inc.",
+  "registrarUrl": "http://nic.amfam",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.2022239252",
+  "registrarWhoisServer": "whois.nic.amfam"
+}

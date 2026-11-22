@@ -1,0 +1,35 @@
+{
+  "query": "compliance.mango",
+  "server": "whois.nic.mango",
+  "domainId": "Dalgp52-MANGO",
+  "domainName": "compliance.mango",
+  "creationDate": "2023-08-10T16:15:50Z",
+  "expirationDate": "2027-08-10T16:15:50Z",
+  "updatedDate": "2026-09-24T16:22:46Z",
+  "eppStatus": [
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-217.awsdns-27.com",
+    "ns-894.awsdns-47.net",
+    "ns-1171.awsdns-18.org",
+    "ns-1727.awsdns-23.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry self-allocated",
+  "registrarUrl": "http://mango.com",
+  "registrarAbuseEmail": "mangogtld@ubilibet.com",
+  "registrarAbusePhone": "+34.932654145",
+  "registrarWhoisServer": "whois.nic.mango",
+  "registrantOrg": "PuntoFA, S.L.",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

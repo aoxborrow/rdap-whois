@@ -1,0 +1,25 @@
+{
+  "query": "who.int",
+  "server": "whois.iana.org",
+  "domainName": "who.int",
+  "creationDate": "1998-06-05T00:00:00Z",
+  "updatedDate": "2020-12-10T00:00:00Z",
+  "nameservers": [
+    "ext-dns-2.cern.ch",
+    "ns1.wpro.who.int",
+    "whqdns1.who.int",
+    "whqdns2.who.int",
+    "whqdns3.who.int"
+  ],
+  "registrantOrg": "World Health Organization (WHO)",
+  "registrantAddress": [
+    "20, Avenue Appia",
+    "Geneva 27",
+    "Geneva Geneva CH-1211",
+    "Switzerland",
+    "Geneva  CH-1211"
+  ],
+  "registrantPhone": "+41 22 791 2411",
+  "registrantFax": "+41 22 791 3111",
+  "registrantEmail": "hostmaster@who.int"
+}

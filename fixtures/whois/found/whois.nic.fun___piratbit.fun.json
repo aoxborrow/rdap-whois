@@ -1,0 +1,28 @@
+{
+  "query": "piratbit.fun",
+  "server": "whois.nic.fun",
+  "domainId": "D155412306-CNIC",
+  "domainName": "piratbit.fun",
+  "creationDate": "2019-12-24T11:51:04Z",
+  "expirationDate": "2026-12-24T23:59:59Z",
+  "updatedDate": "2025-04-01T11:11:15Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "desi.ns.cloudflare.com",
+    "duke.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

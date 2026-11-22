@@ -1,0 +1,6 @@
+###%%% QRY: hava.ist
+###%%% SRV: whois.apiname.com
+###%%% TME: 2026-11-22T08:29:13Z
+
+APINAME WHOIS Service
+Request invalid

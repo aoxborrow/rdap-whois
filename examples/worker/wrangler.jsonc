@@ -1,0 +1,9 @@
+// no nodejs_compat flag: the library runs on the plain Workers runtime, WHOIS over
+// cloudflare:sockets. Create the KV namespace with `npx wrangler kv namespace create CACHE`
+// and put its id below before deploying; `wrangler dev` runs with a local one as it is
+{
+  "name": "rdap-whois-example",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-10-01",
+  "kv_namespaces": [{ "binding": "CACHE", "id": "rdap-whois-example-cache" }]
+}

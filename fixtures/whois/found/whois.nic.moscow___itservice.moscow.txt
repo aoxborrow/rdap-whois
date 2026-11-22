@@ -1,0 +1,66 @@
+###%%% QRY: itservice.moscow
+###%%% SRV: whois.nic.moscow
+###%%% TME: 2026-11-22T08:13:20Z
+
+Domain Name: itservice.moscow
+Registry Domain ID: 20170828161719880681_03b7aa2078ff8c498e716c6355e24047_domain-FIR
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: https://www.nic.ru/
+Updated Date: 2026-06-02T04:38:05Z
+Creation Date: 2017-08-28T16:17:19Z
+Registry Expiry Date: 2027-08-28T16:17:19Z
+Registrar: JSC "RU-CENTER"
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-abuse@nic.ru
+Registrar Abuse Contact Phone: +7.4957370683
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Name: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Street: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant City: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Country: RU
+Registrant Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Admin ID: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Name: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Street: Personal data, can not be publicly disclosed according to applicable laws.
+Admin City: Personal data, can not be publicly disclosed according to applicable laws.
+Admin State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Country: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Tech ID: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Name: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Street: Personal data, can not be publicly disclosed according to applicable laws.
+Tech City: Personal data, can not be publicly disclosed according to applicable laws.
+Tech State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Country: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Billing ID: Personal data, can not be publicly disclosed according to applicable laws.
+Billing Name: Personal data, can not be publicly disclosed according to applicable laws.
+Billing Street: Personal data, can not be publicly disclosed according to applicable laws.
+Billing City: Personal data, can not be publicly disclosed according to applicable laws.
+Billing State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Billing Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Billing Country: Personal data, can not be publicly disclosed according to applicable laws.
+Billing Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Billing Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Name Server: a.ns.selectel.ru
+Name Server: b.ns.selectel.ru
+Name Server: c.ns.selectel.ru
+Name Server: d.ns.selectel.ru
+DNSSEC: unsignedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:13:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://flexireg.net/whois-terms_of_use.html (in Russian)
+% http://flexireg.net/whois-terms_of_use.en.html (in English)

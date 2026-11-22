@@ -1,0 +1,52 @@
+{
+  "domainName": "daryo.uz",
+  "creationDate": "2012-12-11T00:00:00Z",
+  "expirationDate": "2033-12-13T00:00:00Z",
+  "updatedDate": "2025-03-13T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "rdns1.ahost.uz",
+    "rdns2.ahost.uz"
+  ],
+  "registrarName": "SUVAN NET",
+  "registrarUrl": "http://www.cctld.uz",
+  "registrarWhoisServer": "www.whois.uz",
+  "registrantName": "Исмаилов Музаффар Абдуллаевич (mismailov [at] simple.uz)",
+  "registrantOrg": "OOO \"Simple Networking Solutions\"",
+  "registrantAddress": [
+    "ул. Богидил, дом-42"
+  ],
+  "registrantCity": "Ташкент",
+  "registrantPostalCode": "100000",
+  "registrantCountry": "Uzbekistan",
+  "registrantPhone": "+998949868219",
+  "adminName": "Исмаилов Музаффар Абдуллаевич (mismailov [at] simple.uz)",
+  "adminOrg": "OOO \"Simple Networking Solutions\"",
+  "adminAddress": [
+    "ул. Богидил, дом-42"
+  ],
+  "adminCity": "Ташкент",
+  "adminPostalCode": "100000",
+  "adminCountry": "Uzbekistan",
+  "adminPhone": "+998949868219",
+  "techName": "Исмаилов Музаффар Абдуллаевич (mismailov [at] simple.uz)",
+  "techOrg": "OOO \"Simple Networking Solutions\"",
+  "techAddress": [
+    "ул. Богидил, дом-42"
+  ],
+  "techCity": "Ташкент",
+  "techPostalCode": "100000",
+  "techCountry": "Uzbekistan",
+  "techPhone": "+998949868219",
+  "billingName": "Исмаилов Музаффар Абдуллаевич (mismailov [at] simple.uz)",
+  "billingOrg": "OOO \"Simple Networking Solutions\"",
+  "billingAddress": [
+    "ул. Богидил, дом-42"
+  ],
+  "billingCity": "Ташкент",
+  "billingPostalCode": "100000",
+  "billingCountry": "Uzbekistan",
+  "billingPhone": "+998949868219"
+}

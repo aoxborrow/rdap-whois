@@ -1,0 +1,76 @@
+{
+  "query": "dbankcloud.asia",
+  "server": "whois.nic.asia",
+  "domainId": "REDACTED",
+  "domainName": "dbankcloud.asia",
+  "creationDate": "2019-07-01T07:27:15Z",
+  "expirationDate": "2027-07-01T07:27:15Z",
+  "updatedDate": "2026-08-12T03:24:59Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "gns1.huaweicloud-dns.cn",
+    "gns1.huaweicloud-dns.com",
+    "gns1.huaweicloud-dns.org",
+    "ns3.dnsv5.com",
+    "ns4.dnsv5.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "120",
+  "registrarIanaId": 120,
+  "registrarName": "Xin Net Technology Corporation",
+  "registrarUrl": "http://www.xinnet.com",
+  "registrarAbuseEmail": "jubao@xinnet.com",
+  "registrarAbusePhone": "+86.1087128016",
+  "registrarWhoisServer": "whois.paycenter.com.cn",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "华为软件技术有限公司",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "北京市",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "CN",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

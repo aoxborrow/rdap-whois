@@ -1,0 +1,21 @@
+###%%% QRY: bsp.com.pg
+###%%% SRV: whois.nic.pg
+###%%% TME: 2026-07-16T23:46:12Z
+
+Domain Name: bsp.com.pg
+Registry Domain ID: 36736-nicpg
+Updated Date: 2026-02-23T01:22:12Z
+Creation Date: 1997-11-11T00:00:00Z
+Registry Expiry Date: 2027-11-11T00:00:00Z
+Registrar Registration Expiration Date: 2027-11-11T00:00:00Z
+Registrar: Papua New Guinea University of Technology
+Registrar Email: dns@pnguot.ac.pg
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: elle.ns.cloudflare.com
+Name Server: everton.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:42:27.715Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

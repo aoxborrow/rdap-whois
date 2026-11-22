@@ -1,0 +1,60 @@
+{
+  "query": "microsoft.com",
+  "server": "whois.markmonitor.com",
+  "domainId": "2724960_DOMAIN_COM-VRSN",
+  "domainName": "microsoft.com",
+  "creationDate": "1991-05-02T04:00:00Z",
+  "expirationDate": "2027-05-03T00:00:00Z",
+  "registrarExpirationDate": "2027-05-03T04:00:00Z",
+  "updatedDate": "2026-01-29T18:46:57Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited",
+    "serverUpdateProhibited",
+    "serverTransferProhibited",
+    "serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1-39.azure-dns.com",
+    "ns2-39.azure-dns.net",
+    "ns3-39.azure-dns.org",
+    "ns4-39.azure-dns.info"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Microsoft Corporation",
+  "registrantAddress": [
+    "One Microsoft Way"
+  ],
+  "registrantCity": "Redmond",
+  "registrantState": "WA",
+  "registrantPostalCode": "98052",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4258828080",
+  "registrantEmail": "admin@domains.microsoft",
+  "techName": "MSN Hostmaster",
+  "techPhone": "+1.4258828080",
+  "techEmail": "msnhst@microsoft.com"
+}

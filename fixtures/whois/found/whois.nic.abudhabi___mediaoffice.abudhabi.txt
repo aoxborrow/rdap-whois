@@ -1,0 +1,82 @@
+###%%% QRY: mediaoffice.abudhabi
+###%%% SRV: whois.nic.abudhabi
+###%%% TME: 2026-07-14T10:39:06Z
+
+Domain Name: mediaoffice.abudhabi
+Registry Domain ID: D1AE1A472E86A43BDBCBB5B2EEB71C913-NSR
+Registrar WHOIS Server:
+Registrar URL: https://www.nic.ae/
+Updated Date: 2024-11-27T13:45:33Z
+Creation Date: 2019-02-03T06:56:33Z
+Registry Expiry Date: 2028-02-03T06:56:33Z
+Registrar: Etisalat
+Registrar IANA ID: 1738
+Registrar Abuse Contact Email: abuse@nic.ae
+Registrar Abuse Contact Phone: +971.43717272
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C2A36E93705F14599985F8AC6DEBF1393-NSR
+Registrant Name: Abu Dhabi Media Office
+Registrant Organization: Abu Dhabi Media Office
+Registrant Street:
+Registrant Street:
+Registrant Street:
+Registrant City: Abu Dhabi
+Registrant State/Province: Abu Dhabi
+Registrant Postal Code: 769900
+Registrant Country: ae
+Registrant Phone: +971.26966666
+Registrant Phone Ext:
+Registrant Fax: +0.0
+Registrant Fax Ext:
+Registrant Email: netadmin@mediaoffice.abudhabi
+Registry Admin ID: C2A36E93705F14599985F8AC6DEBF1393-NSR
+Admin Name: Abu Dhabi Media Office
+Admin Organization: Abu Dhabi Media Office
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City: Abu Dhabi
+Admin State/Province: Abu Dhabi
+Admin Postal Code: 769900
+Admin Country: ae
+Admin Phone: +971.26966666
+Admin Phone Ext:
+Admin Fax: +0.0
+Admin Fax Ext:
+Admin Email: netadmin@mediaoffice.abudhabi
+Registry Tech ID: C2A36E93705F14599985F8AC6DEBF1393-NSR
+Tech Name: Abu Dhabi Media Office
+Tech Organization: Abu Dhabi Media Office
+Tech Street:
+Tech Street:
+Tech Street:
+Tech City: Abu Dhabi
+Tech State/Province: Abu Dhabi
+Tech Postal Code: 769900
+Tech Country: ae
+Tech Phone: +971.26966666
+Tech Phone Ext:
+Tech Fax: +0.0
+Tech Fax Ext:
+Tech Email: netadmin@mediaoffice.abudhabi
+Name Server: ns1.etisalatdomains.ae
+Name Server: ns2.etisalatdomains.ae
+Name Server: ns3.etisalatdomains.ae
+Name Server: ns4.etisalatdomains.ae
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-14T10:39:16Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Abu Dhabi Systems and Information Center (we, us, or our), provides the WHOIS Service (the Service) so that a user (you, your) may look
+up certain information in relation to domain names that we hold in our database. Your use of the Service is subject to our policies.
+The information provided by the Service, is for informational purposes only, is .as is. and we make no guarantee of its accuracy.
+You agree that by your use of the Service you will not use the information provided by us in a way which is: (i) inconsistent with
+any applicable laws; (ii) inconsistent with any policy issued by us; (iii) to generate, distribute, or facilitate unsolicited mass
+email, promotions, advertisings or other solicitations; or (iv) to enable high volume, automated, electronic processes.
+You acknowledge that: (i) a response from the Service indicating no match was found, does not guarantee that it is able to be
+registered; (ii) we may restrict, suspend or terminate your access to the Service at any time; and (iii) the copying, compilation,
+repackaging, dissemination or other use of the information provided by the Service is not permitted, without our express written
+consent.
+We may discontinue or amend any part or the whole of these Terms of Service from time to time at our absolute discretion.

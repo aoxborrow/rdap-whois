@@ -1,0 +1,63 @@
+###%%% QRY: moviemad.fo
+###%%% SRV: whois.nic.fo
+###%%% TME: 2026-11-22T08:10:00Z
+
+Domain Name: MOVIEMAD.FO
+Registry Domain ID: D510502824-CNIC
+Registrar WHOIS Server: whois.immateriali.sm
+Registrar URL: https://immateriali.sm
+Updated Date: 2026-10-14T14:08:13.0Z
+Creation Date: 2024-12-10T17:20:20.0Z
+Registry Expiry Date: 2026-12-10T23:59:59.0Z
+Registrar: Immaterialism Limited
+Registrar IANA ID:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Host Master
+Registrant Organization: Njalla Okta LLC
+Registrant Street: Arthur L. Evelyn Building
+Registrant Street: Suite 5
+Registrant Street: Main Street
+Registrant City: Charlestown
+Registrant State/Province: Charlestown
+Registrant Postal Code: KN0802
+Registrant Country: KN
+Registrant Phone: +1.6282511337
+Registrant Fax:
+Registrant Email: https://whois.nic.fo/contact/moviemad.fo/registrant
+Tech Name: Host Master
+Tech Organization: Njalla Okta LLC
+Tech Street: Arthur L. Evelyn Building
+Tech Street: Suite 5
+Tech Street: Main Street
+Tech City: Charlestown
+Tech State/Province: Charlestown
+Tech Postal Code: KN0802
+Tech Country: KN
+Tech Phone: +1.6282511337
+Tech Fax:
+Tech Email: https://whois.nic.fo/contact/moviemad.fo/tech
+Name Server: GUY.NS.CLOUDFLARE.COM
+Name Server: WANDA.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@immateriali.sm
+Registrar Abuse Contact Phone: +44.2037698590
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:10:00.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

@@ -1,0 +1,22 @@
+###%%% QRY: google.ae
+###%%% SRV: whois.aeda.net.ae
+###%%% TME: 2025-04-09T12:06:18Z
+
+Domain Name:                     google.ae
+Registrar ID:                    markmonitor
+Registrar Name:                  MarkMonitor
+Status:                          clientDeleteProhibited
+Status:                          clientUpdateProhibited
+
+Registrant Contact ID:           MMR-171195
+Registrant Contact Name:         Domain Administrator
+Registrant Contact Email:        Visit whois.aeda.net.ae for Web based WhoIs
+Registrant Contact Organisation: Google LLC
+
+Tech Contact ID:                 MMR-171195
+Tech Contact Name:               Domain Administrator
+Tech Contact Email:              Visit whois.aeda.net.ae for Web based WhoIs
+Tech Contact Organisation:       Google LLC
+
+Name Server:                     ns1.google.com
+Name Server:                     ns2.google.com

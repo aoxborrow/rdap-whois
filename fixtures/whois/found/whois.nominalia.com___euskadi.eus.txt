@@ -1,0 +1,67 @@
+###%%% QRY: euskadi.eus
+###%%% SRV: whois.nominalia.com
+###%%% TME: 2026-11-22T08:09:54Z
+
+Domain Name: EUSKADI.EUS
+Registry Domain ID: 
+Registrar WHOIS Server: whois.nominalia.com
+Registrar URL: http://www.nominalia.com
+Updated Date: 2025-12-19T00:00:00Z
+Creation Date: 2023-06-25T00:00:00Z
+Registrar Registration Expiration Date: 2026-11-25T00:00:00Z
+Registrar: NOMINALIA INTERNET S.L.
+Registrar IANA ID: 76
+Registrar Abuse Contact Email: abuse@nominalia.com
+Registrar Abuse Contact Phone: +39.05520021555
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: VI
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: ES
+Registrant Phone: REDACTED.FORPRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED.FORPRIVACY
+Registrant Fax Ext:
+Registrant Email: https://default.teamblue.domains/public/nominalia/domain-contact
+Registry Admin ID:
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED.FORPRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED.FORPRIVACY
+Admin Fax Ext:
+Admin Email: https://default.teamblue.domains/public/nominalia/domain-contact
+Registry Tech ID:
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: ES
+Tech Phone: REDACTED.FORPRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED.FORPRIVACY
+Tech Fax Ext:
+Tech Email: https://default.teamblue.domains/public/nominalia/domain-contact
+Name Server: NS-1442.AWSDNS-52.ORG
+Name Server: NS-212.AWSDNS-26.COM
+Name Server: NS-613.AWSDNS-12.NET
+Name Server: NS-1680.AWSDNS-18.CO.UK
+Name Server: NS1.ITBATERA.EUSKADI.EUS
+Name Server: NS2.ITBATERA.EUSKADI.EUS
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of whois database: 2026-11-22T08:09:54Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

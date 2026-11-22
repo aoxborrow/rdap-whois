@@ -1,0 +1,22 @@
+###%%% QRY: mail.ru
+###%%% SRV: whois.tcinet.ru
+###%%% TME: 2026-07-16T11:45:24Z
+
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        MAIL.RU
+nserver:       ns1.mail.ru. 217.69.139.112
+nserver:       ns2.mail.ru. 94.100.180.138
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           
+taxpayer-id:   
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-09-27T14:33:26Z
+paid-till:     2026-09-30T21:00:00Z
+free-date:     2026-11-01
+source:        TCI
+
+Last updated on 2026-07-16T11:43:01Z

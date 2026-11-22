@@ -1,0 +1,57 @@
+###%%% QRY: necta.go.tz
+###%%% SRV: whois.tznic.or.tz
+###%%% TME: 2026-07-16T11:45:34Z
+
+%  https://karibu.tz/media/WHOIS_TERMS_TOU.pdf
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 14:45:35 2026
+
+domain:       necta.go.tz
+registrant:   REG-EGA
+admin-c:      UDSM
+admin-c:      EGA-GISUP
+nsset:        NS-NECTA
+keyset:       NECTA-KEY
+registrar:    REG-EGA
+registered:   24.07.2009 10:54:18
+changed:      18.08.2022 11:19:09
+expire:       24.07.2027
+
+contact:      REG-EGA
+registrar:    REG-EGA
+created:      28.03.2014 15:37:59
+changed:      22.02.2022 17:52:14
+
+contact:      UDSM
+registrar:    REG-UCC
+created:      24.06.2010 12:16:22
+changed:      22.10.2020 11:02:51
+
+contact:      EGA-GISUP
+registrar:    REG-EGA
+created:      12.11.2014 10:45:31
+changed:      22.02.2022 17:57:13
+
+nsset:        NS-NECTA
+nserver:      ns1.necta.go.tz (102.219.28.58)
+nserver:      ns2.necta.go.tz (102.219.28.62)
+nserver:      ns3.necta.go.tz (102.219.28.46)
+nserver:      ns4.necta.go.tz (102.219.28.105)
+nserver:      ns5.necta.go.tz (102.219.28.109)
+tech-c:       EGA-GISUP
+registrar:    REG-EGA
+created:      01.04.2022 16:42:24
+changed:      12.07.2022 17:41:30
+
+keyset:       NECTA-KEY
+dnskey:       257 3 8 AwEAAdVHXr71d15x6xw1ZuRw+wbHT/vXdl/qCXuiqX7b9vMmIfK4hUGTKzy+ythadyrAS2UcA1EwByMOIY4GcuQoTwuKTm+Xz7ZYpScuTr40fRGnkvAzu2q4djyK9wy7GehVR09gh5WvNjeQ6N2XJBzd3GV7LoBG/bhjeXtDTr8VKXoV
+tech-c:       EGA-NOC
+registrar:    REG-EGA
+created:      11.04.2022 17:13:32
+changed:      12.04.2022 00:21:12
+
+contact:      EGA-NOC
+registrar:    REG-EGA
+created:      16.11.2018 10:16:02
+changed:      19.11.2018 11:33:38

@@ -1,0 +1,5 @@
+###%%% QRY: nic.gov.za
+###%%% SRV: whois.gov.za
+###%%% TME: 2026-07-14T10:43:49Z
+
+No match found for nic.gov.za

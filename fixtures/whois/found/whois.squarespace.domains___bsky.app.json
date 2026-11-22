@@ -1,0 +1,45 @@
+{
+  "query": "bsky.app",
+  "server": "whois.squarespace.domains",
+  "domainId": "4A390C061-APP",
+  "domainName": "bsky.app",
+  "creationDate": "2022-09-27T00:14:48Z",
+  "expirationDate": "2028-09-27T00:14:48Z",
+  "registrarExpirationDate": "2028-09-27T00:14:48Z",
+  "updatedDate": "2024-07-05T23:44:19Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "client delete prohibited http://www.icann.org/epp#client delete prohibited",
+    "client transfer prohibited http://www.icann.org/epp#client transfer prohibited"
+  ],
+  "nameservers": [
+    "ns-372.awsdns-46.com",
+    "ns-757.awsdns-30.net",
+    "ns-1425.awsdns-50.org",
+    "ns-2001.awsdns-58.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "895",
+  "registrarIanaId": 895,
+  "registrarName": "Squarespace Domains II LLC",
+  "registrarUrl": "https://domains2.squarespace.com",
+  "registrarAbuseEmail": "abuse-complaints@squarespace.com",
+  "registrarAbusePhone": "+1.646-693-5324",
+  "registrarWhoisServer": "whois.squarespace.domains",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Bluesky",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "WA",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://domains.squarespace.com/whois-contact-form"
+}

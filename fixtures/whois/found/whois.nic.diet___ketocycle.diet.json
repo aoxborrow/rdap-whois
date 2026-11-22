@@ -1,0 +1,28 @@
+{
+  "query": "ketocycle.diet",
+  "server": "whois.nic.diet",
+  "domainId": "D307467292-CNIC",
+  "domainName": "ketocycle.diet",
+  "creationDate": "2018-08-14T12:04:46Z",
+  "expirationDate": "2027-08-14T23:59:59Z",
+  "updatedDate": "2026-08-01T08:16:06Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "cheryl.ns.cloudflare.com",
+    "guy.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

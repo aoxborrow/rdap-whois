@@ -1,0 +1,33 @@
+{
+  "query": "nic.merck",
+  "server": "whois.nic.merck",
+  "domainId": "ntc74_DOMAIN-ICANNRST",
+  "domainName": "nic.merck",
+  "creationDate": "2025-01-01T00:00:00Z",
+  "expirationDate": "2099-12-12T00:00:00Z",
+  "registrarExpirationDate": "2099-12-12T00:00:00Z",
+  "updatedDate": "2025-11-03T13:13:36Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.dnservices.co.za",
+    "nsp.netnod.se"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "DNServices Test account",
+  "registrarUrl": "http://dns.business",
+  "registrarAbuseEmail": "eppsupport@dnservices.co.za",
+  "registrarWhoisServer": "http://www.dns.net.za/whois",
+  "registrantCountry": "ZA",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

@@ -1,0 +1,28 @@
+{
+  "query": "onthestage.tickets",
+  "server": "whois.nic.tickets",
+  "domainId": "D240126708-CNIC",
+  "domainName": "onthestage.tickets",
+  "creationDate": "2021-06-22T20:22:08Z",
+  "expirationDate": "2027-06-22T23:59:59Z",
+  "updatedDate": "2026-04-29T01:47:10Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "lia.ns.cloudflare.com",
+    "rajeev.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1011",
+  "registrarIanaId": 1011,
+  "registrarName": "101domain GRS Limited",
+  "registrarUrl": "https://101domain.com",
+  "registrarAbuseEmail": "abuse@101domain.com",
+  "registrarAbusePhone": "+1.7604448674",
+  "registrarWhoisServer": "whois.101domain.com"
+}

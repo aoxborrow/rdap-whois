@@ -1,0 +1,108 @@
+###%%% QRY: rkn.tg
+###%%% SRV: whois.nic.tg
+###%%% TME: 2026-07-16T23:53:38Z
+
+This is JWhoisServer serving ccTLD tg
+Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net
+All rights reserved.
+Copyright "NICTogo2 - http://www.nic.tg"
+
+Domain:.............rkn.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2026-03-20
+Expiration:.........2027-03-19
+Status:.............Activé
+Contact Type:.......owner
+Last Name:..........GROMOV || Andrey
+First Name:.........
+Address:............Hettelweg 16
+Tel:................+358.468027321
+Fax:................+358.468027321
+e-mail:.............me@kavo.re
+Name Server (DB):...anita.ns.cloudflare.com
+Name Server (DB):...nico.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............rkn.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2026-03-20
+Expiration:.........2027-03-19
+Status:.............Activé
+Contact Type:.......owner
+Last Name:..........GROMOV || Andrey
+First Name:.........
+Address:............Hettelweg 16
+Tel:................+358.468027321
+Fax:................+358.468027321
+e-mail:.............me@kavo.re
+Name Server (DB):...anita.ns.cloudflare.com
+Name Server (DB):...nico.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............rkn.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2026-03-20
+Expiration:.........2027-03-19
+Status:.............Activé
+Contact Type:.......administrative
+Last Name:..........GROMOV || Andrey
+First Name:.........
+Address:............Hettelweg 16
+Tel:................+358.468027321
+Fax:................+358.468027321
+e-mail:.............me@kavo.re
+Name Server (DB):...anita.ns.cloudflare.com
+Name Server (DB):...nico.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............rkn.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2026-03-20
+Expiration:.........2027-03-19
+Status:.............Activé
+Contact Type:.......administrative
+Last Name:..........GROMOV || Andrey
+First Name:.........
+Address:............Hettelweg 16
+Tel:................+358.468027321
+Fax:................+358.468027321
+e-mail:.............me@kavo.re
+Name Server (DB):...anita.ns.cloudflare.com
+Name Server (DB):...nico.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............rkn.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2026-03-20
+Expiration:.........2027-03-19
+Status:.............Activé
+Contact Type:.......technical
+Last Name:..........GROMOV || Andrey
+First Name:.........
+Address:............Hettelweg 16
+Tel:................+358.468027321
+Fax:................+358.468027321
+e-mail:.............me@kavo.re
+Name Server (DB):...anita.ns.cloudflare.com
+Name Server (DB):...nico.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............rkn.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2026-03-20
+Expiration:.........2027-03-19
+Status:.............Activé
+Contact Type:.......technical
+Last Name:..........GROMOV || Andrey
+First Name:.........
+Address:............Hettelweg 16
+Tel:................+358.468027321
+Fax:................+358.468027321
+e-mail:.............me@kavo.re
+Name Server (DB):...anita.ns.cloudflare.com
+Name Server (DB):...nico.ns.cloudflare.com

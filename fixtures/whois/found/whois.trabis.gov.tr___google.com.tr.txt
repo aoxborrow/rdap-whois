@@ -1,0 +1,41 @@
+###%%% QRY: google.com.tr
+###%%% SRV: whois.trabis.gov.tr
+###%%% TME: 2026-11-22T08:14:25Z
+
+** Domain Name: google.com.tr
+Domain Status: Active
+Frozen Status: -
+Transfer Status: The domain is LOCKED to transfer.
+
+** Registrant:
+Google LLC
+Hidden upon user request
+Hidden upon user request
+Hidden upon user request
+Hidden upon user request
+
+
+** Registrar:
+NIC Handle  : ogv40
+Organization Name : ODTÜ GELİŞTİRME VAKFI BİLGİ TEKNOLOJİLERİ SAN. VE TİC. A.Ş.
+Address   : Mustafa Kemal Mahallesi Dumlupınar Bulvarı
+     No:280G/1104 Çankaya
+     06800 Ankara Türkiye
+Phone   : 90-312-9881106-
+Fax   : - 
+
+
+** Domain Servers:
+ns4.google.com
+ns1.google.com
+ns3.google.com
+ns2.google.com
+
+
+** Additional Info:
+Created on..............: 2001-Aug-23.
+Expires on..............: 2027-Aug-22.
+
+
+** Whois Server:
+Last Update Time: 2026-11-22T11:02:23+03:00

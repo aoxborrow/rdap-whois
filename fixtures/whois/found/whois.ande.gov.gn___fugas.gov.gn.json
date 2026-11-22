@@ -1,0 +1,32 @@
+{
+  "query": "fugas.gov.gn",
+  "server": "whois.ande.gov.gn",
+  "domainId": "5153-nicgn",
+  "domainName": "fugas.gov.gn",
+  "creationDate": "2024-07-25T13:42:03Z",
+  "expirationDate": "2026-12-31T00:00:00Z",
+  "registrarExpirationDate": "2026-12-31T00:00:00Z",
+  "updatedDate": "2025-12-11T19:49:47Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "henry.ns.cloudflare.com",
+    "tina.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "001",
+  "registrarIanaId": 1,
+  "registrarName": "registrar-ande",
+  "registrarAddress": [
+    "kipé - conakry"
+  ],
+  "registrarCountry": "GN",
+  "registrarPhone": "+224629684930",
+  "registrarAbuseEmail": "ousmane.doukoure@ande.gov.gn",
+  "registrarAbusePhone": "+224629684930"
+}

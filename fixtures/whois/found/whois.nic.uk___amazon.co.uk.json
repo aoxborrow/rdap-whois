@@ -1,0 +1,19 @@
+{
+  "query": "amazon.co.uk",
+  "server": "whois.nic.uk",
+  "domainName": "amazon.co.uk",
+  "creationDate": "1996-08-01T00:00:00Z",
+  "expirationDate": "2028-12-05T00:00:00Z",
+  "updatedDate": "2026-09-06T00:00:00Z",
+  "eppStatusRaw": [
+    "Registered until expiry date."
+  ],
+  "nameservers": [
+    "ns-430.awsdns-53.com",
+    "ns-558.awsdns-05.net",
+    "ns-1256.awsdns-29.org",
+    "ns-1689.awsdns-19.co.uk"
+  ],
+  "registrarId": "AMAZON-COM",
+  "registrarName": "Amazon.com, Inc."
+}

@@ -1,0 +1,77 @@
+{
+  "query": "redis.io",
+  "server": "whois.nic.io",
+  "domainId": "REDACTED",
+  "domainName": "redis.io",
+  "creationDate": "2010-05-28T22:09:44Z",
+  "expirationDate": "2027-05-28T22:09:44Z",
+  "updatedDate": "2026-08-11T22:52:07Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-247.awsdns-30.com",
+    "ns-791.awsdns-34.net",
+    "ns-1248.awsdns-28.org",
+    "ns-1731.awsdns-24.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "Domain Protection Services, Inc.",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "CO",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

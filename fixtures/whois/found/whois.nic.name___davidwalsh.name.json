@@ -1,0 +1,15 @@
+{
+  "query": "davidwalsh.name",
+  "server": "whois.nic.name",
+  "domainId": "134502390_DOMAIN_NAME-VRSN",
+  "domainName": "davidwalsh.name",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc."
+}

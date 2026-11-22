@@ -1,0 +1,95 @@
+###%%% QRY: calculator.academy
+###%%% SRV: whois.sawbuck.com
+###%%% TME: 2025-03-20T09:11:33Z
+
+Domain Name: calculator.academy
+Registry Domain ID: 635d77ffbca04f9cbe11df730ddc8cd9-DONUTS
+Registrar WHOIS Server: whois.sawbuck.com
+Registrar URL: http://www.automattic.com/
+Updated Date: 2025-03-16T09:05:11Z
+Creation Date: 2019-04-05T18:10:09Z
+Registrar Registration Expiration Date: 2026-04-05T18:10:09Z
+Registrar: Automattic Inc.
+Registrar IANA ID: 1531
+Registrar Abuse Contact Email: domainabuse@automattic.com
+Registrar Abuse Contact Phone: +1.8772733049
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: REDACTED FOR PRIVACY 
+Registrant Organization: Knock Knock WHOIS Not There, LLC
+Registrant Street: 9450 SW Gemini Dr #63259
+Registrant City: Beaverton
+Registrant State/Province: 
+Registrant Postal Code: 97008-7105
+Registrant Country: US
+Registrant Phone: +1.8772738550
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: calculator.academy@privatewho.is
+Registry Admin ID: Not Available From Registry
+Admin Name: REDACTED FOR PRIVACY 
+Admin Organization: Knock Knock WHOIS Not There, LLC
+Admin Street: 9450 SW Gemini Dr #63259
+Admin City: Beaverton
+Admin State/Province: 
+Admin Postal Code: 97008-7105
+Admin Country: US
+Admin Phone: +1.8772738550
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: calculator.academy@privatewho.is
+Registry Tech ID: Not Available From Registry
+Tech Name: REDACTED FOR PRIVACY 
+Tech Organization: Knock Knock WHOIS Not There, LLC
+Tech Street: 9450 SW Gemini Dr #63259
+Tech City: Beaverton
+Tech State/Province: 
+Tech Postal Code: 97008-7105
+Tech Country: US
+Tech Phone: +1.8772738550
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: calculator.academy@privatewho.is
+Registry Billing ID: Not Available From Registry
+Billing Name: REDACTED FOR PRIVACY 
+Billing Organization: Knock Knock WHOIS Not There, LLC
+Billing Street: 9450 SW Gemini Dr #63259
+Billing City: Beaverton
+Billing State/Province: 
+Billing Postal Code: 97008-7105
+Billing Country: US
+Billing Phone: +1.8772738550
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: calculator.academy@privatewho.is
+Name Server: mitch.ns.cloudflare.com 
+Name Server: ruth.ns.cloudflare.com 
+DNSSEC: unsigned
+Whoisprivacy: 5
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-20T09:11:32Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+To contact the registered registrant please proceed to:
+https://www.domain-contact.org
+
+Please register your domains at; http://www.automattic.com/
+This data is provided by Automattic Inc.
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+Automattic Inc. does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

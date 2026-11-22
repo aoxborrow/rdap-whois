@@ -1,0 +1,70 @@
+###%%% QRY: xn--80akpwk.xn--d1acj3b
+###%%% SRV: whois.nic.xn--d1acj3b
+###%%% TME: 2026-07-16T23:56:54Z
+
+Domain Name: XN--80AKPWK.XN--D1ACJ3B
+Internationalized Domain Name: АРТЕК.ДЕТИ
+Registry Domain ID: XN--80AKPWK.XN--D1ACJ3B
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: http://whois.nic.ru
+Updated Date: 2023-06-21T09:51:35Z
+Creation Date: 2015-12-29T20:03:12Z
+Registry Expiry Date: 2026-12-29T20:03:12Z
+Registrar: JSC RU-CENTER [RU-CENTER-DETI]
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-abuse@nic.ru
+Registrar Abuse Contact Phone: +7.4959944601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Federal State Institution "International Children's Center" Artek"
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: RU
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: Please query the Registrar in this output for contact the Registrant
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Email: Please query the Registrar in this output for contact the Registrant
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: Please query the Registrar in this output for contact the Registrant
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Email: Please query the Registrar in this output for contact the Registrant
+Name Server: ns3-l2.nic.ru.
+Name Server: ns4-cloud.nic.ru.
+Name Server: ns4-l2.nic.ru.
+Name Server: ns8-cloud.nic.ru.
+Name Server: ns8-l2.nic.ru.
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+>>> Last update of WHOIS database: 2026-07-16T23:53:01Z <<<
+
+% For more information on Whois status codes, please visit
+% https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://whois.nic.xn--d1acj3b/terms_of_use.html (in Russian)
+% http://whois.nic.xn--d1acj3b/terms_of_use.en.html (in English).

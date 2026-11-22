@@ -1,0 +1,39 @@
+{
+  "query": "shazow.net",
+  "server": "whois.cloudflare.com",
+  "domainId": "103493152_DOMAIN_NET-VRSN",
+  "domainName": "shazow.net",
+  "creationDate": "2003-09-13T04:43:11Z",
+  "expirationDate": "2027-09-13T04:43:11Z",
+  "registrarExpirationDate": "2027-09-13T04:43:11Z",
+  "updatedDate": "2026-08-21T19:01:41Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
+  ],
+  "nameservers": [
+    "ruth.ns.cloudflare.com",
+    "seth.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1910",
+  "registrarIanaId": 1910,
+  "registrarName": "Cloudflare, Inc.",
+  "registrarUrl": "https://www.cloudflare.com",
+  "registrarAbuseEmail": "registrar-abuse@cloudflare.com",
+  "registrarAbusePhone": "+1.4153197517",
+  "registrarWhoisServer": "whois.cloudflare.com",
+  "registrantName": "DATA REDACTED",
+  "registrantOrg": "DATA REDACTED",
+  "registrantAddress": [
+    "DATA REDACTED"
+  ],
+  "registrantCity": "DATA REDACTED",
+  "registrantState": "Ontario",
+  "registrantPostalCode": "DATA REDACTED",
+  "registrantCountry": "CA",
+  "registrantPhone": "+1.4153197517"
+}

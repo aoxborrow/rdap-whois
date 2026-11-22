@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-22T08:42:22.335Z",
+  "checked": 1397,
+  "cleanFixtures": 1397,
+  "failedFixtures": 0,
+  "noGolden": 1484,
+  "score": "100.0",
+  "buckets": {
+    "missing-key": 0,
+    "cross-section-bleed": 0,
+    "value-mismatch": 0,
+    "unexpected-value": 0,
+    "parse-error": 0
+  },
+  "top100Regressions": 0
+}

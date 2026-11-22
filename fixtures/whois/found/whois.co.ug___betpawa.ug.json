@@ -1,0 +1,51 @@
+{
+  "query": "betpawa.ug",
+  "server": "whois.co.ug",
+  "domainName": "betpawa.ug",
+  "creationDate": "2015-09-03T00:00:00Z",
+  "expirationDate": "2027-09-29T00:00:00Z",
+  "updatedDate": "2026-09-07T15:09:27Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "damian.ns.cloudflare.com",
+    "isla.ns.cloudflare.com"
+  ],
+  "registrantName": "Pawatech Gulf IP FZCO",
+  "registrantOrg": "PAWATECH GULF IP - FZCO",
+  "registrantAddress": [
+    "IFZA Business Park, Premises Number DDP, Makani Number A1 – 3641379065"
+  ],
+  "registrantCity": "Dubai",
+  "registrantState": "Dubai",
+  "registrantPostalCode": "77531 – 001",
+  "registrantCountry": "AE",
+  "registrantPhone": "+1.3054348621",
+  "registrantEmail": "domains@marcaria.com",
+  "adminName": "Francisco Fuentealba",
+  "adminOrg": "MARCARIA.COM LLC",
+  "adminAddress": [
+    "8345 NW 66 ST #B1673"
+  ],
+  "adminCity": "Miami",
+  "adminState": "FL",
+  "adminPostalCode": "33166",
+  "adminCountry": "US",
+  "adminPhone": "13054348621",
+  "adminEmail": "domains@marcaria.com",
+  "techName": "Francisco Fuentealba",
+  "techOrg": "MARCARIA.COM LLC",
+  "techAddress": [
+    "8345 NW 66 ST #B1673"
+  ],
+  "techCity": "Miami",
+  "techState": "FL",
+  "techPostalCode": "33166",
+  "techCountry": "US",
+  "techPhone": "13054348621",
+  "techEmail": "domains@marcaria.com"
+}

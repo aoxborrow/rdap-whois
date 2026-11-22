@@ -1,0 +1,10 @@
+###%%% QRY: notfound-testing-sorry.lv
+###%%% SRV: whois.nic.lv
+###%%% TME: 2025-03-20T16:20:05Z
+
+[Domain]
+Domain: notfound-testing-sorry.lv
+Status: free
+
+[Whois]
+Updated: 2025-03-20T12:12:30.906585+00:00

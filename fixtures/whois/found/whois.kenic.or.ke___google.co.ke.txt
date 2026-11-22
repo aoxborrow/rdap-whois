@@ -1,0 +1,28 @@
+###%%% QRY: google.co.ke
+###%%% SRV: whois.kenic.or.ke
+###%%% TME: 2026-11-22T08:11:17Z
+
+Domain Name: google.co.ke
+Registry Domain ID: 1625-Kenic
+Updated Date: 2025-11-30T16:22:23Z
+Creation Date: 2003-04-17T21:00:00Z
+Registry Expiry Date: 2027-12-31T21:00:00Z
+Registrar Registration Expiration Date: 2027-12-31T21:00:00Z
+Registrar: Afriregister Limited
+Registrar Street Address: Riara Rd, Bamboo ln, P.O. Box 21682 - 00100, Nairobi
+Registrar Phone: +254 20 711101253
+Registrar Email: admin@afriregister.co.ke
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T07:56:35.341Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

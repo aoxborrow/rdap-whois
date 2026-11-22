@@ -1,0 +1,68 @@
+{
+  "query": "euskadi.eus",
+  "server": "whois.nominalia.com",
+  "domainName": "euskadi.eus",
+  "creationDate": "2023-06-25T00:00:00Z",
+  "expirationDate": "2026-11-25T00:00:00Z",
+  "registrarExpirationDate": "2026-11-25T00:00:00Z",
+  "updatedDate": "2025-12-19T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-212.awsdns-26.com",
+    "ns-613.awsdns-12.net",
+    "ns-1442.awsdns-52.org",
+    "ns-1680.awsdns-18.co.uk",
+    "ns1.itbatera.euskadi.eus",
+    "ns2.itbatera.euskadi.eus"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "76",
+  "registrarIanaId": 76,
+  "registrarName": "NOMINALIA INTERNET S.L.",
+  "registrarUrl": "http://www.nominalia.com",
+  "registrarAbuseEmail": "abuse@nominalia.com",
+  "registrarAbusePhone": "+39.05520021555",
+  "registrarWhoisServer": "whois.nominalia.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "VI",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "ES",
+  "registrantPhone": "REDACTED.FORPRIVACY",
+  "registrantFax": "REDACTED.FORPRIVACY",
+  "registrantEmail": "https://default.teamblue.domains/public/nominalia/domain-contact",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED.FORPRIVACY",
+  "adminFax": "REDACTED.FORPRIVACY",
+  "adminEmail": "https://default.teamblue.domains/public/nominalia/domain-contact",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "ES",
+  "techPhone": "REDACTED.FORPRIVACY",
+  "techFax": "REDACTED.FORPRIVACY",
+  "techEmail": "https://default.teamblue.domains/public/nominalia/domain-contact"
+}

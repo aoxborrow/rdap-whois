@@ -1,0 +1,38 @@
+###%%% QRY: one.com
+###%%% SRV: whois.joker.com
+###%%% TME: 2026-11-22T08:15:14Z
+
+Domain Name: one.com
+Registry Domain ID: 3009798_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.joker.com
+Registrar URL: https://joker.com
+Updated Date: 2026-06-22T12:21:22Z
+Creation Date: 1992-02-12T00:00:00Z
+Registrar Registration Expiration Date: 2036-02-13T05:00:00Z
+Registrar: CSL Computer Service Langenbach GmbH d/b/a joker.com
+Registrar IANA ID: 113
+Registrar Abuse Contact Email: abuse@joker.com
+Registrar Abuse Contact Phone: +49.21186767447
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: One.com Group AB
+Registrant Country: SE
+Registrant Email: https://csl-registrar.com/contact/one.com/owner
+Admin Email: https://csl-registrar.com/contact/one.com/admin
+Tech Email: https://csl-registrar.com/contact/one.com/tech
+Name Server: auth.g1-dns.com
+Name Server: auth.g1-dns.one
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:15:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

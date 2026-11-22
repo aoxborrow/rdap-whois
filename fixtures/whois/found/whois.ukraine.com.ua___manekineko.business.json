@@ -1,0 +1,62 @@
+{
+  "query": "manekineko.business",
+  "server": "whois.ukraine.com.ua",
+  "domainId": "ac434db9c01d45e28bddf1a0892b9885-DONUTS",
+  "domainName": "manekineko.business",
+  "creationDate": "2023-02-20T12:42:03Z",
+  "expirationDate": "2027-02-20T12:42:03Z",
+  "registrarExpirationDate": "2027-02-20T12:42:03Z",
+  "updatedDate": "2025-02-21T06:14:04Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok http://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "christian.ns.cloudflare.com",
+    "pola.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "2374",
+  "registrarIanaId": 2374,
+  "registrarName": "HOSTING UKRAINE LLC",
+  "registrarUrl": "https://www.ukraine.com.ua",
+  "registrarAbuseEmail": "domain@abuse.team",
+  "registrarAbusePhone": "+380.443927433",
+  "registrarWhoisServer": "whois.ukraine.com.ua",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Privacy Protection",
+  "registrantOrg": "Hosting Ukraine LLC",
+  "registrantAddress": [
+    "PO Box 65"
+  ],
+  "registrantCity": "Kiev",
+  "registrantPostalCode": "04112",
+  "registrantCountry": "UA",
+  "registrantPhone": "+380.443927433",
+  "registrantEmail": "aa7aa1132e560b0bb5@privacyprotected.net",
+  "adminId": "Not Available From Registry",
+  "adminName": "Privacy Protection",
+  "adminOrg": "Hosting Ukraine LLC",
+  "adminAddress": [
+    "PO Box 65"
+  ],
+  "adminCity": "Kiev",
+  "adminPostalCode": "04112",
+  "adminCountry": "UA",
+  "adminPhone": "+380.443927433",
+  "adminEmail": "aa7aa1132e560b0bb5@privacyprotected.net",
+  "techId": "Not Available From Registry",
+  "techName": "Privacy Protection",
+  "techOrg": "Hosting Ukraine LLC",
+  "techAddress": [
+    "PO Box 65"
+  ],
+  "techCity": "Kiev",
+  "techPostalCode": "04112",
+  "techCountry": "UA",
+  "techPhone": "+380.443927433",
+  "techEmail": "aa7aa1132e560b0bb5@privacyprotected.net"
+}

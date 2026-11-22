@@ -1,0 +1,62 @@
+{
+  "query": "urlowl.com",
+  "server": "whois.namecheap.com",
+  "domainId": "2906280370_DOMAIN_COM-VRSN",
+  "domainName": "urlowl.com",
+  "creationDate": "2024-08-07T20:33:08Z",
+  "expirationDate": "2025-08-07T20:33:08Z",
+  "registrarExpirationDate": "2025-08-07T20:33:08Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "clay.ns.cloudflare.com",
+    "michelle.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NAMECHEAP INC",
+  "registrarReseller": "NAMECHEAP INC",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantName": "Redacted for Privacy",
+  "registrantOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "registrantAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "registrantCity": "Reykjavik",
+  "registrantState": "Capital Region",
+  "registrantPostalCode": "101",
+  "registrantCountry": "IS",
+  "registrantPhone": "+354.4212434",
+  "registrantEmail": "ede69effe3d14c2083da4968b8b636a4.protect@withheldforprivacy.com",
+  "adminName": "Redacted for Privacy",
+  "adminOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "adminAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "adminCity": "Reykjavik",
+  "adminState": "Capital Region",
+  "adminPostalCode": "101",
+  "adminCountry": "IS",
+  "adminPhone": "+354.4212434",
+  "adminEmail": "ede69effe3d14c2083da4968b8b636a4.protect@withheldforprivacy.com",
+  "techName": "Redacted for Privacy",
+  "techOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "techAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "techCity": "Reykjavik",
+  "techState": "Capital Region",
+  "techPostalCode": "101",
+  "techCountry": "IS",
+  "techPhone": "+354.4212434",
+  "techEmail": "ede69effe3d14c2083da4968b8b636a4.protect@withheldforprivacy.com"
+}

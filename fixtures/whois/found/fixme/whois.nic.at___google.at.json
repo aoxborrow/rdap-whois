@@ -1,0 +1,25 @@
+{
+  "domainName": "google.at",
+  "updatedDate": "2024-11-13T19:36:02Z",
+  "status": [],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrantId": "GL11783559-NICAT",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "United States of America (the)",
+  "registrantPhone": "+16502530000",
+  "registrantFax": "+16502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "techId": "GI7803025-NICAT"
+}

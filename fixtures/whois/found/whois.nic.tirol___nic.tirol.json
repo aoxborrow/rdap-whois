@@ -1,0 +1,88 @@
+{
+  "query": "nic.tirol",
+  "server": "whois.nic.tirol",
+  "domainId": "1b5u_DOMAIN-TIROL",
+  "domainName": "nic.tirol",
+  "creationDate": "2014-05-27T14:06:39Z",
+  "expirationDate": "2099-12-31T23:59:59Z",
+  "registrarExpirationDate": "2099-12-31T23:59:59Z",
+  "updatedDate": "2025-08-07T13:53:40Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.business",
+    "ns1.ryce-rsp.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "punkt Tirol GmbH",
+  "registrarUrl": "http://nic.tirol",
+  "registrarAbuseEmail": "david@dns.business",
+  "registrarAbusePhone": "+43.5125354",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "punkt Tirol GmbH",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "REDACTED",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "AT",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "billingId": "REDACTED",
+  "billingName": "REDACTED",
+  "billingOrg": "REDACTED",
+  "billingAddress": [
+    "REDACTED"
+  ],
+  "billingCity": "REDACTED",
+  "billingState": "REDACTED",
+  "billingPostalCode": "REDACTED",
+  "billingCountry": "REDACTED",
+  "billingPhone": "REDACTED",
+  "billingPhoneExt": "REDACTED",
+  "billingFax": "REDACTED",
+  "billingFaxExt": "REDACTED",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name."
+}

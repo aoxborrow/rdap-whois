@@ -1,0 +1,22 @@
+###%%% QRY: google.by
+###%%% SRV: whois.cctld.by
+###%%% TME: 2026-07-16T11:38:09Z
+
+Domain name: google.by
+Registrar: Open Contact, Ltd
+Org: Google LLC
+Country: US
+Address: 94043, CA, Mountain View, Amphitheatre Parkway, 1600, -
+Registration or other identification number: 3582691
+Phone: +1.2083895740
+Email: ccops@markmonitor.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Update Date: 2026-04-08
+Creation Date: 2004-05-14
+Expiration Date: 2027-02-10
+
+-------------------------------------------
+Service provided by Belarusian Cloud Technologies LLC

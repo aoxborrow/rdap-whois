@@ -1,0 +1,75 @@
+{
+  "query": "schlund.com",
+  "server": "whois.schlund.info",
+  "domainId": "1245437_DOMAIN_COM-VRSN",
+  "domainName": "schlund.com",
+  "creationDate": "1996-10-10T04:00:00Z",
+  "expirationDate": "2027-10-09T04:00:00Z",
+  "registrarExpirationDate": "2027-10-09T04:00:00Z",
+  "updatedDate": "2016-10-10T07:02:44Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+    "autoRenewPeriod https://www.icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "ns-1and1.ui-dns.biz",
+    "ns-1and1.ui-dns.com",
+    "ns-1and1.ui-dns.de",
+    "ns-1and1.ui-dns.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "83",
+  "registrarIanaId": 83,
+  "registrarName": "IONOS SE",
+  "registrarUrl": "https://www.ionos.com",
+  "registrarAbuseEmail": "abuse@ionos.com",
+  "registrarAbusePhone": "+1.8774612631",
+  "registrarWhoisServer": "whois.ionos.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "DE",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "dataprivacyprotected@ionos.de",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "dataprivacyprotected@ionos.de",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "dataprivacyprotected@ionos.de"
+}

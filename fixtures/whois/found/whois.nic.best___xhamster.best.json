@@ -1,0 +1,33 @@
+{
+  "query": "xhamster.best",
+  "server": "whois.nic.best",
+  "domainId": "D504333162-CNIC",
+  "domainName": "xhamster.best",
+  "creationDate": "2024-11-21T16:21:25Z",
+  "expirationDate": "2027-11-21T23:59:59Z",
+  "updatedDate": "2026-11-01T16:11:45Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "anuj.ns.cloudflare.com",
+    "sima.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com",
+  "registrantOrg": "Domain Protection Services, Inc.",
+  "registrantState": "CO",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

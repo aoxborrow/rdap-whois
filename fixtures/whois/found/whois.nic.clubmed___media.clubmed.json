@@ -1,0 +1,30 @@
+{
+  "query": "media.clubmed",
+  "server": "whois.nic.clubmed",
+  "domainId": "123e4b9b309040da83d954aa287cacb2-DONUTS",
+  "domainName": "media.clubmed",
+  "creationDate": "2021-11-08T11:42:15Z",
+  "expirationDate": "2027-11-08T11:42:15Z",
+  "updatedDate": "2026-11-09T06:06:15Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-126.awsdns-15.com",
+    "ns-802.awsdns-36.net",
+    "ns-1181.awsdns-19.org",
+    "ns-1554.awsdns-02.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

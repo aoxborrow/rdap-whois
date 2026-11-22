@@ -1,0 +1,64 @@
+{
+  "query": "e-volution.ai",
+  "server": "whois.eurodns.com",
+  "domainId": "D23332802-AI",
+  "domainName": "e-volution.ai",
+  "creationDate": "2019-09-03T00:00:00Z",
+  "expirationDate": "2027-09-02T00:00:00Z",
+  "registrarExpirationDate": "2027-09-02T00:00:00Z",
+  "updatedDate": "2026-11-06T12:14:00Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-11.awsdns-01.com",
+    "ns-954.awsdns-55.net",
+    "ns-1043.awsdns-02.org",
+    "ns-1963.awsdns-53.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1052",
+  "registrarIanaId": 1052,
+  "registrarName": "Eurodns S.A.",
+  "registrarUrl": "http://www.eurodns.com",
+  "registrarAbuseEmail": "legalservices@eurodns.com",
+  "registrarAbusePhone": "+352.27220150",
+  "registrarWhoisServer": "whois.eurodns.com",
+  "registrantId": "edns_r2149680",
+  "registrantName": "Rea Alex",
+  "registrantOrg": "Evolution Tech",
+  "registrantAddress": [
+    "1349 Westmatch Welinghom, Welminghom"
+  ],
+  "registrantCity": "Welminghom",
+  "registrantPostalCode": "3323321",
+  "registrantCountry": "US",
+  "registrantPhone": "+39.3346572071",
+  "registrantEmail": "it@metup.it",
+  "adminId": "edns_a2149680",
+  "adminName": "Rea Alex",
+  "adminOrg": "Evolution Tech",
+  "adminAddress": [
+    "1349 Westmatch Welinghom, Welminghom"
+  ],
+  "adminCity": "Welminghom",
+  "adminPostalCode": "3323321",
+  "adminCountry": "US",
+  "adminPhone": "+39.3346572071",
+  "adminEmail": "it@metup.it",
+  "techId": "edns_t2149680",
+  "techName": "Rea Alex",
+  "techOrg": "Evolution Tech",
+  "techAddress": [
+    "1349 Westmatch Welinghom, Welminghom"
+  ],
+  "techCity": "Welminghom",
+  "techPostalCode": "3323321",
+  "techCountry": "US",
+  "techPhone": "+39.3346572071",
+  "techEmail": "it@metup.it"
+}

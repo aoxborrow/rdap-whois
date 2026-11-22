@@ -1,0 +1,36 @@
+{
+  "query": "nic.alstom",
+  "server": "whois.nic.alstom",
+  "domainId": "D9-ALSTOM",
+  "domainName": "nic.alstom",
+  "creationDate": "2015-08-20T12:21:53Z",
+  "expirationDate": "2027-08-20T12:21:53Z",
+  "updatedDate": "2026-10-04T13:00:22Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": ".alstom Internal Registrar",
+  "registrarUrl": "http://www.alstom.com",
+  "registrarAbuseEmail": "sophie.coignet-registrar@chq.alstom.com",
+  "registrarAbusePhone": "+33.141493686",
+  "registrarWhoisServer": "whois.nic.alstom",
+  "registrantState": "Hauts-de-Seine",
+  "registrantCountry": "FR",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

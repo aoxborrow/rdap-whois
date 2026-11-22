@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.sm
+###%%% SRV: whois.nic.sm
+###%%% TME: 2025-03-20T16:22:36Z
+
+No entries found.

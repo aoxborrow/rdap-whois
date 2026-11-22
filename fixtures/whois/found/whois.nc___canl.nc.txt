@@ -1,0 +1,16 @@
+###%%% QRY: canl.nc
+###%%% SRV: whois.nc
+###%%% TME: 2026-07-16T11:39:45Z
+
+OPT Whois v3.0.0
+
+Domain                   : canl.nc
+Created on               : 1998-01-01T00:00:00.000Z
+Expires on               : 2029-01-01
+Last updated on          : 2023-11-11T13:11:42.000Z
+
+Domain server 1          : ns0.canl.nc
+Domain server 2          : ns1.canl.nc
+Domain server 3          : ns2.canl.nc
+
+Registrar                : NONE

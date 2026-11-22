@@ -1,0 +1,39 @@
+###%%% QRY: prostoporno.yachts
+###%%% SRV: whois.nic.yachts
+###%%% TME: 2026-11-22T08:11:25Z
+
+Domain Name: PROSTOPORNO.YACHTS
+Registry Domain ID: D630200045-CNIC
+Registrar WHOIS Server: whois.dynadot.com
+Registrar URL: http://www.dynadot.com
+Updated Date: 2026-10-21T18:11:02.0Z
+Creation Date: 2026-05-14T14:14:46.0Z
+Registry Expiry Date: 2027-05-14T23:59:59.0Z
+Registrar: Dynadot Inc
+Registrar IANA ID: 472
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS1.OH313.PARKLOGIC.COM
+Name Server: NS2.OH313.PARKLOGIC.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@dynadot.com
+Registrar Abuse Contact Phone: +1.6502620100
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:11:25.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

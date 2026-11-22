@@ -1,0 +1,36 @@
+{
+  "query": "nic.xerox",
+  "server": "whois.nic.xerox",
+  "domainId": "DCA94F3E93F66459D9E05976C14CA36B6-NSR",
+  "domainName": "nic.xerox",
+  "creationDate": "2021-02-05T01:37:11Z",
+  "expirationDate": "2027-02-05T01:37:11Z",
+  "updatedDate": "2026-03-22T01:37:14Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.xerox",
+    "b.nic.xerox",
+    "c.nic.xerox",
+    "d.nic.xerox"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Xerox DNHC LLC",
+  "registrarUrl": "https://nic.xerox",
+  "registrarAbuseEmail": "stefan@registry.godaddy",
+  "registrarAbusePhone": "+61.1234567890",
+  "registrarWhoisServer": "whois.nic.xerox"
+}

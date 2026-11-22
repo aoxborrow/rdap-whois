@@ -1,0 +1,44 @@
+{
+  "query": "ecn.cricket",
+  "server": "whois.nic.cricket",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "ecn.cricket",
+  "creationDate": "2018-11-21T13:26:16Z",
+  "expirationDate": "2026-11-21T13:26:16Z",
+  "updatedDate": "2026-09-25T11:03:58Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "ns10.wixdns.net",
+    "ns11.wixdns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1408",
+  "registrarIanaId": 1408,
+  "registrarName": "united-domains GmbH",
+  "registrarUrl": "http://www.united-domains.de",
+  "registrarAbuseEmail": "abuse@united-domains.de",
+  "registrarAbusePhone": "+49.8151368670",
+  "registrarWhoisServer": "whois.udag.net",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "European Cricket League AG",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "CH",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

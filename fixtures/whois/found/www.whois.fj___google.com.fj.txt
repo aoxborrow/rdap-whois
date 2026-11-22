@@ -1,0 +1,33 @@
+###%%% QRY: google.com.fj
+###%%% SRV: www.whois.fj
+###%%% TME: 2025-03-20T15:47:33Z
+
+Domain Name: google.com.fj
+Registrar URL: https://www.domains.fj
+Updated Date: 2024-04-11T18:19:40.177Z
+Creation Date: 2003-04-27T12:00:00.0Z
+Registry Expiry Date: 2025-04-27T12:00:00.0Z
+Registrar Registration Expiration Date: 2025-04-27T12:00:00.0Z
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Redacted | Registry Policy
+Registrant Name: Domain Administrator
+Registrant Organization: Google LLC
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94043
+Registrant Country: US
+Registrant Phone: +1.6502530000
+Registrant Email: dns-admin@google.com
+Registrar: USP Registrar
+Registrar Admin Email: domreg@usp.ac.fj
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+>>> Last update of WHOIS database: 2025-03-20T10:48:19.771Z <<<
+
+For more information on EPP status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to FJ Domain Registry Services. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

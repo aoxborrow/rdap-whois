@@ -1,0 +1,30 @@
+{
+  "query": "encount.press",
+  "server": "whois.nic.press",
+  "domainId": "D92248438-CNIC",
+  "domainName": "encount.press",
+  "creationDate": "2019-01-30T05:55:46Z",
+  "expirationDate": "2027-01-30T23:59:59Z",
+  "updatedDate": "2026-03-18T07:26:03Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-290.awsdns-36.com",
+    "ns-866.awsdns-44.net",
+    "ns-1194.awsdns-21.org",
+    "ns-1797.awsdns-32.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "49",
+  "registrarIanaId": 49,
+  "registrarName": "GMO Internet Group, Inc. d/b/a Onamae.com",
+  "registrarUrl": "http://www.onamae.com",
+  "registrarAbuseEmail": "onamae@internet.gmo",
+  "registrarAbusePhone": "+81.337709199",
+  "registrarWhoisServer": "whois.discount-domain.com"
+}

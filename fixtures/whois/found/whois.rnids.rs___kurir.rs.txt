@@ -1,0 +1,43 @@
+###%%% QRY: kurir.rs
+###%%% SRV: whois.rnids.rs
+###%%% TME: 2026-07-16T11:45:15Z
+
+% The data in the Whois database are provided by RNIDS
+% for information purposes only and to assist persons in obtaining
+% information about or related to a domain name registration record. 
+% Data in the database are created by registrants and we do not guarantee 
+% their accuracy. We reserve the right to remove access 
+% for entities abusing the data, without notice.
+% All timestamps are given in Serbian local time. 
+%
+Domain name: kurir.rs
+Domain status: Active https://www.rnids.rs/en/domain-name-status-codes#Active
+Registration date: 07.07.2009 11:53:05
+Modification date: 08.06.2026 13:32:55
+Expiration date: 07.07.2031 11:53:05
+Confirmed: 07.07.2009 11:53:05
+Registrar: CRI DOMAINS
+
+
+Registrant: MONDO INC DOO BEOGRAD
+Address: Vlajkoviceva 8, prizemlje, Beograd-Stari grad, Serbia
+Postal Code: 11000
+ID Number: 20729384
+Tax ID: 107036683
+
+Administrative contact: Individual
+
+Technical contact: SERBIA BROADBAND - SRPSKE KABLOVSKE MREZE D.O.O.
+Address: Bulevar Peka Dapcevica 19, Beograd, Serbia
+Postal Code: 11000
+ID Number: 17280554
+Tax ID: 101038731
+
+
+DNS: kiki.bunny.net - 
+DNS: coco.bunny.net - 
+
+
+DNSSEC signed: no
+
+Whois Timestamp: 16.07.2026 13:45:16

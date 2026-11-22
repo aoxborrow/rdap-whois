@@ -1,0 +1,15 @@
+{
+  "query": "mercadolibre.cl",
+  "server": "whois.nic.cl",
+  "creationDate": "2000-05-17T21:30:43Z",
+  "expirationDate": "2028-06-13T17:30:04Z",
+  "nameservers": [
+    "ns-47.awsdns-05.com",
+    "ns-754.awsdns-30.net",
+    "ns-1035.awsdns-01.org",
+    "ns-1789.awsdns-31.co.uk"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "https://markmonitor.com",
+  "registrantName": "Mercadolibre Chile Limitada"
+}

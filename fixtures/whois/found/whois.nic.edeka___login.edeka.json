@@ -1,0 +1,32 @@
+{
+  "query": "login.edeka",
+  "server": "whois.nic.edeka",
+  "domainId": "REDACTED",
+  "domainName": "login.edeka",
+  "creationDate": "2018-11-09T11:17:00Z",
+  "expirationDate": "2027-11-09T11:17:00Z",
+  "updatedDate": "2026-11-09T11:17:37Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "ns-318.awsdns-39.com",
+    "ns-572.awsdns-07.net",
+    "ns-1246.awsdns-27.org",
+    "ns-1581.awsdns-05.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1387",
+  "registrarIanaId": 1387,
+  "registrarName": "1API GmbH",
+  "registrarUrl": "http://www.1api.net",
+  "registrarAbuseEmail": "abuse@1api.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.1api.net"
+}

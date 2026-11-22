@@ -1,0 +1,30 @@
+{
+  "query": "nic.seek",
+  "server": "whois.nic.seek",
+  "domainId": "D6D77F4A7CB994558B2BDDFE38D7590C5-ARI",
+  "domainName": "nic.seek",
+  "creationDate": "2015-02-17T02:15:10Z",
+  "expirationDate": "2027-02-17T02:15:10Z",
+  "updatedDate": "2026-04-03T02:15:13Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.seek",
+    "b.nic.seek",
+    "c.nic.seek",
+    "d.nic.seek"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Seek Limited"
+}

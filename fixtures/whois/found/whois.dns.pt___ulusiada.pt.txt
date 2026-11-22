@@ -1,0 +1,24 @@
+###%%% QRY: ulusiada.pt
+###%%% SRV: whois.dns.pt
+###%%% TME: 2026-07-16T23:20:56Z
+
+Domain: ulusiada.pt
+Domain Status: Registered
+Creation Date: 25/01/1996 00:00:00
+Expiration Date: 31/12/2026 00:00:00
+Owner Name: Fundação Minerva - Cultura - Ensino e Investigação Científica
+Owner Address: Universidade Lusíada VNF - Largo Tinoco de Sousa
+Owner Locality: Vila Nova de Famalicão
+Owner ZipCode: 4760-108
+Owner Locality ZipCode: Vila Nova de Famalicão
+Owner Country Code: PT
+Admin Name: Fundação Minerva - Cultura - Ensino e Investigação Científica
+Admin Address: Universidade Lusíada VNF - Largo Tinoco de Sousa
+Admin Locality: Vila Nova de Famalicão
+Admin ZipCode: 4760-108
+Admin Locality ZipCode: Vila Nova de Famalicão
+Admin Country Code: PT
+
+Name Server: ave.fam.ulusiada.pt | IPv4: 193.136.184.1 and IPv6: 
+Name Server: tejo.lis.ulusiada.pt | IPv4: 193.136.186.1 and IPv6: 
+Name Server: douro.por.ulusiada.pt | IPv4: 193.136.185.1 and IPv6:

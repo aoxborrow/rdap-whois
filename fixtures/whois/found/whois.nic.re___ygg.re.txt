@@ -1,0 +1,81 @@
+###%%% QRY: ygg.re
+###%%% SRV: whois.nic.re
+###%%% TME: 2026-07-16T11:43:29Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        ygg.re
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        CTC29554-FRNIC
+registrar:                     Tool Domains EOOD
+Expiry Date:                   2027-06-13T23:32:00.534217Z
+created:                       2026-06-13T23:32:00.549035Z
+last-update:                   2026-06-18T23:34:42.924067Z
+source:                        FRNIC
+
+nserver:                       contact-us-at.edoms.biz
+nserver:                       domain-may-be-for-sale-at.edoms.biz
+source:                        FRNIC
+
+registrar:                     Tool Domains EOOD
+address:                       str. Kozyak 19, et. 17, ap. 51
+address:                       1407 Sofia
+country:                       BG
+phone:                         +359.29924071
+e-mail:                        registrars@tool-domains.com
+website:                       https://edoms.com
+anonymous:                     No
+registered:                    2022-05-16T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     Tool Domains EOOD
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       CTC29554-FRNIC
+type:                          ORGANIZATION
+contact:                       Zagorski
+address:                       ulitsa Knyaz Boris I 8, fl. 4, ap. 12
+address:                       1463 Sofia
+address:                       Sofia
+country:                       BG
+phone:                         +359.24371634
+e-mail:                        team@securebackorder.com
+registrar:                     Tool Domains EOOD
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:43:29.828381Z <<<

@@ -1,0 +1,13 @@
+###%%% SRV: whois.nic.ve
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.nic.ve/ve/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+Servidor Whois de NIC-Venezuela (.VE)
+
+Este servidor contiene informacion autoritativa exclusivamente de dominios .VE
+Cualquier consulta sobre este servicio, puede hacerla al correo electronico whois@nic.ve
+
+No match for "u34jedzcq.ve".
+
+NIC-Venezuela - CONATEL
+http://www.nic.ve

@@ -1,0 +1,51 @@
+{
+  "domainName": "adsco.re",
+  "creationDate": "2017-02-14T18:29:52Z",
+  "expirationDate": "2027-02-14T18:29:52Z",
+  "updatedDate": "2022-08-30T05:46:50Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "alex.ns.cloudflare.com",
+    "dawn.ns.cloudflare.com"
+  ],
+  "registrarName": "Marcaria.com International Inc.",
+  "registrarAddress": [
+    "8345 NW 66 ST #B1673",
+    "FL 33195 MIAMI"
+  ],
+  "registrarCountry": "US",
+  "registrarPhone": "+1.3054348621",
+  "registrarFax": "+1.3056752956",
+  "registrarEmail": "domains@marcaria.com",
+  "registrarUrl": "https://www.marcaria.com/ws/en/register/domains/bulk-domain-registration-fr",
+  "registrantName": "ICRON SERVICES LTD",
+  "registrantAddress": [
+    "ICRON SERVICES LTD",
+    "Maria House, 1 Avlonos street",
+    "1075 Nicosia"
+  ],
+  "registrantCountry": "CY",
+  "registrantPhone": "+1.3054348621",
+  "registrantFax": "+1.3056752956",
+  "registrantEmail": "domains@marcaria.com",
+  "adminName": "PRIME DOMAIN MANAGER LIMITED",
+  "adminAddress": [
+    "PRIME DOMAIN MANAGER LIMITED",
+    "Avlonos, 1 Maria . House",
+    "1075 Nicosia"
+  ],
+  "adminCountry": "CY",
+  "adminPhone": "+3.5722232467",
+  "adminEmail": "domains@primedomain.ws",
+  "techName": "Francisco Fuentealba",
+  "techAddress": [
+    "MARCARIA.COM CORP",
+    "# 1000177, 222 Grace Church St. Suite 302",
+    "10573 Port Chester"
+  ],
+  "techCountry": "US",
+  "techPhone": "+1.3056767321",
+  "techEmail": "manage@marcaria.com"
+}

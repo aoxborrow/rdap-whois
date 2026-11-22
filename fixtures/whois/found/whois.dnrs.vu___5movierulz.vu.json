@@ -1,0 +1,64 @@
+{
+  "query": "5movierulz.vu",
+  "server": "whois.dnrs.vu",
+  "domainId": "DBF9C01CF18F54453BB1C03EAF5C26026-GDREG",
+  "domainName": "5movierulz.vu",
+  "creationDate": "2024-12-01T23:49:46Z",
+  "expirationDate": "2026-12-01T23:49:46Z",
+  "updatedDate": "2025-12-18T10:46:32Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "hattie.ns.cloudflare.com",
+    "santino.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "https://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com",
+  "registrantId": "C04CEE53EC3AA4362BB8217AF55983587-GDREG",
+  "registrantName": "Dynadot Privacy Service",
+  "registrantOrg": "Super Privacy Service LTD c/o Dynadot",
+  "registrantAddress": [
+    "PO Box 701"
+  ],
+  "registrantCity": "San Mateo",
+  "registrantState": "California",
+  "registrantPostalCode": "94401",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505854708",
+  "registrantEmail": "privacy@dynadot.com",
+  "adminId": "C04CEE53EC3AA4362BB8217AF55983587-GDREG",
+  "adminName": "Dynadot Privacy Service",
+  "adminOrg": "Super Privacy Service LTD c/o Dynadot",
+  "adminAddress": [
+    "PO Box 701"
+  ],
+  "adminCity": "San Mateo",
+  "adminState": "California",
+  "adminPostalCode": "94401",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505854708",
+  "adminEmail": "privacy@dynadot.com",
+  "techId": "C04CEE53EC3AA4362BB8217AF55983587-GDREG",
+  "techName": "Dynadot Privacy Service",
+  "techOrg": "Super Privacy Service LTD c/o Dynadot",
+  "techAddress": [
+    "PO Box 701"
+  ],
+  "techCity": "San Mateo",
+  "techState": "California",
+  "techPostalCode": "94401",
+  "techCountry": "US",
+  "techPhone": "+1.6505854708",
+  "techEmail": "privacy@dynadot.com"
+}

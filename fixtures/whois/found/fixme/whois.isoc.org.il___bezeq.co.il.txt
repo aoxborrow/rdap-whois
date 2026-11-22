@@ -1,0 +1,135 @@
+###%%% QRY: bezeq.co.il
+###%%% SRV: whois.isoc.org.il
+###%%% TME: 2025-04-09T08:10:39Z
+
+% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in 
+% obtaining information about or related to a domain name 
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise 
+% support the transmission of mass unsolicited, commercial 
+% advertising or solicitations via e-mail (spam); 
+% or  (2) enable high volume, automated, electronic processes that 
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.
+ 
+query:        bezeq.co.il
+
+reg-name:     bezeq
+domain:       bezeq.co.il
+
+descr:        Bezeq The Israel Telecommunication Corp. Ltd.
+descr:        POB 62081
+descr:        Tel-Aviv
+descr:        61620
+descr:        Israel
+phone:        +972 3 6264642
+admin-c:      II-RN2563-IL
+tech-c:       II-YO116-IL
+zone-c:       II-IB1023-IL
+nserver:      ns1.bezeqint.net 
+nserver:      ns2.bezeqint.net 
+nserver:      ns3.bezeqint.net 
+assigned:     07-08-1995
+validity:     N/A
+DNSSEC:       unsigned
+status:       Transfer Locked
+changed:      registrar AT ns.il 19950807 (Assigned)
+changed:      registrar AT ns.il 19950823 (Changed)
+changed:      registrar AT ns.il 19951219 (Changed)
+changed:      steiff AT netvision.net.il 19970402 (Changed)
+changed:      domain-registrar AT isoc.org.il 20010219 (Changed)
+changed:      domain-registrar AT isoc.org.il 20010626 (Changed)
+changed:      domain-registrar AT isoc.org.il 20020102 (Changed)
+changed:      domain-registrar AT isoc.org.il 20051130 (Changed)
+changed:      domain-registrar AT isoc.org.il 20150419 (Changed)
+changed:      domain-registrar AT isoc.org.il 20150830 (Changed)
+
+person:       Rose Naamani
+address      Bezeq The Israel Telecommunication Corp. Ltd.
+address      P.O.B 62083
+address      Tel Aviv
+address      61620
+address      Israel
+phone:        +972-3-6265152
+e-mail:       BezeqContact AT bezeq.com
+nic-hdl:      II-RN2563-IL
+changed:      domain-registrar AT isoc.org.il 20051130
+
+person:       Yair Ovadia
+address      Bezeq International Ltd.
+address      40, Hashacham st.
+address      Petach-Tikva
+address      49170
+address      Israel
+phone:        +972 3 9203005
+fax-no:       +972 3 9203025
+e-mail:       hostmaster AT bezeqint.net
+nic-hdl:      II-YO116-IL
+changed:      domain-registrar AT isoc.org.il 20010618
+changed:      domain-registrar AT isoc.org.il 20011105
+changed:      domain-registrar AT isoc.org.il 20020102
+
+person:       INTERNET BEZEQInt
+address      Bezeqint International LTD
+address      40 Hashacham St.
+address      Petach Tikva
+address      49170
+address      Israel
+phone:        972-3-9257333
+fax-no:       972-3-9257035
+e-mail:       hostmaster AT bezeqint.net
+nic-hdl:      II-IB1023-IL
+changed:      hostmaster AT bezeqint.net 20000207
+changed:      domain-registrar AT isoc.org.il 20020102
+changed:      domain-registrar AT isoc.org.il 20020325
+changed:      domain-registrar AT isoc.org.il 20020325
+changed:      domain-registrar AT isoc.org.il 20020416
+changed:      domain-registrar AT isoc.org.il 20020416
+changed:      domain-registrar AT isoc.org.il 20020624
+changed:      domain-registrar AT isoc.org.il 20020924
+changed:      domain-registrar AT isoc.org.il 20021225
+changed:      domain-registrar AT isoc.org.il 20030323
+changed:      domain-registrar AT isoc.org.il 20030618
+changed:      domain-registrar AT isoc.org.il 20031222
+changed:      domain-registrar AT isoc.org.il 20040210
+changed:      domain-registrar AT isoc.org.il 20040603
+changed:      domain-registrar AT isoc.org.il 20040726
+changed:      domain-registrar AT isoc.org.il 20040804
+changed:      domain-registrar AT isoc.org.il 20041102
+changed:      domain-registrar AT isoc.org.il 20041104
+changed:      domain-registrar AT isoc.org.il 20060131
+changed:      domain-registrar AT isoc.org.il 20060209
+changed:      domain-registrar AT isoc.org.il 20060216
+changed:      domain-registrar AT isoc.org.il 20060517
+changed:      domain-registrar AT isoc.org.il 20060606
+changed:      domain-registrar AT isoc.org.il 20060831
+changed:      domain-registrar AT isoc.org.il 20060914
+changed:      domain-registrar AT isoc.org.il 20060926
+changed:      domain-registrar AT isoc.org.il 20061210
+changed:      domain-registrar AT isoc.org.il 20070215
+changed:      domain-registrar AT isoc.org.il 20070514
+changed:      domain-registrar AT isoc.org.il 20070813
+changed:      domain-registrar AT isoc.org.il 20070815
+changed:      domain-registrar AT isoc.org.il 20071015
+changed:      domain-registrar AT isoc.org.il 20080217
+changed:      domain-registrar AT isoc.org.il 20080428
+changed:      domain-registrar AT isoc.org.il 20080922
+changed:      domain-registrar AT isoc.org.il 20081202
+changed:      domain-registrar AT isoc.org.il 20090406
+changed:      domain-registrar AT isoc.org.il 20090419
+changed:      domain-registrar AT isoc.org.il 20090907
+changed:      domain-registrar AT isoc.org.il 20091104
+changed:      domain-registrar AT isoc.org.il 20091209
+changed:      domain-registrar AT isoc.org.il 20110523
+changed:      domain-registrar AT isoc.org.il 20120514
+changed:      domain-registrar AT isoc.org.il 20150602
+changed:      domain-registrar AT isoc.org.il 20160922
+
+registrar name: Israel Internet Association ISOC-IL
+registrar info: www.isoc.org.il
+
+% Rights to the data above are restricted by copyright.

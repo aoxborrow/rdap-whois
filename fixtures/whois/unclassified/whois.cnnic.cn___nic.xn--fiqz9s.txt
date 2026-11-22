@@ -1,0 +1,5 @@
+###%%% QRY: nic.xn--fiqz9s
+###%%% SRV: whois.cnnic.cn
+###%%% TME: 2026-07-14T10:47:14Z
+
+the Domain Name you apply can not be registered online. Please consult your Domain Name registrar

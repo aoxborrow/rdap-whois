@@ -1,0 +1,85 @@
+{
+  "query": "resheba.top",
+  "server": "whois.rrpproxy.net",
+  "domainId": "20200714g10001g-44155660",
+  "domainName": "resheba.top",
+  "creationDate": "2020-07-14T11:27:30Z",
+  "expirationDate": "2031-07-14T11:27:30Z",
+  "registrarExpirationDate": "2031-07-14T11:27:30Z",
+  "updatedDate": "2025-11-27T00:27:12Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.ddos-guard.net",
+    "ns2.ddos-guard.net",
+    "ns3.ddos-guard.net",
+    "ns4.ddos-guard.net",
+    "ns5.ddos-guard.net",
+    "ns6.ddos-guard.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarUrl": "http://www.moniker.com",
+  "registrarAbuseEmail": "abusereport@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Moniker Privacy Services",
+  "registrantOrg": "Moniker Privacy Services",
+  "registrantAddress": [
+    "2320 NE 9th St, Second Floor"
+  ],
+  "registrantCity": "Fort Lauderdale",
+  "registrantState": "FL",
+  "registrantPostalCode": "33304",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.8006886311",
+  "registrantFax": "+1.9545859186",
+  "registrantEmail": "b46af3d285a15f1547ae4fb7eb264cf23ce3da6aa2deb5b2a3a9d5717a4a8133@resheba.top.whoisproxy.org",
+  "adminId": "Not Available From Registry",
+  "adminName": "Moniker Privacy Services",
+  "adminOrg": "Moniker Privacy Services",
+  "adminAddress": [
+    "2320 NE 9th St, Second Floor"
+  ],
+  "adminCity": "Fort Lauderdale",
+  "adminState": "FL",
+  "adminPostalCode": "33304",
+  "adminCountry": "US",
+  "adminPhone": "+1.8006886311",
+  "adminFax": "+1.9545859186",
+  "adminEmail": "b46af3d285a15f1547ae4fb7eb264cf23ce3da6aa2deb5b2a3a9d5717a4a8133@resheba.top.whoisproxy.org",
+  "techId": "Not Available From Registry",
+  "techName": "Moniker Privacy Services",
+  "techOrg": "Moniker Privacy Services",
+  "techAddress": [
+    "2320 NE 9th St, Second Floor"
+  ],
+  "techCity": "Fort Lauderdale",
+  "techState": "FL",
+  "techPostalCode": "33304",
+  "techCountry": "US",
+  "techPhone": "+1.8006886311",
+  "techFax": "+1.9545859186",
+  "techEmail": "b46af3d285a15f1547ae4fb7eb264cf2b947c12bb3fa9c3d3f631a96d3675d6e@resheba.top.whoisproxy.org",
+  "billingId": "Not Available From Registry",
+  "billingName": "Moniker Privacy Services",
+  "billingOrg": "Moniker Privacy Services",
+  "billingAddress": [
+    "2320 NE 9th St, Second Floor"
+  ],
+  "billingCity": "Fort Lauderdale",
+  "billingState": "FL",
+  "billingPostalCode": "33304",
+  "billingCountry": "US",
+  "billingPhone": "+1.8006886311",
+  "billingFax": "+1.9545859186",
+  "billingEmail": "b46af3d285a15f1547ae4fb7eb264cf27929c0039e79852d7a3b320b5b324ece@resheba.top.whoisproxy.org"
+}

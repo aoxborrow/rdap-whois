@@ -1,0 +1,54 @@
+{
+  "query": "nic.uz",
+  "server": "whois.cctld.uz",
+  "domainName": "nic.uz",
+  "creationDate": "2006-06-16T00:00:00Z",
+  "updatedDate": "2022-06-14T00:00:00Z",
+  "eppStatusRaw": [
+    "RESERVED",
+    "RESERVED"
+  ],
+  "nameservers": [
+    "ns.uz",
+    "ns2.uz"
+  ],
+  "registrarName": "ЕИ UZINFOCOM Администрация",
+  "registrarUrl": "http://www.cctld.uz",
+  "registrarWhoisServer": "www.whois.uz",
+  "registrantName": "Center UZINFOCOM",
+  "registrantAddress": [
+    "A.Navoi str., 28 B"
+  ],
+  "registrantCity": "Tashkent",
+  "registrantPostalCode": "100011",
+  "registrantCountry": "UZ",
+  "registrantPhone": "+998 71 238-42-00",
+  "registrantFax": "Fax. +998 71 238-42-48",
+  "adminName": "Center UZINFOCOM",
+  "adminAddress": [
+    "A.Navoi str., 28 B"
+  ],
+  "adminCity": "Tashkent",
+  "adminPostalCode": "100011",
+  "adminCountry": "UZ",
+  "adminPhone": "+998 71 238-42-00",
+  "adminFax": "Fax. +998 71 238-42-48",
+  "techName": "Center UZINFOCOM",
+  "techAddress": [
+    "A.Navoi str., 28 B"
+  ],
+  "techCity": "Tashkent",
+  "techPostalCode": "100011",
+  "techCountry": "UZ",
+  "techPhone": "+998 71 238-42-45",
+  "techFax": "Fax. +998 71 238-42-48",
+  "billingName": "Center UZINFOCOM",
+  "billingAddress": [
+    "A.Navoi str., 28 B"
+  ],
+  "billingCity": "Tashkent",
+  "billingPostalCode": "100011",
+  "billingCountry": "UZ",
+  "billingPhone": "+998 71 238-42-00",
+  "billingFax": "Fax. +998 71 238-42-48"
+}

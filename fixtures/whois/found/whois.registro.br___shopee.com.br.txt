@@ -1,0 +1,54 @@
+###%%% QRY: shopee.com.br
+###%%% SRV: whois.registro.br
+###%%% TME: 2026-07-16T11:45:01Z
+
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2026-07-16T08:45:02-03:00 - 192.0.2.1
+
+domain:      shopee.com.br
+owner:       SHPS TECNOLOGIA E SERVICOS LTDA
+ownerid:     35.635.824/0001-12
+responsible: SHPS TECNOLOGIA E SERVICOS LTDA
+country:     BR
+owner-c:     STSLT65
+tech-c:      SSPLI5
+nserver:     ns-125.awsdns-15.com
+nsstat:      20260712 AA
+nslastaa:    20260712
+nserver:     ns-979.awsdns-58.net
+nsstat:      20260712 AA
+nslastaa:    20260712
+nserver:     ns-1496.awsdns-59.org
+nsstat:      20260712 AA
+nslastaa:    20260712
+nserver:     ns-1537.awsdns-00.co.uk
+nsstat:      20260712 AA
+nslastaa:    20260712
+saci:        yes
+created:     20160228 #15229878
+changed:     20251007
+expires:     20270228
+status:      published
+
+nic-hdl-br:  STSLT65
+person:      SHPS TECNOLOGIA E SERVICOS LTDA
+e-mail:      domain@seagroup.com
+country:     BR
+created:     20200826
+changed:     20230428
+
+nic-hdl-br:  SSPLI5
+person:      Shopee Singapore Private Limited
+e-mail:      dns-admin@cscglobal.com
+country:     SG
+created:     20200917
+changed:     20200917
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

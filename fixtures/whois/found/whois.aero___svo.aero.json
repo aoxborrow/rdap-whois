@@ -1,0 +1,74 @@
+{
+  "query": "svo.aero",
+  "server": "whois.aero",
+  "domainId": "REDACTED",
+  "domainName": "svo.aero",
+  "creationDate": "2005-04-26T08:07:08Z",
+  "expirationDate": "2035-04-26T08:07:08Z",
+  "updatedDate": "2026-08-12T12:28:19Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.svo.aero",
+    "ns2.svo.aero",
+    "ns4-l2.nic.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "Regional Network Information Center, JSC dba RU-CENTER",
+  "registrarUrl": "https://www.nic.ru/en",
+  "registrarAbuseEmail": "tld-abuse@nic.ru",
+  "registrarAbusePhone": "+7.4950091333",
+  "registrarWhoisServer": "whois.nic.ru",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "JSC \"Sheremetyevo International Airport\"",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "Moscow region",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "RU",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

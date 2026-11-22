@@ -1,0 +1,57 @@
+{
+  "domainName": "google.sk",
+  "creationDate": "2003-07-24T00:00:00Z",
+  "expirationDate": "2025-07-24T00:00:00Z",
+  "updatedDate": "2024-06-22T00:00:00Z",
+  "status": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor International Limited",
+  "registrarAddress": [
+    "12 New Fetter Lane"
+  ],
+  "registrarCity": "London",
+  "registrarPostalCode": "EC4A 1JP",
+  "registrarCountry": "GB",
+  "registrarPhone": "+1.2083895740",
+  "registrarEmail": "registry.admin@markmonitor.com",
+  "registrantId": "mmr-170347",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google Ireland Holdings Unlimited Company",
+  "registrantAddress": [
+    "70 Sir John Rogerson's Quay"
+  ],
+  "registrantCity": "Dublin",
+  "registrantPostalCode": "2",
+  "registrantCountry": "IE",
+  "registrantPhone": "+353.14361000",
+  "registrantEmail": "dns-admin@google.com",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Google Ireland Holdings Unlimited Company",
+  "adminAddress": [
+    "70 Sir John Rogerson's Quay"
+  ],
+  "adminCity": "Dublin",
+  "adminPostalCode": "2",
+  "adminCountry": "IE",
+  "adminPhone": "+353.14361000",
+  "adminEmail": "dns-admin@google.com",
+  "techName": "Domain Administrator",
+  "techOrg": "Google Ireland Holdings Unlimited Company",
+  "techAddress": [
+    "70 Sir John Rogerson's Quay"
+  ],
+  "techCity": "Dublin",
+  "techPostalCode": "2",
+  "techCountry": "IE",
+  "techPhone": "+353.14361000",
+  "techEmail": "dns-admin@google.com"
+}

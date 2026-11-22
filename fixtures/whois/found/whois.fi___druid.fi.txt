@@ -1,0 +1,49 @@
+###%%% QRY: druid.fi
+###%%% SRV: whois.fi
+###%%% TME: 2026-11-22T08:08:05Z
+
+domain.............: druid.fi
+status.............: Registered
+created............: 18.7.2012 04:04:23
+expires............: 17.7.2029 22:16:55
+available..........: 17.8.2029 22:16:55
+modified...........: 19.8.2026 15:30:38
+holder transfer....: 30.6.2025 10:48:42
+RegistryLock.......: no
+
+Nameservers
+
+nserver............: dns54.cloudns.net [Technical check not done]
+nserver............: dns51.cloudns.net [Technical check not done]
+nserver............: dns53.cloudns.net [Technical check not done]
+nserver............: dns52.cloudns.net [Technical check not done]
+
+DNSSEC
+
+dnssec.............: no
+
+Holder
+
+name...............: Druid Oy
+register number....: 2491789-2
+address............: Pasilankatu 2
+postal.............: 00240
+city...............: Helsinki
+country............: Finland
+phone..............: 
+holder email.......: 
+
+Registrar
+
+registrar..........: NETIM
+www................: http://www.netim.com
+
+Reseller
+
+name...............: Cloud DNS Ltd
+email..............: boyan@cloudns.net
+
+>>> Last update of WHOIS database: 22.11.2026 10:00:52 (EET) <<<
+
+
+Copyright (c) Finnish Transport and Communications Agency Traficom

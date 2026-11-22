@@ -1,0 +1,34 @@
+{
+  "query": "nic.shangrila",
+  "server": "whois.nic.shangrila",
+  "domainId": "764e93058ced4b698aa7182d399d59a2-DONUTS",
+  "domainName": "nic.shangrila",
+  "creationDate": "2016-05-31T17:02:15Z",
+  "expirationDate": "2027-05-31T17:02:15Z",
+  "updatedDate": "2026-08-12T10:47:21Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.shangrila",
+    "a2.nic.shangrila",
+    "b0.nic.shangrila",
+    "c0.nic.shangrila"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

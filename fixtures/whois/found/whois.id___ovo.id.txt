@@ -1,0 +1,23 @@
+###%%% QRY: ovo.id
+###%%% SRV: whois.id
+###%%% TME: 2026-07-16T11:38:56Z
+
+Domain Name: OVO.ID
+Registry Domain ID: 423646_DOMAIN_ID-ID
+Registrar WHOIS Server: 
+Registrar URL: www.digitalregistra.co.id
+Updated Date: 2025-11-06T08:56:11Z
+Creation Date: 2015-12-14T07:44:24Z
+Registry Expiry Date: 2030-12-14T23:59:59Z
+Registrar: PT Digital Registra Indonesia
+Registrar IANA ID: 1
+Registrar Abuse Contact Email: info@digitalregistra.co.id
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited
+Name Server: NS-1270.AWSDNS-30.ORG
+Name Server: NS-1779.AWSDNS-30.CO.UK
+Name Server: NS-344.AWSDNS-43.COM
+Name Server: NS-752.AWSDNS-30.NET
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:38:57Z <<<

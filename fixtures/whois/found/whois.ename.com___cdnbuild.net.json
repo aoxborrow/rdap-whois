@@ -1,0 +1,39 @@
+{
+  "query": "cdnbuild.net",
+  "server": "whois.ename.com",
+  "domainId": "2570623127_DOMAIN_NET-VRSN",
+  "domainName": "cdnbuild.net",
+  "creationDate": "2020-11-06T03:19:40Z",
+  "expirationDate": "2027-11-06T03:19:40Z",
+  "registrarExpirationDate": "2027-11-06T03:19:40Z",
+  "updatedDate": "2026-10-02T21:47:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-dispatch-mobile.volc-dns.com",
+    "ns-dispatch-telecom.volc-dns.net",
+    "ns-dispatch-unicom.volc-dns.net",
+    "ns-dispatch1.volc-dns.com",
+    "ns-dispatch2.volc-dns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1331",
+  "registrarIanaId": 1331,
+  "registrarName": "eName Technology Co.,Ltd.",
+  "registrarUrl": "http://www.ename.net",
+  "registrarAbuseEmail": "abuse@ename.com",
+  "registrarAbusePhone": "+86.4000044400",
+  "registrarWhoisServer": "whois.ename.com",
+  "registrantState": "BeiJing",
+  "registrantCountry": "CN",
+  "registrantEmail": "https://whois.ename.net/contact/cdnbuild.net",
+  "adminEmail": "https://whois.ename.net/contact/cdnbuild.net",
+  "techEmail": "https://whois.ename.net/contact/cdnbuild.net"
+}

@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.xn--j1amh
+###%%% SRV: whois.dotukr.com
+###%%% TME: 2025-03-20T16:16:06Z
+
+Whois Server Version 1.0
+No match for domain notfound-testing-sorry.укр.
+No match for domain notfound-testing-sorry.xn--j1amh.

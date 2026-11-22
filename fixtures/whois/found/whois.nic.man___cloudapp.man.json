@@ -1,0 +1,37 @@
+{
+  "query": "cloudapp.man",
+  "server": "whois.nic.man",
+  "domainId": "DZPRHGKHMOG92-MAN",
+  "domainName": "cloudapp.man",
+  "creationDate": "2017-08-04T09:47:07Z",
+  "expirationDate": "2027-08-04T09:47:07Z",
+  "updatedDate": "2019-04-24T11:11:55Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-25.awsdns-03.com",
+    "ns-800.awsdns-36.net",
+    "ns-1375.awsdns-43.org",
+    "ns-1645.awsdns-13.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3779",
+  "registrarIanaId": 3779,
+  "registrarName": "Knipp Medien und Kommunikation GmbH",
+  "registrarUrl": "http://www.knipp.de",
+  "registrarAbuseEmail": "registrar@knipp.de",
+  "registrarAbusePhone": "+49.23197030",
+  "registrarWhoisServer": "whois.registrar.knipp.de",
+  "registrantOrg": "MAN Truck & Bus SE",
+  "registrantCountry": "DE",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

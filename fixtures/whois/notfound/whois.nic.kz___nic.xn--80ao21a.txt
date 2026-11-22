@@ -1,0 +1,8 @@
+###%%% QRY: nic.xn--80ao21a
+###%%% SRV: whois.nic.kz
+###%%% TME: 2026-07-14T10:47:08Z
+
+Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+*** Nothing found for this query.

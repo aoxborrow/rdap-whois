@@ -1,0 +1,28 @@
+{
+  "query": "afilmywap.giving",
+  "server": "whois.nic.giving",
+  "domainId": "REDACTED",
+  "domainName": "afilmywap.giving",
+  "creationDate": "2026-06-04T05:10:12Z",
+  "expirationDate": "2027-06-04T05:10:12Z",
+  "updatedDate": "2026-08-12T09:03:45Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "faye.ns.cloudflare.com",
+    "javier.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3862",
+  "registrarIanaId": 3862,
+  "registrarName": "Spaceship, Inc.",
+  "registrarUrl": "http://www.spaceship.com",
+  "registrarAbuseEmail": "abuse@spaceship.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "https://rdap.spaceship.com"
+}

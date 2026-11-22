@@ -1,0 +1,54 @@
+{
+  "query": "hicloud.com",
+  "server": "whois.sfn.cn",
+  "domainId": "1429950708_DOMAIN_COM-VRSN",
+  "domainName": "hicloud.com",
+  "creationDate": "2008-03-22T21:56:43Z",
+  "expirationDate": "2028-03-22T21:56:43Z",
+  "registrarExpirationDate": "2028-03-22T21:56:43Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns3.dnsv5.com",
+    "ns4.dnsv5.com"
+  ],
+  "registrarId": "1588",
+  "registrarIanaId": 1588,
+  "registrarName": "BEIJING SANFRONT INFORMATION TECHNOLOGY CO., LTD",
+  "registrarUrl": "https://www.sfn.cn",
+  "registrarAbuseEmail": "kefu@sfn.cn",
+  "registrarAbusePhone": "+86.1083026123",
+  "registrarWhoisServer": "whois.sfn.cn",
+  "registrantId": "sfn7031463227653",
+  "registrantName": "该域名已开通隐私保护",
+  "registrantOrg": "该域名已开通隐私保护",
+  "registrantAddress": [
+    "No.101,RuanjiandadaoRd.,YuhuataiDistrict,Nanjing,Jiangsu,China"
+  ],
+  "registrantCity": "Nan Jing Shi",
+  "registrantState": "Jiang Su Sheng",
+  "registrantPostalCode": "210000",
+  "registrantCountry": "CN",
+  "adminName": "该域名已开通隐私保护",
+  "adminOrg": "该域名已开通隐私保护",
+  "adminAddress": [
+    "No.101,RuanjiandadaoRd.,YuhuataiDistrict,Nanjing,Jiangsu,China"
+  ],
+  "adminCity": "Nan Jing Shi",
+  "adminState": "Jiang Su Sheng",
+  "adminPostalCode": "210000",
+  "adminCountry": "CN",
+  "techName": "该域名已开通隐私保护",
+  "techOrg": "该域名已开通隐私保护",
+  "techAddress": [
+    "No.101,RuanjiandadaoRd.,YuhuataiDistrict,Nanjing,Jiangsu,China"
+  ],
+  "techCity": "Nan Jing Shi",
+  "techState": "Jiang Su Sheng",
+  "techPostalCode": "210000",
+  "techCountry": "CN"
+}

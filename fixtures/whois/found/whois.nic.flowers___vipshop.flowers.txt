@@ -1,0 +1,44 @@
+###%%% QRY: vipshop.flowers
+###%%% SRV: whois.nic.flowers
+###%%% TME: 2026-07-16T23:32:42Z
+
+Domain Name: VIPSHOP.FLOWERS
+Registry Domain ID: D308084158-CNIC
+Registrar WHOIS Server: whois.webnic.cc
+Registrar URL: https://www.webnic.cc
+Updated Date: 2026-07-09T20:32:41.0Z
+Creation Date: 2016-11-02T12:38:10.0Z
+Registry Expiry Date: 2026-11-02T23:59:59.0Z
+Registrar: Web Commerce Communications Limited dba WebNic.cc
+Registrar IANA ID: 460
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Name Server: NS1.SAZANDEGANWEB.COM
+Name Server: NS2.SAZANDEGANWEB.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: support@webnic.cc
+Registrar Abuse Contact Phone: +60.389966788
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:32:43.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit
+https://www.centralnicregistry.com/support/information/rdap <<<
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

@@ -1,0 +1,62 @@
+###%%% QRY: willhaben.at
+###%%% SRV: whois.nic.at
+###%%% TME: 2025-04-09T08:30:33Z
+
+% Copyright (c)2025 by NIC.AT (1)                                       
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         willhaben.at
+registrar:      DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 )
+registrant:     WISG11733382-NICAT
+tech-c:         SISG4765752-NICAT
+nserver:        acns01.xaas.systems
+nserver:        acns02.xaas.systems
+nserver:        acns04.xaas.systems
+nserver:        acns05.xaas.systems
+changed:        20200527 08:29:53
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   willhaben internet service GmbH & Co KG
+street address: Landstrasser Hauptstrasse 97-101
+postal code:    1030
+city:           Wien
+country:        Austria
+phone:          +4312055000
+e-mail:         info@willhaben.at
+nic-hdl:        WISG11733382-NICAT
+changed:        20180131 11:05:31
+source:         AT-DOM
+
+personname:     Uwe Holzer
+organization:   Styria IT Solutions GmbH & Co KG
+street address: Gadollaplatz 1
+postal code:    8010
+city:           Graz
+country:        Austria
+phone:          +434635800304
+fax-no:         +434635800296
+e-mail:         domain@styria-it.com
+nic-hdl:        SISG4765752-NICAT
+changed:        20151021 16:23:11
+source:         AT-DOM

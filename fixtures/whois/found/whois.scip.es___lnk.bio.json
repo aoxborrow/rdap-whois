@@ -1,0 +1,79 @@
+{
+  "query": "lnk.bio",
+  "server": "whois.scip.es",
+  "domainId": "D503300000036880065-LRMS",
+  "domainName": "lnk.bio",
+  "creationDate": "2017-03-16T00:17:08Z",
+  "expirationDate": "2029-03-16T00:17:08Z",
+  "registrarExpirationDate": "2029-03-16T00:17:08Z",
+  "updatedDate": "2025-02-14T07:25:39Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok http://www.icann.org/epp#ok",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "maleah.ns.cloudflare.com",
+    "will.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1383",
+  "registrarIanaId": 1383,
+  "registrarName": "DonDominio (SCIP)",
+  "registrarUrl": "https://www.dondominio.com",
+  "registrarAbuseEmail": "abuse@scip.es",
+  "registrarAbusePhone": "+34.871-98-63-87",
+  "registrarWhoisServer": "whois.scip.es",
+  "registrantName": "Redacted for privacy",
+  "registrantOrg": "Gimucco PTE. LTD.",
+  "registrantAddress": [
+    "Redacted for privacy"
+  ],
+  "registrantCity": "Redacted for privacy",
+  "registrantState": "Central",
+  "registrantPostalCode": "Redacted for privacy",
+  "registrantCountry": "SG",
+  "registrantPhone": "Redacted for privacy",
+  "registrantFax": "Redacted for privacy",
+  "registrantEmail": "Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio",
+  "adminName": "Redacted for privacy",
+  "adminOrg": "Redacted for privacy",
+  "adminAddress": [
+    "Redacted for privacy"
+  ],
+  "adminCity": "Redacted for privacy",
+  "adminState": "Redacted for privacy",
+  "adminPostalCode": "Redacted for privacy",
+  "adminCountry": "Redacted for privacy",
+  "adminPhone": "Redacted for privacy",
+  "adminFax": "Redacted for privacy",
+  "adminEmail": "Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio",
+  "techName": "Redacted for privacy",
+  "techOrg": "Redacted for privacy",
+  "techAddress": [
+    "Redacted for privacy"
+  ],
+  "techCity": "Redacted for privacy",
+  "techState": "Redacted for privacy",
+  "techPostalCode": "Redacted for privacy",
+  "techCountry": "Redacted for privacy",
+  "techPhone": "Redacted for privacy",
+  "techFax": "Redacted for privacy",
+  "techEmail": "Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio",
+  "billingName": "Redacted for privacy",
+  "billingOrg": "Redacted for privacy",
+  "billingAddress": [
+    "Redacted for privacy"
+  ],
+  "billingCity": "Redacted for privacy",
+  "billingState": "Redacted for privacy",
+  "billingPostalCode": "Redacted for privacy",
+  "billingCountry": "Redacted for privacy",
+  "billingPhone": "Redacted for privacy",
+  "billingFax": "Redacted for privacy",
+  "billingEmail": "Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio"
+}

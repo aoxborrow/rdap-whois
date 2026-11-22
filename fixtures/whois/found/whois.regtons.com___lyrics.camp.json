@@ -1,0 +1,71 @@
+{
+  "query": "lyrics.camp",
+  "server": "whois.regtons.com",
+  "domainId": "f2b74ff6f3124af7b8f3e3e2ae8f8844-DONUTS",
+  "domainName": "lyrics.camp",
+  "creationDate": "2017-09-19T00:00:00Z",
+  "expirationDate": "2025-09-19T00:00:00Z",
+  "registrarExpirationDate": "2025-09-19T00:00:00Z",
+  "updatedDate": "2024-11-29T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "abby.ns.cloudflare.com",
+    "frank.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1505",
+  "registrarIanaId": 1505,
+  "registrarName": "GRANSY S.R.O D/B/A SUBREG.CZ",
+  "registrarUrl": "http://regtons.com",
+  "registrarAbuseEmail": "abuse@regtons.com",
+  "registrarAbusePhone": "+420.734463373",
+  "registrarWhoisServer": "whois.regtons.com",
+  "registrantId": "Not Disclosed",
+  "registrantName": "Not Disclosed Not Disclosed",
+  "registrantOrg": "Future media partners Ltd.",
+  "registrantAddress": [
+    "Not Disclosed"
+  ],
+  "registrantCity": "Not Disclosed",
+  "registrantPostalCode": "Not Disclosed",
+  "registrantCountry": "VC",
+  "registrantPhone": "Not Disclosed",
+  "registrantPhoneExt": "Not Disclosed",
+  "registrantFax": "Not Disclosed",
+  "registrantFaxExt": "Not Disclosed",
+  "registrantEmail": "webproxy@whoisprotection.domains",
+  "adminId": "Not Disclosed",
+  "adminName": "Not Disclosed Not Disclosed",
+  "adminAddress": [
+    "Not Disclosed"
+  ],
+  "adminCity": "Not Disclosed",
+  "adminState": "Not Disclosed",
+  "adminPostalCode": "Not Disclosed",
+  "adminCountry": "Not Disclosed",
+  "adminPhone": "Not Disclosed",
+  "adminPhoneExt": "Not Disclosed",
+  "adminFax": "Not Disclosed",
+  "adminFaxExt": "Not Disclosed",
+  "adminEmail": "webproxy@whoisprotection.domains",
+  "techId": "Not Disclosed",
+  "techName": "Not Disclosed Not Disclosed",
+  "techAddress": [
+    "Not Disclosed"
+  ],
+  "techCity": "Not Disclosed",
+  "techState": "Not Disclosed",
+  "techPostalCode": "Not Disclosed",
+  "techCountry": "Not Disclosed",
+  "techPhone": "Not Disclosed",
+  "techPhoneExt": "Not Disclosed",
+  "techFax": "Not Disclosed",
+  "techFaxExt": "Not Disclosed",
+  "techEmail": "webproxy@whoisprotection.domains"
+}

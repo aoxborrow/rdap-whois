@@ -1,0 +1,120 @@
+###%%% QRY: nscluster.wf
+###%%% SRV: whois.nic.wf
+###%%% TME: 2026-07-16T11:44:44Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        nscluster.wf
+status:                        ACTIVE
+eppstatus:                     clientTransferProhibited
+hold:                          NO
+holder-c:                      CTC6241-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        CTC4610-FRNIC
+registrar:                     NameWeb bvba
+Expiry Date:                   2027-03-22T12:04:47Z
+created:                       2017-03-22T12:04:47Z
+last-update:                   2026-03-25T23:38:30.717078Z
+source:                        FRNIC
+
+nserver:                       ns.nscluster.be
+nserver:                       ns.nscluster.eu
+nserver:                       ns.nscluster.uk
+nserver:                       ns.nscluster.us
+nserver:                       ns.nscluster.wf
+source:                        FRNIC
+
+registrar:                     NameWeb bvba
+address:                       Zakstraat 44B à 2520 RANST
+address:                       2520 RANST
+country:                       BE
+phone:                         +32.33699772
+fax-no:                        +32.34001710
+e-mail:                        info@nameweb.biz
+website:                       http://www.nameweb.biz
+anonymous:                     No
+registered:                    2006-05-01T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC6241-FRNIC
+type:                          ORGANIZATION
+contact:                       NAMEWEB BV
+address:                       NAMEWEB BV
+address:                       Zakstraat 43A
+address:                       2520 Ranst
+country:                       BE
+phone:                         +32.33699772
+fax-no:                        +32.33699772
+e-mail:                        domains@NameWeb.biz
+registrar:                     NameWeb bvba
+changed:                       2025-12-04T23:22:16.247677Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-12-04T23:22:16.247769Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-12-04T23:22:16.247789Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     NameWeb bvba
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2026-03-03T12:59:54.820139Z
+source:                        FRNIC
+
+nic-hdl:                       CTC4610-FRNIC
+type:                          ORGANIZATION
+contact:                       NAMEWEB BV
+address:                       NAMEWEB BV
+address:                       Zakstraat 43A
+address:                       2520 Ranst
+country:                       BE
+phone:                         +32.33699772
+fax-no:                        +32.33699772
+e-mail:                        domains@NameWeb.biz
+registrar:                     NameWeb bvba
+changed:                       2025-12-04T23:22:16.32571Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2024-03-20T23:38:25.990082Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2024-03-20T23:38:25.990082Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:45.050107Z <<<

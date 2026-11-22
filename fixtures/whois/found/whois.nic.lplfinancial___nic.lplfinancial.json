@@ -1,0 +1,58 @@
+{
+  "query": "nic.lplfinancial",
+  "server": "whois.nic.lplfinancial",
+  "domainId": "D57488239-CNIC",
+  "domainName": "nic.lplfinancial",
+  "creationDate": "2015-10-13T12:23:19Z",
+  "expirationDate": "2027-10-13T23:59:59Z",
+  "updatedDate": "2026-10-07T00:05:19Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.lplfinancial",
+    "b.nic.lplfinancial",
+    "c.nic.lplfinancial",
+    "d.nic.lplfinancial"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CentralNic Ltd",
+  "registrarUrl": "https://www.centralnic.com",
+  "registrarAbuseEmail": "ops@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.centralnic.com",
+  "registrantName": "Richard Cook",
+  "registrantOrg": "LPLFinancial",
+  "registrantAddress": [
+    "4707 Executive Drive"
+  ],
+  "registrantCity": "San Diego",
+  "registrantState": "CA",
+  "registrantPostalCode": "91921-3091",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.8586639876",
+  "registrantEmail": "richard.cook@lplfinancial.com",
+  "techName": "Richard Cook",
+  "techOrg": "LPLFinancial",
+  "techAddress": [
+    "4707 Executive Drive"
+  ],
+  "techCity": "San Diego",
+  "techState": "CA",
+  "techPostalCode": "91921-3091",
+  "techCountry": "US",
+  "techPhone": "+1.8586639876",
+  "techEmail": "richard.cook@lplfinancial.com"
+}

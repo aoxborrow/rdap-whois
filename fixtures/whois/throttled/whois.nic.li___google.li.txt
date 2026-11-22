@@ -1,0 +1,5 @@
+###%%% QRY: google.li
+###%%% SRV: whois.nic.li
+###%%% TME: 2026-11-16T21:30:00Z
+
+Requests of this client are not permitted. Please use https://www.nic.ch/whois/ for queries.

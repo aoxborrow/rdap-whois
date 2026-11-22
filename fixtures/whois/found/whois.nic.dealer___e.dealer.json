@@ -1,0 +1,35 @@
+{
+  "query": "e.dealer",
+  "server": "whois.nic.dealer",
+  "domainId": "D235754458-CNIC",
+  "domainName": "e.dealer",
+  "creationDate": "2020-02-14T23:13:45Z",
+  "expirationDate": "2032-02-14T23:59:59Z",
+  "updatedDate": "2023-08-31T16:54:34Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-208.awsdns-26.com",
+    "ns-714.awsdns-25.net",
+    "ns-1429.awsdns-50.org",
+    "ns-1798.awsdns-32.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1011",
+  "registrarIanaId": 1011,
+  "registrarName": "101domain GRS Limited",
+  "registrarUrl": "https://101domain.com",
+  "registrarAbuseEmail": "abuse@101domain.com",
+  "registrarAbusePhone": "+1.7604448674",
+  "registrarWhoisServer": "whois.101domain.com",
+  "registrantOrg": "Digital Privacy Corporation",
+  "registrantState": "CA",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

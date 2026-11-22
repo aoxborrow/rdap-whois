@@ -1,0 +1,82 @@
+{
+  "query": "amazon.in",
+  "server": "whois.registry.in",
+  "domainId": "D15860-IN",
+  "domainName": "amazon.in",
+  "creationDate": "2005-02-11T11:14:14Z",
+  "expirationDate": "2026-02-11T11:14:14Z",
+  "updatedDate": "2025-01-15T09:50:52Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.amzndns.co.uk",
+    "ns1.amzndns.com",
+    "ns1.amzndns.net",
+    "ns1.amzndns.org",
+    "ns2.amzndns.co.uk",
+    "ns2.amzndns.com",
+    "ns2.amzndns.net",
+    "ns2.amzndns.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "registry.admin@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Amazon Technologies, Inc.",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "NV",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please contact the Registrar listed above",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please contact the Registrar listed above",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please contact the Registrar listed above"
+}

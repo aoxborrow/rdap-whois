@@ -1,0 +1,42 @@
+{
+  "query": "nic.sk",
+  "server": "whois.sk-nic.sk",
+  "domainName": "nic.sk",
+  "creationDate": "2003-09-30T00:00:00Z",
+  "expirationDate": "2027-09-30T00:00:00Z",
+  "updatedDate": "2026-09-08T00:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited, clientUpdateProhibited, clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.nic.sk",
+    "ns2.nic.sk",
+    "ns3.nic.sk",
+    "ns4.nic.sk"
+  ],
+  "registrarId": "WEBG-0001",
+  "registrarName": "Webglobe, a.s.",
+  "registrarOrg": "Webglobe, a.s.",
+  "registrarAddress": [
+    "Stará Prievozská 1349/2"
+  ],
+  "registrarCity": "Bratislava - mestská časť Ružinov",
+  "registrarPostalCode": "821 09",
+  "registrarCountry": "SK",
+  "registrarPhone": "+421.258101062",
+  "registrarEmail": "info@webglobe.sk",
+  "registrantId": "WY-237559",
+  "registrantName": "Igor Strečko",
+  "registrantOrg": "Webglobe, a.s.",
+  "registrantAddress": [
+    "Stará Prievozská 1349/2"
+  ],
+  "registrantCity": "Bratislava - mestská časť Ružinov",
+  "registrantPostalCode": "821 09",
+  "registrantCountry": "SK"
+}

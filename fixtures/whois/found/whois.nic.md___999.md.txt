@@ -1,0 +1,19 @@
+###%%% QRY: 999.md
+###%%% SRV: whois.nic.md
+###%%% TME: 2026-11-22T08:11:00Z
+
+% © NIC.MD
+% Whois Server  v3.0.1
+% Website       https://nic.md/en/whois/
+% Terms of use  https://nic.md/img/legal/Rules_registration_subdomain_md.pdf
+% Last  update  2026-11-22T10:11:00+02:00
+
+Domain  name:   999.md
+Domain state:   OK Delegated
+Registrar:      HOST.MD
+
+Registered on:  1999-12-05
+Expires on:     2027-12-05
+
+NameServer:     pdns03.domaincontrol.com
+NameServer:     pdns04.domaincontrol.com

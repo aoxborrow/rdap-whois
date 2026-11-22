@@ -1,0 +1,40 @@
+{
+  "query": "bancocredicoop.coop",
+  "server": "whois.nic.coop",
+  "domainId": "D7881088-CNIC",
+  "domainName": "bancocredicoop.coop",
+  "creationDate": "2002-04-05T10:21:48Z",
+  "expirationDate": "2027-04-05T23:59:59Z",
+  "updatedDate": "2026-03-24T18:19:17Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.credicoop.com.ar",
+    "ns2.credicoop.com.ar"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "465",
+  "registrarIanaId": 465,
+  "registrarName": "Domains.coop Limited",
+  "registrarUrl": "http://www.domains.coop",
+  "registrarAbuseEmail": "abuse@domains.coop",
+  "registrarAbusePhone": "+44.1865522599",
+  "registrarWhoisServer": "http://whois.domains.coop",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "BANCO CREDICOOP COOPERATIVO LTDO",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "AR",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

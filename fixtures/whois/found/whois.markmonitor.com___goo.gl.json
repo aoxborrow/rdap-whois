@@ -1,0 +1,41 @@
+{
+  "query": "goo.gl",
+  "server": "whois.markmonitor.com",
+  "domainName": "goo.gl",
+  "creationDate": "2005-06-16T07:00:00Z",
+  "expirationDate": "2027-01-01T00:00:00Z",
+  "registrarExpirationDate": "2027-01-01T08:00:00Z",
+  "updatedDate": "2025-12-02T01:11:38Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantState": "CA",
+  "registrantCountry": "US"
+}

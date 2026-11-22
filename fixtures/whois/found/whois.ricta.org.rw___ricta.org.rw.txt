@@ -1,0 +1,31 @@
+###%%% QRY: ricta.org.rw
+###%%% SRV: whois.ricta.org.rw
+###%%% TME: 2026-07-16T23:58:19Z
+
+Domain Name: ricta.org.rw
+Registry Domain ID: 3267-CoCCA
+Registrar URL: https://ricta.org.rw
+Updated Date: 2026-03-06T14:08:20Z
+Creation Date: 2012-12-31T22:00:00Z
+Registry Expiry Date: 2035-12-14T00:00:00Z
+Registrar Registration Expiration Date: 2035-12-14T00:00:00Z
+Registrar: RICTA
+Registrar Phone: +250781151371
+Registrar Email: noc@ricta.org.rw
+Registrar Abuse Contact Email: noc@ricta.org.rw
+Registrar Abuse Contact Phone: +250781151371
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Registry Registrant ID: 8963RICTA
+Name Server: ns2.ricta.org.rw
+Name Server: ns1.ricta.org.rw
+Name Server: ns3.ricta.org.rw
+>>> Last update of WHOIS database: 2026-07-16T23:47:30.723Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The Data in RICTA WHOIS database is provided by RICTA  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.RICTA does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or  (2) enable high volume, automated, electronic processes that apply to RICTA  (or its systems). RICTA reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

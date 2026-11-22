@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.samsung
+###%%% SRV: whois.nic.samsung
+###%%% TME: 2025-03-20T16:13:39Z
+
+DOMAIN NOT FOUND

@@ -1,0 +1,25 @@
+{
+  "query": "com.se",
+  "server": "whois.iis.se",
+  "domainName": "com.se",
+  "creationDate": "2013-10-09T00:00:00Z",
+  "expirationDate": "2027-10-09T00:00:00Z",
+  "updatedDate": "2026-09-25T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active",
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.centralnic.net",
+    "ns2.centralnic.net",
+    "ns3.centralnic.net",
+    "ns4.centralnic.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signed delegation",
+  "registrarName": "Key-Systems Gmbh",
+  "registrantId": "domcen9228-00001"
+}

@@ -1,0 +1,12 @@
+{
+  "domainName": "google.ch",
+  "creationDate": "1999-05-31T00:00:00Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssecRaw": "N",
+  "registrarName": "MarkMonitor"
+}

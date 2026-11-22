@@ -1,0 +1,41 @@
+###%%% QRY: people.deloitte
+###%%% SRV: whois.nic.deloitte
+###%%% TME: 2026-11-22T08:09:44Z
+
+Domain Name: PEOPLE.DELOITTE
+Registry Domain ID: D151928266-CNIC
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL:
+Updated Date: 2026-08-05T14:52:54.0Z
+Creation Date: 2019-12-11T17:57:37.0Z
+Registry Expiry Date: 2027-12-11T23:59:59.0Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Organization: Deloitte Touche Tohmatsu
+Registrant State/Province: NY
+Registrant Country: US
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: A14-67.AKAM.NET
+Name Server: A16-64.AKAM.NET
+Name Server: A7-66.AKAM.NET
+Name Server: A12-66.AKAM.NET
+Name Server: A5-65.AKAM.NET
+Name Server: A1-129.AKAM.NET
+DNSSEC: signedDelegation
+Registrar Abuse Contact Email: ccops@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:09:44.0Z <<<
+
+WHOIS LEGAL STATEMENT AND TERMS & CONDITIONS
+ Copyright 2018. For information, contact Deloitte Touche Tohmatsu Limited.
+
+ Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited ("DTTL"), 
+ its global network of member firms, and their related entities. DTTL 
+ (also referred to as "Deloitte Global") and each of its member firms are legally 
+ separate and independent entities. DTTL does not provide services to clients. 
+ Please see www.deloitte.com/about to learn more.

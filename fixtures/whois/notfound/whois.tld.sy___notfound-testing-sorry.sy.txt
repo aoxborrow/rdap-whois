@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.sy
+###%%% SRV: whois.tld.sy
+###%%% TME: 2025-03-20T16:12:44Z
+
+Domain Name: notfound-testing-sorry.sy
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2025-03-20T16:00:10.662Z <<<

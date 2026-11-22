@@ -1,0 +1,32 @@
+###%%% QRY: betpawa.co.tz
+###%%% SRV: whois.tznic.or.tz
+###%%% TME: 2026-11-22T08:14:30Z
+
+%  https://karibu.tz/media/WHOIS_TERMS_TOU.pdf
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Sun Nov 22 11:14:30 2026
+
+domain:       betpawa.co.tz
+registrant:   MCRC456656
+admin-c:      MCRC000000
+nsset:        MCRC116040
+registrar:    REG-MARCARIA
+registered:   02.11.2016 21:16:12
+changed:      02.04.2026 15:06:53
+expire:       02.11.2027
+
+contact:      MCRC456656
+registrar:    REG-MARCARIA
+created:      02.04.2026 15:01:59
+
+contact:      MCRC000000
+registrar:    REG-MARCARIA
+created:      12.08.2023 02:58:24
+
+nsset:        MCRC116040
+nserver:      damian.ns.cloudflare.com 
+nserver:      isla.ns.cloudflare.com 
+tech-c:       MCRC000000
+registrar:    REG-MARCARIA
+created:      29.11.2023 18:03:09

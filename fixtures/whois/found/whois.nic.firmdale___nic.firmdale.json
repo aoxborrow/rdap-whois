@@ -1,0 +1,36 @@
+{
+  "query": "nic.firmdale",
+  "server": "whois.nic.firmdale",
+  "domainId": "FD-76",
+  "domainName": "nic.firmdale",
+  "creationDate": "2014-11-01T14:38:50Z",
+  "expirationDate": "2034-11-01T14:38:50Z",
+  "updatedDate": "2025-03-13T09:05:19Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns3.nic.firmdale",
+    "ns4.nic.firmdale"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "FIRMDALE HOLDINGS LIMITED",
+  "registrarWhoisServer": "whois.nic.firmdale",
+  "registrantId": "FD9T",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "FIRMDALE HOLDINGS LIMITED",
+  "registrantAddress": [
+    "21 GOLDEN SQUARE"
+  ],
+  "registrantCity": "LONDON",
+  "registrantPostalCode": "W1F 9JN",
+  "registrantCountry": "UK",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY"
+}

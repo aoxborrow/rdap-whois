@@ -1,0 +1,16 @@
+###%%% QRY: priceoye.pk
+###%%% SRV: whois.pknic.net.pk
+###%%% TME: 2026-07-16T11:44:52Z
+
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: priceoye.pk
+    Status: Domain is Registered
+    
+
+    Creation Date: 2015-11-27
+    Expiry Date: 2029-11-27
+    Name Server: augustus.ns.cloudflare.com
+    Name Server: vida.ns.cloudflare.com
+    Name Server: 
+    Name Server:

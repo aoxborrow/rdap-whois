@@ -1,0 +1,36 @@
+###%%% QRY: ad4m.ax
+###%%% SRV: whois.ax
+###%%% TME: 2026-11-22T08:13:51Z
+
+domain...............: ad4m.ax
+status...............: Registered
+created..............: 06.06.2024
+expires..............: 06.06.2027
+available............: 07.07.2027
+modified.............: 27.05.2026
+RegistryLock.........: no
+
+Nameservers
+
+nserver..............: a.ns14.net
+nserver..............: b.ns14.net
+nserver..............: c.ns14.net
+nserver..............: d.ns14.net
+
+Holder
+
+name.................: advanced STORE GmbH
+register number......: DE261726838
+address..............: Stefan-Heym-Platz 1
+address..............: 10367
+address..............: Berlin
+country..............: DE
+phone................: +49-30-577066020
+holder email.........: domains@advanced-store.com
+
+Registrar
+
+registrar............: InterNetX GmbH
+www..................: http://www.internetx.com
+
+Copyright (c) Ålands Landskapsregering

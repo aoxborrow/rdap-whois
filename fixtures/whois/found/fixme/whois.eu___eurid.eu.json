@@ -1,0 +1,17 @@
+{
+  "domainName": "eurid.eu",
+  "status": [],
+  "nameservers": [
+    "ns1.eurid.eu",
+    "ns2.eurid.eu",
+    "ns3.eurid.eu",
+    "ns4.eurid.eu",
+    "nsp.netnod.se",
+    "nsx.eurid.eu"
+  ],
+  "registrarName": "EURid vzw",
+  "registrarUrl": "https://www.eurid.eu",
+  "registrantName": "NOT DISCLOSED!",
+  "techOrg": "EURid vzw",
+  "techEmail": "tech@eurid.eu"
+}

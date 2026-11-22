@@ -1,0 +1,69 @@
+{
+  "query": "hava.ist",
+  "server": "whois.apiname.com",
+  "domainId": "D425500000066699626-AGRS",
+  "domainName": "hava.ist",
+  "creationDate": "2018-10-23T17:14:19Z",
+  "expirationDate": "2025-10-23T17:14:19Z",
+  "registrarExpirationDate": "2025-10-23T17:14:19Z",
+  "updatedDate": "2021-04-26T07:47:54Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "carol.ns.cloudflare.com",
+    "logan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1601",
+  "registrarIanaId": 1601,
+  "registrarName": "Atak Domain",
+  "registrarReseller": "Atak Domain",
+  "registrarUrl": "http://apiname.com",
+  "registrarAbuseEmail": "domain@apiname.com",
+  "registrarAbusePhone": "+90.2623259222",
+  "registrarWhoisServer": "whois.apiname.com",
+  "registrantId": "DNA-DN-9881812",
+  "registrantName": "Ali Arslan",
+  "registrantOrg": "Havaist Tasimacilik AS",
+  "registrantAddress": [
+    "Yahyakemal Mah. Sair Sok. Sarlar Is Merkezi No:1 K:4. Havaist Gultepe, Kagthane, Istanbul"
+  ],
+  "registrantCity": "Kagithane",
+  "registrantState": "Istanbul",
+  "registrantPostalCode": "34403",
+  "registrantCountry": "TR",
+  "registrantPhone": "+90.5051134848",
+  "registrantFax": "+90.5051134848",
+  "registrantEmail": "arslan@z3.com.tr",
+  "adminId": "DNA-DN-9881812",
+  "adminName": "Ali Arslan",
+  "adminOrg": "Havaist Tasimacilik AS",
+  "adminAddress": [
+    "Yahyakemal Mah. Sair Sok. Sarlar Is Merkezi No:1 K:4. Havaist Gultepe, Kagthane, Istanbul"
+  ],
+  "adminCity": "Kagithane",
+  "adminState": "Istanbul",
+  "adminPostalCode": "34403",
+  "adminCountry": "TR",
+  "adminPhone": "+90.5051134848",
+  "adminFax": "+90.5051134848",
+  "adminEmail": "arslan@z3.com.tr",
+  "techId": "DNA-DN-9881812",
+  "techName": "Ali Arslan",
+  "techOrg": "Havaist Tasimacilik AS",
+  "techAddress": [
+    "Yahyakemal Mah. Sair Sok. Sarlar Is Merkezi No:1 K:4. Havaist Gultepe, Kagthane, Istanbul"
+  ],
+  "techCity": "Kagithane",
+  "techState": "Istanbul",
+  "techPostalCode": "34403",
+  "techCountry": "TR",
+  "techPhone": "+90.5051134848",
+  "techFax": "+90.5051134848",
+  "techEmail": "arslan@z3.com.tr"
+}

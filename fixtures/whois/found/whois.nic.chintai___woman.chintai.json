@@ -1,0 +1,29 @@
+{
+  "query": "woman.chintai",
+  "server": "whois.nic.chintai",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "woman.chintai",
+  "creationDate": "2017-09-21T09:35:11Z",
+  "expirationDate": "2027-09-21T09:35:11Z",
+  "updatedDate": "2026-09-27T00:10:10Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-468.awsdns-58.com",
+    "ns-962.awsdns-56.net",
+    "ns-1076.awsdns-06.org",
+    "ns-1921.awsdns-48.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "277",
+  "registrarIanaId": 277,
+  "registrarName": "Interlink Co., Ltd.",
+  "registrarUrl": "https://www.interlink.or.jp",
+  "registrarAbuseEmail": "abuse-contact@gonbei.jp",
+  "registrarAbusePhone": "+81.5031366980"
+}

@@ -1,0 +1,27 @@
+{
+  "query": "ton.diamonds",
+  "server": "whois.nic.diamonds",
+  "domainId": "7898910f04c74ef8b4b245bc39549cec-DONUTS",
+  "domainName": "ton.diamonds",
+  "creationDate": "2021-11-07T00:36:35Z",
+  "expirationDate": "2025-11-07T00:36:35Z",
+  "updatedDate": "2024-12-06T00:31:16Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "agustin.ns.cloudflare.com",
+    "celeste.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com"
+}

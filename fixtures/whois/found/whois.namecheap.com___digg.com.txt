@@ -1,0 +1,62 @@
+###%%% QRY: digg.com
+###%%% SRV: whois.namecheap.com
+###%%% TME: 2026-11-22T08:08:08Z
+
+Domain name: digg.com
+Registry Domain ID: 20261849_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2018-12-29T02:29:44.00Z
+Creation Date: 2000-02-20T16:55:16.00Z
+Registrar Registration Expiration Date: 2028-12-29T02:29:44.00Z
+Registrar: NAMECHEAP INC
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: NAMECHEAP INC
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Redacted for Privacy Purposes
+Registrant Organization: Privacy service provided by WITHHELD FOR PRIVACY LLC
+Registrant Street: 16192 Coastal Highway 
+Registrant City: Lewes
+Registrant State/Province: Delaware
+Registrant Postal Code: 19958
+Registrant Country: US
+Registrant Phone: +1.3022061391
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 198acbdcdc6f47caa4d4b3cc7d14b31f.protect@withheldforprivacy.com
+Registry Admin ID: 
+Admin Name: Redacted for Privacy Purposes
+Admin Organization: Privacy service provided by WITHHELD FOR PRIVACY LLC
+Admin Street: 16192 Coastal Highway 
+Admin City: Lewes
+Admin State/Province: Delaware
+Admin Postal Code: 19958
+Admin Country: US
+Admin Phone: +1.3022061391
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 198acbdcdc6f47caa4d4b3cc7d14b31f.protect@withheldforprivacy.com
+Registry Tech ID: 
+Tech Name: Redacted for Privacy Purposes
+Tech Organization: Privacy service provided by WITHHELD FOR PRIVACY LLC
+Tech Street: 16192 Coastal Highway 
+Tech City: Lewes
+Tech State/Province: Delaware
+Tech Postal Code: 19958
+Tech Country: US
+Tech Phone: +1.3022061391
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 198acbdcdc6f47caa4d4b3cc7d14b31f.protect@withheldforprivacy.com
+Name Server: katja.ns.cloudflare.com
+Name Server: zac.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-21T20:49:53.71Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp

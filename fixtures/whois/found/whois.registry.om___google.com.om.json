@@ -1,0 +1,17 @@
+{
+  "query": "google.com.om",
+  "server": "whois.registry.om",
+  "domainId": "DAEF7B17E7D680E18B1839D29F3D8115D-OMREG",
+  "domainName": "google.com.om",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrarId": "700000001",
+  "registrarIanaId": 700000001,
+  "registrarName": "Abu Ghazaleh Intellectual Property (AGIP)",
+  "registrantName": "Google  LLC",
+  "registrantOrg": "Google LLC",
+  "registrantEmail": "dns-admin@google.com",
+  "adminOrg": "Abu-Ghazaleh Intellectual Property  LLC"
+}

@@ -1,0 +1,34 @@
+{
+  "query": "sonos.radio",
+  "server": "whois.nic.radio",
+  "domainId": "D636261012-CNIC",
+  "domainName": "sonos.radio",
+  "creationDate": "2019-07-17T17:40:55Z",
+  "expirationDate": "2027-07-17T23:59:59Z",
+  "updatedDate": "2026-09-02T11:27:42Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-330.awsdns-41.com",
+    "ns-736.awsdns-28.net",
+    "ns-1359.awsdns-41.org",
+    "ns-1872.awsdns-42.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "609",
+  "registrarIanaId": 609,
+  "registrarName": "Sav.com, LLC",
+  "registrarUrl": "https://www.sav.com",
+  "registrarAbuseEmail": "abuse-contact@sav.com",
+  "registrarAbusePhone": "+1.8723954105",
+  "registrarWhoisServer": "whois-service.virtualcloud.co",
+  "registrantOrg": "Super Hi-Fi",
+  "registrantState": "CA",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

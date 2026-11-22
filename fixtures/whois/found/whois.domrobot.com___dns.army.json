@@ -1,0 +1,60 @@
+{
+  "query": "dns.army",
+  "server": "whois.domrobot.com",
+  "domainId": "b30720cf64b44bf9a2532c40879c338d-DONUTS",
+  "domainName": "dns.army",
+  "creationDate": "2016-11-18T01:26:08Z",
+  "expirationDate": "2029-11-18T01:26:08Z",
+  "registrarExpirationDate": "2029-11-18T01:26:08Z",
+  "updatedDate": "2026-10-28T10:22:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.dynv6.com",
+    "ns2.dynv6.com",
+    "ns3.dynv6.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1420",
+  "registrarIanaId": 1420,
+  "registrarName": "INWX GmbH",
+  "registrarReseller": "INWX GmbH",
+  "registrarUrl": "https://whois.domrobot.com",
+  "registrarAbuseEmail": "abuse@domrobot.com",
+  "registrarAbusePhone": "+49.30983212112",
+  "registrarWhoisServer": "whois.domrobot.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "DE",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY"
+}

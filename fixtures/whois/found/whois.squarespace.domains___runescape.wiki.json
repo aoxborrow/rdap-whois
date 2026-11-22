@@ -1,0 +1,67 @@
+{
+  "query": "runescape.wiki",
+  "server": "whois.squarespace.domains",
+  "domainId": "D60769883CNIC-GDREG",
+  "domainName": "runescape.wiki",
+  "creationDate": "2018-02-08T00:18:00Z",
+  "expirationDate": "2026-02-08T23:59:59Z",
+  "registrarExpirationDate": "2026-02-08T23:59:59Z",
+  "updatedDate": "2025-01-25T02:42:34Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "client transfer prohibited http://www.icann.org/epp#client transfer prohibited",
+    "client delete prohibited http://www.icann.org/epp#client delete prohibited"
+  ],
+  "nameservers": [
+    "naomi.ns.cloudflare.com",
+    "tom.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "895",
+  "registrarIanaId": 895,
+  "registrarName": "Squarespace Domains II LLC",
+  "registrarUrl": "https://domains2.squarespace.com",
+  "registrarAbuseEmail": "abuse-complaints@squarespace.com",
+  "registrarAbusePhone": "+1.646-693-5324",
+  "registrarWhoisServer": "whois.squarespace.domains",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Weird Gloop Limited",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "WA",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://domains.squarespace.com/whois-contact-form",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "Weird Gloop Limited",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "WA",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "US",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "https://domains.squarespace.com/whois-contact-form",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "Weird Gloop Limited",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "WA",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "US",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "https://domains.squarespace.com/whois-contact-form"
+}

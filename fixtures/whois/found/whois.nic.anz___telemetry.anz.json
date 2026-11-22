@@ -1,0 +1,30 @@
+{
+  "query": "telemetry.anz",
+  "server": "whois.nic.anz",
+  "domainId": "DC059EC0F229548C0A6F2BE6B1EF4B839-GDREG",
+  "domainName": "telemetry.anz",
+  "creationDate": "2023-02-08T03:32:32Z",
+  "expirationDate": "2027-02-08T03:32:32Z",
+  "updatedDate": "2026-08-06T21:31:11Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-cloud-a1.googledomains.com",
+    "ns-cloud-a2.googledomains.com",
+    "ns-cloud-a3.googledomains.com",
+    "ns-cloud-a4.googledomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://whois.corporatedomains.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

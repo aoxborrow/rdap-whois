@@ -1,0 +1,38 @@
+{
+  "query": "nic.amazon",
+  "server": "whois.iana.org",
+  "domainName": "amazon",
+  "creationDate": "2020-05-28T00:00:00Z",
+  "updatedDate": "2025-02-14T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "dns1.nic.amazon",
+    "dns2.nic.amazon",
+    "dns3.nic.amazon",
+    "dns4.nic.amazon",
+    "dnsa.nic.amazon",
+    "dnsb.nic.amazon",
+    "dnsc.nic.amazon",
+    "dnsd.nic.amazon"
+  ],
+  "dnssecRaw": "14854 8 2 4f9f1805f5689bf4af48f0fa04bef8727b83eac65a669e8bf1a5eafa83350d39",
+  "registrantOrg": "Amazon Registry Services, Inc.",
+  "registrantAddress": [
+    "410 Terry Avenue North",
+    "Seattle WA 98109",
+    "United States of America (the)",
+    "Minerva House",
+    "Edmund Halley Road",
+    "Oxford Science Park",
+    "Oxford OX4 4DQ",
+    "United Kingdom of Great Britain and Northern Ireland (the)"
+  ],
+  "registrantPhone": "+1 206 646 5990",
+  "registrantFax": "+1-206-946-7702",
+  "registrantEmail": "arsi-rzm@amazon.com"
+}

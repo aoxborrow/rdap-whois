@@ -1,0 +1,74 @@
+{
+  "query": "google.com.gh",
+  "server": "whois.nic.gh",
+  "domainId": "3764-gh",
+  "domainName": "google.com.gh",
+  "creationDate": "2007-01-08T05:00:00Z",
+  "expirationDate": "2027-07-27T00:00:00Z",
+  "registrarExpirationDate": "2027-07-27T00:00:00Z",
+  "updatedDate": "2026-09-22T13:41:24Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Ghana Dot Com",
+  "registrarWhoisServer": "whois.nic.gh",
+  "registrantId": "RdVIK-zNWpM",
+  "registrantName": "THE MANAGER",
+  "registrantOrg": "GOOGLE LLC",
+  "registrantAddress": [
+    "1600 AMPHITHEATRE PARKWAY"
+  ],
+  "registrantCity": "CA",
+  "registrantState": "UNITED STATES",
+  "registrantPostalCode": "MOUNTAIN VIEW CA 94043 USA",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "support@ghana.com",
+  "adminId": "feHoC-Vcjv7",
+  "adminName": "THE MANAGER",
+  "adminOrg": "GOOGLE LLC",
+  "adminAddress": [
+    "1600 AMPHITHEATRE PARKWAY"
+  ],
+  "adminCity": "CALIFORNIA",
+  "adminState": "UNITED STATES",
+  "adminPostalCode": "MOUNTAIN VIEW CA 94043 USA",
+  "adminCountry": "US",
+  "adminPhone": "+1.6502530000",
+  "adminEmail": "support@ghana.com",
+  "techId": "qW6Et-j7tG0",
+  "techName": "THE MANAGER",
+  "techOrg": "GOOGLE LLC",
+  "techAddress": [
+    "1600 AMPHITHEATRE PARKWAY"
+  ],
+  "techCity": "CALIFORNIA",
+  "techState": "UNITED STATES",
+  "techPostalCode": "MOUNTAIN VIEW CA 94043 USA",
+  "techCountry": "US",
+  "techPhone": "+1.6502530000",
+  "techEmail": "support@ghana.com",
+  "billingId": "icYaM-eRyVX",
+  "billingName": "THE MANAGER",
+  "billingOrg": "GOOGLE LLC",
+  "billingAddress": [
+    "1600 AMPHITHEATRE PARKWAY"
+  ],
+  "billingCity": "CALIFORNIA",
+  "billingState": "UNITED STATES",
+  "billingPostalCode": "MOUNTAIN VIEW CA 94043 USA",
+  "billingCountry": "US",
+  "billingPhone": "+1.6502530000",
+  "billingEmail": "support@ghana.com"
+}

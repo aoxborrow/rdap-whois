@@ -1,0 +1,50 @@
+{
+  "query": "google.it",
+  "server": "whois.nic.it",
+  "domainName": "google.it",
+  "creationDate": "1999-12-10T00:00:00Z",
+  "expirationDate": "2027-04-21T00:00:00Z",
+  "updatedDate": "2026-06-09T23:13:34Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "no",
+  "registrarName": "MARKMONITOR-REG",
+  "registrarOrg": "MarkMonitor International Limited",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrantOrg": "Google Ireland Holdings Unlimited Company",
+  "registrantAddress": [
+    "70 Sir John Rogerson's Quay",
+    "Dublin",
+    "2",
+    "IE"
+  ],
+  "adminName": "Jared Oberhaus",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "techName": "Domain Administrator",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ]
+}

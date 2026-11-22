@@ -1,0 +1,12 @@
+###%%% QRY: tmok.tm
+###%%% SRV: whois.nic.tm
+###%%% TME: 2026-07-16T11:44:27Z
+
+Domain : tmok.tm
+Status : Live
+Expiry : 2026-09-03
+
+NS 1   : ns-276.awsdns-34.com
+NS 2   : ns-1527.awsdns-62.org
+NS 3   : ns-707.awsdns-24.net
+NS 4   : ns-1925.awsdns-48.co.uk

@@ -1,0 +1,30 @@
+{
+  "query": "nic.xn--nqv7fs00ema",
+  "server": "whois.nic.xn--nqv7fs00ema",
+  "domainId": "REDACTED",
+  "domainName": "nic.xn--nqv7fs00ema",
+  "creationDate": "2019-08-15T18:31:01Z",
+  "expirationDate": "2027-08-15T18:31:01Z",
+  "updatedDate": "2026-09-29T18:31:59Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a0.nic.xn--nqv7fs00ema",
+    "a2.nic.xn--nqv7fs00ema",
+    "b0.nic.xn--nqv7fs00ema",
+    "c0.nic.xn--nqv7fs00ema"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "PIR Internal (9999)",
+  "registrarUrl": "https://thenew.org",
+  "registrarAbuseEmail": "cbath@pir.org",
+  "registrarAbusePhone": "+1.1234567890",
+  "registrarWhoisServer": "whois.publicinterestregistry.org"
+}

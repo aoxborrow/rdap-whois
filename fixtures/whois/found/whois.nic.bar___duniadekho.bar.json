@@ -1,0 +1,30 @@
+{
+  "query": "duniadekho.bar",
+  "server": "whois.nic.bar",
+  "domainId": "DO_aa7c8e10437a49f58eb88d171e477ccd-PUNTO",
+  "domainName": "duniadekho.bar",
+  "creationDate": "2024-05-22T14:04:09Z",
+  "expirationDate": "2027-05-22T14:04:09Z",
+  "updatedDate": "2026-04-30T09:06:26Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.csof.net",
+    "ns2.csof.net",
+    "ns3.csof.net",
+    "ns4.csof.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "Gandi SAS",
+  "registrarUrl": "https://www.gandi.net",
+  "registrarAbuseEmail": "support-en@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrarWhoisServer": "whois.gandi.net"
+}

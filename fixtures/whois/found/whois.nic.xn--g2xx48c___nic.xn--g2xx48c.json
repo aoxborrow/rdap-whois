@@ -1,0 +1,32 @@
+{
+  "query": "nic.xn--g2xx48c",
+  "server": "whois.nic.xn--g2xx48c",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "nic.xn--g2xx48c",
+  "creationDate": "2013-08-10T00:38:39Z",
+  "expirationDate": "2027-08-09T23:59:59Z",
+  "updatedDate": "2026-09-24T00:00:20Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.nic.xn--g2xx48c",
+    "ns2.dns.nic.xn--g2xx48c",
+    "ns3.dns.nic.xn--g2xx48c",
+    "ns4.dns.nic.xn--g2xx48c",
+    "ns5.dns.nic.xn--g2xx48c",
+    "ns6.dns.nic.xn--g2xx48c"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Nawang Heli(Xiamen) Network Service Co., LTD"
+}

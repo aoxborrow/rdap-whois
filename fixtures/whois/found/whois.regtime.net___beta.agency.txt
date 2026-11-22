@@ -1,0 +1,51 @@
+###%%% QRY: beta.agency
+###%%% SRV: whois.regtime.net
+###%%% TME: 2026-11-22T08:07:47Z
+
+Domain Name: BETA.AGENCY
+Registry Domain ID: 77054972a7d24b5d8501690a8007fd3b-D
+Registrar WHOIS Server: whois.regtime.net
+Registrar URL: http://www.webnames.ru
+Updated Date: 2026-04-16T14:45:05Z
+Creation Date: 2014-05-28T00:00:00Z
+Registrar Registration Expiration Date: 2027-05-28T04:00:00Z
+Registrar: REGTIME LTD.
+Registrar IANA ID: 1362
+Registrar Abuse Contact Email: abuse@regtime.net
+Registrar Abuse Contact Phone: +7.8463733047
+Domain Status: OK
+Registry Registrant ID: CT1512641-RT
+Registrant Name: Vladislav Merkulov
+Registrant Organization: Beta LLC
+Registrant Street: 3rd Yamskogo polya st, estate 2, building 26, 2nd floor
+Registrant City: Moscow
+Registrant State/Province: Moscow
+Registrant Postal Code: 125124
+Registrant Country: RU
+Registrant Phone: +7.9853855512
+Registrant Email: merkulov.vlad@gmail.com
+Registry Admin ID: CT1512641-RT
+Admin Name: Vladislav Merkulov
+Admin Organization: Beta LLC
+Admin Street: 3rd Yamskogo polya st, estate 2, building 26, 2nd floor
+Admin City: Moscow
+Admin State/Province: Moscow
+Admin Postal Code: 125124
+Admin Country: RU
+Admin Phone: +7.9853855512
+Admin Email: merkulov.vlad@gmail.com
+Registry Tech ID: CT1512641-RT
+Tech Name: Vladislav Merkulov
+Tech Organization: Beta LLC
+Tech Street: 3rd Yamskogo polya st, estate 2, building 26, 2nd floor
+Tech City: Moscow
+Tech State/Province: Moscow
+Tech Postal Code: 125124
+Tech Country: RU
+Tech Phone: +7.9853855512
+Tech Email: merkulov.vlad@gmail.com
+Name Server: DNS1.YANDEX.NET
+Name Server: DNS2.YANDEX.NET
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:07:46Z <<<

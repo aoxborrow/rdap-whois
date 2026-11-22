@@ -1,0 +1,24 @@
+{
+  "query": "beian.gov.cn",
+  "server": "whois.cnnic.cn",
+  "domainId": "20140915s10061s02337546-cn",
+  "domainName": "beian.gov.cn",
+  "creationDate": "2014-09-15T20:09:27Z",
+  "expirationDate": "2032-09-15T20:09:27Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "dns7.hichina.com",
+    "dns8.hichina.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "阿里云计算有限公司（万网）",
+  "registrantId": "中华人民共和国公安部",
+  "registrantName": "中华人民共和国公安部",
+  "registrantEmail": "bihaibin@263.net"
+}

@@ -1,0 +1,27 @@
+###%%% QRY: nic.xn--kpry57d
+###%%% SRV: whois.twnic.net.tw
+###%%% TME: 2026-11-22T08:16:31Z
+
+Domain Name: nic.台灣
+   Domain Status: ok
+   Registrant:
+      財團法人台灣網路資訊中心
+      Taiwan Network Information Center
+      tech@twnic.net.tw
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2099-12-31 23:59:59 (UTC+8)
+   Record created on 2025-07-14 16:00:00 (UTC+8)
+
+
+Registration Service Provider: TWNIC
+Registration Service URL: https://rs.twnic.tw/
+Registrar Abuse Contact Email: abuse@twnic.tw
+  (reserved word)

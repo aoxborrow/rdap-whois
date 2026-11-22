@@ -1,0 +1,61 @@
+{
+  "query": "bestreviews.guide",
+  "server": "whois.godaddy.com",
+  "domainId": "39fe550ad1b249e9b65a02f5421711b2-DONUTS",
+  "domainName": "bestreviews.guide",
+  "creationDate": "2015-01-29T18:11:46Z",
+  "expirationDate": "2026-01-29T18:11:46Z",
+  "registrarExpirationDate": "2026-01-29T18:11:46Z",
+  "updatedDate": "2025-01-30T10:26:42Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "marek.ns.cloudflare.com",
+    "marjory.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "https://www.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "whois.godaddy.com",
+  "registrantId": "CR788759825",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BESTREVIEWS.GUIDE",
+  "techId": "CR788759813",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=BESTREVIEWS.GUIDE"
+}

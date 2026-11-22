@@ -1,0 +1,64 @@
+{
+  "query": "9xmovies.com.pr",
+  "server": "whois.afilias-srs.net",
+  "domainId": "aa780ba503bd4ebf8770b1fa617351bb-DONUTS",
+  "domainName": "9xmovies.com.pr",
+  "creationDate": "2025-01-25T14:30:18Z",
+  "expirationDate": "2026-01-25T14:30:18Z",
+  "updatedDate": "2025-01-30T14:31:05Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "bingo.ns.cloudflare.com",
+    "lou.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "http://dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com",
+  "registrantId": "992d21b5e2404fde99ac1d2cc554ecbd-DONUTS",
+  "registrantName": "Dynadot Privacy Service",
+  "registrantOrg": "Super Privacy Service LTD c/o Dynadot",
+  "registrantAddress": [
+    "PO Box 701"
+  ],
+  "registrantCity": "San Mateo",
+  "registrantState": "California",
+  "registrantPostalCode": "94401",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505854708",
+  "registrantEmail": "privacy@dynadot.com",
+  "adminId": "992d21b5e2404fde99ac1d2cc554ecbd-DONUTS",
+  "adminName": "Dynadot Privacy Service",
+  "adminOrg": "Super Privacy Service LTD c/o Dynadot",
+  "adminAddress": [
+    "PO Box 701"
+  ],
+  "adminCity": "San Mateo",
+  "adminState": "California",
+  "adminPostalCode": "94401",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505854708",
+  "adminEmail": "privacy@dynadot.com",
+  "techId": "992d21b5e2404fde99ac1d2cc554ecbd-DONUTS",
+  "techName": "Dynadot Privacy Service",
+  "techOrg": "Super Privacy Service LTD c/o Dynadot",
+  "techAddress": [
+    "PO Box 701"
+  ],
+  "techCity": "San Mateo",
+  "techState": "California",
+  "techPostalCode": "94401",
+  "techCountry": "US",
+  "techPhone": "+1.6505854708",
+  "techEmail": "privacy@dynadot.com"
+}

@@ -1,0 +1,78 @@
+{
+  "query": "cbc.ca",
+  "server": "whois.cira.ca",
+  "domainId": "D345334-CIRA",
+  "domainName": "cbc.ca",
+  "creationDate": "2000-10-16T13:56:05Z",
+  "expirationDate": "2027-11-24T05:00:00Z",
+  "updatedDate": "2026-10-26T02:19:17Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a1-29.akam.net",
+    "a4-64.akam.net",
+    "a5-65.akam.net",
+    "a9-66.akam.net",
+    "a14-66.akam.net",
+    "a26-67.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "not applicable",
+  "registrarName": "Authentic Web Inc.",
+  "registrarUrl": "https://authenticweb.com",
+  "registrarAbuseEmail": "peter@authenticweb.com",
+  "registrarAbusePhone": "+1.4165833770",
+  "registrarWhoisServer": "whois.ca.fury.ca",
+  "registrantId": "112589627-CIRA",
+  "registrantName": "Réjean Lafrance",
+  "registrantOrg": "Canadian Broadcasting Corporation",
+  "registrantAddress": [
+    "250 Front St W"
+  ],
+  "registrantCity": "Toronto",
+  "registrantState": "ON",
+  "registrantPostalCode": "M5V3G5",
+  "registrantCountry": "CA",
+  "registrantPhone": "+1.4162055603",
+  "registrantFax": "+1.4162057750",
+  "registrantEmail": "domain-name@cbc.ca",
+  "adminId": "112589628-CIRA",
+  "adminName": "Réjean Lafrance",
+  "adminOrg": "Canadian Broadcasting Corporation",
+  "adminAddress": [
+    "250 Front St W"
+  ],
+  "adminCity": "Toronto",
+  "adminState": "ON",
+  "adminPostalCode": "M5V3G5",
+  "adminCountry": "CA",
+  "adminPhone": "+1.4162055603",
+  "adminFax": "+1.4162057750",
+  "adminEmail": "domain-name@cbc.ca",
+  "techId": "112589524-CIRA",
+  "techName": "Réjean Lafrance",
+  "techOrg": "Canadian Broadcasting Corporation",
+  "techAddress": [
+    "250 Front St W"
+  ],
+  "techCity": "Toronto",
+  "techState": "ON",
+  "techPostalCode": "M5V3G5",
+  "techCountry": "CA",
+  "techPhone": "+1.4162055603",
+  "techFax": "+1.4162057750",
+  "techEmail": "domain-name@cbc.ca"
+}

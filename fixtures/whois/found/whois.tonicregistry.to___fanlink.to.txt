@@ -1,0 +1,56 @@
+###%%% QRY: fanlink.to
+###%%% SRV: whois.tonicregistry.to
+###%%% TME: 2026-07-16T23:58:33Z
+
+Domain Name: fanlink.to
+Registry Domain ID: DO_c2cccab4b04abf7f75b40639f3db8d84-TONIC
+Registrar WHOIS Server: whois.cscglobal.com
+Registrar URL: www.cscglobal.com
+Updated Date: 2025-09-21T14:29:46.433Z
+Creation Date: 2021-10-28T04:04:10.000Z
+Registry Expiry Date: 2026-10-28T04:04:10.000Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Registrar Abuse Contact Email: tldsupport@cscinfo.com
+Registrar Abuse Contact Phone: +1.3026365400
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns-1429.awsdns-50.org
+Name Server: ns-151.awsdns-18.com
+Name Server: ns-1646.awsdns-13.co.uk
+Name Server: ns-621.awsdns-13.net
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-07-16T23:58:33.375Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+This information has been collected for the WHOIS database through a
+.TO-Accredited Registrar. This information is provided to you for
+informational purposes only and its accuracy is not guaranteed.
+
+For privacy reasons, personal information contained in domain name
+registration data is no longer displayed in our WHOIS. If you have a
+legitimate reason for contacting a domain name contact for specific domain
+name, please contact the sponsoring registrar.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use this data only for lawful purposes and
+that, under no circumstances you will use this data:
+
+- to allow, enable, or otherwise support the transmission of mass
+  unsolicited, commercial advertising or solicitations via electronic mail,
+  or otherwise.
+- for spamming or speculative purposes or commercial purposes.
+- to enable high volume, automated, electronic processes that apply to the
+  registry (or its system) for any other abusive purpose.
+
+Compilation, repackaging, dissemination, or other use of the WHOIS database
+in its entirety, or of a substantial portion thereof, is not allowed
+without the .TO Registry's prior written permission. We reserve the right
+to modify or change these conditions at any time without prior or
+subsequent notification of any kind. By executing this query, in any
+manner whatsoever, you agree to abide by these terms.
+
+All domain names are subject to the .TO Registry Policies. For details,
+please visit https://internetnaming.co/resources

@@ -1,0 +1,34 @@
+{
+  "query": "nic.hermes",
+  "server": "whois.nic.hermes",
+  "domainId": "d9289384e66648e6b96ce39af9c0739e-DONUTS",
+  "domainName": "nic.hermes",
+  "creationDate": "2015-05-28T17:49:13Z",
+  "expirationDate": "2027-05-28T17:49:13Z",
+  "updatedDate": "2026-08-12T09:52:59Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.hermes",
+    "a2.nic.hermes",
+    "b0.nic.hermes",
+    "c0.nic.hermes"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

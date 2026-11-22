@@ -1,0 +1,67 @@
+{
+  "query": "xnxx.gold",
+  "server": "whois.regtons.com",
+  "domainId": "e21699ad99b54f1da7ec0c8bf948e60b-DONUTS",
+  "domainName": "xnxx.gold",
+  "creationDate": "2019-12-01T00:00:00Z",
+  "expirationDate": "2025-12-02T00:00:00Z",
+  "registrarExpirationDate": "2025-12-02T00:00:00Z",
+  "updatedDate": "2024-11-30T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.serverstack.com",
+    "ns2.serverstack.com",
+    "ns3.serverstack.com",
+    "ns4.serverstack.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1505",
+  "registrarIanaId": 1505,
+  "registrarName": "GRANSY S.R.O D/B/A SUBREG.CZ",
+  "registrarUrl": "http://regtons.com",
+  "registrarAbuseEmail": "abuse@regtons.com",
+  "registrarAbusePhone": "+420.734463373",
+  "registrarWhoisServer": "whois.regtons.com",
+  "registrantId": "sub_1220929",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Whois protection, this company does not own this domain name s.r.o.",
+  "registrantAddress": [
+    "Jaurisova 515/4"
+  ],
+  "registrantCity": "Praha 4",
+  "registrantPostalCode": "14000",
+  "registrantCountry": "CZ",
+  "registrantPhone": "+420.226517351",
+  "registrantFax": "+420.226517341",
+  "registrantEmail": "xnxx.gold@whoisprotection.domains",
+  "adminId": "sub_1220929",
+  "adminName": "Domain Admin",
+  "adminOrg": "Whois protection, this company does not own this domain name s.r.o.",
+  "adminAddress": [
+    "Jaurisova 515/4"
+  ],
+  "adminCity": "Praha 4",
+  "adminPostalCode": "14000",
+  "adminCountry": "CZ",
+  "adminPhone": "+420.226517351",
+  "adminFax": "+420.226517341",
+  "adminEmail": "xnxx.gold@whoisprotection.domains",
+  "techId": "sub_1220929",
+  "techName": "Domain Tech",
+  "techOrg": "Whois protection, this company does not own this domain name s.r.o.",
+  "techAddress": [
+    "Jaurisova 515/4"
+  ],
+  "techCity": "Praha 4",
+  "techPostalCode": "14000",
+  "techCountry": "CZ",
+  "techPhone": "+420.226517351",
+  "techFax": "+420.226517341",
+  "techEmail": "xnxx.gold@whoisprotection.domains"
+}

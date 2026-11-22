@@ -1,0 +1,34 @@
+###%%% QRY: tru.am
+###%%% SRV: whois.amnic.net
+###%%% TME: 2026-07-16T11:38:06Z
+
+%
+%AM TLD whois server #1
+% Please see 'whois -h whois.amnic.net help' for usage.
+%
+
+   Domain name: tru.am
+   Registrar:   abcdomain (ABCDomain LLC)
+   Status:      active
+
+   Registrant:
+      Domain Privacy
+      REDACTED FOR PRIVACY
+      REDACTED FOR PRIVACY,  0000
+      AM
+
+   Private contact:
+      REDACTED FOR PRIVACY
+      REDACTED FOR PRIVACY
+      REDACTED FOR PRIVACY, 0000
+      AM
+      privacy@internet.am
+      00000000000
+
+   DNS servers:
+      dan.ns.cloudflare.com
+      emma.ns.cloudflare.com
+
+   Registered:    2012-09-28
+   Last modified: 2025-11-25
+   Expires:       2027-09-28

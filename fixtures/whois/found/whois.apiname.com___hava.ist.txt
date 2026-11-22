@@ -1,0 +1,82 @@
+###%%% QRY: hava.ist
+###%%% SRV: whois.apiname.com
+###%%% TME: 2025-03-21T05:52:40Z
+
+Domain Name: hava.ist
+Registry Domain ID: D425500000066699626-AGRS
+Registrar WHOIS Server: whois.apiname.com
+Registrar URL: http://apiname.com
+Updated Date: 2021-04-26T07:47:54Z
+Creation Date: 2018-10-23T17:14:19Z
+Registrar Registration Expiration Date: 2025-10-23T17:14:19Z
+Registrar: Atak Domain
+Registrar IANA ID: 1601
+Registrar Abuse Contact Email: domain@apiname.com
+Registrar Abuse Contact Phone: +90.2623259222
+Reseller: Atak Domain
+Domain Status: http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: DNA-DN-9881812
+Registrant Name: Ali Arslan
+Registrant Organization: Havaist Tasimacilik AS
+Registrant Street: Yahyakemal Mah. Sair Sok. Sarlar Is Merkezi No:1 K:4. Havaist Gultepe, Kagthane, Istanbul
+Registrant Street: 
+Registrant Street: 
+Registrant City: Kagithane
+Registrant State/Province: Istanbul
+Registrant Postal Code: 34403
+Registrant Country: TR
+Registrant Phone: +90.5051134848
+Registrant Phone Ext:
+Registrant Fax: +90.5051134848
+Registrant Fax Ext:
+Registrant Email: arslan@z3.com.tr
+Registry Admin ID: DNA-DN-9881812
+Admin Name: Ali Arslan
+Admin Organization: Havaist Tasimacilik AS
+Admin Street: Yahyakemal Mah. Sair Sok. Sarlar Is Merkezi No:1 K:4. Havaist Gultepe, Kagthane, Istanbul
+Admin Street: 
+Admin Street: 
+Admin City: Kagithane
+Admin State/Province: Istanbul
+Admin Postal Code: 34403
+Admin Country: TR
+Admin Phone: +90.5051134848
+Admin Phone Ext:
+Admin Fax: +90.5051134848
+Admin Fax Ext:
+Admin Email: arslan@z3.com.tr
+Registry Tech ID: DNA-DN-9881812
+Tech Name: Ali Arslan
+Tech Organization: Havaist Tasimacilik AS
+Tech Street: Yahyakemal Mah. Sair Sok. Sarlar Is Merkezi No:1 K:4. Havaist Gultepe, Kagthane, Istanbul
+Tech Street: 
+Tech Street: 
+Tech City: Kagithane
+Tech State/Province: Istanbul
+Tech Postal Code: 34403
+Tech Country: TR
+Tech Phone: +90.5051134848
+Tech Phone Ext:
+Tech Fax: +90.5051134848
+Tech Fax Ext:
+Tech Email: arslan@z3.com.tr
+Name Server: carol.ns.cloudflare.com
+Name Server: logan.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-17T13:43:05.227Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+This data is provided for information purposes, and to assist persons
+obtaining information about or related to domain name registration
+records. We do not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via E-mail
+(spam); or
+2) enable high volume, automated, electronic processes that apply
+to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

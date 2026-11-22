@@ -1,0 +1,66 @@
+{
+  "query": "8xbet.cleaning",
+  "server": "whois.gname.com",
+  "domainId": "8255a27c109247fbb08767dc8f0cbc3b-DONUTS",
+  "domainName": "8xbet.cleaning",
+  "creationDate": "2025-02-01T11:39:18Z",
+  "expirationDate": "2027-02-01T11:39:18Z",
+  "registrarExpirationDate": "2027-02-01T11:39:18Z",
+  "updatedDate": "2026-11-20T01:54:26Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "adele.ns.cloudflare.com",
+    "yahir.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1923",
+  "registrarIanaId": 1923,
+  "registrarName": "Gname.com Pte. Ltd.",
+  "registrarUrl": "https://www.gname.com",
+  "registrarAbuseEmail": "complaint@gname.com",
+  "registrarAbusePhone": "+65.31581931",
+  "registrarWhoisServer": "whois.gname.com",
+  "registrantId": "Redacted for privacy",
+  "registrantName": "Redacted for privacy",
+  "registrantOrg": "Redacted for privacy",
+  "registrantAddress": [
+    "Redacted for privacy"
+  ],
+  "registrantCity": "Redacted for privacy",
+  "registrantState": "Redacted for privacy",
+  "registrantPostalCode": "Redacted for privacy",
+  "registrantCountry": "CW",
+  "registrantPhone": "Redacted for privacy",
+  "registrantFax": "Redacted for privacy",
+  "registrantEmail": "https://rdap.gname.com/extra/contact?type=registrant&domain=8XBET.CLEANING",
+  "adminName": "Redacted for privacy",
+  "adminOrg": "Redacted for privacy",
+  "adminAddress": [
+    "Redacted for privacy"
+  ],
+  "adminCity": "Redacted for privacy",
+  "adminState": "Redacted for privacy",
+  "adminPostalCode": "Redacted for privacy",
+  "adminCountry": "Redacted for privacy",
+  "adminPhone": "Redacted for privacy",
+  "adminFax": "Redacted for privacy",
+  "adminEmail": "https://rdap.gname.com/extra/contact?type=admin&domain=8XBET.CLEANING",
+  "techName": "Redacted for privacy",
+  "techOrg": "Redacted for privacy",
+  "techAddress": [
+    "Redacted for privacy"
+  ],
+  "techCity": "Redacted for privacy",
+  "techState": "Redacted for privacy",
+  "techPostalCode": "Redacted for privacy",
+  "techCountry": "Redacted for privacy",
+  "techPhone": "Redacted for privacy",
+  "techFax": "Redacted for privacy",
+  "techEmail": "https://rdap.gname.com/extra/contact?type=technical&domain=8XBET.CLEANING"
+}

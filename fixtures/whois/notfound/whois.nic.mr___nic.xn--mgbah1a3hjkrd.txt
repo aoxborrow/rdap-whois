@@ -1,0 +1,7 @@
+###%%% QRY: nic.xn--mgbah1a3hjkrd
+###%%% SRV: whois.nic.mr
+###%%% TME: 2026-07-14T10:44:52Z
+
+Domain Name: nic.xn--mgbah1a3hjkrd
+The queried object does not exist: No Object Found
+>>> Last update of WHOIS database: 2026-07-14T10:44:53.879Z <<<

@@ -1,0 +1,28 @@
+{
+  "query": "co-op.crs",
+  "server": "whois.nic.crs",
+  "domainId": "9ceeef05539e4993b7f348dc560f953d-DONUTS",
+  "domainName": "co-op.crs",
+  "creationDate": "2017-12-19T16:45:01Z",
+  "expirationDate": "2026-12-19T16:45:01Z",
+  "updatedDate": "2026-08-11T23:12:25Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "cecelia.ns.cloudflare.com",
+    "christian.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

@@ -1,0 +1,36 @@
+{
+  "query": "nic.am",
+  "server": "whois.amnic.net",
+  "domainName": "nic.am",
+  "creationDate": "1997-01-01T00:00:00Z",
+  "updatedDate": "2017-12-28T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active"
+  ],
+  "registrarName": "amnic",
+  "registrantName": "Internet Society NGO",
+  "registrantAddress": [
+    "17/3 A. Khachatryan str.",
+    "Yerevan,  0012",
+    "AM"
+  ],
+  "adminName": "Anna Karakhanyan",
+  "adminOrg": "Internet Society NGO",
+  "adminAddress": [
+    "17/3 A. Khachatryan str."
+  ],
+  "adminCity": "Yerevan, 0012",
+  "adminCountry": "AM",
+  "adminEmail": "hostmaster@amnic.net",
+  "techName": "Misak Khachatryan",
+  "techOrg": "Internet Society NGO",
+  "techAddress": [
+    "17/3 A. Khachatryan str."
+  ],
+  "techCity": "Yerevan, 0012",
+  "techCountry": "AM",
+  "techEmail": "hostmaster@amnic.net"
+}

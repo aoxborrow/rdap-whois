@@ -1,0 +1,23 @@
+{
+  "query": "baidu.hk",
+  "server": "whois.hkirc.hk",
+  "domainName": "baidu.hk",
+  "creationDate": "2007-05-23T00:00:00Z",
+  "expirationDate": "2027-03-10T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns1.baidu.hk",
+    "ns2.baidu.hk"
+  ],
+  "registrarName": "Hong Kong Domain Name Registration Company Limited",
+  "registrarEmail": "enquiry@hkdnr.hk Hotline: +852 2319 1313",
+  "registrantName": "Company English Name (It should be the same as the registered/corporation name on your Business Register Certificate or relevant documents): BAIDU (HONG KONG) LIMITED",
+  "registrantOrg": "BAIDU (HONG KONG) LIMITED",
+  "registrantCountry": "Hong Kong (HK)",
+  "registrantEmail": "Redacted for Privacy Purposes"
+}

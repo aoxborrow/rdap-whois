@@ -1,0 +1,12 @@
+###%%% QRY: notfound-testing-sorry.ug
+###%%% SRV: whois.co.ug
+###%%% TME: 2025-03-20T18:30:46Z
+
+**********************************************************
+                *            The UG ccTLD Registry Database              *
+                **********************************************************
+
+                Domain Name: notfound-testing-sorry.ug
+                >>> The domain contains special characters not allowed.
+                >>> This domain violates registry policy.
+                >>> Last update of WHOIS database: 2025-03-20T18:30:46 <<<

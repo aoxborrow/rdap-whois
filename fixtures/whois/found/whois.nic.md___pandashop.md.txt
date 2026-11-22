@@ -1,0 +1,19 @@
+###%%% QRY: pandashop.md
+###%%% SRV: whois.nic.md
+###%%% TME: 2026-07-16T23:40:38Z
+
+% © NIC.MD
+% Whois Server  v2.8.1
+% Website       https://nic.md/en/whois/
+% Terms of use  https://nic.md/img/legal/Rules_registration_subdomain_md.pdf
+% Last  update  2026-07-17T02:40:39+03:00
+
+Domain  name:   pandashop.md
+Domain state:   OK
+Registrant:     Eliteh Trade SRL
+
+Registered on:  2007-12-04
+Expires on:     2028-12-04
+
+NameServer:     deb.ns.cloudflare.com
+NameServer:     stan.ns.cloudflare.com

@@ -1,0 +1,28 @@
+###%%% QRY: tilda.ws
+###%%% SRV: whois.website.ws
+###%%% TME: 2025-03-20T16:11:24Z
+
+Domain Name: TILDA.WS
+Domain ID: D865CD71559E835CE040010AAB015FFF
+WHOIS Server: whois.godaddy.com
+Registrar URL: www.godaddy.com
+Updated Date: 2022-03-17T10:13:27Z
+Creation Date: 2014-02-15T09:17:05Z
+Registrar Registration Expiration Date: 2027-02-15T09:17:05Z
+Registrar: GoDaddy.com
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 4805058800
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientRenewProhibited
+Name Server: ns-118.awsdns-14.com
+Name Server: ns-1258.awsdns-29.org
+Name Server: ns-1912.awsdns-47.co.uk
+Name Server: ns-985.awsdns-59.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-20T16:11:23Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

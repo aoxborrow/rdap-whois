@@ -1,0 +1,20 @@
+{
+  "query": "google.ne.jp",
+  "server": "whois.jprs.jp",
+  "domainName": "google.ne.jp",
+  "creationDate": "2003-09-11T00:00:00Z",
+  "expirationDate": "2027-09-30T00:00:00Z",
+  "updatedDate": "2026-10-01T01:02:04Z",
+  "eppStatusRaw": [
+    "AgentChangeLocked"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrantOrg": "Google Japan G.K.",
+  "adminId": "JO19588JP",
+  "techId": "SH36113JP"
+}

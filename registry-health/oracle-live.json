@@ -1,0 +1,592 @@
+{
+  "generatedAt": "2026-11-16T23:28:31.325Z",
+  "mode": "live",
+  "oracles": [
+    "whoiser",
+    "likexian",
+    "weppos",
+    "rdap"
+  ],
+  "compared": 23,
+  "oracleStats": {
+    "whoiser": {
+      "parsed": 23,
+      "errors": 0,
+      "notFound": 0
+    },
+    "likexian": {
+      "parsed": 17,
+      "errors": 6,
+      "notFound": 0
+    },
+    "weppos": {
+      "parsed": 23,
+      "errors": 0,
+      "notFound": 0
+    },
+    "rdap": {
+      "parsed": 15,
+      "errors": 0,
+      "notFound": 0
+    }
+  },
+  "buckets": {
+    "we-missing": 8,
+    "value-mismatch": 10,
+    "we-extra": 15
+  },
+  "groups": 33,
+  "byKey": {
+    "whois.dotukr.com|creation_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": "2019-09-20T06:46:01Z",
+          "votes": {
+            "whoiser": "20-Sep-2019 06:46:01 UTC"
+          }
+        }
+      ]
+    },
+    "whois.dotukr.com|domain_name|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": "полотенца.укр",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.dotukr.com|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": "2028-09-20T06:46:01Z",
+          "votes": {
+            "whoiser": "20-Sep-2028 06:46:01 UTC"
+          }
+        }
+      ]
+    },
+    "whois.dotukr.com|nameservers|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": [
+            "ns116.inhostedns.com",
+            "ns216.inhostedns.net",
+            "ns316.inhostedns.org"
+          ],
+          "votes": {}
+        }
+      ]
+    },
+    "whois.dotukr.com|registrant_name|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": "hidden",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.dotukr.com|status|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": [
+            "ok"
+          ],
+          "votes": {}
+        }
+      ]
+    },
+    "whois.dotukr.com|updated_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
+          "ours": "2026-03-31T17:12:27Z",
+          "votes": {
+            "whoiser": "31-Mar-2026 17:12:27 UTC"
+          }
+        }
+      ]
+    },
+    "whois.iana.org|admin_email|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "minint.ao",
+          "ours": null,
+          "votes": {
+            "likexian": "andre.pedro@infosi.gov.ao"
+          }
+        }
+      ]
+    },
+    "whois.iana.org|admin_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "minint.ao",
+          "ours": null,
+          "votes": {
+            "likexian": "mr. andre pedro (eng.)"
+          }
+        }
+      ]
+    },
+    "whois.iana.org|registrant_email|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "minint.ao",
+          "ours": "andre.pedro@infosi.gov.ao",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.iana.org|registrar_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "minint.ao",
+          "ours": null,
+          "votes": {
+            "whoiser": "ministry of telecommunications and information technologies (mtti) institute of development of information society (‘infosi’) instituto nacional de fomento da sociedade da informacao-infosi"
+          }
+        }
+      ]
+    },
+    "whois.iana.org|tech_email|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "minint.ao",
+          "ours": null,
+          "votes": {
+            "likexian": "ao@dns.ao"
+          }
+        }
+      ]
+    },
+    "whois.iana.org|tech_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "minint.ao",
+          "ours": null,
+          "votes": {
+            "likexian": "marcos damiao"
+          }
+        }
+      ]
+    },
+    "whois.kr|admin_email|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--hu5b25b77nvwc.xn--3e0b707e",
+          "ours": "pkquell@gmail.com",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.kr|dnssec|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--hu5b25b77nvwc.xn--3e0b707e",
+          "ours": "unsigned",
+          "votes": {
+            "whoiser": "미서명 unsigned"
+          }
+        }
+      ]
+    },
+    "whois.kr|registrant_org|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--hu5b25b77nvwc.xn--3e0b707e",
+          "ours": null,
+          "votes": {
+            "likexian": "hyonjin park"
+          }
+        }
+      ]
+    },
+    "whois.kr|registrar_name|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--hu5b25b77nvwc.xn--3e0b707e",
+          "ours": "viaweb(http://viaweb.co.kr)",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.kr|registrar_url|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--hu5b25b77nvwc.xn--3e0b707e",
+          "ours": "viaweb.co.kr",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.kr|status|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--hu5b25b77nvwc.xn--3e0b707e",
+          "ours": null,
+          "votes": {
+            "rdap": [
+              "ok"
+            ]
+          }
+        }
+      ]
+    },
+    "whois.nc|nameservers|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "taneo.nc",
+          "ours": [
+            "ns-1517.awsdns-61.org",
+            "ns-1689.awsdns-19.co.uk",
+            "ns-270.awsdns-33.com",
+            "ns-965.awsdns-56.net"
+          ],
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.fr|admin_email|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "univ-cotedazur.fr",
+          "ours": "romain.dujardin@univ-cotedazur.fr",
+          "votes": {
+            "likexian": "clement.papin@univ-cotedazur.fr"
+          }
+        }
+      ]
+    },
+    "whois.nic.fr|tech_email|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "univ-cotedazur.fr",
+          "ours": "clement.papin@univ-cotedazur.fr",
+          "votes": {
+            "likexian": "loic.willaume@univ-cotedazur.fr"
+          }
+        }
+      ]
+    },
+    "whois.nic.fr|tech_name|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "univ-cotedazur.fr",
+          "ours": "louis papin",
+          "votes": {
+            "likexian": "loic willaume"
+          }
+        }
+      ]
+    },
+    "whois.nic.it|dnssec|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tv2000.it",
+          "ours": "no",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.it|tech_name|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tv2000.it",
+          "ours": "hidden",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.tf|registrar_id|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "de.tf",
+          "ours": null,
+          "votes": {
+            "rdap": "1257"
+          }
+        }
+      ]
+    },
+    "whois.nic.tg|creation_date|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": "2026-07-08T00:00:00Z",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.tg|domain_name|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": "tribute.tg",
+          "votes": {
+            "likexian": ".............tribute.tg"
+          }
+        }
+      ]
+    },
+    "whois.nic.tg|expiration_date|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": "2027-09-10T00:00:00Z",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.tg|registrant_email|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": "[privee]",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.tg|registrant_name|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": "[privee]",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.tg|registrar_name|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": "netmaster sarl",
+          "votes": {
+            "likexian": "..........netmaster sarl"
+          }
+        }
+      ]
+    },
+    "whois.nic.tg|status|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "tribute.tg",
+          "ours": [
+            "activé"
+          ],
+          "votes": {
+            "likexian": [
+              ".............activé"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

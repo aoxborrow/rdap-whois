@@ -1,0 +1,41 @@
+{
+  "query": "nic.ruhr",
+  "server": "whois.nic.saarland",
+  "domainId": "D321605284-CNIC",
+  "domainName": "nic.ruhr",
+  "creationDate": "2014-01-16T16:05:35Z",
+  "expirationDate": "2029-01-31T23:59:59Z",
+  "updatedDate": "2026-07-20T12:35:08Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.ruhr",
+    "b.nic.ruhr",
+    "c.nic.ruhr",
+    "d.nic.ruhr"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "dotSaarland GmbH",
+  "registrarUrl": "https://nic.saarland",
+  "registrarAbuseEmail": "abuse@nic.saarland",
+  "registrarAbusePhone": "+49.68949396246",
+  "registrarWhoisServer": "whois.nic.saarland",
+  "registrantOrg": "dotSaarland GmbH",
+  "registrantState": "Saarland",
+  "registrantCountry": "DE",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

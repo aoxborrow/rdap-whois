@@ -1,0 +1,32 @@
+{
+  "query": "xn--ok0b90i33r.xn--3e0b707e",
+  "server": "whois.kr",
+  "domainName": "xn--ok0b90i33r.xn--3e0b707e",
+  "creationDate": "2016-06-22T00:00:00Z",
+  "expirationDate": "2027-06-22T00:00:00Z",
+  "updatedDate": "2019-06-17T00:00:00Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.idkor.kr",
+    "ns2.idkor.kr",
+    "ns3.idkor.kr"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Megazone(http://HOSTING.KR)",
+  "registrarUrl": "http://hosting.kr",
+  "registrantId": "C.D.B",
+  "registrantName": "C.D.B",
+  "registrantAddress": [
+    "20-12, Angwang-gil, Anseong-si, Gyeonggi-do,"
+  ],
+  "registrantPostalCode": "17520",
+  "adminName": "C.D.B",
+  "adminPhone": "+82.316777195",
+  "adminEmail": "idkorea_@naver.com"
+}

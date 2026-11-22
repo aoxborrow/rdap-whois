@@ -1,0 +1,34 @@
+{
+  "query": "nic.goodyear",
+  "server": "whois.nic.goodyear",
+  "domainId": "515c285fabc4486d931944a214e11511-DONUTS",
+  "domainName": "nic.goodyear",
+  "creationDate": "2016-01-22T23:06:28Z",
+  "expirationDate": "2027-01-22T23:06:28Z",
+  "updatedDate": "2026-08-12T05:08:42Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.goodyear",
+    "a2.nic.goodyear",
+    "b0.nic.goodyear",
+    "c0.nic.goodyear"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

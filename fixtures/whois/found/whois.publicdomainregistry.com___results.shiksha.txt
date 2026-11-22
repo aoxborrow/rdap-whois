@@ -1,0 +1,83 @@
+###%%% QRY: results.shiksha
+###%%% SRV: whois.publicdomainregistry.com
+###%%% TME: 2026-11-22T08:12:07Z
+
+Domain Name: RESULTS.SHIKSHA
+Registry Domain ID: 7c11ae2281254b6695ae54eedded6f2e-DONUTS
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2025-03-05T05:13:04Z
+Creation Date: 2016-04-03T02:35:55Z
+Registrar Registration Expiration Date: 2027-04-03T02:35:55Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Siddharth Jalan
+Registrant Organization: Narayani EduSols
+Registrant Street: Gautam Buddha Nagar, UP   
+Registrant City: Gautam Buddha Nagar
+Registrant State/Province: 
+Registrant Postal Code: 201306
+Registrant Country: IN
+Registrant Phone: +91.9811554192
+Registrant Phone Ext: 
+Registrant Fax: +91.9811554192
+Registrant Fax Ext: 
+Registrant Email: info@results.shiksha
+Registry Admin ID: Not Available From Registry
+Admin Name: Siddharth Jalan
+Admin Organization: Narayani EduSols
+Admin Street: Gautam Buddha Nagar, UP  
+Admin City: Gautam Buddha Nagar
+Admin State/Province: 
+Admin Postal Code: 201306
+Admin Country: IN
+Admin Phone: +91.9811554192
+Admin Phone Ext: 
+Admin Fax: +91.9811554192
+Admin Fax Ext: 
+Admin Email: info@results.shiksha
+Registry Tech ID: Not Available From Registry
+Tech Name: Siddharth Jalan
+Tech Organization: Narayani EduSols
+Tech Street: Gautam Buddha Nagar, UP  
+Tech City: Gautam Buddha Nagar
+Tech State/Province: 
+Tech Postal Code: 201306
+Tech Country: IN
+Tech Phone: +91.9811554192
+Tech Phone Ext: 
+Tech Fax: +91.9811554192
+Tech Fax Ext: 
+Tech Email: info@results.shiksha
+Name Server: 51725.earth.orderbox-dns.com
+Name Server: 51725.mars.orderbox-dns.com
+Name Server: 51725.mercury.orderbox-dns.com
+Name Server: 51725.venus.orderbox-dns.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:12:07Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: PAN INDIA INTERNET PRIVATE LIMITED
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is PDR Ltd. d/b/a PublicDomainRegistry.com. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.

@@ -1,0 +1,65 @@
+###%%% QRY: repubblica.it
+###%%% SRV: whois.nic.it
+###%%% TME: 2026-07-16T11:41:42Z
+
+*********************************************************************
+* Please note that the following result could be a subgroup of      *
+* the data contained in the database.                               *
+*                                                                   *
+* Additional information can be visualized at:                      *
+* http://web-whois.nic.it                                           *
+*********************************************************************
+
+Domain:             repubblica.it
+Status:             ok
+Signed:             no
+Created:            1996-05-15 00:00:00
+Last Update:        2026-02-01 00:44:11
+Expire Date:        2027-01-16
+
+Registrant
+  Organization:     Gedi Digital S.r.l
+  Address:          Via Ernesto Lugaro
+                    15
+                    Torino
+                    10126
+                    TO
+                    IT
+  Created:          2020-11-17 18:26:41
+  Last Update:      2026-03-20 06:25:59
+
+Admin Contact
+  Name:             Fabiano Begal
+  Organization:     Gedi Digital S.r.l
+  Address:          Via Ernesto Lugaro
+                    15
+                    Torino
+                    10126
+                    TO
+                    IT
+  Created:          2020-11-17 18:26:41
+  Last Update:      2026-03-20 06:25:59
+
+Technical Contacts
+  Name:             Fabiano Begal
+  Organization:     Gedi Digital S.r.l
+  Address:          Via Ernesto Lugaro, 15
+                    Torino
+                    10126
+                    TO
+                    IT
+  Created:          2020-11-17 18:26:42
+  Last Update:      2025-03-11 09:56:06
+
+Registrar
+  Organization:     Gandi SAS
+  Name:             GANDI-REG
+  Web:              http://www.gandi.net
+  DNSSEC:           no
+
+
+Nameservers
+  ns-1541.awsdns-00.co.uk
+  ns-1477.awsdns-56.org
+  ns-723.awsdns-26.net
+  ns-353.awsdns-44.com

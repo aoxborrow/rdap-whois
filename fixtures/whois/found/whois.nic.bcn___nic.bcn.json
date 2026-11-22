@@ -1,0 +1,36 @@
+{
+  "query": "nic.bcn",
+  "server": "whois.nic.bcn",
+  "domainId": "D1-BCN",
+  "domainName": "nic.bcn",
+  "creationDate": "2015-04-20T14:32:09Z",
+  "expirationDate": "2027-04-20T14:32:09Z",
+  "updatedDate": "2026-07-07T08:01:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": ".bcn Internal Registrar",
+  "registrarUrl": "http://www.bcn.cat",
+  "registrarAbuseEmail": "newgtlds@domini.cat",
+  "registrarAbusePhone": "+34.671639461",
+  "registrarWhoisServer": "whois.nic.bcn",
+  "registrantState": "Catalunya",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

@@ -1,0 +1,47 @@
+###%%% QRY: wordpress.durban
+###%%% SRV: durban-whois.registry.net.za
+###%%% TME: 2025-04-09T07:48:44Z
+
+Domain Name: wordpress.durban
+Registry Domain ID: dom_7G--1
+Registrar WHOIS Server: Whois.markmonitor.com
+Registrar URL: https://www.markmonitor.com/
+Updated Date: 2024-10-03T11:37:06Z
+Creation Date: 2014-11-04T08:00:01Z
+Registry Expiry Date: 2025-11-04T08:00:01Z
+Registrar Registration Expiration Date: 2025-11-04T08:00:01Z
+Registrar: MarkMonitor
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: registry.billing@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895771
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: DNStination Inc.
+Registrant Country: US
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns2.markmonitor.com
+Name Server: ns1.markmonitor.com
+Name Server: ns5.markmonitor.com
+Name Server: ns4.markmonitor.com
+Name Server: ns3.markmonitor.com
+Name Server: ns6.markmonitor.com
+Name Server: ns7.markmonitor.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-04-09T07:48:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Complaint/s Procedure and Form: https://registry.net.za/content.php?gen=1&contentid=226
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://registry.net.za/whois_terms
+# Copyright (c) ZACR 1995-2025

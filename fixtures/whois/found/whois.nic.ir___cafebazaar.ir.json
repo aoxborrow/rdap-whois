@@ -1,0 +1,9 @@
+{
+  "query": "cafebazaar.ir",
+  "server": "whois.nic.ir",
+  "domainName": "cafebazaar.ir",
+  "nameservers": [
+    "c.ns.sotoon53.com",
+    "ns.sotoon53.com"
+  ]
+}

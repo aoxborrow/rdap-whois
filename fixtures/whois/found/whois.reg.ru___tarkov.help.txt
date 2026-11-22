@@ -1,0 +1,57 @@
+###%%% QRY: tarkov.help
+###%%% SRV: whois.reg.ru
+###%%% TME: 2026-11-22T08:12:16Z
+
+Domain Name: TARKOV.HELP
+Registry Domain ID: D360728714-CNIC
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: https://www.reg.com
+Updated Date: 2026-05-18T19:01:15Z
+Creation Date: 2020-03-29T18:47:08Z
+Registrar Registration Expiration Date: 2028-03-30T18:47:08Z
+Registrar: Registrar of Domain Names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: w88dunb5rdk50xb8
+Registrant Name: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Street: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant City: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Country: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Phone: +7.4955801111
+Registrant Phone Ext:
+Registrant Fax: +7.4955801111
+Registrant Fax Ext:
+Registrant Email: tarkov.help@regprivate.ru
+Registry Admin ID: e8t8r6k6fbruxie1
+Admin Name: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Street: Personal data, can not be publicly disclosed according to applicable laws.
+Admin City: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Country: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Phone: +7.4955801111
+Admin Phone Ext:
+Admin Fax: +7.4955801111
+Admin Fax Ext:
+Admin Email: tarkov.help@regprivate.ru
+Registry Tech ID: xg1v31jk-2o885e4
+Tech Name: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Street: Personal data, can not be publicly disclosed according to applicable laws.
+Tech City: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Country: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Phone: +7.4955801111
+Tech Phone Ext:
+Tech Fax: +7.4955801111
+Tech Fax Ext:
+Tech Email: tarkov.help@regprivate.ru
+Name Server: gns21.cloudns.net
+Name Server: gns22.cloudns.net
+Name Server: gns23.cloudns.net
+Name Server: gns24.cloudns.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit: https://icann.org/epp
+>>> Last update of WHOIS database: 2026.11.22T08:12:07Z <<<

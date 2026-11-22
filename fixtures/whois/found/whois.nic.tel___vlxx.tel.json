@@ -1,0 +1,55 @@
+{
+  "query": "vlxx.tel",
+  "server": "whois.nic.tel",
+  "domainId": "Dltyz76822-TEL",
+  "domainName": "vlxx.tel",
+  "creationDate": "2024-12-19T09:10:45Z",
+  "expirationDate": "2026-12-19T09:10:45Z",
+  "updatedDate": "2026-09-10T12:02:16Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "fonzie.ns.cloudflare.com",
+    "luciana.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.6027723958",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Delaware",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "Delaware",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "US",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

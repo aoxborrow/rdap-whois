@@ -1,0 +1,34 @@
+{
+  "query": "nic.trv",
+  "server": "whois.nic.trv",
+  "domainId": "ad0f0943233842a9b2521aac6af09379-DONUTS",
+  "domainName": "nic.trv",
+  "creationDate": "2016-04-21T18:55:44Z",
+  "expirationDate": "2027-04-21T18:55:44Z",
+  "updatedDate": "2026-08-12T01:07:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.trv",
+    "a2.nic.trv",
+    "b0.nic.trv",
+    "c0.nic.trv"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

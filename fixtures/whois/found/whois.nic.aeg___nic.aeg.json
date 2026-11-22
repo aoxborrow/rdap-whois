@@ -1,0 +1,36 @@
+{
+  "query": "nic.aeg",
+  "server": "whois.nic.aeg",
+  "domainId": "e6b309be0b2e429987154f2e0864ec0f-DONUTS",
+  "domainName": "nic.aeg",
+  "creationDate": "2015-04-24T18:48:37Z",
+  "expirationDate": "2027-04-24T18:48:37Z",
+  "updatedDate": "2026-08-12T02:28:19Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.aeg",
+    "v0n1.nic.aeg",
+    "v0n2.nic.aeg",
+    "v0n3.nic.aeg",
+    "v2n0.nic.aeg",
+    "v2n1.nic.aeg"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

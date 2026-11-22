@@ -1,0 +1,12 @@
+###%%% QRY: nic.xn--d1alf
+###%%% SRV: whois.marnet.mk
+###%%% TME: 2026-07-14T10:47:13Z
+
+% Domain Information over Whois protocol
+%
+% MARnet whois proxy server
+% Timestamp: Tue Jul 14 2026 12:47:14
+
+%ERROR:101: no entries found
+%
+% No entries found.

@@ -1,0 +1,26 @@
+{
+  "name": "rdap-whois-examples",
+  "private": true,
+  "type": "module",
+  "description": "Runnable examples for @aoxborrow/rdap-whois",
+  "scripts": {
+    "typecheck": "tsc -p . && tsc -p worker",
+    "parse-only": "tsx parse-only.ts",
+    "lookup": "tsx lookup.ts",
+    "availability": "tsx availability.ts",
+    "proxy": "tsx proxy.ts",
+    "redis-cache": "tsx redis-cache.ts",
+    "worker": "wrangler dev --config worker/wrangler.jsonc"
+  },
+  "dependencies": {
+    "@aoxborrow/rdap-whois": "file:..",
+    "redis": "^5.10.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^5.20261121.1",
+    "@types/node": "^25.9.9",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "wrangler": "^4.166.0"
+  }
+}

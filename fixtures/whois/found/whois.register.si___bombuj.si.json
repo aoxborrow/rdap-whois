@@ -1,0 +1,22 @@
+{
+  "query": "bombuj.si",
+  "server": "whois.register.si",
+  "domainName": "bombuj.si",
+  "creationDate": "2020-10-15T00:00:00Z",
+  "expirationDate": "2027-10-15T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "etta.ns.cloudflare.com",
+    "roan.ns.cloudflare.com"
+  ],
+  "registrarName": "Gransy s.r.o.",
+  "registrarUrl": "https://gransy.com",
+  "registrantId": "O1336206",
+  "registrantName": "NOT DISCLOSED",
+  "techName": "NOT DISCLOSED"
+}

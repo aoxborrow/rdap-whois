@@ -1,0 +1,38 @@
+###%%% QRY: vanilla.joburg
+###%%% SRV: whois.nic.joburg
+###%%% TME: 2026-07-16T11:41:42Z
+
+Domain Name: vanilla.joburg
+Registry Domain ID: 5s1_DOMAIN-JOBURG
+Registrar WHOIS Server: whois.domains.co.za
+Registrar URL: https://www.domains.co.za
+Updated Date: 2026-06-22T14:24:30Z
+Creation Date: 2021-08-06T12:53:29Z
+Registry Expiry Date: 2027-08-06T12:53:29Z
+Registrar Registration Expiration Date: 2027-08-06T12:53:29Z
+Registrar: DiaMatrix
+Registrar IANA ID: 1645
+Registrar Abuse Contact Email: abuse@domains.co.za
+Registrar Abuse Contact Phone: +27.116409700
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Futureperfect t/a Vanilla
+Registrant Country: za
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns3.vanilla.joburg
+Name Server: ns2.vanillaregistrar.co.za
+Name Server: ns1.vanillaregistrar.co.za
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:41:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Policies and Procedures: https://zacities.africa/policies/
+# The use of this Whois facility is subject to the following terms and
+# conditions: https://zacities.africa/whois-terms-and-conditions/
+# Copyright ZACR (NPC) 1995-2026

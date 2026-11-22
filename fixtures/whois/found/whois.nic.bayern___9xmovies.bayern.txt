@@ -1,0 +1,101 @@
+###%%% QRY: 9xmovies.bayern
+###%%% SRV: whois.nic.bayern
+###%%% TME: 2026-07-16T23:24:19Z
+
+Domain Name: 9xmovies.bayern
+Registry Domain ID: Dobrr348554-BAYERN
+Registrar WHOIS Server: whois.dynadot.com
+Registrar URL: https://www.dynadot.com/
+Updated Date: 2026-06-19T13:52:30.625Z
+Creation Date: 2026-05-05T12:56:57.566Z
+Registry Expiry Date: 2027-05-05T12:56:57.566Z
+Registrar Registration Expiration Date: 
+Registrar: Dynadot Inc
+Registrar IANA ID: 472
+Registrar Abuse Contact Email: abuse@dynadot.com
+Registrar Abuse Contact Phone: +1.6505851961
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: punjab
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: PK
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: REDACTED FOR PRIVACY
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: 
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: punjab
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: PK
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: susan.ns.cloudflare.com
+Name Server: arturo.ns.cloudflare.com
+DNSSEC: unsigned
+Canonical Name: 9xmovies.bayern
+IDN Tag: de
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2026-07-16T23:23:30.360Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Terms and Conditions of Use
+
+The data in this record is provided by Bayern Connect GmbH
+("the Registry") for informational purposes only. The Registry
+does not guarantee its accuracy and cannot, under any circumstances,
+be held liable in case the stored information would prove to be
+wrong, incomplete or not accurate in any sense.
+
+NOTICE: Access to the domain name's information is restricted in
+order to protect the privacy of Registrants. If you believe you have
+a legitimate interest in having access to part or all of the data not
+published in the above output, please contact the Registrar of record
+at the address shown in the output above OR the Registry at the
+following address:
+
+http://nic.bayern
+
+The compilation, repackaging, dissemination or other use of the data
+in this Whois database is expressly prohibited without the
+prior written consent of the Registry.
+
+The Registry maintains the right to restrict your access to the Whois
+database in its sole discretion to ensure operational stability. The
+Registry may restrict or terminate your access to the Whois database
+for failure to abide by these terms of use. The Registry reserves the
+right to modify these terms at any time.
+
+By maintaining the connection you assure that you have a legitimate
+interest in the data and that you will only use it for the stated
+purposes. You are aware the Registry maintains the right to initiate
+legal proceedings against you in the event of any breach of this
+assurance and to bar you from using its Whois service.
+
+End of Whois record.

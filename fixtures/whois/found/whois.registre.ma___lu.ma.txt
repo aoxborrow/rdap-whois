@@ -1,0 +1,27 @@
+###%%% QRY: lu.ma
+###%%% SRV: whois.registre.ma
+###%%% TME: 2026-07-16T11:45:02Z
+
+Domain Name: lu.ma
+Updated Date: 2025-08-26T16:39:31Z
+Creation Date: 2017-11-24T01:00:48Z
+Registry Expiry Date: 2029-11-24T01:00:48Z
+Registrar Registration Expiration Date: 2029-11-24T01:00:48Z
+Registrar: GENIOUS COMMUNICATIONS
+Registrar Street Address: Assif B N 290 Marrakech
+Registrar Email: contact@genious.net
+Domain Status: active https://icann.org/epp#active
+Registrant Name: shiyi tian
+Admin Name: shiyi tian
+Admin Email: 33438051@qq.com
+Admin Phone: +212.583723125
+Tech Name: shiyi tian
+Tech Email: 33438051@qq.com
+Tech Phone: +212.583723125
+Name Server: logan.ns.cloudflare.com
+Name Server: julissa.ns.cloudflare.com
+>>> Last update of WHOIS database: 2026-07-16T11:45:02.174Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Le service Whois permet la vérification de la disponibilité d’un nom de domaine « .ma » et l’identification de son titulaire. La base de données Whois est maintenue à jour par les prestataires, à chaque fois qu’une modification sur les données enregistrées leur est communiquée par le titulaire. Tout usage abusif du service WHOIS et des données d’identification qu’il publie engage la responsabilité des personnes concernées.

@@ -1,0 +1,32 @@
+{
+  "query": "nic.ally",
+  "server": "whois.nic.ally",
+  "domainId": "D10062A98B38C4D859504110A2F7F0AD7-NSR",
+  "domainName": "nic.ally",
+  "creationDate": "2021-01-22T10:57:48Z",
+  "expirationDate": "2031-01-22T10:57:48Z",
+  "updatedDate": "2026-11-12T05:17:33Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.ally",
+    "b.nic.ally",
+    "c.nic.ally",
+    "d.nic.ally"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Ally Financial Inc."
+}

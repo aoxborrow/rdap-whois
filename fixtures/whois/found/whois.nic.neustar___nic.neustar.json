@@ -1,0 +1,34 @@
+{
+  "query": "nic.neustar",
+  "server": "whois.nic.neustar",
+  "domainId": "D2293-NEUSTAR",
+  "domainName": "nic.neustar",
+  "creationDate": "2013-09-16T20:17:08Z",
+  "expirationDate": "2027-09-15T23:59:59Z",
+  "updatedDate": "2026-10-31T00:00:04Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.nic.neustar",
+    "ns2.dns.nic.neustar",
+    "ns3.dns.nic.neustar",
+    "ns4.dns.nic.neustar",
+    "ns5.dns.nic.neustar",
+    "ns6.dns.nic.neustar"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Neustar Inc.",
+  "registrarUrl": "https://neustar.biz",
+  "registrarWhoisServer": "whois.nic.neustar"
+}

@@ -1,0 +1,43 @@
+{
+  "query": "amazon.com.au",
+  "server": "whois.auda.org.au",
+  "domainId": "0ca1a63efbb345988dbcc3534e3b4fe6-AU",
+  "domainName": "amazon.com.au",
+  "updatedDate": "2026-11-20T00:23:17Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientUpdateProhibited",
+    "renewPeriod",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://identitydigital.au/whois-status-codes#clientDeleteProhibited",
+    "serverDeleteProhibited https://identitydigital.au/whois-status-codes#serverDeleteProhibited",
+    "serverRenewProhibited https://identitydigital.au/whois-status-codes#serverRenewProhibited",
+    "serverTransferProhibited https://identitydigital.au/whois-status-codes#serverTransferProhibited",
+    "clientUpdateProhibited https://identitydigital.au/whois-status-codes#clientUpdateProhibited",
+    "serverUpdateProhibited https://identitydigital.au/whois-status-codes#serverUpdateProhibited",
+    "renewPeriod https://identitydigital.au/whois-status-codes#renewPeriod"
+  ],
+  "nameservers": [
+    "ns-300.awsdns-37.com",
+    "ns-799.awsdns-35.net",
+    "ns-1464.awsdns-55.org",
+    "ns-2010.awsdns-59.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor Corporate Services Inc",
+  "registrarUrl": "https://whois-webform.markmonitor.com/whois",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895770",
+  "registrarWhoisServer": "whois.auda.org.au",
+  "registrantId": "32e675fe323346fe9d786f646ee4ab9b-AU",
+  "registrantName": "Amazon Hostmaster",
+  "registrantOrg": "Amazon Corporate Services Pty Ltd",
+  "techId": "51b11b59b8d34f98b235c57bb38392ef-AU",
+  "techName": "Hostmaster, Amazon Legal Dept."
+}

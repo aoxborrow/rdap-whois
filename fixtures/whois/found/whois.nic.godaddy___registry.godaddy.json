@@ -1,0 +1,56 @@
+{
+  "query": "registry.godaddy",
+  "server": "whois.nic.godaddy",
+  "domainId": "D425500000333792330AGRS-GDREG",
+  "domainName": "registry.godaddy",
+  "creationDate": "2020-04-20T17:46:57Z",
+  "expirationDate": "2027-04-20T17:46:57Z",
+  "updatedDate": "2026-06-04T17:47:01Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a1-245.akam.net",
+    "a6-66.akam.net",
+    "a8-67.akam.net",
+    "a9-67.akam.net",
+    "a11-64.akam.net",
+    "a20-65.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "GoDaddy East, LLC",
+  "registrarUrl": "https://www.nic.godaddy",
+  "registrarAbuseEmail": "ryabusecontact@godaddy.com",
+  "registrarAbusePhone": "+61.1234567890",
+  "registrarWhoisServer": "whois.nic.godaddy",
+  "registrantId": "C17211084AGRS-GDREG",
+  "registrantName": "Premium Reserved Names",
+  "registrantOrg": "GoDaddy East, LLC",
+  "registrantAddress": [
+    "2155 E GoDaddy Way"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "AZ",
+  "registrantPostalCode": "85284",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.480505880",
+  "registrantEmail": "RyPrimaryContact@godaddy.com",
+  "techId": "C17211084AGRS-GDREG",
+  "techName": "Premium Reserved Names",
+  "techOrg": "GoDaddy East, LLC",
+  "techAddress": [
+    "2155 E GoDaddy Way"
+  ],
+  "techCity": "Tempe",
+  "techState": "AZ",
+  "techPostalCode": "85284",
+  "techCountry": "US",
+  "techPhone": "+1.480505880",
+  "techEmail": "RyPrimaryContact@godaddy.com"
+}

@@ -1,0 +1,43 @@
+###%%% QRY: eservices.gov.ss
+###%%% SRV: whois.nic.ss
+###%%% TME: 2026-11-22T08:14:24Z
+
+Domain Name: eservices.gov.ss
+Registry Domain ID: 112-SSNIC
+Updated Date: 2020-03-08T13:00:12Z
+Creation Date: 2020-03-03T11:01:17Z
+Registry Expiry Date: 2030-03-03T11:01:17Z
+Registrar Registration Expiration Date: 2030-03-03T11:01:17Z
+Registrar: SSNIC
+Registrar Street Address: Juba   South Sudan
+Registrar City: Juba
+Registrar State: Central Equatoria State
+Registrar Email: admin@nic.ss
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 48-SSNIC
+Registrant Name: South Sudan Network Information Centre
+Registrant Street: Gumbo
+Registrant City: Juba
+Registrant State/Province: 
+Registrant Postal Code: 
+Registrant Country: SS
+Registrant Email: admin@nic.ss
+Registrant Phone: +21154001154
+Name Server: ns3.digitalocean.com
+Name Server: ns1.digitalocean.com
+Name Server: ns2.digitalocean.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T08:05:19.980Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Copyright SSNIC
+
+The data below is provided for information purposes  and to assist persons in obtaining information about or related to domain name registrations.
+By submitting a whois query, you agree to use this data only for lawful purposes.
+
+remarks:     Security issues should also be addressed to noc@nic.ss
+remarks:     Mail abuse issues should also be addressed to abuse@nic.ss
+ 
+whois.nic.ss accepts only direct match queries.
+Types of queries are: domains (.SS) and POCs.

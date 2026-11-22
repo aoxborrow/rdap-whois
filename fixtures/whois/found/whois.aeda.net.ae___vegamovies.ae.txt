@@ -1,0 +1,17 @@
+###%%% QRY: vegamovies.ae
+###%%% SRV: whois.aeda.net.ae
+###%%% TME: 2026-07-16T11:38:09Z
+
+Domain Name:                     vegamovies.ae
+Registrar ID:                    DYNADOT
+Registrar Name:                  Dynadot inc
+Status:                          ok
+
+Registrant Contact ID:           C-795153
+Registrant Contact Name:         Artem Ponomarev
+
+Tech Contact ID:                 C-795153
+Tech Contact Name:               Artem Ponomarev
+
+Name Server:                     ns1.park-my-domain.net
+Name Server:                     ns2.park-my-domain.net

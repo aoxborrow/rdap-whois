@@ -1,0 +1,11 @@
+###%%% QRY: saudigazette.com.sa
+###%%% SRV: whois.nic.net.sa
+###%%% TME: 2026-11-22T08:14:52Z
+
+Domain Name: SAUDIGAZETTE.COM.SA
+
+Registrant Name: OKAZ FOR PRESS AND PUBLICATION مؤسسة عكاظ للصحافة والنشر
+
+Name Server: NANCY.NS.CLOUDFLARE.COM
+Name Server: NITIN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned

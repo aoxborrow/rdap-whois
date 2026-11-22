@@ -1,0 +1,29 @@
+{
+  "query": "fr.weber",
+  "server": "whois.nic.weber",
+  "domainId": "f8c02df998b246589e7c81078a25509d-DONUTS",
+  "domainName": "fr.weber",
+  "creationDate": "2025-02-28T04:40:39Z",
+  "expirationDate": "2027-02-28T04:40:39Z",
+  "updatedDate": "2026-08-11T21:30:53Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nsa.perf1.fr",
+    "nsb.perf1.com",
+    "nsc.perf1.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1251",
+  "registrarIanaId": 1251,
+  "registrarName": "Nameshield SAS",
+  "registrarUrl": "http://www.nameshield.net",
+  "registrarAbuseEmail": "registrar@nameshield.net",
+  "registrarAbusePhone": "+33.241182828",
+  "registrarWhoisServer": "whois.nameshield.net"
+}

@@ -1,0 +1,11 @@
+###%%% QRY: notfound-testing-sorry.mw
+###%%% SRV: whois.nic.mw
+###%%% TME: 2025-03-20T18:20:46Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+
+%ERROR:101: no entries found
+% 
+% No entries found.

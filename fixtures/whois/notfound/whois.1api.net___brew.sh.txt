@@ -1,0 +1,5 @@
+###%%% QRY: brew.sh
+###%%% SRV: whois.1api.net
+###%%% TME: 2025-03-21T03:59:32Z
+
+ERROR: domain not found:

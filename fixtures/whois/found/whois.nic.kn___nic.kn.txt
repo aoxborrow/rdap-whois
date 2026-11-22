@@ -1,0 +1,33 @@
+###%%% QRY: nic.kn
+###%%% SRV: whois.nic.kn
+###%%% TME: 2026-07-16T11:15:52Z
+
+Domain Name: nic.kn
+Registry Domain ID: 1147-knNIC
+Updated Date: 2024-02-23T20:05:41Z
+Creation Date: 2008-05-23T04:00:00Z
+Registry Expiry Date: 2029-05-30T12:00:00Z
+Registrar Registration Expiration Date: 2029-05-30T12:00:00Z
+Registrar: KN NIC Registrar
+Registrar Street Address: Adviser of National ICT Center
+National ICT Center
+No. 3 C.A. Paul Southwell Industrial Site
+Saint Kitts And Nevis
+Registrar Email: hostmaster@nic.kn
+Domain Status: active https://icann.org/epp#active
+Domain Status: serverRenewProhibited https://icann.org/epp#serverRenewProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Name Server: ns-1631.awsdns-11.co.uk
+Name Server: ns-214.awsdns-26.com
+Name Server: ns-1454.awsdns-53.org
+Name Server: ns-518.awsdns-00.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T11:15:52.513Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of .kn WHOIS data is expressly prohibited.

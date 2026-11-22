@@ -1,0 +1,8328 @@
+{
+  "sweptAt": "2026-07-16T11:50:51.198Z",
+  "counts": {
+    "equal": 528,
+    "regression": 67,
+    "improved": 77,
+    "notfound": 17,
+    "changed": 20,
+    "dead": 20,
+    "throttled": 1
+  },
+  "recorded": 1,
+  "verdicts": [
+    {
+      "server": "kero.yachay.pe",
+      "tldSample": "pe",
+      "query": "elcomercio.pe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "kero.yachay.pe",
+      "tldSample": "pe",
+      "query": "larepublica.pe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "kero.yachay.pe",
+      "tldSample": "pe",
+      "query": "rpp.pe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.aeda.net.ae",
+      "tldSample": "ae",
+      "query": "amazon.ae",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_org"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.aeda.net.ae",
+      "tldSample": "ae",
+      "query": "google.ae",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_org"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.aeda.net.ae",
+      "tldSample": "ae",
+      "query": "vegamovies.ae",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.aero",
+      "tldSample": "aero",
+      "query": "nic.aero",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.aero",
+      "tldSample": "aero",
+      "query": "skybrary.aero",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.aero",
+      "tldSample": "aero",
+      "query": "svo.aero",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.amnic.net",
+      "tldSample": "am",
+      "query": "google.am",
+      "outcome": "regression",
+      "regressions": [
+        "expiration_date",
+        "updated_date",
+        "nameservers"
+      ],
+      "improvements": [
+        "admin_city",
+        "admin_country",
+        "tech_city",
+        "tech_country",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.amnic.net",
+      "tldSample": "am",
+      "query": "totogaming.am",
+      "outcome": "regression",
+      "regressions": [
+        "expiration_date",
+        "updated_date",
+        "nameservers"
+      ],
+      "improvements": [
+        "admin_city",
+        "admin_country",
+        "tech_city",
+        "tech_country",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.amnic.net",
+      "tldSample": "am",
+      "query": "tru.am",
+      "outcome": "regression",
+      "regressions": [
+        "expiration_date",
+        "updated_date",
+        "nameservers"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ati.tn",
+      "tldSample": "tn",
+      "query": "education.tn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ati.tn",
+      "tldSample": "tn",
+      "query": "google.tn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ati.tn",
+      "tldSample": "tn",
+      "query": "nic.tn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.auda.org.au",
+      "tldSample": "au",
+      "query": "abc.net.au",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.auda.org.au",
+      "tldSample": "au",
+      "query": "bom.gov.au",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.auda.org.au",
+      "tldSample": "au",
+      "query": "news.com.au",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ax",
+      "tldSample": "ax",
+      "query": "bunkr.ax",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ax",
+      "tldSample": "ax",
+      "query": "gub.ax",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ax",
+      "tldSample": "ax",
+      "query": "qu.ax",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.bnnic.bn",
+      "tldSample": "bn",
+      "query": "brunet.bn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.bnnic.bn",
+      "tldSample": "bn",
+      "query": "starbucks.com.bn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.bnnic.bn",
+      "tldSample": "bn",
+      "query": "ubd.edu.bn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.cctld.by",
+      "tldSample": "by",
+      "query": "av.by",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.cctld.by",
+      "tldSample": "by",
+      "query": "google.by",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.cctld.by",
+      "tldSample": "by",
+      "query": "ilex.by",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.cctld.uz",
+      "tldSample": "uz",
+      "query": "daryo.uz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_country",
+        "registrant_fax",
+        "admin_fax",
+        "tech_postal_code",
+        "tech_phone",
+        "tech_fax",
+        "billing_city",
+        "billing_country",
+        "billing_fax"
+      ],
+      "changed": [
+        "registrant_postal_code",
+        "admin_postal_code",
+        "billing_postal_code"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.cctld.uz",
+      "tldSample": "uz",
+      "query": "etc.uz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_country",
+        "registrant_fax",
+        "admin_fax",
+        "tech_postal_code",
+        "tech_phone",
+        "tech_fax",
+        "billing_city",
+        "billing_country",
+        "billing_fax"
+      ],
+      "changed": [
+        "registrant_postal_code",
+        "admin_postal_code",
+        "billing_postal_code"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.cctld.uz",
+      "tldSample": "uz",
+      "query": "gov.uz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_country",
+        "registrant_fax",
+        "admin_fax",
+        "tech_postal_code",
+        "tech_phone",
+        "tech_fax",
+        "billing_city",
+        "billing_country",
+        "billing_fax"
+      ],
+      "changed": [
+        "registrant_postal_code",
+        "admin_postal_code",
+        "billing_postal_code"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.cnnic.cn",
+      "tldSample": "cn",
+      "query": "sina.com.cn",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.cnnic.cn",
+      "tldSample": "cn",
+      "query": "xn--inr8y672ajns.xn--fiqs8s",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.co.ca",
+      "tldSample": "co.ca",
+      "query": "nic.co.ca",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.co.pl",
+      "tldSample": "co.pl",
+      "query": "nic.co.pl",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.co.ug",
+      "tldSample": "ug",
+      "query": "djerycom.ug",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "updated_date"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.co.ug",
+      "tldSample": "ug",
+      "query": "monitor.co.ug",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "updated_date"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.co.ug",
+      "tldSample": "ug",
+      "query": "nic.ug",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "updated_date"
+      ],
+      "recorded": false
+    },
+    {
+      "server": "whois.denic.de",
+      "tldSample": "de",
+      "query": "google.de",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.denic.de",
+      "tldSample": "de",
+      "query": "t-online.de",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.denic.de",
+      "tldSample": "de",
+      "query": "telekom.de",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dmdomains.dm",
+      "tldSample": "dm",
+      "query": "cwdom.dm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dmdomains.dm",
+      "tldSample": "dm",
+      "query": "digicelplay.dm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dmdomains.dm",
+      "tldSample": "dm",
+      "query": "m.dm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dnrs.vu",
+      "tldSample": "vu",
+      "query": "de.vu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dnrs.vu",
+      "tldSample": "vu",
+      "query": "google.vu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dnrs.vu",
+      "tldSample": "vu",
+      "query": "vanuatu.com.vu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.be",
+      "tldSample": "be",
+      "query": "geoedge.be",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "status",
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.be",
+      "tldSample": "be",
+      "query": "hln.be",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "status",
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.be",
+      "tldSample": "be",
+      "query": "youtu.be",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "status",
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.hr",
+      "tldSample": "hr",
+      "query": "index.hr",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.hr",
+      "tldSample": "hr",
+      "query": "jutarnji.hr",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.hr",
+      "tldSample": "hr",
+      "query": "njuskalo.hr",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.lu",
+      "tldSample": "lu",
+      "query": "bcgame.lu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.lu",
+      "tldSample": "lu",
+      "query": "harry.lu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.lu",
+      "tldSample": "lu",
+      "query": "mjt.lu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.pl",
+      "tldSample": "pl",
+      "query": "allegro.pl",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_url"
+      ],
+      "improvements": [],
+      "changed": [
+        "nameservers"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.pl",
+      "tldSample": "pl",
+      "query": "onet.pl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.pl",
+      "tldSample": "pl",
+      "query": "wp.pl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dns.pt",
+      "tldSample": "pt",
+      "query": "google.pt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.domain-registry.nl",
+      "tldSample": "nl",
+      "query": "ad.nl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.domain-registry.nl",
+      "tldSample": "nl",
+      "query": "nu.nl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.domain-registry.nl",
+      "tldSample": "nl",
+      "query": "telegraaf.nl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.domreg.lt",
+      "tldSample": "lt",
+      "query": "delfi.lt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.domreg.lt",
+      "tldSample": "lt",
+      "query": "serveriai.lt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.domreg.lt",
+      "tldSample": "lt",
+      "query": "skelbiu.lt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dot.cf",
+      "tldSample": "cf",
+      "query": "nic.cf",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.dot.tk",
+      "tldSample": "tk",
+      "query": "nic.tk",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.dotukr.com",
+      "tldSample": "xn--j1amh",
+      "query": "xn--41-4lcpj.xn--j1amh",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dotukr.com",
+      "tldSample": "xn--j1amh",
+      "query": "xn--80adi8aaufcj8j.xn--j1amh",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.dotukr.com",
+      "tldSample": "xn--j1amh",
+      "query": "xn--d1aijeje.xn--j1amh",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.educause.edu",
+      "tldSample": "edu",
+      "query": "berkeley.edu",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "registrant_country",
+        "admin_country",
+        "tech_country"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.educause.edu",
+      "tldSample": "edu",
+      "query": "harvard.edu",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "admin_country",
+        "tech_country"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.educause.edu",
+      "tldSample": "edu",
+      "query": "stanford.edu",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "registrant_country",
+        "admin_country",
+        "tech_country"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.eu",
+      "tldSample": "eu",
+      "query": "europa.eu",
+      "outcome": "regression",
+      "regressions": [
+        "tech_email"
+      ],
+      "improvements": [
+        "registrant_org",
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.eu",
+      "tldSample": "eu",
+      "query": "listcrawler.eu",
+      "outcome": "regression",
+      "regressions": [
+        "tech_email"
+      ],
+      "improvements": [
+        "registrant_org",
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.eu",
+      "tldSample": "eu",
+      "query": "tiktokv.eu",
+      "outcome": "regression",
+      "regressions": [
+        "tech_email"
+      ],
+      "improvements": [
+        "registrant_org",
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.fi",
+      "tldSample": "fi",
+      "query": "google.fi",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.fi",
+      "tldSample": "fi",
+      "query": "iltalehti.fi",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.fi",
+      "tldSample": "fi",
+      "query": "simpli.fi",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.gg",
+      "tldSample": "gg",
+      "query": "clean.gg",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_org"
+      ],
+      "changed": [
+        "creation_date",
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.gg",
+      "tldSample": "gg",
+      "query": "op.gg",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_org"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.gg",
+      "tldSample": "gg",
+      "query": "yako.gg",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_org"
+      ],
+      "changed": [
+        "creation_date",
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.gov.za",
+      "tldSample": "gov.za",
+      "query": "nic.gov.za",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "server": "whois.gtld.knet.cn",
+      "tldSample": "baidu",
+      "query": "nic.baidu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.gtld.zdns.cn",
+      "tldSample": "wang",
+      "query": "dhcc.wang",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.gtld.zdns.cn",
+      "tldSample": "wang",
+      "query": "nbcdn.wang",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.gtld.zdns.cn",
+      "tldSample": "wang",
+      "query": "zhuoyue.wang",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.gtlds.nic.br",
+      "tldSample": "bom",
+      "query": "nic.bom",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.hkirc.hk",
+      "tldSample": "hk",
+      "query": "baidu.hk",
+      "outcome": "regression",
+      "regressions": [
+        "admin_country",
+        "admin_email",
+        "tech_country",
+        "tech_email"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.hkirc.hk",
+      "tldSample": "hk",
+      "query": "cuhk.edu.hk",
+      "outcome": "regression",
+      "regressions": [
+        "admin_country",
+        "admin_email",
+        "tech_country",
+        "tech_email"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.hkirc.hk",
+      "tldSample": "hk",
+      "query": "hku.hk",
+      "outcome": "regression",
+      "regressions": [
+        "admin_country",
+        "admin_email",
+        "tech_country",
+        "tech_email"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.iana.org",
+      "tldSample": "amazon",
+      "query": "amazonbot.amazon",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_org",
+        "registrant_phone",
+        "registrant_fax",
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.iana.org",
+      "tldSample": "amazon",
+      "query": "jet.amazon",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_org",
+        "registrant_phone",
+        "registrant_fax",
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.iana.org",
+      "tldSample": "amazon",
+      "query": "shop-external.amazon",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_org",
+        "registrant_phone",
+        "registrant_fax",
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.id",
+      "tldSample": "id",
+      "query": "komiku.id",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "creation_date",
+        "updated_date",
+        "registrar_name",
+        "registrar_abuse_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.id",
+      "tldSample": "id",
+      "query": "ovo.id",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "creation_date",
+        "updated_date",
+        "registrar_name",
+        "registrar_abuse_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.id",
+      "tldSample": "id",
+      "query": "shopee.co.id",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "creation_date",
+        "updated_date",
+        "registrar_name",
+        "registrar_abuse_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.iis.nu",
+      "tldSample": "nu",
+      "query": "gigafile.nu",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.iis.nu",
+      "tldSample": "nu",
+      "query": "google.nu",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.iis.nu",
+      "tldSample": "nu",
+      "query": "y2mate.nu",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.iis.se",
+      "tldSample": "se",
+      "query": "aftonbladet.se",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_name"
+      ],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.iis.se",
+      "tldSample": "se",
+      "query": "google.se",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_name"
+      ],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.iis.se",
+      "tldSample": "se",
+      "query": "toyhou.se",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_name"
+      ],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.imena.bg",
+      "tldSample": "xn--90ae",
+      "query": "nic.xn--90ae",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "server": "whois.irs.net.nz",
+      "tldSample": "nz",
+      "query": "mega.co.nz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.irs.net.nz",
+      "tldSample": "nz",
+      "query": "nzherald.co.nz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.irs.net.nz",
+      "tldSample": "nz",
+      "query": "stuff.co.nz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.isnic.is",
+      "tldSample": "is",
+      "query": "1984.is",
+      "outcome": "regression",
+      "regressions": [
+        "billing_id"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.isnic.is",
+      "tldSample": "is",
+      "query": "google.is",
+      "outcome": "regression",
+      "regressions": [
+        "billing_id"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.isnic.is",
+      "tldSample": "is",
+      "query": "mbl.is",
+      "outcome": "regression",
+      "regressions": [
+        "billing_id"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.isoc.org.il",
+      "tldSample": "il",
+      "query": "bezeq.co.il",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_id",
+        "tech_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.isoc.org.il",
+      "tldSample": "il",
+      "query": "partner.co.il",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_fax",
+        "admin_id",
+        "tech_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.isoc.org.il",
+      "tldSample": "il",
+      "query": "pelephone.co.il",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_fax",
+        "admin_id",
+        "tech_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ja.net",
+      "tldSample": "ac.uk",
+      "query": "nic.gov.uk",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "server": "whois.je",
+      "tldSample": "je",
+      "query": "google.co.je",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.je",
+      "tldSample": "je",
+      "query": "okusno.je",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [
+        "creation_date",
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.je",
+      "tldSample": "je",
+      "query": "whois.je",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.jprs.jp",
+      "tldSample": "jp",
+      "query": "ameblo.jp",
+      "outcome": "regression",
+      "regressions": [
+        "domain_name",
+        "creation_date",
+        "updated_date",
+        "nameservers",
+        "admin_id"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.jprs.jp",
+      "tldSample": "jp",
+      "query": "rakuten.co.jp",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.jprs.jp",
+      "tldSample": "jp",
+      "query": "yahoo.co.jp",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.kg",
+      "tldSample": "kg",
+      "query": "ktnet.kg",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_name",
+        "registrant_phone",
+        "registrant_email"
+      ],
+      "improvements": [
+        "admin_fax",
+        "tech_fax",
+        "billing_fax",
+        "billing_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.kg",
+      "tldSample": "kg",
+      "query": "salyk.kg",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_name",
+        "registrant_phone",
+        "registrant_email"
+      ],
+      "improvements": [
+        "billing_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.kg",
+      "tldSample": "kg",
+      "query": "us.kg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.kr",
+      "tldSample": "kr",
+      "query": "ppomppu.co.kr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [
+        "dnssec"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.kr",
+      "tldSample": "kr",
+      "query": "xn--ok0b90i12mc2e54v.xn--3e0b707e",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [
+        "dnssec"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.kr",
+      "tldSample": "kr",
+      "query": "xn--vk1b87o4zefwd.xn--3e0b707e",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [
+        "dnssec"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.kyregistry.ky",
+      "tldSample": "ky",
+      "query": "candw.ky",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.kyregistry.ky",
+      "tldSample": "ky",
+      "query": "telecayman.ky",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.kyregistry.ky",
+      "tldSample": "ky",
+      "query": "westtel.ky",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.marnet.mk",
+      "tldSample": "mk",
+      "query": "google.mk",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_name",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.marnet.mk",
+      "tldSample": "mk",
+      "query": "marnet.mk",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_name",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.marnet.mk",
+      "tldSample": "mk",
+      "query": "reklama5.mk",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_name",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mediaserv.net",
+      "tldSample": "gf",
+      "query": "anime.gf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mediaserv.net",
+      "tldSample": "gf",
+      "query": "meteofrance.mq",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mediaserv.net",
+      "tldSample": "gf",
+      "query": "mister-auto.mq",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.monic.mo",
+      "tldSample": "mo",
+      "query": "mgm.mo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.monic.mo",
+      "tldSample": "mo",
+      "query": "monic.mo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.monic.mo",
+      "tldSample": "mo",
+      "query": "umac.mo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mx",
+      "tldSample": "mx",
+      "query": "amazon.com.mx",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mx",
+      "tldSample": "mx",
+      "query": "google.com.mx",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mx",
+      "tldSample": "mx",
+      "query": "mercadolibre.com.mx",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mynic.my",
+      "tldSample": "my",
+      "query": "hasil.gov.my",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mynic.my",
+      "tldSample": "my",
+      "query": "lazada.com.my",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.mynic.my",
+      "tldSample": "my",
+      "query": "shopee.com.my",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nc",
+      "tldSample": "nc",
+      "query": "canl.nc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nc",
+      "tldSample": "nc",
+      "query": "gouv.nc",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "nameservers"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nc",
+      "tldSample": "nc",
+      "query": "mls.nc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.aaa",
+      "tldSample": "aaa",
+      "query": "nic.aaa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.aarp",
+      "tldSample": "aarp",
+      "query": "nic.aarp",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.abogado",
+      "tldSample": "abogado",
+      "query": "nic.abogado",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.accountant",
+      "tldSample": "accountant",
+      "query": "casinovulcan.accountant",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.accountant",
+      "tldSample": "accountant",
+      "query": "vulcan-casino.accountant",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.accountant",
+      "tldSample": "accountant",
+      "query": "vulcan-vegas.accountant",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.adult",
+      "tldSample": "adult",
+      "query": "fetishfemdom.adult",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.adult",
+      "tldSample": "adult",
+      "query": "homemade.adult",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.adult",
+      "tldSample": "adult",
+      "query": "omg.adult",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.af",
+      "tldSample": "af",
+      "query": "ariananews.af",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.af",
+      "tldSample": "af",
+      "query": "hemis.edu.af",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.af",
+      "tldSample": "af",
+      "query": "moi.gov.af",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.afl",
+      "tldSample": "afl",
+      "query": "id.afl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.afl",
+      "tldSample": "afl",
+      "query": "nic.afl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.afl",
+      "tldSample": "afl",
+      "query": "womens.afl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.africa",
+      "tldSample": "africa",
+      "query": "absa.africa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.africa",
+      "tldSample": "africa",
+      "query": "bollyflix.africa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.africa",
+      "tldSample": "africa",
+      "query": "techpoint.africa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ai",
+      "tldSample": "ai",
+      "query": "character.ai",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ai",
+      "tldSample": "ai",
+      "query": "e-volution.ai",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ai",
+      "tldSample": "ai",
+      "query": "missav.ai",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ally",
+      "tldSample": "ally",
+      "query": "nic.ally",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.americanfamily",
+      "tldSample": "americanfamily",
+      "query": "nic.americanfamily",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.amfam",
+      "tldSample": "amfam",
+      "query": "nic.amfam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.amsterdam",
+      "tldSample": "amsterdam",
+      "query": "archief.amsterdam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.amsterdam",
+      "tldSample": "amsterdam",
+      "query": "dns.amsterdam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.amsterdam",
+      "tldSample": "amsterdam",
+      "query": "iisg.amsterdam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.anz",
+      "tldSample": "anz",
+      "query": "nic.anz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.anz",
+      "tldSample": "anz",
+      "query": "telemetry.anz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ar",
+      "tldSample": "ar",
+      "query": "google.com.ar",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "creation_date",
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ar",
+      "tldSample": "ar",
+      "query": "mercadolibre.com.ar",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "creation_date",
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ar",
+      "tldSample": "ar",
+      "query": "nic.ar",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "creation_date",
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.as",
+      "tldSample": "as",
+      "query": "nic.as",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.asia",
+      "tldSample": "asia",
+      "query": "ad-m.asia",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.asia",
+      "tldSample": "asia",
+      "query": "championat.asia",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.asia",
+      "tldSample": "asia",
+      "query": "idlix.asia",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.at",
+      "tldSample": "at",
+      "query": "case-battle.at",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.at",
+      "tldSample": "at",
+      "query": "shorturl.at",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_name",
+        "registrant_org",
+        "registrant_city",
+        "registrant_postal_code",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email"
+      ],
+      "improvements": [
+        "tech_name",
+        "tech_org",
+        "tech_city",
+        "tech_postal_code",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.at",
+      "tldSample": "at",
+      "query": "univie.ac.at",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_name",
+        "registrant_name"
+      ],
+      "improvements": [
+        "admin_id",
+        "tech_name",
+        "tech_city",
+        "tech_postal_code",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.auspost",
+      "tldSample": "auspost",
+      "query": "card.auspost",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.auspost",
+      "tldSample": "auspost",
+      "query": "nic.auspost",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.aw",
+      "tldSample": "aw",
+      "query": "dns.aw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.aw",
+      "tldSample": "aw",
+      "query": "edcardaruba.aw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.aw",
+      "tldSample": "aw",
+      "query": "setardsl.aw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bank",
+      "tldSample": "bank",
+      "query": "dollar.bank",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bank",
+      "tldSample": "bank",
+      "query": "kk.bank",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bank",
+      "tldSample": "bank",
+      "query": "sovcom.bank",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bar",
+      "tldSample": "bar",
+      "query": "cinecalidad.bar",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bar",
+      "tldSample": "bar",
+      "query": "vidmate.bar",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bar",
+      "tldSample": "bar",
+      "query": "watchseries.bar",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.baseball",
+      "tldSample": "baseball",
+      "query": "nic.baseball",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.basketball",
+      "tldSample": "basketball",
+      "query": "championsleague.basketball",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.basketball",
+      "tldSample": "basketball",
+      "query": "sportando.basketball",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.basketball",
+      "tldSample": "basketball",
+      "query": "unrivaled.basketball",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.beer",
+      "tldSample": "beer",
+      "query": "devs.beer",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.beer",
+      "tldSample": "beer",
+      "query": "loli.beer",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.beer",
+      "tldSample": "beer",
+      "query": "uhdmovies.beer",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.berlin",
+      "tldSample": "berlin",
+      "query": "berghain.berlin",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.berlin",
+      "tldSample": "berlin",
+      "query": "nawrocki.berlin",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.berlin",
+      "tldSample": "berlin",
+      "query": "sbahn.berlin",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bible",
+      "tldSample": "bible",
+      "query": "api.bible",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bible",
+      "tldSample": "bible",
+      "query": "easyenglish.bible",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bible",
+      "tldSample": "bible",
+      "query": "wd.bible",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bid",
+      "tldSample": "bid",
+      "query": "aj2555.bid",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bid",
+      "tldSample": "bid",
+      "query": "case-battle.bid",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.bid",
+      "tldSample": "bid",
+      "query": "personaly.bid",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.biz",
+      "tldSample": "biz",
+      "query": "dailyinnovation.biz",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.biz",
+      "tldSample": "biz",
+      "query": "gtld.biz",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.biz",
+      "tldSample": "biz",
+      "query": "tiresales.biz",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.blackfriday",
+      "tldSample": "blackfriday",
+      "query": "nic.blackfriday",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.bo",
+      "tldSample": "bo",
+      "query": "nic.bo",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.nic.boston",
+      "tldSample": "boston",
+      "query": "nic.boston",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.boston",
+      "tldSample": "boston",
+      "query": "porno365.boston",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.broadway",
+      "tldSample": "broadway",
+      "query": "nic.broadway",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.nic.buzz",
+      "tldSample": "buzz",
+      "query": "flowers-shop.buzz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.buzz",
+      "tldSample": "buzz",
+      "query": "more.buzz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.buzz",
+      "tldSample": "buzz",
+      "query": "mydesi.buzz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.capetown",
+      "tldSample": "capetown",
+      "query": "afrihost.capetown",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.capetown",
+      "tldSample": "capetown",
+      "query": "nic.capetown",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.casa",
+      "tldSample": "casa",
+      "query": "hdvbapp.casa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.casa",
+      "tldSample": "casa",
+      "query": "ikuuu.casa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.casa",
+      "tldSample": "casa",
+      "query": "sjolseth.casa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.catholic",
+      "tldSample": "catholic",
+      "query": "nic.catholic",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cba",
+      "tldSample": "cba",
+      "query": "nic.cba",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ch",
+      "tldSample": "ch",
+      "query": "nic.ch",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.chintai",
+      "tldSample": "chintai",
+      "query": "nic.chintai",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.chintai",
+      "tldSample": "chintai",
+      "query": "woman.chintai",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cl",
+      "tldSample": "cl",
+      "query": "nic.cl",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.cloud",
+      "tldSample": "cloud",
+      "query": "appdomain.cloud",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cloud",
+      "tldSample": "cloud",
+      "query": "nexthink.cloud",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cloud",
+      "tldSample": "cloud",
+      "query": "skyhigh.cloud",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.club",
+      "tldSample": "club",
+      "query": "escort.club",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.club",
+      "tldSample": "club",
+      "query": "firstbyte.club",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.club",
+      "tldSample": "club",
+      "query": "fsiblog3.club",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.commbank",
+      "tldSample": "commbank",
+      "query": "nic.commbank",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.compare",
+      "tldSample": "compare",
+      "query": "nic.compare",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cooking",
+      "tldSample": "cooking",
+      "query": "nic.cooking",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cooking",
+      "tldSample": "cooking",
+      "query": "okking.cooking",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.coop",
+      "tldSample": "coop",
+      "query": "cloud.coop",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.coop",
+      "tldSample": "coop",
+      "query": "ouvaton.coop",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.coop",
+      "tldSample": "coop",
+      "query": "smarthub.coop",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.courses",
+      "tldSample": "courses",
+      "query": "ebalqa.courses",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.courses",
+      "tldSample": "courses",
+      "query": "engaged.courses",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.courses",
+      "tldSample": "courses",
+      "query": "imarketing.courses",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cpa",
+      "tldSample": "cpa",
+      "query": "nic.cpa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cpa",
+      "tldSample": "cpa",
+      "query": "tx.cpa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cr",
+      "tldSample": "cr",
+      "query": "jps.go.cr",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_fax"
+      ],
+      "improvements": [
+        "tech_id",
+        "tech_name",
+        "tech_org",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cr",
+      "tldSample": "cr",
+      "query": "saint2.cr",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_email"
+      ],
+      "improvements": [
+        "tech_id",
+        "tech_name",
+        "tech_org",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cr",
+      "tldSample": "cr",
+      "query": "ucr.ac.cr",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_fax"
+      ],
+      "improvements": [
+        "admin_name",
+        "admin_org",
+        "admin_phone",
+        "admin_fax",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_org",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.creditunion",
+      "tldSample": "creditunion",
+      "query": "nic.creditunion",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cricket",
+      "tldSample": "cricket",
+      "query": "vulkan-king.cricket",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cricket",
+      "tldSample": "cricket",
+      "query": "vulkan-royal.cricket",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cricket",
+      "tldSample": "cricket",
+      "query": "vulkan-stars.cricket",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cuisinella",
+      "tldSample": "cuisinella",
+      "query": "ma.cuisinella",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cuisinella",
+      "tldSample": "cuisinella",
+      "query": "nic.cuisinella",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.cv",
+      "tldSample": "cv",
+      "query": "9xmovies.cv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cv",
+      "tldSample": "cv",
+      "query": "akasha.cv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cv",
+      "tldSample": "cv",
+      "query": "bokepindoh.cv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cx",
+      "tldSample": "cx",
+      "query": "ath.cx",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cx",
+      "tldSample": "cx",
+      "query": "crackstreams.cx",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cx",
+      "tldSample": "cx",
+      "query": "sto.cx",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cymru",
+      "tldSample": "cymru",
+      "query": "nic.cymru",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.nic.cz",
+      "tldSample": "cz",
+      "query": "idnes.cz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_id",
+        "admin_name",
+        "admin_org",
+        "tech_name",
+        "tech_org"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cz",
+      "tldSample": "cz",
+      "query": "novinky.cz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_org",
+        "admin_email",
+        "tech_name",
+        "tech_org",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.cz",
+      "tldSample": "cz",
+      "query": "seznam.cz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_org",
+        "admin_email",
+        "tech_name",
+        "tech_org",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.dds",
+      "tldSample": "dds",
+      "query": "nic.dds",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.design",
+      "tldSample": "design",
+      "query": "iconify.design",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.design",
+      "tldSample": "design",
+      "query": "lizheng.design",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.design",
+      "tldSample": "design",
+      "query": "spline.design",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.do",
+      "tldSample": "do",
+      "query": "nic.do",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection timeout: Timeout waiting for socket query"
+    },
+    {
+      "server": "whois.nic.download",
+      "tldSample": "download",
+      "query": "04z3susick.download",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.download",
+      "tldSample": "download",
+      "query": "05vr9nyqg5.download",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.download",
+      "tldSample": "download",
+      "query": "audioz.download",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.durban",
+      "tldSample": "durban",
+      "query": "nic.durban",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.dz",
+      "tldSample": "dz",
+      "query": "education.dz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.dz",
+      "tldSample": "dz",
+      "query": "education.gov.dz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.dz",
+      "tldSample": "dz",
+      "query": "poste.dz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.earth",
+      "tldSample": "earth",
+      "query": "dialogue.earth",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.earth",
+      "tldSample": "earth",
+      "query": "greenly.earth",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.earth",
+      "tldSample": "earth",
+      "query": "new88.earth",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ec",
+      "tldSample": "ec",
+      "query": "nic.ec",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.es",
+      "tldSample": "es",
+      "query": "nic.es",
+      "outcome": "throttled",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "The IP address used to perform the query  is not authorised  or  has exceeded the established limit for"
+    },
+    {
+      "server": "whois.nic.faith",
+      "tldSample": "faith",
+      "query": "marvelcomics.faith",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.faith",
+      "tldSample": "faith",
+      "query": "marvelvsdc.faith",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.faith",
+      "tldSample": "faith",
+      "query": "vulkan-vegas.faith",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fashion",
+      "tldSample": "fashion",
+      "query": "nic.fashion",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.fashion",
+      "tldSample": "fashion",
+      "query": "theindustry.fashion",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fashion",
+      "tldSample": "fashion",
+      "query": "wanna.fashion",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.film",
+      "tldSample": "film",
+      "query": "heovl.film",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.film",
+      "tldSample": "film",
+      "query": "lk21.film",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.film",
+      "tldSample": "film",
+      "query": "start.film",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fishing",
+      "tldSample": "fishing",
+      "query": "nic.fishing",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.fishing",
+      "tldSample": "fishing",
+      "query": "true.fishing",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.fit",
+      "tldSample": "fit",
+      "query": "rugbystory.fit",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fit",
+      "tldSample": "fit",
+      "query": "tennisstory.fit",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fit",
+      "tldSample": "fit",
+      "query": "xamvn.fit",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fox",
+      "tldSample": "fox",
+      "query": "dns.fox",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fox",
+      "tldSample": "fox",
+      "query": "dt.fox",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fox",
+      "tldSample": "fox",
+      "query": "video.fox",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fr",
+      "tldSample": "fr",
+      "query": "amazon.fr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fr",
+      "tldSample": "fr",
+      "query": "free.fr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_fax",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_fax",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.fr",
+      "tldSample": "fr",
+      "query": "lemonde.fr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.garden",
+      "tldSample": "garden",
+      "query": "file.garden",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.garden",
+      "tldSample": "garden",
+      "query": "plantura.garden",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.garden",
+      "tldSample": "garden",
+      "query": "sunny.garden",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.gay",
+      "tldSample": "gay",
+      "query": "aagmaal.gay",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.gay",
+      "tldSample": "gay",
+      "query": "nic.gay",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.gay",
+      "tldSample": "gay",
+      "query": "so.gay",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.gd",
+      "tldSample": "gd",
+      "query": "lnks.gd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.gd",
+      "tldSample": "gd",
+      "query": "streameast.gd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.gd",
+      "tldSample": "gd",
+      "query": "work.gd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.george",
+      "tldSample": "george",
+      "query": "nic.george",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.godaddy",
+      "tldSample": "godaddy",
+      "query": "careers.godaddy",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.godaddy",
+      "tldSample": "godaddy",
+      "query": "dnrs.godaddy",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.godaddy",
+      "tldSample": "godaddy",
+      "query": "tldns.godaddy",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.gop",
+      "tldSample": "gop",
+      "query": "nic.gop",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.nic.grocery",
+      "tldSample": "grocery",
+      "query": "nic.grocery",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.hamburg",
+      "tldSample": "hamburg",
+      "query": "polizei.hamburg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.hamburg",
+      "tldSample": "hamburg",
+      "query": "rockantenne.hamburg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.hamburg",
+      "tldSample": "hamburg",
+      "query": "stadtreinigung.hamburg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.hn",
+      "tldSample": "hn",
+      "query": "diez.hn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.hn",
+      "tldSample": "hn",
+      "query": "prf.hn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.hn",
+      "tldSample": "hn",
+      "query": "verify.hn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.horse",
+      "tldSample": "horse",
+      "query": "platform9.horse",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.horse",
+      "tldSample": "horse",
+      "query": "porkbun.horse",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.horse",
+      "tldSample": "horse",
+      "query": "racingaustralia.horse",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.hotels",
+      "tldSample": "hotels",
+      "query": "nic.hotels",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.hu",
+      "tldSample": "hu",
+      "query": "nic.hu",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.ibm",
+      "tldSample": "ibm",
+      "query": "nic.ibm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ikano",
+      "tldSample": "ikano",
+      "query": "bank.ikano",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ikano",
+      "tldSample": "ikano",
+      "query": "nic.ikano",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.im",
+      "tldSample": "im",
+      "query": "imo.im",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.im",
+      "tldSample": "im",
+      "query": "monica.im",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.im",
+      "tldSample": "im",
+      "query": "spot.im",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ink",
+      "tldSample": "ink",
+      "query": "likemanga.ink",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ink",
+      "tldSample": "ink",
+      "query": "mez.ink",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ink",
+      "tldSample": "ink",
+      "query": "tracker.ink",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.insurance",
+      "tldSample": "insurance",
+      "query": "narayanahealth.insurance",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.insurance",
+      "tldSample": "insurance",
+      "query": "nic.insurance",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ir",
+      "tldSample": "ir",
+      "query": "divar.ir",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.it",
+      "tldSample": "it",
+      "query": "amazon.it",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name",
+        "registrar_org"
+      ],
+      "changed": [
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.it",
+      "tldSample": "it",
+      "query": "redd.it",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name",
+        "registrar_org"
+      ],
+      "changed": [
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.it",
+      "tldSample": "it",
+      "query": "repubblica.it",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name",
+        "registrar_org"
+      ],
+      "changed": [
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.jobs",
+      "tldSample": "jobs",
+      "query": "nic.jobs",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.nic.joburg",
+      "tldSample": "joburg",
+      "query": "afrihost.joburg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.joburg",
+      "tldSample": "joburg",
+      "query": "nic.joburg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.joburg",
+      "tldSample": "joburg",
+      "query": "vanilla.joburg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.jprs",
+      "tldSample": "jprs",
+      "query": "nic.jprs",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.kn",
+      "tldSample": "kn",
+      "query": "int.kn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.kn",
+      "tldSample": "kn",
+      "query": "nic.kn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.kn",
+      "tldSample": "kn",
+      "query": "stkittstourism.kn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.krd",
+      "tldSample": "krd",
+      "query": "gov.krd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.krd",
+      "tldSample": "krd",
+      "query": "pawan.krd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.krd",
+      "tldSample": "krd",
+      "query": "stake.krd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.kz",
+      "tldSample": "kz",
+      "query": "kaspi.kz",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.kz",
+      "tldSample": "kz",
+      "query": "kolesa.kz",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.kz",
+      "tldSample": "kz",
+      "query": "olimpbet.kz",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.lat",
+      "tldSample": "lat",
+      "query": "mangaku.lat",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.lat",
+      "tldSample": "lat",
+      "query": "noticiaslatam.lat",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.lat",
+      "tldSample": "lat",
+      "query": "southpark.lat",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.latrobe",
+      "tldSample": "latrobe",
+      "query": "nic.latrobe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.law",
+      "tldSample": "law",
+      "query": "cms.law",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.law",
+      "tldSample": "law",
+      "query": "public.law",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.law",
+      "tldSample": "law",
+      "query": "trellis.law",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.li",
+      "tldSample": "li",
+      "query": "nic.li",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.lifeinsurance",
+      "tldSample": "lifeinsurance",
+      "query": "nic.lifeinsurance",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.lk",
+      "tldSample": "lk",
+      "query": "nic.lk",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.nic.loan",
+      "tldSample": "loan",
+      "query": "nic.loan",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.loan",
+      "tldSample": "loan",
+      "query": "vpnn.loan",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.loan",
+      "tldSample": "loan",
+      "query": "vulcan-deluxe.loan",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.locker",
+      "tldSample": "locker",
+      "query": "nic.locker",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.love",
+      "tldSample": "love",
+      "query": "anwap.love",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.love",
+      "tldSample": "love",
+      "query": "hdmaal.love",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.love",
+      "tldSample": "love",
+      "query": "lenkino.love",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ls",
+      "tldSample": "ls",
+      "query": "ebet.ls",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_phone",
+        "registrant_email",
+        "admin_name",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ls",
+      "tldSample": "ls",
+      "query": "manua.ls",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_org",
+        "registrant_phone",
+        "registrant_email",
+        "admin_name",
+        "admin_org",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_org",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "updated_date"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ls",
+      "tldSample": "ls",
+      "query": "wsbetting.co.ls",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.luxe",
+      "tldSample": "luxe",
+      "query": "lista.luxe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.luxe",
+      "tldSample": "luxe",
+      "query": "multicanais.luxe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.luxe",
+      "tldSample": "luxe",
+      "query": "nic.luxe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.lv",
+      "tldSample": "lv",
+      "query": "inbox.lv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.lv",
+      "tldSample": "lv",
+      "query": "la.lv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.lv",
+      "tldSample": "lv",
+      "query": "mixnews.lv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.md",
+      "tldSample": "md",
+      "query": "nic.md",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.melbourne",
+      "tldSample": "melbourne",
+      "query": "nic.melbourne",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.men",
+      "tldSample": "men",
+      "query": "1tamilblasters.men",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.men",
+      "tldSample": "men",
+      "query": "hsex.men",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.men",
+      "tldSample": "men",
+      "query": "watchmovierulz.men",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.menu",
+      "tldSample": "menu",
+      "query": "1000.menu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.menu",
+      "tldSample": "menu",
+      "query": "sirius.menu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.menu",
+      "tldSample": "menu",
+      "query": "speisekarte.menu",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.merckmsd",
+      "tldSample": "merckmsd",
+      "query": "nic.merckmsd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.mg",
+      "tldSample": "mg",
+      "query": "dts.mg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mg",
+      "tldSample": "mg",
+      "query": "orange.mg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mg",
+      "tldSample": "mg",
+      "query": "storm.mg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.miami",
+      "tldSample": "miami",
+      "query": "nic.miami",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.miami",
+      "tldSample": "miami",
+      "query": "sultanplay77.miami",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.mobi",
+      "tldSample": "mobi",
+      "query": "nic.mobi",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.moe",
+      "tldSample": "moe",
+      "query": "bepis.moe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.moe",
+      "tldSample": "moe",
+      "query": "leet-tracker.moe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.moe",
+      "tldSample": "moe",
+      "query": "porno666.moe",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.monash",
+      "tldSample": "monash",
+      "query": "my.monash",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.monash",
+      "tldSample": "monash",
+      "query": "staff.monash",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.monash",
+      "tldSample": "monash",
+      "query": "student.monash",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.moto",
+      "tldSample": "moto",
+      "query": "nic.moto",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.msd",
+      "tldSample": "msd",
+      "query": "nic.msd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.mtr",
+      "tldSample": "mtr",
+      "query": "nic.mtr",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.mw",
+      "tldSample": "mw",
+      "query": "betpawa.mw",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_id",
+        "admin_name",
+        "admin_org",
+        "admin_phone",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_org",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mw",
+      "tldSample": "mw",
+      "query": "betway.mw",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_id",
+        "admin_name",
+        "admin_org",
+        "admin_phone",
+        "admin_fax",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_org",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mw",
+      "tldSample": "mw",
+      "query": "wsbetting.co.mw",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_id",
+        "admin_name",
+        "admin_org",
+        "admin_phone",
+        "admin_fax",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_org",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [
+        "updated_date"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mz",
+      "tldSample": "mz",
+      "query": "betway.co.mz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mz",
+      "tldSample": "mz",
+      "query": "google.co.mz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.mz",
+      "tldSample": "mz",
+      "query": "uem.mz",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.name",
+      "tldSample": "name",
+      "query": "hentai.name",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.name",
+      "tldSample": "name",
+      "query": "hostia.name",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.name",
+      "tldSample": "name",
+      "query": "xhdporno.name",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.net.bw",
+      "tldSample": "bw",
+      "query": "botsnet.bw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.net.bw",
+      "tldSample": "bw",
+      "query": "gov.bw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.net.bw",
+      "tldSample": "bw",
+      "query": "ub.bw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.net.sa",
+      "tldSample": "sa",
+      "query": "nic.sa",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.net.sb",
+      "tldSample": "sb",
+      "query": "nic.sb",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.nic.netbank",
+      "tldSample": "netbank",
+      "query": "nic.netbank",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.nf",
+      "tldSample": "nf",
+      "query": "biz.nf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.nf",
+      "tldSample": "nf",
+      "query": "fr.nf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.nf",
+      "tldSample": "nf",
+      "query": "google.com.nf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ntt",
+      "tldSample": "ntt",
+      "query": "group.ntt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ntt",
+      "tldSample": "ntt",
+      "query": "nic.ntt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.ntt",
+      "tldSample": "ntt",
+      "query": "rd.ntt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.nyc",
+      "tldSample": "nyc",
+      "query": "bofa.nyc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.nyc",
+      "tldSample": "nyc",
+      "query": "edc.nyc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.nyc",
+      "tldSample": "nyc",
+      "query": "myschools.nyc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.observer",
+      "tldSample": "observer",
+      "query": "fediverse.observer",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.observer",
+      "tldSample": "observer",
+      "query": "project2025.observer",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.observer",
+      "tldSample": "observer",
+      "query": "xxx.observer",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.olayan",
+      "tldSample": "olayan",
+      "query": "nic.olayan",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.olayangroup",
+      "tldSample": "olayangroup",
+      "query": "nic.olayangroup",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.one",
+      "tldSample": "one",
+      "query": "komiku.one",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.one",
+      "tldSample": "one",
+      "query": "lotterysambad.one",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.one",
+      "tldSample": "one",
+      "query": "pornhat.one",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.open",
+      "tldSample": "open",
+      "query": "nic.open",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.org.uy",
+      "tldSample": "uy",
+      "query": "nic.uy",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "server": "whois.nic.osaka",
+      "tldSample": "osaka",
+      "query": "nic.osaka",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.osaka",
+      "tldSample": "osaka",
+      "query": "streetkart.osaka",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.osaka",
+      "tldSample": "osaka",
+      "query": "suijo-bus.osaka",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.party",
+      "tldSample": "party",
+      "query": "1tamilblasters.party",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.party",
+      "tldSample": "party",
+      "query": "moxing.party",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.party",
+      "tldSample": "party",
+      "query": "spankbang.party",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.pharmacy",
+      "tldSample": "pharmacy",
+      "query": "nic.pharmacy",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.nic.philips",
+      "tldSample": "philips",
+      "query": "nic.philips",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.photo",
+      "tldSample": "photo",
+      "query": "carprice.photo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.photo",
+      "tldSample": "photo",
+      "query": "gallery.photo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.photo",
+      "tldSample": "photo",
+      "query": "hoop.photo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.physio",
+      "tldSample": "physio",
+      "query": "australian.physio",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.physio",
+      "tldSample": "physio",
+      "query": "nic.physio",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.physio",
+      "tldSample": "physio",
+      "query": "world.physio",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ping",
+      "tldSample": "ping",
+      "query": "nic.ping",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.pm",
+      "tldSample": "pm",
+      "query": "breizh.pm",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_country"
+      ],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "admin_id",
+        "admin_name",
+        "tech_id",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.pm",
+      "tldSample": "pm",
+      "query": "mp3.pm",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_country"
+      ],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_id",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.pm",
+      "tldSample": "pm",
+      "query": "vipleague.pm",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_country"
+      ],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "admin_id",
+        "admin_name",
+        "tech_id",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.politie",
+      "tldSample": "politie",
+      "query": "ext.politie",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.politie",
+      "tldSample": "politie",
+      "query": "nic.politie",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.porn",
+      "tldSample": "porn",
+      "query": "beeg.porn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.porn",
+      "tldSample": "porn",
+      "query": "its.porn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.porn",
+      "tldSample": "porn",
+      "query": "xxxi.porn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.priv.at",
+      "tldSample": "priv.at",
+      "query": "nic.priv.at",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.racing",
+      "tldSample": "racing",
+      "query": "24-vulkan.racing",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.racing",
+      "tldSample": "racing",
+      "query": "hostingcloud.racing",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.racing",
+      "tldSample": "racing",
+      "query": "motogpdb.racing",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.re",
+      "tldSample": "re",
+      "query": "cfx.re",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_fax"
+      ],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "registrant_country",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [
+        "status",
+        "registrant_phone",
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.re",
+      "tldSample": "re",
+      "query": "nyahentai.re",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_fax"
+      ],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "registrant_country",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "registrant_phone",
+        "registrant_email",
+        "tech_country"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.re",
+      "tldSample": "re",
+      "query": "ygg.re",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_phone",
+        "registrant_email"
+      ],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "admin_name",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.redstone",
+      "tldSample": "redstone",
+      "query": "nic.redstone",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.nic.ren",
+      "tldSample": "ren",
+      "query": "88b1.ren",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ren",
+      "tldSample": "ren",
+      "query": "m3u8.ren",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ren",
+      "tldSample": "ren",
+      "query": "sci-hub.ren",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rest",
+      "tldSample": "rest",
+      "query": "bokepindoh.rest",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rest",
+      "tldSample": "rest",
+      "query": "insomnia.rest",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rest",
+      "tldSample": "rest",
+      "query": "uni.rest",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.review",
+      "tldSample": "review",
+      "query": "adultfriendfinder.review",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.review",
+      "tldSample": "review",
+      "query": "bookmarkingworld.review",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.review",
+      "tldSample": "review",
+      "query": "championsleage.review",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rodeo",
+      "tldSample": "rodeo",
+      "query": "freeporn.rodeo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rodeo",
+      "tldSample": "rodeo",
+      "query": "owlbear.rodeo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rodeo",
+      "tldSample": "rodeo",
+      "query": "sexvideos.rodeo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rugby",
+      "tldSample": "rugby",
+      "query": "all.rugby",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rugby",
+      "tldSample": "rugby",
+      "query": "get.rugby",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.rugby",
+      "tldSample": "rugby",
+      "query": "super.rugby",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.safety",
+      "tldSample": "safety",
+      "query": "nic.safety",
+      "outcome": "notfound",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "no credible parse"
+    },
+    {
+      "server": "whois.nic.sakura",
+      "tldSample": "sakura",
+      "query": "nic.sakura",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.samsclub",
+      "tldSample": "samsclub",
+      "query": "nic.samsclub",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sandvik",
+      "tldSample": "sandvik",
+      "query": "home.sandvik",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sandvik",
+      "tldSample": "sandvik",
+      "query": "nic.sandvik",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sandvik",
+      "tldSample": "sandvik",
+      "query": "rocktechnology.sandvik",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sandvikcoromant",
+      "tldSample": "sandvikcoromant",
+      "query": "nic.sandvikcoromant",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.scb",
+      "tldSample": "scb",
+      "query": "connect.scb",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.scb",
+      "tldSample": "scb",
+      "query": "nic.scb",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.scb",
+      "tldSample": "scb",
+      "query": "partners.scb",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.schmidt",
+      "tldSample": "schmidt",
+      "query": "home-design.schmidt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.schmidt",
+      "tldSample": "schmidt",
+      "query": "nic.schmidt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.schmidt",
+      "tldSample": "schmidt",
+      "query": "shop.schmidt",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.science",
+      "tldSample": "science",
+      "query": "amazon.science",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.science",
+      "tldSample": "science",
+      "query": "minecraftcommand.science",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.science",
+      "tldSample": "science",
+      "query": "mozillabd.science",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.seek",
+      "tldSample": "seek",
+      "query": "nic.seek",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.select",
+      "tldSample": "select",
+      "query": "nic.select",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.seven",
+      "tldSample": "seven",
+      "query": "nic.seven",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sex",
+      "tldSample": "sex",
+      "query": "freepornvideo.sex",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sex",
+      "tldSample": "sex",
+      "query": "redwap.sex",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sex",
+      "tldSample": "sex",
+      "query": "tubev.sex",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sm",
+      "tldSample": "sm",
+      "query": "puri.sm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sm",
+      "tldSample": "sm",
+      "query": "sanmarinortv.sm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sm",
+      "tldSample": "sm",
+      "query": "unirsm.sm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sn",
+      "tldSample": "sn",
+      "query": "blogspot.sn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sn",
+      "tldSample": "sn",
+      "query": "ucad.sn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sn",
+      "tldSample": "sn",
+      "query": "unchk.sn",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.so",
+      "tldSample": "so",
+      "query": "animeunity.so",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.so",
+      "tldSample": "so",
+      "query": "google.so",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.so",
+      "tldSample": "so",
+      "query": "openloop.so",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ss",
+      "tldSample": "ss",
+      "query": "fortunebet.com.ss",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ss",
+      "tldSample": "ss",
+      "query": "mail.ss",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ss",
+      "tldSample": "ss",
+      "query": "nic.ss",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.st",
+      "tldSample": "st",
+      "query": "avito.st",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "billing_state",
+        "billing_phone"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.st",
+      "tldSample": "st",
+      "query": "pega.st",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "billing_state",
+        "billing_phone"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.st",
+      "tldSample": "st",
+      "query": "utp.st",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.stream",
+      "tldSample": "stream",
+      "query": "bokepindo13.stream",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.stream",
+      "tldSample": "stream",
+      "query": "pornxp.stream",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.stream",
+      "tldSample": "stream",
+      "query": "xhamsterlive.stream",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.study",
+      "tldSample": "study",
+      "query": "nic.study",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.study",
+      "tldSample": "study",
+      "query": "porno365.study",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.study",
+      "tldSample": "study",
+      "query": "trade.study",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sucks",
+      "tldSample": "sucks",
+      "query": "anypointplatform.sucks",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sucks",
+      "tldSample": "sucks",
+      "query": "camwhores.sucks",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sucks",
+      "tldSample": "sucks",
+      "query": "nic.sucks",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.surf",
+      "tldSample": "surf",
+      "query": "ebook.surf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.surf",
+      "tldSample": "surf",
+      "query": "history.surf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.surf",
+      "tldSample": "surf",
+      "query": "nic.surf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sydney",
+      "tldSample": "sydney",
+      "query": "indopokerku.sydney",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.sydney",
+      "tldSample": "sydney",
+      "query": "itsbarangaroo.sydney",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.sydney",
+      "tldSample": "sydney",
+      "query": "nic.sydney",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.taipei",
+      "tldSample": "taipei",
+      "query": "elearning.taipei",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.taipei",
+      "tldSample": "taipei",
+      "query": "metro.taipei",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.taipei",
+      "tldSample": "taipei",
+      "query": "travel.taipei",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tatar",
+      "tldSample": "tatar",
+      "query": "dan.tatar",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tatar",
+      "tldSample": "tatar",
+      "query": "intertat.tatar",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tatar",
+      "tldSample": "tatar",
+      "query": "shtab.tatar",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tattoo",
+      "tldSample": "tattoo",
+      "query": "nic.tattoo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.tattoo",
+      "tldSample": "tattoo",
+      "query": "nyonya4d.tattoo",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tc",
+      "tldSample": "tc",
+      "query": "halveti.tc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tc",
+      "tldSample": "tc",
+      "query": "os.tc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tc",
+      "tldSample": "tc",
+      "query": "planeta.tc",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.td",
+      "tldSample": "td",
+      "query": "1xbet.td",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.td",
+      "tldSample": "td",
+      "query": "ilnet-telecoms.td",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.td",
+      "tldSample": "td",
+      "query": "mail.td",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tdk",
+      "tldSample": "tdk",
+      "query": "nic.tdk",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.teva",
+      "tldSample": "teva",
+      "query": "apps.teva",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.teva",
+      "tldSample": "teva",
+      "query": "careers.teva",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.teva",
+      "tldSample": "teva",
+      "query": "nic.teva",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.tf",
+      "tldSample": "tf",
+      "query": "backpack.tf",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_fax",
+        "registrant_email",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_fax",
+        "admin_email",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tf",
+      "tldSample": "tf",
+      "query": "primewire.tf",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tf",
+      "tldSample": "tf",
+      "query": "scrap.tf",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_name",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tg",
+      "tldSample": "tg",
+      "query": "google.tg",
+      "outcome": "regression",
+      "regressions": [
+        "admin_phone",
+        "admin_fax",
+        "admin_email",
+        "tech_fax"
+      ],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [
+        "registrant_fax",
+        "registrant_email"
+      ],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.tg",
+      "tldSample": "tg",
+      "query": "nic.tg",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [
+        "registrant_fax",
+        "registrant_email"
+      ],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.tg",
+      "tldSample": "tg",
+      "query": "wallet.tg",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [
+        "registrant_fax",
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tirol",
+      "tldSample": "tirol",
+      "query": "interviewed.tirol",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tirol",
+      "tldSample": "tirol",
+      "query": "nic.tirol",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.tirol",
+      "tldSample": "tirol",
+      "query": "steinplatte.tirol",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.tl",
+      "tldSample": "tl",
+      "query": "de.tl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tl",
+      "tldSample": "tl",
+      "query": "page.tl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tl",
+      "tldSample": "tl",
+      "query": "we.tl",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tm",
+      "tldSample": "tm",
+      "query": "hns.tm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tm",
+      "tldSample": "tm",
+      "query": "telecom.tm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tm",
+      "tldSample": "tm",
+      "query": "tmok.tm",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.trade",
+      "tldSample": "trade",
+      "query": "clashofcryptos.trade",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.trade",
+      "tldSample": "trade",
+      "query": "diablo.trade",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.trade",
+      "tldSample": "trade",
+      "query": "trade-britanica.trade",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tube",
+      "tldSample": "tube",
+      "query": "desi-porn.tube",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tube",
+      "tldSample": "tube",
+      "query": "porno666.tube",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tube",
+      "tldSample": "tube",
+      "query": "pornstars.tube",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tv",
+      "tldSample": "tv",
+      "query": "attn.tv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tv",
+      "tldSample": "tv",
+      "query": "teads.tv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.tv",
+      "tldSample": "tv",
+      "query": "xcal.tv",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.uk",
+      "tldSample": "uk",
+      "query": "bbc.co.uk",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_name_whole_line"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.uk",
+      "tldSample": "uk",
+      "query": "dailymail.co.uk",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_name_whole_line"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.uk",
+      "tldSample": "uk",
+      "query": "www.gov.uk",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_city",
+        "registrant_country",
+        "registrar_name_whole_line"
+      ],
+      "improvements": [
+        "registrar_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.unicom",
+      "tldSample": "unicom",
+      "query": "nic.unicom",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.us",
+      "tldSample": "us",
+      "query": "donmai.us",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.us",
+      "tldSample": "us",
+      "query": "tiktokv.us",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.us",
+      "tldSample": "us",
+      "query": "zoom.us",
+      "outcome": "regression",
+      "regressions": [
+        "registrar_phone",
+        "registrar_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ve",
+      "tldSample": "ve",
+      "query": "flashscore.com.ve",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "updated_date",
+        "admin_org",
+        "tech_org"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ve",
+      "tldSample": "ve",
+      "query": "google.co.ve",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "admin_org",
+        "tech_org"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.ve",
+      "tldSample": "ve",
+      "query": "mercadolibre.com.ve",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "updated_date",
+        "admin_org",
+        "tech_org"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.versicherung",
+      "tldSample": "versicherung",
+      "query": "nic.versicherung",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.vip",
+      "tldSample": "vip",
+      "query": "52shuku.vip",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.vip",
+      "tldSample": "vip",
+      "query": "arbada.vip",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.vip",
+      "tldSample": "vip",
+      "query": "nameserver.vip",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.vodka",
+      "tldSample": "vodka",
+      "query": "mstdn.vodka",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.vodka",
+      "tldSample": "vodka",
+      "query": "nic.vodka",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.vodka",
+      "tldSample": "vodka",
+      "query": "stj.vodka",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.voting",
+      "tldSample": "voting",
+      "query": "nic.voting",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.wales",
+      "tldSample": "wales",
+      "query": "nic.wales",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.nic.walmart",
+      "tldSample": "walmart",
+      "query": "nic.walmart",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.walter",
+      "tldSample": "walter",
+      "query": "nic.walter",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.webcam",
+      "tldSample": "webcam",
+      "query": "hikvisiondb.webcam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.webcam",
+      "tldSample": "webcam",
+      "query": "rabbits.webcam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.webcam",
+      "tldSample": "webcam",
+      "query": "xgirls.webcam",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wedding",
+      "tldSample": "wedding",
+      "query": "nic.wedding",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.wedding",
+      "tldSample": "wedding",
+      "query": "pla-cole.wedding",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wedding",
+      "tldSample": "wedding",
+      "query": "sircle.wedding",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wf",
+      "tldSample": "wf",
+      "query": "nscluster.wf",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_fax",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wf",
+      "tldSample": "wf",
+      "query": "psa.wf",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wf",
+      "tldSample": "wf",
+      "query": "tracker.wf",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_country",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wien",
+      "tldSample": "wien",
+      "query": "ftth.wien",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wien",
+      "tldSample": "wien",
+      "query": "impfservice.wien",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wien",
+      "tldSample": "wien",
+      "query": "log.wien",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wiki",
+      "tldSample": "wiki",
+      "query": "bg3.wiki",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wiki",
+      "tldSample": "wiki",
+      "query": "runescape.wiki",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.wiki",
+      "tldSample": "wiki",
+      "query": "sibokep.wiki",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.win",
+      "tldSample": "win",
+      "query": "da88.win",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.win",
+      "tldSample": "win",
+      "query": "firefaucet.win",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.win",
+      "tldSample": "win",
+      "query": "helpslot.win",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.woodside",
+      "tldSample": "woodside",
+      "query": "nic.woodside",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.work",
+      "tldSample": "work",
+      "query": "contents-group.work",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.work",
+      "tldSample": "work",
+      "query": "dood.work",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.work",
+      "tldSample": "work",
+      "query": "imanage.work",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.xerox",
+      "tldSample": "xerox",
+      "query": "nic.xerox",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--80aqecdr1a",
+      "tldSample": "xn--80aqecdr1a",
+      "query": "nic.xn--80aqecdr1a",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--8y0a063a",
+      "tldSample": "xn--8y0a063a",
+      "query": "nic.xn--8y0a063a",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--g2xx48c",
+      "tldSample": "xn--g2xx48c",
+      "query": "nic.xn--g2xx48c",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--kcrx77d1x4a",
+      "tldSample": "xn--kcrx77d1x4a",
+      "query": "nic.xn--kcrx77d1x4a",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--mgba7c0bbn0a",
+      "tldSample": "xn--mgba7c0bbn0a",
+      "query": "nic.xn--mgba7c0bbn0a",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--mgbi4ecexp",
+      "tldSample": "xn--mgbi4ecexp",
+      "query": "nic.xn--mgbi4ecexp",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--ngbc5azd",
+      "tldSample": "xn--ngbc5azd",
+      "query": "nic.xn--ngbc5azd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--ngbc5azd",
+      "tldSample": "xn--ngbc5azd",
+      "query": "xn--mgbce3ahe5i.xn--ngbc5azd",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xn--tiq49xqyj",
+      "tldSample": "xn--tiq49xqyj",
+      "query": "nic.xn--tiq49xqyj",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.xxx",
+      "tldSample": "xxx",
+      "query": "imhentai.xxx",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.xxx",
+      "tldSample": "xxx",
+      "query": "rat.xxx",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.xxx",
+      "tldSample": "xxx",
+      "query": "sexvid.xxx",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.yoga",
+      "tldSample": "yoga",
+      "query": "chin-mudra.yoga",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.yoga",
+      "tldSample": "yoga",
+      "query": "enter.yoga",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.yoga",
+      "tldSample": "yoga",
+      "query": "nic.yoga",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.nic.yt",
+      "tldSample": "yt",
+      "query": "dood.yt",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrar_fax",
+        "registrant_id",
+        "admin_id",
+        "admin_name",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "status",
+        "tech_country"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.yt",
+      "tldSample": "yt",
+      "query": "eztv.yt",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id",
+        "registrant_country",
+        "registrant_phone",
+        "registrant_email",
+        "admin_id",
+        "admin_name",
+        "admin_country",
+        "admin_phone",
+        "admin_email",
+        "tech_name",
+        "tech_phone",
+        "tech_email"
+      ],
+      "changed": [
+        "tech_country"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.nic.yt",
+      "tldSample": "yt",
+      "query": "yata.yt",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrar_fax",
+        "registrant_id",
+        "admin_id",
+        "admin_name",
+        "tech_name",
+        "tech_phone",
+        "tech_fax",
+        "tech_email"
+      ],
+      "changed": [
+        "status"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.norid.no",
+      "tldSample": "no",
+      "query": "dagbladet.no",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "dnssec"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.norid.no",
+      "tldSample": "no",
+      "query": "finn.no",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.norid.no",
+      "tldSample": "no",
+      "query": "vg.no",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.pknic.net.pk",
+      "tldSample": "pk",
+      "query": "jang.com.pk",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.pknic.net.pk",
+      "tldSample": "pk",
+      "query": "priceoye.pk",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.pknic.net.pk",
+      "tldSample": "pk",
+      "query": "tribune.com.pk",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.pnina.ps",
+      "tldSample": "ps",
+      "query": "nic.ps",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.punktum.dk",
+      "tldSample": "dk",
+      "query": "bt.dk",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_id"
+      ],
+      "improvements": [
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.punktum.dk",
+      "tldSample": "dk",
+      "query": "dr.dk",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_id"
+      ],
+      "improvements": [
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.punktum.dk",
+      "tldSample": "dk",
+      "query": "ekstrabladet.dk",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_id"
+      ],
+      "improvements": [
+        "registrant_email"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.register.bg",
+      "tldSample": "bg",
+      "query": "linkos.bg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.register.bg",
+      "tldSample": "bg",
+      "query": "remove.bg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.register.bg",
+      "tldSample": "bg",
+      "query": "superhosting.bg",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.register.si",
+      "tldSample": "si",
+      "query": "bombuj.si",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrant_name"
+      ],
+      "recorded": false
+    },
+    {
+      "server": "whois.register.si",
+      "tldSample": "si",
+      "query": "nic.si",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrant_name"
+      ],
+      "recorded": false
+    },
+    {
+      "server": "whois.register.si",
+      "tldSample": "si",
+      "query": "rtvslo.si",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.registre.bf",
+      "tldSample": "bf",
+      "query": "arcep.bf",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registre.bf",
+      "tldSample": "bf",
+      "query": "lonab.bf",
+      "outcome": "regression",
+      "regressions": [
+        "admin_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registre.bf",
+      "tldSample": "bf",
+      "query": "nic.bf",
+      "outcome": "regression",
+      "regressions": [
+        "admin_email"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": false
+    },
+    {
+      "server": "whois.registre.ma",
+      "tldSample": "ma",
+      "query": "avito.ma",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registre.ma",
+      "tldSample": "ma",
+      "query": "google.co.ma",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registre.ma",
+      "tldSample": "ma",
+      "query": "lu.ma",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registro.br",
+      "tldSample": "br",
+      "query": "amazon.com.br",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrant_name",
+        "tech_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.registro.br",
+      "tldSample": "br",
+      "query": "shopee.com.br",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registro.br",
+      "tldSample": "br",
+      "query": "uol.com.br",
+      "outcome": "regression",
+      "regressions": [
+        "tech_name"
+      ],
+      "improvements": [],
+      "changed": [
+        "registrant_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.gy",
+      "tldSample": "gy",
+      "query": "hdhub4u.gy",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.gy",
+      "tldSample": "gy",
+      "query": "rb.gy",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.gy",
+      "tldSample": "gy",
+      "query": "short.gy",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.hm",
+      "tldSample": "hm",
+      "query": "nic.hm",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.registry.om",
+      "tldSample": "om",
+      "query": "moe.gov.om",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.om",
+      "tldSample": "om",
+      "query": "mol.gov.om",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.om",
+      "tldSample": "om",
+      "query": "rop.gov.om",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.pf",
+      "tldSample": "pf",
+      "query": "nic.pf",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.registry.qa",
+      "tldSample": "qa",
+      "query": "moi.gov.qa",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.qa",
+      "tldSample": "qa",
+      "query": "qu.edu.qa",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.registry.qa",
+      "tldSample": "qa",
+      "query": "registry.qa",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.rnids.rs",
+      "tldSample": "rs",
+      "query": "google.rs",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.rnids.rs",
+      "tldSample": "rs",
+      "query": "kurir.rs",
+      "outcome": "regression",
+      "regressions": [
+        "admin_name"
+      ],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.rnids.rs",
+      "tldSample": "rs",
+      "query": "sbb.rs",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.rotld.ro",
+      "tldSample": "ro",
+      "query": "emag.ro",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.rotld.ro",
+      "tldSample": "ro",
+      "query": "publi24.ro",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.rotld.ro",
+      "tldSample": "ro",
+      "query": "superbet.ro",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ryce-rsp.com",
+      "tldSample": "cologne",
+      "query": "geissblog.koeln",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ryce-rsp.com",
+      "tldSample": "cologne",
+      "query": "kvb.koeln",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ryce-rsp.com",
+      "tldSample": "cologne",
+      "query": "marie.cologne",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.sk-nic.sk",
+      "tldSample": "sk",
+      "query": "bazos.sk",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_phone",
+        "admin_phone",
+        "admin_email",
+        "tech_phone",
+        "tech_email"
+      ],
+      "improvements": [
+        "registrar_id",
+        "registrar_org"
+      ],
+      "changed": [
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.sk-nic.sk",
+      "tldSample": "sk",
+      "query": "e5.sk",
+      "outcome": "regression",
+      "regressions": [
+        "admin_phone",
+        "admin_email",
+        "tech_phone",
+        "tech_email"
+      ],
+      "improvements": [
+        "registrar_id",
+        "registrar_org"
+      ],
+      "changed": [
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.sk-nic.sk",
+      "tldSample": "sk",
+      "query": "google.sk",
+      "outcome": "regression",
+      "regressions": [
+        "admin_phone",
+        "admin_email",
+        "tech_phone",
+        "tech_email"
+      ],
+      "improvements": [
+        "registrar_id",
+        "registrar_org"
+      ],
+      "changed": [
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.tcinet.ru",
+      "tldSample": "ru",
+      "query": "dzen.ru",
+      "outcome": "regression",
+      "regressions": [
+        "updated_date"
+      ],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tcinet.ru",
+      "tldSample": "ru",
+      "query": "mail.ru",
+      "outcome": "regression",
+      "regressions": [
+        "updated_date"
+      ],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tcinet.ru",
+      "tldSample": "ru",
+      "query": "mts.ru",
+      "outcome": "regression",
+      "regressions": [
+        "updated_date"
+      ],
+      "improvements": [
+        "registrant_state"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.thnic.co.th",
+      "tldSample": "th",
+      "query": "shopee.co.th",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.thnic.co.th",
+      "tldSample": "th",
+      "query": "thains.co.th",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.thnic.co.th",
+      "tldSample": "th",
+      "query": "thairath.co.th",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tld.ee",
+      "tldSample": "ee",
+      "query": "google.ee",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tld.ee",
+      "tldSample": "ee",
+      "query": "lin.ee",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tld.ee",
+      "tldSample": "ee",
+      "query": "linktr.ee",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.trabis.gov.tr",
+      "tldSample": "tr",
+      "query": "hurriyet.com.tr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.trabis.gov.tr",
+      "tldSample": "tr",
+      "query": "milliyet.com.tr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.trabis.gov.tr",
+      "tldSample": "tr",
+      "query": "sozcu.com.tr",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_name"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.twnic.net.tw",
+      "tldSample": "tw",
+      "query": "gamer.com.tw",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrant_country",
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.twnic.net.tw",
+      "tldSample": "tw",
+      "query": "pchome.com.tw",
+      "outcome": "changed",
+      "regressions": [],
+      "improvements": [],
+      "changed": [
+        "registrant_country",
+        "registrant_email"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.twnic.net.tw",
+      "tldSample": "tw",
+      "query": "shopee.tw",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tznic.or.tz",
+      "tldSample": "tz",
+      "query": "ajira.go.tz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tznic.or.tz",
+      "tldSample": "tz",
+      "query": "eganet.go.tz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.tznic.or.tz",
+      "tldSample": "tz",
+      "query": "necta.go.tz",
+      "outcome": "improved",
+      "regressions": [],
+      "improvements": [
+        "registrant_id"
+      ],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.ua",
+      "tldSample": "ua",
+      "query": "nz.ua",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_country"
+      ],
+      "improvements": [
+        "registrar_org"
+      ],
+      "changed": [
+        "status",
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.ua",
+      "tldSample": "ua",
+      "query": "tabletki.ua",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_country"
+      ],
+      "improvements": [
+        "registrar_org"
+      ],
+      "changed": [
+        "status",
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.ua",
+      "tldSample": "ua",
+      "query": "tsn.ua",
+      "outcome": "regression",
+      "regressions": [
+        "registrant_country"
+      ],
+      "improvements": [
+        "registrar_org"
+      ],
+      "changed": [
+        "status",
+        "registrar_name"
+      ],
+      "recorded": true
+    },
+    {
+      "server": "whois.uniregistry.net",
+      "tldSample": "juegos",
+      "query": "keenetic.link",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.uniregistry.net",
+      "tldSample": "juegos",
+      "query": "wa.link",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.uniregistry.net",
+      "tldSample": "juegos",
+      "query": "zog.link",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.verisign-grs.com",
+      "tldSample": "com",
+      "query": "amazonaws.com",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.verisign-grs.com",
+      "tldSample": "com",
+      "query": "apple.com",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.verisign-grs.com",
+      "tldSample": "com",
+      "query": "facebook.com",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "whois.za.net",
+      "tldSample": "za.net",
+      "query": "nic.za.net",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "whois.za.org",
+      "tldSample": "za.org",
+      "query": "nic.za.org",
+      "outcome": "dead",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "server": "www.whois.fj",
+      "tldSample": "fj",
+      "query": "fbcnews.com.fj",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "www.whois.fj",
+      "tldSample": "fj",
+      "query": "fijitimes.com.fj",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    },
+    {
+      "server": "www.whois.fj",
+      "tldSample": "fj",
+      "query": "vodafone.net.fj",
+      "outcome": "equal",
+      "regressions": [],
+      "improvements": [],
+      "changed": [],
+      "recorded": true
+    }
+  ]
+}

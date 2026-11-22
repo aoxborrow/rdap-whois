@@ -1,0 +1,54 @@
+###%%% QRY: eganet.go.tz
+###%%% SRV: whois.tznic.or.tz
+###%%% TME: 2026-07-16T11:45:38Z
+
+%  https://karibu.tz/media/WHOIS_TERMS_TOU.pdf
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 14:45:39 2026
+
+domain:       eganet.go.tz
+registrant:   REG-EGA
+admin-c:      EGA-GISUP
+admin-c:      MN15-TZNIC
+nsset:        NS-EGANET.GO.TZ
+keyset:       EGANET-KEY
+registrar:    REG-EGA
+registered:   02.12.2013 15:48:24
+changed:      04.12.2018 11:10:21
+expire:       02.12.2026
+
+contact:      REG-EGA
+registrar:    REG-EGA
+created:      28.03.2014 15:37:59
+changed:      22.02.2022 17:52:14
+
+contact:      EGA-GISUP
+registrar:    REG-EGA
+created:      12.11.2014 10:45:31
+changed:      22.02.2022 17:57:13
+
+contact:      MN15-TZNIC
+registrar:    REG-TZNIC
+created:      02.12.2013 15:46:50
+
+nsset:        NS-EGANET.GO.TZ
+nserver:      ns3.eganet.go.tz (196.216.162.236, 2001:43f8:e0:2::236)
+nserver:      ns1.eganet.go.tz (154.118.231.82)
+nserver:      ns2.eganet.go.tz (154.118.230.88)
+tech-c:       EGA-GISUP
+registrar:    REG-EGA
+created:      02.12.2013 15:48:01
+changed:      23.03.2018 17:15:37
+
+keyset:       EGANET-KEY
+dnskey:       257 3 13 Kqi6vN0Se7yQCoxqMoPDOQZ/nE6pSbry8o+LGHpGJ3SDQmUUqlrmSRl1oxPUh5I2XRZdiSEiEN3wklst89SQbA==
+tech-c:       EGA-NOC
+registrar:    REG-EGA
+created:      04.12.2018 11:09:56
+changed:      10.05.2023 13:19:26
+
+contact:      EGA-NOC
+registrar:    REG-EGA
+created:      16.11.2018 10:16:02
+changed:      19.11.2018 11:33:38

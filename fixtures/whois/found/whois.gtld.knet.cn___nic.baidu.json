@@ -1,0 +1,75 @@
+{
+  "query": "nic.baidu",
+  "server": "whois.gtld.knet.cn",
+  "domainId": "D20171109G10001G_27628478-baidu",
+  "domainName": "nic.baidu",
+  "creationDate": "2017-11-09T02:38:05Z",
+  "expirationDate": "2027-11-09T02:38:05Z",
+  "updatedDate": "2018-06-11T09:58:45Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "cns1.zdnscloud.net",
+    "dns1.zdnscloud.info",
+    "ins1.zdnscloud.com",
+    "vns1.zdnscloud.biz"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "knet",
+  "registrarUrl": "http://www.knet.cn",
+  "registrarAbuseEmail": "tech-supprot@zdns.cn",
+  "registrarAbusePhone": "+86.01058813521",
+  "registrarWhoisServer": "202.173.11.141",
+  "registrantId": "C20180611C_31565770-baidu",
+  "registrantName": "徐楠楠",
+  "registrantOrg": "百度在线网络技术（北京）有限公司",
+  "registrantAddress": [
+    "海淀区上地十街10号百度大厦三层"
+  ],
+  "registrantCity": "北京",
+  "registrantState": "北京",
+  "registrantPostalCode": "1000091",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.01058005202",
+  "registrantPhoneExt": "0",
+  "registrantFax": "+86.01059920061",
+  "registrantFaxExt": "0",
+  "registrantEmail": "domainmaster@baidu.com",
+  "adminId": "C20180611C_31565770-baidu",
+  "adminName": "徐楠楠",
+  "adminOrg": "百度在线网络技术（北京）有限公司",
+  "adminAddress": [
+    "海淀区上地十街10号百度大厦三层"
+  ],
+  "adminCity": "北京",
+  "adminState": "北京",
+  "adminPostalCode": "1000091",
+  "adminCountry": "CN",
+  "adminPhone": "+86.01058005202",
+  "adminPhoneExt": "0",
+  "adminFax": "+86.01059920061",
+  "adminFaxExt": "0",
+  "adminEmail": "domainmaster@baidu.com",
+  "techId": "C20180611C_31565770-baidu",
+  "techName": "徐楠楠",
+  "techOrg": "百度在线网络技术（北京）有限公司",
+  "techAddress": [
+    "海淀区上地十街10号百度大厦三层"
+  ],
+  "techCity": "北京",
+  "techState": "北京",
+  "techPostalCode": "1000091",
+  "techCountry": "CN",
+  "techPhone": "+86.01058005202",
+  "techPhoneExt": "0",
+  "techFax": "+86.01059920061",
+  "techFaxExt": "0",
+  "techEmail": "domainmaster@baidu.com"
+}

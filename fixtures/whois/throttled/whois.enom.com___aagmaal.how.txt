@@ -1,0 +1,5 @@
+###%%% QRY: aagmaal.how
+###%%% SRV: whois.enom.com
+###%%% TME: 2025-04-01T19:55:20Z
+
+We're sorry, due to high demand on our WHOIS servers, your request cannot be processed. Please try your request again shortly.

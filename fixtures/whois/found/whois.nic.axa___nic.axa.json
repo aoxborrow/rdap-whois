@@ -1,0 +1,56 @@
+{
+  "query": "nic.axa",
+  "server": "whois.nic.axa",
+  "domainId": "D1105-AXA",
+  "domainName": "nic.axa",
+  "creationDate": "2013-09-16T19:50:43Z",
+  "expirationDate": "2027-09-15T23:59:59Z",
+  "updatedDate": "2026-11-12T05:49:36Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.nic.axa",
+    "ns2.dns.nic.axa",
+    "ns3.dns.nic.axa",
+    "ns4.dns.nic.axa",
+    "ns5.dns.nic.axa",
+    "ns6.dns.nic.axa"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "AXA SA",
+  "registrantId": "C591-BIZ",
+  "registrantName": "Registry Services, LLC",
+  "registrantOrg": "Registry Services, LLC",
+  "registrantAddress": [
+    "2155 E GoDaddy Way"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "AZ",
+  "registrantPostalCode": "85284",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806519999",
+  "registrantEmail": "registry-help@registry.godaddy",
+  "techId": "C591-BIZ",
+  "techName": "Registry Services, LLC",
+  "techOrg": "Registry Services, LLC",
+  "techAddress": [
+    "2155 E GoDaddy Way"
+  ],
+  "techCity": "Tempe",
+  "techState": "AZ",
+  "techPostalCode": "85284",
+  "techCountry": "US",
+  "techPhone": "+1.4806519999",
+  "techEmail": "registry-help@registry.godaddy"
+}

@@ -1,0 +1,60 @@
+{
+  "query": "nic.fresenius",
+  "server": "whois.nic.fresenius",
+  "domainId": "D97146984-CNIC",
+  "domainName": "nic.fresenius",
+  "creationDate": "2015-07-20T09:55:55Z",
+  "expirationDate": "2027-07-20T23:59:59Z",
+  "updatedDate": "2026-07-14T00:07:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "anycast1.dnsres.net",
+    "anycast2.dnsres.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Fresenius Immobilien-Verwaltungs-GmbH",
+  "registrarUrl": "https://whois.nic.fresenius",
+  "registrarAbuseEmail": "bettinger@bettinger.de",
+  "registrarAbusePhone": "+49.8954886700",
+  "registrarWhoisServer": "whois.nic.fresenius",
+  "registrantName": "Domain  Manager",
+  "registrantOrg": "Fresenius Immobilien-Verwaltungs-GmbH",
+  "registrantAddress": [
+    "Else-Kroener-Strasse 1"
+  ],
+  "registrantCity": "Bad Homburg",
+  "registrantState": "Hessen",
+  "registrantPostalCode": "61352",
+  "registrantCountry": "DE",
+  "registrantPhone": "+49.61726080",
+  "registrantEmail": "mail@freseniusregistry.com",
+  "techName": "Domain  Manager",
+  "techOrg": "Fresenius Immobilien-Verwaltungs-GmbH",
+  "techAddress": [
+    "Else-Kroener-Strasse 1"
+  ],
+  "techCity": "Bad Homburg",
+  "techState": "Hessen",
+  "techPostalCode": "61352",
+  "techCountry": "DE",
+  "techPhone": "+49.61726080",
+  "techEmail": "mail@freseniusregistry.com"
+}

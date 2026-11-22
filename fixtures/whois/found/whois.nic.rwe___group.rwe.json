@@ -1,0 +1,30 @@
+{
+  "query": "group.rwe",
+  "server": "whois.nic.rwe",
+  "domainId": "568cad64cd4249d4a1c784fcd35c2240-DONUTS",
+  "domainName": "group.rwe",
+  "creationDate": "2018-06-07T13:41:01Z",
+  "expirationDate": "2027-06-07T13:41:01Z",
+  "updatedDate": "2026-08-12T10:25:22Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns01.rwe.com",
+    "dns02.rwe.de",
+    "dns03.rwe.net",
+    "spdns3.cscdns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

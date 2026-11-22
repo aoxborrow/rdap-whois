@@ -1,0 +1,42 @@
+###%%% QRY: goo.gl
+###%%% SRV: whois.markmonitor.com
+###%%% TME: 2026-11-22T08:11:42Z
+
+Domain Name: goo.gl
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar Registration Expiration Date: 2027-01-01T08:00:00.000+00:00
+Registry Expiry Date: 2027-01-01T00:00:00.000+00:00
+Creation Date: 2005-06-16T07:00:00.000+00:00
+Updated Date: 2025-12-02T01:11:38.000+00:00
+Registrant Contact URL: https://domains.markmonitor.com/whois/contact/goo.gl
+Registrant Name: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Tech Contact URL: https://domains.markmonitor.com/whois/contact/goo.gl
+Tech Name: 
+Registrar Organization: Markmonitor Inc.
+Registrar Street: 3540 E Longwing Ln
+Registrar City: Meridian
+Registrar State/Province: ID
+Registrar Postal Code: 83646
+Registrar Country: US
+Registrar Contact URL: https://www.markmonitor.com/contact-us/
+Registrar: Markmonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact: https://corp.markmonitor.com/domain/ui/abuse-report
+Registrar Abuse Contact Phone: +1.2086851750
+Registrar Abuse Contact Name: Markmonitor Inc.
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+Name Server Status: active
+Name Server Last Changed: 2011-12-14T01:57:12.000+00:00 (most recent)
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

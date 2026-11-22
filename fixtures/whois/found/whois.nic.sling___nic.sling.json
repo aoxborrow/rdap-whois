@@ -1,0 +1,41 @@
+{
+  "query": "nic.sling",
+  "server": "whois.nic.sling",
+  "domainId": "DO_9e96960ecf054a38bb327b635aa7ab9b-DISH",
+  "domainName": "nic.sling",
+  "creationDate": "2025-04-09T21:14:29Z",
+  "expirationDate": "2035-04-09T21:14:29Z",
+  "updatedDate": "2025-07-17T17:51:59Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Dish DBS Corporation,",
+  "registrarUrl": "http://mobile-registry.com",
+  "registrarAbuseEmail": "support@mobile-registry.com",
+  "registrarAbusePhone": "+1.3037231000",
+  "registrarWhoisServer": "whois.mobile-registry.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Dish DBS Corporation,",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "CO",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

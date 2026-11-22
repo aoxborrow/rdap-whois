@@ -1,0 +1,27 @@
+{
+  "query": "nic.to",
+  "server": "whois.tonicregistry.to",
+  "domainId": "DO_1bf1e33f172525be504979087d871f19-TONIC",
+  "domainName": "nic.to",
+  "creationDate": "1997-07-03T18:52:27Z",
+  "expirationDate": "2027-07-03T10:39:07Z",
+  "updatedDate": "2026-10-03T01:10:52Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.messagingengine.com",
+    "ns2.messagingengine.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "6763001",
+  "registrarIanaId": 6763001,
+  "registrarName": "Tonic",
+  "registrarUrl": "https://tonic.to",
+  "registrarAbuseEmail": "hostmaster@tonic.to",
+  "registrarWhoisServer": "whois.tonicregistry.to"
+}

@@ -1,0 +1,64 @@
+{
+  "query": "leet-tracker.moe",
+  "server": "whois.dynadot.com",
+  "domainId": "D6AB0DE8F1CE742A98883D173A31B086C-GDREG",
+  "domainName": "leet-tracker.moe",
+  "creationDate": "2024-05-02T11:32:27Z",
+  "expirationDate": "2027-05-02T11:32:27Z",
+  "registrarExpirationDate": "2027-05-02T11:32:27Z",
+  "updatedDate": "2026-04-07T09:13:58Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.csof.net",
+    "ns2.csof.net",
+    "ns3.csof.net",
+    "ns4.csof.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "DYNADOT LLC",
+  "registrarUrl": "http://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Super Privacy Service LTD c/o Dynadot",
+  "registrantAddress": [
+    "PO Box 701"
+  ],
+  "registrantCity": "San Mateo",
+  "registrantState": "California",
+  "registrantPostalCode": "94401",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505854708",
+  "registrantEmail": "https://www.dynadot.com/domain/contact-request?domain=leet-tracker.moe",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "Super Privacy Service LTD c/o Dynadot",
+  "adminAddress": [
+    "PO Box 701"
+  ],
+  "adminCity": "San Mateo",
+  "adminState": "California",
+  "adminPostalCode": "94401",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505854708",
+  "adminEmail": "https://www.dynadot.com/domain/contact-request?domain=leet-tracker.moe",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "Super Privacy Service LTD c/o Dynadot",
+  "techAddress": [
+    "PO Box 701"
+  ],
+  "techCity": "San Mateo",
+  "techState": "California",
+  "techPostalCode": "94401",
+  "techCountry": "US",
+  "techPhone": "+1.6505854708",
+  "techEmail": "https://www.dynadot.com/domain/contact-request?domain=leet-tracker.moe"
+}

@@ -1,0 +1,72 @@
+{
+  "query": "tuoi69.army",
+  "server": "whois.name.com",
+  "domainId": "faa466e1a450418d90c8dd3882a9a4e3-DONUTS",
+  "domainName": "tuoi69.army",
+  "creationDate": "2024-10-29T05:28:12Z",
+  "expirationDate": "2026-10-29T05:28:12Z",
+  "registrarExpirationDate": "2026-10-29T05:28:12Z",
+  "updatedDate": "2026-10-30T14:15:22Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "autoRenewPeriod https://www.icann.org/epp#autoRenewPeriod",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1gmz.name.com",
+    "ns2fjz.name.com",
+    "ns3dgj.name.com",
+    "ns4fmw.name.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unSigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Redacted For Privacy",
+  "registrantOrg": "Domain Protection Services, Inc.",
+  "registrantAddress": [
+    "PO Box 1769"
+  ],
+  "registrantCity": "Denver",
+  "registrantState": "CO",
+  "registrantPostalCode": "80201",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.7208009072",
+  "registrantFax": "+1.7209758725",
+  "registrantEmail": "https://www.name.com/contact-domain-whois/tuoi69.army",
+  "adminId": "Not Available From Registry",
+  "adminName": "Redacted For Privacy",
+  "adminOrg": "Domain Protection Services, Inc.",
+  "adminAddress": [
+    "PO Box 1769"
+  ],
+  "adminCity": "Denver",
+  "adminState": "CO",
+  "adminPostalCode": "80201",
+  "adminCountry": "US",
+  "adminPhone": "+1.7208009072",
+  "adminFax": "+1.7209758725",
+  "adminEmail": "https://www.name.com/contact-domain-whois/tuoi69.army",
+  "techId": "Not Available From Registry",
+  "techName": "Redacted For Privacy",
+  "techOrg": "Domain Protection Services, Inc.",
+  "techAddress": [
+    "PO Box 1769"
+  ],
+  "techCity": "Denver",
+  "techState": "CO",
+  "techPostalCode": "80201",
+  "techCountry": "US",
+  "techPhone": "+1.7208009072",
+  "techFax": "+1.7209758725",
+  "techEmail": "https://www.name.com/contact-domain-whois/tuoi69.army"
+}

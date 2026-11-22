@@ -1,0 +1,36 @@
+{
+  "query": "scrm.lidl",
+  "server": "whois.nic.lidl",
+  "domainId": "D208418928-CNIC",
+  "domainName": "scrm.lidl",
+  "creationDate": "2020-11-10T10:18:43Z",
+  "expirationDate": "2027-11-10T23:59:59Z",
+  "updatedDate": "2026-11-04T08:16:27Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1-244.akam.net",
+    "a4-64.akam.net",
+    "a6-65.akam.net",
+    "a11-65.akam.net",
+    "a13-66.akam.net",
+    "a16-67.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1639",
+  "registrarIanaId": 1639,
+  "registrarName": "EBRAND Holdings S.A.",
+  "registrarUrl": "http://www.ebrandservices.com",
+  "registrarAbuseEmail": "domains-fbs@ebrandservices.com",
+  "registrarAbusePhone": "+352.20203100",
+  "registrarWhoisServer": "whois.eurodns.com",
+  "registrantOrg": "Schwarz IT KG",
+  "registrantCountry": "DE",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

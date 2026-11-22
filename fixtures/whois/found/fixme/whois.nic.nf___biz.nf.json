@@ -1,0 +1,39 @@
+{
+  "domainId": "95429-CoCCA",
+  "domainName": "biz.nf",
+  "creationDate": "2007-05-12T18:39:08Z",
+  "expirationDate": "2025-05-12T18:39:08Z",
+  "updatedDate": "2024-05-11T03:04:56Z",
+  "status": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.biz.nf",
+    "ns2.biz.nf"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarAddress": [
+    "Kaiserstraße 172-174",
+    "66386 St. Ingbert"
+  ],
+  "registrarEmail": "registry@key-systems.net",
+  "registrarUrl": "http://www.key-systems.net",
+  "registrantId": "1920403-CoCCA",
+  "adminId": "1920403-CoCCA",
+  "adminAddress": [
+    "Suite 3"
+  ],
+  "adminCity": "Mont Fleuri",
+  "adminState": "Mahe",
+  "techId": "1920403-CoCCA",
+  "techAddress": [
+    "Suite 3"
+  ],
+  "techCity": "Mont Fleuri",
+  "techState": "Mahe"
+}

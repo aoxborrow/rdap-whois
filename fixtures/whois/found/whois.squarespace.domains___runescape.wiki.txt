@@ -1,0 +1,63 @@
+###%%% QRY: runescape.wiki
+###%%% SRV: whois.squarespace.domains
+###%%% TME: 2025-03-21T04:09:50Z
+
+Domain Name: runescape.wiki
+Registry Domain ID: D60769883CNIC-GDREG
+Registrar WHOIS Server: whois.squarespace.domains
+Registrar URL: https://domains2.squarespace.com
+Registrar: Squarespace Domains II LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+Registrar Abuse Contact Phone: +1.646-693-5324
+Reseller:
+Updated Date: 2025-01-25T02:42:34.103364Z
+Creation Date: 2018-02-08T00:18:00Z
+Registrar Registration Expiration Date: 2026-02-08T23:59:59Z
+Domain Status: client transfer prohibited http://www.icann.org/epp#client transfer prohibited
+Domain Status: client delete prohibited http://www.icann.org/epp#client delete prohibited
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Weird Gloop Limited
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: WA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: https://domains.squarespace.com/whois-contact-form
+Registry Admin ID:
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: Weird Gloop Limited
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: WA
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: US
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: https://domains.squarespace.com/whois-contact-form
+Registry Tech ID:
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: Weird Gloop Limited
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: WA
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: US
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: https://domains.squarespace.com/whois-contact-form
+Name Server: tom.ns.cloudflare.com
+Name Server: naomi.ns.cloudflare.com
+DNSSEC: signedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+The registration data available in this service is limited.  Additional data may be available at https://lookup.icann.org.
+****** Last update of WHOIS database: 2025-01-25T02:42:34.103364Z

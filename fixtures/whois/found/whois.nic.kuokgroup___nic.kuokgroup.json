@@ -1,0 +1,34 @@
+{
+  "query": "nic.kuokgroup",
+  "server": "whois.nic.kuokgroup",
+  "domainId": "567e8cfb21674819b3440c6b4f85e0e8-DONUTS",
+  "domainName": "nic.kuokgroup",
+  "creationDate": "2015-07-28T22:14:47Z",
+  "expirationDate": "2027-07-28T22:14:47Z",
+  "updatedDate": "2026-09-11T22:15:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.kuokgroup",
+    "a2.nic.kuokgroup",
+    "b0.nic.kuokgroup",
+    "c0.nic.kuokgroup"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

@@ -1,0 +1,23 @@
+###%%% QRY: skin.pt
+###%%% SRV: whois.dns.pt
+###%%% TME: 2026-07-16T23:21:06Z
+
+Domain: skin.pt
+Domain Status: Registered
+Creation Date: 30/05/2012 20:29:51
+Expiration Date: 29/05/2027 23:59:51
+Owner Name: 7SKIN, LDA
+Owner Address: Rua de Sá da Bandeira, 260, 1º Esq
+Owner Locality: Porto
+Owner ZipCode: 4000428
+Owner Locality ZipCode: Porto
+Owner Country Code: PT
+Admin Name: OVH, Société par Actions Simplifiée
+Admin Address: 2 rue Kellermann
+Admin Locality: Roubaix Cedex 1
+Admin ZipCode: 59100
+Admin Locality ZipCode: Roubaux
+Admin Country Code: FR
+
+Name Server: chuck.ns.cloudflare.com | IPv4:  and IPv6: 
+Name Server: angela.ns.cloudflare.com | IPv4:  and IPv6:

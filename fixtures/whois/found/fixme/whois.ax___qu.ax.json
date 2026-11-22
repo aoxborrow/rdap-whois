@@ -1,0 +1,17 @@
+{
+  "query": "qu.ax",
+  "server": "whois.ax",
+  "domainName": "qu.ax",
+  "creationDate": "2019-10-23T00:00:00Z",
+  "expirationDate": "2025-10-23T00:00:00Z",
+  "updatedDate": "2025-03-15T00:00:00Z",
+  "status": [
+    "registered"
+  ],
+  "nameservers": [
+    "ns1.r4ns.com",
+    "ns2.r4ns.net"
+  ],
+  "registrarName": "Stanco doo",
+  "registrarUrl": "https://www.istanco.com"
+}

@@ -1,0 +1,63 @@
+###%%% QRY: moviebox.ng
+###%%% SRV: whois.nic.net.ng
+###%%% TME: 2025-03-21T04:10:28Z
+
+Domain Name: moviebox.ng
+Registry Domain ID: 2307591-NIRA
+Registrar URL: http://www.whogohost.com.ng
+Updated Date: 2024-12-31T09:40:29Z
+Creation Date: 2023-06-16T09:25:00Z
+Registry Expiry Date: 2025-06-16T09:25:00Z
+Registrar Registration Expiration Date: 2025-06-16T09:25:00Z
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrar: GO54 Limited (formerly Whogohost Limited)
+Registrar IANA ID: 3954
+Registrar Address: 3A, Olumuyiwa Street, off Oba Babington Ashaye Crescent, Omole Phase 1, Ikeja, Lagos.
+Registrar Country: NG
+Registrar Abuse Contact Email: support@whogohost.com
+Registrar Abuse Contact Phone: 
+Registry Registrant ID: 2307589-NIRA
+Registrant Name: Aimee
+Registrant Organization: EXCELLENT INNOVATION LIMITED
+Registrant Street: RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG
+Registrant City: HONG KONG
+Registrant State/Province: HONG KONG
+Registrant Postal Code: 
+Registrant Country: HK
+Registrant Phone: +86 16620893016
+Registrant Email: moviebox.ng@mbox.ng
+Registry Admin ID: 2307590-NIRA
+Admin Name: Aimee
+Admin Organization: EXCELLENT INNOVATION LIMITED
+Admin Street: RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG
+Admin City: HONG KONG
+Admin State/Province: HONG KONG
+Admin Postal Code: 
+Admin Country: HK
+Admin Phone: +86 16620893016
+Admin Email: moviebox.ng@mbox.ng
+Registry Tech ID: 2383885-NIRA
+Tech Name: Aimee
+Tech Organization: EXCELLENT INNOVATION LIMITED
+Tech Street: RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG
+Tech City: HONG KONG
+Tech State/Province: HONG KONG
+Tech Postal Code: 
+Tech Country: HK
+Tech Phone: +86 16620893016
+Tech Email: moviebox.ng@mbox.ng
+Registry Billing ID: 2383886-NIRA
+Billing Name: Aimee
+Billing Organization: EXCELLENT INNOVATION LIMITED
+Billing Street: RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG
+Billing City: HONG KONG
+Billing State/Province: HONG KONG
+Billing Postal Code: 
+Billing Country: HK
+Billing Phone: +86 16620893016
+Billing Email: moviebox.ng@mbox.ng
+Name Server: ns1.alidns.com
+Name Server: ns2.alidns.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2025-03-21T04:10:28.634Z <<<

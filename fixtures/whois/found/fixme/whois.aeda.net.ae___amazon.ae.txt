@@ -1,0 +1,27 @@
+###%%% QRY: amazon.ae
+###%%% SRV: whois.aeda.net.ae
+###%%% TME: 2025-04-09T07:58:43Z
+
+Domain Name:                     amazon.ae
+Registrar ID:                    COMLAUDE
+Registrar Name:                  Com Laude
+Status:                          ok
+
+Registrant Contact ID:           COMLDE-006616
+Registrant Contact Name:         Legal Department
+Registrant Contact Email:        Visit whois.aeda.net.ae for Web based WhoIs
+Registrant Contact Organisation: Amazon Technologies, Inc.
+
+Tech Contact ID:                 COMLDE-000284
+Tech Contact Name:               Technical Manager
+Tech Contact Email:              Visit whois.aeda.net.ae for Web based WhoIs
+Tech Contact Organisation:       Com Laude
+
+Name Server:                     ns1.amzndns.com
+Name Server:                     ns2.amzndns.com
+Name Server:                     ns1.amzndns.net
+Name Server:                     ns2.amzndns.net
+Name Server:                     ns1.amzndns.org
+Name Server:                     ns2.amzndns.org
+Name Server:                     ns1.amzndns.co.uk
+Name Server:                     ns2.amzndns.co.uk

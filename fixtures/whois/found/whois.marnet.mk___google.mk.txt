@@ -1,0 +1,48 @@
+###%%% QRY: google.mk
+###%%% SRV: whois.marnet.mk
+###%%% TME: 2026-07-16T11:39:19Z
+
+% Domain Information over Whois protocol
+%
+% MARnet whois proxy server
+% Timestamp: Thu Jul 16 2026 13:39:20
+
+domain:       google.mk
+registrant:   UNET-R11
+admin-c:      UNET-C12
+nsset:        UNET-NS191
+registrar:    UNET-REG
+registered:   13.05.2008 14:00:00
+changed:      17.04.2014 12:50:32
+expire:       13.05.2027
+
+contact:      UNET-R11
+org:          Google LLC
+name:         Google LLC
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      US
+phone:        DATA REDACTED
+e-mail:       ccops@markmonitor.com
+registrar:    UNET-REG
+created:      DATA REDACTED
+
+contact:      UNET-C12
+name:         MarkMonitor Inc..
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      US
+phone:        DATA REDACTED
+e-mail:       ccops@markmonitor.com
+registrar:    UNET-REG
+created:      DATA REDACTED
+
+nsset:        UNET-NS191
+nserver:      ns2.google.com 
+nserver:      ns1.google.com 
+tech-c:       UNET-C12
+registrar:    UNET-REG
+created:      17.04.2014 12:50:22
+changed:      17.04.2014 21:02:14

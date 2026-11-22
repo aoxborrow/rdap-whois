@@ -1,0 +1,27 @@
+###%%% QRY: nic.xn--55qw42g
+###%%% SRV: whois.nic.xn--55qw42g
+###%%% TME: 2026-11-22T08:16:11Z
+
+Domain Name: nic.xn--55qw42g
+Internationalized Domain Name: nic.公益
+Registry Domain ID: 855513-CNNIC
+Registrar WHOIS Server: whois.ngtld.cn
+Registrar URL: http://whois.ngtld.cn
+Updated Date: 2026-11-13T16:05:02Z
+Creation Date: 2013-11-12T20:28:18Z
+Registry Expiry Date: 2027-11-12T20:28:18Z
+Sponsoring Registrar: Reserved for non-billable transactions where Registry Operator acts as Registrar
+Sponsoring Registrar IANA ID: 9999
+Registrar Abuse Contact Email: ******
+Registrar Abuse Contact Phone: ******
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ta.ngtld.cn
+Name Server: tb.ngtld.cn
+Name Server: tc.ngtld.cn
+Name Server: td.ngtld.cn
+Name Server: te.ngtld.cn
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:16:11Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+The data contained in China Internet Network Information Center's("CNNIC") Whois database is provided for the sole purpose of assisting you in obtaining information about or related to a domain name registration record. CNNIC provides the data in accordance with the registration record, but does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you: (1) use electronic processes that are automated and high-volume to access or query the Whois database; (2)support the transmission of mass unsolicited, commercial advertising or solicitations via facsimile, e-mail and telephone. Without the prior written consent of CNNIC, the compilation, repackaging and dissemination of this Data is expressly prohibited. CNNIC reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

@@ -1,0 +1,43 @@
+###%%% QRY: netdirector.auto
+###%%% SRV: whois.nic.auto
+###%%% TME: 2026-11-22T08:08:02Z
+
+Domain Name: NETDIRECTOR.AUTO
+Registry Domain ID: D211586963-CNIC
+Registrar WHOIS Server: whois.safenames.net
+Registrar URL: http://www.safenames.net/
+Updated Date: 2026-08-11T09:22:02.0Z
+Creation Date: 2017-07-11T11:55:23.0Z
+Registry Expiry Date: 2027-07-11T23:59:59.0Z
+Registrar: Safenames Ltd
+Registrar IANA ID: 447
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Name Server: NS-1127.AWSDNS-12.ORG
+Name Server: NS-79.AWSDNS-09.COM
+Name Server: NS-624.AWSDNS-14.NET
+Name Server: NS-1783.AWSDNS-30.CO.UK
+DNSSEC: unsigned
+Registrar Abuse Contact Email: hostmaster@safenames.net
+Registrar Abuse Contact Phone: +44.1908200022
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:08:02.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

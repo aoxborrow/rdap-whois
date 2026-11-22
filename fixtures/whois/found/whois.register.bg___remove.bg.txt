@@ -1,0 +1,19 @@
+###%%% QRY: remove.bg
+###%%% SRV: whois.register.bg
+###%%% TME: 2026-07-16T11:44:56Z
+
+DOMAIN NAME: remove.bg (remove.bg)
+registration status: busy, active
+
+NAME SERVER INFORMATION:
+abby.ns.cloudflare.com 
+earl.ns.cloudflare.com 
+
+DNSSEC: inactive
+
+According to REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND
+OF THE COUNCIL (GDPR) personal data is not published.
+
+If you would like to contact the persons responsible for the domain
+name, please, use the online WHOIS contact form from the "Info / Whois" menu
+at www.register.bg.

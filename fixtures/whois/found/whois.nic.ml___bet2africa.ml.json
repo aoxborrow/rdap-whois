@@ -1,0 +1,39 @@
+{
+  "query": "bet2africa.ml",
+  "server": "whois.nic.ml",
+  "domainId": "3198-nicml",
+  "domainName": "bet2africa.ml",
+  "creationDate": "2023-07-07T00:00:00Z",
+  "expirationDate": "2029-07-07T00:00:00Z",
+  "registrarExpirationDate": "2029-07-07T00:00:00Z",
+  "updatedDate": "2026-08-24T07:18:50Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "inactive",
+    "serverDeleteProhibited",
+    "serverHold",
+    "serverRenewProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "inactive https://icann.org/epp#inactive",
+    "serverHold https://icann.org/epp#serverHold",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "heidi.ns.cloudflare.com",
+    "sid.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "AGETIC Registrar",
+  "registrarAddress": [
+    "ACI 2000 Hamdallaye,, BP E 5467, Bamako"
+  ],
+  "registrarEmail": "noc@agetic.gouv.ml"
+}

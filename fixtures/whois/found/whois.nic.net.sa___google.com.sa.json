@@ -1,0 +1,14 @@
+{
+  "query": "google.com.sa",
+  "server": "whois.nic.net.sa",
+  "domainName": "google.com.sa",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrantName": "GOOGLE LLC"
+}

@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.ke
+###%%% SRV: whois.kenic.or.ke
+###%%% TME: 2025-03-20T16:09:01Z
+
+Domain Name: notfound-testing-sorry.ke
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2025-03-20T16:09:01.504Z <<<

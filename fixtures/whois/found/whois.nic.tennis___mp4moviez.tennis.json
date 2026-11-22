@@ -1,0 +1,30 @@
+{
+  "query": "mp4moviez.tennis",
+  "server": "whois.nic.tennis",
+  "domainId": "a66d3767b8ca4a378efd4a44e578b9e1-DONUTS",
+  "domainName": "mp4moviez.tennis",
+  "creationDate": "2025-01-17T05:37:34Z",
+  "expirationDate": "2026-01-17T05:37:34Z",
+  "updatedDate": "2025-03-14T19:56:16Z",
+  "eppStatus": [
+    "clientHold",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientHold https://icann.org/epp#clientHold",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jerry.ns.cloudflare.com",
+    "teagan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

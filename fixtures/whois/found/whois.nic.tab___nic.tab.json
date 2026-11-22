@@ -1,0 +1,32 @@
+{
+  "query": "nic.tab",
+  "server": "whois.nic.tab",
+  "domainId": "DA642091B7D224DF4AE6A74F5227D5560-ARI",
+  "domainName": "nic.tab",
+  "creationDate": "2015-02-17T02:21:07Z",
+  "expirationDate": "2027-02-17T02:21:07Z",
+  "updatedDate": "2026-04-03T02:21:10Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.tab",
+    "b.nic.tab",
+    "c.nic.tab",
+    "d.nic.tab"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Tabcorp Holdings Limited",
+  "registrarUrl": "http://nic.tab",
+  "registrarWhoisServer": "whois.aridnrs.net.au"
+}

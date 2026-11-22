@@ -1,0 +1,58 @@
+{
+  "domainId": "4258-CoCCA.gs",
+  "domainName": "google.gs",
+  "creationDate": "2004-07-08T12:00:00Z",
+  "expirationDate": "2025-07-08T12:00:00Z",
+  "updatedDate": "2024-06-06T09:52:17Z",
+  "status": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor",
+  "registrarAddress": [
+    "1120 S. Rackham Way, Suite 300"
+  ],
+  "registrarCountry": "US",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantId": "1671988-CoCCA",
+  "registrantName": "Domain Administrator",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "1671988-CoCCA",
+  "adminName": "Domain Administrator",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminState": "CA",
+  "adminPostalCode": "94043",
+  "adminPhone": "+1.6502530000",
+  "adminEmail": "dns-admin@google.com",
+  "techId": "1671988-CoCCA",
+  "techName": "Domain Administrator",
+  "techAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "techCity": "Mountain View",
+  "techState": "CA",
+  "techPostalCode": "94043",
+  "techPhone": "+1.6502530000",
+  "techEmail": "dns-admin@google.com"
+}

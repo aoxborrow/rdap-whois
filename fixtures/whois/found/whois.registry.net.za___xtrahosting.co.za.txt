@@ -1,0 +1,41 @@
+###%%% QRY: xtrahosting.co.za
+###%%% SRV: whois.registry.net.za
+###%%% TME: 2026-07-16T23:58:10Z
+
+Domain Name: xtrahosting.co.za
+Registry Domain ID: 2bke9_DOMAIN-CO.ZA
+Registrar WHOIS Server: 
+Registrar URL: www.xtranet.co.za
+Updated Date: 2026-06-15T14:35:21Z
+Creation Date: 2012-07-04T10:15:47Z
+Registry Expiry Date: 2027-07-04T10:15:47Z
+Registrar Registration Expiration Date: 2027-07-04T10:15:47Z
+Registrar: Xtranet Internet Services
+Registrar Abuse Contact Email: supportteam@xtranetsa.com
+Registrar Abuse Contact Phone: +27.871550900
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Xtranet Internet Services
+Registrant Country: ZA
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: proton.xtrahosting.co.za
+Name Server: neutron.xtrahosting.co.za
+Name Server: electron.xtrahosting.co.za
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:58:12Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZARC Complaint/s Procedure and Form: https://zarc.web.za/wp-content/uploads/2025/08/ZA-SLD_Takedown_Policy.docx.pdf
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://zarc.web.za/whois-terms-and-conditions
+# Copyright (c) ZARC 1995-2026

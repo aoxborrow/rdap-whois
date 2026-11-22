@@ -1,0 +1,43 @@
+{
+  "query": "nic.hamburg",
+  "server": "whois.nic.hamburg",
+  "domainId": "D0000000007-HAMBURG",
+  "domainName": "nic.hamburg",
+  "creationDate": "2014-04-16T10:23:25Z",
+  "expirationDate": "2027-04-16T10:23:25Z",
+  "updatedDate": "2020-03-11T14:22:48Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "sec1.rcode0.net",
+    "sec2.rcode0.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Hamburg Top-Level-Domain GmbH",
+  "registrarUrl": "https://nic.hamburg",
+  "registrarAbuseEmail": "support@nic.hamburg",
+  "registrarAbusePhone": "+49.4065062020",
+  "registrarWhoisServer": "whois.nic.hamburg",
+  "techId": "C0000000002-HAMBURG",
+  "techName": "TLDBOX",
+  "techOrg": "tldbox GmbH",
+  "techAddress": [
+    "Jakob-Haringer-Strasse 8/V"
+  ],
+  "techCity": "Salzburg",
+  "techState": "Salzburg",
+  "techPostalCode": "5020",
+  "techCountry": "AT",
+  "techPhone": "+43.662234548",
+  "techPhoneExt": "730",
+  "techEmail": "iana@tld-box.at"
+}

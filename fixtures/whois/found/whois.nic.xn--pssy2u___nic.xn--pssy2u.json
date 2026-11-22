@@ -1,0 +1,30 @@
+{
+  "query": "nic.xn--pssy2u",
+  "server": "whois.nic.xn--pssy2u",
+  "domainId": "111994202_DOMAIN_XN__PSSY2U-VRSN",
+  "domainName": "nic.xn--pssy2u",
+  "creationDate": "2015-04-07T17:58:39Z",
+  "expirationDate": "2027-04-07T17:58:39Z",
+  "updatedDate": "2026-05-28T22:11:39Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "av1.nstld.com",
+    "av2.nstld.com",
+    "av3.nstld.com",
+    "av4.nstld.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator Reserved Non-Billable",
+  "registrarUrl": "http://www.verisign.com",
+  "registrarAbuseEmail": "info@verisign-grs.com",
+  "registrarAbusePhone": "+1.7039256999",
+  "registrarWhoisServer": "www.verisigninc.com"
+}

@@ -1,0 +1,58 @@
+{
+  "query": "xnxx.fit",
+  "server": "whois.nic.fit",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "xnxx.fit",
+  "creationDate": "2016-07-09T10:05:23Z",
+  "expirationDate": "2027-07-09T10:05:23Z",
+  "updatedDate": "2026-06-19T22:39:54Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.xnxx.fit",
+    "ns2.xnxx.fit"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "303",
+  "registrarIanaId": 303,
+  "registrarName": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "registrarUrl": "https://publicdomainregistry.com",
+  "registrarAbuseEmail": "abuse@publicdomainregistry.com",
+  "registrarAbusePhone": "+1.2013775952",
+  "registrarWhoisServer": "whois.publicdomainregistry.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "GDPR Masked",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Østfold",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "NO",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

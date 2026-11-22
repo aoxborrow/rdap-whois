@@ -1,0 +1,22 @@
+{
+  "query": "xn--inr8y672ajns.xn--fiqs8s",
+  "server": "cwhois.cnnic.cn",
+  "domainId": "20251031s12345s17692532-cn",
+  "domainName": "厨房用品.中国",
+  "creationDate": "2025-10-31T09:41:34Z",
+  "expirationDate": "2027-10-31T09:41:34Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "please-renew-your-domain-in-www.22.cn"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "杭州云集通信科技有限公司",
+  "registrantId": "该域名已采取WHOIS隐私保护服务",
+  "registrantName": "该域名已采取WHOIS隐私保护服务"
+}

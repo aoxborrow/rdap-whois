@@ -1,0 +1,16 @@
+{
+  "query": "nic.tm",
+  "server": "whois.nic.tm",
+  "domainName": "nic.tm",
+  "eppStatusRaw": [
+    "Permanent/Reserved"
+  ],
+  "nameservers": [
+    "dns01.nic.tm",
+    "dns1.nic.tm",
+    "dns2.nic.tm",
+    "dns3.nic.tm",
+    "dns6.nic.tm",
+    "dns7.nic.tm"
+  ]
+}

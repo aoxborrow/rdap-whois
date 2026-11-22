@@ -1,0 +1,62 @@
+{
+  "query": "nic.mtr",
+  "server": "whois.nic.mtr",
+  "domainId": "D1137502-MTR",
+  "domainName": "nic.mtr",
+  "creationDate": "2015-08-25T15:52:38Z",
+  "expirationDate": "2025-08-25T15:52:39Z",
+  "updatedDate": "2015-09-10T12:03:36Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "OK (https://www.icann.org/epp#OK)"
+  ],
+  "nameservers": [
+    "ns7.nic.mtr",
+    "ns8.nic.mtr"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "MTR",
+  "registrarUrl": "http://nic.mtr",
+  "registrarWhoisServer": "whois.nic.mtr",
+  "registrantId": "HK3190752T",
+  "registrantName": "MTR CORPORATION LIMITED",
+  "registrantOrg": "MTR CORPORATION LIMITED",
+  "registrantAddress": [
+    "MTR Headquarters Building, Telford Plaza, Kowloon Bay"
+  ],
+  "registrantCity": "HK",
+  "registrantState": "HK",
+  "registrantCountry": "HK",
+  "registrantPhone": "+852.29933913",
+  "registrantFax": "+852.27959991",
+  "registrantEmail": "enquiry@hkdnr.hk",
+  "adminId": "HK3190753T",
+  "adminName": "MTR CORPORATION LIMITED",
+  "adminOrg": "MTR CORPORATION LIMITED",
+  "adminAddress": [
+    "MTR Headquarters Building, Telford Plaza, Kowloon Bay"
+  ],
+  "adminCity": "HK",
+  "adminState": "HK",
+  "adminCountry": "HK",
+  "adminPhone": "+852.29933913",
+  "adminFax": "+852.27959991",
+  "adminEmail": "enquiry@hkdnr.hk",
+  "techId": "HK3190754T",
+  "techName": "MTR CORPORATION LIMITED",
+  "techOrg": "MTR CORPORATION LIMITED",
+  "techAddress": [
+    "MTR Headquarters Building, Telford Plaza, Kowloon Bay"
+  ],
+  "techCity": "HK",
+  "techState": "HK",
+  "techCountry": "HK",
+  "techPhone": "+852.29933913",
+  "techFax": "+852.27959991",
+  "techEmail": "enquiry@hkdnr.hk"
+}

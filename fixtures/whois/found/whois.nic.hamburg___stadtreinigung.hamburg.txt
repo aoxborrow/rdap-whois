@@ -1,0 +1,54 @@
+###%%% QRY: stadtreinigung.hamburg
+###%%% SRV: whois.nic.hamburg
+###%%% TME: 2026-07-16T11:41:24Z
+
+Domain Name: stadtreinigung.hamburg
+Registry Domain ID: D0000002931-HAMBURG
+Registrar URL: http://www.key-systems.net
+Updated Date: 2025-11-25T17:05:42Z
+Creation Date: 2014-08-19T11:16:23Z
+Registry Expiry Date: 2026-08-19T11:16:23Z
+Registrar: Key-Systems LLC
+Registrar IANA ID: 1345
+Registrar Abuse Contact Email: info@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns1.p1.omc.net
+Name Server: ns3.p1.omcnet.de
+Name Server: ns4.p1.omc.info
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of Whois database: 2026-07-16T11:41:24Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% Copyright (c) 2026 by HAMBURG Top-Level-Domain GmbH
+%
+% Except for agreed Internet operational purposes,
+% no part of this information may be reproduced,
+% stored in a retrieval system, or transmitted,
+% in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission
+% of HAMBURG Top-Level-Domain GmbH on behalf of itself
+% and/or the copyright holders. Any use of this
+% material to target advertising or similar activities
+% is explicitly forbidden and can be prosecuted.
+%
+% Furthermore, it is strictly forbidden to use the
+% Whois database in such a way that jeopardizes or
+% could jeopardize the stability of the technical systems
+% of HAMBURG Top-Level-Domain GmbH under any circumstances.
+% In particular, this includes any misuse of the
+% Whois database and any use of the Whois database
+% which disturbs its operation.
+%
+% Should the user violate these points,
+% HAMBURG Top-Level-Domain GmbH reserves the right
+% to deactivate the Whois database entirely or
+% partly for the user. Moreover, the user shall
+% be held liable for any and all damage arising
+% from a violation of these points.
+%
+% For privacy reasons, personal data are not disclosed.
+% You may request this data under strict conditions by completing
+% a personal data disclosure form at www.whois.hamburg.

@@ -1,0 +1,24 @@
+###%%% QRY: mts.ru
+###%%% SRV: whois.tcinet.ru
+###%%% TME: 2026-07-16T11:45:28Z
+
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        MTS.RU
+nserver:       ns1.mts-ws.net.
+nserver:       ns2.mts.ru. 213.87.50.254
+nserver:       ns3.mts.ru. 213.87.75.192
+nserver:       ns4.mts-ws.net.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           
+taxpayer-id:   
+registrar:     RU-CENTER-RU
+admin-contact: https://www.nic.ru/whois
+created:       1997-11-19T12:02:34Z
+paid-till:     2026-11-30T21:00:00Z
+free-date:     2027-01-01
+source:        TCI
+
+Last updated on 2026-07-16T11:43:01Z

@@ -1,0 +1,34 @@
+{
+  "query": "nic.mr",
+  "server": "whois.nic.mr",
+  "domainId": "13NIC-Mauritanie",
+  "domainName": "nic.mr",
+  "creationDate": "2017-08-10T00:00:00Z",
+  "expirationDate": "2031-12-31T00:00:00Z",
+  "registrarExpirationDate": "2031-12-31T00:00:00Z",
+  "updatedDate": "2026-09-17T10:27:00Z",
+  "eppStatus": [
+    "ok",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.nic.mr",
+    "ns2.nic.mr"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "NIC-Mauritanie",
+  "registrarAddress": [
+    "Avenue du Roi Faissal Ben Abdel Aziz"
+  ],
+  "registrarCity": "Nouakchott",
+  "registrarEmail": "ahdsalem@nic.mr"
+}

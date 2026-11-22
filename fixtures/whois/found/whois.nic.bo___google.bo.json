@@ -1,0 +1,38 @@
+{
+  "query": "google.bo",
+  "server": "whois.nic.bo",
+  "domainName": "google.bo",
+  "creationDate": "2019-01-15T00:00:00Z",
+  "expirationDate": "2027-01-15T00:00:00Z",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantCountry": "Estados Unidos de America",
+  "registrantPhone": "16502530000",
+  "registrantEmail": "dns-admin en google.com",
+  "adminName": "Domain Administrator",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View, CA",
+  "adminCountry": "Estados Unidos de America",
+  "adminPhone": "16502530000",
+  "adminEmail": "dns-admin en google.com",
+  "techName": "Domain",
+  "techAddress": [
+    "3540 East Longwing Lane Suite 300"
+  ],
+  "techCity": "Meridian",
+  "techCountry": "Estados Unidos de America",
+  "techPhone": "12083895740",
+  "techEmail": "ccops en markmonitor.com",
+  "billingName": "Domain",
+  "billingAddress": [
+    "3540 East Longwing Lane Suite 300"
+  ],
+  "billingCity": "Meridian",
+  "billingCountry": "Estados Unidos de America",
+  "billingPhone": "12083895740",
+  "billingEmail": "ccops en markmonitor.com"
+}

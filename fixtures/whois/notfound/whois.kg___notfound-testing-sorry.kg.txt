@@ -1,0 +1,11 @@
+###%%% QRY: notfound-testing-sorry.kg
+###%%% SRV: whois.kg
+###%%% TME: 2025-03-20T16:16:39Z
+
+% This is the .kg ccTLD Whois server
+% Register your own domain at http://www.cctld.kg
+% Use @cctld_kg_bot telegram bot for whois service
+
+Domain NOTFOUND-TESTING-SORRY.KG
+
+Data not found. This domain is available for registration.

@@ -1,0 +1,26 @@
+###%%% QRY: smsb.gov.sd
+###%%% SRV: whois.nic.sd
+###%%% TME: 2026-07-16T23:50:42Z
+
+Domain Name: smsb.gov.sd
+Registry Domain ID: 23127-sdnic
+Updated Date: 2018-05-22T15:15:38Z
+Creation Date: 2007-03-20T21:00:00Z
+Registry Expiry Date: 2018-03-18T21:00:00Z
+Registrar Registration Expiration Date: 2018-03-18T21:00:00Z
+Registrar: Government e-services
+Registrar Country: SD
+Registrar Email: eservices@gov.sd
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: ns32.mazinhost.net
+Name Server: ns31.mazinhost.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:50:55.965Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorised to access or query the .SD WHOIS database through the use of electronic processes that are high-volume and automated. This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

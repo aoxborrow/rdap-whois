@@ -1,0 +1,21 @@
+###%%% QRY: mercadolibre.cl
+###%%% SRV: whois.nic.cl
+###%%% TME: 2026-11-22T08:25:20Z
+
+Registrant name: Mercadolibre Chile Limitada
+Registrant organisation: 
+Registrar name: MarkMonitor Inc.
+Registrar URL: https://markmonitor.com/
+Creation date: 2000-05-17 21:30:43 CLST
+Expiration date: 2028-06-13 17:30:04 CLST
+Name server: ns-1035.awsdns-01.org
+Name server: ns-1789.awsdns-31.co.uk
+Name server: ns-47.awsdns-05.com
+Name server: ns-754.awsdns-30.net
+
+%%
+%% For communication with domain contacts please use website.
+%% See https://www.nic.cl/registry/Whois.do?d=mercadolibre.cl
+%%
+%% Registry Abuse Contact Email: abuse@nic.cl
+%%

@@ -1,0 +1,34 @@
+{
+  "query": "betway.co.bw",
+  "server": "whois.nic.net.bw",
+  "domainId": "44104-bwnic",
+  "domainName": "betway.co.bw",
+  "creationDate": "2019-04-17T22:50:37Z",
+  "expirationDate": "2026-04-17T22:50:37Z",
+  "registrarExpirationDate": "2026-04-17T22:50:37Z",
+  "updatedDate": "2025-03-12T10:09:11Z",
+  "eppStatus": [
+    "clientDeleteProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "karsyn.ns.cloudflare.com",
+    "kolton.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Key-Systems",
+  "registrantId": "E8Cdd-1hAmc",
+  "registrantName": "Redacted | EU Registrar",
+  "registrantOrg": "Webhost Limited",
+  "registrantAddress": [
+    "Kingsway House, Havilland Street"
+  ],
+  "registrantCity": "St. Peter Port",
+  "registrantPostalCode": "GY1 2QE",
+  "registrantCountry": "GG",
+  "registrantPhone": "Redacted | EU Registrar",
+  "registrantEmail": "Redacted | EU Registrar"
+}

@@ -1,0 +1,36 @@
+{
+  "query": "nic.jll",
+  "server": "whois.nic.jll",
+  "domainId": "a5b33b71d14f45daaaf4d57d866c574e-DONUTS",
+  "domainName": "nic.jll",
+  "creationDate": "2015-10-16T21:50:07Z",
+  "expirationDate": "2027-10-16T21:50:07Z",
+  "updatedDate": "2026-10-16T21:50:38Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a0.nic.jll",
+    "a2.nic.jll",
+    "b0.nic.jll",
+    "c0.nic.jll"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

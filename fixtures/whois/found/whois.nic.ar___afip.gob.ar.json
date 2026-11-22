@@ -1,0 +1,17 @@
+{
+  "query": "afip.gob.ar",
+  "server": "whois.nic.ar",
+  "domainName": "afip.gob.ar",
+  "creationDate": "1997-05-26T00:00:00Z",
+  "expirationDate": "2027-05-26T00:00:00Z",
+  "updatedDate": "2026-05-20T16:05:37Z",
+  "nameservers": [
+    "ns1.afip.gob.ar",
+    "ns1s.afip.gob.ar",
+    "ns2.afip.gob.ar",
+    "ns2s.afip.gob.ar"
+  ],
+  "registrarName": "nicar",
+  "registrantId": "33693450239",
+  "registrantName": "ADMINISTRACION FEDERAL DE INGRESOS PUBLICOS"
+}

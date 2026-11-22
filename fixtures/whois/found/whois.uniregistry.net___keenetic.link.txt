@@ -1,0 +1,51 @@
+###%%% QRY: keenetic.link
+###%%% SRV: whois.uniregistry.net
+###%%% TME: 2026-07-16T11:45:41Z
+
+Domain Name: keenetic.link
+Registry Domain ID: DO_5c61384c6389f0d0b28cea900ce11a67-UR
+Registrar WHOIS Server: whois.101domain.com
+Registrar URL: http://101domain.com
+Updated Date: 2026-01-24T15:05:46.622Z
+Creation Date: 2017-10-12T12:07:20.902Z
+Registry Expiry Date: 2028-10-12T12:07:20.902Z
+Registrar: 101domain GRS Ltd.
+Registrar IANA ID: 1011
+Registrar Abuse Contact Email: abuse@101domain.com
+Registrar Abuse Contact Phone: +1.7604448674
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: kb.knt9.xyz
+Name Server: ka.knt9.xyz
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-07-16T11:45:42.111Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.

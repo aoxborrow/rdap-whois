@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.sk
+###%%% SRV: whois.sk-nic.sk
+###%%% TME: 2025-03-20T18:22:50Z
+
+Domain not found.

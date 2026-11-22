@@ -1,0 +1,42 @@
+{
+  "domainName": "emaktab.uz",
+  "creationDate": "2023-04-14T00:00:00Z",
+  "expirationDate": "2027-04-20T00:00:00Z",
+  "updatedDate": "2024-04-15T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.selectel.ru",
+    "ns2.selectel.ru",
+    "ns3.selectel.ru",
+    "ns4.selectel.ru"
+  ],
+  "registrarName": "Arsenal-D",
+  "registrarUrl": "http://www.cctld.uz",
+  "registrarWhoisServer": "www.whois.uz",
+  "registrantAddress": [
+    "not.defined.",
+    "Юнусабадский район",
+    "Узбекистан, 100000"
+  ],
+  "registrantCountry": "UZ",
+  "adminAddress": [
+    "not.defined.",
+    "Юнусабадский район",
+    "Узбекистан, 100000"
+  ],
+  "adminCountry": "UZ",
+  "techAddress": [
+    "not.defined.",
+    "Юнусабадский район",
+    "Узбекистан, 100000"
+  ],
+  "techCountry": "UZ",
+  "billingAddress": [
+    "not.defined.",
+    "Юнусабадский район",
+    "Узбекистан, 100000"
+  ],
+  "billingCountry": "UZ"
+}

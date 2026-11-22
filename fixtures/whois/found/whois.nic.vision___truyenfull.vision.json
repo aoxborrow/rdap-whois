@@ -1,0 +1,28 @@
+{
+  "query": "truyenfull.vision",
+  "server": "whois.nic.vision",
+  "domainId": "8181a5d526a14ef181d3a0364abbaef8-DONUTS",
+  "domainName": "truyenfull.vision",
+  "creationDate": "2025-01-22T04:15:49Z",
+  "expirationDate": "2026-01-22T04:15:49Z",
+  "updatedDate": "2025-02-13T03:31:42Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "anna.ns.cloudflare.com",
+    "karl.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com"
+}

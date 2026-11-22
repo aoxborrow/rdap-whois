@@ -1,0 +1,59 @@
+###%%% QRY: magdeburg.jetzt
+###%%% SRV: rdap.routing.net
+###%%% TME: 2025-03-21T04:15:18Z
+
+Domain Name: magdeburg.jetzt
+Registry Domain ID: 5c07f529189f481b837963905566da11-DONUTS
+Registrar WHOIS Server: rdap.routing.net
+Registrar URL: https://www.http.net
+Updated Date: 2021-04-27T18:47:29Z
+Creation Date: 2021-04-27T00:00:00Z
+Registrar Registration Expiration Date: 2025-04-27T00:00:00Z
+Registrar: http.net Internet GmbH
+Registrar IANA ID: 976
+Registrar Abuse Contact Email: abuse @ http.net
+Registrar Abuse Contact Phone: +49.24146314115
+Reseller:
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant Organization: Softwerke Magdeburg e. V.
+Registrant State/Province: 
+Registrant Country: DE
+Registrant Email: igzj5qttjj7fs7li76ju3xazjttqyoiz36sj4u7ytlomq@protectedmx.com
+Admin Organization: Softwerke Magdeburg e. V.
+Admin Email: igzj5qttjj7fs7li76ju3xazjttqyoiz36sj4u7ytlomq@protectedmx.com
+Tech Organization: Softwerke Magdeburg e. V.
+Tech Email: igzj5qttjj7fs7li76ju3xazjttqyoiz36sj4u7ytlomq@protectedmx.com
+Name Server: ns1.hosting.de
+Name Server: ns2.hosting.de
+Name Server: ns3.hosting.de
+DNSSEC: unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>> Last update of WHOIS database: 2025-03-21T04:15:18Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+RDAP URL: https://rdap.routing.net/domain/magdeburg.jetzt
+
+The data in the http.net WHOIS database is provided by
+http.net Internet GmbH for informational purposes only, to assist you in
+obtaining information about or related to a domain name registration
+record. http.net provides this information "as is", and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will only use this data for lawful purposes. That,
+under no circumstances will you use this data to:
+			
+1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
+commercial advertising or solicitations via electronic mail, also known as (SPAM).
+2. enable high volume, automated, electronic processes that apply to BulkRegister (or its systems).
+				
+The compilation, repackaging, dissemination or any other use of this data
+is expressly prohibited without the prior written agreement of http.net.
+http.net reserves the right to terminate your access to the http.net WHOIS
+database in its sole discretion. Including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+				
+http.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

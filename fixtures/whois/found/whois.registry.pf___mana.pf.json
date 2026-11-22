@@ -1,0 +1,42 @@
+{
+  "domainName": "mana.pf",
+  "creationDate": "2005-03-01T00:00:00Z",
+  "expirationDate": "2026-02-24T00:00:00Z",
+  "updatedDate": "2025-02-24T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.mana.pf",
+    "ns2.mana.pf"
+  ],
+  "registrarName": "ONATI SAS",
+  "registrarAddress": [
+    "BP 440",
+    "Immeuble Ainapare au Pont de l'Est"
+  ],
+  "registrarCity": "PAPEETE",
+  "registrarPostalCode": "98713",
+  "registrarCountry": "Polynésie Française",
+  "registrantName": "Paul DUGUE",
+  "registrantOrg": "MANA",
+  "registrantAddress": [
+    "40001"
+  ],
+  "registrantCity": "PAPEETE - FARE TONY",
+  "registrantState": "TAHITI",
+  "registrantPostalCode": "98713",
+  "registrantCountry": "Polynésie Française",
+  "techName": "Paul DUGUE",
+  "techOrg": "MANA",
+  "techAddress": [
+    "40001"
+  ],
+  "techCity": "PAPEETE - FARE TONY",
+  "techState": "TAHITI",
+  "techPostalCode": "98713",
+  "techCountry": "Polynésie Française"
+}

@@ -1,0 +1,54 @@
+{
+  "query": "nic.kred",
+  "server": "whois.nic.kred",
+  "domainId": "D68268479-CNIC",
+  "domainName": "nic.kred",
+  "creationDate": "2013-08-09T22:22:16Z",
+  "expirationDate": "2027-08-08T23:59:59Z",
+  "updatedDate": "2026-08-02T00:07:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.kred",
+    "b.nic.kred",
+    "c.nic.kred",
+    "d.nic.kred"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CentralNic Ltd",
+  "registrarUrl": "https://www.centralnic.com",
+  "registrarAbuseEmail": "ops@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.centralnic.com",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "PeopleBrowsr Pty Ltd",
+  "registrantAddress": [
+    "Level 6, 1 Chifley Square"
+  ],
+  "registrantCity": "Sydney",
+  "registrantState": "New South Wales",
+  "registrantPostalCode": "2000",
+  "registrantCountry": "AU",
+  "registrantPhone": "+61.417824852",
+  "registrantEmail": "contact@peoplebrowsr.com",
+  "techName": "Domain Administrator",
+  "techOrg": "PeopleBrowsr Pty Ltd",
+  "techAddress": [
+    "Level 6, 1 Chifley Square"
+  ],
+  "techCity": "Sydney",
+  "techState": "New South Wales",
+  "techPostalCode": "2000",
+  "techCountry": "AU",
+  "techPhone": "+61.417824852",
+  "techEmail": "contact@peoplebrowsr.com"
+}

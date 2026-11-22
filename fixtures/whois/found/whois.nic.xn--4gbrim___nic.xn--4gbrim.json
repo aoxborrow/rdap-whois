@@ -1,0 +1,39 @@
+{
+  "query": "nic.xn--4gbrim",
+  "server": "whois.nic.xn--4gbrim",
+  "domainId": "D279236222-CNIC",
+  "domainName": "nic.xn--4gbrim",
+  "creationDate": "2014-09-11T20:08:52Z",
+  "expirationDate": "2027-09-11T23:59:59Z",
+  "updatedDate": "2026-09-05T00:05:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.xn--4gbrim",
+    "b.nic.xn--4gbrim",
+    "c.nic.xn--4gbrim",
+    "d.nic.xn--4gbrim"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Helium TLDs Ltd",
+  "registrarUrl": "http://www.nic.xn--4gbrim",
+  "registrarAbuseEmail": "info@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.nic.xn--4gbrim",
+  "registrantOrg": "Helium TLDs Ltd",
+  "registrantState": "Khobar",
+  "registrantCountry": "SA",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

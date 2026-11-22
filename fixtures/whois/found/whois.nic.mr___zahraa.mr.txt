@@ -1,0 +1,29 @@
+###%%% QRY: zahraa.mr
+###%%% SRV: whois.nic.mr
+###%%% TME: 2026-07-16T23:41:57Z
+
+Domain Name: zahraa.mr
+Registry Domain ID: 32873NIC_mr
+Updated Date: 2025-12-08T13:15:50Z
+Creation Date: 2024-04-03T07:13:38Z
+Registry Expiry Date: 2027-04-03T07:13:39Z
+Registrar Registration Expiration Date: 2027-04-03T07:13:39Z
+Registrar: NETIM SARL
+Registrar Street Address: 264, Avenue Arthur Notebart
+59000, Lille, France
+Registrar Email: tld@netim.com
+Domain Status: active https://icann.org/epp#active
+Name Server: jake.ns.cloudflare.com
+Name Server: holly.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:33:45.260Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TUTILISATION: Vous n'êtes pas autorisé à accéder ou interroger notre base de données WHOIS à l'aide de processus électroniques à volume élevé et automatisés. Cette base de données WHOIS est fournie par notre service à la communauté Internet.
+
+Les données sont à titre d'information seulement. Nous ne garantissons pas son exactitude.
+En soumettant une requête WHOIS, vous acceptez de respecter les conditions d'utilisation suivantes: 
+Vous convenez que vous ne pouvez utiliser ces données qu'à des fins licites et que vous n'utiliserez en aucun cas ces données pour: 
+(1) autoriser, activer ou autrement soutenir la transmission de publicités ou de sollicitations massives non sollicitées par courrier électronique, par téléphone ou par télécopie; 
+ou (2) permettre des processus électroniques automatisés à haut volume. La compilation, le reconditionnement, la diffusion ou toute autre utilisation de ces données est expressément interdite.

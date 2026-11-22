@@ -1,0 +1,28 @@
+{
+  "query": "ma.cuisinella",
+  "server": "whois.nic.cuisinella",
+  "domainId": "D41504EAB10524A8B985B720FD7EA592F-NSR",
+  "domainName": "ma.cuisinella",
+  "creationDate": "2016-10-28T12:30:41Z",
+  "expirationDate": "2027-10-28T12:30:41Z",
+  "updatedDate": "2026-10-27T05:03:23Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns1.cscdns.net",
+    "dns2.cscdns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://whois.corporatedomains.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

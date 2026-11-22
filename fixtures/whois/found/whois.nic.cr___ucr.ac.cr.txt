@@ -1,0 +1,69 @@
+###%%% QRY: ucr.ac.cr
+###%%% SRV: whois.nic.cr
+###%%% TME: 2026-07-16T11:40:47Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 11:40:47 2026
+
+domain:       ucr.ac.cr
+registrant:   CN_2477
+admin-c:      CN_11040
+admin-c:      CN_2477
+nsset:        NS_UCR_AC_CR
+registrar:    NIC-REG1
+registered:   02.09.2010 18:00:00
+changed:      27.06.2025 07:02:42
+expire:       01.01.2035
+
+contact:      CN_2477
+org:          Universidad de Costa Rica
+name:         Wilfredo Fonseca Vargas
+address:      Ciudad Universitaria Rodrigo Facio
+address:      Montes de Oca
+address:      11501-2060
+address:      San José
+address:      CR
+phone:        +506.25112863
+e-mail:       wilfredo.fonseca@ucr.ac.cr
+registrar:    NIC-REG1
+created:      14.03.2024 09:42:51
+changed:      28.05.2024 12:53:50
+
+contact:      CN_11040
+org:          Universidad de Costa Rica
+name:         JOSE AGUSTIN VALVERDE CERDAS
+address:      Ciudad Universitaria Rodrigo Facio, Centro de Informática
+address:      Montes de Oca, San Pedro
+address:      11501
+address:      San José
+address:      CR
+phone:        +506.83514787
+fax-no:       +506.25111807
+e-mail:       jose.valverde@ucr.ac.cr
+registrar:    NIC-REG1
+created:      27.06.2025 06:19:04
+changed:      27.06.2025 06:19:05
+
+nsset:        NS_UCR_AC_CR
+nserver:      ns1.ucr.ac.cr (163.178.88.4)
+nserver:      ns2.ucr.ac.cr (163.178.84.4)
+nserver:      secundario.nic.cr 
+tech-c:       CN_2478
+registrar:    NIC-REG1
+created:      14.03.2024 12:29:34
+
+contact:      CN_2478
+org:          Universidad de Costa Rica
+name:         Steven Cascante
+address:      Sede Rodrigo Facio
+address:      San Pedro
+address:      00000
+address:      San José
+address:      CR
+phone:        +506.25111894
+e-mail:       steven.cascante@ucr.ac.cr
+registrar:    NIC-REG1
+created:      14.03.2024 10:35:50
+changed:      28.05.2024 13:02:01

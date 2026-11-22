@@ -1,0 +1,9 @@
+###%%% QRY: likexian-have-no-money-to-register.mo
+###%%% SRC: likexian/whois-parser@2426ff1e36f7540b2e0e7f69324cbe2091f5b278 testdata/notfound/mo_likexian-have-no-money-to-register.mo
+###%%% LIC: Apache-2.0 — Copyright 2014-2026 Li Kexian
+###%%% NOTE: vendored fixture (current through 2026) — validates the ENGINE, not today's registry output
+% Domain Information over Whois protocol
+%
+% Monic Whois Server Version 1.0
+
+No match for likexian-have-no-money-to-register.mo

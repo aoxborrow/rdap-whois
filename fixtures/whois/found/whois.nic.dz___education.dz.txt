@@ -1,0 +1,18 @@
+###%%% QRY: education.dz
+###%%% SRV: whois.nic.dz
+###%%% TME: 2026-07-16T11:41:01Z
+
+% This is the WHOIS server for Example Registry.
+% Queries are subject to terms of use.
+%
+Domain Name:    EDUCATION.DZ
+Registrar:      djaweb
+Registrant:     Ministère de l'Education Nationale
+Admin Name:    Amara ghalem
+Admin Email:      g.amara@education.gov.dz
+Tech Name:   Amara ghalem
+Tech Email:     g.amara@education.gov.dz
+Creation Date:  2022-03-22
+Expiry Date:    N/A
+
+% Query served at 2026-07-16T12:40:35.695987832+01:00

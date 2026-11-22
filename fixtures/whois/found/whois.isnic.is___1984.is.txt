@@ -1,0 +1,41 @@
+###%%% QRY: 1984.is
+###%%% SRV: whois.isnic.is
+###%%% TME: 2026-07-16T11:39:01Z
+
+% This is the ISNIC Whois server.
+%
+% Rights restricted by copyright.
+% See https://www.isnic.is/en/about/copyright
+
+domain:       1984.is
+registrant:   EH3071-IS
+admin-c:      EH59-IS
+tech-c:       EH59-IS
+zone-c:       EH59-IS
+billing-c:    EH59-IS
+nserver:      ns0.1984.is
+nserver:      ns1.1984hosting.com
+nserver:      ns1.1984.is
+nserver:      miniplenty.ns.1984.is
+dnssec:       unsigned delegation
+created:      May 15 2006
+expires:      May 15 2029
+source:       ISNIC 
+
+role:         1984 ehf.
+nic-hdl:      EH3071-IS
+address:      P.O. Box 126
+address:      IS-121 Reykjavik
+phone:        +354 5461984
+e-mail:       domains@1984.is
+created:      May 15 2006
+source:       ISNIC 
+
+role:         1984 ehf.
+nic-hdl:      EH59-IS
+address:      P.O. Box 126
+address:      IS-121 Reykjavik
+phone:        +354 5461984
+e-mail:       isnic@1984.is
+created:      April 29 2006
+source:       ISNIC

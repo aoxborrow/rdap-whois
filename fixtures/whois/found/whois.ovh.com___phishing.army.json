@@ -1,0 +1,76 @@
+{
+  "query": "phishing.army",
+  "server": "whois.ovh.com",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "phishing.army",
+  "creationDate": "2018-12-19T11:30:14Z",
+  "expirationDate": "2027-12-19T10:30:14Z",
+  "registrarExpirationDate": "2027-12-19T10:30:14Z",
+  "updatedDate": "2026-08-11T20:49:55Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "lara.ns.cloudflare.com",
+    "lee.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "433",
+  "registrarIanaId": 433,
+  "registrarName": "OVH, SAS",
+  "registrarUrl": "https://ovh.com",
+  "registrarAbuseEmail": "abuse@ovh.net",
+  "registrarAbusePhone": "+33.972101007",
+  "registrarWhoisServer": "whois.ovh.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "IT",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY - Send message to contact by visiting https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "IT",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "REDACTED FOR PRIVACY - Send message to contact by visiting https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "IT",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY - Send message to contact by visiting https://ovhcloud.com/en/lp/request-ovhcloud-registered-domain/"
+}

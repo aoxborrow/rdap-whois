@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "lib": ["ESNext"],
+    "types": ["node"],
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    // the built package, as an installed one is, for its types and when tsx runs an
+    // example: `npm run build` in the package first
+    "paths": {
+      "@aoxborrow/rdap-whois": ["../dist/index"],
+      "@aoxborrow/rdap-whois/whois": ["../dist/whois/index"],
+      "@aoxborrow/rdap-whois/utils": ["../dist/utils"],
+      "@aoxborrow/rdap-whois/transports/node": ["../dist/transports/node"]
+    }
+  },
+  "include": ["*.ts"]
+}

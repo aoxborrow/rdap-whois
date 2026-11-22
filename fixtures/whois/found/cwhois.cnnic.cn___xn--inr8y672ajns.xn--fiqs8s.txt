@@ -1,0 +1,20 @@
+###%%% QRY: xn--inr8y672ajns.xn--fiqs8s
+###%%% SRV: cwhois.cnnic.cn
+###%%% TME: 2026-11-22T08:13:49Z
+
+Domain Name: 厨房用品.中国
+Puny Name: xn--inr8y672ajns.xn--fiqs8s
+Domain Name: 厨房用品.中國
+Puny Name: xn--inr8y672ajns.xn--fiqz9s
+Domain Name: 廚房用品.中国
+Puny Name: xn--jvrv8urwcj70a.xn--fiqs8s
+Domain Name: 廚房用品.中國
+Puny Name: xn--jvrv8urwcj70a.xn--fiqz9s
+ROID: 20251031s12345s17692532-cn
+Domain Status: ok
+Registrant: 该域名已采取WHOIS隐私保护服务
+Sponsoring Registrar: 杭州云集通信科技有限公司
+Name Server: please-renew-your-domain-in-www.22.cn
+Registration Time: 2025-10-31 09:41:34
+Expiration Time: 2027-10-31 09:41:34
+DNSSEC: unsigned

@@ -1,0 +1,28 @@
+###%%% QRY: eacc.go.ke
+###%%% SRV: whois.kenic.or.ke
+###%%% TME: 2026-07-16T23:21:32Z
+
+Domain Name: eacc.go.ke
+Registry Domain ID: 45712-KENIC
+Updated Date: 2026-02-03T13:24:32Z
+Creation Date: 2011-09-20T11:49:16Z
+Registry Expiry Date: 2026-09-20T11:49:16Z
+Registrar Registration Expiration Date: 2026-09-20T11:49:16Z
+Registrar: ICT Authority
+Registrar Street Address: Teleposta Towers, 12th Flr,, Kenyatta Ave., Nairobi, Kenya., , P.O. Box 27150 - 00100,, Nairobi, Kenya.
+Registrar City: Nairobi
+Registrar State: Kenya
+Registrar Postal Code: 00100
+Registrar Phone: +254 20 2211960
+Registrar Email: websupport@icta.go.ke
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: ns4.safaricombusiness.co.ke
+Name Server: ns1.safaricombusiness.co.ke
+Name Server: ns2.safaricombusiness.co.ke
+Name Server: ns3.safaricombusiness.co.ke
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:12:08.496Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

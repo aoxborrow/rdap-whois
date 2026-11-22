@@ -1,0 +1,18 @@
+{
+  "query": "google.com.fj",
+  "server": "whois.usp.ac.fj",
+  "domainName": "google.com.fj",
+  "expirationDate": "2014-04-28T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrantId": "Google Inc.",
+  "registrantName": "Google Inc."
+}

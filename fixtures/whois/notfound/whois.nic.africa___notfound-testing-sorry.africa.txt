@@ -1,0 +1,15 @@
+###%%% QRY: notfound-testing-sorry.africa
+###%%% SRV: whois.nic.africa
+###%%% TME: 2025-03-20T16:19:09Z
+
+Available
+Domain: notfound-testing-sorry.africa
+
+>>> Last update of WHOIS database: 2025-03-20T16:19:09Z <<<
+
+# --
+# For more information on Whois status codes, please visit https://icann.org/epp
+#
+# The use of this Whois facility is subject to the terms and
+# conditions listed at https://registry.africa/whois-terms/
+# Copyright (c)  Registry Africa Ltd. 2025

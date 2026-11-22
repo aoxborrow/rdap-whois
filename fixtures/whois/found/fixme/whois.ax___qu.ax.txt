@@ -1,0 +1,23 @@
+###%%% QRY: qu.ax
+###%%% SRV: whois.ax
+###%%% TME: 2025-03-20T11:52:43Z
+
+domain...............: qu.ax
+status...............: Registered
+created..............: 23.10.2019
+expires..............: 23.10.2025
+available............: 24.11.2025
+modified.............: 15.03.2025
+RegistryLock.........: no
+
+Nameservers
+
+nserver..............: ns1.r4ns.com
+nserver..............: ns2.r4ns.net
+
+Registrar
+
+registrar............: Stanco doo
+www..................: https://www.istanco.com
+
+Copyright (c) Ålands Landskapsregering

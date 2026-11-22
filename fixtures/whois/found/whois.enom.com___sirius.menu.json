@@ -1,0 +1,65 @@
+{
+  "query": "sirius.menu",
+  "server": "whois.enom.com",
+  "domainId": "D7B0A1964B36E49A3986AD44103AB791D-GDREG",
+  "domainName": "sirius.menu",
+  "creationDate": "2022-11-06T17:10:00Z",
+  "expirationDate": "2027-11-06T17:10:59Z",
+  "registrarExpirationDate": "2027-11-06T17:10:59Z",
+  "updatedDate": "2026-11-22T08:11:56Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "alexandra.ns.cloudflare.com",
+    "hassan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "48",
+  "registrarIanaId": 48,
+  "registrarName": "ENOM, INC.",
+  "registrarUrl": "https://www.enomdomains.com",
+  "registrarAbuseEmail": "ABUSE@ENOM.COM",
+  "registrarAbusePhone": "+1.4259744689",
+  "registrarWhoisServer": "whois.enom.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "DE",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://tieredaccess.com/contact/60c58c82-9c64-4544-a0ca-8f9fb635593f",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY"
+}

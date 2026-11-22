@@ -1,0 +1,74 @@
+{
+  "query": "bancocredicoop.coop",
+  "server": "whois.domains.coop",
+  "domainId": "D7881088-CNIC",
+  "domainName": "bancocredicoop.coop",
+  "creationDate": "2002-04-05T10:21:48Z",
+  "expirationDate": "2026-04-05T23:59:59Z",
+  "registrarExpirationDate": "2026-04-05T23:59:59Z",
+  "updatedDate": "2025-03-19T13:22:44Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok http://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.credicoop.com.ar",
+    "ns2.credicoop.com.ar"
+  ],
+  "dnssecRaw": "not signed",
+  "registrarId": "465",
+  "registrarIanaId": 465,
+  "registrarName": "Domains.coop",
+  "registrarReseller": "la.domains.coop",
+  "registrarUrl": "http://www.domains.coop",
+  "registrarAbuseEmail": "contact@domains.coop",
+  "registrarAbusePhone": "+44.1865403136",
+  "registrarWhoisServer": "whois.domains.coop",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Buenos Aires",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "AR",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "https://mydomainprovider.com/contact_domain/",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "https://mydomainprovider.com/contact_domain/",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "https://mydomainprovider.com/contact_domain/"
+}

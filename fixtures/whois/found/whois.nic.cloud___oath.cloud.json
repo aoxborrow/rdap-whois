@@ -1,0 +1,35 @@
+{
+  "query": "oath.cloud",
+  "server": "whois.nic.cloud",
+  "domainId": "DD70145F91CD14C8491A57D2F9F313824-NSR",
+  "domainName": "oath.cloud",
+  "creationDate": "2017-06-24T00:06:41Z",
+  "expirationDate": "2027-06-24T00:06:41Z",
+  "updatedDate": "2026-05-28T09:17:17Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.yahoo.com",
+    "ns2.yahoo.com",
+    "ns3.yahoo.com",
+    "ns4.yahoo.com",
+    "ns5.yahoo.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "ccops@markmonitor.com",
+  "registrarAbusePhone": "+1.208389574",
+  "registrarWhoisServer": "whois.markmonitor.com"
+}

@@ -1,0 +1,34 @@
+{
+  "query": "decidim.barcelona",
+  "server": "whois.nic.barcelona",
+  "domainId": "DQTRVXBHTWQ20-BARNA",
+  "domainName": "decidim.barcelona",
+  "creationDate": "2016-01-26T10:48:33Z",
+  "expirationDate": "2027-01-26T10:48:33Z",
+  "updatedDate": "2026-03-12T10:57:35Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.bcn.cat",
+    "ns2.bcn.cat"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": ".barcelona Internal Registrar",
+  "registrarUrl": "http://www.bcn.cat",
+  "registrarAbuseEmail": "newgtlds@domini.cat",
+  "registrarAbusePhone": "+34.671639461",
+  "registrarWhoisServer": "whois.nic.barcelona",
+  "registrantOrg": "Ajuntament de Barcelona",
+  "registrantState": "Catalunya",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

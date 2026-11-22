@@ -1,0 +1,59 @@
+###%%% QRY: gctu.edu.gh
+###%%% SRV: whois.nic.gh
+###%%% TME: 2026-07-16T23:34:13Z
+
+Domain Name: gctu.edu.gh
+Registry Domain ID: 49498-gh
+Registry WHOIS Server: whois.nic.gh
+Updated Date: 2025-08-27T16:45:27.43Z
+Creation Date: 2020-07-13T14:54:43.337Z
+Registry Expiry Date: 2026-07-13T14:54:43.410Z
+Registrar Registration Expiration Date: 2026-07-13T14:54:43.410Z
+Registrar: Ghana Dot Com
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: V8WUw-YQBvB
+Registrant Name: Ghana Communication Technology University
+Registrant Organization: Ghana Communication Technology University
+Registrant Street: GTUC Nsawam Road
+Registrant City: Accra
+Registrant State/Province: Greater Accra
+Registrant Country: GH
+Registrant Phone: +233.202698366
+Registrant Email: sasunka@gtuc.edu.gh
+Registry Admin ID: Pw5ge-j4fDn
+Admin Name: Ghana Communication Technology University
+Admin Organization: Ghana Communication Technology University
+Admin Street: GTUC Nsawam Road
+Admin City: Accra
+Admin State/Province: Greater Accra
+Admin Country: GH
+Admin Phone: +233.202698366
+Admin Email: sasunka@gtuc.edu.gh
+Registry Tech ID: 2neOo-QbJx1
+Tech Name: Ghana Communication Technology University
+Tech Organization: Ghana Communication Technology University
+Tech Street: GTUC Nsawam Road
+Tech City: Accra
+Tech State/Province: Greater Accra
+Tech Country: GH
+Tech Phone: +233.202698366
+Tech Email: sasunka@gtuc.edu.gh
+Registry Billing ID: pPG3e-eQtly
+Billing Name: Ghana Communication Technology University
+Billing Organization: Ghana Communication Technology University
+Billing Street: GTUC Nsawam Road
+Billing City: Accra
+Billing State/Province: Greater Accra
+Billing Country: GH
+Billing Phone: +233.202698366
+Billing Email: sasunka@gtuc.edu.gh
+Name Server: ns1.md-50.webhostbox.net
+Name Server: ns2.md-50.webhostbox.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T18:10:15.564Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to Ghregistry it's members (or Ghregistry or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

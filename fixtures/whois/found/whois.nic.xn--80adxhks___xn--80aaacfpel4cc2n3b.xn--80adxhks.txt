@@ -1,0 +1,55 @@
+###%%% QRY: xn--80aaacfpel4cc2n3b.xn--80adxhks
+###%%% SRV: whois.nic.xn--80adxhks
+###%%% TME: 2026-11-22T08:13:19Z
+
+Domain Name: xn--80aaacfpel4cc2n3b.xn--80adxhks
+Registry Domain ID: 3199999958441583_REGMKV-FIR
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru
+Updated Date: 2025-09-14T13:50:18Z
+Creation Date: 2015-06-05T08:31:58Z
+Registry Expiry Date: 2033-06-05T08:31:58Z
+Registrar: Limited Liability Company "Registrar of domain names REG.RU"
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7 (495) 580-11-11
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Name: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Street: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant City: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Country: RU
+Registrant Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Admin ID: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Name: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Street: Personal data, can not be publicly disclosed according to applicable laws.
+Admin City: Personal data, can not be publicly disclosed according to applicable laws.
+Admin State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Country: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Tech ID: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Name: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Street: Personal data, can not be publicly disclosed according to applicable laws.
+Tech City: Personal data, can not be publicly disclosed according to applicable laws.
+Tech State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Country: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Name Server: ns2.ddos-guard.net
+Name Server: ns1.ddos-guard.net
+DNSSEC: unsignedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:13:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://flexireg.net/whois-terms_of_use.html (in Russian)
+% http://flexireg.net/whois-terms_of_use.en.html (in English)

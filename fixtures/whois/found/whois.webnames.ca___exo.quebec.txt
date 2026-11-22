@@ -1,0 +1,106 @@
+###%%% QRY: exo.quebec
+###%%% SRV: whois.webnames.ca
+###%%% TME: 2025-03-21T04:08:09Z
+
+Domain Name: exo.quebec
+Registry Domain ID: DYJBXHELMMI15439-QUEBEC
+Registrar WHOIS Server: whois.webnames.ca
+Registrar URL: https://www.webnames.ca
+Updated Date: 2023-09-18T12:52:17.497Z
+Creation Date: 2017-11-29T20:29:14.669Z
+Registry Expiry Date: 2027-11-29T20:29:14.669Z
+Registrar Registration Expiration Date: 
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Agence metropolitaine de transport
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: QC
+Registrant Postal Code: 
+Registrant Country: CA
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns2-07.azure-dns.net
+Name Server: ns4-07.azure-dns.info
+Name Server: ns1-07.azure-dns.com
+Name Server: ns3-07.azure-dns.org
+DNSSEC: unsigned
+Canonical Name: exo.quebec
+IDN Tag: fr
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2025-03-21T04:07:32.197Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Terms and Conditions of Use
+
+The data in this record is provided by PointQuebec Inc. ("the Registry")
+for informational purposes only. The Registry does not guarantee its
+accuracy and cannot, under any circumstances, be held liable in case
+the stored information would prove to be wrong, incomplete or not
+accurate in any sense.
+
+NOTICE: Access to the domain name's information is restricted in
+order to protect the privacy of Registrants. If you believe you have
+a legitimate interest in having access to part or all of the data not
+published in the above output, please contact the Registrar of record
+at the address shown in the output above OR the Registry at the
+following address:
+
+abuse@registre.quebec
+
+The compilation, repackaging, dissemination or other use of the data
+in this Whois database is expressly prohibited without the
+prior written consent of the Registry.
+
+The Registry maintains the right to restrict your access to the Whois
+database in its sole discretion to ensure operational stability. The
+Registry may restrict or terminate your access to the Whois database
+for failure to abide by these terms of use. The Registry reserves the
+right to modify these terms at any time.
+
+By maintaining the connection you assure that you have a legitimate
+interest in the data and that you will only use it for the stated
+purposes. You are aware the Registry maintains the right to initiate
+legal proceedings against you in the event of any breach of this
+assurance and to bar you from using its Whois service.
+
+End of Whois record.
+
+ ----------------------------------- 
+Webnames.ca will provide access to Personal Data within Registration Data over and above what may already be present publicly to third parties, when ordered to do so directly and specifically by a Canadian court of competent jurisdiction.

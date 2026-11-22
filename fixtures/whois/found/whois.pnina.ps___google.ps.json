@@ -1,0 +1,67 @@
+{
+  "query": "google.ps",
+  "server": "whois.pnina.ps",
+  "domainId": "21665-PS",
+  "domainName": "google.ps",
+  "creationDate": "2004-05-18T22:00:00Z",
+  "expirationDate": "2014-05-18T22:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited",
+    "clientDeleteProhibited",
+    "ok",
+    "clientRenewProhibited",
+    "clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor Inc.",
+  "registrarWhoisServer": "palestine ps/felasteen cctld registry",
+  "registrantId": "21544-PS",
+  "registrantName": "Google Inc.",
+  "registrantAddress": [
+    "2400 E. Bayshore Pkwy Mountain View- CA- US 94043"
+  ],
+  "registrantCity": "CA",
+  "registrantCountry": "US",
+  "registrantPhone": "001-6-503300100",
+  "registrantFax": "001-6-506188571",
+  "adminId": "21466-PS",
+  "adminName": "markmonitor-Inc",
+  "adminAddress": [
+    "10400 Overland Rd- PMB 155- Boise-ID-US 83709-1433"
+  ],
+  "adminCity": "Boise",
+  "adminCountry": "US",
+  "adminPhone": "001-2-083895740",
+  "adminFax": "001-2-083895771",
+  "techId": "21466-PS",
+  "techName": "markmonitor-Inc",
+  "techAddress": [
+    "10400 Overland Rd- PMB 155- Boise-ID-US 83709-1433"
+  ],
+  "techCity": "Boise",
+  "techCountry": "US",
+  "techPhone": "001-2-083895740",
+  "techFax": "001-2-083895771",
+  "billingId": "21544-PS",
+  "billingName": "Google Inc.",
+  "billingAddress": [
+    "2400 E. Bayshore Pkwy Mountain View- CA- US 94043"
+  ],
+  "billingCity": "CA",
+  "billingCountry": "US",
+  "billingPhone": "001-6-503300100",
+  "billingFax": "001-6-506188571"
+}

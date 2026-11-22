@@ -1,0 +1,30 @@
+{
+  "query": "nic.xn--kput3i",
+  "server": "whois.nic.xn--kput3i",
+  "domainId": "618122_DOMAIN-BTI",
+  "domainName": "nic.xn--kput3i",
+  "creationDate": "2014-11-28T18:41:03Z",
+  "expirationDate": "2029-11-28T18:41:03Z",
+  "updatedDate": "2024-08-30T16:04:52Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns.nic.手机",
+    "ns2.nic.手机"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9997",
+  "registrarIanaId": 9997,
+  "registrarName": "Reserved for ICANN's Registry SLA Monitoring System transactions reporting",
+  "registrarUrl": "https://www.icann.org",
+  "registrarAbuseEmail": "abuse@teleinfo.cn",
+  "registrarAbusePhone": "+86.4000305000",
+  "registrarWhoisServer": "www.icann.org",
+  "registrantCountry": "CN",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

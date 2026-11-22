@@ -1,0 +1,68 @@
+{
+  "query": "nyan.cat",
+  "server": "whois.gandi.net",
+  "domainId": "22186016710484_DOMAIN-KEYSYS",
+  "domainName": "nyan.cat",
+  "creationDate": "2011-04-13T17:52:11Z",
+  "expirationDate": "2035-04-13T19:52:17Z",
+  "registrarExpirationDate": "2035-04-13T19:52:17Z",
+  "updatedDate": "2026-03-31T15:41:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok http://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.dreamhost.com",
+    "ns2.dreamhost.com",
+    "ns3.dreamhost.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "GANDI SAS",
+  "registrarUrl": "http://www.gandi.net",
+  "registrarAbuseEmail": "abuse@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrarWhoisServer": "whois.gandi.net",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Texas",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "e82f6c84d4657cbd13162df502623749-1348221@contact.gandi.net",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "e82f6c84d4657cbd13162df502623749-1348221@contact.gandi.net",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "e82f6c84d4657cbd13162df502623749-1348221@contact.gandi.net"
+}

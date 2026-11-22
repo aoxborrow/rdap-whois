@@ -1,0 +1,20 @@
+{
+  "query": "google.co.jp",
+  "server": "whois.jprs.jp",
+  "domainName": "google.co.jp",
+  "creationDate": "2001-03-22T00:00:00Z",
+  "expirationDate": "2027-03-31T00:00:00Z",
+  "updatedDate": "2026-04-01T01:02:00Z",
+  "eppStatusRaw": [
+    "AgentChangeLocked"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrantOrg": "Google Japan G.K.",
+  "adminId": "YN47525JP",
+  "techId": "SH36113JP"
+}

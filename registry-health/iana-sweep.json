@@ -1,0 +1,5759 @@
+{
+  "source": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
+  "sweptAt": "2026-11-16T22:58:41.637Z",
+  "elapsedSeconds": 335,
+  "totals": {
+    "tlds": 1436,
+    "withWhois": 869,
+    "withoutWhois": 567,
+    "failed": 0,
+    "carriedForward": 0
+  },
+  "failed": {},
+  "entries": {
+    "aaa": {
+      "server": "whois.nic.aaa",
+      "status": "ACTIVE"
+    },
+    "aarp": {
+      "server": "whois.nic.aarp",
+      "status": "ACTIVE"
+    },
+    "abb": {
+      "server": "whois.nic.abb",
+      "status": "ACTIVE"
+    },
+    "abbott": {
+      "server": "whois.nic.abbott",
+      "status": "ACTIVE"
+    },
+    "abbvie": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "abc": {
+      "server": "whois.nic.abc",
+      "status": "ACTIVE"
+    },
+    "able": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "abogado": {
+      "server": "whois.nic.abogado",
+      "status": "ACTIVE"
+    },
+    "abudhabi": {
+      "server": "whois.nic.abudhabi",
+      "status": "ACTIVE"
+    },
+    "ac": {
+      "server": "whois.nic.ac",
+      "status": "ACTIVE"
+    },
+    "academy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "accenture": {
+      "server": "whois.nic.accenture",
+      "status": "ACTIVE"
+    },
+    "accountant": {
+      "server": "whois.nic.accountant",
+      "status": "ACTIVE"
+    },
+    "accountants": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "aco": {
+      "server": "whois.nic.aco",
+      "status": "ACTIVE"
+    },
+    "actor": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ad": {
+      "server": "whois.nic.ad",
+      "status": "ACTIVE"
+    },
+    "ads": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "adult": {
+      "server": "whois.nic.adult",
+      "status": "ACTIVE"
+    },
+    "ae": {
+      "server": "whois.aeda.net.ae",
+      "status": "ACTIVE"
+    },
+    "aeg": {
+      "server": "whois.nic.aeg",
+      "status": "ACTIVE"
+    },
+    "aero": {
+      "server": "whois.aero",
+      "status": "ACTIVE"
+    },
+    "aetna": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "af": {
+      "server": "whois.nic.af",
+      "status": "ACTIVE"
+    },
+    "afl": {
+      "server": "whois.nic.afl",
+      "status": "ACTIVE"
+    },
+    "africa": {
+      "server": "whois.nic.africa",
+      "status": "ACTIVE"
+    },
+    "ag": {
+      "server": "whois.nic.ag",
+      "status": "ACTIVE"
+    },
+    "agakhan": {
+      "server": "whois.nic.agakhan",
+      "status": "ACTIVE"
+    },
+    "agency": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ai": {
+      "server": "whois.nic.ai",
+      "status": "ACTIVE"
+    },
+    "aig": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "airbus": {
+      "server": "whois.nic.airbus",
+      "status": "ACTIVE"
+    },
+    "airforce": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "airtel": {
+      "server": "whois.nic.airtel",
+      "status": "ACTIVE"
+    },
+    "akdn": {
+      "server": "whois.nic.akdn",
+      "status": "ACTIVE"
+    },
+    "al": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "alibaba": {
+      "server": "whois.nic.alibaba",
+      "status": "ACTIVE"
+    },
+    "alipay": {
+      "server": "whois.nic.alipay",
+      "status": "ACTIVE"
+    },
+    "allfinanz": {
+      "server": "whois.nic.allfinanz",
+      "status": "ACTIVE"
+    },
+    "allstate": {
+      "server": "whois.nic.allstate",
+      "status": "ACTIVE"
+    },
+    "ally": {
+      "server": "whois.nic.ally",
+      "status": "ACTIVE"
+    },
+    "alsace": {
+      "server": "whois.nic.alsace",
+      "status": "ACTIVE"
+    },
+    "alstom": {
+      "server": "whois.nic.alstom",
+      "status": "ACTIVE"
+    },
+    "am": {
+      "server": "whois.amnic.net",
+      "status": "ACTIVE"
+    },
+    "amazon": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "americanexpress": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "americanfamily": {
+      "server": "whois.nic.americanfamily",
+      "status": "ACTIVE"
+    },
+    "amex": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "amfam": {
+      "server": "whois.nic.amfam",
+      "status": "ACTIVE"
+    },
+    "amica": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "amsterdam": {
+      "server": "whois.nic.amsterdam",
+      "status": "ACTIVE"
+    },
+    "analytics": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "android": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "anquan": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "anz": {
+      "server": "whois.nic.anz",
+      "status": "ACTIVE"
+    },
+    "ao": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "aol": {
+      "server": "whois.nic.aol",
+      "status": "ACTIVE"
+    },
+    "apartments": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "app": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "apple": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "aq": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "aquarelle": {
+      "server": "whois.nic.aquarelle",
+      "status": "ACTIVE"
+    },
+    "ar": {
+      "server": "whois.nic.ar",
+      "status": "ACTIVE"
+    },
+    "arab": {
+      "server": "whois.nic.arab",
+      "status": "ACTIVE"
+    },
+    "aramco": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "archi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "army": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "arpa": {
+      "server": "whois.iana.org",
+      "status": "ACTIVE"
+    },
+    "art": {
+      "server": "whois.nic.art",
+      "status": "ACTIVE"
+    },
+    "arte": {
+      "server": "whois.nic.arte",
+      "status": "ACTIVE"
+    },
+    "as": {
+      "server": "whois.nic.as",
+      "status": "ACTIVE"
+    },
+    "asda": {
+      "server": "whois.nic.asda",
+      "status": "ACTIVE"
+    },
+    "asia": {
+      "server": "whois.nic.asia",
+      "status": "ACTIVE"
+    },
+    "associates": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "at": {
+      "server": "whois.nic.at",
+      "status": "ACTIVE"
+    },
+    "athleta": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "attorney": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "au": {
+      "server": "whois.auda.org.au",
+      "status": "ACTIVE"
+    },
+    "auction": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "audi": {
+      "server": "whois.nic.audi",
+      "status": "ACTIVE"
+    },
+    "audible": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "audio": {
+      "server": "whois.nic.audio",
+      "status": "ACTIVE"
+    },
+    "auspost": {
+      "server": "whois.nic.auspost",
+      "status": "ACTIVE"
+    },
+    "author": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "auto": {
+      "server": "whois.nic.auto",
+      "status": "ACTIVE"
+    },
+    "autos": {
+      "server": "whois.nic.autos",
+      "status": "ACTIVE"
+    },
+    "aw": {
+      "server": "whois.nic.aw",
+      "status": "ACTIVE"
+    },
+    "aws": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ax": {
+      "server": "whois.ax",
+      "status": "ACTIVE"
+    },
+    "axa": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "az": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "azure": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ba": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "baby": {
+      "server": "whois.nic.baby",
+      "status": "ACTIVE"
+    },
+    "baidu": {
+      "server": "whois.gtld.knet.cn",
+      "status": "ACTIVE"
+    },
+    "banamex": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "band": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bank": {
+      "server": "whois.nic.bank",
+      "status": "ACTIVE"
+    },
+    "bar": {
+      "server": "whois.nic.bar",
+      "status": "ACTIVE"
+    },
+    "barcelona": {
+      "server": "whois.nic.barcelona",
+      "status": "ACTIVE"
+    },
+    "barclaycard": {
+      "server": "whois.nic.barclaycard",
+      "status": "ACTIVE"
+    },
+    "barclays": {
+      "server": "whois.nic.barclays",
+      "status": "ACTIVE"
+    },
+    "barefoot": {
+      "server": "whois.nic.barefoot",
+      "status": "ACTIVE"
+    },
+    "bargains": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "baseball": {
+      "server": "whois.nic.baseball",
+      "status": "ACTIVE"
+    },
+    "basketball": {
+      "server": "whois.nic.basketball",
+      "status": "ACTIVE"
+    },
+    "bauhaus": {
+      "server": "whois.nic.bauhaus",
+      "status": "ACTIVE"
+    },
+    "bayern": {
+      "server": "whois.nic.bayern",
+      "status": "ACTIVE"
+    },
+    "bb": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bbc": {
+      "server": "whois.nic.bbc",
+      "status": "ACTIVE"
+    },
+    "bbt": {
+      "server": "whois.nic.bbt",
+      "status": "ACTIVE"
+    },
+    "bbva": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bcg": {
+      "server": "whois.nic.bcg",
+      "status": "ACTIVE"
+    },
+    "bcn": {
+      "server": "whois.nic.bcn",
+      "status": "ACTIVE"
+    },
+    "bd": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "be": {
+      "server": "whois.dns.be",
+      "status": "ACTIVE"
+    },
+    "beats": {
+      "server": "whois.nic.beats",
+      "status": "ACTIVE"
+    },
+    "beauty": {
+      "server": "whois.nic.beauty",
+      "status": "ACTIVE"
+    },
+    "beer": {
+      "server": "whois.nic.beer",
+      "status": "ACTIVE"
+    },
+    "berlin": {
+      "server": "whois.nic.berlin",
+      "status": "ACTIVE"
+    },
+    "best": {
+      "server": "whois.nic.best",
+      "status": "ACTIVE"
+    },
+    "bestbuy": {
+      "server": "whois.nic.bestbuy",
+      "status": "ACTIVE"
+    },
+    "bet": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bf": {
+      "server": "whois.registre.bf",
+      "status": "ACTIVE"
+    },
+    "bg": {
+      "server": "whois.register.bg",
+      "status": "ACTIVE"
+    },
+    "bh": {
+      "server": "whois.bhregistry.bh",
+      "status": "ACTIVE"
+    },
+    "bharti": {
+      "server": "whois.nic.bharti",
+      "status": "ACTIVE"
+    },
+    "bi": {
+      "server": "whois1.nic.bi",
+      "status": "ACTIVE"
+    },
+    "bible": {
+      "server": "whois.nic.bible",
+      "status": "ACTIVE"
+    },
+    "bid": {
+      "server": "whois.nic.bid",
+      "status": "ACTIVE"
+    },
+    "bike": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bing": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bingo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bio": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "biz": {
+      "server": "whois.nic.biz",
+      "status": "ACTIVE"
+    },
+    "bj": {
+      "server": "whois.nic.bj",
+      "status": "ACTIVE"
+    },
+    "black": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "blackfriday": {
+      "server": "whois.nic.blackfriday",
+      "status": "ACTIVE"
+    },
+    "blockbuster": {
+      "server": "whois.nic.blockbuster",
+      "status": "ACTIVE"
+    },
+    "blog": {
+      "server": "whois.nic.blog",
+      "status": "ACTIVE"
+    },
+    "bloomberg": {
+      "server": "whois.nic.bloomberg",
+      "status": "ACTIVE"
+    },
+    "blue": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bm": {
+      "server": "whois.nic.bm",
+      "status": "ACTIVE"
+    },
+    "bms": {
+      "server": "whois.nic.bms",
+      "status": "ACTIVE"
+    },
+    "bmw": {
+      "server": "whois.nic.bmw",
+      "status": "ACTIVE"
+    },
+    "bn": {
+      "server": "whois.bnnic.bn",
+      "status": "ACTIVE"
+    },
+    "bnpparibas": {
+      "server": "whois.nic.bnpparibas",
+      "status": "ACTIVE"
+    },
+    "bo": {
+      "server": "whois.nic.bo",
+      "status": "ACTIVE"
+    },
+    "boats": {
+      "server": "whois.nic.boats",
+      "status": "ACTIVE"
+    },
+    "boehringer": {
+      "server": "whois.nic.boehringer",
+      "status": "ACTIVE"
+    },
+    "bofa": {
+      "server": "whois.nic.bofa",
+      "status": "ACTIVE"
+    },
+    "bom": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bond": {
+      "server": "whois.nic.bond",
+      "status": "ACTIVE"
+    },
+    "boo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "book": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "booking": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bosch": {
+      "server": "whois.nic.bosch",
+      "status": "ACTIVE"
+    },
+    "bostik": {
+      "server": "whois.nic.bostik",
+      "status": "ACTIVE"
+    },
+    "boston": {
+      "server": "whois.nic.boston",
+      "status": "ACTIVE"
+    },
+    "bot": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "boutique": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "box": {
+      "server": "whois.nic.box",
+      "status": "ACTIVE"
+    },
+    "br": {
+      "server": "whois.registro.br",
+      "status": "ACTIVE"
+    },
+    "bradesco": {
+      "server": "whois.nic.bradesco",
+      "status": "ACTIVE"
+    },
+    "bridgestone": {
+      "server": "whois.nic.bridgestone",
+      "status": "ACTIVE"
+    },
+    "broadway": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "broker": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "brother": {
+      "server": "whois.nic.brother",
+      "status": "ACTIVE"
+    },
+    "brussels": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bs": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "build": {
+      "server": "whois.nic.build",
+      "status": "ACTIVE"
+    },
+    "builders": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "business": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "buy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "buzz": {
+      "server": "whois.nic.buzz",
+      "status": "ACTIVE"
+    },
+    "bv": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bw": {
+      "server": "whois.nic.net.bw",
+      "status": "ACTIVE"
+    },
+    "by": {
+      "server": "whois.cctld.by",
+      "status": "ACTIVE"
+    },
+    "bz": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "bzh": {
+      "server": "whois.nic.bzh",
+      "status": "ACTIVE"
+    },
+    "ca": {
+      "server": "whois.cira.ca",
+      "status": "ACTIVE"
+    },
+    "cab": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cafe": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cal": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "call": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "calvinklein": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cam": {
+      "server": "whois.nic.cam",
+      "status": "ACTIVE"
+    },
+    "camera": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "camp": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "canon": {
+      "server": "whois.nic.canon",
+      "status": "ACTIVE"
+    },
+    "capetown": {
+      "server": "whois.nic.capetown",
+      "status": "ACTIVE"
+    },
+    "capital": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "capitalone": {
+      "server": "whois.nic.capitalone",
+      "status": "ACTIVE"
+    },
+    "car": {
+      "server": "whois.nic.car",
+      "status": "ACTIVE"
+    },
+    "caravan": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cards": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "care": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "career": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "careers": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cars": {
+      "server": "whois.nic.cars",
+      "status": "ACTIVE"
+    },
+    "casa": {
+      "server": "whois.nic.casa",
+      "status": "ACTIVE"
+    },
+    "case": {
+      "server": "whois.nic.case",
+      "status": "ACTIVE"
+    },
+    "cash": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "casino": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cat": {
+      "server": "whois.nic.cat",
+      "status": "ACTIVE"
+    },
+    "catering": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "catholic": {
+      "server": "whois.nic.catholic",
+      "status": "ACTIVE"
+    },
+    "cba": {
+      "server": "whois.nic.cba",
+      "status": "ACTIVE"
+    },
+    "cbn": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cbre": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cc": {
+      "server": "ccwhois.verisign-grs.com",
+      "status": "ACTIVE"
+    },
+    "cd": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "center": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ceo": {
+      "server": "whois.nic.ceo",
+      "status": "ACTIVE"
+    },
+    "cern": {
+      "server": "whois.nic.cern",
+      "status": "ACTIVE"
+    },
+    "cf": {
+      "server": "whois.dot.cf",
+      "status": "ACTIVE"
+    },
+    "cfa": {
+      "server": "whois.nic.cfa",
+      "status": "ACTIVE"
+    },
+    "cfd": {
+      "server": "whois.nic.cfd",
+      "status": "ACTIVE"
+    },
+    "cg": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ch": {
+      "server": "whois.nic.ch",
+      "status": "ACTIVE"
+    },
+    "chanel": {
+      "server": "whois.nic.chanel",
+      "status": "ACTIVE"
+    },
+    "channel": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "charity": {
+      "server": "whois.nic.charity",
+      "status": "ACTIVE"
+    },
+    "chase": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "chat": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cheap": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "chintai": {
+      "server": "whois.nic.chintai",
+      "status": "ACTIVE"
+    },
+    "christmas": {
+      "server": "whois.nic.christmas",
+      "status": "ACTIVE"
+    },
+    "chrome": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "church": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ci": {
+      "server": "whois.nic.ci",
+      "status": "ACTIVE"
+    },
+    "cipriani": {
+      "server": "whois.nic.cipriani",
+      "status": "ACTIVE"
+    },
+    "circle": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cisco": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "citadel": {
+      "server": "whois.nic.citadel",
+      "status": "ACTIVE"
+    },
+    "citi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "citic": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "city": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ck": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cl": {
+      "server": "whois.nic.cl",
+      "status": "ACTIVE"
+    },
+    "claims": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cleaning": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "click": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "clinic": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "clinique": {
+      "server": "whois.nic.clinique",
+      "status": "ACTIVE"
+    },
+    "clothing": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cloud": {
+      "server": "whois.nic.cloud",
+      "status": "ACTIVE"
+    },
+    "club": {
+      "server": "whois.nic.club",
+      "status": "ACTIVE"
+    },
+    "clubmed": {
+      "server": "whois.nic.clubmed",
+      "status": "ACTIVE"
+    },
+    "cm": {
+      "server": "whois.nic.cm",
+      "status": "ACTIVE"
+    },
+    "cn": {
+      "server": "whois.cnnic.cn",
+      "status": "ACTIVE"
+    },
+    "co": {
+      "server": "whois.registry.co",
+      "status": "ACTIVE"
+    },
+    "coach": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "codes": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "coffee": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "college": {
+      "server": "whois.nic.college",
+      "status": "ACTIVE"
+    },
+    "cologne": {
+      "server": "whois.ryce-rsp.com",
+      "status": "ACTIVE"
+    },
+    "com": {
+      "server": "whois.verisign-grs.com",
+      "status": "ACTIVE"
+    },
+    "commbank": {
+      "server": "whois.nic.commbank",
+      "status": "ACTIVE"
+    },
+    "community": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "company": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "compare": {
+      "server": "whois.nic.compare",
+      "status": "ACTIVE"
+    },
+    "computer": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "comsec": {
+      "server": "whois.nic.comsec",
+      "status": "ACTIVE"
+    },
+    "condos": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "construction": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "consulting": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "contact": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "contractors": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cooking": {
+      "server": "whois.nic.cooking",
+      "status": "ACTIVE"
+    },
+    "cool": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "coop": {
+      "server": "whois.nic.coop",
+      "status": "ACTIVE"
+    },
+    "corsica": {
+      "server": "whois.nic.corsica",
+      "status": "ACTIVE"
+    },
+    "country": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "coupon": {
+      "server": "whois.nic.coupon",
+      "status": "ACTIVE"
+    },
+    "coupons": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "courses": {
+      "server": "whois.nic.courses",
+      "status": "ACTIVE"
+    },
+    "cpa": {
+      "server": "whois.nic.cpa",
+      "status": "ACTIVE"
+    },
+    "cr": {
+      "server": "whois.nic.cr",
+      "status": "ACTIVE"
+    },
+    "credit": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "creditcard": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "creditunion": {
+      "server": "whois.nic.creditunion",
+      "status": "ACTIVE"
+    },
+    "cricket": {
+      "server": "whois.nic.cricket",
+      "status": "ACTIVE"
+    },
+    "crown": {
+      "server": "whois.nic.crown",
+      "status": "ACTIVE"
+    },
+    "crs": {
+      "server": "whois.nic.crs",
+      "status": "ACTIVE"
+    },
+    "cruise": {
+      "server": "whois.nic.cruise",
+      "status": "ACTIVE"
+    },
+    "cruises": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cu": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cuisinella": {
+      "server": "whois.nic.cuisinella",
+      "status": "ACTIVE"
+    },
+    "cv": {
+      "server": "whois.nic.cv",
+      "status": "ACTIVE"
+    },
+    "cw": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cx": {
+      "server": "whois.nic.cx",
+      "status": "ACTIVE"
+    },
+    "cy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cymru": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "cyou": {
+      "server": "whois.nic.cyou",
+      "status": "ACTIVE"
+    },
+    "cz": {
+      "server": "whois.nic.cz",
+      "status": "ACTIVE"
+    },
+    "dad": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dance": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "data": {
+      "server": "whois.nic.data",
+      "status": "ACTIVE"
+    },
+    "date": {
+      "server": "whois.nic.date",
+      "status": "ACTIVE"
+    },
+    "dating": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "datsun": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "day": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dclk": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dds": {
+      "server": "whois.nic.dds",
+      "status": "ACTIVE"
+    },
+    "de": {
+      "server": "whois.denic.de",
+      "status": "ACTIVE"
+    },
+    "deal": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dealer": {
+      "server": "whois.nic.dealer",
+      "status": "ACTIVE"
+    },
+    "deals": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "degree": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "delivery": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dell": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "deloitte": {
+      "server": "whois.nic.deloitte",
+      "status": "ACTIVE"
+    },
+    "delta": {
+      "server": "whois.nic.delta",
+      "status": "ACTIVE"
+    },
+    "democrat": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dental": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dentist": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "desi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "design": {
+      "server": "whois.nic.design",
+      "status": "ACTIVE"
+    },
+    "dev": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dhl": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "diamonds": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "diet": {
+      "server": "whois.nic.diet",
+      "status": "ACTIVE"
+    },
+    "digital": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "direct": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "directory": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "discount": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "discover": {
+      "server": "whois.nic.discover",
+      "status": "ACTIVE"
+    },
+    "dish": {
+      "server": "whois.nic.dish",
+      "status": "ACTIVE"
+    },
+    "diy": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "dj": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dk": {
+      "server": "whois.punktum.dk",
+      "status": "ACTIVE"
+    },
+    "dm": {
+      "server": "whois.dmdomains.dm",
+      "status": "ACTIVE"
+    },
+    "dnp": {
+      "server": "whois.nic.dnp",
+      "status": "ACTIVE"
+    },
+    "do": {
+      "server": "whois.nic.do",
+      "status": "ACTIVE"
+    },
+    "docs": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "doctor": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dog": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "domains": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dot": {
+      "server": "whois.nic.dot",
+      "status": "ACTIVE"
+    },
+    "download": {
+      "server": "whois.nic.download",
+      "status": "ACTIVE"
+    },
+    "drive": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "dtv": {
+      "server": "whois.nic.dtv",
+      "status": "ACTIVE"
+    },
+    "dubai": {
+      "server": "whois.nic.dubai",
+      "status": "ACTIVE"
+    },
+    "dupont": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "durban": {
+      "server": "whois.nic.durban",
+      "status": "ACTIVE"
+    },
+    "dvag": {
+      "server": "whois.nic.dvag",
+      "status": "ACTIVE"
+    },
+    "dvr": {
+      "server": "whois.nic.dvr",
+      "status": "ACTIVE"
+    },
+    "dz": {
+      "server": "whois.nic.dz",
+      "status": "ACTIVE"
+    },
+    "earth": {
+      "server": "whois.nic.earth",
+      "status": "ACTIVE"
+    },
+    "eat": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ec": {
+      "server": "whois.nic.ec",
+      "status": "ACTIVE"
+    },
+    "eco": {
+      "server": "whois.nic.eco",
+      "status": "ACTIVE"
+    },
+    "edeka": {
+      "server": "whois.nic.edeka",
+      "status": "ACTIVE"
+    },
+    "edu": {
+      "server": "whois.educause.edu",
+      "status": "ACTIVE"
+    },
+    "education": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ee": {
+      "server": "whois.tld.ee",
+      "status": "ACTIVE"
+    },
+    "eg": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "email": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "emerck": {
+      "server": "whois.nic.emerck",
+      "status": "ACTIVE"
+    },
+    "energy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "engineer": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "engineering": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "enterprises": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "epson": {
+      "server": "whois.nic.epson",
+      "status": "ACTIVE"
+    },
+    "equipment": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "er": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ericsson": {
+      "server": "whois.nic.ericsson",
+      "status": "ACTIVE"
+    },
+    "erni": {
+      "server": "whois.nic.erni",
+      "status": "ACTIVE"
+    },
+    "es": {
+      "server": "whois.nic.es",
+      "status": "ACTIVE"
+    },
+    "esq": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "estate": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "et": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "eu": {
+      "server": "whois.eu",
+      "status": "ACTIVE"
+    },
+    "eurovision": {
+      "server": "whois.nic.eurovision",
+      "status": "ACTIVE"
+    },
+    "eus": {
+      "server": "whois.nic.eus",
+      "status": "ACTIVE"
+    },
+    "events": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "exchange": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "expert": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "exposed": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "express": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "extraspace": {
+      "server": "whois.nic.extraspace",
+      "status": "ACTIVE"
+    },
+    "fage": {
+      "server": "whois.nic.fage",
+      "status": "ACTIVE"
+    },
+    "fail": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fairwinds": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "faith": {
+      "server": "whois.nic.faith",
+      "status": "ACTIVE"
+    },
+    "family": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fan": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fans": {
+      "server": "whois.nic.fans",
+      "status": "ACTIVE"
+    },
+    "farm": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "farmers": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fashion": {
+      "server": "whois.nic.fashion",
+      "status": "ACTIVE"
+    },
+    "fast": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fedex": {
+      "server": "whois.nic.fedex",
+      "status": "ACTIVE"
+    },
+    "feedback": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "ferrari": {
+      "server": "whois.nic.ferrari",
+      "status": "ACTIVE"
+    },
+    "ferrero": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fi": {
+      "server": "whois.fi",
+      "status": "ACTIVE"
+    },
+    "fidelity": {
+      "server": "whois.nic.fidelity",
+      "status": "ACTIVE"
+    },
+    "fido": {
+      "server": "whois.nic.fido",
+      "status": "ACTIVE"
+    },
+    "film": {
+      "server": "whois.nic.film",
+      "status": "ACTIVE"
+    },
+    "final": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "finance": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "financial": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fire": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "firestone": {
+      "server": "whois.nic.firestone",
+      "status": "ACTIVE"
+    },
+    "firmdale": {
+      "server": "whois.nic.firmdale",
+      "status": "ACTIVE"
+    },
+    "fish": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fishing": {
+      "server": "whois.nic.fishing",
+      "status": "ACTIVE"
+    },
+    "fit": {
+      "server": "whois.nic.fit",
+      "status": "ACTIVE"
+    },
+    "fitness": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fj": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fk": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "flickr": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "flights": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "flir": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "florist": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "flowers": {
+      "server": "whois.nic.flowers",
+      "status": "ACTIVE"
+    },
+    "fly": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fm": {
+      "server": "whois.nic.fm",
+      "status": "ACTIVE"
+    },
+    "fo": {
+      "server": "whois.nic.fo",
+      "status": "ACTIVE"
+    },
+    "foo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "food": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "football": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ford": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "forex": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "forsale": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "forum": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "foundation": {
+      "server": "whois.nic.foundation",
+      "status": "ACTIVE"
+    },
+    "fox": {
+      "server": "whois.nic.fox",
+      "status": "ACTIVE"
+    },
+    "fr": {
+      "server": "whois.nic.fr",
+      "status": "ACTIVE"
+    },
+    "free": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fresenius": {
+      "server": "whois.nic.fresenius",
+      "status": "ACTIVE"
+    },
+    "frl": {
+      "server": "whois.nic.frl",
+      "status": "ACTIVE"
+    },
+    "frogans": {
+      "server": "whois.nic.frogans",
+      "status": "ACTIVE"
+    },
+    "frontier": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ftr": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fujitsu": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "fun": {
+      "server": "whois.nic.fun",
+      "status": "ACTIVE"
+    },
+    "fund": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "furniture": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "futbol": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "fyi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ga": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gal": {
+      "server": "whois.nic.gal",
+      "status": "ACTIVE"
+    },
+    "gallery": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gallo": {
+      "server": "whois.nic.gallo",
+      "status": "ACTIVE"
+    },
+    "gallup": {
+      "server": "whois.nic.gallup",
+      "status": "ACTIVE"
+    },
+    "game": {
+      "server": "whois.nic.game",
+      "status": "ACTIVE"
+    },
+    "games": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gap": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "garden": {
+      "server": "whois.nic.garden",
+      "status": "ACTIVE"
+    },
+    "gay": {
+      "server": "whois.nic.gay",
+      "status": "ACTIVE"
+    },
+    "gb": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gbiz": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gd": {
+      "server": "whois.nic.gd",
+      "status": "ACTIVE"
+    },
+    "gdn": {
+      "server": "whois.nic.gdn",
+      "status": "ACTIVE"
+    },
+    "ge": {
+      "server": "whois.nic.ge",
+      "status": "ACTIVE"
+    },
+    "gea": {
+      "server": "whois.nic.gea",
+      "status": "ACTIVE"
+    },
+    "gent": {
+      "server": "whois.nic.gent",
+      "status": "ACTIVE"
+    },
+    "genting": {
+      "server": "whois.nic.genting",
+      "status": "ACTIVE"
+    },
+    "george": {
+      "server": "whois.nic.george",
+      "status": "ACTIVE"
+    },
+    "gf": {
+      "server": "whois.mediaserv.net",
+      "status": "ACTIVE"
+    },
+    "gg": {
+      "server": "whois.gg",
+      "status": "ACTIVE"
+    },
+    "ggee": {
+      "server": "whois.nic.ggee",
+      "status": "ACTIVE"
+    },
+    "gh": {
+      "server": "whois.nic.gh",
+      "status": "ACTIVE"
+    },
+    "gi": {
+      "server": "whois.identitydigital.services",
+      "status": "ACTIVE"
+    },
+    "gift": {
+      "server": "whois.registry.gift",
+      "status": "ACTIVE"
+    },
+    "gifts": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gives": {
+      "server": "whois.nic.gives",
+      "status": "ACTIVE"
+    },
+    "giving": {
+      "server": "whois.nic.giving",
+      "status": "ACTIVE"
+    },
+    "gl": {
+      "server": "whois.nic.gl",
+      "status": "ACTIVE"
+    },
+    "glass": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gle": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "global": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "globo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gm": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gmail": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gmbh": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gmo": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "gmx": {
+      "server": "whois.nic.gmx",
+      "status": "ACTIVE"
+    },
+    "gn": {
+      "server": "whois.ande.gov.gn",
+      "status": "ACTIVE"
+    },
+    "godaddy": {
+      "server": "whois.nic.godaddy",
+      "status": "ACTIVE"
+    },
+    "gold": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "goldpoint": {
+      "server": "whois.nic.goldpoint",
+      "status": "ACTIVE"
+    },
+    "golf": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "goodyear": {
+      "server": "whois.nic.goodyear",
+      "status": "ACTIVE"
+    },
+    "goog": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "google": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gop": {
+      "server": "whois.nic.gop",
+      "status": "ACTIVE"
+    },
+    "got": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gov": {
+      "server": "whois.nic.gov",
+      "status": "ACTIVE"
+    },
+    "gp": {
+      "server": "whois.nic.gp",
+      "status": "ACTIVE"
+    },
+    "gq": {
+      "server": "whois.dominio.gq",
+      "status": "ACTIVE"
+    },
+    "gr": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "grainger": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "graphics": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gratis": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "green": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gripe": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "grocery": {
+      "server": "whois.nic.grocery",
+      "status": "ACTIVE"
+    },
+    "group": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gs": {
+      "server": "whois.nic.gs",
+      "status": "ACTIVE"
+    },
+    "gt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gu": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gucci": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "guge": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "guide": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "guitars": {
+      "server": "whois.nic.guitars",
+      "status": "ACTIVE"
+    },
+    "guru": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gw": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "gy": {
+      "server": "whois.registry.gy",
+      "status": "ACTIVE"
+    },
+    "hair": {
+      "server": "whois.nic.hair",
+      "status": "ACTIVE"
+    },
+    "hamburg": {
+      "server": "whois.nic.hamburg",
+      "status": "ACTIVE"
+    },
+    "hangout": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "haus": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "hbo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "hdfc": {
+      "server": "whois.nic.hdfc",
+      "status": "ACTIVE"
+    },
+    "hdfcbank": {
+      "server": "whois.nic.hdfcbank",
+      "status": "ACTIVE"
+    },
+    "health": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "healthcare": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "help": {
+      "server": "whois.nic.help",
+      "status": "ACTIVE"
+    },
+    "here": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "hermes": {
+      "server": "whois.nic.hermes",
+      "status": "ACTIVE"
+    },
+    "hiphop": {
+      "server": "whois.nic.hiphop",
+      "status": "ACTIVE"
+    },
+    "hisamitsu": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "hitachi": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "hiv": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "hk": {
+      "server": "whois.hkirc.hk",
+      "status": "ACTIVE"
+    },
+    "hkt": {
+      "server": "whois.nic.hkt",
+      "status": "ACTIVE"
+    },
+    "hm": {
+      "server": "whois.registry.hm",
+      "status": "ACTIVE"
+    },
+    "hn": {
+      "server": "whois.nic.hn",
+      "status": "ACTIVE"
+    },
+    "hockey": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "holdings": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "holiday": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "homedepot": {
+      "server": "whois.nic.homedepot",
+      "status": "ACTIVE"
+    },
+    "homegoods": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "homes": {
+      "server": "whois.nic.homes",
+      "status": "ACTIVE"
+    },
+    "homesense": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "honda": {
+      "server": "whois.nic.honda",
+      "status": "ACTIVE"
+    },
+    "horse": {
+      "server": "whois.nic.horse",
+      "status": "ACTIVE"
+    },
+    "hospital": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "host": {
+      "server": "whois.nic.host",
+      "status": "ACTIVE"
+    },
+    "hosting": {
+      "server": "whois.nic.hosting",
+      "status": "ACTIVE"
+    },
+    "hot": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "hotels": {
+      "server": "whois.nic.hotels",
+      "status": "ACTIVE"
+    },
+    "hotmail": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "house": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "how": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "hr": {
+      "server": "whois.dns.hr",
+      "status": "ACTIVE"
+    },
+    "hsbc": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ht": {
+      "server": "whois.nic.ht",
+      "status": "ACTIVE"
+    },
+    "hu": {
+      "server": "whois.nic.hu",
+      "status": "ACTIVE"
+    },
+    "hughes": {
+      "server": "whois.nic.hughes",
+      "status": "ACTIVE"
+    },
+    "hyatt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "hyundai": {
+      "server": "whois.nic.hyundai",
+      "status": "ACTIVE"
+    },
+    "ibm": {
+      "server": "whois.nic.ibm",
+      "status": "ACTIVE"
+    },
+    "icbc": {
+      "server": "whois.nic.icbc",
+      "status": "ACTIVE"
+    },
+    "ice": {
+      "server": "whois.nic.ice",
+      "status": "ACTIVE"
+    },
+    "icu": {
+      "server": "whois.nic.icu",
+      "status": "ACTIVE"
+    },
+    "id": {
+      "server": "whois.id",
+      "status": "ACTIVE"
+    },
+    "ie": {
+      "server": "whois.weare.ie",
+      "status": "ACTIVE"
+    },
+    "ieee": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ifm": {
+      "server": "whois.nic.ifm",
+      "status": "ACTIVE"
+    },
+    "ikano": {
+      "server": "whois.nic.ikano",
+      "status": "ACTIVE"
+    },
+    "il": {
+      "server": "whois.isoc.org.il",
+      "status": "ACTIVE"
+    },
+    "im": {
+      "server": "whois.nic.im",
+      "status": "ACTIVE"
+    },
+    "imamat": {
+      "server": "whois.nic.imamat",
+      "status": "ACTIVE"
+    },
+    "imdb": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "immo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "immobilien": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "in": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "inc": {
+      "server": "whois.nic.inc",
+      "status": "ACTIVE"
+    },
+    "industries": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "infiniti": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "info": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ing": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ink": {
+      "server": "whois.nic.ink",
+      "status": "ACTIVE"
+    },
+    "institute": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "insurance": {
+      "server": "whois.nic.insurance",
+      "status": "ACTIVE"
+    },
+    "insure": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "int": {
+      "server": "whois.iana.org",
+      "status": "ACTIVE"
+    },
+    "international": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "intuit": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "investments": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "io": {
+      "server": "whois.nic.io",
+      "status": "ACTIVE"
+    },
+    "ipiranga": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "iq": {
+      "server": "whois.cmc.iq",
+      "status": "ACTIVE"
+    },
+    "ir": {
+      "server": "whois.nic.ir",
+      "status": "ACTIVE"
+    },
+    "irish": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "is": {
+      "server": "whois.isnic.is",
+      "status": "ACTIVE"
+    },
+    "ismaili": {
+      "server": "whois.nic.ismaili",
+      "status": "ACTIVE"
+    },
+    "ist": {
+      "server": "whois.nic.ist",
+      "status": "ACTIVE"
+    },
+    "istanbul": {
+      "server": "whois.nic.istanbul",
+      "status": "ACTIVE"
+    },
+    "it": {
+      "server": "whois.nic.it",
+      "status": "ACTIVE"
+    },
+    "itau": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "itv": {
+      "server": "whois.nic.itv",
+      "status": "ACTIVE"
+    },
+    "jaguar": {
+      "server": "whois.nic.jaguar",
+      "status": "ACTIVE"
+    },
+    "java": {
+      "server": "whois.nic.java",
+      "status": "ACTIVE"
+    },
+    "jcb": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "je": {
+      "server": "whois.je",
+      "status": "ACTIVE"
+    },
+    "jeep": {
+      "server": "whois.nic.jeep",
+      "status": "ACTIVE"
+    },
+    "jetzt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jewelry": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jio": {
+      "server": "whois.nic.jio",
+      "status": "ACTIVE"
+    },
+    "jll": {
+      "server": "whois.nic.jll",
+      "status": "ACTIVE"
+    },
+    "jm": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jmp": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jnj": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jo": {
+      "server": "whois.nic.net.jo",
+      "status": "ACTIVE"
+    },
+    "jobs": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "joburg": {
+      "server": "whois.nic.joburg",
+      "status": "ACTIVE"
+    },
+    "jot": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "joy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jp": {
+      "server": "whois.jprs.jp",
+      "status": "ACTIVE"
+    },
+    "jpmorgan": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "jprs": {
+      "server": "whois.nic.jprs",
+      "status": "ACTIVE"
+    },
+    "juegos": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kaufen": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kddi": {
+      "server": "whois.nic.kddi",
+      "status": "ACTIVE"
+    },
+    "ke": {
+      "server": "whois.kenic.or.ke",
+      "status": "ACTIVE"
+    },
+    "kerryhotels": {
+      "server": "whois.nic.kerryhotels",
+      "status": "ACTIVE"
+    },
+    "kerryproperties": {
+      "server": "whois.nic.kerryproperties",
+      "status": "ACTIVE"
+    },
+    "kfh": {
+      "server": "whois.nic.kfh",
+      "status": "ACTIVE"
+    },
+    "kg": {
+      "server": "whois.kg",
+      "status": "ACTIVE"
+    },
+    "kh": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ki": {
+      "server": "whois.nic.ki",
+      "status": "ACTIVE"
+    },
+    "kia": {
+      "server": "whois.nic.kia",
+      "status": "ACTIVE"
+    },
+    "kids": {
+      "server": "whois.nic.kids",
+      "status": "ACTIVE"
+    },
+    "kim": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kindle": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kitchen": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kiwi": {
+      "server": "whois.nic.kiwi",
+      "status": "ACTIVE"
+    },
+    "km": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kn": {
+      "server": "whois.nic.kn",
+      "status": "ACTIVE"
+    },
+    "koeln": {
+      "server": "whois.ryce-rsp.com",
+      "status": "ACTIVE"
+    },
+    "komatsu": {
+      "server": "whois.nic.komatsu",
+      "status": "ACTIVE"
+    },
+    "kosher": {
+      "server": "whois.nic.kosher",
+      "status": "ACTIVE"
+    },
+    "kp": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kpmg": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kpn": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kr": {
+      "server": "whois.kr",
+      "status": "ACTIVE"
+    },
+    "krd": {
+      "server": "whois.nic.krd",
+      "status": "ACTIVE"
+    },
+    "kred": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "kuokgroup": {
+      "server": "whois.nic.kuokgroup",
+      "status": "ACTIVE"
+    },
+    "kw": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ky": {
+      "server": "whois.kyregistry.ky",
+      "status": "ACTIVE"
+    },
+    "kyoto": {
+      "server": "whois.nic.kyoto",
+      "status": "ACTIVE"
+    },
+    "kz": {
+      "server": "whois.nic.kz",
+      "status": "ACTIVE"
+    },
+    "la": {
+      "server": "whois.nic.la",
+      "status": "ACTIVE"
+    },
+    "lacaixa": {
+      "server": "whois.nic.lacaixa",
+      "status": "ACTIVE"
+    },
+    "lamborghini": {
+      "server": "whois.nic.lamborghini",
+      "status": "ACTIVE"
+    },
+    "lamer": {
+      "server": "whois.nic.lamer",
+      "status": "ACTIVE"
+    },
+    "land": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "landrover": {
+      "server": "whois.nic.landrover",
+      "status": "ACTIVE"
+    },
+    "lanxess": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lasalle": {
+      "server": "whois.nic.lasalle",
+      "status": "ACTIVE"
+    },
+    "lat": {
+      "server": "whois.nic.lat",
+      "status": "ACTIVE"
+    },
+    "latino": {
+      "server": "whois.nic.latino",
+      "status": "ACTIVE"
+    },
+    "latrobe": {
+      "server": "whois.nic.latrobe",
+      "status": "ACTIVE"
+    },
+    "law": {
+      "server": "whois.nic.law",
+      "status": "ACTIVE"
+    },
+    "lawyer": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lb": {
+      "server": "whois.lbdr.org.lb",
+      "status": "ACTIVE"
+    },
+    "lc": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lds": {
+      "server": "whois.nic.lds",
+      "status": "ACTIVE"
+    },
+    "lease": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "leclerc": {
+      "server": "whois.nic.leclerc",
+      "status": "ACTIVE"
+    },
+    "lefrak": {
+      "server": "whois.nic.lefrak",
+      "status": "ACTIVE"
+    },
+    "legal": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lego": {
+      "server": "whois.nic.lego",
+      "status": "ACTIVE"
+    },
+    "lexus": {
+      "server": "whois.nic.lexus",
+      "status": "ACTIVE"
+    },
+    "lgbt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "li": {
+      "server": "whois.nic.li",
+      "status": "ACTIVE"
+    },
+    "lidl": {
+      "server": "whois.nic.lidl",
+      "status": "ACTIVE"
+    },
+    "life": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lifeinsurance": {
+      "server": "whois.nic.lifeinsurance",
+      "status": "ACTIVE"
+    },
+    "lifestyle": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "lighting": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "like": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lilly": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "limited": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "limo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lincoln": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "link": {
+      "server": "whois.uniregistry.net",
+      "status": "ACTIVE"
+    },
+    "live": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "living": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "lk": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "llc": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "llp": {
+      "server": "whois.nic.llp",
+      "status": "ACTIVE"
+    },
+    "loan": {
+      "server": "whois.nic.loan",
+      "status": "ACTIVE"
+    },
+    "loans": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "locker": {
+      "server": "whois.nic.locker",
+      "status": "ACTIVE"
+    },
+    "locus": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "lol": {
+      "server": "whois.nic.lol",
+      "status": "ACTIVE"
+    },
+    "london": {
+      "server": "whois.nic.london",
+      "status": "ACTIVE"
+    },
+    "lotte": {
+      "server": "whois.nic.lotte",
+      "status": "ACTIVE"
+    },
+    "lotto": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "love": {
+      "server": "whois.nic.love",
+      "status": "ACTIVE"
+    },
+    "lpl": {
+      "server": "whois.nic.lpl",
+      "status": "ACTIVE"
+    },
+    "lplfinancial": {
+      "server": "whois.nic.lplfinancial",
+      "status": "ACTIVE"
+    },
+    "lr": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ls": {
+      "server": "whois.nic.ls",
+      "status": "ACTIVE"
+    },
+    "lt": {
+      "server": "whois.domreg.lt",
+      "status": "ACTIVE"
+    },
+    "ltd": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ltda": {
+      "server": "whois.nic.ltda",
+      "status": "ACTIVE"
+    },
+    "lu": {
+      "server": "whois.dns.lu",
+      "status": "ACTIVE"
+    },
+    "lundbeck": {
+      "server": "whois.nic.lundbeck",
+      "status": "ACTIVE"
+    },
+    "luxe": {
+      "server": "whois.nic.luxe",
+      "status": "ACTIVE"
+    },
+    "luxury": {
+      "server": "whois.nic.luxury",
+      "status": "ACTIVE"
+    },
+    "lv": {
+      "server": "whois.nic.lv",
+      "status": "ACTIVE"
+    },
+    "ly": {
+      "server": "whois.nic.ly",
+      "status": "ACTIVE"
+    },
+    "ma": {
+      "server": "whois.registre.ma",
+      "status": "ACTIVE"
+    },
+    "madrid": {
+      "server": "whois.nic.madrid",
+      "status": "ACTIVE"
+    },
+    "maif": {
+      "server": "whois.nic.maif",
+      "status": "ACTIVE"
+    },
+    "maison": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "makeup": {
+      "server": "whois.nic.makeup",
+      "status": "ACTIVE"
+    },
+    "man": {
+      "server": "whois.nic.man",
+      "status": "ACTIVE"
+    },
+    "management": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mango": {
+      "server": "whois.nic.mango",
+      "status": "ACTIVE"
+    },
+    "map": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "market": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "marketing": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "markets": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "marriott": {
+      "server": "whois.nic.marriott",
+      "status": "ACTIVE"
+    },
+    "marshalls": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mattel": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mba": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mc": {
+      "server": "whois.nic.mc",
+      "status": "ACTIVE"
+    },
+    "mckinsey": {
+      "server": "whois.nic.mckinsey",
+      "status": "ACTIVE"
+    },
+    "md": {
+      "server": "whois.nic.md",
+      "status": "ACTIVE"
+    },
+    "me": {
+      "server": "whois.nic.me",
+      "status": "ACTIVE"
+    },
+    "med": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "media": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "meet": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "melbourne": {
+      "server": "whois.nic.melbourne",
+      "status": "ACTIVE"
+    },
+    "meme": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "memorial": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "men": {
+      "server": "whois.nic.men",
+      "status": "ACTIVE"
+    },
+    "menu": {
+      "server": "whois.nic.menu",
+      "status": "ACTIVE"
+    },
+    "merck": {
+      "server": "whois.nic.merck",
+      "status": "ACTIVE"
+    },
+    "merckmsd": {
+      "server": "whois.nic.merckmsd",
+      "status": "ACTIVE"
+    },
+    "mg": {
+      "server": "whois.nic.mg",
+      "status": "ACTIVE"
+    },
+    "mh": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "miami": {
+      "server": "whois.nic.miami",
+      "status": "ACTIVE"
+    },
+    "microsoft": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mil": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mini": {
+      "server": "whois.nic.mini",
+      "status": "ACTIVE"
+    },
+    "mint": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mit": {
+      "server": "whois.nic.mit",
+      "status": "ACTIVE"
+    },
+    "mitsubishi": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "mk": {
+      "server": "whois.marnet.mk",
+      "status": "ACTIVE"
+    },
+    "ml": {
+      "server": "whois.nic.ml",
+      "status": "ACTIVE"
+    },
+    "mlb": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mls": {
+      "server": "whois.nic.mls",
+      "status": "ACTIVE"
+    },
+    "mm": {
+      "server": "whois.registry.gov.mm",
+      "status": "ACTIVE"
+    },
+    "mma": {
+      "server": "whois.nic.mma",
+      "status": "ACTIVE"
+    },
+    "mn": {
+      "server": "whois.nic.mn",
+      "status": "ACTIVE"
+    },
+    "mo": {
+      "server": "whois.monic.mo",
+      "status": "ACTIVE"
+    },
+    "mobi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mobile": {
+      "server": "whois.nic.mobile",
+      "status": "ACTIVE"
+    },
+    "moda": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "moe": {
+      "server": "whois.nic.moe",
+      "status": "ACTIVE"
+    },
+    "moi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mom": {
+      "server": "whois.nic.mom",
+      "status": "ACTIVE"
+    },
+    "monash": {
+      "server": "whois.nic.monash",
+      "status": "ACTIVE"
+    },
+    "money": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "monster": {
+      "server": "whois.nic.monster",
+      "status": "ACTIVE"
+    },
+    "mormon": {
+      "server": "whois.nic.mormon",
+      "status": "ACTIVE"
+    },
+    "mortgage": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "moscow": {
+      "server": "whois.nic.moscow",
+      "status": "ACTIVE"
+    },
+    "moto": {
+      "server": "whois.nic.moto",
+      "status": "ACTIVE"
+    },
+    "motorcycles": {
+      "server": "whois.nic.motorcycles",
+      "status": "ACTIVE"
+    },
+    "mov": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "movie": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mp": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mq": {
+      "server": "whois.mediaserv.net",
+      "status": "ACTIVE"
+    },
+    "mr": {
+      "server": "whois.nic.mr",
+      "status": "ACTIVE"
+    },
+    "ms": {
+      "server": "whois.nic.ms",
+      "status": "ACTIVE"
+    },
+    "msd": {
+      "server": "whois.nic.msd",
+      "status": "ACTIVE"
+    },
+    "mt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mtn": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mtr": {
+      "server": "whois.nic.mtr",
+      "status": "ACTIVE"
+    },
+    "mu": {
+      "server": "whois.tld.mu",
+      "status": "ACTIVE"
+    },
+    "museum": {
+      "server": "whois.nic.museum",
+      "status": "ACTIVE"
+    },
+    "music": {
+      "server": "whois.registryservices.music",
+      "status": "ACTIVE"
+    },
+    "mv": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "mw": {
+      "server": "whois.nic.mw",
+      "status": "ACTIVE"
+    },
+    "mx": {
+      "server": "whois.mx",
+      "status": "ACTIVE"
+    },
+    "my": {
+      "server": "whois.mynic.my",
+      "status": "ACTIVE"
+    },
+    "mz": {
+      "server": "whois.nic.mz",
+      "status": "ACTIVE"
+    },
+    "na": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nab": {
+      "server": "whois.nic.nab",
+      "status": "ACTIVE"
+    },
+    "nagoya": {
+      "server": "whois.nic.nagoya",
+      "status": "ACTIVE"
+    },
+    "name": {
+      "server": "whois.nic.name",
+      "status": "ACTIVE"
+    },
+    "navy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nba": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nc": {
+      "server": "whois.nc",
+      "status": "ACTIVE"
+    },
+    "ne": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nec": {
+      "server": "whois.nic.nec",
+      "status": "ACTIVE"
+    },
+    "net": {
+      "server": "whois.verisign-grs.com",
+      "status": "ACTIVE"
+    },
+    "netbank": {
+      "server": "whois.nic.netbank",
+      "status": "ACTIVE"
+    },
+    "netflix": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "network": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "neustar": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "new": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "news": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "next": {
+      "server": "whois.nic.next",
+      "status": "ACTIVE"
+    },
+    "nextdirect": {
+      "server": "whois.nic.nextdirect",
+      "status": "ACTIVE"
+    },
+    "nexus": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nf": {
+      "server": "whois.nic.nf",
+      "status": "ACTIVE"
+    },
+    "nfl": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ng": {
+      "server": "whois.nic.net.ng",
+      "status": "ACTIVE"
+    },
+    "ngo": {
+      "server": "whois.nic.ngo",
+      "status": "ACTIVE"
+    },
+    "nhk": {
+      "server": "whois.nic.nhk",
+      "status": "ACTIVE"
+    },
+    "ni": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nico": {
+      "server": "whois.nic.nico",
+      "status": "ACTIVE"
+    },
+    "nike": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nikon": {
+      "server": "whois.nic.nikon",
+      "status": "ACTIVE"
+    },
+    "ninja": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nissan": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "nissay": {
+      "server": "whois.nic.nissay",
+      "status": "ACTIVE"
+    },
+    "nl": {
+      "server": "whois.domain-registry.nl",
+      "status": "ACTIVE"
+    },
+    "no": {
+      "server": "whois.norid.no",
+      "status": "ACTIVE"
+    },
+    "nokia": {
+      "server": "whois.nic.nokia",
+      "status": "ACTIVE"
+    },
+    "norton": {
+      "server": "whois.nic.norton",
+      "status": "ACTIVE"
+    },
+    "now": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nowruz": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nowtv": {
+      "server": "whois.nic.nowtv",
+      "status": "ACTIVE"
+    },
+    "np": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nr": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "nra": {
+      "server": "whois.nic.nra",
+      "status": "ACTIVE"
+    },
+    "nrw": {
+      "server": "whois.nic.nrw",
+      "status": "ACTIVE"
+    },
+    "ntt": {
+      "server": "whois.nic.ntt",
+      "status": "ACTIVE"
+    },
+    "nu": {
+      "server": "whois.iis.nu",
+      "status": "ACTIVE"
+    },
+    "nyc": {
+      "server": "whois.nic.nyc",
+      "status": "ACTIVE"
+    },
+    "nz": {
+      "server": "whois.irs.net.nz",
+      "status": "ACTIVE"
+    },
+    "obi": {
+      "server": "whois.nic.obi",
+      "status": "ACTIVE"
+    },
+    "observer": {
+      "server": "whois.nic.observer",
+      "status": "ACTIVE"
+    },
+    "office": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "okinawa": {
+      "server": "whois.nic.okinawa",
+      "status": "ACTIVE"
+    },
+    "olayan": {
+      "server": "whois.nic.olayan",
+      "status": "ACTIVE"
+    },
+    "olayangroup": {
+      "server": "whois.nic.olayangroup",
+      "status": "ACTIVE"
+    },
+    "ollo": {
+      "server": "whois.nic.ollo",
+      "status": "ACTIVE"
+    },
+    "om": {
+      "server": "whois.registry.om",
+      "status": "ACTIVE"
+    },
+    "omega": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "one": {
+      "server": "whois.nic.one",
+      "status": "ACTIVE"
+    },
+    "ong": {
+      "server": "whois.nic.ong",
+      "status": "ACTIVE"
+    },
+    "onl": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "online": {
+      "server": "whois.nic.online",
+      "status": "ACTIVE"
+    },
+    "ooo": {
+      "server": "whois.nic.ooo",
+      "status": "ACTIVE"
+    },
+    "open": {
+      "server": "whois.nic.open",
+      "status": "ACTIVE"
+    },
+    "oracle": {
+      "server": "whois.nic.oracle",
+      "status": "ACTIVE"
+    },
+    "orange": {
+      "server": "whois.nic.orange",
+      "status": "ACTIVE"
+    },
+    "org": {
+      "server": "whois.publicinterestregistry.org",
+      "status": "ACTIVE"
+    },
+    "organic": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "origins": {
+      "server": "whois.nic.origins",
+      "status": "ACTIVE"
+    },
+    "osaka": {
+      "server": "whois.nic.osaka",
+      "status": "ACTIVE"
+    },
+    "otsuka": {
+      "server": "whois.nic.otsuka",
+      "status": "ACTIVE"
+    },
+    "ott": {
+      "server": "whois.nic.ott",
+      "status": "ACTIVE"
+    },
+    "ovh": {
+      "server": "whois.nic.ovh",
+      "status": "ACTIVE"
+    },
+    "pa": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "page": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "panasonic": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "paris": {
+      "server": "whois.nic.paris",
+      "status": "ACTIVE"
+    },
+    "pars": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "partners": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "parts": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "party": {
+      "server": "whois.nic.party",
+      "status": "ACTIVE"
+    },
+    "pay": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pccw": {
+      "server": "whois.nic.pccw",
+      "status": "ACTIVE"
+    },
+    "pe": {
+      "server": "kero.yachay.pe",
+      "status": "ACTIVE"
+    },
+    "pet": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pf": {
+      "server": "whois.registry.pf",
+      "status": "ACTIVE"
+    },
+    "pfizer": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pg": {
+      "server": "whois.nic.pg",
+      "status": "ACTIVE"
+    },
+    "ph": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pharmacy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "phd": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "philips": {
+      "server": "whois.nic.philips",
+      "status": "ACTIVE"
+    },
+    "phone": {
+      "server": "whois.nic.phone",
+      "status": "ACTIVE"
+    },
+    "photo": {
+      "server": "whois.nic.photo",
+      "status": "ACTIVE"
+    },
+    "photography": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "photos": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "physio": {
+      "server": "whois.nic.physio",
+      "status": "ACTIVE"
+    },
+    "pics": {
+      "server": "whois.nic.pics",
+      "status": "ACTIVE"
+    },
+    "pictet": {
+      "server": "whois.nic.pictet",
+      "status": "ACTIVE"
+    },
+    "pictures": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pid": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "pin": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ping": {
+      "server": "whois.nic.ping",
+      "status": "ACTIVE"
+    },
+    "pink": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pioneer": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pizza": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pk": {
+      "server": "whois.pknic.net.pk",
+      "status": "ACTIVE"
+    },
+    "pl": {
+      "server": "whois.dns.pl",
+      "status": "ACTIVE"
+    },
+    "place": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "play": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "playstation": {
+      "server": "whois.nic.playstation",
+      "status": "ACTIVE"
+    },
+    "plumbing": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "plus": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pm": {
+      "server": "whois.nic.pm",
+      "status": "ACTIVE"
+    },
+    "pn": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pnc": {
+      "server": "whois.nic.pnc",
+      "status": "ACTIVE"
+    },
+    "pohl": {
+      "server": "whois.nic.pohl",
+      "status": "ACTIVE"
+    },
+    "poker": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "politie": {
+      "server": "whois.nic.politie",
+      "status": "ACTIVE"
+    },
+    "porn": {
+      "server": "whois.nic.porn",
+      "status": "ACTIVE"
+    },
+    "post": {
+      "server": "whois.nic.post",
+      "status": "ACTIVE"
+    },
+    "pr": {
+      "server": "whois.afilias-srs.net",
+      "status": "ACTIVE"
+    },
+    "praxi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "press": {
+      "server": "whois.nic.press",
+      "status": "ACTIVE"
+    },
+    "prime": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pro": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "prod": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "productions": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "prof": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "progressive": {
+      "server": "whois.nic.progressive",
+      "status": "ACTIVE"
+    },
+    "promo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "properties": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "property": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "protection": {
+      "server": "whois.nic.protection",
+      "status": "ACTIVE"
+    },
+    "pru": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "prudential": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ps": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pt": {
+      "server": "whois.dns.pt",
+      "status": "ACTIVE"
+    },
+    "pub": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "pw": {
+      "server": "whois.nic.pw",
+      "status": "ACTIVE"
+    },
+    "pwc": {
+      "server": "whois.nic.pwc",
+      "status": "ACTIVE"
+    },
+    "py": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "qa": {
+      "server": "whois.registry.qa",
+      "status": "ACTIVE"
+    },
+    "qpon": {
+      "server": "whois.nic.qpon",
+      "status": "ACTIVE"
+    },
+    "quebec": {
+      "server": "whois.nic.quebec",
+      "status": "ACTIVE"
+    },
+    "quest": {
+      "server": "whois.nic.quest",
+      "status": "ACTIVE"
+    },
+    "racing": {
+      "server": "whois.nic.racing",
+      "status": "ACTIVE"
+    },
+    "radio": {
+      "server": "whois.nic.radio",
+      "status": "ACTIVE"
+    },
+    "re": {
+      "server": "whois.nic.re",
+      "status": "ACTIVE"
+    },
+    "read": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "realestate": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "realtor": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "realty": {
+      "server": "whois.nic.realty",
+      "status": "ACTIVE"
+    },
+    "recipes": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "red": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "redumbrella": {
+      "server": "whois.nic.redumbrella",
+      "status": "ACTIVE"
+    },
+    "rehab": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "reise": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "reisen": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "reit": {
+      "server": "whois.nic.reit",
+      "status": "ACTIVE"
+    },
+    "reliance": {
+      "server": "whois.nic.reliance",
+      "status": "ACTIVE"
+    },
+    "ren": {
+      "server": "whois.nic.ren",
+      "status": "ACTIVE"
+    },
+    "rent": {
+      "server": "whois.nic.rent",
+      "status": "ACTIVE"
+    },
+    "rentals": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "repair": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "report": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "republican": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "rest": {
+      "server": "whois.nic.rest",
+      "status": "ACTIVE"
+    },
+    "restaurant": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "review": {
+      "server": "whois.nic.review",
+      "status": "ACTIVE"
+    },
+    "reviews": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "rexroth": {
+      "server": "whois.nic.rexroth",
+      "status": "ACTIVE"
+    },
+    "rich": {
+      "server": "whois.nic.rich",
+      "status": "ACTIVE"
+    },
+    "richardli": {
+      "server": "whois.nic.richardli",
+      "status": "ACTIVE"
+    },
+    "ricoh": {
+      "server": "whois.nic.ricoh",
+      "status": "ACTIVE"
+    },
+    "ril": {
+      "server": "whois.nic.ril",
+      "status": "ACTIVE"
+    },
+    "rio": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "rip": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ro": {
+      "server": "whois.rotld.ro",
+      "status": "ACTIVE"
+    },
+    "rocks": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "rodeo": {
+      "server": "whois.nic.rodeo",
+      "status": "ACTIVE"
+    },
+    "rogers": {
+      "server": "whois.nic.rogers",
+      "status": "ACTIVE"
+    },
+    "room": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "rs": {
+      "server": "whois.rnids.rs",
+      "status": "ACTIVE"
+    },
+    "rsvp": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ru": {
+      "server": "whois.tcinet.ru",
+      "status": "ACTIVE"
+    },
+    "rugby": {
+      "server": "whois.nic.rugby",
+      "status": "ACTIVE"
+    },
+    "ruhr": {
+      "server": "whois.nic.ruhr",
+      "status": "ACTIVE"
+    },
+    "run": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "rw": {
+      "server": "whois.ricta.org.rw",
+      "status": "ACTIVE"
+    },
+    "rwe": {
+      "server": "whois.nic.rwe",
+      "status": "ACTIVE"
+    },
+    "ryukyu": {
+      "server": "whois.nic.ryukyu",
+      "status": "ACTIVE"
+    },
+    "sa": {
+      "server": "whois.nic.net.sa",
+      "status": "ACTIVE"
+    },
+    "saarland": {
+      "server": "whois.nic.saarland",
+      "status": "ACTIVE"
+    },
+    "safe": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "safety": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sakura": {
+      "server": "whois.nic.sakura",
+      "status": "ACTIVE"
+    },
+    "sale": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "salon": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "samsclub": {
+      "server": "whois.nic.samsclub",
+      "status": "ACTIVE"
+    },
+    "samsung": {
+      "server": "whois.nic.samsung",
+      "status": "ACTIVE"
+    },
+    "sandvik": {
+      "server": "whois.nic.sandvik",
+      "status": "ACTIVE"
+    },
+    "sandvikcoromant": {
+      "server": "whois.nic.sandvikcoromant",
+      "status": "ACTIVE"
+    },
+    "sanofi": {
+      "server": "whois.nic.sanofi",
+      "status": "ACTIVE"
+    },
+    "sap": {
+      "server": "whois.nic.sap",
+      "status": "ACTIVE"
+    },
+    "sarl": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sas": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "save": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "saxo": {
+      "server": "whois.nic.saxo",
+      "status": "ACTIVE"
+    },
+    "sb": {
+      "server": "whois.nic.net.sb",
+      "status": "ACTIVE"
+    },
+    "sbi": {
+      "server": "whois.nic.sbi",
+      "status": "ACTIVE"
+    },
+    "sbs": {
+      "server": "whois.nic.sbs",
+      "status": "ACTIVE"
+    },
+    "sc": {
+      "server": "whois.nic.sc",
+      "status": "ACTIVE"
+    },
+    "scb": {
+      "server": "whois.nic.scb",
+      "status": "ACTIVE"
+    },
+    "schaeffler": {
+      "server": "whois.afilias-srs.net",
+      "status": "ACTIVE"
+    },
+    "schmidt": {
+      "server": "whois.nic.schmidt",
+      "status": "ACTIVE"
+    },
+    "scholarships": {
+      "server": "whois.nic.scholarships",
+      "status": "ACTIVE"
+    },
+    "school": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "schule": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "schwarz": {
+      "server": "whois.nic.schwarz",
+      "status": "ACTIVE"
+    },
+    "science": {
+      "server": "whois.nic.science",
+      "status": "ACTIVE"
+    },
+    "scot": {
+      "server": "whois.nic.scot",
+      "status": "ACTIVE"
+    },
+    "sd": {
+      "server": "whois.nic.sd",
+      "status": "ACTIVE"
+    },
+    "se": {
+      "server": "whois.iis.se",
+      "status": "ACTIVE"
+    },
+    "search": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "seat": {
+      "server": "whois.nic.seat",
+      "status": "ACTIVE"
+    },
+    "secure": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "security": {
+      "server": "whois.nic.security",
+      "status": "ACTIVE"
+    },
+    "seek": {
+      "server": "whois.nic.seek",
+      "status": "ACTIVE"
+    },
+    "select": {
+      "server": "whois.nic.select",
+      "status": "ACTIVE"
+    },
+    "sener": {
+      "server": "whois.nic.rwe",
+      "status": "ACTIVE"
+    },
+    "services": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "seven": {
+      "server": "whois.nic.seven",
+      "status": "ACTIVE"
+    },
+    "sew": {
+      "server": "whois.nic.sew",
+      "status": "ACTIVE"
+    },
+    "sex": {
+      "server": "whois.nic.sex",
+      "status": "ACTIVE"
+    },
+    "sexy": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "sfr": {
+      "server": "whois.nic.sfr",
+      "status": "ACTIVE"
+    },
+    "sg": {
+      "server": "whois.sgnic.sg",
+      "status": "ACTIVE"
+    },
+    "sh": {
+      "server": "whois.nic.sh",
+      "status": "ACTIVE"
+    },
+    "shangrila": {
+      "server": "whois.nic.shangrila",
+      "status": "ACTIVE"
+    },
+    "sharp": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "shell": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "shia": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "shiksha": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "shoes": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "shop": {
+      "server": "whois.nic.shop",
+      "status": "ACTIVE"
+    },
+    "shopping": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "shouji": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "show": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "si": {
+      "server": "whois.register.si",
+      "status": "ACTIVE"
+    },
+    "silk": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sina": {
+      "server": "whois.nic.sina",
+      "status": "ACTIVE"
+    },
+    "singles": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "site": {
+      "server": "whois.nic.site",
+      "status": "ACTIVE"
+    },
+    "sj": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sk": {
+      "server": "whois.sk-nic.sk",
+      "status": "ACTIVE"
+    },
+    "ski": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "skin": {
+      "server": "whois.nic.skin",
+      "status": "ACTIVE"
+    },
+    "sky": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "skype": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sl": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sling": {
+      "server": "whois.nic.sling",
+      "status": "ACTIVE"
+    },
+    "sm": {
+      "server": "whois.nic.sm",
+      "status": "ACTIVE"
+    },
+    "smart": {
+      "server": "whois.nic.smart",
+      "status": "ACTIVE"
+    },
+    "smile": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sn": {
+      "server": "whois.nic.sn",
+      "status": "ACTIVE"
+    },
+    "sncf": {
+      "server": "whois.nic.sncf",
+      "status": "ACTIVE"
+    },
+    "so": {
+      "server": "whois.nic.so",
+      "status": "ACTIVE"
+    },
+    "soccer": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "social": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "softbank": {
+      "server": "whois.nic.softbank",
+      "status": "ACTIVE"
+    },
+    "software": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sohu": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "solar": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "solutions": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "song": {
+      "server": "whois.nic.song",
+      "status": "ACTIVE"
+    },
+    "sony": {
+      "server": "whois.nic.sony",
+      "status": "ACTIVE"
+    },
+    "soy": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "spa": {
+      "server": "whois.nic.spa",
+      "status": "ACTIVE"
+    },
+    "space": {
+      "server": "whois.nic.space",
+      "status": "ACTIVE"
+    },
+    "sport": {
+      "server": "whois.nic.sport",
+      "status": "ACTIVE"
+    },
+    "spot": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sr": {
+      "server": "whois.sr",
+      "status": "ACTIVE"
+    },
+    "srl": {
+      "server": "whois.nic.srl",
+      "status": "ACTIVE"
+    },
+    "ss": {
+      "server": "whois.nic.ss",
+      "status": "ACTIVE"
+    },
+    "st": {
+      "server": "whois.nic.st",
+      "status": "ACTIVE"
+    },
+    "stada": {
+      "server": "whois.nic.stada",
+      "status": "ACTIVE"
+    },
+    "staples": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "star": {
+      "server": "whois.nic.star",
+      "status": "ACTIVE"
+    },
+    "statebank": {
+      "server": "whois.nic.statebank",
+      "status": "ACTIVE"
+    },
+    "statefarm": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "stc": {
+      "server": "whois.nic.stc",
+      "status": "ACTIVE"
+    },
+    "stcgroup": {
+      "server": "whois.nic.stcgroup",
+      "status": "ACTIVE"
+    },
+    "stockholm": {
+      "server": "whois.nic.stockholm",
+      "status": "ACTIVE"
+    },
+    "storage": {
+      "server": "whois.nic.storage",
+      "status": "ACTIVE"
+    },
+    "store": {
+      "server": "whois.nic.store",
+      "status": "ACTIVE"
+    },
+    "stream": {
+      "server": "whois.nic.stream",
+      "status": "ACTIVE"
+    },
+    "studio": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "study": {
+      "server": "whois.nic.study",
+      "status": "ACTIVE"
+    },
+    "style": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "su": {
+      "server": "whois.tcinet.ru",
+      "status": "ACTIVE"
+    },
+    "sucks": {
+      "server": "whois.nic.sucks",
+      "status": "ACTIVE"
+    },
+    "supplies": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "supply": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "support": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "surf": {
+      "server": "whois.nic.surf",
+      "status": "ACTIVE"
+    },
+    "surgery": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "suzuki": {
+      "server": "whois.nic.suzuki",
+      "status": "ACTIVE"
+    },
+    "sv": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "swatch": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "swiss": {
+      "server": "whois.nic.swiss",
+      "status": "ACTIVE"
+    },
+    "sx": {
+      "server": "whois.sx",
+      "status": "ACTIVE"
+    },
+    "sy": {
+      "server": "whois.tld.sy",
+      "status": "ACTIVE"
+    },
+    "sydney": {
+      "server": "whois.nic.sydney",
+      "status": "ACTIVE"
+    },
+    "systems": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "sz": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tab": {
+      "server": "whois.nic.tab",
+      "status": "ACTIVE"
+    },
+    "taipei": {
+      "server": "whois.nic.taipei",
+      "status": "ACTIVE"
+    },
+    "talk": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "taobao": {
+      "server": "whois.nic.taobao",
+      "status": "ACTIVE"
+    },
+    "target": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tatamotors": {
+      "server": "whois.nic.tatamotors",
+      "status": "ACTIVE"
+    },
+    "tatar": {
+      "server": "whois.nic.tatar",
+      "status": "ACTIVE"
+    },
+    "tattoo": {
+      "server": "whois.nic.tattoo",
+      "status": "ACTIVE"
+    },
+    "tax": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "taxi": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tc": {
+      "server": "whois.nic.tc",
+      "status": "ACTIVE"
+    },
+    "tci": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "td": {
+      "server": "whois.nic.td",
+      "status": "ACTIVE"
+    },
+    "tdk": {
+      "server": "whois.nic.tdk",
+      "status": "ACTIVE"
+    },
+    "team": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tech": {
+      "server": "whois.nic.tech",
+      "status": "ACTIVE"
+    },
+    "technology": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tel": {
+      "server": "whois.nic.tel",
+      "status": "ACTIVE"
+    },
+    "temasek": {
+      "server": "whois.nic.temasek",
+      "status": "ACTIVE"
+    },
+    "tennis": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "teva": {
+      "server": "whois.nic.teva",
+      "status": "ACTIVE"
+    },
+    "tf": {
+      "server": "whois.nic.tf",
+      "status": "ACTIVE"
+    },
+    "tg": {
+      "server": "whois.nic.tg",
+      "status": "ACTIVE"
+    },
+    "th": {
+      "server": "whois.thnic.co.th",
+      "status": "ACTIVE"
+    },
+    "thd": {
+      "server": "whois.nic.thd",
+      "status": "ACTIVE"
+    },
+    "theater": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "theatre": {
+      "server": "whois.nic.theatre",
+      "status": "ACTIVE"
+    },
+    "tiaa": {
+      "server": "whois.nic.tiaa",
+      "status": "ACTIVE"
+    },
+    "tickets": {
+      "server": "whois.nic.tickets",
+      "status": "ACTIVE"
+    },
+    "tienda": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tips": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tires": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tirol": {
+      "server": "whois.nic.tirol",
+      "status": "ACTIVE"
+    },
+    "tj": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tjmaxx": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tjx": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tk": {
+      "server": "whois.dot.tk",
+      "status": "ACTIVE"
+    },
+    "tkmaxx": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tl": {
+      "server": "whois.nic.tl",
+      "status": "ACTIVE"
+    },
+    "tm": {
+      "server": "whois.nic.tm",
+      "status": "ACTIVE"
+    },
+    "tmall": {
+      "server": "whois.nic.tmall",
+      "status": "ACTIVE"
+    },
+    "tn": {
+      "server": "whois.ati.tn",
+      "status": "ACTIVE"
+    },
+    "to": {
+      "server": "whois.tonicregistry.to",
+      "status": "ACTIVE"
+    },
+    "today": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tokyo": {
+      "server": "whois.nic.tokyo",
+      "status": "ACTIVE"
+    },
+    "tools": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "top": {
+      "server": "whois.nic.top",
+      "status": "ACTIVE"
+    },
+    "toray": {
+      "server": "whois.nic.toray",
+      "status": "ACTIVE"
+    },
+    "toshiba": {
+      "server": "whois.nic.toshiba",
+      "status": "ACTIVE"
+    },
+    "total": {
+      "server": "whois.nic.total",
+      "status": "ACTIVE"
+    },
+    "tours": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "town": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "toyota": {
+      "server": "whois.nic.toyota",
+      "status": "ACTIVE"
+    },
+    "toys": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tr": {
+      "server": "whois.trabis.gov.tr",
+      "status": "ACTIVE"
+    },
+    "trade": {
+      "server": "whois.nic.trade",
+      "status": "ACTIVE"
+    },
+    "trading": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "training": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "travel": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "travelers": {
+      "server": "whois.nic.travelers",
+      "status": "ACTIVE"
+    },
+    "travelersinsurance": {
+      "server": "whois.nic.travelersinsurance",
+      "status": "ACTIVE"
+    },
+    "trust": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "trv": {
+      "server": "whois.nic.trv",
+      "status": "ACTIVE"
+    },
+    "tt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tube": {
+      "server": "whois.nic.tube",
+      "status": "ACTIVE"
+    },
+    "tui": {
+      "server": "whois.nic.tui",
+      "status": "ACTIVE"
+    },
+    "tunes": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tushu": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "tv": {
+      "server": "whois.nic.tv",
+      "status": "ACTIVE"
+    },
+    "tvs": {
+      "server": "whois.nic.tvs",
+      "status": "ACTIVE"
+    },
+    "tw": {
+      "server": "whois.twnic.net.tw",
+      "status": "ACTIVE"
+    },
+    "tz": {
+      "server": "whois.tznic.or.tz",
+      "status": "ACTIVE"
+    },
+    "ua": {
+      "server": "whois.ua",
+      "status": "ACTIVE"
+    },
+    "ubank": {
+      "server": "whois.nic.ubank",
+      "status": "ACTIVE"
+    },
+    "ubs": {
+      "server": "whois.nic.ubs",
+      "status": "ACTIVE"
+    },
+    "ug": {
+      "server": "whois.co.ug",
+      "status": "ACTIVE"
+    },
+    "uk": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "unicom": {
+      "server": "whois.nic.unicom",
+      "status": "ACTIVE"
+    },
+    "university": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "uno": {
+      "server": "whois.nic.uno",
+      "status": "ACTIVE"
+    },
+    "uol": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ups": {
+      "server": "whois.nic.ups",
+      "status": "ACTIVE"
+    },
+    "us": {
+      "server": "whois.nic.us",
+      "status": "ACTIVE"
+    },
+    "uy": {
+      "server": "whois.nic.org.uy",
+      "status": "ACTIVE"
+    },
+    "uz": {
+      "server": "whois.cctld.uz",
+      "status": "ACTIVE"
+    },
+    "va": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vacations": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vana": {
+      "server": "whois.registry.click",
+      "status": "ACTIVE"
+    },
+    "vanguard": {
+      "server": "whois.nic.vanguard",
+      "status": "ACTIVE"
+    },
+    "vc": {
+      "server": "whois.identitydigital.services",
+      "status": "ACTIVE"
+    },
+    "ve": {
+      "server": "whois.nic.ve",
+      "status": "ACTIVE"
+    },
+    "vegas": {
+      "server": "whois.nic.vegas",
+      "status": "ACTIVE"
+    },
+    "ventures": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "verisign": {
+      "server": "whois.nic.verisign",
+      "status": "ACTIVE"
+    },
+    "versicherung": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vet": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vg": {
+      "server": "whois.nic.vg",
+      "status": "ACTIVE"
+    },
+    "vi": {
+      "server": "virgil.nic.vi",
+      "status": "ACTIVE"
+    },
+    "viajes": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "video": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vig": {
+      "server": "whois.nic.vig",
+      "status": "ACTIVE"
+    },
+    "viking": {
+      "server": "whois.nic.viking",
+      "status": "ACTIVE"
+    },
+    "villas": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vin": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vip": {
+      "server": "whois.nic.vip",
+      "status": "ACTIVE"
+    },
+    "virgin": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "visa": {
+      "server": "whois.nic.visa",
+      "status": "ACTIVE"
+    },
+    "vision": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "viva": {
+      "server": "whois.nic.viva",
+      "status": "ACTIVE"
+    },
+    "vivo": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vlaanderen": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vn": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vodka": {
+      "server": "whois.nic.vodka",
+      "status": "ACTIVE"
+    },
+    "volvo": {
+      "server": "whois.nic.volvo",
+      "status": "ACTIVE"
+    },
+    "vote": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "voting": {
+      "server": "whois.nic.voting",
+      "status": "ACTIVE"
+    },
+    "voto": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "voyage": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "vu": {
+      "server": "whois.dnrs.vu",
+      "status": "ACTIVE"
+    },
+    "wales": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "walmart": {
+      "server": "whois.nic.walmart",
+      "status": "ACTIVE"
+    },
+    "walter": {
+      "server": "whois.nic.walter",
+      "status": "ACTIVE"
+    },
+    "wang": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "wanggou": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "watch": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "watches": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "weather": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "weatherchannel": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "web": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "webcam": {
+      "server": "whois.nic.webcam",
+      "status": "ACTIVE"
+    },
+    "weber": {
+      "server": "whois.nic.weber",
+      "status": "ACTIVE"
+    },
+    "website": {
+      "server": "whois.nic.website",
+      "status": "ACTIVE"
+    },
+    "wed": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "wedding": {
+      "server": "whois.nic.wedding",
+      "status": "ACTIVE"
+    },
+    "weibo": {
+      "server": "whois.nic.weibo",
+      "status": "ACTIVE"
+    },
+    "weir": {
+      "server": "whois.nic.weir",
+      "status": "ACTIVE"
+    },
+    "wf": {
+      "server": "whois.nic.wf",
+      "status": "ACTIVE"
+    },
+    "whoswho": {
+      "server": "whois.nic.whoswho",
+      "status": "ACTIVE"
+    },
+    "wien": {
+      "server": "whois.nic.wien",
+      "status": "ACTIVE"
+    },
+    "wiki": {
+      "server": "whois.nic.wiki",
+      "status": "ACTIVE"
+    },
+    "williamhill": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "win": {
+      "server": "whois.nic.win",
+      "status": "ACTIVE"
+    },
+    "windows": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "wine": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "winners": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "wme": {
+      "server": "whois.nic.wme",
+      "status": "ACTIVE"
+    },
+    "woodside": {
+      "server": "whois.nic.woodside",
+      "status": "ACTIVE"
+    },
+    "work": {
+      "server": "whois.nic.work",
+      "status": "ACTIVE"
+    },
+    "works": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "world": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "wow": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "ws": {
+      "server": "whois.website.ws",
+      "status": "ACTIVE"
+    },
+    "wtc": {
+      "server": "whois.nic.wtc",
+      "status": "ACTIVE"
+    },
+    "wtf": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xbox": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xerox": {
+      "server": "whois.nic.xerox",
+      "status": "ACTIVE"
+    },
+    "xihuan": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "xin": {
+      "server": "whois.nic.xin",
+      "status": "ACTIVE"
+    },
+    "xn--11b4c3d": {
+      "server": "whois.nic.xn--11b4c3d",
+      "status": "ACTIVE"
+    },
+    "xn--1ck2e1b": {
+      "server": "whois.nic.xn--1ck2e1b",
+      "status": "ACTIVE"
+    },
+    "xn--1qqw23a": {
+      "server": "whois.ngtld.cn",
+      "status": "ACTIVE"
+    },
+    "xn--2scrj9c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--30rr7y": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--3bst00m": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--3ds443g": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "xn--3e0b707e": {
+      "server": "whois.kr",
+      "status": "ACTIVE"
+    },
+    "xn--3hcrj9c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--3pxu8k": {
+      "server": "whois.nic.xn--3pxu8k",
+      "status": "ACTIVE"
+    },
+    "xn--42c2d9a": {
+      "server": "whois.nic.xn--42c2d9a",
+      "status": "ACTIVE"
+    },
+    "xn--45br5cyl": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--45brj9c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--45q11c": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--4dbrk0ce": {
+      "server": "whois.isoc.org.il",
+      "status": "ACTIVE"
+    },
+    "xn--4gbrim": {
+      "server": "whois.nic.xn--4gbrim",
+      "status": "ACTIVE"
+    },
+    "xn--54b7fta0cc": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--55qw42g": {
+      "server": "whois.nic.xn--55qw42g",
+      "status": "ACTIVE"
+    },
+    "xn--55qx5d": {
+      "server": "whois.ngtld.cn",
+      "status": "ACTIVE"
+    },
+    "xn--5su34j936bgsg": {
+      "server": "whois.nic.xn--5su34j936bgsg",
+      "status": "ACTIVE"
+    },
+    "xn--5tzm5g": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--6frz82g": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--6qq986b3xl": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--80adxhks": {
+      "server": "whois.nic.xn--80adxhks",
+      "status": "ACTIVE"
+    },
+    "xn--80ao21a": {
+      "server": "whois.nic.kz",
+      "status": "ACTIVE"
+    },
+    "xn--80aqecdr1a": {
+      "server": "whois.nic.xn--80aqecdr1a",
+      "status": "ACTIVE"
+    },
+    "xn--80asehdb": {
+      "server": "whois.nic.xn--80asehdb",
+      "status": "ACTIVE"
+    },
+    "xn--80aswg": {
+      "server": "whois.nic.xn--80aswg",
+      "status": "ACTIVE"
+    },
+    "xn--8y0a063a": {
+      "server": "whois.nic.xn--8y0a063a",
+      "status": "ACTIVE"
+    },
+    "xn--90a3ac": {
+      "server": "whois.rnids.rs",
+      "status": "ACTIVE"
+    },
+    "xn--90ae": {
+      "server": "whois.imena.bg",
+      "status": "ACTIVE"
+    },
+    "xn--90ais": {
+      "server": "whois.cctld.by",
+      "status": "ACTIVE"
+    },
+    "xn--9dbq2a": {
+      "server": "whois.nic.xn--9dbq2a",
+      "status": "ACTIVE"
+    },
+    "xn--9et52u": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--9krt00a": {
+      "server": "whois.nic.xn--9krt00a",
+      "status": "ACTIVE"
+    },
+    "xn--b4w605ferd": {
+      "server": "whois.nic.xn--b4w605ferd",
+      "status": "ACTIVE"
+    },
+    "xn--bck1b9a5dre4c": {
+      "server": "whois.nic.xn--bck1b9a5dre4c",
+      "status": "ACTIVE"
+    },
+    "xn--c1avg": {
+      "server": "whois.nic.xn--c1avg",
+      "status": "ACTIVE"
+    },
+    "xn--c2br7g": {
+      "server": "whois.nic.xn--c2br7g",
+      "status": "ACTIVE"
+    },
+    "xn--cck2b3b": {
+      "server": "whois.nic.xn--cck2b3b",
+      "status": "ACTIVE"
+    },
+    "xn--cckwcxetd": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--cg4bki": {
+      "server": "whois.kr",
+      "status": "ACTIVE"
+    },
+    "xn--clchc0ea0b2g2a9gcd": {
+      "server": "whois.ta.sgnic.sg",
+      "status": "ACTIVE"
+    },
+    "xn--czr694b": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--czrs0t": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--czru2d": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--d1acj3b": {
+      "server": "whois.nic.xn--d1acj3b",
+      "status": "ACTIVE"
+    },
+    "xn--d1alf": {
+      "server": "whois.marnet.mk",
+      "status": "ACTIVE"
+    },
+    "xn--e1a4c": {
+      "server": "whois.eu",
+      "status": "ACTIVE"
+    },
+    "xn--eckvdtc9d": {
+      "server": "whois.nic.xn--eckvdtc9d",
+      "status": "ACTIVE"
+    },
+    "xn--efvy88h": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--fct429k": {
+      "server": "whois.nic.xn--fct429k",
+      "status": "ACTIVE"
+    },
+    "xn--fhbei": {
+      "server": "whois.nic.xn--fhbei",
+      "status": "ACTIVE"
+    },
+    "xn--fiq228c5hs": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "xn--fiq64b": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--fiqs8s": {
+      "server": "whois.cnnic.cn",
+      "status": "ACTIVE"
+    },
+    "xn--fiqz9s": {
+      "server": "whois.cnnic.cn",
+      "status": "ACTIVE"
+    },
+    "xn--fjq720a": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--flw351e": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--fpcrj9c3d": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--fzc2c9e2c": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--fzys8d69uvgm": {
+      "server": "whois.nic.xn--fzys8d69uvgm",
+      "status": "ACTIVE"
+    },
+    "xn--g2xx48c": {
+      "server": "whois.nic.xn--g2xx48c",
+      "status": "ACTIVE"
+    },
+    "xn--gckr3f0f": {
+      "server": "whois.nic.xn--gckr3f0f",
+      "status": "ACTIVE"
+    },
+    "xn--gecrj9c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--gk3at1e": {
+      "server": "whois.nic.xn--gk3at1e",
+      "status": "ACTIVE"
+    },
+    "xn--h2breg3eve": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--h2brj9c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--h2brj9c8c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--hxt814e": {
+      "server": "whois.gtld.zdns.cn",
+      "status": "ACTIVE"
+    },
+    "xn--i1b6b1a6a2e": {
+      "server": "whois.nic.xn--i1b6b1a6a2e",
+      "status": "ACTIVE"
+    },
+    "xn--imr513n": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--io0a7i": {
+      "server": "whois.ngtld.cn",
+      "status": "ACTIVE"
+    },
+    "xn--j1aef": {
+      "server": "whois.nic.xn--j1aef",
+      "status": "ACTIVE"
+    },
+    "xn--j1amh": {
+      "server": "whois.dotukr.com",
+      "status": "ACTIVE"
+    },
+    "xn--j6w193g": {
+      "server": "whois.hkirc.hk",
+      "status": "ACTIVE"
+    },
+    "xn--jlq480n2rg": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--jvr189m": {
+      "server": "whois.nic.xn--jvr189m",
+      "status": "ACTIVE"
+    },
+    "xn--kcrx77d1x4a": {
+      "server": "whois.nic.xn--kcrx77d1x4a",
+      "status": "ACTIVE"
+    },
+    "xn--kprw13d": {
+      "server": "whois.twnic.net.tw",
+      "status": "ACTIVE"
+    },
+    "xn--kpry57d": {
+      "server": "whois.twnic.net.tw",
+      "status": "ACTIVE"
+    },
+    "xn--kput3i": {
+      "server": "whois.nic.xn--kput3i",
+      "status": "ACTIVE"
+    },
+    "xn--l1acc": {
+      "server": "whois.mn",
+      "status": "ACTIVE"
+    },
+    "xn--lgbbat1ad8j": {
+      "server": "whois.nic.dz",
+      "status": "ACTIVE"
+    },
+    "xn--mgb9awbf": {
+      "server": "whois.registry.om",
+      "status": "ACTIVE"
+    },
+    "xn--mgba3a3ejt": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--mgba3a4f16a": {
+      "server": "whois.nic.ir",
+      "status": "ACTIVE"
+    },
+    "xn--mgba7c0bbn0a": {
+      "server": "whois.nic.xn--mgba7c0bbn0a",
+      "status": "ACTIVE"
+    },
+    "xn--mgbaam7a8h": {
+      "server": "whois.aeda.net.ae",
+      "status": "ACTIVE"
+    },
+    "xn--mgbab2bd": {
+      "server": "whois.nic.xn--mgbab2bd",
+      "status": "ACTIVE"
+    },
+    "xn--mgbah1a3hjkrd": {
+      "server": "whois.nic.mr",
+      "status": "ACTIVE"
+    },
+    "xn--mgbai9azgqp6j": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--mgbayh7gpa": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--mgbbh1a": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--mgbbh1a71e": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--mgbc0a9azcg": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--mgbca7dzdo": {
+      "server": "whois.nic.xn--mgbca7dzdo",
+      "status": "ACTIVE"
+    },
+    "xn--mgbcpq6gpa1a": {
+      "server": "whois.bhregistry.bh",
+      "status": "ACTIVE"
+    },
+    "xn--mgberp4a5d4ar": {
+      "server": "whois.nic.net.sa",
+      "status": "ACTIVE"
+    },
+    "xn--mgbgu82a": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--mgbi4ecexp": {
+      "server": "whois.nic.xn--mgbi4ecexp",
+      "status": "ACTIVE"
+    },
+    "xn--mgbpl2fh": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--mgbt3dhd": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--mgbtx2b": {
+      "server": "whois.cmc.iq",
+      "status": "ACTIVE"
+    },
+    "xn--mgbx4cd0ab": {
+      "server": "whois.mynic.my",
+      "status": "ACTIVE"
+    },
+    "xn--mix891f": {
+      "server": "whois.monic.mo",
+      "status": "ACTIVE"
+    },
+    "xn--mk1bu44c": {
+      "server": "whois.nic.xn--mk1bu44c",
+      "status": "ACTIVE"
+    },
+    "xn--mxtq1m": {
+      "server": "whois.nic.xn--mxtq1m",
+      "status": "ACTIVE"
+    },
+    "xn--ngbc5azd": {
+      "server": "whois.nic.xn--ngbc5azd",
+      "status": "ACTIVE"
+    },
+    "xn--ngbe9e0a": {
+      "server": "whois.nic.xn--ngbe9e0a",
+      "status": "ACTIVE"
+    },
+    "xn--ngbrx": {
+      "server": "whois.nic.xn--ngbrx",
+      "status": "ACTIVE"
+    },
+    "xn--node": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--nqv7f": {
+      "server": "whois.nic.xn--nqv7f",
+      "status": "ACTIVE"
+    },
+    "xn--nqv7fs00ema": {
+      "server": "whois.nic.xn--nqv7fs00ema",
+      "status": "ACTIVE"
+    },
+    "xn--nyqy26a": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--o3cw4h": {
+      "server": "whois.thnic.co.th",
+      "status": "ACTIVE"
+    },
+    "xn--ogbpf8fl": {
+      "server": "whois.tld.sy",
+      "status": "ACTIVE"
+    },
+    "xn--otu796d": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--p1acf": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--p1ai": {
+      "server": "whois.tcinet.ru",
+      "status": "ACTIVE"
+    },
+    "xn--pgbs0dh": {
+      "server": "whois.ati.tn",
+      "status": "ACTIVE"
+    },
+    "xn--pssy2u": {
+      "server": "whois.nic.xn--pssy2u",
+      "status": "ACTIVE"
+    },
+    "xn--q7ce6a": {
+      "server": "whois.nic.la",
+      "status": "ACTIVE"
+    },
+    "xn--q9jyb4c": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--qcka1pmc": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--qxa6a": {
+      "server": "whois.eu",
+      "status": "ACTIVE"
+    },
+    "xn--qxam": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--rhqv96g": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--rovu88b": {
+      "server": "whois.nic.xn--rovu88b",
+      "status": "ACTIVE"
+    },
+    "xn--rvc1e0am3e": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--s9brj9c": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--ses554g": {
+      "server": "whois.nic.xn--ses554g",
+      "status": "ACTIVE"
+    },
+    "xn--t60b56a": {
+      "server": "whois.nic.xn--t60b56a",
+      "status": "ACTIVE"
+    },
+    "xn--tckwe": {
+      "server": "whois.nic.xn--tckwe",
+      "status": "ACTIVE"
+    },
+    "xn--tiq49xqyj": {
+      "server": "whois.nic.xn--tiq49xqyj",
+      "status": "ACTIVE"
+    },
+    "xn--unup4y": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--vermgensberater-ctb": {
+      "server": "whois.nic.xn--vermgensberater-ctb",
+      "status": "ACTIVE"
+    },
+    "xn--vermgensberatung-pwb": {
+      "server": "whois.nic.xn--vermgensberatung-pwb",
+      "status": "ACTIVE"
+    },
+    "xn--vhquv": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--vuq861b": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "xn--w4r85el8fhu5dnra": {
+      "server": "whois.nic.xn--w4r85el8fhu5dnra",
+      "status": "ACTIVE"
+    },
+    "xn--w4rs40l": {
+      "server": "whois.nic.xn--w4rs40l",
+      "status": "ACTIVE"
+    },
+    "xn--wgbh1c": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--wgbl6a": {
+      "server": "whois.registry.qa",
+      "status": "ACTIVE"
+    },
+    "xn--xhq521b": {
+      "server": "whois.ngtld.cn",
+      "status": "ACTIVE"
+    },
+    "xn--xkc2al3hye2a": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "xn--xkc2dl3a5ee0h": {
+      "server": "whois.nixiregistry.in",
+      "status": "ACTIVE"
+    },
+    "xn--y9a3aq": {
+      "server": "whois.amnic.net",
+      "status": "ACTIVE"
+    },
+    "xn--yfro4i67o": {
+      "server": "whois.zh.sgnic.sg",
+      "status": "ACTIVE"
+    },
+    "xn--ygbi2ammx": {
+      "server": "whois.pnina.ps",
+      "status": "ACTIVE"
+    },
+    "xn--zfr164b": {
+      "server": "whois.nic.xn--zfr164b",
+      "status": "ACTIVE"
+    },
+    "xxx": {
+      "server": "whois.nic.xxx",
+      "status": "ACTIVE"
+    },
+    "xyz": {
+      "server": "whois.nic.xyz",
+      "status": "ACTIVE"
+    },
+    "yachts": {
+      "server": "whois.nic.yachts",
+      "status": "ACTIVE"
+    },
+    "yahoo": {
+      "server": "whois.nic.yahoo",
+      "status": "ACTIVE"
+    },
+    "yamaxun": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "yandex": {
+      "server": "whois.nic.yandex",
+      "status": "ACTIVE"
+    },
+    "ye": {
+      "server": "whois.y.net.ye",
+      "status": "ACTIVE"
+    },
+    "yodobashi": {
+      "server": "whois.nic.gmo",
+      "status": "ACTIVE"
+    },
+    "yoga": {
+      "server": "whois.nic.yoga",
+      "status": "ACTIVE"
+    },
+    "yokohama": {
+      "server": "whois.nic.yokohama",
+      "status": "ACTIVE"
+    },
+    "you": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "youtube": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "yt": {
+      "server": "whois.nic.yt",
+      "status": "ACTIVE"
+    },
+    "yun": {
+      "server": "whois.teleinfo.cn",
+      "status": "ACTIVE"
+    },
+    "za": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "zappos": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "zara": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "zero": {
+      "server": "whois.nic.zero",
+      "status": "ACTIVE"
+    },
+    "zip": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "zm": {
+      "server": "whois.zicta.zm",
+      "status": "ACTIVE"
+    },
+    "zone": {
+      "server": null,
+      "status": "ACTIVE"
+    },
+    "zuerich": {
+      "server": "whois.nic.zuerich",
+      "status": "ACTIVE"
+    },
+    "zw": {
+      "server": null,
+      "status": "ACTIVE"
+    }
+  }
+}

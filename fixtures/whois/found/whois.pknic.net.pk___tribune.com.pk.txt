@@ -1,0 +1,16 @@
+###%%% QRY: tribune.com.pk
+###%%% SRV: whois.pknic.net.pk
+###%%% TME: 2026-07-16T11:44:56Z
+
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: tribune.com.pk
+    Status: Domain is Registered
+    
+
+    Creation Date: 2010-03-18
+    Expiry Date: 2032-03-18
+    Name Server: greg.ns.cloudflare.com
+    Name Server: jill.ns.cloudflare.com
+    Name Server: 
+    Name Server:

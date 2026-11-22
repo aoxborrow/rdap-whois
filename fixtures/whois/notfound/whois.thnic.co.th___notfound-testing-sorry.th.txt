@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.th
+###%%% SRV: whois.thnic.co.th
+###%%% TME: 2025-03-20T16:16:01Z
+
+Whois Server Version 2.1.7
+
+% No match found.

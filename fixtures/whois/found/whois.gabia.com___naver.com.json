@@ -1,0 +1,60 @@
+{
+  "query": "naver.com",
+  "server": "whois.gabia.com",
+  "domainName": "naver.com",
+  "creationDate": "1997-09-12T00:00:00Z",
+  "expirationDate": "2032-09-11T00:00:00Z",
+  "registrarExpirationDate": "2032-09-11T00:00:00Z",
+  "updatedDate": "2023-06-29T06:40:26Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.naver.com",
+    "ns2.naver.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "244",
+  "registrarIanaId": 244,
+  "registrarName": "gabia",
+  "registrarReseller": "gabia",
+  "registrarUrl": "https://www.gabia.com",
+  "registrarAbuseEmail": "abuse@gabia.com",
+  "registrarAbusePhone": "82.28293543",
+  "registrarWhoisServer": "whois.gabia.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "NAVER Corp.",
+  "registrantOrg": "NAVER Corp.",
+  "registrantAddress": [
+    "6 Buljung-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, 463-867, Korea"
+  ],
+  "registrantCity": "Gyeonggi",
+  "registrantPostalCode": "463463",
+  "registrantCountry": "KR",
+  "registrantPhone": "+82.215883829",
+  "registrantEmail": "white.4818@navercorp.com",
+  "adminId": "Not Available From Registry",
+  "adminName": "NAVER Corp.",
+  "adminAddress": [
+    "6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do"
+  ],
+  "adminCity": "Gyeonggi",
+  "adminPostalCode": "13561",
+  "adminCountry": "KR",
+  "adminPhone": "+82.28293528",
+  "adminEmail": "dl_ssl@navercorp.com",
+  "techId": "Not Available From Registry",
+  "techName": "NAVER Corp.",
+  "techAddress": [
+    "6, Buljeong-ro, Bundang-gu, Seongnam-si, Gyeonggi-do"
+  ],
+  "techCity": "Gyeonggi",
+  "techPostalCode": "13561",
+  "techCountry": "KR",
+  "techPhone": "+82.28293528",
+  "techEmail": "dl_ssl@navercorp.com"
+}

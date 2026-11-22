@@ -1,0 +1,52 @@
+{
+  "query": "redd.tube",
+  "server": "whois.nic.tube",
+  "domainId": "D8541743F65D840A89855C1641BD0A7E9-GDREG",
+  "domainName": "redd.tube",
+  "creationDate": "2022-05-03T16:16:07Z",
+  "expirationDate": "2027-05-03T16:16:07Z",
+  "updatedDate": "2025-11-12T16:46:22Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ursns1.viagenie.ca",
+    "ursns2.viagenie.ca"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.6027723958",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Capital Region",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "IS",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ]
+}

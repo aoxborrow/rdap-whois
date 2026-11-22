@@ -1,0 +1,102 @@
+###%%% QRY: xn--80affa3aj0al.xn--80asehdb
+###%%% SRV: whois.nic.xn--80asehdb
+###%%% TME: 2026-07-16T23:56:47Z
+
+Domain Name: xn--80affa3aj0al.xn--80asehdb
+Internationalized Domain Name: телеграм.онлайн
+Registry Domain ID: DLGIUJGQHDI7548-80ASEHDB
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: http://www.registrar.eu
+Updated Date: 2026-05-25T00:29:17.357Z
+Creation Date: 2017-06-08T18:07:01.303Z
+Registry Expiry Date: 2027-06-08T18:07:01.303Z
+Registrar Registration Expiration Date: 
+Registrar: Hosting Concepts b.v. d/b/a Openprovider
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: 
+Registrant Postal Code: 
+Registrant Country: RU
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: april.ns.cloudflare.com
+Name Server: algin.ns.cloudflare.com
+DNSSEC: unsigned
+Canonical Name: телеграм.онлайн
+IDN Tag: Cyrl
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2026-07-16T23:56:05.986Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Terms and Conditions of Use
+
+The data in this record is provided by CORE Association ("the Registry")
+for informational purposes only. The Registry does not guarantee its
+accuracy and cannot, under any circumstances, be held liable in case
+the stored information would prove to be wrong, incomplete or not
+accurate in any sense.
+
+NOTICE: Access to the domain name's information is restricted in
+order to protect the privacy of Registrants. If you believe you have
+a legitimate interest in having access to part or all of the data not
+published in the above output, please contact the Registrar of record
+at the address shown in the output above OR the Registry at the
+following address:
+
+http://whois.nic.xn--80asehdb
+
+The compilation, repackaging, dissemination or other use of the data
+in this Whois database is expressly prohibited without the
+prior written consent of the Registry.
+
+The Registry maintains the right to restrict your access to the Whois
+database in its sole discretion to ensure operational stability. The
+Registry may restrict or terminate your access to the Whois database
+for failure to abide by these terms of use. The Registry reserves the
+right to modify these terms at any time.
+
+By maintaining the connection you assure that you have a legitimate
+interest in the data and that you will only use it for the stated
+purposes. You are aware the Registry maintains the right to initiate
+legal proceedings against you in the event of any breach of this
+assurance and to bar you from using its Whois service.
+
+End of Whois record.

@@ -1,0 +1,40 @@
+###%%% QRY: saint2.cr
+###%%% SRV: whois.nic.cr
+###%%% TME: 2026-07-16T11:40:44Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 11:40:45 2026
+
+domain:       saint2.cr
+registrant:   CN_11428
+nsset:        NS_SAINT2_CR
+registrar:    NIC-REG1
+registered:   23.10.2024 07:23:30
+changed:      23.09.2025 02:34:55
+expire:       23.10.2026
+
+contact:      CN_11428
+org:          ByteFlare LTD
+name:         Dimitriy Solovev
+registrar:    NIC-REG1
+created:      19.09.2025 09:24:45
+changed:      22.10.2025 17:10:16
+
+nsset:        NS_SAINT2_CR
+nserver:      ns1.bytens.net 
+nserver:      ns2.bytens.net 
+nserver:      ns3.bytens.net 
+tech-c:       CN_10149
+registrar:    NIC-REG1
+created:      23.10.2024 07:24:23
+changed:      23.09.2025 02:34:56
+
+contact:      CN_10149
+org:          ByteFlare
+name:         Dimitriy Solovev
+e-mail:       domains@guard.st
+registrar:    NIC-REG1
+created:      23.10.2024 07:20:25
+changed:      17.09.2025 21:41:14

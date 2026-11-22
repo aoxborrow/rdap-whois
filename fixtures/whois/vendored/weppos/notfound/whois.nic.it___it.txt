@@ -1,0 +1,6 @@
+###%%% SRV: whois.nic.it
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.nic.it/it/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+Domain:             u34jedzcq.it
+Status:             AVAILABLE

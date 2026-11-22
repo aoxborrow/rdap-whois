@@ -1,0 +1,29 @@
+###%%% QRY: growone.sg
+###%%% SRV: whois.sgnic.sg
+###%%% TME: 2026-07-16T23:58:24Z
+
+Domain Name: growone.sg
+Unicode Name: growone.sg
+Updated Date: 2025-10-20T06:24:41Z
+Creation Date: 2022-11-15T02:42:58Z
+Registry Expiry Date: 2026-11-15T02:42:58Z
+Registrar: Web Commerce Communications (S) Pte Ltd
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+VerifiedID Status: VerifiedID@SG-OK
+Registry Lock:
+Registrant Name: GROWONE TECHNOLOGY PTE. LTD.
+Admin Name: GROWONE TECHNOLOGY PTE. LTD.
+Tech Name: GROWONE TECHNOLOGY PTE. LTD.
+Tech Email: domain@idcicp.com
+Name Server: ns1.alidns.com
+Name Server: ns2.alidns.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:58:25Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% ----------------------------------------------------------------------
+% SGNIC WHOIS Server
+% ----------------------------------------------------------------------
+%
+% This data is provided for information purposes only.

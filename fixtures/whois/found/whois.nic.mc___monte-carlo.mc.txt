@@ -1,0 +1,46 @@
+###%%% QRY: monte-carlo.mc
+###%%% SRV: whois.nic.mc
+###%%% TME: 2026-07-16T23:40:33Z
+
+>>
+>> Welcome to the NIC Monaco Whois server.
+>>
+>> Complete date format : YYYY-MM-DDThh:mm:ssZ
+>>
+>> You are not allowed to duplicate these information without
+>> authorization of NIC Monaco.
+>> See https://www.nic.mc for informations about .mc domains.
+>> Please contact nic@gouv.mc for any question.
+>>
+>>
+--------------------------------------------------------------
+Domain             : MONTE-CARLO.MC
+Status             : ACTIVE
+DNSSEC             : Unsigned
+Owner-c            : Restricted
+Admin-c            : Restricted
+Tech-c             : Restricted
+Registrar          : Monte-Carlo Multimedia
+
+nserver            : ns1.montecarlomultimedia.com
+nserver            : ns2.montecarlomultimedia.com
+nserver            : ns3.montecarlomultimedia.com
+
+Created            : 1996-12-01T10:25:00Z
+Expires on         : 2027-05-26
+Last update        : 2026-05-26T22:10:03Z
+
+Registrar          : Monte-Carlo Multimedia
+Registrar          : 15 Allée Lazare Sauvaigo
+Registrar          : 98000 MONACO
+Registrar          : Monaco
+Registrar email    : info@montecarlomultimedia.com
+Registrar Phone    : +377 97 70 74 75
+--------------------------------------------------------------
+
+>>>> Last update of WHOIS Database : 2026-07-16T16:56:48Z <<<<
+
+>> The information contained in the WHOIS database is provided
+>> as is. The NIC Monaco cannot be held responsible for any
+>> errors. For more information about a domain, please contact
+>> the responsible registrar.

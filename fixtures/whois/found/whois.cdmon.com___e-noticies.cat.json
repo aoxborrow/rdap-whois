@@ -1,0 +1,35 @@
+{
+  "query": "e-noticies.cat",
+  "server": "whois.cdmon.com",
+  "domainId": "8528-D",
+  "domainName": "e-noticies.cat",
+  "creationDate": "2006-02-17T06:03:52Z",
+  "expirationDate": "2033-02-17T06:03:52Z",
+  "registrarExpirationDate": "2033-02-17T06:03:52Z",
+  "updatedDate": "2023-06-28T10:35:56Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "lauryn.ns.cloudflare.com",
+    "syeef.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1403",
+  "registrarIanaId": 1403,
+  "registrarName": "10DENCEHISPAHARD, S.L",
+  "registrarUrl": "https://www.cdmon.com",
+  "registrarAbuseEmail": "abuse@cdmon.com",
+  "registrarAbusePhone": "+34.935677577",
+  "registrarWhoisServer": "whois.cdmon.com",
+  "registrantOrg": "TRIVIUM QUADRIVIUMQUE DIGITAL SL",
+  "registrantState": "Madrid",
+  "registrantCountry": "ES",
+  "registrantEmail": "http://www.whoiscontactsprotection.com/",
+  "adminEmail": "http://www.whoiscontactsprotection.com/",
+  "techEmail": "http://www.whoiscontactsprotection.com/"
+}

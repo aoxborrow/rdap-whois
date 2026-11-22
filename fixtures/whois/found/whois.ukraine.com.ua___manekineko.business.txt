@@ -1,0 +1,65 @@
+###%%% QRY: manekineko.business
+###%%% SRV: whois.ukraine.com.ua
+###%%% TME: 2026-11-22T08:14:29Z
+
+Domain Name: MANEKINEKO.BUSINESS
+Registry Domain ID: ac434db9c01d45e28bddf1a0892b9885-DONUTS
+Registrar WHOIS Server: whois.ukraine.com.ua
+Registrar URL: https://www.ukraine.com.ua
+Updated Date: 2025-02-21T06:14:04Z
+Creation Date: 2023-02-20T12:42:03Z
+Registrar Registration Expiration Date: 2027-02-20T12:42:03Z
+Registrar: HOSTING UKRAINE LLC
+Registrar IANA ID: 2374
+Registrar Abuse Contact Email: domain@abuse.team
+Registrar Abuse Contact Phone: +380.443927433
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Privacy Protection
+Registrant Organization: Hosting Ukraine LLC
+Registrant Street: PO Box 65
+Registrant City: Kiev
+Registrant State/Province: 
+Registrant Postal Code: 04112
+Registrant Country: UA
+Registrant Phone: +380.443927433
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: aa7aa1132e560b0bb5@privacyprotected.net
+Registry Admin ID: Not Available From Registry
+Admin Name: Privacy Protection
+Admin Organization: Hosting Ukraine LLC
+Admin Street: PO Box 65
+Admin City: Kiev
+Admin State/Province: 
+Admin Postal Code: 04112
+Admin Country: UA
+Admin Phone: +380.443927433
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: aa7aa1132e560b0bb5@privacyprotected.net
+Registry Tech ID: Not Available From Registry
+Tech Name: Privacy Protection
+Tech Organization: Hosting Ukraine LLC
+Tech Street: PO Box 65
+Tech City: Kiev
+Tech State/Province: 
+Tech Postal Code: 04112
+Tech Country: UA
+Tech Phone: +380.443927433
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: aa7aa1132e560b0bb5@privacyprotected.net
+Name Server: CHRISTIAN.NS.CLOUDFLARE.COM
+Name Server: POLA.NS.CLOUDFLARE.COM
+DNSSEC: unsignedURL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:14:29Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Notes:
+Since May, 25 2018 whois provides only the ICANN-required minimum data set.
+Visit https://privacyprotected.net/ to contact Domain Registrant.

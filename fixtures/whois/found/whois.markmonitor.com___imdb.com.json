@@ -1,0 +1,48 @@
+{
+  "query": "imdb.com",
+  "server": "whois.markmonitor.com",
+  "domainId": "2724536_DOMAIN_COM-VRSN",
+  "domainName": "imdb.com",
+  "creationDate": "1996-01-05T05:00:00Z",
+  "expirationDate": "2028-01-04T00:00:00Z",
+  "registrarExpirationDate": "2028-01-04T05:00:00Z",
+  "updatedDate": "2026-11-05T23:41:37Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited",
+    "serverUpdateProhibited",
+    "serverTransferProhibited",
+    "serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-180.awsdns-22.com",
+    "ns-590.awsdns-09.net",
+    "ns-1155.awsdns-16.org",
+    "ns-1880.awsdns-43.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantState": "WA",
+  "registrantCountry": "US"
+}

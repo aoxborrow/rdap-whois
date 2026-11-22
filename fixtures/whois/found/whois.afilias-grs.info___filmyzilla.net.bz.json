@@ -1,0 +1,28 @@
+{
+  "query": "filmyzilla.net.bz",
+  "server": "whois.afilias-grs.info",
+  "domainId": "4b4fcf5709d54e76ac0e2c98615cde6c-DONUTS",
+  "domainName": "filmyzilla.net.bz",
+  "creationDate": "2025-01-29T16:19:29Z",
+  "expirationDate": "2026-01-29T16:19:29Z",
+  "updatedDate": "2025-02-03T16:19:53Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "isabel.ns.cloudflare.com",
+    "randy.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarUrl": "http://key-systems.net",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrarAbusePhone": "+49 6894 9396 850",
+  "registrarWhoisServer": "whois.rrpproxy.net"
+}

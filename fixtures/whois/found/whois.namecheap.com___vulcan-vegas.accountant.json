@@ -1,0 +1,63 @@
+{
+  "query": "vulcan-vegas.accountant",
+  "server": "whois.namecheap.com",
+  "domainId": "DBDE56EC98B964D05A69819C23B5E680B-NSR",
+  "domainName": "vulcan-vegas.accountant",
+  "creationDate": "2020-04-13T17:19:12Z",
+  "expirationDate": "2027-04-13T17:19:12Z",
+  "registrarExpirationDate": "2027-04-13T17:19:12Z",
+  "updatedDate": "2026-03-14T05:52:40Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "rene.ns.cloudflare.com",
+    "stella.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NAMECHEAP INC",
+  "registrarReseller": "NAMECHEAP INC",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantName": "Redacted for Privacy Purposes",
+  "registrantOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "registrantAddress": [
+    "16192 Coastal Highway"
+  ],
+  "registrantCity": "Lewes",
+  "registrantState": "Delaware",
+  "registrantPostalCode": "19958",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.3022061391",
+  "registrantEmail": "7dc9af68584a4d53b4efce532b813bef.protect@withheldforprivacy.com",
+  "adminName": "Redacted for Privacy Purposes",
+  "adminOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "adminAddress": [
+    "16192 Coastal Highway"
+  ],
+  "adminCity": "Lewes",
+  "adminState": "Delaware",
+  "adminPostalCode": "19958",
+  "adminCountry": "US",
+  "adminPhone": "+1.3022061391",
+  "adminEmail": "7dc9af68584a4d53b4efce532b813bef.protect@withheldforprivacy.com",
+  "techName": "Redacted for Privacy Purposes",
+  "techOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "techAddress": [
+    "16192 Coastal Highway"
+  ],
+  "techCity": "Lewes",
+  "techState": "Delaware",
+  "techPostalCode": "19958",
+  "techCountry": "US",
+  "techPhone": "+1.3022061391",
+  "techEmail": "7dc9af68584a4d53b4efce532b813bef.protect@withheldforprivacy.com"
+}

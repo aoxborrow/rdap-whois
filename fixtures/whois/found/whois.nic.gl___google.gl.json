@@ -1,0 +1,33 @@
+{
+  "query": "google.gl",
+  "server": "whois.nic.gl",
+  "domainId": "D327730546-CNIC",
+  "domainName": "google.gl",
+  "creationDate": "2003-03-11T03:00:00Z",
+  "expirationDate": "2027-01-01T23:59:59Z",
+  "updatedDate": "2026-01-01T16:02:36Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarAbuseEmail": "ccops@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantEmail": "https://whois.nic.gl/contact/google.gl/registrant",
+  "techEmail": "https://whois.nic.gl/contact/google.gl/tech"
+}

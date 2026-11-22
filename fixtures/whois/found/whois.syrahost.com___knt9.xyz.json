@@ -1,0 +1,42 @@
+{
+  "query": "knt9.xyz",
+  "server": "whois.syrahost.com",
+  "domainId": "D241209892-CNIC",
+  "domainName": "knt9.xyz",
+  "creationDate": "2021-07-02T00:00:00Z",
+  "expirationDate": "2027-07-02T00:00:00Z",
+  "registrarExpirationDate": "2027-07-02T00:00:00Z",
+  "updatedDate": "2025-06-02T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok",
+    "3 https://icann.org/epp#3"
+  ],
+  "nameservers": [
+    "h4.knt9.xyz",
+    "h7.knt9.xyz"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1291",
+  "registrarIanaId": 1291,
+  "registrarName": "Dreamscape Networks International Pte Ltd",
+  "registrarUrl": "http://www.crazydomains.com",
+  "registrarAbuseEmail": "abuse@dreamscapenetworks.com",
+  "registrarAbusePhone": "+65.69147880",
+  "registrarWhoisServer": "whois.syrahost.com",
+  "registrantId": "r027525922sn",
+  "registrantName": "Kevin Cheng",
+  "registrantOrg": "PRIVATE REGISTRY AUTHORITY",
+  "registrantAddress": [
+    "1202, 12/F., AT TOWER, 180 ELECTRIC ROAD, NORTH POINT"
+  ],
+  "registrantCity": "HONG KONG",
+  "registrantState": "HONG KONG",
+  "registrantPostalCode": "00000",
+  "registrantCountry": "HK",
+  "registrantPhone": "+852.66401834",
+  "registrantEmail": "ACCOUNTING@GHTCON.COM"
+}

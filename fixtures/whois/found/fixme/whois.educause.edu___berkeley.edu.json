@@ -1,0 +1,43 @@
+{
+  "domainName": "berkeley.edu",
+  "creationDate": "1985-04-24T00:00:00Z",
+  "expirationDate": "2027-07-31T00:00:00Z",
+  "updatedDate": "2024-09-16T00:00:00Z",
+  "status": [],
+  "nameservers": [
+    "adns1.berkeley.edu",
+    "adns2.berkeley.edu",
+    "adns3.berkeley.edu"
+  ],
+  "registrantName": "University of California at Berkeley",
+  "registrantAddress": [
+    "Information Services & Technology",
+    "Telecommunications -  2484 Shattuck #4894"
+  ],
+  "registrantCity": "Berkeley",
+  "registrantState": "CA",
+  "registrantPostalCode": "94720-4894",
+  "registrantCountry": "USA",
+  "adminName": "Domain Admin",
+  "adminOrg": "University of California at Berkeley",
+  "adminAddress": [
+    "Telecommunications -  2484 Shattuck #4894"
+  ],
+  "adminCity": "Berkeley",
+  "adminState": "CA",
+  "adminPostalCode": "94720-4894",
+  "adminCountry": "USA",
+  "adminPhone": "+1.5106649000",
+  "adminEmail": "noc@berkeley.edu",
+  "techName": "Domain Admin",
+  "techOrg": "University of California at Berkeley",
+  "techAddress": [
+    "Telecommunications -  2484 Shattuck #4894"
+  ],
+  "techCity": "Berkeley",
+  "techState": "CA",
+  "techPostalCode": "94720-4894",
+  "techCountry": "USA",
+  "techPhone": "+1.5106649000",
+  "techEmail": "noc@berkeley.edu"
+}

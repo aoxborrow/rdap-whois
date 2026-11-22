@@ -1,0 +1,31 @@
+###%%% QRY: sanmarinortv.sm
+###%%% SRV: whois.nic.sm
+###%%% TME: 2026-07-16T11:44:00Z
+
+Domain Name: sanmarinortv.sm
+Registration date: 29/03/2001
+Status: Active
+
+Owner:
+San Marino RTV S.p.A.
+Viale J.F.Kennedy 13
+47890 San Marino
+SM
+Phone: +378.0549882000
+Fax: +378.0549882840
+Email: amministrazione@sanmarinortv.sm
+
+Technical Contact:
+Marco Baroni
+Titanka! S.p.a.
+Strada Degli Angariari, 46
+47891 Falciano
+SM
+Phone: +378.0549905302
+Fax: +378.0549909296
+Email: domini@titanka.com
+
+DNS Servers:
+ns1.titanka.com
+ns2.titanka.com
+ns3.titanka.com

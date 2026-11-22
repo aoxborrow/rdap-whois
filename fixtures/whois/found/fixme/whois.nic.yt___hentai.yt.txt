@@ -1,0 +1,84 @@
+###%%% QRY: hentai.yt
+###%%% SRV: whois.nic.yt
+###%%% TME: 2025-04-09T08:39:01Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        hentai.yt
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        TRS360-FRNIC
+registrar:                     TLD Registrar Solutions Ltd
+Expiry Date:                   2026-09-23T09:16:36Z
+created:                       2015-09-23T09:16:36Z
+last-update:                   2025-02-11T05:51:32.444174Z
+source:                        FRNIC
+
+nserver:                       jim.ns.cloudflare.com
+nserver:                       zoe.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     TLD Registrar Solutions Ltd
+address:                       35-39 Moorgate
+address:                       Level 1
+address:                       EC2R 6AR London
+country:                       GB
+phone:                         +44.2034357304
+e-mail:                        admin@tldregistrarsolutions.com
+website:                       https://internetbs.net/en/domain-name-registrations/price.html?setCurrency=EUR
+anonymous:                     No
+registered:                    2014-11-17T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     TLD Registrar Solutions Ltd
+changed:                       2022-09-04T07:04:33Z
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       TRS360-FRNIC
+type:                          ORGANIZATION
+contact:                       TLD Registrar Solutions
+address:                       TLD Registrar Solutions
+address:                       Saddlers House 44 Gutter Lane
+address:                       EC2V 6BR London
+country:                       GB
+phone:                         +44.2033880600
+e-mail:                        abuse@tldregistrarsolutions.com
+registrar:                     TLD Registrar Solutions Ltd
+changed:                       2024-05-22T16:03:30.643861Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-04-09T08:39:01.278861Z <<<

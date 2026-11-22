@@ -1,0 +1,25 @@
+###%%% QRY: newtimes.co.rw
+###%%% SRV: whois.ricta.org.rw
+###%%% TME: 2026-07-16T23:58:22Z
+
+Domain Name: newtimes.co.rw
+Registry Domain ID: 2985-CoCCA
+Registrar URL: http://spiderbit.rw
+Updated Date: 2026-03-22T16:00:14Z
+Creation Date: 2012-12-31T22:00:00Z
+Registry Expiry Date: 2027-01-12T22:00:00Z
+Registrar Registration Expiration Date: 2027-01-12T22:00:00Z
+Registrar: Spiderbit Ltd
+Registrar Phone: +250788647117
+Registrar Email: info@spiderbit.rw
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 79523RICTA
+Name Server: dakota.ns.cloudflare.com
+Name Server: carla.ns.cloudflare.com
+>>> Last update of WHOIS database: 2026-07-16T23:47:30.723Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The Data in RICTA WHOIS database is provided by RICTA  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.RICTA does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or  (2) enable high volume, automated, electronic processes that apply to RICTA  (or its systems). RICTA reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

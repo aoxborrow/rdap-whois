@@ -1,0 +1,77 @@
+{
+  "query": "applovin.com",
+  "server": "whois.corporatedomains.com",
+  "domainId": "1664798869_DOMAIN_COM-VRSN",
+  "domainName": "applovin.com",
+  "creationDate": "2011-07-01T14:22:43Z",
+  "expirationDate": "2025-07-01T18:22:43Z",
+  "registrarExpirationDate": "2025-07-01T18:22:43Z",
+  "updatedDate": "2024-06-27T01:08:49Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-cloud-c1.googledomains.com",
+    "ns-cloud-c2.googledomains.com",
+    "ns-cloud-c3.googledomains.com",
+    "ns-cloud-c4.googledomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC CORPORATE DOMAINS, INC.",
+  "registrarUrl": "https://www.cscprotectsbrands.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "CSC Corporate Domains, Inc.",
+  "registrantAddress": [
+    "251 Little Falls Drive"
+  ],
+  "registrantCity": "Wilmington",
+  "registrantState": "DE",
+  "registrantPostalCode": "19808",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.3026365400",
+  "registrantFax": "+1.3026365454",
+  "registrantEmail": "admin@internationaladmin.com",
+  "adminName": "Domain Administrator",
+  "adminOrg": "CSC Corporate Domains, Inc.",
+  "adminAddress": [
+    "251 Little Falls Drive"
+  ],
+  "adminCity": "Wilmington",
+  "adminState": "DE",
+  "adminPostalCode": "19808",
+  "adminCountry": "US",
+  "adminPhone": "+1.3026365400",
+  "adminFax": "+1.3026365454",
+  "adminEmail": "admin@internationaladmin.com",
+  "techName": "DNS Administrator",
+  "techOrg": "CSC Corporate Domains, Inc.",
+  "techAddress": [
+    "251 Little Falls Drive"
+  ],
+  "techCity": "Wilmington",
+  "techState": "DE",
+  "techPostalCode": "19808",
+  "techCountry": "US",
+  "techPhone": "+1.3026365400",
+  "techFax": "+1.3026365454",
+  "techEmail": "dns-admin@cscglobal.com"
+}

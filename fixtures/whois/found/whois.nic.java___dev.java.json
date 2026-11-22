@@ -1,0 +1,73 @@
+{
+  "query": "dev.java",
+  "server": "whois.nic.java",
+  "domainId": "e7fd9f7963a741ecac58b98cc6a9efd8-DONUTS",
+  "domainName": "dev.java",
+  "creationDate": "2021-09-14T03:21:23Z",
+  "expirationDate": "2027-09-14T03:21:23Z",
+  "updatedDate": "2026-08-18T09:52:42Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.p201.dns.oraclecloud.net",
+    "ns2.p201.dns.oraclecloud.net",
+    "ns3.p201.dns.oraclecloud.net",
+    "ns4.p201.dns.oraclecloud.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantId": "fba0b2c7e9a0475b821fbdb9a217352f-DONUTS",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Oracle Corporation",
+  "registrantAddress": [
+    "500 Oracle Parkway M/S 501ip3"
+  ],
+  "registrantCity": "Redwood Shores",
+  "registrantState": "CA",
+  "registrantPostalCode": "94065",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505062220",
+  "registrantFax": "+1.6505062120",
+  "registrantEmail": "domain-contact_ww_grp@oracle.com",
+  "adminId": "fba0b2c7e9a0475b821fbdb9a217352f-DONUTS",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Oracle Corporation",
+  "adminAddress": [
+    "500 Oracle Parkway M/S 501ip3"
+  ],
+  "adminCity": "Redwood Shores",
+  "adminState": "CA",
+  "adminPostalCode": "94065",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505062220",
+  "adminFax": "+1.6505062120",
+  "adminEmail": "domain-contact_ww_grp@oracle.com",
+  "techId": "81a3f11330bc4279ab5ab22b31698730-DONUTS",
+  "techName": "Domain Administrator",
+  "techOrg": "Oracle Corporation",
+  "techAddress": [
+    "500 Oracle Parkway M/S 501ip3"
+  ],
+  "techCity": "Redwood Shores",
+  "techState": "CA",
+  "techPostalCode": "94065",
+  "techCountry": "US",
+  "techPhone": "+1.6505062120",
+  "techFax": "+1.6505062120",
+  "techEmail": "network-contact_ww_grp@oracle.com"
+}

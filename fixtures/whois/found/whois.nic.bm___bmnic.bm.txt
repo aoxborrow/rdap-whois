@@ -1,0 +1,66 @@
+###%%% QRY: bmnic.bm
+###%%% SRV: whois.nic.bm
+###%%% TME: 2026-07-16T23:25:21Z
+
+Domain Name: bmnic.bm
+Registry Domain ID: 1a4df2ba4b774b41a2f7d1f6042fb6e3-DONUTS
+Registrar WHOIS Server: 
+Registrar URL: 
+Updated Date: 2025-11-15T14:09:32Z
+Creation Date: 2023-12-14T18:07:35Z
+Registry Expiry Date: 2026-12-14T18:07:35Z
+Registrar: The Registry General, Government of Bermuda
+Registrar IANA ID: 801154
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 8c6fdb8453bb4721ae0e9d6bfda3e442-DONUTS
+Registrant Name: BermudaNIC Registry
+Registrant Organization: BermudaNIC Registry
+Registrant Street: 30 Parliament Street
+Registrant City: Hamilton
+Registrant State/Province: HM
+Registrant Postal Code: HM12
+Registrant Country: BM
+Registrant Phone: +1.2977708
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: dnsmanager@gov.bm
+Registry Admin ID: 8c6fdb8453bb4721ae0e9d6bfda3e442-DONUTS
+Admin Name: BermudaNIC Registry
+Admin Organization: BermudaNIC Registry
+Admin Street: 30 Parliament Street
+Admin City: Hamilton
+Admin State/Province: HM
+Admin Postal Code: HM12
+Admin Country: BM
+Admin Phone: +1.2977708
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: dnsmanager@gov.bm
+Registry Tech ID: 8c6fdb8453bb4721ae0e9d6bfda3e442-DONUTS
+Tech Name: BermudaNIC Registry
+Tech Organization: BermudaNIC Registry
+Tech Street: 30 Parliament Street
+Tech City: Hamilton
+Tech State/Province: HM
+Tech Postal Code: HM12
+Tech Country: BM
+Tech Phone: +1.2977708
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: dnsmanager@gov.bm
+Name Server: ns1.bmnic.bm
+Name Server: ns2.bmnic.bm
+Name Server: ns3.bmnic.bm
+Name Server: ns4.bmnic.bm
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:25:22Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

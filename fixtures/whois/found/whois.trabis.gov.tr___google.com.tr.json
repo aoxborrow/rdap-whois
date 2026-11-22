@@ -1,0 +1,28 @@
+{
+  "query": "google.com.tr",
+  "server": "whois.trabis.gov.tr",
+  "domainName": "google.com.tr",
+  "creationDate": "2001-08-23T00:00:00Z",
+  "expirationDate": "2027-08-22T00:00:00Z",
+  "updatedDate": "2026-11-22T08:02:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarId": "ogv40",
+  "registrarName": "ODTÜ GELİŞTİRME VAKFI BİLGİ TEKNOLOJİLERİ SAN. VE TİC. A.Ş.",
+  "registrarAddress": [
+    "Mustafa Kemal Mahallesi Dumlupınar Bulvarı"
+  ],
+  "registrarPhone": "90-312-9881106-",
+  "registrarFax": "-",
+  "registrantName": "Google LLC"
+}

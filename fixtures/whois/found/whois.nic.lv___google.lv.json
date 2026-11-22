@@ -1,0 +1,27 @@
+{
+  "query": "google.lv",
+  "server": "whois.nic.lv",
+  "domainName": "google.lv",
+  "updatedDate": "2026-11-22T06:12:37Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrarAddress": [
+    "1120 S. Rackham Way, Suite 300, Meridian, ID, 83642, USA"
+  ],
+  "registrantName": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway, Mountain View, CA, 94043, USA"
+  ],
+  "registrantCountry": "US"
+}

@@ -1,0 +1,103 @@
+{
+  "checkedAt": "2026-11-10T02:50:54.759Z",
+  "lanes": [
+    {
+      "lane": "notfound (ours, live)",
+      "total": 1195,
+      "hit": 1195,
+      "wrong": 0,
+      "miss": 0
+    },
+    {
+      "lane": "reserved (ours, live)",
+      "total": 89,
+      "hit": 89,
+      "wrong": 0,
+      "miss": 0
+    },
+    {
+      "lane": "throttled (ours, live)",
+      "total": 32,
+      "hit": 32,
+      "wrong": 0,
+      "miss": 0
+    },
+    {
+      "lane": "servfail (ours, live)",
+      "total": 14,
+      "hit": 14,
+      "wrong": 0,
+      "miss": 0
+    },
+    {
+      "lane": "notfound (weppos)",
+      "total": 242,
+      "hit": 233,
+      "wrong": 0,
+      "miss": 9
+    },
+    {
+      "lane": "reserved (weppos)",
+      "total": 15,
+      "hit": 12,
+      "wrong": 0,
+      "miss": 3
+    },
+    {
+      "lane": "throttled (weppos)",
+      "total": 18,
+      "hit": 18,
+      "wrong": 0,
+      "miss": 0
+    },
+    {
+      "lane": "notfound (likexian)",
+      "total": 88,
+      "hit": 79,
+      "wrong": 0,
+      "miss": 9
+    },
+    {
+      "lane": "found — CONTROL, must not fire",
+      "total": 2879,
+      "hit": 2879,
+      "wrong": 0,
+      "miss": 0
+    }
+  ],
+  "triage": {
+    "reserved": 1,
+    "(none — unparsed format?)": 121,
+    "notfound": 2
+  },
+  "wrongs": {},
+  "misses": {
+    "notfound (weppos)": [
+      "whois.ax___ax.txt",
+      "whois.gandi.net.txt",
+      "whois.nic.bj___bj.txt",
+      "whois.nic.bo___bo.txt",
+      "whois.nic.cl___cl.txt",
+      "whois.nic.coop___coop.txt",
+      "whois.nic.lk___xn--fzc2c9e2c.txt",
+      "whois.nic.lk___xn--xkc2al3hye2a.txt",
+      "whois.nic.wed___wed.txt"
+    ],
+    "reserved (weppos)": [
+      "whois.afilias.net___info.txt",
+      "whois.jprs.jp___ne.jp.txt",
+      "whois.nic.uk___uk.txt"
+    ],
+    "notfound (likexian)": [
+      "int_likexian-have-no-money-to-register.int.txt",
+      "love_likexian-have-no-money-to-register.love.txt",
+      "name_login.name.txt",
+      "name_science.name.txt",
+      "nl_likexian-have-no-money-to-register.nl.txt",
+      "nz_likexian-have-no-money-to-register.nz.txt",
+      "rs_likexian-have-no-money-to-register.rs.txt",
+      "sexy_likexian-have-no-money-to-register.sexy.txt",
+      "tw_likexian-have-no-money-to-register.tw.txt"
+    ]
+  }
+}

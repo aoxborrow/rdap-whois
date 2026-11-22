@@ -1,0 +1,27 @@
+{
+  "domainId": "9b768bcecc1448078a741b301dbe0a1e-AU",
+  "domainName": "abc.net.au",
+  "updatedDate": "2025-03-18T02:42:34Z",
+  "status": [
+    "ok"
+  ],
+  "nameservers": [
+    "asia1.akam.net",
+    "eur2.akam.net",
+    "eur3.akam.net",
+    "eur5.akam.net",
+    "ns1-31.akam.net",
+    "ns1-129.akam.net",
+    "usw1.akam.net",
+    "usw5.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Domain Directors Pty Ltd trading as Instra",
+  "registrarUrl": "https://www.instra.com/en/about-us/contact-us",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.auda.org.au",
+  "registrantId": "ABN 52429278345",
+  "registrantName": "AUSTRALIAN BROADCASTING CORPORATION"
+}

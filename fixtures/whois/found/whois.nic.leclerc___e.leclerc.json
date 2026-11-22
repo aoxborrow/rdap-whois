@@ -1,0 +1,30 @@
+{
+  "query": "e.leclerc",
+  "server": "whois.nic.leclerc",
+  "domainId": "DOM000000445849-LECLERC",
+  "domainName": "e.leclerc",
+  "creationDate": "2015-12-14T08:24:47Z",
+  "expirationDate": "2026-12-14T08:24:47Z",
+  "updatedDate": "2026-01-28T08:31:07Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "pdns112.ultradns.biz",
+    "pdns112.ultradns.com",
+    "pdns112.ultradns.net",
+    "pdns112.ultradns.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1673",
+  "registrarIanaId": 1673,
+  "registrarName": "BDL SYSTEMES dba Systonic",
+  "registrarUrl": "https://www.systonic.fr",
+  "registrarAbuseEmail": "registrar-abuse+afnic@systonic.fr",
+  "registrarAbusePhone": "+33.557264444",
+  "registrarWhoisServer": "whois.systonic.fr"
+}

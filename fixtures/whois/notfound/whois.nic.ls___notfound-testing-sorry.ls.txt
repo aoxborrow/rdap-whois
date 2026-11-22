@@ -1,0 +1,11 @@
+###%%% QRY: notfound-testing-sorry.ls
+###%%% SRV: whois.nic.ls
+###%%% TME: 2025-03-20T18:18:03Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.10.2
+
+%ERROR:101: no entries found
+% 
+% No entries found.

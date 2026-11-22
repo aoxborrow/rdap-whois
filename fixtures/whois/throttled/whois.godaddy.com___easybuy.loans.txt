@@ -1,0 +1,5 @@
+###%%% QRY: easybuy.loans
+###%%% SRV: whois.godaddy.com
+###%%% TME: 2025-03-21T06:10:57Z
+
+This WHOIS server is being retired. Please use our RDAP service instead. Rate limit exceeded. Try again after: 2562047h47m16.854775807s.

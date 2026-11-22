@@ -1,0 +1,15 @@
+###%%% QRY: cdn90.cn
+###%%% SRV: whois.cnnic.cn
+###%%% TME: 2026-11-22T08:13:52Z
+
+Domain Name: cdn90.cn
+ROID: 20170913s10001s95804771-cn
+Domain Status: ok
+Registrant: 网宿科技股份有限公司北京分公司
+Registrant Contact Email: wsdnsgroup@wangsu.com
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns1.cncdomain.com
+Name Server: dns2.cncdomain.com
+Registration Time: 2017-09-13 17:54:28
+Expiration Time: 2027-09-13 17:54:28
+DNSSEC: unsigned

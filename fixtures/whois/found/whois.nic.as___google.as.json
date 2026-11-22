@@ -1,0 +1,29 @@
+{
+  "query": "google.as",
+  "server": "whois.nic.as",
+  "domainName": "google.as",
+  "creationDate": "2000-08-02T00:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active",
+    "Delete Prohibited by Registrar",
+    "Update Prohibited by Registrar",
+    "Transfer Prohibited by Registrar",
+    "Registered until cancelled"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantName": "Google LLC",
+  "registrantOrg": "Google LLC"
+}

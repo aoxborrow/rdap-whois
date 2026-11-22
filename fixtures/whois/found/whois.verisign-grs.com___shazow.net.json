@@ -1,0 +1,28 @@
+{
+  "query": "shazow.net",
+  "server": "whois.verisign-grs.com",
+  "domainId": "103493152_DOMAIN_NET-VRSN",
+  "domainName": "shazow.net",
+  "creationDate": "2003-09-13T04:43:11Z",
+  "expirationDate": "2027-09-13T04:43:11Z",
+  "updatedDate": "2026-08-14T04:03:21Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ruth.ns.cloudflare.com",
+    "seth.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1910",
+  "registrarIanaId": 1910,
+  "registrarName": "Cloudflare, Inc.",
+  "registrarUrl": "http://www.cloudflare.com",
+  "registrarAbuseEmail": "registrar-abuse@cloudflare.com",
+  "registrarAbusePhone": "+1.6503198930",
+  "registrarWhoisServer": "whois.cloudflare.com"
+}

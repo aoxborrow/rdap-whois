@@ -1,0 +1,33 @@
+{
+  "query": "google.kr",
+  "server": "whois.kr",
+  "domainName": "google.kr",
+  "creationDate": "2007-03-02T00:00:00Z",
+  "expirationDate": "2027-03-02T00:00:00Z",
+  "updatedDate": "2026-04-15T00:00:00Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Whois Corp.(http://whois.co.kr)",
+  "registrarUrl": "http://whois.co.kr",
+  "registrantId": "Google Korea, LLC",
+  "registrantName": "Google Korea, LLC",
+  "registrantAddress": [
+    "22nd Floor Gangnam Finance Center, 737 Yeoksam-dong Kangnam-ku Seoul"
+  ],
+  "registrantPostalCode": "135984",
+  "adminName": "Domain Administrator",
+  "adminPhone": "82.25319000",
+  "adminEmail": "dns-admin@google.com"
+}

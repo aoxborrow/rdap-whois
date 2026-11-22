@@ -1,0 +1,29 @@
+{
+  "query": "tu.berlin",
+  "server": "whois.nic.berlin",
+  "domainId": "D0000272800-BERLIN",
+  "domainName": "tu.berlin",
+  "creationDate": "2015-03-31T12:57:49Z",
+  "expirationDate": "2027-03-31T12:57:49Z",
+  "updatedDate": "2026-04-07T13:43:03Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "dns-2.dfn.de",
+    "dns-3.dfn.de",
+    "ns.tu-berlin.de"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "15",
+  "registrarIanaId": 15,
+  "registrarName": "COREhub S.R.L.",
+  "registrarUrl": "http://corehub.net",
+  "registrarAbuseEmail": "abuse@corehub.net",
+  "registrarAbusePhone": "+34.935275235",
+  "registrarWhoisServer": "whois.corehub.net"
+}

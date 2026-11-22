@@ -1,0 +1,30 @@
+{
+  "query": "nic.woodside",
+  "server": "whois.nic.woodside",
+  "domainId": "D91C93A7508D145F8B654827941FD882C-ARI",
+  "domainName": "nic.woodside",
+  "creationDate": "2015-02-17T02:24:02Z",
+  "expirationDate": "2027-02-17T02:24:02Z",
+  "updatedDate": "2026-04-03T02:24:05Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.woodside",
+    "b.nic.woodside",
+    "c.nic.woodside",
+    "d.nic.woodside"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Woodside Petroleum Limited"
+}

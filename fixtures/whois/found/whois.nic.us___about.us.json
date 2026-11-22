@@ -1,0 +1,71 @@
+{
+  "query": "about.us",
+  "server": "whois.nic.us",
+  "domainId": "D651466-US",
+  "domainName": "about.us",
+  "creationDate": "2002-04-18T15:16:22Z",
+  "expirationDate": "2027-04-17T23:59:59Z",
+  "updatedDate": "2026-06-02T00:00:22Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.usatfus.about.us",
+    "ns2.usatfus.about.us"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1111112",
+  "registrarIanaId": 1111112,
+  "registrarName": ".us Registry Services LLC",
+  "registrarUrl": "https://www.about.us",
+  "registrarAbuseEmail": "abuse@about.us",
+  "registrantId": "C37639215-US",
+  "registrantName": ".US Registration Policy",
+  "registrantOrg": "Registry Services, LLC",
+  "registrantAddress": [
+    "100 S. Mill Ave",
+    "Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "AZ",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806519999",
+  "registrantEmail": "help@about.us",
+  "adminId": "C37639215-US",
+  "adminName": ".US Registration Policy",
+  "adminOrg": "Registry Services, LLC",
+  "adminAddress": [
+    "100 S. Mill Ave",
+    "Suite 1600"
+  ],
+  "adminCity": "Tempe",
+  "adminState": "AZ",
+  "adminPostalCode": "85281",
+  "adminCountry": "US",
+  "adminPhone": "+1.4806519999",
+  "adminEmail": "help@about.us",
+  "techId": "C37639215-US",
+  "techName": ".US Registration Policy",
+  "techOrg": "Registry Services, LLC",
+  "techAddress": [
+    "100 S. Mill Ave",
+    "Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "AZ",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806519999",
+  "techEmail": "help@about.us"
+}

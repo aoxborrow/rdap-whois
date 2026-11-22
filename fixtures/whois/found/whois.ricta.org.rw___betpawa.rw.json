@@ -1,0 +1,24 @@
+{
+  "query": "betpawa.rw",
+  "server": "whois.ricta.org.rw",
+  "domainId": "78630RICTA",
+  "domainName": "betpawa.rw",
+  "creationDate": "2021-04-26T11:34:39Z",
+  "expirationDate": "2027-04-26T11:34:39Z",
+  "registrarExpirationDate": "2027-04-26T11:34:39Z",
+  "updatedDate": "2026-04-02T17:43:03Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "damian.ns.cloudflare.com",
+    "isla.ns.cloudflare.com"
+  ],
+  "registrarName": "Marcaria.com LLC",
+  "registrarPhone": "+1.3054348621",
+  "registrarEmail": "domains@marcaria.com",
+  "registrantId": "2696832RICTA"
+}

@@ -1,0 +1,30 @@
+{
+  "query": "card.auspost",
+  "server": "whois.nic.auspost",
+  "domainId": "DE4279FE4D40847D8AFB3672E6F3560C1-NSR",
+  "domainName": "card.auspost",
+  "creationDate": "2018-09-09T22:56:45Z",
+  "expirationDate": "2027-09-09T22:56:45Z",
+  "updatedDate": "2026-09-10T05:09:20Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-378.awsdns-47.com",
+    "ns-857.awsdns-43.net",
+    "ns-1405.awsdns-47.org",
+    "ns-1577.awsdns-05.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://whois.corporatedomains.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

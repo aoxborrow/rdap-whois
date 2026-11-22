@@ -1,0 +1,51 @@
+###%%% QRY: monitor.co.ug
+###%%% SRV: whois.co.ug
+###%%% TME: 2026-07-16T11:38:35Z
+
+**********************************************************
+*            The UG ccTLD Registry Database              *
+**********************************************************
+
+Domain name:                    monitor.co.ug
+Status:                         ACTIVE
+Locked:                         No
+Expires On:                     2029-06-15
+Registered On:                  2000-06-01
+Renewed On:                     2024-06-13
+Nameserver:                     gabe.ns.cloudflare.com
+Nameserver:                     kim.ns.cloudflare.com
+
+Registrant Contact Information:
+Registrant Name:                Grace Nakawooya
+Registrant Organization:        Monitor Publications Ltd.
+Registrant Country:             UG
+Registrant State / Province:    
+Registrant City:                Kampala
+Registrant Address:             Kampala
+Registrant Postal Code:         12510
+Registrant Phone:               0312301800
+Registrant Email:               gnakawooya@ug.nationmedia.com
+
+Administrative Contact Information:
+Admin Name:                     Grace Nakawooya
+Admin Organization:             Monitor Publications Ltd.
+Admin Country:                  UG
+Admin State / Province:         
+Admin City:                     Kampala
+Admin Address:                  Kampala
+Admin Postal Code:              12510
+Admin Phone:                    0312301800
+Admin Email:                    gnakawooya@ug.nationmedia.com
+
+Technical Contact Information:
+Tech Name:                      Grace Nakawooya
+Tech Organization:              Monitor Publications Ltd.
+Tech Country:                   UG
+Tech State / Province:          
+Tech City:                      Kampala
+Tech Address:                   Kampala
+Tech Postal Code:               12510
+Tech Phone:                     0312301800
+Tech Email:                     gnakawooya@ug.nationmedia.com
+
+Information Last Updated:       2024-07-15T10:56:48.000+03:00

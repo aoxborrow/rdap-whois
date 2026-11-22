@@ -1,0 +1,11 @@
+###%%% QRY: notfound-testing-sorry.xn--d1alf
+###%%% SRV: whois.marnet.mk
+###%%% TME: 2025-03-20T16:17:30Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+
+%ERROR:101: no entries found
+% 
+% No entries found.

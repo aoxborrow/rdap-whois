@@ -1,0 +1,28 @@
+{
+  "query": "truyenfull.bio",
+  "server": "whois.nic.bio",
+  "domainId": "b7c3f4ec30664dd7af2b2259485a3c46-DONUTS",
+  "domainName": "truyenfull.bio",
+  "creationDate": "2025-01-15T02:31:38Z",
+  "expirationDate": "2026-01-15T02:31:38Z",
+  "updatedDate": "2025-01-20T02:31:49Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "anna.ns.cloudflare.com",
+    "karl.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com"
+}

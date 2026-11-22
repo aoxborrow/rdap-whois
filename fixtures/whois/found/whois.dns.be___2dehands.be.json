@@ -1,0 +1,17 @@
+{
+  "query": "2dehands.be",
+  "server": "whois.dns.be",
+  "domainName": "2dehands.be",
+  "creationDate": "2000-06-28T00:00:00Z",
+  "eppStatusRaw": [
+    "NOT AVAILABLE"
+  ],
+  "nameservers": [
+    "ns-175.awsdns-21.com",
+    "ns-854.awsdns-42.net",
+    "ns-1382.awsdns-44.org",
+    "ns-1858.awsdns-40.co.uk"
+  ],
+  "registrarName": "Markmonitor Inc.",
+  "registrarUrl": "https://www.markmonitor.com"
+}

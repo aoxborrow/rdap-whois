@@ -1,0 +1,48 @@
+###%%% QRY: t.co
+###%%% SRV: whois.registry.co
+###%%% TME: 2026-07-16T23:58:00Z
+
+Domain Name: T.CO
+Registry Domain ID: D188282-CNIC
+Registrar WHOIS Server: whois.corporatedomains.com
+Registrar URL: http://whois.corporatedomains.com
+Updated Date: 2026-04-21T05:02:01.0Z
+Creation Date: 2010-04-26T07:50:40.0Z
+Registry Expiry Date: 2027-04-25T23:59:59.0Z
+Registrar: CSC Corporate Domains, Inc.
+Registrar IANA ID: 299
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: D.U06.TWTRDNS.NET
+Name Server: D.R06.TWTRDNS.NET
+Name Server: B.U06.TWTRDNS.NET
+Name Server: B.R06.TWTRDNS.NET
+Name Server: C.U06.TWTRDNS.NET
+Name Server: C.R06.TWTRDNS.NET
+Name Server: A.R06.TWTRDNS.NET
+Name Server: A.U06.TWTRDNS.NET
+DNSSEC: unsigned
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registrar Abuse Contact Email: domainabuse@cscglobal.com
+Registrar Abuse Contact Phone: +1.8887802723
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:57:02.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited.

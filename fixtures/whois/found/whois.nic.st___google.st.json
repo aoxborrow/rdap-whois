@@ -1,0 +1,69 @@
+{
+  "query": "google.st",
+  "server": "whois.nic.st",
+  "domainName": "google.st",
+  "creationDate": "2004-06-15T18:24:45Z",
+  "expirationDate": "2027-06-15T18:24:45Z",
+  "updatedDate": "2026-05-14T10:25:52Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited, clientTransferProhibited, clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor Inc.",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrantName": "Domain Administrator (mm-171195)",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "adminName": "Domain Administrator (mm-171195)",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminState": "CA",
+  "adminPostalCode": "94043",
+  "adminCountry": "US",
+  "adminPhone": "+1.6502530000",
+  "adminFax": "+1.6502530001",
+  "adminEmail": "dns-admin@google.com",
+  "techName": "Domain Administrator (mm-171195)",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "techCity": "Mountain View",
+  "techState": "CA",
+  "techPostalCode": "94043",
+  "techCountry": "US",
+  "techPhone": "+1.6502530000",
+  "techFax": "+1.6502530001",
+  "techEmail": "dns-admin@google.com",
+  "billingName": "Domain Provisioning (MAR52541B369EEFE)",
+  "billingOrg": "Mark Monitor",
+  "billingAddress": [
+    "10400 Overland Road"
+  ],
+  "billingCity": "Boise",
+  "billingPostalCode": "83709",
+  "billingCountry": "US",
+  "billingEmail": "ccops@markmonitor.com"
+}

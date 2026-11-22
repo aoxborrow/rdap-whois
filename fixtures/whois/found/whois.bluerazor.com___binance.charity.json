@@ -1,0 +1,63 @@
+{
+  "query": "binance.charity",
+  "server": "whois.bluerazor.com",
+  "domainId": "97b54a3e36a14b979cce46a454518161-LROR",
+  "domainName": "binance.charity",
+  "creationDate": "2018-09-19T16:00:00Z",
+  "expirationDate": "2027-09-19T16:00:00Z",
+  "registrarExpirationDate": "2027-09-19T16:00:00Z",
+  "updatedDate": "2026-08-14T11:59:48Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-227.awsdns-28.com",
+    "ns-777.awsdns-33.net",
+    "ns-1093.awsdns-08.org",
+    "ns-1542.awsdns-00.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "612",
+  "registrarIanaId": 612,
+  "registrarName": "Blue Razor Domains, LLC",
+  "registrarUrl": "https://www.bluerazor.com",
+  "registrarAbuseEmail": "abuse@bluerazor.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "whois.bluerazor.com",
+  "registrantId": "CR764877426",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "https://www.godaddy.com/whois/results.aspx?domain=binance.charity&action=contactDomainOwner",
+  "techId": "CR764877439",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "https://www.godaddy.com/whois/results.aspx?domain=binance.charity&action=contactDomainOwner"
+}

@@ -1,0 +1,33 @@
+###%%% QRY: monica.im
+###%%% SRV: whois.nic.im
+###%%% TME: 2026-07-16T11:41:34Z
+
+This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name: monica.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 23/02/2028 00:59:57
+Name Server:ns-1320.awsdns-37.org.
+Name Server:ns-384.awsdns-48.com.
+Name Server:ns-643.awsdns-16.net.
+Name Server:ns-1794.awsdns-32.co.uk.

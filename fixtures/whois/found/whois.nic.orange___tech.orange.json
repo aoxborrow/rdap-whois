@@ -1,0 +1,28 @@
+{
+  "query": "tech.orange",
+  "server": "whois.nic.orange",
+  "domainId": "94423ff9702942058d96f87ac995d6cb-DONUTS",
+  "domainName": "tech.orange",
+  "creationDate": "2019-03-06T23:32:16Z",
+  "expirationDate": "2027-03-06T23:32:16Z",
+  "updatedDate": "2026-08-12T06:58:34Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.tech.orange",
+    "ns2.tech.orange"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

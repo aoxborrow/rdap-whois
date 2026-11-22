@@ -1,0 +1,26 @@
+###%%% QRY: missav.ws
+###%%% SRV: whois.website.ws
+###%%% TME: 2026-07-16T23:58:35Z
+
+Domain Name: MISSAV.WS
+Domain ID: 6D24447C4507E2B0E050010AAC0133D7-GDI
+WHOIS Server: whois.godaddy.com
+Registrar URL: www.godaddy.com
+Updated Date: 2026-06-29T12:10:05Z
+Creation Date: 2024-06-28T11:11:01Z
+Registrar Registration Expiration Date: 2027-06-28T11:11:01Z
+Registrar: GoDaddy.com
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: 4805058800
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Domain Status: clientUpdateProhibited
+Domain Status: clientRenewProhibited
+Name Server: grant.ns.cloudflare.com
+Name Server: josephine.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-07-16T23:58:36Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

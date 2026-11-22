@@ -1,0 +1,73 @@
+{
+  "query": "facebook.com",
+  "server": "whois.registrarsafe.com",
+  "domainName": "facebook.com",
+  "creationDate": "1997-03-29T05:00:00Z",
+  "expirationDate": "2034-03-30T04:00:00Z",
+  "registrarExpirationDate": "2034-03-30T04:00:00Z",
+  "updatedDate": "2025-04-23T19:08:37Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://www.icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://www.icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.ns.facebook.com",
+    "b.ns.facebook.com",
+    "c.ns.facebook.com",
+    "d.ns.facebook.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned Delegation",
+  "registrarId": "3237",
+  "registrarIanaId": 3237,
+  "registrarName": "RegistrarSafe, LLC",
+  "registrarUrl": "https://registrarsec.com",
+  "registrarAbuseEmail": "abusecomplaints@registrarsafe.com",
+  "registrarAbusePhone": "+1.6503087004",
+  "registrarWhoisServer": "whois.registrarsec.com",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Meta Platforms, Inc.",
+  "registrantAddress": [
+    "1601 Willow Rd"
+  ],
+  "registrantCity": "Menlo Park",
+  "registrantState": "CA",
+  "registrantPostalCode": "94025",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505434800",
+  "registrantEmail": "domain@fb.com",
+  "adminName": "Domain Admin",
+  "adminOrg": "Meta Platforms, Inc.",
+  "adminAddress": [
+    "1601 Willow Rd"
+  ],
+  "adminCity": "Menlo Park",
+  "adminState": "CA",
+  "adminPostalCode": "94025",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505434800",
+  "adminEmail": "domain@fb.com",
+  "techName": "Domain Admin",
+  "techOrg": "Meta Platforms, Inc.",
+  "techAddress": [
+    "1601 Willow Rd"
+  ],
+  "techCity": "Menlo Park",
+  "techState": "CA",
+  "techPostalCode": "94025",
+  "techCountry": "US",
+  "techPhone": "+1.6505434800",
+  "techEmail": "domain@fb.com"
+}

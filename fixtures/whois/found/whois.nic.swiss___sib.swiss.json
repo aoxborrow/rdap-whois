@@ -1,0 +1,37 @@
+{
+  "query": "sib.swiss",
+  "server": "whois.nic.swiss",
+  "domainId": "DHCQPHJWCWD2273-SWISS",
+  "domainName": "sib.swiss",
+  "creationDate": "2015-12-11T10:32:09Z",
+  "expirationDate": "2027-12-11T10:32:09Z",
+  "updatedDate": "2026-10-06T14:11:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "dns1.sib.swiss",
+    "dns2.sib.swiss"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1387",
+  "registrarIanaId": 1387,
+  "registrarName": "1API GmbH",
+  "registrarUrl": "http://1api.net",
+  "registrarAbuseEmail": "abuse@1api.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.1api.net",
+  "registrantOrg": "SIB Swiss Institute of Bioinformatics",
+  "registrantCountry": "CH",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

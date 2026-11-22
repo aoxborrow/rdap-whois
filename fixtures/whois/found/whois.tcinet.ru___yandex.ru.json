@@ -1,0 +1,15 @@
+{
+  "query": "yandex.ru",
+  "server": "whois.tcinet.ru",
+  "domainName": "yandex.ru",
+  "creationDate": "1997-09-23T09:45:07Z",
+  "expirationDate": "2027-09-30T21:00:00Z",
+  "eppStatusRaw": [
+    "REGISTERED, DELEGATED, VERIFIED"
+  ],
+  "nameservers": [
+    "ns1.yandex.ru",
+    "ns2.yandex.ru"
+  ],
+  "registrarName": "RU-CENTER-RU"
+}

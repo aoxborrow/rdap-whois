@@ -1,0 +1,52 @@
+###%%% QRY: microsoft.com
+###%%% SRV: whois.markmonitor.com
+###%%% TME: 2026-11-22T08:08:10Z
+
+Domain Name: microsoft.com
+Registry Domain ID: 2724960_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar Registration Expiration Date: 2027-05-03T04:00:00.000+00:00
+Registry Expiry Date: 2027-05-03T00:00:00.000+00:00
+Creation Date: 1991-05-02T04:00:00.000+00:00
+Updated Date: 2026-01-29T18:46:57.000+00:00
+Registrant Contact URL: https://domains.markmonitor.com/whois/contact/microsoft.com
+Registrant Name: Domain Administrator
+Registrant Organization: Microsoft Corporation
+Registrant Street: One Microsoft Way
+Registrant City: Redmond
+Registrant State/Province: WA
+Registrant Postal Code: 98052
+Registrant Country: US
+Registrant Email: admin@domains.microsoft
+Registrant Phone: +1.4258828080
+Registrant Phone: +1.4259367329
+Tech Contact URL: https://domains.markmonitor.com/whois/contact/microsoft.com
+Tech Name: MSN Hostmaster
+Tech Email: msnhst@microsoft.com
+Tech Phone: +1.4258828080
+Registrar Organization: Markmonitor Inc.
+Registrar Street: 3540 E Longwing Ln
+Registrar City: Meridian
+Registrar State/Province: ID
+Registrar Postal Code: 83646
+Registrar Country: US
+Registrar Contact URL: https://www.markmonitor.com/contact-us/
+Registrar: Markmonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact: https://corp.markmonitor.com/domain/ui/abuse-report
+Registrar Abuse Contact Phone: +1.2086851750
+Registrar Abuse Contact Name: Markmonitor Inc.
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Domain Status: serverUpdateProhibited
+Domain Status: serverTransferProhibited
+Domain Status: serverDeleteProhibited
+Name Server: ns1-39.azure-dns.com
+Name Server: ns2-39.azure-dns.net
+Name Server: ns3-39.azure-dns.org
+Name Server: ns4-39.azure-dns.info
+Name Server Status: active
+Name Server Last Changed: 2022-04-12T22:06:12.000+00:00 (most recent)
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/

@@ -1,0 +1,32 @@
+{
+  "query": "manual.canon",
+  "server": "whois.nic.canon",
+  "domainId": "DO3722909-GMO",
+  "domainName": "manual.canon",
+  "creationDate": "2018-06-05T03:56:55Z",
+  "expirationDate": "2025-06-05T23:59:59Z",
+  "updatedDate": "2024-06-28T09:44:11Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.canon.net",
+    "ns1.jp.canon.com",
+    "ns2.canon.net",
+    "ns2.jp.canon.com",
+    "ns3.jp.canon.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "49",
+  "registrarIanaId": 49,
+  "registrarName": "GMO Internet Group, Inc.",
+  "registrarUrl": "http://www.onamae.com",
+  "registrarAbuseEmail": "abuse@gmo.jp",
+  "registrarAbusePhone": "+81.337709199",
+  "registrantState": "Tokyo",
+  "registrantCountry": "JP"
+}

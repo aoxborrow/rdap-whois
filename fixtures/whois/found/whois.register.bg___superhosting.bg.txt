@@ -1,0 +1,22 @@
+###%%% QRY: superhosting.bg
+###%%% SRV: whois.register.bg
+###%%% TME: 2026-07-16T11:44:58Z
+
+DOMAIN NAME: superhosting.bg (superhosting.bg)
+registration status: busy, active
+
+NAME SERVER INFORMATION:
+sns2.superhosting.bg 81.17.60.30 
+pns2.superhosting.bg 195.191.149.253 
+pns1.superhosting.bg 195.191.148.253 
+sns1.superhosting.bg 178.162.131.66 
+sns3.superhosting.bg 37.48.73.70 
+
+DNSSEC: inactive
+
+According to REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND
+OF THE COUNCIL (GDPR) personal data is not published.
+
+If you would like to contact the persons responsible for the domain
+name, please, use the online WHOIS contact form from the "Info / Whois" menu
+at www.register.bg.

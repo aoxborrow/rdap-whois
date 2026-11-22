@@ -1,0 +1,24 @@
+###%%% QRY: ilex.by
+###%%% SRV: whois.cctld.by
+###%%% TME: 2026-07-16T11:38:15Z
+
+Domain name: ilex.by
+Registrar: Reliable Software, Ltd
+Org: Общество с ограниченной ответственностью "ЮРСПЕКТР"
+Country: BY
+Address: 220141, -, г. Минск, ул. Ф.Скорины, д. 40, к. 328
+Registration or other identification number: 101528828
+Phone: +375173082828
+Email: cons@urspectr.info
+Name Server: ns1.ilex.by
+IP Address: 134.17.15.108
+Name Server: ns3.ilex.by
+IP Address: 193.176.181.165
+Name Server: ns4.ilex.by
+IP Address: 178.159.249.35
+Update Date: 2026-03-25
+Creation Date: 2015-12-14
+Expiration Date: 2027-12-14
+
+-------------------------------------------
+Service provided by Belarusian Cloud Technologies LLC

@@ -1,0 +1,110 @@
+###%%% QRY: dood.yt
+###%%% SRV: whois.nic.yt
+###%%% TME: 2026-07-16T11:44:49Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        dood.yt
+status:                        ACTIVE
+eppstatus:                     clientTransferProhibited
+hold:                          NO
+holder-c:                      ANO00-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        DS57559-FRNIC
+registrar:                     Name.com LLC
+Expiry Date:                   2027-02-04T17:43:32Z
+created:                       2022-02-04T17:43:32Z
+last-update:                   2026-01-09T10:03:44.404285Z
+source:                        FRNIC
+
+nserver:                       pns11.cloudns.net
+nserver:                       pns12.cloudns.net
+nserver:                       pns13.cloudns.net
+nserver:                       pns14.cloudns.net
+source:                        FRNIC
+
+registrar:                     Name.com LLC
+address:                       414 14th Street
+address:                       #200
+address:                       80202 DENVER, COLORADO
+country:                       US
+phone:                         +1.3033643669
+fax-no:                        +1.3033643646
+e-mail:                        support@name.com
+website:                       https://name.com
+anonymous:                     No
+registered:                    2005-07-11T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     Name.com LLC
+changed:                       2026-05-19T23:55:51.088137Z
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2026-05-19T23:55:51.088144Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2026-05-19T23:55:51.088149Z
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     Name.com LLC
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       DS57559-FRNIC
+type:                          PERSON
+contact:                       Dood Stream
+address:                       1H , Yard 89, Gogala Tun
+address:                       320904 Chur
+country:                       CH
+phone:                         +40.219555
+e-mail:                        support@doodstream.com
+registrar:                     Name.com LLC
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:49.4398Z <<<

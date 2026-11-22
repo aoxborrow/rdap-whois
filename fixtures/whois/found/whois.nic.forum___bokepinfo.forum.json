@@ -1,0 +1,28 @@
+{
+  "query": "bokepinfo.forum",
+  "server": "whois.nic.forum",
+  "domainId": "DO_f154b0b47114cd0599a69c32d68ae607-INAMING",
+  "domainName": "bokepinfo.forum",
+  "creationDate": "2026-09-10T18:42:20Z",
+  "expirationDate": "2027-09-10T18:42:20Z",
+  "updatedDate": "2026-09-15T18:42:52Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "annabel.ns.cloudflare.com",
+    "nero.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3862",
+  "registrarIanaId": 3862,
+  "registrarName": "Spaceship, Inc.",
+  "registrarUrl": "https://www.spaceship.com",
+  "registrarAbuseEmail": "abuse@spaceship.com",
+  "registrarAbusePhone": "+1.6027723958",
+  "registrarWhoisServer": "whois.spaceship.com"
+}

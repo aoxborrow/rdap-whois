@@ -1,0 +1,31 @@
+{
+  "query": "google.fi",
+  "server": "whois.fi",
+  "domainName": "google.fi",
+  "creationDate": "2006-06-30T00:00:00Z",
+  "expirationDate": "2025-07-04T10:15:55Z",
+  "updatedDate": "2024-06-02T12:46:06Z",
+  "status": [
+    "registered"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "no",
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrantId": "3582691",
+  "registrantName": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "United States of America",
+  "techName": "Google LLC",
+  "techEmail": "ccops@markmonitor.com"
+}

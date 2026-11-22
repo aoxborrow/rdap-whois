@@ -1,0 +1,16 @@
+###%%% QRY: jang.com.pk
+###%%% SRV: whois.pknic.net.pk
+###%%% TME: 2026-07-16T11:44:54Z
+
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: jang.com.pk
+    Status: Domain is Registered
+    
+
+    Creation Date: 1998-02-26
+    Expiry Date: 2028-02-26
+    Name Server: jack.ns.cloudflare.com
+    Name Server: ruth.ns.cloudflare.com
+    Name Server: 
+    Name Server:

@@ -1,0 +1,12 @@
+###%%% QRY: notfound-testing-sorry.xn--clchc0ea0b2g2a9gcd
+###%%% SRV: whois.ta.sgnic.sg
+###%%% TME: 2025-03-20T18:33:02Z
+
+Error code: 01044
+Error message: The domain name requested has usage restrictions applied to it. Please see your Registrar for more details.
+
+% ----------------------------------------------------------------------
+% SGNIC WHOIS Server
+% ----------------------------------------------------------------------
+%
+% This data is provided for information purposes only.

@@ -1,0 +1,21 @@
+###%%% QRY: berghain.berlin
+###%%% SRV: whois.cronon.net
+###%%% TME: 2026-11-22T08:29:16Z
+
+DomainQuery berghain.berlin NOT FOUND
+# Terms and conditions:
+#
+# The data in the WHOIS database of Cronon GmbH is provided by
+# Cronon GmbH for information purposes, and to assist persons in
+# obtaining information about or related to a domain name registration
+# record.  Cronon GmbH does not guarantee its accuracy.  By submitting
+# a WHOIS query, you agree that you will use this data only for lawful
+# purposes and that, under no circumstances, you will use this data to
+#  (1) allow, enable, or otherwise support the transmission of mass
+#      unsolicited, commercial advertising or solicitations via E-mail
+#      (spam); or
+#  (2) enable high volume, automated, electronic processes that apply to
+#      Cronon GmbH or its systems.
+# Cronon GmbH reserves the right to modify these terms at any time.
+# By submitting this query, you agree to abide by this policy.
+#

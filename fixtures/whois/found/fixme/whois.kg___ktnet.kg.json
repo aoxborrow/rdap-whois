@@ -1,0 +1,37 @@
+{
+  "domainName": "ktnet.kg",
+  "creationDate": "2001-01-16T08:42:32Z",
+  "expirationDate": "2026-01-29T00:00:00Z",
+  "updatedDate": "2025-01-17T17:35:53Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.ktnet.kg",
+    "ns2.ktnet.kg"
+  ],
+  "adminId": "3262-KG",
+  "adminName": "Kyrgyztelecom JSC",
+  "adminAddress": [
+    "Kyrgyzstan Бишкек Чуй 96"
+  ],
+  "adminPhone": "996552920745",
+  "adminFax": "+ 996 312 662424",
+  "adminEmail": "admin@kt.kg",
+  "techId": "3262-KG",
+  "techName": "Kyrgyztelecom JSC",
+  "techAddress": [
+    "Kyrgyzstan Бишкек Чуй 96"
+  ],
+  "techPhone": "996552920745",
+  "techFax": "+ 996 312 662424",
+  "techEmail": "admin@kt.kg",
+  "billingId": "3262-KG",
+  "billingName": "Kyrgyztelecom JSC",
+  "billingAddress": [
+    "Kyrgyzstan Бишкек Чуй 96"
+  ],
+  "billingPhone": "996552920745",
+  "billingFax": "+ 996 312 662424",
+  "billingEmail": "admin@kt.kg"
+}

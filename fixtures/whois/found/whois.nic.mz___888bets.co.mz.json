@@ -1,0 +1,30 @@
+{
+  "query": "888bets.co.mz",
+  "server": "whois.nic.mz",
+  "domainId": "61964-NICMZ",
+  "domainName": "888bets.co.mz",
+  "creationDate": "2022-07-06T15:02:40Z",
+  "expirationDate": "2027-07-06T15:02:40Z",
+  "registrarExpirationDate": "2027-07-06T15:02:40Z",
+  "updatedDate": "2026-06-25T14:37:46Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "coco.bunny.net",
+    "kiki.bunny.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Safenames Ltd",
+  "registrarAddress": [
+    "Safenames House, Sunrise Parkway, Milton Keynes, Bucks, MK14 6LS, United Kingdom"
+  ],
+  "registrarCountry": "GB",
+  "registrarPhone": "+441908200022",
+  "registrarFax": "+441908325192",
+  "registrarEmail": "hostmaster@safenames.net"
+}

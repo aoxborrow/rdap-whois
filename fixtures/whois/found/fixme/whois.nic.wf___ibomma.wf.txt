@@ -1,0 +1,93 @@
+###%%% QRY: ibomma.wf
+###%%% SRV: whois.nic.wf
+###%%% TME: 2025-04-09T08:37:20Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        ibomma.wf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      CTC5967-FRNIC
+admin-c:                       CTC5967-FRNIC
+tech-c:                        CTC5968-FRNIC
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+Expiry Date:                   2026-02-02T19:57:03.826486Z
+created:                       2024-02-02T19:57:03.855602Z
+last-update:                   2025-02-01T03:51:41.168367Z
+source:                        FRNIC
+
+nserver:                       isla.ns.cloudflare.com
+nserver:                       yahir.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+address:                       Hofplein 20
+address:                       Spaces Business Centre
+address:                       3032 AC ROTTERDAM
+country:                       NL
+phone:                         +31.104482299
+fax-no:                        +31.102440250
+e-mail:                        sales@openprovider.com
+website:                       https://www.openprovider.com
+anonymous:                     No
+registered:                    2005-06-27T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC5968-FRNIC
+type:                          ORGANIZATION
+contact:                       Privacy Protect LLC
+address:                       Privacy Protect LLC
+address:                       Makariou III, 42E
+address:                       1065 Nicosia
+address:                       Nocosia
+country:                       CY
+phone:                         +1.6282511337
+e-mail:                        whois+ibomma.wf@privacyprotect.email
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-01-27T13:54:41.8715Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-01-27T13:54:41.8715Z
+source:                        FRNIC
+
+nic-hdl:                       CTC5967-FRNIC
+type:                          ORGANIZATION
+contact:                       Privacy Protect LLC
+address:                       Privacy Protect LLC
+address:                       Makariou III, 42E
+address:                       1065 Nicosia
+address:                       Nocosia
+country:                       CY
+phone:                         +1.6282511337
+e-mail:                        whois+ibomma.wf@privacyprotect.email
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-01-27T13:54:41.629029Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-01-27T13:54:41.629029Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-04-09T08:37:20.492838Z <<<

@@ -1,0 +1,65 @@
+###%%% QRY: story.capetown
+###%%% SRV: whois.lexsynergy.com
+###%%% TME: 2025-03-20T13:51:55Z
+
+Domain Name: story.capetown
+Registry Domain ID: DOM_8CZ-CAPETOWN
+Registrar WHOIS Server: whois.lexsynergy.com
+Registrar URL: http://www.lexsynergy.com/
+Updated Date: 2024-08-07T06:20:58Z
+Creation Date: 2020-09-28T12:38:52Z
+Registrar Registration Expiration Date: 2025-09-28T12:38:52Z
+Registrar: Lexsynergy Limited
+Registrar IANA ID: 1466
+Registrar Abuse Contact Email: abuse@lexsynergy.com
+Registrar Abuse Contact Phone: +44.2031370459
+Reseller: Cybersmart Pty (Ltd)
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Calothi Technologies CC
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Rondebosch
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: ZA
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: REDACTED FOR PRIVACY
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: REDACTED FOR PRIVACY
+Registrant Email: support@gummy.co.za
+Registry Admin ID: 
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: REDACTED FOR PRIVACY
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: REDACTED FOR PRIVACY
+Admin Email: support@gummy.co.za
+Registry Tech ID: 
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: REDACTED FOR PRIVACY
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: REDACTED FOR PRIVACY
+Tech Email: support@gummy.co.za
+Name Server: ns1.gummy.co.za
+Name Server: ns2.gummy.co.za
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-03-20T13:51:55Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

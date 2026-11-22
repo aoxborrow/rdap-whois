@@ -1,0 +1,53 @@
+###%%% QRY: amazon.com.br
+###%%% SRV: whois.registro.br
+###%%% TME: 2026-07-16T11:45:03Z
+
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2026-07-16T08:45:04-03:00 - 192.0.2.1
+
+domain:      amazon.com.br
+owner:       Amazon Servicos de Varejo do Brasil Ltda.
+ownerid:     15.436.940/0001-03
+responsible: Heloisa Ribeiro
+country:     BR
+owner-c:     ASVBL
+tech-c:      NILTL6
+nserver:     ns2.amzndns.com
+nsstat:      20260714 AA
+nslastaa:    20260714
+nserver:     ns2.amzndns.net
+nsstat:      20260714 AA
+nslastaa:    20260714
+nserver:     ns2.amzndns.org
+nsstat:      20260714 AA
+nslastaa:    20260714
+nserver:     ns2.amzndns.co.uk
+nsstat:      20260714 AA
+nslastaa:    20260714
+created:     19950927 #4152
+changed:     20250917
+expires:     20260927
+status:      published
+
+nic-hdl-br:  ASVBL
+person:      Amazon Servicos de Varejo do Brasil LTDA
+e-mail:      mail@nameaction.com
+country:     BR
+created:     20121119
+changed:     20240905
+
+nic-hdl-br:  NILTL6
+person:      NOM IQ LTD (TRADING AS COM LAUDE)
+e-mail:      mail@nameaction.com
+country:     GB
+created:     20201016
+changed:     20210614
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

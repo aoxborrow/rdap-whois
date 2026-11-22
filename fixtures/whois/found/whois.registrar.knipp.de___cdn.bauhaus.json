@@ -1,0 +1,34 @@
+{
+  "query": "cdn.bauhaus",
+  "server": "whois.registrar.knipp.de",
+  "domainId": "Doffk55-BAUHAUS",
+  "domainName": "cdn.bauhaus",
+  "creationDate": "2022-11-09T09:00:49Z",
+  "expirationDate": "2032-11-09T09:00:49Z",
+  "registrarExpirationDate": "2032-11-09T09:00:49Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "amber.ns.cloudflare.com",
+    "merlin.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3779",
+  "registrarIanaId": 3779,
+  "registrarName": "Knipp Medien und Kommunikation GmbH",
+  "registrarReseller": "CORE-39 (Knipp Medien und Kommunikation GmbH)",
+  "registrarUrl": "https://www.knipp.de",
+  "registrarAbuseEmail": "registrar@knipp.de",
+  "registrarAbusePhone": "+49.23197030",
+  "registrarWhoisServer": "whois.registrar.knipp.de",
+  "registrantCountry": "DE",
+  "registrantEmail": "undisclosed-email@knipp.de",
+  "adminEmail": "undisclosed-email@knipp.de",
+  "techEmail": "undisclosed-email@knipp.de",
+  "billingEmail": "undisclosed-email@knipp.de"
+}

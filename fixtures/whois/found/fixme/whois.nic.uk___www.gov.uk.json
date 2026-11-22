@@ -1,0 +1,28 @@
+{
+  "domainName": "gov.uk",
+  "creationDate": "1996-08-01T00:00:00Z",
+  "status": [
+    "no registration status listed."
+  ],
+  "nameservers": [
+    "dns1.nic.uk",
+    "dns2.nic.uk",
+    "dns3.nic.uk",
+    "dns4.nic.uk",
+    "nsa.nic.uk",
+    "nsb.nic.uk",
+    "nsc.nic.uk",
+    "nsd.nic.uk"
+  ],
+  "registrarName": "No registrar listed.  This domain is directly registered with Nominet.",
+  "registrantName": "UK Cabinet Office",
+  "registrantOrg": "UK Government Body",
+  "registrantAddress": [
+    "Government Digital Service",
+    "The White Chapel Building 7th Floor",
+    "10 Whitechapel High Street",
+    "London",
+    "E1 8QS",
+    "GB"
+  ]
+}

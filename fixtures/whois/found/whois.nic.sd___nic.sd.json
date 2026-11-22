@@ -1,0 +1,35 @@
+{
+  "query": "nic.sd",
+  "server": "whois.nic.sd",
+  "domainId": "24475-sdnic",
+  "domainName": "nic.sd",
+  "creationDate": "2018-05-09T21:00:00Z",
+  "expirationDate": "2018-05-09T21:00:00Z",
+  "registrarExpirationDate": "2018-05-09T21:00:00Z",
+  "updatedDate": "2026-01-14T19:11:01Z",
+  "eppStatus": [
+    "ok",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.desec.io",
+    "ns2.desec.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Sudan Internet Society",
+  "registrarAddress": [
+    "Telecom Tower first floor"
+  ],
+  "registrarCity": "Khartoum",
+  "registrarPostalCode": "11111",
+  "registrarCountry": "SD",
+  "registrarPhone": "+249155689555",
+  "registrarEmail": "info@isoc.sd",
+  "registrarAbuseEmail": "info@isoc.sd",
+  "registrarAbusePhone": "+249155689555"
+}

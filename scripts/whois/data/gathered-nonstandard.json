@@ -1,0 +1,5 @@
+{
+  "registrar_name_whole_line": {
+    "(?<=Registrar:\\s*\\n\\s*)(.*)": 1
+  }
+}

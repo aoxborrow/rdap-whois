@@ -1,0 +1,36 @@
+{
+  "query": "nic.jeep",
+  "server": "whois.nic.jeep",
+  "domainId": "ec2e8036a1b24fd5bc3218e13dca19e8-DONUTS",
+  "domainName": "nic.jeep",
+  "creationDate": "2016-01-22T23:34:37Z",
+  "expirationDate": "2027-01-22T23:34:37Z",
+  "updatedDate": "2026-08-12T06:53:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.jeep",
+    "v0n1.nic.jeep",
+    "v0n2.nic.jeep",
+    "v0n3.nic.jeep",
+    "v2n0.nic.jeep",
+    "v2n1.nic.jeep"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

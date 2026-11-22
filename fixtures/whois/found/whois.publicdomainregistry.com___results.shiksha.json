@@ -1,0 +1,67 @@
+{
+  "query": "results.shiksha",
+  "server": "whois.publicdomainregistry.com",
+  "domainId": "7c11ae2281254b6695ae54eedded6f2e-DONUTS",
+  "domainName": "results.shiksha",
+  "creationDate": "2016-04-03T02:35:55Z",
+  "expirationDate": "2027-04-03T02:35:55Z",
+  "registrarExpirationDate": "2027-04-03T02:35:55Z",
+  "updatedDate": "2025-03-05T05:13:04Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "51725.earth.orderbox-dns.com",
+    "51725.mars.orderbox-dns.com",
+    "51725.mercury.orderbox-dns.com",
+    "51725.venus.orderbox-dns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "303",
+  "registrarIanaId": 303,
+  "registrarName": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "registrarUrl": "https://www.publicdomainregistry.com",
+  "registrarAbuseEmail": "abuse-contact@publicdomainregistry.com",
+  "registrarAbusePhone": "+1.2013775952",
+  "registrarWhoisServer": "whois.publicdomainregistry.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Siddharth Jalan",
+  "registrantOrg": "Narayani EduSols",
+  "registrantAddress": [
+    "Gautam Buddha Nagar, UP"
+  ],
+  "registrantCity": "Gautam Buddha Nagar",
+  "registrantPostalCode": "201306",
+  "registrantCountry": "IN",
+  "registrantPhone": "+91.9811554192",
+  "registrantFax": "+91.9811554192",
+  "registrantEmail": "info@results.shiksha",
+  "adminId": "Not Available From Registry",
+  "adminName": "Siddharth Jalan",
+  "adminOrg": "Narayani EduSols",
+  "adminAddress": [
+    "Gautam Buddha Nagar, UP"
+  ],
+  "adminCity": "Gautam Buddha Nagar",
+  "adminPostalCode": "201306",
+  "adminCountry": "IN",
+  "adminPhone": "+91.9811554192",
+  "adminFax": "+91.9811554192",
+  "adminEmail": "info@results.shiksha",
+  "techId": "Not Available From Registry",
+  "techName": "Siddharth Jalan",
+  "techOrg": "Narayani EduSols",
+  "techAddress": [
+    "Gautam Buddha Nagar, UP"
+  ],
+  "techCity": "Gautam Buddha Nagar",
+  "techPostalCode": "201306",
+  "techCountry": "IN",
+  "techPhone": "+91.9811554192",
+  "techFax": "+91.9811554192",
+  "techEmail": "info@results.shiksha"
+}

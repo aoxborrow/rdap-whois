@@ -1,0 +1,42 @@
+{
+  "description": "Per-server request limits the library applies by default, keyed by hostname. concurrency is the most requests in flight to the server at once; minInterval is the shortest time between two requests starting, in milliseconds. Each entry keeps under what its registry publishes, or is cautious where a registry says it limits but gives no number. A server not listed gets the default (2 in flight, 250 ms apart, about 4 a second). Registries checked that publish nothing, and so get the default: Verisign (.com, .net), PIR (.org), CentralNic, GoDaddy Registry, EURid, SIDN, CIRA, IIS, auDA. Identity Digital publishes 10 queries a second per address on WHOIS and RDAP, which the default already keeps under. Checked 2026-11-16. Set updated to the date of any change to the limits.",
+  "updated": "2026-11-20",
+  "servers": {
+    "whois.nic.uk": {
+      "concurrency": 1,
+      "minInterval": 250,
+      "source": "https://registrars.nominet.uk/document/acceptable-use-policy/",
+      "note": "5 queries a second, and 1,000 per rolling 24 hours, which a spacing cannot express"
+    },
+    "whois.punktum.dk": {
+      "concurrency": 1,
+      "minInterval": 1100,
+      "source": "https://github.com/DK-Hostmaster/whois-service-specification",
+      "note": "1 request a second per source address; going over it bans the address for a while"
+    },
+    "whois.denic.de": {
+      "concurrency": 1,
+      "minInterval": 500,
+      "source": "https://list.denic.de/arc/public-l/2011-04/msg00002.html",
+      "note": "limited per /24 network, with no number published"
+    },
+    "whois.nic.ch": {
+      "concurrency": 1,
+      "minInterval": 1000,
+      "source": "https://nic.ch/terms/aup",
+      "note": "limits accesses per unit of time, with no number published; once it limits an address it answers with a short refusal"
+    },
+    "whois.nic.li": {
+      "concurrency": 1,
+      "minInterval": 1000,
+      "source": "https://nic.ch/terms/aup",
+      "note": "the same registry and terms as whois.nic.ch"
+    },
+    "whois.jprs.jp": {
+      "concurrency": 1,
+      "minInterval": 1000,
+      "source": "https://jprs.jp/about/dom-search/jprs-whois/whois-guide-notes.html",
+      "note": "repeated rapid queries are blocked for a while, with no number published"
+    }
+  }
+}

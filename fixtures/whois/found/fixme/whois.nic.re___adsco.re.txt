@@ -1,0 +1,109 @@
+###%%% QRY: adsco.re
+###%%% SRV: whois.nic.re
+###%%% TME: 2025-04-09T08:36:45Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        adsco.re
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ISL41-FRNIC
+admin-c:                       PDML4-FRNIC
+tech-c:                        FF1878-FRNIC
+registrar:                     Marcaria.com International Inc.
+Expiry Date:                   2027-02-14T18:29:52Z
+created:                       2017-02-14T18:29:52Z
+last-update:                   2022-08-30T05:46:50Z
+source:                        FRNIC
+
+nserver:                       alex.ns.cloudflare.com
+nserver:                       dawn.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     Marcaria.com International Inc.
+address:                       8345 NW 66 ST #B1673
+address:                       FL 33195 MIAMI
+country:                       US
+phone:                         +1.3054348621
+fax-no:                        +1.3056752956
+e-mail:                        domains@marcaria.com
+website:                       https://www.marcaria.com/ws/en/register/domains/bulk-domain-registration-fr
+anonymous:                     No
+registered:                    2008-03-10T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ISL41-FRNIC
+type:                          ORGANIZATION
+contact:                       ICRON SERVICES LTD
+address:                       ICRON SERVICES LTD
+address:                       Maria House, 1 Avlonos street
+address:                       1075 Nicosia
+country:                       CY
+phone:                         +1.3054348621
+fax-no:                        +1.3056752956
+e-mail:                        domains@marcaria.com
+registrar:                     Marcaria.com International Inc.
+changed:                       2023-07-07T21:34:30.49586Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRY
+eligdate:                      2017-04-11T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    phone
+reachsource:                   REGISTRY
+reachdate:                     2017-04-11T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       FF1878-FRNIC
+type:                          ORGANIZATION
+contact:                       Francisco Fuentealba
+address:                       MARCARIA.COM CORP
+address:                       # 1000177, 222 Grace Church St. Suite 302
+address:                       10573 Port Chester
+US
+address:                       10573 Port Chester
+country:                       US
+phone:                         +1.3056767321
+e-mail:                        manage@marcaria.com
+registrar:                     Marcaria.com International Inc.
+changed:                       2023-07-07T21:34:30.483897Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       PDML4-FRNIC
+type:                          ORGANIZATION
+contact:                       PRIME DOMAIN MANAGER LIMITED
+address:                       PRIME DOMAIN MANAGER LIMITED
+address:                       Avlonos, 1 Maria . House
+address:                       1075 Nicosia
+country:                       CY
+phone:                         +3.5722232467
+e-mail:                        domains@primedomain.ws
+registrar:                     Marcaria.com International Inc.
+changed:                       2024-04-23T18:43:54.143026Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2025-04-09T08:36:45.405674Z <<<

@@ -1,0 +1,32 @@
+{
+  "query": "nic.baseball",
+  "server": "whois.nic.baseball",
+  "domainId": "D214-BASEBALL",
+  "domainName": "nic.baseball",
+  "creationDate": "2013-08-09T23:22:37Z",
+  "expirationDate": "2027-08-08T23:59:59Z",
+  "updatedDate": "2026-11-12T05:51:04Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.nic.baseball",
+    "ns2.dns.nic.baseball",
+    "ns3.dns.nic.baseball",
+    "ns4.dns.nic.baseball",
+    "ns5.dns.nic.baseball",
+    "ns6.dns.nic.baseball"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "MLB Advanced Media DH, LLC"
+}

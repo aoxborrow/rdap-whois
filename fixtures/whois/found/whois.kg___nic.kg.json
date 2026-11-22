@@ -1,0 +1,42 @@
+{
+  "query": "nic.kg",
+  "server": "whois.kg",
+  "domainName": "nic.kg",
+  "creationDate": "2001-01-16T10:31:46Z",
+  "expirationDate": "2027-03-22T23:59:00Z",
+  "updatedDate": "2026-03-03T21:02:44Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "ns1.website.org",
+    "ns2.website.org"
+  ],
+  "adminId": "AI-40958-KG",
+  "adminName": "KV GmbH",
+  "adminAddress": [
+    "Германия DE Osnabrueck Martinistr. 3"
+  ],
+  "adminPhone": "+49-541-95224925",
+  "adminFax": "+49-541-95224926",
+  "adminEmail": "kv@kg.internetx.com",
+  "techId": "AI-40958-KG",
+  "techName": "KV GmbH",
+  "techAddress": [
+    "Германия DE Osnabrueck Martinistr. 3"
+  ],
+  "techPhone": "+49-541-95224925",
+  "techFax": "+49-541-95224926",
+  "techEmail": "kv@kg.internetx.com",
+  "billingId": "12509-KG",
+  "billingName": "InterNetX GmbH",
+  "billingAddress": [
+    "Германия Bayern Regensburg Johanna-Dachs-Str. 55"
+  ],
+  "billingPhone": "+49-941-59559482",
+  "billingFax": "+49-941-59579050",
+  "billingEmail": "nic-kg@domains.internetx.de"
+}

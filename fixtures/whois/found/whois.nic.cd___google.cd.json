@@ -1,0 +1,79 @@
+{
+  "query": "google.cd",
+  "server": "whois.nic.cd",
+  "domainId": "4592-niccd",
+  "domainName": "google.cd",
+  "creationDate": "2021-01-15T00:00:00Z",
+  "expirationDate": "2025-06-30T00:00:00Z",
+  "registrarExpirationDate": "2025-06-30T00:00:00Z",
+  "updatedDate": "2024-06-04T20:02:11Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Markmonitor",
+  "registrarWhoisServer": "whois.nic.cd",
+  "registrantId": "ljhav-MTE1F",
+  "registrantName": "Google LLC",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "dns-adminATgoogle.com",
+  "adminId": "Vcoqy-niNsN",
+  "adminName": "Google LLC",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminState": "CA",
+  "adminPostalCode": "94043",
+  "adminCountry": "US",
+  "adminPhone": "+1.6502530000",
+  "adminEmail": "dns-adminATgoogle.com",
+  "techId": "RTrmT-hYCqm",
+  "techName": "Google LLC",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "techCity": "Mountain View",
+  "techState": "CA",
+  "techPostalCode": "94043",
+  "techCountry": "US",
+  "techPhone": "+1.6502530000",
+  "techEmail": "dns-adminATgoogle.com",
+  "billingId": "zlGhh-gXuDO",
+  "billingName": "MarkMonitor Inc.",
+  "billingOrg": "MarkMonitor Inc.",
+  "billingAddress": [
+    "2150 S Bonito Way",
+    "Suite 150"
+  ],
+  "billingCity": "Meridian",
+  "billingState": "ID",
+  "billingPostalCode": "83642",
+  "billingCountry": "US",
+  "billingPhone": "+1.2083895740",
+  "billingEmail": "ccopsATmarkmonitor.com"
+}

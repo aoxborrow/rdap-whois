@@ -1,0 +1,40 @@
+###%%% QRY: lonab.bf
+###%%% SRV: whois.registre.bf
+###%%% TME: 2026-07-16T11:44:57Z
+
+Domain Name: lonab.bf
+Registry Domain ID: 1374-BFA
+Registry WHOIS Server: whois.registre.bf
+Registrar URL: RegistrarURL
+Updated Date: 2026-03-19T16:01:41.932Z
+Creation Date: 2021-01-01T00:00:00.0Z
+Registry Expiry Date: 2026-10-25T11:00:00.0Z
+Registrar Registration Expiration Date: 2026-10-25T11:00:00.0Z
+Registrar: IKA SOLUTION
+Registrar Abuse Contact Email: infos@ikasolution.bf
+Registrar Abuse Contact Phone: +226.72089090
+Registrar Country: BF
+Registrar Phone: +226.72089090
+Registrar Customer Service Contact: +226 25 65 59 54
+Registrar Customer Service Email: infos@ikasolution.bf
+Registrar Admin Contact: BE IKA SOLUTION
+Registrar Admin Email: youattara@ikasolution.bf
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: jlDYf-WNTGb
+Registrant Name: Redacted | Registry Policy
+Registrant Organization: MIGRATION-ORG
+Registrant Street: MIGRATION-ADDRESSE
+Registrant City: Ouagadougou
+Registrant Country: BF
+Registrant Phone: Redacted | Registry Policy
+Registrant Email: Redacted | Registry Policy
+Name Server: jillian.ns.cloudflare.com
+Name Server: yoxall.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T11:19:17.325Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

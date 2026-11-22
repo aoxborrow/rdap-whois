@@ -1,0 +1,41 @@
+###%%% QRY: mail.ss
+###%%% SRV: whois.nic.ss
+###%%% TME: 2026-07-16T11:44:00Z
+
+Domain Name: mail.ss
+Registry Domain ID: 7243-SSNIC
+Updated Date: 2025-07-24T05:59:59Z
+Creation Date: 2024-10-09T18:50:25Z
+Registry Expiry Date: 2030-10-09T18:50:25Z
+Registrar Registration Expiration Date: 2030-10-09T18:50:25Z
+Registrar: JuHub
+Registrar Email: ugwakmasimo@gmail.com
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 7241-SSNIC
+Registrant Name: Netser Group Holdings Limited
+Registrant Street: Netser Group Holdings Limited Unit 506 5/F
+Registrant City: Central
+Registrant State/Province: Hong Kong
+Registrant Postal Code: 
+Registrant Country: HK
+Registrant Email: whois@netser.com
+Registrant Phone: +852.61234539
+Name Server: violet.ns.cloudflare.com
+Name Server: brodie.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T11:44:00.711Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Copyright SSNIC
+
+The data below is provided for information purposes  and to assist persons in obtaining information about or related to domain name registrations.
+By submitting a whois query, you agree to use this data only for lawful purposes.
+
+remarks:     Security issues should also be addressed to noc@nic.ss
+remarks:     Mail abuse issues should also be addressed to abuse@nic.ss
+ 
+whois.nic.ss accepts only direct match queries.
+Types of queries are: domains (.SS) and POCs.

@@ -1,0 +1,84 @@
+###%%% QRY: mec.ca
+###%%% SRV: whois.cira.ca
+###%%% TME: 2026-07-16T23:20:02Z
+
+Domain Name: mec.ca
+Registry Domain ID: D472613-CIRA
+Registrar WHOIS Server: whois.ca.fury.ca
+Registrar URL: webnames.ca
+Updated Date: 2026-07-09T15:04:25Z
+Creation Date: 2000-09-22T18:32:28Z
+Registry Expiry Date: 2035-02-18T05:00:00Z
+Registrar: Webnames.ca Inc.
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Registrar Abuse Contact Phone Ext:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 88086532-CIRA
+Registrant Name: David Greekas
+Registrant Organization: MEC Mountain Equipment Company Ltd.
+Registrant Street: 101-887 Great Northern Way
+Registrant City: Vancouver
+Registrant State/Province: BC
+Registrant Postal Code: V5T4T5
+Registrant Country: CA
+Registrant Phone: +1.6047073300
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: tldadmin@mec.ca
+Registry Admin ID: 88086534-CIRA
+Admin Name: David Greekas
+Admin Organization: MEC Mountain Equipment Company Ltd.
+Admin Street: 101-887 Great Northern Way
+Admin City: Vancouver
+Admin State/Province: BC
+Admin Postal Code: V5T4T5
+Admin Country: CA
+Admin Phone: +1.6047073300
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: tldadmin@mec.ca
+Registry Tech ID: 88086535-CIRA
+Tech Name: David Greekas
+Tech Organization: MEC Mountain Equipment Company Ltd.
+Tech Street: 101-887 Great Northern Way
+Tech City: Vancouver
+Tech State/Province: BC
+Tech Postal Code: V5T4T5
+Tech Country: CA
+Tech Phone: +1.6047073300
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: tldadmin@mec.ca
+Registry Billing ID:
+Billing Name:
+Billing Organization:
+Billing Street:
+Billing City:
+Billing State/Province:
+Billing Postal Code:
+Billing Country:
+Billing Phone:
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email:
+Name Server: ns-1031.awsdns-00.org
+Name Server: ns-168.awsdns-21.com
+Name Server: ns-1864.awsdns-41.co.uk
+Name Server: ns-710.awsdns-24.net
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:20:02Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at https://www.cira.ca/en/resources/documents/about/website-terms-use
+%
+% (c) 2026 Canadian Internet Registration Authority, (http://www.cira.ca/)

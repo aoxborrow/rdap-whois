@@ -1,0 +1,78 @@
+{
+  "query": "mabanque.bnpparibas",
+  "server": "whois.nic.bnpparibas",
+  "domainId": "REDACTED",
+  "domainName": "mabanque.bnpparibas",
+  "creationDate": "2015-01-19T08:43:37Z",
+  "expirationDate": "2027-01-19T08:43:37Z",
+  "updatedDate": "2026-08-12T05:10:28Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.bnpparibas.com",
+    "ns2.bnpparibas.com",
+    "ns3.domivesta.net",
+    "ns4.domivesta.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1251",
+  "registrarIanaId": 1251,
+  "registrarName": "Nameshield SAS",
+  "registrarUrl": "http://www.nameshield.net",
+  "registrarAbuseEmail": "registrar@nameshield.net",
+  "registrarAbusePhone": "+33.241182828",
+  "registrarWhoisServer": "whois.nameshield.net",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "BNP PARIBAS",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "FR",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "REDACTED",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "REDACTED",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "REDACTED"
+}

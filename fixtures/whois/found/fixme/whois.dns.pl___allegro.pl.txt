@@ -1,0 +1,32 @@
+###%%% QRY: allegro.pl
+###%%% SRV: whois.dns.pl
+###%%% TME: 2025-04-09T08:09:20Z
+
+DOMAIN NAME:                    allegro.pl
+registrant type:                individual
+nameservers:                    dns1.allegro.pl. [91.194.188.132][2a02:dcc:20::5]
+                                dns2.allegro.pl. [91.207.14.244][2a02:dc8:20::5]
+                                dns3.allegro.pl. [178.21.153.53][2a02:dcc:22::53]
+                                dns4.allegro.pl. [193.203.223.37][2a02:dc8:22::53]
+created:                        1999.10.27 13:00:00
+last modified:                  2025.04.02 11:23:54
+renewal date:                   2025.10.26 14:00:00
+
+option created:                 2020.06.02 23:44:16
+option expiration date:         2026.06.02 23:44:16
+
+dnssec:                         Unsigned
+
+REGISTRAR:
+Corporation Service Company
+251 Little Falls Drive
+19808 Wilmington
+Delaware
+Stany Zjednoczone/United States
+Tel: +1.3026365400
+Fax: +1.3026365454
+registryrelations@cscinfo.com
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system

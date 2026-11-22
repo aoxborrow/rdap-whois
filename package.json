@@ -1,0 +1,139 @@
+{
+  "name": "@aoxborrow/rdap-whois",
+  "version": "0.0.0-dev",
+  "description": "Smart domain lookup combining RDAP and WHOIS, with one normalized result",
+  "license": "MIT",
+  "author": "Aaron Oxborrow",
+  "homepage": "https://github.com/aoxborrow/rdap-whois",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoxborrow/rdap-whois.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aoxborrow/rdap-whois/issues"
+  },
+  "keywords": [
+    "whois",
+    "rdap",
+    "domain",
+    "domain-lookup",
+    "domain-availability",
+    "rdap-client",
+    "whois-client",
+    "registrar",
+    "registry",
+    "whois-parser",
+    "cloudflare-workers"
+  ],
+  "type": "module",
+  "sideEffects": false,
+  "engines": {
+    "node": ">=22.12"
+  },
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "rdap-whois": "./dist/cli.js"
+  },
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "default": "./dist/index.js"
+    },
+    "./whois": {
+      "types": "./dist/whois/index.d.ts",
+      "default": "./dist/whois/index.js"
+    },
+    "./utils": {
+      "types": "./dist/utils.d.ts",
+      "default": "./dist/utils.js"
+    },
+    "./transports/node": {
+      "types": "./dist/transports/node.d.ts",
+      "default": "./dist/transports/node.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "dist",
+    "/README.md",
+    "/LICENSE",
+    "/CHANGELOG.md"
+  ],
+  "scripts": {
+    "build": "node -e \"require('node:fs').rmSync('dist', { recursive: true, force: true })\" && tsup",
+    "typecheck": "tsc --noEmit",
+    "check:browser": "node scripts/browser-check.mjs",
+    "check:pack": "node scripts/pack-check.mjs",
+    "check:examples": "cd examples && npm ci --no-audit --no-fund --ignore-scripts && tsc -p . && tsc -p worker && tsx parse-only.ts",
+    "lint": "tsc --noEmit && eslint --cache --cache-location .eslintcache --max-warnings 0 . && prettier --check \"src/**/*.ts\" \"test/**/*.ts\" \"scripts/**/*.ts\" \"examples/**/*.ts\" eslint.config.mjs tsup.config.ts vitest.config.ts",
+    "lint:fix": "eslint --cache --cache-location .eslintcache --max-warnings 0 . --fix && prettier --write --list-different \"src/**/*.ts\" \"test/**/*.ts\" \"scripts/**/*.ts\" \"examples/**/*.ts\" eslint.config.mjs tsup.config.ts vitest.config.ts",
+    "eslint": "eslint --cache --cache-location .eslintcache --max-warnings 0 .",
+    "eslint:fix": "eslint --cache --cache-location .eslintcache --max-warnings 0 . --fix",
+    "format": "prettier --check \"src/**/*.ts\" \"test/**/*.ts\" \"scripts/**/*.ts\" \"examples/**/*.ts\" eslint.config.mjs tsup.config.ts vitest.config.ts",
+    "format:fix": "prettier --write --list-different \"src/**/*.ts\" \"test/**/*.ts\" \"scripts/**/*.ts\" \"examples/**/*.ts\" eslint.config.mjs tsup.config.ts vitest.config.ts",
+    "test": "vitest run",
+    "who": "tsx src/cli.ts",
+    "coverage": "tsx scripts/coverage.ts",
+    "countries:generate": "tsx scripts/generate-countries.ts",
+    "proxy:check": "tsx --env-file-if-exists=.env scripts/proxy-check.ts",
+    "registry:health": "tsx --env-file-if-exists=.env scripts/registry-health/registry-health.ts",
+    "registry:cross-diff": "tsx --env-file-if-exists=.env scripts/registry-health/cross-diff.ts",
+    "registry:community-diff": "tsx --env-file-if-exists=.env scripts/registry-health/community-diff.ts",
+    "rdap:health": "tsx --env-file-if-exists=.env scripts/rdap/rdap-health.ts",
+    "rdap:update": "tsx scripts/rdap/update-rdap.ts",
+    "rdap:check-servers": "tsx --env-file-if-exists=.env scripts/rdap/check-rdap.ts",
+    "rdap:discover": "tsx --env-file-if-exists=.env scripts/rdap/rdap-discover.ts",
+    "rdap:validate-dry-run": "tsx --env-file-if-exists=.env scripts/rdap/validate-dry-run.ts",
+    "rdap:hop-compare": "tsx --env-file-if-exists=.env scripts/rdap/hop-compare.ts",
+    "whois:health": "tsx --env-file-if-exists=.env scripts/whois/whois-health.ts",
+    "whois:update-tlds": "tsx --env-file-if-exists=.env scripts/whois/update-tlds.ts",
+    "whois:check-servers": "tsx --env-file-if-exists=.env scripts/whois/check-servers.ts",
+    "whois:discover": "tsx --env-file-if-exists=.env scripts/whois/whois-discover.ts",
+    "whois:generate": "tsx scripts/whois/generate-tlds.ts && tsx scripts/whois/generate-servers.ts",
+    "whois:generate:tlds": "tsx scripts/whois/generate-tlds.ts",
+    "whois:generate:servers": "tsx scripts/whois/generate-servers.ts",
+    "whois:check-parsers": "tsx scripts/whois/check-parsers.ts",
+    "whois:regen-goldens": "tsx scripts/whois/regen-goldens.ts",
+    "whois:check-meta": "tsx scripts/whois/check-meta.ts",
+    "whois:scan-status": "tsx scripts/whois/scan-status.ts",
+    "whois:add-server": "tsx --env-file-if-exists=.env scripts/whois/add-server.ts",
+    "whois:record-fixture": "tsx --env-file-if-exists=.env scripts/whois/record-fixture.ts",
+    "whois:refresh-fixtures": "tsx --env-file-if-exists=.env scripts/whois/refresh-fixtures.ts",
+    "whois:gather-meta": "tsx --env-file-if-exists=.env scripts/whois/gather-meta.ts",
+    "whois:oracle-compare": "tsx --env-file-if-exists=.env scripts/whois/oracle-compare.ts",
+    "whois:hop-compare": "tsx --env-file-if-exists=.env scripts/whois/whois-hop-compare.ts",
+    "whois:gen-tranco-names": "tsx scripts/whois/generate-tranco-names.ts",
+    "whois:fingerprint": "tsx scripts/whois/archive/fingerprint.ts",
+    "whois:sweep-corpus": "tsx --env-file-if-exists=.env scripts/whois/archive/sweep-corpus.ts",
+    "whois:mine-aliases": "tsx scripts/whois/archive/mine-aliases.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/node": "^25.9.9",
+    "@types/punycode": "^2.1.4",
+    "esbuild": "0.28.1",
+    "eslint": "^10.15.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-prettier": "^5.5.7",
+    "globals": "^17.14.0",
+    "i18n-iso-countries": "^7.14.0",
+    "prettier": "^3.10.1",
+    "tsup": "^9.0.0",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.72.2",
+    "vitest": "^4.1.12",
+    "whoiser": "2.0.0-beta.10"
+  },
+  "dependencies": {
+    "@date-fns/utc": "^2.1.1",
+    "date-fns": "^4.4.0",
+    "html-entities": "^2.6.0",
+    "ipaddr.js": "^2.5.0",
+    "punycode": "^2.3.1",
+    "tldts": "^7.5.4"
+  }
+}

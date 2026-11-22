@@ -1,0 +1,63 @@
+{
+  "query": "the.akdn",
+  "server": "whois.synergywholesale.com",
+  "domainId": "c3a3258f159d4cdf9809551a1f3e6ddb-DONUTS",
+  "domainName": "the.akdn",
+  "creationDate": "2022-02-17T16:37:43Z",
+  "expirationDate": "2032-02-17T16:37:43Z",
+  "registrarExpirationDate": "2032-02-17T16:37:43Z",
+  "updatedDate": "2023-08-01T01:05:59Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "cory.ns.cloudflare.com",
+    "erin.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1609",
+  "registrarIanaId": 1609,
+  "registrarName": "Synergy Wholesale Accreditations Pty Ltd",
+  "registrarReseller": "Foundation Aga Khan",
+  "registrarUrl": "https://synergywholesale.com/partner-lookup",
+  "registrarAbuseEmail": "registry-abuse@nexigen.digital",
+  "registrarAbusePhone": "+61.383999483",
+  "registrarWhoisServer": "whois.synergywholesale.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Shahed Karim",
+  "registrantAddress": [
+    "Aiglemont"
+  ],
+  "registrantCity": "Gouvieux",
+  "registrantState": "N/A",
+  "registrantPostalCode": "60270",
+  "registrantCountry": "FR",
+  "registrantPhone": "+33.344584000",
+  "registrantEmail": "shahed.karim@akdn.org",
+  "adminId": "Not Available From Registry",
+  "adminName": "Shahed Karim",
+  "adminAddress": [
+    "Aiglemont"
+  ],
+  "adminCity": "Gouvieux",
+  "adminState": "N/A",
+  "adminPostalCode": "60270",
+  "adminCountry": "FR",
+  "adminPhone": "+33.344584000",
+  "adminEmail": "shahed.karim@akdn.org",
+  "techId": "Not Available From Registry",
+  "techName": "Shahed Karim",
+  "techAddress": [
+    "Aiglemont"
+  ],
+  "techCity": "Gouvieux",
+  "techState": "N/A",
+  "techPostalCode": "60270",
+  "techCountry": "FR",
+  "techPhone": "+33.344584000",
+  "techEmail": "shahed.karim@akdn.org"
+}

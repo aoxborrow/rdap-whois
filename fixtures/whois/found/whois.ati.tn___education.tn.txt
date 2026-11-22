@@ -1,0 +1,59 @@
+###%%% QRY: education.tn
+###%%% SRV: whois.ati.tn
+###%%% TME: 2026-07-16T11:38:09Z
+
+NIC Whois server for cTLDs : .tn , .تونس
+All rights reserved
+Copyright "Tunisian Internet Agency - https://whois.ati.tn
+Supported ccTLDs : .tn , .تونس
+Sectorial domains : .com.tn,.ens.tn,.fin.tn,.gov.tn,.ind.tn,.intl.tn,.nat.tn,.net.tn,.org.tn,.info.tn,.perso.tn,.tourism.tn,.mincom.tn
+
+Domain name.........: education.tn
+Details:
+Creation date.......: 07-01-2019 15:29:01 GMT+1
+Domain status.......: Active
+Registrar...........: CNTE
+
+Owner Contact
+Name................: Centre National des Technologies en Education
+First name..........: 
+Address.............: 03 rue Asdrubal Lafayette
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: +216.70017032
+Fax.................: +216.71834150
+Email...............: webmaster@cnte.tn
+
+Administrativ contact
+Name................: Centre National des Technologies en Education
+First name..........: 
+Address.............: 03 rue Asdrubal Lafayette
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: +216.70017032
+Fax.................: +216.71834150
+Email...............: webmaster@cnte.tn
+
+Technical contact
+Name................: Centre National des Technologies en Education
+First name..........: 
+Address.............: 03 rue Asdrubal Lafayette
+address2............: 
+City................: 
+stateProvince.......: 
+Zip code............: 
+Country.............: 
+Phone...............: +216.70017032
+Fax.................: +216.71834150
+Email...............: webmaster@cnte.tn
+dnssec..............: unsigned
+
+DNS servers
+Name................: ns1.cnte.tn.
+Name................: ns2.cnte.tn.

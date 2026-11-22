@@ -1,0 +1,7 @@
+###%%% QRY: lorzl.gq
+###%%% SRV: whois.dominio.gq
+###%%% TME: 2026-07-14T10:43:53Z
+
+The domain you requested is not known in Freenoms database.
+
+This TLD has no whois server.

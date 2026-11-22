@@ -1,0 +1,30 @@
+{
+  "query": "druid.fi",
+  "server": "whois.fi",
+  "domainName": "druid.fi",
+  "creationDate": "2012-07-18T04:04:23Z",
+  "expirationDate": "2029-07-17T22:16:55Z",
+  "updatedDate": "2026-08-19T15:30:38Z",
+  "eppStatusRaw": [
+    "Registered"
+  ],
+  "nameservers": [
+    "dns51.cloudns.net",
+    "dns52.cloudns.net",
+    "dns53.cloudns.net",
+    "dns54.cloudns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "no",
+  "registrarName": "NETIM",
+  "registrarUrl": "http://www.netim.com",
+  "registrantId": "2491789-2",
+  "registrantName": "Druid Oy",
+  "registrantAddress": [
+    "Pasilankatu 2"
+  ],
+  "registrantCity": "Helsinki",
+  "registrantPostalCode": "00240",
+  "registrantCountry": "Finland",
+  "registrantEmail": "boyan@cloudns.net"
+}

@@ -1,0 +1,14 @@
+###%%% SRV: capetown-whois.registry.net.za
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/capetown-whois.registry.net.za/capetown/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+Available
+Domain: nosuchdomain.capetown
+
+>>> Last update of WHOIS database: 2015-06-01T14:42:48Z <<<
+
+#    WHOIS lookup made at 2015-06-01T14:42:48Z
+# --
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://registry.net.za/whois_terms
+# Copyright (c) ZACR 1995-2015

@@ -1,0 +1,32 @@
+{
+  "query": "nic.sucks",
+  "server": "whois.nic.sucks",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "nic.sucks",
+  "creationDate": "2014-11-09T02:20:45Z",
+  "expirationDate": "2026-11-09T02:20:45Z",
+  "updatedDate": "2025-12-24T02:20:48Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a.nic.sucks",
+    "b.nic.sucks",
+    "c.nic.sucks",
+    "d.nic.sucks"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Vox Populi Registry Inc"
+}

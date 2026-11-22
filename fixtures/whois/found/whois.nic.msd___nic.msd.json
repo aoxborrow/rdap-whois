@@ -1,0 +1,38 @@
+{
+  "query": "nic.msd",
+  "server": "whois.nic.msd",
+  "domainId": "D8618BA5D86FD48768A54E56E7CEDCCAD-GDREG",
+  "domainName": "nic.msd",
+  "creationDate": "2023-04-11T00:47:31Z",
+  "expirationDate": "2027-04-11T00:47:31Z",
+  "updatedDate": "2026-05-26T00:47:34Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.msd",
+    "b.nic.msd",
+    "c.nic.msd",
+    "x.nic.msd",
+    "y.nic.msd",
+    "z.nic.msd"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "MSD Registry Holdings, Inc",
+  "registrarUrl": "https://nic.msd",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.9082432545",
+  "registrarWhoisServer": "whois.nic.msd"
+}

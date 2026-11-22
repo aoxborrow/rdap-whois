@@ -1,0 +1,27 @@
+###%%% QRY: xn--d1aqf.xn--p1ai
+###%%% SRV: whois.tcinet.ru
+###%%% TME: 2026-11-22T08:16:02Z
+
+% TCI Whois Service. Terms of use:
+% https://tcinet.ru/documents/whois_ru_rf.pdf (in Russian)
+% https://tcinet.ru/documents/whois_su.pdf (in Russian)
+
+domain:        XN--D1AQF.XN--P1AI
+nserver:       ns01.ahml.ru.
+nserver:       ns02.ahml.ru.
+nserver:       ns3-l2.nic.ru.
+nserver:       ns4-cloud.nic.ru.
+nserver:       ns4-l2.nic.ru.
+nserver:       ns8-cloud.nic.ru.
+nserver:       ns8-l2.nic.ru.
+state:         REGISTERED, DELEGATED, VERIFIED
+org:           
+taxpayer-id:   
+registrar:     RUCENTER-RF
+admin-contact: https://www.nic.ru/whois
+created:       2009-12-15T09:13:46Z
+paid-till:     2026-12-15T09:13:46Z
+free-date:     2027-01-15
+source:        TCI
+
+Last updated on 2026-11-22T08:13:01Z

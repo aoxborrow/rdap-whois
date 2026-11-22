@@ -1,0 +1,35 @@
+{
+  "domainName": "willhaben.at",
+  "updatedDate": "2020-05-27T08:29:53Z",
+  "status": [],
+  "nameservers": [
+    "acns01.xaas.systems",
+    "acns02.xaas.systems",
+    "acns04.xaas.systems",
+    "acns05.xaas.systems"
+  ],
+  "registrarName": "DomainQuadrat Marketing GmbH",
+  "registrantId": "WISG11733382-NICAT",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "willhaben internet service GmbH & Co KG",
+  "registrantAddress": [
+    "Landstrasser Hauptstrasse 97-101"
+  ],
+  "registrantCity": "Wien",
+  "registrantPostalCode": "1030",
+  "registrantCountry": "Austria",
+  "registrantPhone": "+4312055000",
+  "registrantEmail": "info@willhaben.at",
+  "techId": "SISG4765752-NICAT",
+  "techName": "Uwe Holzer",
+  "techOrg": "Styria IT Solutions GmbH & Co KG",
+  "techAddress": [
+    "Gadollaplatz 1"
+  ],
+  "techCity": "Graz",
+  "techPostalCode": "8010",
+  "techCountry": "Austria",
+  "techPhone": "+434635800304",
+  "techFax": "+434635800296",
+  "techEmail": "domain@styria-it.com"
+}

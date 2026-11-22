@@ -1,0 +1,80 @@
+###%%% QRY: xn--41-4lcpj.xn--j1amh
+###%%% SRV: whois.dotukr.com
+###%%% TME: 2026-07-16T11:38:36Z
+
+Whois Server Version 1.0
+Domain Name (PUNYCODE): xn--41-4lcpj.xn--j1amh
+Domain name (UTF8): спл41.укр
+
+Registry Domain ID: D00117771-ukr
+
+Updated Date: 26-Sep-2024 09:24:31 UTC
+Creation Date: 31-Oct-2018 12:19:03 UTC
+Expiration Date: 31-Oct-2026 12:19:03 UTC
+
+Registry Status: ok
+
+Registrar: ТОВ "Сервіс Онлайн"
+Registrar URL: https://drs.ua
+Registrar ID: drsua
+Registrar Abuse Contact Email: support@drs.ua
+Registrar Abuse Contact Phone: +380445933225
+
+Registry Registrant ID: upvawkrnsazllolj
+Registrant Name (Organization): PP Ukraine Hosting (PP Ukraine Hosting)
+Registrant Street: Ivanova 7/9, of. 3-07 (Ivanova 7/9, of. 3-07)
+Registrant City: Kharkov (Kharkov)
+Registrant Postal Code: 61002 (61002)
+Registrant Country: UA (UA)
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: domain-master@ukrdomen.com
+
+Registry Admin ID: upvawkrnsazllolj
+Admin Name: PP Ukraine Hosting (PP Ukraine Hosting)
+Admin Organization: PP Ukraine Hosting (PP Ukraine Hosting)
+Admin Street: Ivanova 7/9, of. 3-07 (Ivanova 7/9, of. 3-07)
+Admin City: Kharkov (Kharkov)
+Admin Postal Code: 61002 (61002)
+Admin Country: UA (UA)
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: domain-master@ukrdomen.com
+
+Registry Tech ID: upvawkrnsazllolj
+Tech Name: PP Ukraine Hosting (PP Ukraine Hosting)
+Tech Organization: PP Ukraine Hosting (PP Ukraine Hosting)
+Tech Street: Ivanova 7/9, of. 3-07 (Ivanova 7/9, of. 3-07)
+Tech City: Kharkov (Kharkov)
+Tech Postal Code: 61002 (61002)
+Tech Country: UA (UA)
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: domain-master@ukrdomen.com
+
+Registry Billing ID: upvawkrnsazllolj
+Billing Name: PP Ukraine Hosting (PP Ukraine Hosting)
+Billing Organization: PP Ukraine Hosting (PP Ukraine Hosting)
+Billing Street: Ivanova 7/9, of. 3-07 (Ivanova 7/9, of. 3-07)
+Billing City: Kharkov (Kharkov)
+Billing Postal Code: 61002 (61002)
+Billing Country: UA (UA)
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: domain-master@ukrdomen.com
+
+Domain servers in listed order:
+ns1.ukrdomen.com
+ns2.ukrdomen.com
+
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 16-Jul-2026 11:37:44 UTC <<<

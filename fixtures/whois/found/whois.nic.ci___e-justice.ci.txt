@@ -1,0 +1,26 @@
+###%%% QRY: e-justice.ci
+###%%% SRV: whois.nic.ci
+###%%% TME: 2026-07-16T23:28:08Z
+
+Domain Name: e-justice.ci
+Registry Domain ID: 167330-cinic
+Updated Date: 2026-04-21T15:51:26Z
+Creation Date: 2024-08-13T21:14:45Z
+Registry Expiry Date: 2027-08-13T21:14:45Z
+Registrar Registration Expiration Date: 2027-08-13T21:14:45Z
+Registrar: CINETCORE-VENAME
+Registrar Street Address: Abidjan Cocody Angré face nouveau CHU
+Registrar Email: soungalo.dosso@vename.com
+Domain Status: active https://icann.org/epp#active
+Name Server: ns-294.awsdns-36.com
+Name Server: ns-984.awsdns-59.net
+Name Server: ns-1889.awsdns-44.co.uk
+Name Server: ns-1164.awsdns-17.org
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:28:09.589Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

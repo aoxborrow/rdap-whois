@@ -1,0 +1,100 @@
+###%%% QRY: resheba.top
+###%%% SRV: whois.rrpproxy.net
+###%%% TME: 2026-11-22T08:11:44Z
+
+Domain Name: resheba.top
+Registry Domain ID: 20200714g10001g-44155660
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.moniker.com
+Updated Date: 2025-11-27T00:27:12Z
+Creation Date: 2020-07-14T11:27:30Z
+Registrar Registration Expiration Date: 2031-07-14T11:27:30Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Registrar Abuse Contact Email: abusereport@key-systems.net
+Registrar Abuse Contact URL: http://www.report-abuse.online
+Registrar Abuse Contact Phone: +49.68949396850
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Moniker Privacy Services 
+Registrant Organization: Moniker Privacy Services
+Registrant Street: 2320 NE 9th St, Second Floor
+Registrant City: Fort Lauderdale
+Registrant State/Province: FL
+Registrant Postal Code: 33304
+Registrant Country: US
+Registrant Phone: +1.8006886311
+Registrant Phone Ext: 
+Registrant Fax: +1.9545859186
+Registrant Fax Ext: 
+Registrant Email: b46af3d285a15f1547ae4fb7eb264cf23ce3da6aa2deb5b2a3a9d5717a4a8133@resheba.top.whoisproxy.org
+Registry Admin ID: Not Available From Registry
+Admin Name: Moniker Privacy Services 
+Admin Organization: Moniker Privacy Services
+Admin Street: 2320 NE 9th St, Second Floor
+Admin City: Fort Lauderdale
+Admin State/Province: FL
+Admin Postal Code: 33304
+Admin Country: US
+Admin Phone: +1.8006886311
+Admin Phone Ext: 
+Admin Fax: +1.9545859186
+Admin Fax Ext: 
+Admin Email: b46af3d285a15f1547ae4fb7eb264cf23ce3da6aa2deb5b2a3a9d5717a4a8133@resheba.top.whoisproxy.org
+Registry Tech ID: Not Available From Registry
+Tech Name: Moniker Privacy Services 
+Tech Organization: Moniker Privacy Services
+Tech Street: 2320 NE 9th St, Second Floor
+Tech City: Fort Lauderdale
+Tech State/Province: FL
+Tech Postal Code: 33304
+Tech Country: US
+Tech Phone: +1.8006886311
+Tech Phone Ext: 
+Tech Fax: +1.9545859186
+Tech Fax Ext: 
+Tech Email: b46af3d285a15f1547ae4fb7eb264cf2b947c12bb3fa9c3d3f631a96d3675d6e@resheba.top.whoisproxy.org
+Registry Billing ID: Not Available From Registry
+Billing Name: Moniker Privacy Services 
+Billing Organization: Moniker Privacy Services
+Billing Street: 2320 NE 9th St, Second Floor
+Billing City: Fort Lauderdale
+Billing State/Province: FL
+Billing Postal Code: 33304
+Billing Country: US
+Billing Phone: +1.8006886311
+Billing Phone Ext: 
+Billing Fax: +1.9545859186
+Billing Fax Ext: 
+Billing Email: b46af3d285a15f1547ae4fb7eb264cf27929c0039e79852d7a3b320b5b324ece@resheba.top.whoisproxy.org
+Name Server: ns1.ddos-guard.net 
+Name Server: ns2.ddos-guard.net 
+Name Server: ns3.ddos-guard.net 
+Name Server: ns4.ddos-guard.net 
+Name Server: ns5.ddos-guard.net 
+Name Server: ns6.ddos-guard.net 
+DNSSEC: unsigned
+Whoisprivacy: 4
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:11:44Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+To contact the registered registrant please proceed to:
+https://www.domain-contact.org
+
+Please register your domains at; http://www.moniker.com
+This data is provided by MONIKER ONLINE SERVICES LLC.
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+MONIKER ONLINE SERVICES LLC. does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

@@ -1,0 +1,40 @@
+{
+  "query": "automobile.tn",
+  "server": "whois.ati.tn",
+  "domainName": "automobile.tn",
+  "creationDate": "2020-12-26T22:27:01Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "sam.ns.cloudflare.com",
+    "sasha.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "OOREDOO",
+  "registrantName": "STE E Partner",
+  "registrantAddress": [
+    "Appart 4 Residence najeh 2"
+  ],
+  "registrantPhone": "71882394",
+  "registrantFax": "71882394",
+  "registrantEmail": "contact@automobile.tn",
+  "adminName": "STE E Partner",
+  "adminAddress": [
+    "Appart 4 Residence najeh 2"
+  ],
+  "adminPhone": "71882394",
+  "adminFax": "71882394",
+  "adminEmail": "contact@automobile.tn",
+  "techName": "STE E Partner",
+  "techAddress": [
+    "Appart 4 Residence najeh 2"
+  ],
+  "techPhone": "71882394",
+  "techFax": "71882394",
+  "techEmail": "contact@automobile.tn"
+}

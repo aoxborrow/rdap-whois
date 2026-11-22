@@ -1,0 +1,55 @@
+###%%% QRY: nawrocki.berlin
+###%%% SRV: whois.nic.berlin
+###%%% TME: 2026-07-16T11:40:17Z
+
+Domain Name: nawrocki.berlin
+Registry Domain ID: D0000486078-BERLIN
+Registrar WHOIS Server: whois.udag.net
+Registrar URL: https://www.united-domains.de
+Updated Date: 2026-06-26T08:30:13Z
+Creation Date: 2019-08-08T11:25:06Z
+Registry Expiry Date: 2026-08-08T11:25:06Z
+Registrar: united-domains GmbH
+Registrar IANA ID: 1408
+Registrar Abuse Contact Email: abuse@united-domains.de
+Registrar Abuse Contact Phone: +49.8151368670
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns.udag.de
+Name Server: ns.udag.net
+Name Server: ns.udag.org
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of Whois database: 2026-07-16T11:40:17Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% Copyright (c) 2026 by dotBERLIN GmbH & Co. KG
+%
+% Except for agreed Internet operational purposes,
+% no part of this information may be reproduced,
+% stored in a retrieval system, or transmitted,
+% in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission
+% of dotBERLIN GmbH & Co. KG on behalf of itself
+% and/or the copyright holders. Any use of this
+% material to target advertising or similar activities
+% is explicitly forbidden and can be prosecuted.
+%
+% Furthermore, it is strictly forbidden to use the
+% Whois database in such a way that jeopardizes or
+% could jeopardize the stability of the technical systems
+% of dotBERLIN GmbH & Co. KG under any circumstances.
+% In particular, this includes any misuse of the
+% Whois database and any use of the Whois database
+% which disturbs its operation.
+%
+% Should the user violate these points,
+% dotBERLIN GmbH & Co. KG reserves the right
+% to deactivate the Whois database entirely or
+% partly for the user. Moreover, the user shall
+% be held liable for any and all damage arising
+% from a violation of these points.
+%
+% For privacy reasons, personal data are not disclosed.
+% You may request this data under strict conditions by completing
+% a personal data disclosure form at www.whois.berlin.

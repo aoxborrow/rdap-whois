@@ -1,0 +1,49 @@
+{
+  "query": "fortebet.ug",
+  "server": "whois.co.ug",
+  "domainName": "fortebet.ug",
+  "creationDate": "2016-12-04T00:00:00Z",
+  "expirationDate": "2028-12-04T00:00:00Z",
+  "updatedDate": "2026-11-04T07:38:05Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "cameron.ns.cloudflare.com",
+    "vera.ns.cloudflare.com"
+  ],
+  "registrantName": "Vaclav Rychtarik",
+  "registrantOrg": "MASSALIA COMPANY LIMITED",
+  "registrantAddress": [
+    "Francis Rachel Street, 2nd floor, Allied Building Annex"
+  ],
+  "registrantCity": "Victoria",
+  "registrantState": "Mahe",
+  "registrantCountry": "Seychelles",
+  "registrantPhone": "+420.777335355",
+  "registrantEmail": "ugdomains@instra.com",
+  "adminName": "Vaclav Rychtarik",
+  "adminOrg": "MASSALIA COMPANY LIMITED",
+  "adminAddress": [
+    "Francis Rachel Street, 2nd floor, Allied Building Annex"
+  ],
+  "adminCity": "Victoria",
+  "adminState": "Mahe",
+  "adminCountry": "Seychelles",
+  "adminPhone": "+420.777335355",
+  "adminEmail": "ugdomains@instra.com",
+  "techName": "Louise Lentino ugdomains@instra.com",
+  "techOrg": "Instra Corporation Pty. Ltd",
+  "techAddress": [
+    "GPO Box 988"
+  ],
+  "techCity": "Melbourne",
+  "techState": "Victoria",
+  "techPostalCode": "3001",
+  "techCountry": "Australia",
+  "techPhone": "61.397831800",
+  "techEmail": "ugdomains@instra.com"
+}

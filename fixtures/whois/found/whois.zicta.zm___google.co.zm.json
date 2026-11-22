@@ -1,0 +1,25 @@
+{
+  "query": "google.co.zm",
+  "server": "whois.zicta.zm",
+  "domainId": "2446-zicta",
+  "domainName": "google.co.zm",
+  "creationDate": "2013-03-14T22:00:00Z",
+  "expirationDate": "2027-04-14T22:00:00Z",
+  "registrarExpirationDate": "2027-04-14T22:00:00Z",
+  "updatedDate": "2026-03-17T06:47:53Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Zamnet",
+  "registrarCountry": "ZM",
+  "registrarEmail": "hostmaster@zamnet.zm"
+}

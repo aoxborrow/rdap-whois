@@ -1,0 +1,11 @@
+###%%% QRY: poop.ga
+###%%% SRV: whois.nic.ga
+###%%% TME: 2026-07-14T10:43:46Z
+
+%% NOT FOUND
+
+>>> Last update of WHOIS database: 2026-07-14T10:43:46.77576Z <<<
+
+%% This is the ANINF Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ

@@ -1,0 +1,17 @@
+###%%% QRY: notfound-testing-sorry.br
+###%%% SRV: whois.registro.br
+###%%% TME: 2025-03-20T18:31:39Z
+
+% Copyright (c) Nic.br - Use of this data is governed by the Use and
+% Privacy Policy at https://registro.br/upp . Distribution,
+% commercialization, reproduction, and use for advertising or similar
+% purposes are expressly prohibited.
+% 2025-03-20T15:31:39-03:00 - 192.0.2.1
+
+% No match for notfound-testing-sorry.br
+
+% Security and mail abuse issues should also be addressed to cert.br,
+% respectivelly to cert@cert.br and mail-abuse@cert.br
+%
+% whois.registro.br only accepts exact match queries for domains,
+% registrants, contacts, tickets, providers, IPs, and ASNs.

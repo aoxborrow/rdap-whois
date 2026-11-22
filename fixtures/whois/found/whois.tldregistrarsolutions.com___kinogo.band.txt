@@ -1,0 +1,96 @@
+###%%% QRY: kinogo.band
+###%%% SRV: whois.tldregistrarsolutions.com
+###%%% TME: 2026-11-22T08:08:15Z
+
+Domain Name: kinogo.band
+Registry Domain ID: 286ee4f5e06743e3a237b48d61c861a0-DONUTS
+Registrar WHOIS Server: whois.tldregistrarsolutions.com
+Registrar URL: 
+Updated Date: 2026-03-26T09:04:07Z
+Creation Date: 2024-03-26T14:53:52Z
+Registrar Registration Expiration Date: 2027-03-26T14:53:52Z
+Registrar: TLD Registrar Solutions Ltd.
+Registrar IANA ID: 1564
+Registrar Abuse Contact Email: abuse@tldregistrarsolutions.com
+Registrar Abuse Contact URL: 
+Registrar Abuse Contact Phone: +1.5167401179
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Domain Admin 
+Registrant Organization: Whois Privacy Corp.
+Registrant Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Registrant City: Nassau
+Registrant State/Province: New Providence
+Registrant Postal Code: 00000
+Registrant Country: BS
+Registrant Phone: +1.5163872248
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: OWNER@kinogo.band.customers.whoisprivacycorp.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Domain Admin 
+Admin Organization: Whois Privacy Corp.
+Admin Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Admin City: Nassau
+Admin State/Province: New Providence
+Admin Postal Code: 00000
+Admin Country: BS
+Admin Phone: +1.5163872248
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ADMIN@kinogo.band.customers.whoisprivacycorp.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Domain Admin 
+Tech Organization: Whois Privacy Corp.
+Tech Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Tech City: Nassau
+Tech State/Province: New Providence
+Tech Postal Code: 00000
+Tech Country: BS
+Tech Phone: +1.5163872248
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: TECH@kinogo.band.customers.whoisprivacycorp.com
+Registry Billing ID: Not Available From Registry
+Billing Name: Domain Admin 
+Billing Organization: Whois Privacy Corp.
+Billing Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Billing City: Nassau
+Billing State/Province: New Providence
+Billing Postal Code: 00000
+Billing Country: BS
+Billing Phone: +1.5163872248
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: BILLING@kinogo.band.customers.whoisprivacycorp.com
+Name Server: anirban.ns.cloudflare.com 
+Name Server: davina.ns.cloudflare.com 
+DNSSEC: unsigned
+Whoisprivacy: 8
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:08:14Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+To contact the registered registrant please proceed to:
+https://www.domain-contact.org
+
+
+This data is provided by 
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+ does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

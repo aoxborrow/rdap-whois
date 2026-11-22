@@ -1,0 +1,23 @@
+###%%% QRY: allelcoelec.pt
+###%%% SRV: whois.dns.pt
+###%%% TME: 2026-07-16T23:21:42Z
+
+Domain: allelcoelec.pt
+Domain Status: Registered
+Creation Date: 31/08/2024 11:35:18
+Expiration Date: 31/08/2026 11:35:18
+Owner Name: Allelco Limited
+Owner Address: No. 3, 27th Floor, Ho King Commercial Centre, Mong
+Owner Locality: Hong Kong
+Owner ZipCode: 000000
+Owner Locality ZipCode: Hong Kong
+Owner Country Code: HK
+Admin Name: Key-Systems GmbH
+Admin Address: Kaiserstrasse 172-174
+Admin Locality: St.Ingbert
+Admin ZipCode: 66386
+Admin Locality ZipCode: Saarland
+Admin Country Code: DE
+
+Name Server: lana.ns.cloudflare.com | IPv4:  and IPv6: 
+Name Server: miles.ns.cloudflare.com | IPv4:  and IPv6:

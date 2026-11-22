@@ -1,0 +1,29 @@
+{
+  "query": "bizapps.suzuki",
+  "server": "whois.nic.suzuki",
+  "domainId": "DO5474092-GMO",
+  "domainName": "bizapps.suzuki",
+  "creationDate": "2021-01-22T08:05:42Z",
+  "expirationDate": "2026-01-22T23:59:59Z",
+  "updatedDate": "2025-03-09T00:34:46Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-254.awsdns-31.com",
+    "ns-580.awsdns-08.net",
+    "ns-1253.awsdns-28.org",
+    "ns-2042.awsdns-63.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "SUZUKI MOTOR CORPORATION",
+  "registrarUrl": "http://www.globalsuzuki.com",
+  "registrantState": "Shizuoka",
+  "registrantCountry": "JP"
+}

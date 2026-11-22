@@ -1,0 +1,32 @@
+{
+  "query": "personalised.clothing",
+  "server": "domains.meshdigital.com",
+  "domainId": "4d4246598f104a65a6706404e0034e15-D",
+  "domainName": "personalised.clothing",
+  "creationDate": "2014-02-04T15:51:44Z",
+  "expirationDate": "2027-02-04T15:51:44Z",
+  "registrarExpirationDate": "2027-02-04T15:51:44Z",
+  "updatedDate": "2025-01-30T04:23:24Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns.mainnameserver.com",
+    "ns2.mainnameserver.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1390",
+  "registrarIanaId": 1390,
+  "registrarName": "MESH DIGITAL LIMITED",
+  "registrarUrl": "http://www.domainbox.com",
+  "registrarAbuseEmail": "abuse@domainbox.com",
+  "registrarAbusePhone": "+1.8779770099",
+  "registrarWhoisServer": "whois.meshdigital.com",
+  "registrantState": "Staffordshire",
+  "registrantCountry": "GB",
+  "registrantEmail": "https://webform.meshdigital.com"
+}

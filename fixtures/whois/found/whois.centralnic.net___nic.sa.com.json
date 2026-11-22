@@ -1,0 +1,36 @@
+{
+  "query": "nic.sa.com",
+  "server": "whois.centralnic.net",
+  "domainId": "D302269-CNIC",
+  "domainName": "nic.sa.com",
+  "creationDate": "2008-04-02T14:59:47Z",
+  "expirationDate": "2027-04-02T23:59:59Z",
+  "updatedDate": "2026-03-27T00:05:43Z",
+  "eppStatus": [
+    "inactive"
+  ],
+  "eppStatusRaw": [
+    "inactive https://icann.org/epp#inactive"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CentralNic Ltd",
+  "registrarUrl": "https://www.centralnic.com",
+  "registrarAbuseEmail": "ops@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.centralnic.com",
+  "registrantEmail": "https://whois.centralnic.com/contact/nic.sa.com/registrant",
+  "techName": "Domain Administrator",
+  "techOrg": "CentralNic Ltd",
+  "techAddress": [
+    "35-39 Moorgate"
+  ],
+  "techCity": "London",
+  "techPostalCode": "EC2R 6AR",
+  "techCountry": "GB",
+  "techPhone": "+44.2033880600",
+  "techFax": "+44.2033880601",
+  "techEmail": "domains@centralnic.com"
+}

@@ -1,0 +1,154 @@
+name: CI
+
+# The offline lanes. Nothing here touches the network or needs a secret, so a pull request
+# from a fork gets every check. The live suite and the registry probes, which need the
+# proxy secrets, run on a schedule in registry-health.yml instead.
+#
+#   test     typecheck, lint, unit tests, build, the packed tarball imported as ESM and
+#            require(), the browser bundle check, the examples and the coverage page, on
+#            Node 22 and 24
+#   workers  the example Worker (examples/worker) served by `wrangler dev` (workerd) over
+#            the build. Its tooling is installed in examples/ only, so none of it enters
+#            the project's own dependencies
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    name: Node ${{ matrix.node }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        node: [22, 24]
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Setup Node.js ${{ matrix.node }}
+        uses: actions/setup-node@v5
+        with:
+          node-version: ${{ matrix.node }}
+          cache: 'npm'
+
+      - name: Install dependencies (from the lockfile)
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Lint and format
+        run: npm run eslint && npm run format
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
+
+      # what npm consumers get: build, pack, and import every entry point from the tarball
+      - name: Packed tarball imports as ESM and CommonJS
+        run: npm run check:pack
+
+      # everything outside the Node transport must bundle for a browser target
+      - name: Browser-safe entries
+        run: npm run check:browser
+
+      # the examples type-check against the built declarations, and the one that needs no
+      # network runs
+      - name: Examples
+        run: npm run check:examples
+
+      # docs/coverage.md and the README's numbers are generated from the routing data, the
+      # fixtures and the health state
+      - name: Coverage page is current
+        run: npm run coverage -- --check
+
+  workers:
+    name: Cloudflare Workers
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      WRANGLER_SEND_METRICS: 'false'
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: 'npm'
+
+      - name: Install dependencies (from the lockfile)
+        run: npm ci
+
+      # the example resolves the library to dist/ through its tsconfig paths, the build an
+      # installed package would have
+      - name: Build
+        run: npm run build
+
+      # wrangler at the version examples/package-lock.json pins
+      - name: Install the examples' tooling (wrangler)
+        working-directory: examples
+        run: npm ci --no-audit --no-fund
+
+      # one RDAP answer for example.com, made on Node through a stubbed fetch, put in the
+      # Worker's local KV, so the lookup below needs no network
+      - name: Seed the Worker's cache
+        run: |
+          node test/workers/seed.mjs "$RUNNER_TEMP/kv-key.txt" "$RUNNER_TEMP/kv-value.json"
+          cd examples
+          npx wrangler kv key put --local --binding CACHE --config worker/wrangler.jsonc \
+            "$(cat "$RUNNER_TEMP/kv-key.txt")" --path "$RUNNER_TEMP/kv-value.json"
+
+      - name: Start wrangler dev
+        working-directory: examples
+        run: |
+          npx wrangler dev --config worker/wrangler.jsonc --ip 127.0.0.1 --port 8787 > "$RUNNER_TEMP/wrangler.log" 2>&1 &
+          for _ in $(seq 1 60); do
+            if curl -s -o /dev/null http://127.0.0.1:8787/; then exit 0; fi
+            sleep 1
+          done
+          cat "$RUNNER_TEMP/wrangler.log"
+          exit 1
+
+      # the library runs in workerd: the hops come back from KV with their dates revived and
+      # are made into the record. The seeded expiry (2030) is not the real one, so this record
+      # came from the cache and not the network
+      - name: Offline lookup from the KV cache
+        run: |
+          curl -sS -w '\nHTTP %{http_code}\n' 'http://127.0.0.1:8787/?name=example.com&protocol=rdap' | tee "$RUNNER_TEMP/offline.txt"
+          grep -q '"expirationDate":"2030-08-13T04:00:00.000Z"' "$RUNNER_TEMP/offline.txt"
+          grep -q 'HTTP 200' "$RUNNER_TEMP/offline.txt"
+
+      # a real WHOIS lookup over cloudflare:sockets. It needs outbound TCP 43 from the
+      # runner, which is not the library's to promise, so a failure is reported and the
+      # job stays green
+      - name: Live WHOIS over the Workers socket
+        continue-on-error: true
+        run: |
+          curl -sS -w '\nHTTP %{http_code}\n' 'http://127.0.0.1:8787/?name=example.com&protocol=whois' | tee "$RUNNER_TEMP/live.txt"
+          grep -q 'HTTP 200' "$RUNNER_TEMP/live.txt"
+          grep -q '"source":{"protocol":"whois"' "$RUNNER_TEMP/live.txt"
+
+      - name: wrangler log
+        if: always()
+        run: cat "$RUNNER_TEMP/wrangler.log" || true

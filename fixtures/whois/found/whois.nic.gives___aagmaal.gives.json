@@ -1,0 +1,28 @@
+{
+  "query": "aagmaal.gives",
+  "server": "whois.nic.gives",
+  "domainId": "REDACTED",
+  "domainName": "aagmaal.gives",
+  "creationDate": "2023-02-07T01:22:01Z",
+  "expirationDate": "2027-02-07T01:22:01Z",
+  "updatedDate": "2026-09-28T03:45:46Z",
+  "eppStatus": [
+    "clientHold",
+    "clientTransferProhibited",
+    "inactive"
+  ],
+  "eppStatusRaw": [
+    "clientHold https://icann.org/epp#clientHold",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "inactive https://icann.org/epp#inactive"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "http://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com"
+}

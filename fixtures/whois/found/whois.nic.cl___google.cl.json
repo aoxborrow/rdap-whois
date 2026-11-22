@@ -1,0 +1,17 @@
+{
+  "query": "google.cl",
+  "server": "whois.nic.cl",
+  "domainName": "google.cl",
+  "creationDate": "2002-10-22T17:48:23Z",
+  "expirationDate": "2025-11-20T14:48:02Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "https://markmonitor.com",
+  "registrantName": "Google LLC",
+  "registrantOrg": "Google LLC"
+}

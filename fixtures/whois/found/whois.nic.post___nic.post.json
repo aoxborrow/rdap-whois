@@ -1,0 +1,72 @@
+{
+  "query": "nic.post",
+  "server": "whois.nic.post",
+  "domainId": "eef9aa5c1590481187731082ce988830-DONUTS",
+  "domainName": "nic.post",
+  "creationDate": "2023-12-21T15:46:18Z",
+  "expirationDate": "2026-12-21T15:46:18Z",
+  "updatedDate": "2026-08-11T22:14:46Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.post",
+    "v0n1.nic.post",
+    "v0n2.nic.post",
+    "v0n3.nic.post",
+    "v2n0.nic.post",
+    "v2n1.nic.post"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "47fc6b0a6ce44e559ddec451ce500499-DONUTS",
+  "registrantName": "Universal Postal Union",
+  "registrantOrg": "Universal Postal Union",
+  "registrantAddress": [
+    "Weltpostrasse 4"
+  ],
+  "registrantCity": "Bern",
+  "registrantPostalCode": "3000",
+  "registrantCountry": "CH",
+  "registrantPhone": "+41.313503111",
+  "registrantFax": "+41.313503110",
+  "registrantEmail": "dotpost@upu.int",
+  "adminId": "766187abece94aeb827b1a241521307c-DONUTS",
+  "adminName": "Paul Donohoe",
+  "adminOrg": "Universal Postal Union",
+  "adminAddress": [
+    "Weltpostrasse 4"
+  ],
+  "adminCity": "Bern",
+  "adminPostalCode": "3015",
+  "adminCountry": "CH",
+  "adminPhone": "+41.313503111",
+  "adminFax": "+41.313503110",
+  "adminEmail": "dotpost@upu.int",
+  "techId": "af6b85c1f2ab421db180e4ef910bd84a-DONUTS",
+  "techName": "Ram Mohan",
+  "techOrg": "Afilias",
+  "techAddress": [
+    "4th Floor, International House 3 Harbourmaster Place IFSC"
+  ],
+  "techCity": "Dublin",
+  "techPostalCode": "D01 K8F1",
+  "techCountry": "IE",
+  "techPhone": "+353.14310511",
+  "techFax": "+353.14310557",
+  "techEmail": "domainadmin@afilias.info"
+}

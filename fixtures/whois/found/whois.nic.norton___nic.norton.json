@@ -1,0 +1,38 @@
+{
+  "query": "nic.norton",
+  "server": "whois.nic.norton",
+  "domainId": "D6A1FFC5ACC2B4923BA9EAB57B2AF877E-GDREG",
+  "domainName": "nic.norton",
+  "creationDate": "2023-11-20T01:06:59Z",
+  "expirationDate": "2026-11-20T01:06:59Z",
+  "updatedDate": "2026-01-04T01:07:02Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a.nic.norton",
+    "b.nic.norton",
+    "c.nic.norton",
+    "d.nic.norton"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Symantec Corporation",
+  "registrarUrl": "https://nic.norton",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.7039256999",
+  "registrarWhoisServer": "whois.nic.norton"
+}

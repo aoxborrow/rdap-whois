@@ -1,0 +1,20 @@
+###%%% QRY: qu.edu.qa
+###%%% SRV: whois.registry.qa
+###%%% TME: 2026-07-16T11:45:26Z
+
+Domain Name:                     qu.edu.qa
+Registrar ID:                    QDR
+Registrar Name:                  Qatar Domains Registry - Registrar
+Status:                          ok
+
+Registrant:                      Qatar University
+Eligibility Type:                Education Institution
+
+Name Server:                     qusecdns1.qu.edu.qa
+Name Server IP:                  185.37.108.151
+Name Server:                     qusecdns2.qu.edu.qa
+Name Server IP:                  185.37.108.152
+Name Server:                     qudnsdc.qu.edu.qa
+Name Server IP:                  185.37.108.158
+Name Server:                     qudnsdr.qu.edu.qa
+Name Server IP:                  185.37.99.29

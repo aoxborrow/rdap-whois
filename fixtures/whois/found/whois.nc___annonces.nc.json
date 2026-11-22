@@ -1,0 +1,14 @@
+{
+  "query": "annonces.nc",
+  "server": "whois.nc",
+  "domainName": "annonces.nc",
+  "creationDate": "2007-07-04T13:58:04Z",
+  "expirationDate": "2029-07-04T00:00:00Z",
+  "updatedDate": "2024-07-04T08:06:12Z",
+  "nameservers": [
+    "ns1.digitalocean.com",
+    "ns2.digitalocean.com",
+    "ns3.digitalocean.com"
+  ],
+  "registrarName": "NONE"
+}

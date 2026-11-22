@@ -1,0 +1,7 @@
+###%%% QRY: nic.xn--ogbpf8fl
+###%%% SRV: whois.tld.sy
+###%%% TME: 2026-07-14T10:47:27Z
+
+Domain Name: nic.xn--ogbpf8fl
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2026-07-14T10:38:11.978Z <<<

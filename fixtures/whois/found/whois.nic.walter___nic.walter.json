@@ -1,0 +1,30 @@
+{
+  "query": "nic.walter",
+  "server": "whois.nic.walter",
+  "domainId": "DA3FCCBF4E13C461394304FDBDE708BCB-ARI",
+  "domainName": "nic.walter",
+  "creationDate": "2015-04-13T07:47:37Z",
+  "expirationDate": "2027-04-13T07:47:37Z",
+  "updatedDate": "2026-05-28T07:47:39Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.walter",
+    "b.nic.walter",
+    "c.nic.walter",
+    "d.nic.walter"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Sandvik AB"
+}

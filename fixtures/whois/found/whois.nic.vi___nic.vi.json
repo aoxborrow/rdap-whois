@@ -1,0 +1,43 @@
+{
+  "query": "nic.vi",
+  "server": "whois.nic.vi",
+  "domainId": "24012-VI",
+  "domainName": "nic.vi",
+  "creationDate": "1998-04-26T04:00:00Z",
+  "expirationDate": "2113-04-26T04:00:00Z",
+  "registrarExpirationDate": "2113-04-26T04:00:00Z",
+  "updatedDate": "2024-02-17T12:40:03Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns3.nic.vi",
+    "pch.nic.vi"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Nic VI",
+  "registrarAddress": [
+    "PO Box 1678"
+  ],
+  "registrarEmail": "hostmaster@nic.vi"
+}

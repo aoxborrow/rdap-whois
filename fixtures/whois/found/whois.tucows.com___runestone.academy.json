@@ -1,0 +1,43 @@
+{
+  "query": "runestone.academy",
+  "server": "whois.tucows.com",
+  "domainId": "10be756f41024257932eb700bd356737-DONUTS",
+  "domainName": "runestone.academy",
+  "creationDate": "2014-12-13T23:31:17Z",
+  "expirationDate": "2026-12-13T23:31:17Z",
+  "registrarExpirationDate": "2026-12-13T23:31:17Z",
+  "updatedDate": "2025-12-12T08:37:58Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "otto.ns.cloudflare.com",
+    "paige.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "TUCOWS.COM, CO.",
+  "registrarReseller": "Hover",
+  "registrarUrl": "http://tucowsdomains.com",
+  "registrarAbuseEmail": "domainabuse@tucows.com",
+  "registrarAbusePhone": "+1.4165350123",
+  "registrarWhoisServer": "whois.tucows.com",
+  "registrantName": "Contact Privacy Inc. Customer 0139002480",
+  "registrantOrg": "Contact Privacy Inc. Customer 0139002480",
+  "registrantAddress": [
+    "96 Mowat Ave"
+  ],
+  "registrantCity": "Toronto",
+  "registrantState": "ON",
+  "registrantPostalCode": "M6K 3M1",
+  "registrantCountry": "CA",
+  "registrantPhone": "+1.4165385457",
+  "registrantEmail": "runestone.academy@contactprivacy.com"
+}

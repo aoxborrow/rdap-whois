@@ -1,0 +1,28 @@
+{
+  "query": "gaytor.rent",
+  "server": "whois.nic.rent",
+  "domainId": "D279321282-CNIC",
+  "domainName": "gaytor.rent",
+  "creationDate": "2022-03-02T23:36:07Z",
+  "expirationDate": "2027-03-02T23:59:59Z",
+  "updatedDate": "2026-05-01T12:19:18Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "lady.ns.cloudflare.com",
+    "sid.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "151",
+  "registrarIanaId": 151,
+  "registrarName": "InterNetX GmbH",
+  "registrarUrl": "https://www.internetx.com",
+  "registrarAbuseEmail": "domain-abuse@internetx.com",
+  "registrarAbusePhone": "+49.941595590",
+  "registrarWhoisServer": "whois.registrar.internetx.com"
+}

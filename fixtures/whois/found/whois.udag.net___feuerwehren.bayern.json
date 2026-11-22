@@ -1,0 +1,35 @@
+{
+  "query": "feuerwehren.bayern",
+  "server": "whois.udag.net",
+  "domainId": "980585_MMd1-BAYERN",
+  "domainName": "feuerwehren.bayern",
+  "creationDate": "2015-08-04T12:40:36Z",
+  "expirationDate": "2027-08-04T12:40:36Z",
+  "registrarExpirationDate": "2027-08-04T12:40:36Z",
+  "updatedDate": "2026-11-20T16:31:11Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://www.icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.tcis.de",
+    "ns2.tcis.de",
+    "ns3.tcis.de"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1408",
+  "registrarIanaId": 1408,
+  "registrarName": "united domains AG",
+  "registrarReseller": "tomcom GmbH",
+  "registrarUrl": "https://www.united-domains.de",
+  "registrarAbuseEmail": "abuse@united-domains.de",
+  "registrarAbusePhone": "+49.8151368670",
+  "registrarWhoisServer": "whois.udag.net",
+  "registrantCountry": "DE",
+  "registrantEmail": "https://www.united-domains.de/domain-inhaber-kontaktieren",
+  "adminEmail": "https://www.united-domains.de/domain-inhaber-kontaktieren",
+  "techEmail": "https://www.united-domains.de/domain-inhaber-kontaktieren"
+}

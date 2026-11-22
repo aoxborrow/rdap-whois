@@ -1,0 +1,42 @@
+{
+  "domainId": "2019324-CoCCA",
+  "domainName": "69shuba.cx",
+  "creationDate": "2024-04-29T03:48:54Z",
+  "expirationDate": "2025-04-29T03:49:00Z",
+  "registrarExpirationDate": "2025-04-29T03:49:00Z",
+  "updatedDate": "2024-09-28T02:42:59Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns-53.awsdns-06.com",
+    "ns-551.awsdns-04.net",
+    "ns-1329.awsdns-38.org",
+    "ns-1888.awsdns-44.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "CentralNic Ltd",
+  "registrarAddress": [
+    "35-39 Moorgate",
+    "London",
+    "EC2R 6AR"
+  ],
+  "registrarCountry": "GB",
+  "registrarPhone": "+44 (0)20 33 88 0600",
+  "registrarFax": "+44 (0)20 33 88 0601",
+  "registrarEmail": "registry@key-systems.net",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrantId": "2019322-CoCCA",
+  "adminId": "2019323-CoCCA",
+  "techId": "2019322-CoCCA",
+  "techAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "techCity": "Reykjavik",
+  "techState": "Capital Region",
+  "techPostalCode": "101"
+}

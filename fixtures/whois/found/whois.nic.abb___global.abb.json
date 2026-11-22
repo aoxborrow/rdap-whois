@@ -1,0 +1,30 @@
+{
+  "query": "global.abb",
+  "server": "whois.nic.abb",
+  "domainId": "e3fa8218dc11435aaa61f9558e9f7254-DONUTS",
+  "domainName": "global.abb",
+  "creationDate": "2019-10-03T15:54:08Z",
+  "expirationDate": "2027-10-03T15:54:08Z",
+  "updatedDate": "2026-10-04T05:10:31Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-321.awsdns-40.com",
+    "ns-988.awsdns-59.net",
+    "ns-1275.awsdns-31.org",
+    "ns-2031.awsdns-61.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

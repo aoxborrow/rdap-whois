@@ -1,0 +1,20 @@
+{
+  "query": "ppy.sh",
+  "server": "whois.101domain.com",
+  "domainName": "ppy.sh",
+  "creationDate": "2007-01-09T18:54:36Z",
+  "expirationDate": "2032-01-09T18:54:36Z",
+  "registrarExpirationDate": "2032-01-09T18:54:36Z",
+  "updatedDate": "2024-01-26T03:24:23Z",
+  "nameservers": [
+    "kip.ns.cloudflare.com",
+    "zara.ns.cloudflare.com"
+  ],
+  "registrarId": "1011",
+  "registrarIanaId": 1011,
+  "registrarName": "https://www.101domain.com/",
+  "registrarUrl": "https://www.101domain.com",
+  "registrarAbuseEmail": "abuse@101domain.com",
+  "registrarAbusePhone": "+1.8582954626",
+  "registrarWhoisServer": "whois.101domain.com"
+}

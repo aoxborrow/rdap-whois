@@ -1,0 +1,48 @@
+{
+  "query": "reddit.com",
+  "server": "whois.markmonitor.com",
+  "domainId": "153584275_DOMAIN_COM-VRSN",
+  "domainName": "reddit.com",
+  "creationDate": "2005-04-29T17:59:19Z",
+  "expirationDate": "2028-04-29T00:00:00Z",
+  "registrarExpirationDate": "2028-04-29T17:59:19Z",
+  "updatedDate": "2026-03-28T10:06:56Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited",
+    "serverUpdateProhibited",
+    "serverTransferProhibited",
+    "serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-378.awsdns-47.com",
+    "ns-557.awsdns-05.net",
+    "ns-1029.awsdns-00.org",
+    "ns-1887.awsdns-43.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantState": "CA",
+  "registrantCountry": "US"
+}

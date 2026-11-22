@@ -1,0 +1,36 @@
+{
+  "query": "exo.quebec",
+  "server": "whois.webnames.ca",
+  "domainId": "DYJBXHELMMI15439-QUEBEC",
+  "domainName": "exo.quebec",
+  "creationDate": "2017-11-29T20:29:14Z",
+  "expirationDate": "2027-11-29T20:29:14Z",
+  "updatedDate": "2023-09-18T12:52:17Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1-07.azure-dns.com",
+    "ns2-07.azure-dns.net",
+    "ns3-07.azure-dns.org",
+    "ns4-07.azure-dns.info"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "456",
+  "registrarIanaId": 456,
+  "registrarName": "Webnames.ca Inc.",
+  "registrarUrl": "https://www.webnames.ca",
+  "registrarAbuseEmail": "abuse@webnames.ca",
+  "registrarAbusePhone": "+1.8662217878",
+  "registrarWhoisServer": "whois.webnames.ca",
+  "registrantOrg": "Agence metropolitaine de transport",
+  "registrantState": "QC",
+  "registrantCountry": "CA",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

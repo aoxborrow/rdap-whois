@@ -1,0 +1,88 @@
+{
+  "query": "bfi.wien",
+  "server": "whois.nic.wien",
+  "domainId": "8a4_DOMAIN-WIEN",
+  "domainName": "bfi.wien",
+  "creationDate": "2014-12-17T10:24:33Z",
+  "expirationDate": "2026-12-17T10:24:33Z",
+  "registrarExpirationDate": "2026-12-17T10:24:33Z",
+  "updatedDate": "2026-01-31T10:25:07Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "alan.ns.cloudflare.com",
+    "aria.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "106",
+  "registrarIanaId": 106,
+  "registrarName": "Ascio Technologies Inc. Danmark",
+  "registrarUrl": "http://www.ascio.com",
+  "registrarAbuseEmail": "nicrelations@ascio.com",
+  "registrarAbusePhone": "442 070 159 248",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "Berufsfoerderungsinstitut Wien",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "REDACTED",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "AT",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "billingId": "REDACTED",
+  "billingName": "REDACTED",
+  "billingOrg": "REDACTED",
+  "billingAddress": [
+    "REDACTED"
+  ],
+  "billingCity": "REDACTED",
+  "billingState": "REDACTED",
+  "billingPostalCode": "REDACTED",
+  "billingCountry": "REDACTED",
+  "billingPhone": "REDACTED",
+  "billingPhoneExt": "REDACTED",
+  "billingFax": "REDACTED",
+  "billingFaxExt": "REDACTED",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name."
+}

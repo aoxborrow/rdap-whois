@@ -1,0 +1,64 @@
+###%%% QRY: magicnet.mn
+###%%% SRV: whois.nic.mn
+###%%% TME: 2026-07-16T23:40:58Z
+
+Domain Name: magicnet.mn
+Registry Domain ID: 9769381d4cb74151ad5aa051668ca4d5-DONUTS
+Registrar WHOIS Server: whois.nic.mn
+Registrar URL: https://datacom.mn/
+Updated Date: 2024-04-29T03:33:52Z
+Creation Date: 2000-12-31T18:56:54Z
+Registry Expiry Date: 2027-12-31T18:56:54Z
+Registrar: Datacom Co., Ltd.
+Registrar IANA ID: 800036
+Registrar Abuse Contact Email: abuse@datacom.mn
+Registrar Abuse Contact Phone: +976.70000505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 823d38af629743e89a48afc9decab13d-DONUTS
+Registrant Name: Magicnet
+Registrant Organization: Magicnet LLC
+Registrant Street: SBD 2-r khoroo Seoul gudamj Twin Tower 2-601 toot
+Registrant City: Ulaanbaatar
+Registrant State/Province: Ulaanbaatar
+Registrant Postal Code: 11000
+Registrant Country: MN
+Registrant Phone: +976.75332061
+Registrant Phone Ext: 
+Registrant Fax: +976.75332061
+Registrant Fax Ext: 
+Registrant Email: info@magicnet.mn
+Registry Admin ID: 823d38af629743e89a48afc9decab13d-DONUTS
+Admin Name: Magicnet
+Admin Organization: Magicnet LLC
+Admin Street: SBD 2-r khoroo Seoul gudamj Twin Tower 2-601 toot
+Admin City: Ulaanbaatar
+Admin State/Province: Ulaanbaatar
+Admin Postal Code: 11000
+Admin Country: MN
+Admin Phone: +976.75332061
+Admin Phone Ext: 
+Admin Fax: +976.75332061
+Admin Fax Ext: 
+Admin Email: info@magicnet.mn
+Registry Tech ID: 823d38af629743e89a48afc9decab13d-DONUTS
+Tech Name: Magicnet
+Tech Organization: Magicnet LLC
+Tech Street: SBD 2-r khoroo Seoul gudamj Twin Tower 2-601 toot
+Tech City: Ulaanbaatar
+Tech State/Province: Ulaanbaatar
+Tech Postal Code: 11000
+Tech Country: MN
+Tech Phone: +976.75332061
+Tech Phone Ext: 
+Tech Fax: +976.75332061
+Tech Fax Ext: 
+Tech Email: info@magicnet.mn
+Name Server: aiden.ns.cloudflare.com
+Name Server: dell.ns.cloudflare.com
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:40:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

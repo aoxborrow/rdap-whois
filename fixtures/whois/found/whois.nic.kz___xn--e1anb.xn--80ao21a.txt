@@ -1,0 +1,53 @@
+###%%% QRY: xn--e1anb.xn--80ao21a
+###%%% SRV: whois.nic.kz
+###%%% TME: 2026-11-22T08:16:12Z
+
+Whois Server for the .kz and .xn--80ao21a top level domains.
+This server is maintained by the KazNIC, the ccTLD manager for the Republic of Kazakhstan.
+
+Domain Name............: xn--e1anb.xn--80ao21a
+IDN (unicode) form.....: мем.қаз
+
+Registrant
+Name...................: KazNIC
+Organization Name......: KazNIC
+Street Address.........: Ilyashev str. 47/2
+City...................: Semey
+State..................: VKO
+Postal Code............: 071400
+Country................: KZ
+Phone Number...........: +77222600006
+Fax Number.............: +77222604740
+Email Address..........: info@nic.kz
+
+Administrative Contact
+Name...................: KazNIC Organization
+Organization Name......: KazNIC Organization
+Street Address.........: Ilyashev str. 47/2
+City...................: Semey
+State..................: VKO
+Postal Code............: 071400
+Country................: KZ
+Phone Number...........: +77222600006
+Fax Number.............: +77222604740
+Email Address..........: info@nic.kz
+
+Name Server list
+
+Name Server............: ns2.nic.kz
+IP Address.............: 2001:500:14:6143:ad::1, 204.61.216.143
+
+Name Server............: ns.nic.kz
+IP Address.............: 194.0.21.5, 2001:678:98:1::5
+
+Name Server............: ns1.nic.kz
+IP Address.............: 185.79.212.7, 2a01:7640:9000::7
+
+Domain created.........: 2012-04-10 09:41:10 (GMT+0:00)
+Last modified..........: 2022-12-21 08:26:12 (GMT+0:00)
+Expiration date........: 2027-04-10 09:41:10 (GMT+0:00)
+
+Domain status..........: ok - Normal state.
+
+Registrar created......: KAZNIC
+Current Registrar......: KAZNIC

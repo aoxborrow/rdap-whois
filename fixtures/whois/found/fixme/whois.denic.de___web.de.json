@@ -1,0 +1,16 @@
+{
+  "query": "web.de",
+  "server": "whois.denic.de",
+  "domainName": "web.de",
+  "updatedDate": "2016-04-11T11:09:54Z",
+  "status": [
+    "connect"
+  ],
+  "nameservers": [
+    "ns-webde.ui-dns.biz",
+    "ns-webde.ui-dns.com",
+    "ns-webde.ui-dns.de",
+    "ns-webde.ui-dns.org"
+  ],
+  "dnssecRaw": "257 3 8 AwEAAcBs30zgmOeYcUYzJetRzRYGQXlnXpv2gO3KWf5BYRn9OqFtUBzFOqO16Ow2XPqR8SWqpAVpnToQICICZyf58SHaefGn94fTj+PlwJi4HhoCbim2U3G5sYtl5xoNfUCaDXDQFJp+HnZlaA9afHutOVFtqCmMHV+2ApSyOFFETQNmq4YoxLxiJoxSjvQAaaiJKVoA4wykjXALMyCmbXGH4aMVbW2m0Fuqe+nKU8myW14nCASBo0mDO6cBNsBwu7IiL4SxxnflDCSTkn/FnCKtzf7aVzzrRM4SqTe4NOm7wPmCZiAGoxOL15PZ7YQSt9BEXU6gMdGxCGVBdtgM13NfziM="
+}

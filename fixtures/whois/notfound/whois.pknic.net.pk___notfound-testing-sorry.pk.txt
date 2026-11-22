@@ -1,0 +1,9 @@
+###%%% QRY: notfound-testing-sorry.pk
+###%%% SRV: whois.pknic.net.pk
+###%%% TME: 2025-03-20T16:07:44Z
+
+# WHOIS .PK Domains (PKNIC)
+
+    Domain: notfound-testing-sorry.pk
+    Status: Not Registered, and may be available if valid
+    Available: Yes.

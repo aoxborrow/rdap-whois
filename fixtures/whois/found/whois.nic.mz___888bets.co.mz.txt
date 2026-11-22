@@ -1,0 +1,31 @@
+###%%% QRY: 888bets.co.mz
+###%%% SRV: whois.nic.mz
+###%%% TME: 2026-11-22T08:14:21Z
+
+Domain Name: 888bets.co.mz
+Registry Domain ID: 61964-NICMZ
+Updated Date: 2026-06-25T14:37:46Z
+Creation Date: 2022-07-06T15:02:40Z
+Registry Expiry Date: 2027-07-06T15:02:40Z
+Registrar Registration Expiration Date: 2027-07-06T15:02:40Z
+Registrar: Safenames Ltd
+Registrar Street Address: Safenames House, Sunrise Parkway, Milton Keynes, Bucks, MK14 6LS, United Kingdom
+Registrar Country: GB
+Registrar Phone: +441908200022
+Registrar Fax: +441908325192
+Registrar Email: hostmaster@safenames.net
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: kiki.bunny.net
+Name Server: coco.bunny.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T08:04:45.050Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated. 
+
+The data is for information purposes only. UEM does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. 
+
+The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

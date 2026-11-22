@@ -1,0 +1,42 @@
+{
+  "domainId": "1775691-CoCCA",
+  "domainName": "rb.gy",
+  "creationDate": "2019-09-17T07:51:39Z",
+  "expirationDate": "2025-09-17T07:51:39Z",
+  "updatedDate": "2025-02-28T10:05:24Z",
+  "status": [
+    "clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-117.awsdns-14.com",
+    "ns-628.awsdns-14.net",
+    "ns-1097.awsdns-09.org",
+    "ns-1797.awsdns-32.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1387",
+  "registrarIanaId": 1387,
+  "registrarName": "1API GmbH",
+  "registrarAddress": [
+    "Kaiserstarße 172-174"
+  ],
+  "registrarCity": "St. Ingbert",
+  "registrarState": "Saarland",
+  "registrarPostalCode": "66386",
+  "registrarEmail": "admin-c@1api.net",
+  "registrarUrl": "http://www.1api.net",
+  "registrantId": "2052045-CoCCA",
+  "adminId": "2052045-CoCCA",
+  "adminAddress": [
+    "Block 3"
+  ],
+  "adminCity": "Ireland",
+  "adminPostalCode": "D02 A339",
+  "techId": "2052045-CoCCA",
+  "techAddress": [
+    "Block 3"
+  ],
+  "techCity": "Ireland",
+  "techPostalCode": "D02 A339"
+}

@@ -1,0 +1,77 @@
+{
+  "query": "moviebox.ng",
+  "server": "whois.nic.net.ng",
+  "domainId": "2307591-NIRA",
+  "domainName": "moviebox.ng",
+  "creationDate": "2023-06-16T09:25:00Z",
+  "expirationDate": "2025-06-16T09:25:00Z",
+  "registrarExpirationDate": "2025-06-16T09:25:00Z",
+  "updatedDate": "2024-12-31T09:40:29Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.alidns.com",
+    "ns2.alidns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3954",
+  "registrarIanaId": 3954,
+  "registrarName": "GO54 Limited (formerly Whogohost Limited)",
+  "registrarAddress": [
+    "3A, Olumuyiwa Street, off Oba Babington Ashaye Crescent, Omole Phase 1, Ikeja, Lagos."
+  ],
+  "registrarCountry": "NG",
+  "registrarUrl": "http://www.whogohost.com.ng",
+  "registrarAbuseEmail": "support@whogohost.com",
+  "registrantId": "2307589-NIRA",
+  "registrantName": "Aimee",
+  "registrantOrg": "EXCELLENT INNOVATION LIMITED",
+  "registrantAddress": [
+    "RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG"
+  ],
+  "registrantCity": "HONG KONG",
+  "registrantState": "HONG KONG",
+  "registrantCountry": "HK",
+  "registrantPhone": "+86 16620893016",
+  "registrantEmail": "moviebox.ng@mbox.ng",
+  "adminId": "2307590-NIRA",
+  "adminName": "Aimee",
+  "adminOrg": "EXCELLENT INNOVATION LIMITED",
+  "adminAddress": [
+    "RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG"
+  ],
+  "adminCity": "HONG KONG",
+  "adminState": "HONG KONG",
+  "adminCountry": "HK",
+  "adminPhone": "+86 16620893016",
+  "adminEmail": "moviebox.ng@mbox.ng",
+  "techId": "2383885-NIRA",
+  "techName": "Aimee",
+  "techOrg": "EXCELLENT INNOVATION LIMITED",
+  "techAddress": [
+    "RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG"
+  ],
+  "techCity": "HONG KONG",
+  "techState": "HONG KONG",
+  "techCountry": "HK",
+  "techPhone": "+86 16620893016",
+  "techEmail": "moviebox.ng@mbox.ng",
+  "billingId": "2383886-NIRA",
+  "billingName": "Aimee",
+  "billingOrg": "EXCELLENT INNOVATION LIMITED",
+  "billingAddress": [
+    "RM 06, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN, HONG KONG"
+  ],
+  "billingCity": "HONG KONG",
+  "billingState": "HONG KONG",
+  "billingCountry": "HK",
+  "billingPhone": "+86 16620893016",
+  "billingEmail": "moviebox.ng@mbox.ng"
+}

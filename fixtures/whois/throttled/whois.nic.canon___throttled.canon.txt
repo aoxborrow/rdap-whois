@@ -1,0 +1,5 @@
+###%%% QRY: throttled.canon
+###%%% SRV: whois.nic.canon
+###%%% TME: 2025-03-20T18:22:00Z
+
+Server is busy now, please try again later.

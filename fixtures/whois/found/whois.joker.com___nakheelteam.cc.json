@@ -1,0 +1,34 @@
+{
+  "query": "nakheelteam.cc",
+  "server": "whois.joker.com",
+  "domainId": "155371451_DOMAIN_CC-VRSN",
+  "domainName": "nakheelteam.cc",
+  "creationDate": "2021-03-03T21:36:35Z",
+  "expirationDate": "2027-03-03T21:36:35Z",
+  "registrarExpirationDate": "2027-03-03T21:36:35Z",
+  "updatedDate": "2026-02-02T11:44:43Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "leia.ns.cloudflare.com",
+    "nicolas.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "113",
+  "registrarIanaId": 113,
+  "registrarName": "CSL Computer Service Langenbach GmbH d/b/a joker.com",
+  "registrarReseller": "Reseller.World",
+  "registrarUrl": "https://joker.com",
+  "registrarAbuseEmail": "abuse@joker.com",
+  "registrarAbusePhone": "+49.21186767447",
+  "registrarWhoisServer": "whois.joker.com",
+  "registrantCountry": "CA",
+  "registrantEmail": "https://csl-registrar.com/contact/nakheelteam.cc/owner",
+  "adminEmail": "https://csl-registrar.com/contact/nakheelteam.cc/admin",
+  "techEmail": "https://csl-registrar.com/contact/nakheelteam.cc/tech"
+}

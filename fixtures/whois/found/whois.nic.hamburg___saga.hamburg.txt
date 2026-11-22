@@ -1,0 +1,53 @@
+###%%% QRY: saga.hamburg
+###%%% SRV: whois.nic.hamburg
+###%%% TME: 2026-07-16T11:15:44Z
+
+Domain Name: saga.hamburg
+Registry Domain ID: D0000079604-HAMBURG
+Registrar URL: http://www.domainbox.com
+Updated Date: 2021-03-02T15:26:52Z
+Creation Date: 2015-11-06T13:15:45Z
+Registry Expiry Date: 2026-11-06T13:15:45Z
+Registrar: Host Europe Group
+Registrar IANA ID: 1390
+Registrar Abuse Contact Email: support@domainbox.com
+Registrar Abuse Contact Phone: +44.1483307527
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns37.domaincontrol.com
+Name Server: ns38.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of Whois database: 2026-07-16T11:15:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% Copyright (c) 2026 by HAMBURG Top-Level-Domain GmbH
+%
+% Except for agreed Internet operational purposes,
+% no part of this information may be reproduced,
+% stored in a retrieval system, or transmitted,
+% in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission
+% of HAMBURG Top-Level-Domain GmbH on behalf of itself
+% and/or the copyright holders. Any use of this
+% material to target advertising or similar activities
+% is explicitly forbidden and can be prosecuted.
+%
+% Furthermore, it is strictly forbidden to use the
+% Whois database in such a way that jeopardizes or
+% could jeopardize the stability of the technical systems
+% of HAMBURG Top-Level-Domain GmbH under any circumstances.
+% In particular, this includes any misuse of the
+% Whois database and any use of the Whois database
+% which disturbs its operation.
+%
+% Should the user violate these points,
+% HAMBURG Top-Level-Domain GmbH reserves the right
+% to deactivate the Whois database entirely or
+% partly for the user. Moreover, the user shall
+% be held liable for any and all damage arising
+% from a violation of these points.
+%
+% For privacy reasons, personal data are not disclosed.
+% You may request this data under strict conditions by completing
+% a personal data disclosure form at www.whois.hamburg.

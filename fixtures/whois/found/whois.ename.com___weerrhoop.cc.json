@@ -1,0 +1,70 @@
+{
+  "query": "weerrhoop.cc",
+  "server": "whois.ename.com",
+  "domainId": "126233740_DOMAIN_CC-VRSN",
+  "domainName": "weerrhoop.cc",
+  "creationDate": "2016-10-02T01:51:19Z",
+  "expirationDate": "2027-10-02T01:51:19Z",
+  "registrarExpirationDate": "2027-10-02T01:51:19Z",
+  "updatedDate": "2026-09-23T18:46:39Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.ename.net",
+    "ns2.ename.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1331",
+  "registrarIanaId": 1331,
+  "registrarName": "eName Technology Co., Ltd.",
+  "registrarUrl": "http://www.ename.net",
+  "registrarAbuseEmail": "abuse@ename.com",
+  "registrarAbusePhone": "+86.4000044400",
+  "registrarWhoisServer": "whois.ename.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "ran yong",
+  "registrantOrg": "ran yong",
+  "registrantAddress": [
+    "guang dong zhu hai shi dou men qu jing an zhen xi di lu 2 2 hao"
+  ],
+  "registrantCity": "zhu hai shi",
+  "registrantState": "guang dong",
+  "registrantPostalCode": "519000",
+  "registrantCountry": "CN",
+  "registrantPhone": "13246048759",
+  "registrantFax": "13246048759",
+  "registrantEmail": "2057689561@qq.com",
+  "adminId": "Not Available From Registry",
+  "adminName": "ran yong",
+  "adminOrg": "ran yong",
+  "adminAddress": [
+    "guang dong zhu hai shi dou men qu jing an zhen xi di lu 2 2 hao"
+  ],
+  "adminCity": "zhu hai shi",
+  "adminState": "guang dong",
+  "adminPostalCode": "519000",
+  "adminCountry": "CN",
+  "adminPhone": "13246048759",
+  "adminFax": "13246048759",
+  "adminEmail": "2057689561@qq.com",
+  "techId": "Not Available From Registry",
+  "techName": "ran yong",
+  "techOrg": "ran yong",
+  "techAddress": [
+    "guang dong zhu hai shi dou men qu jing an zhen xi di lu 2 2 hao"
+  ],
+  "techCity": "zhu hai shi",
+  "techState": "guang dong",
+  "techPostalCode": "519000",
+  "techCountry": "CN",
+  "techPhone": "13246048759",
+  "techFax": "13246048759",
+  "techEmail": "2057689561@qq.com"
+}

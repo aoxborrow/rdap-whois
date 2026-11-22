@@ -1,0 +1,68 @@
+{
+  "query": "lrz.bayern",
+  "server": "whois.nic.bayern",
+  "domainId": "62636_MMd1-BAYERN",
+  "domainName": "lrz.bayern",
+  "creationDate": "2014-09-18T14:32:10Z",
+  "expirationDate": "2027-09-18T14:32:10Z",
+  "updatedDate": "2026-11-02T15:00:17Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "dns1.lrz.de",
+    "dns2.lrz.bayern",
+    "dns3.lrz.eu"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "151",
+  "registrarIanaId": 151,
+  "registrarName": "PSI-USA, Inc. dba Domain Robot",
+  "registrarUrl": "https://www.internetx.com",
+  "registrarAbuseEmail": "domain-abuse@internetx.com",
+  "registrarAbusePhone": "+49.94159559482",
+  "registrarWhoisServer": "whois.registrar.internetx.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Leibniz-Rechenzentrum der Bayerischen Akademie der Wissenschaften",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "DE",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "DE",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "DE",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "DE",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "DE",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "DE",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

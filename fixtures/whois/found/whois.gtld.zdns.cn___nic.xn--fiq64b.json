@@ -1,0 +1,70 @@
+{
+  "query": "nic.xn--fiq64b",
+  "server": "whois.gtld.zdns.cn",
+  "domainId": "D20140313G10001G_08728387-zhongxin",
+  "domainName": "nic.xn--fiq64b",
+  "creationDate": "2014-03-13T06:29:57Z",
+  "expirationDate": "2033-03-13T06:29:57Z",
+  "updatedDate": "2017-11-01T06:32:56Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "cns1.zdnscloud.net",
+    "dns1.zdnscloud.info",
+    "ins1.zdnscloud.com",
+    "vns1.zdnscloud.biz"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "knet",
+  "registrarUrl": "http://www.knet.cn",
+  "registrarAbuseEmail": "tech-supprot@zdns.cn",
+  "registrarAbusePhone": "+86.01058813521",
+  "registrarWhoisServer": "202.173.11.141",
+  "registrantId": "C20140312C_00001284-zhongxin",
+  "registrantName": "中国中信集团有限公司",
+  "registrantOrg": "Operation and Maintenance Engineer",
+  "registrantAddress": [
+    "Rm.1006 Capital Mansion, 6 Xinyuannanlu, Chaoyang District"
+  ],
+  "registrantCity": "Beijing",
+  "registrantState": "Beijing",
+  "registrantPostalCode": "100004",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.01059661035",
+  "registrantFax": "+86.01059660035",
+  "registrantEmail": "yangqf@citic.com",
+  "adminId": "C20140312C_00001284-zhongxin",
+  "adminName": "中国中信集团有限公司",
+  "adminOrg": "Operation and Maintenance Engineer",
+  "adminAddress": [
+    "Rm.1006 Capital Mansion, 6 Xinyuannanlu, Chaoyang District"
+  ],
+  "adminCity": "Beijing",
+  "adminState": "Beijing",
+  "adminPostalCode": "100004",
+  "adminCountry": "CN",
+  "adminPhone": "+86.01059661035",
+  "adminFax": "+86.01059660035",
+  "adminEmail": "yangqf@citic.com",
+  "techId": "C20140312C_00001282-zhongxin",
+  "techName": "Ji XiaoHui",
+  "techOrg": "Network & Equipment Division",
+  "techAddress": [
+    "intstreet1new",
+    "Rm.1006 Capital Mansion, 6 Xinyuannanlu, Chaoyang District"
+  ],
+  "techCity": "Beijing",
+  "techState": "Beijing",
+  "techPostalCode": "100004",
+  "techCountry": "CN",
+  "techPhone": "+86.01059661016",
+  "techFax": "+86.01059660035",
+  "techEmail": "jixh@citic.com"
+}

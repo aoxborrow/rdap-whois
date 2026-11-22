@@ -1,0 +1,32 @@
+{
+  "query": "xn--eqrt2g.xn--vuq861b",
+  "server": "whois.teleinfo.cn",
+  "domainId": "11217_DOMAIN-BTI",
+  "domainName": "xn--eqrt2g.xn--vuq861b",
+  "creationDate": "2016-06-29T10:41:00Z",
+  "expirationDate": "2028-06-29T10:41:00Z",
+  "updatedDate": "2021-01-26T03:54:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.alidns.com",
+    "ns2.alidns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1556",
+  "registrarIanaId": 1556,
+  "registrarName": "Chengdu West Dimension Digital Technology Co., Ltd.",
+  "registrarUrl": "http://www.west263.com",
+  "registrarAbuseEmail": "abuse@west.cn",
+  "registrarAbusePhone": "+86.02862778877",
+  "registrarWhoisServer": "www.west263.com",
+  "registrantCountry": "cn",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

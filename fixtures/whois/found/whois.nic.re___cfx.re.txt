@@ -1,0 +1,99 @@
+###%%% QRY: cfx.re
+###%%% SRV: whois.nic.re
+###%%% TME: 2026-07-16T11:43:33Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        cfx.re
+status:                        ACTIVE
+eppstatus:                     clientUpdateProhibited
+eppstatus:                     clientTransferProhibited
+eppstatus:                     clientDeleteProhibited
+hold:                          NO
+holder-c:                      CTC98139-FRNIC
+admin-c:                       CTC98139-FRNIC
+tech-c:                        CTC25056-FRNIC
+registrar:                     MARKMONITOR Inc.
+Expiry Date:                   2028-07-18T05:01:45Z
+created:                       2019-07-18T05:01:45Z
+last-update:                   2026-06-21T10:18:02.898591Z
+source:                        FRNIC
+
+nserver:                       dns1.p05.nsone.net
+nserver:                       dns2.p05.nsone.net
+nserver:                       dns3.p05.nsone.net
+nserver:                       dns4.p05.nsone.net
+nserver:                       ns01.vandalay-industries.net
+nserver:                       ns02.vandalay-industries.net
+nserver:                       ns03.vandalay-industries.net
+nserver:                       ns04.vandalay-industries.net
+source:                        FRNIC
+
+registrar:                     MARKMONITOR Inc.
+address:                       2150 S. Bonito Way, Suite 150
+address:                       ID 83642 MERIDIAN
+country:                       US
+phone:                         +1.2083895740
+fax-no:                        +1.2083895771
+e-mail:                        registry.admin@markmonitor.com
+website:                       http://www.markmonitor.com
+anonymous:                     No
+registered:                    2002-01-07T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC98139-FRNIC
+type:                          ORGANIZATION
+contact:                       Domain Licenses Sociedad Limitada
+address:                       Calle Colon, 40, pta 1
+address:                       46004 Valencia
+address:                       Val
+country:                       ES
+phone:                         +34.960479914
+e-mail:                        ccops@markmonitor.com
+registrar:                     MARKMONITOR Inc.
+changed:                       2026-05-27T17:21:02.856045Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2026-04-23T16:43:11.388107Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2026-04-23T16:43:11.388107Z
+source:                        FRNIC
+
+nic-hdl:                       CTC25056-FRNIC
+type:                          ORGANIZATION
+contact:                       MarkMonitor Inc.
+address:                       3540 East Longwing Lane
+address:                       Suite 300
+address:                       83646 Meridian
+address:                       ID
+country:                       US
+phone:                         +1.2083895740
+fax-no:                        +1.2083895771
+e-mail:                        ccops@markmonitor.com
+registrar:                     MARKMONITOR Inc.
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2023-05-24T22:00:16.406868Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:43:34.341067Z <<<

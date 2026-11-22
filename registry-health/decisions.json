@@ -1,0 +1,2187 @@
+{
+  "phaseout": [],
+  "moatOutages": [
+    {
+      "tld": "ac.za",
+      "server": "whois.ac.za",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.ac.za:43: host unreachable"
+    },
+    {
+      "tld": "alt.za",
+      "server": "whois.alt.za",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "bentley",
+      "server": "whois.nic.bentley",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.nic.bentley:43: host unreachable"
+    },
+    {
+      "tld": "cf",
+      "server": "whois.dot.cf",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.dot.cf:43: host unreachable"
+    },
+    {
+      "tld": "dunlop",
+      "server": "whois.nic.dunlop",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "edu.cn",
+      "server": "whois.edu.cn",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.edu.cn:43: host unreachable"
+    },
+    {
+      "tld": "edu.ru",
+      "server": "whois.informika.ru",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "es",
+      "server": "whois.nic.es",
+      "consecutiveFailures": 4,
+      "deadDays": 112,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "eu.org",
+      "server": "whois.eu.org",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "goo",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "gov.za",
+      "server": "whois.gov.za",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "gp",
+      "server": "whois.nic.gp",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "helsinki",
+      "server": "whois.nic.helsinki",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "detail": "Proxy connection error: Could not connect to whois.nic.helsinki:43: host unreachable"
+    },
+    {
+      "tld": "hm",
+      "server": "whois.registry.hm",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.registry.hm:43: host unreachable"
+    },
+    {
+      "tld": "iq",
+      "server": "whois.cmc.iq",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.cmc.iq:43: host unreachable"
+    },
+    {
+      "tld": "juniper",
+      "server": "whois.nic.juniper",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "detail": "Proxy connection error: Could not connect to whois.nic.juniper:43: host unreachable"
+    },
+    {
+      "tld": "lancaster",
+      "server": "whois.nic.lancaster",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.nic.lancaster:43: host unreachable"
+    },
+    {
+      "tld": "lk",
+      "server": "whois.nic.lk",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "mt",
+      "server": "whois.nic.org.mt",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "pf",
+      "server": "whois.registry.pf",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "ps",
+      "server": "whois.pnina.ps",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.pnina.ps:43: host unreachable"
+    },
+    {
+      "tld": "redstone",
+      "server": "whois.nic.redstone",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.nic.redstone:43: host unreachable"
+    },
+    {
+      "tld": "sy",
+      "server": "whois.tld.sy",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "detail": "Proxy connection error: Could not connect to whois.tld.sy:43: host unreachable"
+    },
+    {
+      "tld": "tk",
+      "server": "whois.dot.tk",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "uk.co",
+      "server": "whois.uk.co",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.uk.co:43: host unreachable"
+    },
+    {
+      "tld": "uy",
+      "server": "whois.nic.org.uy",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "wolterskluwer",
+      "server": "whois.nic.wolterskluwer",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.nic.wolterskluwer:43: host unreachable"
+    },
+    {
+      "tld": "xn--fzc2c9e2c",
+      "server": "whois.nic.lk",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--l1acc",
+      "server": "whois.mn",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--mgbtx2b",
+      "server": "whois.cmc.iq",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.cmc.iq:43: host unreachable"
+    },
+    {
+      "tld": "xn--ogbpf8fl",
+      "server": "whois.tld.sy",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "detail": "Proxy connection error: Could not connect to whois.tld.sy:43: host unreachable"
+    },
+    {
+      "tld": "xn--wgbh1c",
+      "server": "whois.dotmasr.eg",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.dotmasr.eg:43: host unreachable"
+    },
+    {
+      "tld": "xn--xkc2al3hye2a",
+      "server": "whois.nic.lk",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--ygbi2ammx",
+      "server": "whois.pnina.ps",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.pnina.ps:43: host unreachable"
+    },
+    {
+      "tld": "za.net",
+      "server": "whois.za.net",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.za.net:43: host unreachable"
+    },
+    {
+      "tld": "za.org",
+      "server": "whois.za.org",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "detail": "Proxy connection error: Could not connect to whois.za.org:43: host unreachable"
+    }
+  ],
+  "moatWatch": [
+    {
+      "tld": "ac",
+      "server": "whois.nic.ac",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "af",
+      "server": "whois.nic.af",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "ag",
+      "server": "whois.nic.ag",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "bw",
+      "server": "whois.nic.net.bw",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Proxy connection error: Could not connect to whois.nic.net.bw:43: host unreachable"
+    },
+    {
+      "tld": "bz",
+      "server": "whois.afilias-grs.info",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "gi",
+      "server": "whois.identitydigital.services",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "ki",
+      "server": "whois.nic.ki",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "lc",
+      "server": "whois.afilias-grs.info",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "ma",
+      "server": "whois.registre.ma",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "mw",
+      "server": "whois.nic.mw",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "pr",
+      "server": "whois.afilias-srs.net",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "sb",
+      "server": "whois.nic.net.sb",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "tl",
+      "server": "whois.nic.tl",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "vc",
+      "server": "whois.identitydigital.services",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "detail": "Connection error: Proxy connection timed out"
+    }
+  ],
+  "candidates": [
+    {
+      "tld": "abb",
+      "server": "whois.nic.abb",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "abbott",
+      "server": "whois.nic.abbott",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "abc",
+      "server": "whois.nic.abc",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "academy",
+      "server": "whois.nic.academy",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "accenture",
+      "server": "whois.nic.accenture",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "accountants",
+      "server": "whois.nic.accountants",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "aco",
+      "server": "whois.afilias-srs.net",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "actor",
+      "server": "whois.nic.actor",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "aeg",
+      "server": "whois.nic.aeg",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "aero",
+      "server": "whois.aero",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "agakhan",
+      "server": "whois.nic.agakhan",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "agency",
+      "server": "whois.nic.agency",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "ai",
+      "server": "whois.nic.ai",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "airbus",
+      "server": "whois.nic.airbus",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "airforce",
+      "server": "whois.nic.airforce",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "akdn",
+      "server": "whois.nic.akdn",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "alipay",
+      "server": "whois.nic.alipay",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "allstate",
+      "server": "whois.nic.allstate",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "aol",
+      "server": "whois.nic.aol",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "apartments",
+      "server": "whois.nic.apartments",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "apple",
+      "server": "whois.afilias-srs.net",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "dead only 6d (<45d); only 1 failed probe(s) (<4)"
+    },
+    {
+      "tld": "archi",
+      "server": "whois.nic.archi",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "army",
+      "server": "whois.nic.army",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "arte",
+      "server": "whois.nic.arte",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "as",
+      "server": "whois.nic.as",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "asda",
+      "server": "whois.nic.asda",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "asia",
+      "server": "whois.nic.asia",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "associates",
+      "server": "whois.nic.associates",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "attorney",
+      "server": "whois.nic.attorney",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "auction",
+      "server": "whois.nic.auction",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "audi",
+      "server": "whois.nic.audi",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "band",
+      "server": "whois.nic.band",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "barclaycard",
+      "server": "whois.nic.barclaycard",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "barclays",
+      "server": "whois.nic.barclays",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "barefoot",
+      "server": "whois.nic.barefoot",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bargains",
+      "server": "whois.nic.bargains",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bbc",
+      "server": "whois.nic.bbc",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "reason": "IANA still lists a whois server"
+    },
+    {
+      "tld": "bbt",
+      "server": "whois.nic.bbt",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bcg",
+      "server": "whois.nic.bcg",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "beats",
+      "server": "whois.nic.beats",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bestbuy",
+      "server": "whois.nic.bestbuy",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bet",
+      "server": "whois.nic.bet",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bike",
+      "server": "whois.nic.bike",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bingo",
+      "server": "whois.nic.bingo",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bio",
+      "server": "whois.nic.bio",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "black",
+      "server": "whois.nic.black",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bloomberg",
+      "server": "whois.nic.bloomberg",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "blue",
+      "server": "whois.nic.blue",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bm",
+      "server": "whois.nic.bm",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bms",
+      "server": "whois.nic.bms",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bnpparibas",
+      "server": "whois.nic.bnpparibas",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "boehringer",
+      "server": "whois.nic.boehringer",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bofa",
+      "server": "whois.nic.bofa",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bosch",
+      "server": "whois.nic.bosch",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "boutique",
+      "server": "whois.nic.boutique",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bradesco",
+      "server": "whois.nic.bradesco",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "bridgestone",
+      "server": "whois.nic.bridgestone",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "broker",
+      "server": "whois.nic.broker",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "brother",
+      "server": "whois.nic.brother",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "builders",
+      "server": "whois.nic.builders",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "business",
+      "server": "whois.nic.business",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cab",
+      "server": "whois.nic.cab",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cafe",
+      "server": "whois.nic.cafe",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "camera",
+      "server": "whois.nic.camera",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "camp",
+      "server": "whois.nic.camp",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "canon",
+      "server": "whois.nic.canon",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "capital",
+      "server": "whois.nic.capital",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cards",
+      "server": "whois.nic.cards",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "care",
+      "server": "whois.nic.care",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "careers",
+      "server": "whois.nic.careers",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cash",
+      "server": "whois.nic.cash",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "casino",
+      "server": "whois.nic.casino",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "catering",
+      "server": "whois.nic.catering",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "center",
+      "server": "whois.nic.center",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cern",
+      "server": "whois.nic.cern",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cfa",
+      "server": "whois.nic.cfa",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "chanel",
+      "server": "whois.nic.chanel",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "chat",
+      "server": "whois.nic.chat",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cheap",
+      "server": "whois.nic.cheap",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "church",
+      "server": "whois.nic.church",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cipriani",
+      "server": "whois.nic.cipriani",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "circle",
+      "server": "whois.nic.circle",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "citadel",
+      "server": "whois.nic.citadel",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "city",
+      "server": "whois.nic.city",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "claims",
+      "server": "whois.nic.claims",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cleaning",
+      "server": "whois.nic.cleaning",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "clinic",
+      "server": "whois.nic.clinic",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "clinique",
+      "server": "whois.nic.clinique",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "clothing",
+      "server": "whois.nic.clothing",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "clubmed",
+      "server": "whois.nic.clubmed",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "coach",
+      "server": "whois.nic.coach",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "codes",
+      "server": "whois.nic.codes",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "coffee",
+      "server": "whois.nic.coffee",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "community",
+      "server": "whois.nic.community",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "company",
+      "server": "whois.nic.company",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "computer",
+      "server": "whois.nic.computer",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "condos",
+      "server": "whois.nic.condos",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "construction",
+      "server": "whois.nic.construction",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "consulting",
+      "server": "whois.nic.consulting",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "contact",
+      "server": "whois.nic.contact",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "contractors",
+      "server": "whois.nic.contractors",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cool",
+      "server": "whois.nic.cool",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "coupon",
+      "server": "whois.nic.coupon",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "coupons",
+      "server": "whois.nic.coupons",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "credit",
+      "server": "whois.nic.credit",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "creditcard",
+      "server": "whois.nic.creditcard",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "crs",
+      "server": "whois.nic.crs",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cruise",
+      "server": "whois.nic.cruise",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cruises",
+      "server": "whois.nic.cruises",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "cv",
+      "server": "whois.nic.cv",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "cx",
+      "server": "whois.nic.cx",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "dead only 6d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "dance",
+      "server": "whois.nic.dance",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "dating",
+      "server": "whois.nic.dating",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "datsun",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "deals",
+      "server": "whois.nic.deals",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "degree",
+      "server": "whois.nic.degree",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "delivery",
+      "server": "whois.nic.delivery",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "delta",
+      "server": "whois.nic.delta",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "democrat",
+      "server": "whois.nic.democrat",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "dental",
+      "server": "whois.nic.dental",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "dentist",
+      "server": "whois.nic.dentist",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "diamonds",
+      "server": "whois.nic.diamonds",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "digital",
+      "server": "whois.nic.digital",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "direct",
+      "server": "whois.nic.direct",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "directory",
+      "server": "whois.nic.directory",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "discount",
+      "server": "whois.nic.discount",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "discover",
+      "server": "whois.nic.discover",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "dnp",
+      "server": "whois.nic.dnp",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "doctor",
+      "server": "whois.nic.doctor",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "dog",
+      "server": "whois.nic.dog",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "domains",
+      "server": "whois.nic.domains",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "edeka",
+      "server": "whois.nic.edeka",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "education",
+      "server": "whois.nic.education",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "email",
+      "server": "whois.nic.email",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "emerck",
+      "server": "whois.nic.emerck",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "energy",
+      "server": "whois.nic.energy",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "engineer",
+      "server": "whois.nic.engineer",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "engineering",
+      "server": "whois.nic.engineering",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "enterprises",
+      "server": "whois.nic.enterprises",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "epson",
+      "server": "whois.nic.epson",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "equipment",
+      "server": "whois.nic.equipment",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "ericsson",
+      "server": "whois.nic.ericsson",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "estate",
+      "server": "whois.nic.estate",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "events",
+      "server": "whois.nic.events",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "exchange",
+      "server": "whois.nic.exchange",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "expert",
+      "server": "whois.nic.expert",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "exposed",
+      "server": "whois.nic.exposed",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "express",
+      "server": "whois.nic.express",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "extraspace",
+      "server": "whois.nic.extraspace",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fage",
+      "server": "whois.nic.fage",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fail",
+      "server": "whois.nic.fail",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "family",
+      "server": "whois.nic.family",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fan",
+      "server": "whois.nic.fan",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "farm",
+      "server": "whois.nic.farm",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fedex",
+      "server": "whois.nic.fedex",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "ferrari",
+      "server": "whois.nic.ferrari",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fidelity",
+      "server": "whois.nic.fidelity",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fido",
+      "server": "whois.nic.fido",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "finance",
+      "server": "whois.nic.finance",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "financial",
+      "server": "whois.nic.financial",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "firestone",
+      "server": "whois.nic.firestone",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "fish",
+      "server": "whois.nic.fish",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fitness",
+      "server": "whois.nic.fitness",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fj",
+      "server": "www.whois.fj",
+      "consecutiveFailures": 3,
+      "deadDays": 108,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "flights",
+      "server": "whois.nic.flights",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "florist",
+      "server": "whois.nic.florist",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "football",
+      "server": "whois.nic.football",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "forex",
+      "server": "whois.nic.forex",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "forsale",
+      "server": "whois.nic.forsale",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "frogans",
+      "server": "whois.nic.frogans",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fujitsu",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "fund",
+      "server": "whois.nic.fund",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "futbol",
+      "server": "whois.nic.futbol",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "fyi",
+      "server": "whois.nic.fyi",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "gallo",
+      "server": "whois.nic.gallo",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "gdn",
+      "server": "whois.nic.gdn",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "reason": "IANA still lists a whois server"
+    },
+    {
+      "tld": "gea",
+      "server": "whois.afilias-srs.net",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "ggee",
+      "server": "whois.nic.ggee",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "global",
+      "server": "whois.nic.global",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "gmo",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "goldpoint",
+      "server": "whois.nic.goldpoint",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "goodyear",
+      "server": "whois.nic.goodyear",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "gop",
+      "server": "whois.nic.gop",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "reason": "IANA still lists a whois server"
+    },
+    {
+      "tld": "got",
+      "server": "whois.nic.got",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "graphics",
+      "server": "whois.nic.graphics",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "green",
+      "server": "whois.nic.green",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "gs",
+      "server": "whois.nic.gs",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "dead only 6d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "gy",
+      "server": "whois.registry.gy",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "dead only 6d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "hisamitsu",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "hitachi",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "honda",
+      "server": "whois.nic.honda",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "ht",
+      "server": "whois.nic.ht",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "hyundai",
+      "server": "whois.nic.hyundai",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "infiniti",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "info",
+      "server": "whois.nic.info",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "international",
+      "server": "whois.nic.international",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "itv",
+      "server": "whois.nic.itv",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "jcb",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "jll",
+      "server": "whois.nic.jll",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "jot",
+      "server": "whois.nic.jot",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "kddi",
+      "server": "whois.nic.kddi",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "ke",
+      "server": "whois.kenic.or.ke",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "kia",
+      "server": "whois.nic.kia",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "kim",
+      "server": "whois.nic.kim",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "komatsu",
+      "server": "whois.nic.komatsu",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "kyoto",
+      "server": "whois.nic.kyoto",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "lexus",
+      "server": "whois.nic.lexus",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "lgbt",
+      "server": "whois.nic.lgbt",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "llc",
+      "server": "whois.nic.llc",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "lotte",
+      "server": "whois.nic.lotte",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "lotto",
+      "server": "whois.nic.lotto",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "mitsubishi",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "mobi",
+      "server": "whois.nic.mobi",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "ms",
+      "server": "whois.nic.ms",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "dead only 6d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "nagoya",
+      "server": "whois.nic.nagoya",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "nec",
+      "server": "whois.nic.nec",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "nf",
+      "server": "whois.nic.nf",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "dead only 6d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "ng",
+      "server": "whois.nic.net.ng",
+      "consecutiveFailures": 3,
+      "deadDays": 108,
+      "reason": "only 3 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "nhk",
+      "server": "whois.nic.nhk",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "nico",
+      "server": "whois.nic.nico",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "nissan",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "okinawa",
+      "server": "whois.nic.okinawa",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "onl",
+      "server": "whois.nic.onl",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "organic",
+      "server": "whois.nic.organic",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "otsuka",
+      "server": "whois.nic.otsuka",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "panasonic",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "pet",
+      "server": "whois.nic.pet",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "pink",
+      "server": "whois.nic.pink",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "pioneer",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4)"
+    },
+    {
+      "tld": "playstation",
+      "server": "whois.nic.playstation",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "poker",
+      "server": "whois.nic.poker",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "pro",
+      "server": "whois.nic.pro",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "promo",
+      "server": "whois.nic.promo",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "red",
+      "server": "whois.nic.red",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "ricoh",
+      "server": "whois.nic.ricoh",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "ryukyu",
+      "server": "whois.nic.ryukyu",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "safety",
+      "server": "whois.nic.safety",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "sc",
+      "server": "whois.afilias-grs.info",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "schaeffler",
+      "server": "whois.afilias-srs.net",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "sharp",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "shiksha",
+      "server": "whois.nic.shiksha",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "shop",
+      "server": "whois.nic.shop",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "ski",
+      "server": "whois.nic.ski",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "softbank",
+      "server": "whois.nic.softbank",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "sony",
+      "server": "whois.nic.sony",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "suzuki",
+      "server": "whois.nic.suzuki",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "tokyo",
+      "server": "whois.nic.tokyo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "toray",
+      "server": "whois.nic.toray",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "toshiba",
+      "server": "whois.nic.toshiba",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "toyota",
+      "server": "whois.nic.toyota",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "vote",
+      "server": "whois.nic.vote",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "voto",
+      "server": "whois.nic.voto",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "watches",
+      "server": "whois.nic.watches",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "xn--5tzm5g",
+      "server": "whois.nic.xn--5tzm5g",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "xn--6frz82g",
+      "server": "whois.nic.xn--6frz82g",
+      "consecutiveFailures": 1,
+      "deadDays": 6,
+      "reason": "RDAP listed but unhealthy"
+    },
+    {
+      "tld": "xn--ses554g",
+      "server": "whois.nic.xn--ses554g",
+      "consecutiveFailures": 8,
+      "deadDays": 125,
+      "reason": "IANA still lists a whois server"
+    },
+    {
+      "tld": "yodobashi",
+      "server": "whois.nic.gmo",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "yokohama",
+      "server": "whois.nic.yokohama",
+      "consecutiveFailures": 2,
+      "deadDays": 77,
+      "reason": "only 2 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
+      "tld": "zara",
+      "server": "whois.nic.zara",
+      "consecutiveFailures": 3,
+      "deadDays": 108,
+      "reason": "RDAP listed but unhealthy"
+    }
+  ],
+  "unhealthyRoutes": [
+    {
+      "tld": "fi",
+      "server": "whois.fi",
+      "classification": "suspect",
+      "detail": "Received empty response."
+    },
+    {
+      "tld": "versicherung",
+      "server": "whois.nic.versicherung",
+      "classification": "suspect",
+      "detail": "Received empty response."
+    }
+  ],
+  "red": true
+}

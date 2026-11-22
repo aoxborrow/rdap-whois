@@ -1,0 +1,54 @@
+###%%% QRY: goku55in.baby
+###%%% SRV: whois.dynadot.com
+###%%% TME: 2025-03-20T13:38:15Z
+
+Domain Name: GOKU55IN.BABY
+Registry Domain ID: D475750440-CNIC
+Registrar WHOIS Server: whois.dynadot.com
+Registrar URL: http://www.dynadot.com
+Updated Date: 2025-01-28T09:01:04.0Z
+Creation Date: 2024-08-03T07:05:59.0Z
+Registrar Registration Expiration Date: 2025-08-03T23:59:59.0Z
+Registrar: DYNADOT LLC
+Registrar IANA ID: 472
+Registrar Abuse Contact Email: abuse@dynadot.com
+Registrar Abuse Contact Phone: +1.6502620100
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: CPF-1184842
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Super Privacy Service LTD c/o Dynadot
+Registrant Street: PO Box 701
+Registrant Street: 
+Registrant City: San Mateo
+Registrant State/Province: California
+Registrant Postal Code: 94401
+Registrant Country: US
+Registrant Phone: +1.6505854708
+Registrant Email: https://www.dynadot.com/domain/contact-request?domain=goku55in.baby
+Registry Admin ID: CPF-1184842
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: Super Privacy Service LTD c/o Dynadot
+Admin Street: PO Box 701
+Admin Street: 
+Admin City: San Mateo
+Admin State/Province: California
+Admin Postal Code: 94401
+Admin Country: US
+Admin Phone: +1.6505854708
+Admin Email: https://www.dynadot.com/domain/contact-request?domain=goku55in.baby
+Registry Tech ID: CPF-1184842
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: Super Privacy Service LTD c/o Dynadot
+Tech Street: PO Box 701
+Tech Street: 
+Tech City: San Mateo
+Tech State/Province: California
+Tech Postal Code: 94401
+Tech Country: US
+Tech Phone: +1.6505854708
+Tech Email: https://www.dynadot.com/domain/contact-request?domain=goku55in.baby
+Name Server: nile.ns.cloudflare.com
+Name Server: sasha.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-28 01:01:04 -0800 <<<

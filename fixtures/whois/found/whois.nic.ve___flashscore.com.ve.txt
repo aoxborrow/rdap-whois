@@ -1,0 +1,49 @@
+###%%% QRY: flashscore.com.ve
+###%%% SRV: whois.nic.ve
+###%%% TME: 2026-07-16T11:44:34Z
+
+%  Servidor whois del Centro de Información de Red de Venezuela (NIC.VE)
+%  Este servidor contiene información autoritativa exclusivamente de dominios .ve
+% 
+% Whoisd Server Version: 3.12.1
+% Timestamp: Thu Jul 16 07:44:34 2026
+
+domain:       flashscore.com.ve
+registrant:   CON000037443
+admin-c:      CON000021506
+nsset:        DNS000206566
+registrar:    NIC-VE
+registered:   09.06.2020 17:05:36
+changed:      14.04.2023 16:39:14
+expire:       09.06.2027
+
+contact:      CON000037443
+org:          Petra Maierova
+address:      Bucharova 2928
+address:      Praha
+address:      15800
+address:      Praha
+address:      CZ
+registrar:    NIC-VE
+created:      04.08.2019 18:18:45
+changed:      20.05.2020 08:57:31
+
+contact:      CON000021506
+org:          Key Systems Gbmh
+address:      Av Providencia 201
+address:      Santiago
+address:      750076
+address:      Rm
+address:      CL
+registrar:    NIC-VE
+created:      04.08.2019 15:27:39
+changed:      18.02.2026 04:22:22
+
+nsset:        DNS000206566
+nserver:      ns1.edrive-hosting.cz 
+nserver:      ns3.edrive.cz 
+nserver:      ns2.edrive-hosting.cz 
+tech-c:       CON000021506
+registrar:    NIC-VE
+created:      09.06.2020 17:13:11
+changed:      09.06.2020 17:15:04

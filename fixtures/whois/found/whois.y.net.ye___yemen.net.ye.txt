@@ -1,0 +1,10 @@
+###%%% QRY: yemen.net.ye
+###%%% SRV: whois.y.net.ye
+###%%% TME: 2026-07-16T23:58:39Z
+
+Domain Name: YEMEN.NET.YE
+Registrar: Yemen Net - Sales
+Updated Date: 2024-08-20T07:59:38.000Z
+Name Server: ns1.yemen.net.ye (2A02:2718:4::33, 78.137.77.77)
+Name Server: ns2.yemen.net.ye (2A02:2718:4::34, 78.137.78.78)
+>>> Last update of WHOIS database: 2026-07-16T23:58:40.881Z <<<

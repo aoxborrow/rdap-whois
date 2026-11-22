@@ -1,0 +1,32 @@
+###%%% QRY: nic.rw
+###%%% SRV: whois.ricta.org.rw
+###%%% TME: 2026-07-16T23:58:17Z
+
+Domain Name: nic.rw
+Registry Domain ID: 106676RICTA
+Registrar WHOIS Server: https://whois.ricta.org.rw/
+Registrar URL: https://scriptylabs.rw/
+Updated Date: 2026-03-11T07:45:14Z
+Creation Date: 2025-08-10T22:00:00Z
+Registry Expiry Date: 2031-08-10T22:00:00Z
+Registrar Registration Expiration Date: 2031-08-10T22:00:00Z
+Registrar: SCRIPTYLABS
+Registrar Phone: +250 780 226 666
+Registrar Email: info@scriptylabs.com
+Registrar Abuse Contact Email: info@scriptylabs.com
+Registrar Abuse Contact Phone: +250 780 226 666
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Registry Registrant ID: 1576955RICTA
+Name Server: thunder.dnspod.net
+Name Server: balsam.dnspod.net
+>>> Last update of WHOIS database: 2026-07-16T23:47:30.723Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The Data in RICTA WHOIS database is provided by RICTA  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.RICTA does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or  (2) enable high volume, automated, electronic processes that apply to RICTA  (or its systems). RICTA reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

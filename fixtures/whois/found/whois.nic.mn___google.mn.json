@@ -1,0 +1,73 @@
+{
+  "query": "google.mn",
+  "server": "whois.nic.mn",
+  "domainId": "b88cf24254474b3388cebb8b3af4b6e4-DONUTS",
+  "domainName": "google.mn",
+  "creationDate": "2003-04-07T00:00:00Z",
+  "expirationDate": "2027-04-07T00:00:00Z",
+  "updatedDate": "2026-08-12T12:06:46Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantId": "93b24aca40c6451785c486627aa03267-DONUTS",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "93b24aca40c6451785c486627aa03267-DONUTS",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminState": "CA",
+  "adminPostalCode": "94043",
+  "adminCountry": "US",
+  "adminPhone": "+1.6502530000",
+  "adminFax": "+1.6502530001",
+  "adminEmail": "dns-admin@google.com",
+  "techId": "93b24aca40c6451785c486627aa03267-DONUTS",
+  "techName": "Domain Administrator",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "techCity": "Mountain View",
+  "techState": "CA",
+  "techPostalCode": "94043",
+  "techCountry": "US",
+  "techPhone": "+1.6502530000",
+  "techFax": "+1.6502530001",
+  "techEmail": "dns-admin@google.com"
+}

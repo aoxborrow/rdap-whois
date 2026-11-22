@@ -1,0 +1,75 @@
+###%%% QRY: historicenvironment.scot
+###%%% SRV: whois.easyspace.com
+###%%% TME: 2026-11-22T08:11:27Z
+
+Domain Name: HISTORICENVIRONMENT.SCOT
+Registry Domain ID: D14538-SCOT
+Registrar WHOIS Server: whois.easyspace.com
+Registrar URL: www.easyspace.com
+Updated Date: 2026-09-29T02:13:53
+Creation Date: 2015-10-28T16:22:28
+Registrar Registration Expiration Date: 2027-10-28T16:22:28
+Registrar: Easyspace Ltd.
+Registrar IANA ID: 79
+Reseller: Easyspace Ltd
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY 
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Edinburgh
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: GB
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: 
+Registrant Email: https://tieredaccess.com/contact/8f5bfe1b-c70b-4267-b4df-485c3cae639b
+Name Server: ns2.namecity.com
+Name Server: ns1.namecity.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@easyspace.com
+Registrar Abuse Contact Phone: +44.3707555066
+URL of the ICANN WHOIS Data Problem Reporting System: https://icann.org/wicf
+>>> Last update of WHOIS database: 2026-11-22T08:11:27Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+    Easyspace Ltd, hostmaster@easyspace.com
+    +44.3707555066
+    http://www.easyspace.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+
+The Data in the EASYSPACE Registrar WHOIS database is provided to you by 
+EASYSPACE for information purposes only, and may be used to assist you in 
+obtaining information about or related to a domain name's registration record.
+
+EASYSPACE makes this information available "as is," and does not guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of EASYSPACE.
+
+EASYSPACE reserves the right to terminate your access to the EASYSPACE 
+WHOIS database in its sole discretion, including without limitation, for excessive 
+querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+EASYSPACE reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

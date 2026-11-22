@@ -1,0 +1,25 @@
+{
+  "query": "mine.nu",
+  "server": "whois.iis.nu",
+  "domainName": "mine.nu",
+  "creationDate": "1999-08-02T00:00:00Z",
+  "expirationDate": "2027-08-31T00:00:00Z",
+  "updatedDate": "2026-07-30T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active",
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.p201.dns.oraclecloud.net",
+    "ns2.p201.dns.oraclecloud.net",
+    "ns3.p201.dns.oraclecloud.net",
+    "ns4.p201.dns.oraclecloud.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned delegation",
+  "registrarName": "MarkMonitor Inc",
+  "registrantId": "mmr-159935"
+}

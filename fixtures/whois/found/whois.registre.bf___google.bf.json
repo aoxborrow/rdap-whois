@@ -1,0 +1,82 @@
+{
+  "query": "google.bf",
+  "server": "whois.registre.bf",
+  "domainId": "1286-BFA",
+  "domainName": "google.bf",
+  "creationDate": "2021-01-01T00:00:00Z",
+  "expirationDate": "2027-04-25T00:00:00Z",
+  "registrarExpirationDate": "2027-04-25T00:00:00Z",
+  "updatedDate": "2026-04-27T13:29:34Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "AFRIREGISTER BURKINA",
+  "registrarCountry": "BF",
+  "registrarPhone": "+226.76590185",
+  "registrarAbuseEmail": "admin@afriregister.bf",
+  "registrarAbusePhone": "+226.76590185",
+  "registrarWhoisServer": "whois.registre.bf",
+  "registrantId": "lPsS0-Wrcvo",
+  "registrantName": "Redacted | Registry Policy",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "Redacted | Registry Policy",
+  "registrantFax": "Redacted | Registry Policy",
+  "registrantEmail": "Redacted | Registry Policy",
+  "adminId": "NL3SQ-EDvgu",
+  "adminName": "Redacted | Registry Policy",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "Redacted | Registry Policy"
+  ],
+  "adminCity": "Redacted | Registry Policy",
+  "adminState": "Redacted | Registry Policy",
+  "adminPostalCode": "Redacted | Registry Policy",
+  "adminCountry": "US",
+  "adminPhone": "Redacted | Registry Policy",
+  "adminFax": "Redacted | Registry Policy",
+  "adminEmail": "Redacted | Registry Policy",
+  "techId": "0XXVf-YUslM",
+  "techName": "Redacted | Registry Policy",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "Redacted | Registry Policy"
+  ],
+  "techCity": "Redacted | Registry Policy",
+  "techState": "Redacted | Registry Policy",
+  "techPostalCode": "Redacted | Registry Policy",
+  "techCountry": "US",
+  "techPhone": "Redacted | Registry Policy",
+  "techFax": "Redacted | Registry Policy",
+  "techEmail": "Redacted | Registry Policy",
+  "billingId": "rxfPk-As0OG",
+  "billingName": "Redacted | Registry Policy",
+  "billingOrg": "Markmonitor Inc.",
+  "billingAddress": [
+    "Redacted | Registry Policy"
+  ],
+  "billingCity": "Redacted | Registry Policy",
+  "billingState": "Redacted | Registry Policy",
+  "billingPostalCode": "Redacted | Registry Policy",
+  "billingCountry": "US",
+  "billingPhone": "Redacted | Registry Policy",
+  "billingFax": "Redacted | Registry Policy",
+  "billingEmail": "Redacted | Registry Policy"
+}

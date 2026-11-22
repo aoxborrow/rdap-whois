@@ -1,0 +1,31 @@
+{
+  "query": "google.co.th",
+  "server": "whois.thnic.co.th",
+  "domainName": "google.co.th",
+  "creationDate": "2004-10-08T00:00:00Z",
+  "expirationDate": "2027-10-07T00:00:00Z",
+  "updatedDate": "2026-09-11T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "THNIC",
+  "registrantOrg": "Google LLC (กูเกิล แอลแอลซี)",
+  "registrantCountry": "US",
+  "techName": "Personal Information",
+  "techOrg": "Personal Information",
+  "techAddress": [
+    "Personal Information"
+  ],
+  "techCountry": "Personal Information"
+}

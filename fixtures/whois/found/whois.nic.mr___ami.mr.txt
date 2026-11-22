@@ -1,0 +1,28 @@
+###%%% QRY: ami.mr
+###%%% SRV: whois.nic.mr
+###%%% TME: 2026-07-16T23:42:02Z
+
+Domain Name: ami.mr
+Registry Domain ID: 20448NIC-Mauritanie
+Updated Date: 2024-07-17T14:13:30Z
+Creation Date: 2017-08-10T00:00:00Z
+Registry Expiry Date: 2028-03-04T00:00:00Z
+Registrar Registration Expiration Date: 2028-03-04T00:00:00Z
+Registrar: GEIGROUPE
+Registrar Street Address: Nouakchott-Mauritanie
+Registrar Email: geigroupe@geigroupe.mr
+Domain Status: active https://icann.org/epp#active
+Name Server: dns3.ami.mr
+Name Server: dns.ami.mr
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:42:03.821Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TUTILISATION: Vous n'êtes pas autorisé à accéder ou interroger notre base de données WHOIS à l'aide de processus électroniques à volume élevé et automatisés. Cette base de données WHOIS est fournie par notre service à la communauté Internet.
+
+Les données sont à titre d'information seulement. Nous ne garantissons pas son exactitude.
+En soumettant une requête WHOIS, vous acceptez de respecter les conditions d'utilisation suivantes: 
+Vous convenez que vous ne pouvez utiliser ces données qu'à des fins licites et que vous n'utiliserez en aucun cas ces données pour: 
+(1) autoriser, activer ou autrement soutenir la transmission de publicités ou de sollicitations massives non sollicitées par courrier électronique, par téléphone ou par télécopie; 
+ou (2) permettre des processus électroniques automatisés à haut volume. La compilation, le reconditionnement, la diffusion ou toute autre utilisation de ces données est expressément interdite.

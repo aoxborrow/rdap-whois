@@ -1,0 +1,29 @@
+{
+  "query": "fastdns.hosting",
+  "server": "whois.nic.hosting",
+  "domainId": "D308054584-CNIC",
+  "domainName": "fastdns.hosting",
+  "creationDate": "2015-04-17T16:45:16Z",
+  "expirationDate": "2027-04-17T23:59:59Z",
+  "updatedDate": "2025-09-21T18:02:11Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.fastdns.hosting",
+    "ns2.fastdns.hosting",
+    "ns3.fastdns.hosting"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "2374",
+  "registrarIanaId": 2374,
+  "registrarName": "Hosting Ukraine LLC",
+  "registrarUrl": "https://www.ukraine.com.ua",
+  "registrarAbuseEmail": "domain@abuse.team",
+  "registrarAbusePhone": "+380.443927433",
+  "registrarWhoisServer": "whois.ukraine.com.ua"
+}

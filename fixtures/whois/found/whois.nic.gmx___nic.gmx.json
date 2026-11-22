@@ -1,0 +1,36 @@
+{
+  "query": "nic.gmx",
+  "server": "whois.nic.gmx",
+  "domainId": "D9-GMX",
+  "domainName": "nic.gmx",
+  "creationDate": "2014-07-09T13:51:24Z",
+  "expirationDate": "2027-07-09T13:51:24Z",
+  "updatedDate": "2026-08-23T14:00:19Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "1&1 internal Registrar",
+  "registrarUrl": "http://www.1und1.de",
+  "registrarAbuseEmail": "gmxregistry@1und1.de",
+  "registrarAbusePhone": "+49.721913744221",
+  "registrarWhoisServer": "whois.nic.gmx",
+  "registrantCountry": "DE",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

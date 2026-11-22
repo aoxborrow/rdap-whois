@@ -1,0 +1,50 @@
+###%%% QRY: blic.rs
+###%%% SRV: whois.rnids.rs
+###%%% TME: 2026-11-22T08:14:27Z
+
+% The data in the Whois database are provided by RNIDS
+% for information purposes only and to assist persons in obtaining
+% information about or related to a domain name registration record. 
+% Data in the database are created by registrants and we do not guarantee 
+% their accuracy. We reserve the right to remove access 
+% for entities abusing the data, without notice.
+% All timestamps are given in Serbian local time. 
+%
+Domain name: blic.rs
+Domain status: Active https://www.rnids.rs/en/domain-name-status-codes#Active
+Registration date: 26.04.2008 11:26:40
+Modification date: 26.03.2026 01:19:22
+Expiration date: 26.04.2027 11:26:40
+Confirmed: 26.04.2008 11:26:40
+Registrar: Mainstream Public Cloud Services d.o.o.
+
+
+Registrant: Ringier Serbia doo
+Address: Kosovska 10, Beograd, Serbia
+Postal Code: 11000
+ID Number: 17134990 
+Tax ID: 100000889 
+
+Administrative contact: Ringier Serbia doo
+Address: Kosovska 10, Beograd, Serbia
+Postal Code: 11000
+ID Number: 17134990
+Tax ID: 100000889
+
+Technical contact: Mainstream d.o.o.
+Address: Nusiceva 15, Beograd, Serbia
+Postal Code: 11000
+ID Number: 20076682
+Tax ID: 
+
+
+DNS: ns.ha.rs - 91.222.5.5
+DNS: bg1.mns-dns.net - 
+DNS: ns.bg2.ha.rs - 91.222.7.7
+DNS: ns.bg3.ha.rs - 87.237.206.34
+DNS: us1.mns-dns.com - 
+
+
+DNSSEC signed: no
+
+Whois Timestamp: 22.11.2026 09:14:27

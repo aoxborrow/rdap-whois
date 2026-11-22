@@ -1,0 +1,47 @@
+{
+  "domainId": "PANDI-DO166626",
+  "domainName": "google.co.id",
+  "creationDate": "2004-12-18T13:33:21Z",
+  "expirationDate": "2025-09-01T23:59:59Z",
+  "updatedDate": "2025-01-30T02:38:45Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited",
+    "clientTransferProhibited",
+    "clientRenewProhibited",
+    "clientDeleteProhibited",
+    "clientUpdateProhibited",
+    "serverRenewProhibited",
+    "serverDeleteProhibited",
+    "serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarName": "PT Digital Registra Indonesia",
+  "registrarAddress": [
+    "Jl. lempongsari no. 39C  Jongkang RT/RW 12/35 Sariharjo"
+  ],
+  "registrarCity": "Sleman",
+  "registrarState": "Yogyakarta",
+  "registrarPostalCode": "55281",
+  "registrarCountry": "ID",
+  "registrarPhone": "0274882257",
+  "registrarEmail": "info@digitalregistra.co.id",
+  "registrarUrl": "https://www.digitalregistra.co.id",
+  "registrarAbuseEmail": "https://pandi.id/domain-abuse-form/?lang=en"
+}

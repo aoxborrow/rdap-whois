@@ -1,0 +1,46 @@
+###%%% QRY: starbucks.com.bn
+###%%% SRV: whois.bnnic.bn
+###%%% TME: 2026-07-16T11:38:16Z
+
+----------------------------------------------------------------------  
+ BNNIC WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   IMAGINE SDN BHD
+
+    Domain Name:  STARBUCKS.COM.BN 
+    Creation Date:  13-Feb-2014 00:00:00
+    Modified Date:  18-Jul-2023 15:25:30
+    Expiration Date:  13-Feb-2027 00:00:00
+    Domain Status:  ok
+
+
+    Registrant:
+
+        Name:           Tengku Ferry Widayat / Lim Sing Pheng - (BNC1316T)      
+        Email:          ferry@starbucks.com.my 
+        
+        
+
+
+    Administrative Contact:
+          
+        Name:           Tengku Ferry Widayat / Lim Sing Pheng - (BNC1316T)
+        Email:          ferry@starbucks.com.my 
+        
+        
+
+
+    Technical Contact:
+        
+        Name:           Tengku Ferry Widayat / Lim Sing Pheng - (BNC1316T)
+        Email:          ferry@starbucks.com.my 
+        
+        
+
+
+    Name Servers:
+        DEMI.NS.CLOUDFLARE.COM  
+        OWEN.NS.CLOUDFLARE.COM

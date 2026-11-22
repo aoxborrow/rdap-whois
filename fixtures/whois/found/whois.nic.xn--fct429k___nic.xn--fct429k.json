@@ -1,0 +1,36 @@
+{
+  "query": "nic.xn--fct429k",
+  "server": "whois.nic.xn--fct429k",
+  "domainId": "REDACTED",
+  "domainName": "nic.xn--fct429k",
+  "creationDate": "2013-08-10T00:38:27Z",
+  "expirationDate": "2027-08-09T23:59:59Z",
+  "updatedDate": "2026-09-24T00:00:39Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.xn--fct429k",
+    "v0n1.nic.xn--fct429k",
+    "v0n2.nic.xn--fct429k",
+    "v0n3.nic.xn--fct429k",
+    "v2n0.nic.xn--fct429k",
+    "v2n1.nic.xn--fct429k"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

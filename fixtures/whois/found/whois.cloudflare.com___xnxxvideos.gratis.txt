@@ -1,0 +1,47 @@
+###%%% QRY: xnxxvideos.gratis
+###%%% SRV: whois.cloudflare.com
+###%%% TME: 2026-11-22T08:11:41Z
+
+Domain Name: XNXXVIDEOS.GRATIS
+Registry Domain ID: 7c1a9a33c8de434ea4b9d88534abda02-DONUTS
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: https://www.cloudflare.com
+Updated Date: 2026-07-03T06:58:46Z
+Creation Date: 2022-02-23T16:25:15Z
+Registrar Registration Expiration Date: 2027-02-23T16:25:15Z
+Registrar: Cloudflare, Inc.
+Registrar IANA ID: 1910
+Domain Status: clienttransferprohibited https://icann.org/epp#clienttransferprohibited
+Registry Registrant ID:
+Registrant Name: DATA REDACTED
+Registrant Organization: 
+Registrant Street: DATA REDACTED
+Registrant City: DATA REDACTED
+Registrant State/Province: Bacau
+Registrant Postal Code: DATA REDACTED
+Registrant Country: RO
+Registrant Phone: +1.4153197517
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 
+Name Server: jack.ns.cloudflare.com
+Name Server: megan.ns.cloudflare.com
+DNSSEC: unsigned
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.4153197517
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:11:41Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Cloudflare provides more than 13 million domains with the tools to give their global users a faster, more secure, and more reliable internet experience.
+
+NOTICE:
+
+Data in the Cloudflare Registrar WHOIS database is provided to you by Cloudflare
+under the terms and conditions at https://www.cloudflare.com/domain-registration-agreement/
+
+By submitting this query, you agree to abide by these terms.
+
+Register your domain name at https://www.cloudflare.com/registrar/

@@ -1,0 +1,70 @@
+{
+  "query": "okx.ac",
+  "server": "whois.gandi.net",
+  "domainId": "D503300001207160075-LRMS",
+  "domainName": "okx.ac",
+  "creationDate": "2021-11-10T16:23:59Z",
+  "expirationDate": "2027-11-10T17:23:59Z",
+  "registrarExpirationDate": "2027-11-10T17:23:59Z",
+  "updatedDate": "2026-10-06T17:25:18Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-7.awsdns-00.com",
+    "ns-809.awsdns-37.net",
+    "ns-1033.awsdns-01.org",
+    "ns-1804.awsdns-33.co.uk"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "GANDI SAS",
+  "registrarReseller": "Amazon Registrar, Inc.",
+  "registrarUrl": "http://www.gandi.net",
+  "registrarAbuseEmail": "abuse@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrarWhoisServer": "whois.gandi.net",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Aux Cayes Fintech Co. Ltd.",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "SC",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "724bf4bb8579325f3665b4b9eff27a6e-32046480@contact.gandi.net",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "724bf4bb8579325f3665b4b9eff27a6e-32046480@contact.gandi.net",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "724bf4bb8579325f3665b4b9eff27a6e-32046480@contact.gandi.net"
+}

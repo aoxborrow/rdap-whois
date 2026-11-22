@@ -1,0 +1,43 @@
+###%%% QRY: salyk.kg
+###%%% SRV: whois.kg
+###%%% TME: 2026-07-16T11:39:14Z
+
+% This is the .kg ccTLD Whois server
+% Register your own domain at https://www.cctld.kg
+% Whois web service - https://www.cctld.kg/whois
+
+Domain SALYK.KG (ACTIVE)
+
+Administrative Contact:
+   PID: AI-42439-KG
+   Name: Государственная налоговая служба при Кабинете Министров Кыргызской Республики
+   Address: Kyrgyzstan Бишкек Чуй 219
+   Email: sti@sti.gov.kg
+   phone: 996312610181
+   fax: 
+
+Technical Contact:
+   PID: AI-42439-KG
+   Name: Государственная налоговая служба при Кабинете Министров Кыргызской Республики
+   Address: Kyrgyzstan Бишкек Чуй 219
+   Email: sti@sti.gov.kg
+   phone: 996312610181
+   fax: 
+
+Billing Contact:
+   PID: AI-42439-KG
+   Name: Государственная налоговая служба при Кабинете Министров Кыргызской Республики
+   Address: Kyrgyzstan Бишкек Чуй 219
+   Email: sti@sti.gov.kg
+   phone: 996312610181
+   fax: 
+
+
+Record created: Mon Dec 11 11:05:30 2017
+Record last updated on:  Mon Nov 24 17:09:03 2025
+Record expires on: Wed Dec  9 11:05:30 2026
+
+Name servers in the listed order:
+
+NS1.SALYK.KG
+NS2.SALYK.KG

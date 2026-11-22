@@ -1,0 +1,32 @@
+{
+  "query": "home.sandvik",
+  "server": "whois.nic.sandvik",
+  "domainId": "DAE3E8450802F433E9CBD6CD9E5295662-ARI",
+  "domainName": "home.sandvik",
+  "creationDate": "2015-11-24T11:35:36Z",
+  "expirationDate": "2027-11-24T11:35:36Z",
+  "updatedDate": "2025-11-23T06:02:19Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "renewPeriod"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "renewPeriod https://icann.org/epp#renewPeriod"
+  ],
+  "nameservers": [
+    "ns.sandvik.com",
+    "nx1.sandvik.com",
+    "nx2.sandvik.com",
+    "nx3.sandvik.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://whois.corporatedomains.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

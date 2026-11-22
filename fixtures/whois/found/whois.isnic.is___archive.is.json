@@ -1,0 +1,50 @@
+{
+  "query": "archive.is",
+  "server": "whois.isnic.is",
+  "domainName": "archive.is",
+  "creationDate": "2012-05-16T00:00:00Z",
+  "expirationDate": "2028-05-16T00:00:00Z",
+  "nameservers": [
+    "carl.archive.is",
+    "dave.archive.ph",
+    "elsa.archive.li"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned delegation",
+  "registrantId": "DP36-IS",
+  "registrantName": "Denis Petrov",
+  "registrantAddress": [
+    "Bilkova 16",
+    "Prague, Stare Mesto 11000",
+    "CZ"
+  ],
+  "registrantPhone": "+420 775168924",
+  "registrantEmail": "domains@dns.li",
+  "adminId": "DP36-IS",
+  "adminName": "Denis Petrov",
+  "adminAddress": [
+    "Bilkova 16",
+    "Prague, Stare Mesto 11000",
+    "CZ"
+  ],
+  "adminPhone": "+420 775168924",
+  "adminEmail": "domains@dns.li",
+  "techId": "DP36-IS",
+  "techName": "Denis Petrov",
+  "techAddress": [
+    "Bilkova 16",
+    "Prague, Stare Mesto 11000",
+    "CZ"
+  ],
+  "techPhone": "+420 775168924",
+  "techEmail": "domains@dns.li",
+  "billingId": "DP36-IS",
+  "billingName": "Denis Petrov",
+  "billingAddress": [
+    "Bilkova 16",
+    "Prague, Stare Mesto 11000",
+    "CZ"
+  ],
+  "billingPhone": "+420 775168924",
+  "billingEmail": "domains@dns.li"
+}

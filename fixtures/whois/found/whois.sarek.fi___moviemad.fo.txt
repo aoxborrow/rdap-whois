@@ -1,0 +1,52 @@
+###%%% QRY: moviemad.fo
+###%%% SRV: whois.sarek.fi
+###%%% TME: 2025-03-20T15:48:05Z
+
+Domain Name: moviemad.fo
+Updated Date: 2024-12-15T17:21:32.0Z
+Creation Date: 2024-12-10T17:20:20.0Z
+Expiration Date: 2025-12-10T23:59:59.000Z
+Registrar: Sarek
+Registrar URL: https://sarek.fi
+Registrar Abuse Contact Email: abuse@sarek.fi
+Registrar Abuse Contact Phone: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: REDACTED FOR PRIVACY
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext: 
+Registrant Email: https://sarek.fi/contact/moviemad.fo/registrant
+Domain Status: ok https://www.icann.org/epp#ok
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext: 
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext: 
+Admin Email: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext: 
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext: 
+Tech Email: REDACTED FOR PRIVACY
+Name Server: guy.ns.cloudflare.com
+Name Server: wanda.ns.cloudflare.com
+DNSSEC: unsigned

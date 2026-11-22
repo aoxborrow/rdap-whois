@@ -1,0 +1,50 @@
+###%%% QRY: 3dns.box
+###%%% SRV: whois.nic.inc
+###%%% TME: 2026-11-22T08:08:39Z
+
+Domain Name: 3DNS.BOX
+Registry Domain ID: D365614080-CNIC
+Registrar WHOIS Server: whois.nic.inc
+Registrar URL: https://intercap.inc/
+Updated Date: 2026-09-30T22:10:31.0Z
+Creation Date: 2023-05-02T17:50:08.0Z
+Registry Expiry Date: 2027-05-02T23:59:59.0Z
+Registrar: Intercap Registry Inc.
+Registrar IANA ID: 9999
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registrant Organization: 3DNS
+Registrant State/Province:
+Registrant Country: US
+Registrant Phone:
+Registrant Fax:
+Registrant Email: hello@3dns.box
+Tech Phone:
+Tech Fax:
+Tech Email: hello@3dns.box
+Name Server: NS-1818.AWSDNS-35.CO.UK
+Name Server: NS-724.AWSDNS-26.NET
+Name Server: NS-1209.AWSDNS-23.ORG
+Name Server: NS-438.AWSDNS-54.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@my.box
+Registrar Abuse Contact Phone: +44.123456789
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:08:39.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

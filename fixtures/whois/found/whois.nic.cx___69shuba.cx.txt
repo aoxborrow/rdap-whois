@@ -1,0 +1,44 @@
+###%%% QRY: 69shuba.cx
+###%%% SRV: whois.nic.cx
+###%%% TME: 2025-04-09T08:30:44Z
+
+Domain Name: 69shuba.cx
+Registry Domain ID: 2019324-CoCCA
+Updated Date: 2024-09-28T02:42:59Z
+Creation Date: 2024-04-29T03:48:54Z
+Registry Expiry Date: 2025-04-29T03:49:00Z
+Registrar Registration Expiration Date: 2025-04-29T03:49:00Z
+Registrar: CentralNic Ltd
+Registrar Street Address: 35-39 Moorgate
+London
+EC2R 6AR
+Registrar Country: GB
+Registrar Phone: +44 (0)20 33 88 0600
+Registrar Fax: +44 (0)20 33 88 0601
+Registrar Email: registry@key-systems.net
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 2019322-CoCCA
+Registry Admin ID: 2019323-CoCCA
+Registry Tech ID: 2019322-CoCCA
+Tech Street: Kalkofnsvegur 2
+Tech City: Reykjavik
+Tech State/Province: Capital Region
+Tech Postal Code: 101
+Tech Country: 
+Name Server: ns-53.awsdns-06.com
+Name Server: ns-1888.awsdns-44.co.uk
+Name Server: ns-551.awsdns-04.net
+Name Server: ns-1329.awsdns-38.org
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-04-09T08:30:44.525Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our Whois database through the use of electronic processes that are high-volume and automated. Whois database is provided by Christmas Island Domain Administration Limited ("cxDA").
+
+cxDA makes every effort to maintain the completeness and accuracy of the Whois data, but cannot guarantee that the results are error-free. Therefore, any data provided through the Whois service are on an "as is" basis without any warranties. BY USING THE WHOIS SERVICE AND THE DATA CONTAINED HEREIN OR IN ANY REPORT GENERATED WITH RESPECT THERETO, IT IS ACCEPTED THAT CIIA IS NOT LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF, OR IN CONNECTION WITH, THE REPORT OR THE INFORMATION PROVIDED BY THE WHOIS SERVICE, NOR OMISSIONS OR MISSING INFORMATION. THE RESULTS OF ANY WHOIS REPORT OR INFORMATION PROVIDED BY THE WHOIS SERVICE CANNOT BE RELIED UPON IN CONTEMPLATION OF LEGAL PROCEEDINGS WITHOUT FURTHER VERIFICATION, NOR DO SUCH RESULTS CONSTITUTE A LEGAL OPINION. Acceptance of the results of the Whois constitutes acceptance of these terms, conditions and limitations. Whois data may be requested only for lawful purposes, in particular, to protect legal rights and obligations. Illegitimate uses of Whois data include, but are not limited to, unsolicited email, data mining, direct marketing or any other improper purpose. Any request made for Whois data will be documented by cxDA but will not be used for any commercial purpose whatsoever. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+© 2021 cxDA All rights reserved.

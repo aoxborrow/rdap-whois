@@ -1,0 +1,30 @@
+{
+  "query": "exchanger.money",
+  "server": "whois.nic.money",
+  "domainId": "9b06a97dbdfa4d52bf9d0d8fe99e8518-DONUTS",
+  "domainName": "exchanger.money",
+  "creationDate": "2016-10-26T13:51:49Z",
+  "expirationDate": "2025-10-26T13:51:49Z",
+  "updatedDate": "2025-03-04T05:55:24Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.molot.eu",
+    "ns1.relsoft.org",
+    "ns2.molot.eu",
+    "ns2.relsoft.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1052",
+  "registrarIanaId": 1052,
+  "registrarName": "EuroDNS S.A.",
+  "registrarUrl": "http://www.eurodns.com",
+  "registrarAbuseEmail": "legalservices@eurodns.com",
+  "registrarAbusePhone": "+352.27220150",
+  "registrarWhoisServer": "whois.eurodns.com"
+}

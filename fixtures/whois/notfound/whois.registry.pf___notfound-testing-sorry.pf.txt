@@ -1,0 +1,8 @@
+###%%% QRY: notfound-testing-sorry.pf
+###%%% SRV: whois.registry.pf
+###%%% TME: 2025-03-20T16:20:45Z
+
+This is the PF top level domain whois server.
+Informations about 'notfound-testing-sorry.pf' :
+
+Domain unknown

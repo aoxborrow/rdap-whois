@@ -1,0 +1,50 @@
+{
+  "query": "google.hn",
+  "server": "whois.nic.hn",
+  "domainId": "801220-CoCCA",
+  "domainName": "google.hn",
+  "creationDate": "2003-03-07T05:00:00Z",
+  "expirationDate": "2027-03-07T05:00:00Z",
+  "registrarExpirationDate": "2027-03-07T05:00:00Z",
+  "updatedDate": "2026-02-03T10:42:11Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor",
+  "registrarAddress": [
+    "1120 S. Rackham Way, Suite 300"
+  ],
+  "registrarCity": "Meridian",
+  "registrarPostalCode": "83642",
+  "registrarCountry": "US",
+  "registrarPhone": "+1.2083895740",
+  "registrarFax": "+1.2083895771",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantId": "1671988-CoCCA",
+  "registrantName": "Domain Administrator",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "dns-admin@google.com"
+}

@@ -1,0 +1,16 @@
+###%%% QRY: annonces.nc
+###%%% SRV: whois.nc
+###%%% TME: 2026-11-22T08:12:26Z
+
+OPT Whois v3.0.0
+
+Domain                   : annonces.nc
+Created on               : 2007-07-04T13:58:04.000Z
+Expires on               : 2029-07-04
+Last updated on          : 2024-07-04T08:06:12.000Z
+
+Domain server 1          : ns1.digitalocean.com
+Domain server 2          : ns2.digitalocean.com
+Domain server 3          : ns3.digitalocean.com
+
+Registrar                : NONE

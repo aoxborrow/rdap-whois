@@ -1,0 +1,61 @@
+###%%% QRY: googll.store
+###%%% SRV: whois.reg.ru
+###%%% TME: 2026-11-22T08:10:23Z
+
+Domain Name: GOOGLL.STORE
+Registry Domain ID: D263379667-CNIC
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: https://www.reg.com
+Updated Date: 2026-11-13T14:21:42Z
+Creation Date: 2021-12-10T10:11:02Z
+Registrar Registration Expiration Date: 2028-12-10T10:11:02Z
+Registrar: Registrar of Domain Names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: jjzsk4ve69pysp3k
+Registrant Name: Igor Zuzanskii
+Registrant Organization: Private Person
+Registrant Street: Kurnatovskogo 4b
+Registrant City: Kyiv
+Registrant State/Province: Kyiv
+Registrant Postal Code: 02140
+Registrant Country: UA
+Registrant Phone: +380.953181937
+Registrant Phone Ext:
+Registrant Fax: +380.953181937
+Registrant Fax Ext:
+Registrant Email: igordotwhite@gmail.com
+Registry Admin ID: ktbvq2bokek2qmsj
+Admin Name: Igor Zuzanskii
+Admin Organization: Private Person
+Admin Street: Kurnatovskogo 4b
+Admin City: Kyiv
+Admin State/Province: Kyiv
+Admin Postal Code: 02140
+Admin Country: UA
+Admin Phone: +380.953181937
+Admin Phone Ext:
+Admin Fax: +380.953181937
+Admin Fax Ext:
+Admin Email: igordotwhite@gmail.com
+Registry Tech ID: un47v5ko8hlqueqz
+Tech Name: Igor Zuzanskii
+Tech Organization: Private Person
+Tech Street: Kurnatovskogo 4b
+Tech City: Kyiv
+Tech State/Province: Kyiv
+Tech Postal Code: 02140
+Tech Country: UA
+Tech Phone: +380.953181937
+Tech Phone Ext:
+Tech Fax: +380.953181937
+Tech Fax Ext:
+Tech Email: igordotwhite@gmail.com
+Name Server: megan.ns.cloudflare.com
+Name Server: norm.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit: https://icann.org/epp
+>>> Last update of WHOIS database: 2026.11.22T08:10:14Z <<<

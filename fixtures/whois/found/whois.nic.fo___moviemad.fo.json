@@ -1,0 +1,52 @@
+{
+  "query": "moviemad.fo",
+  "server": "whois.nic.fo",
+  "domainId": "D510502824-CNIC",
+  "domainName": "moviemad.fo",
+  "creationDate": "2024-12-10T17:20:20Z",
+  "expirationDate": "2026-12-10T23:59:59Z",
+  "updatedDate": "2026-10-14T14:08:13Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "guy.ns.cloudflare.com",
+    "wanda.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Immaterialism Limited",
+  "registrarUrl": "https://immateriali.sm",
+  "registrarAbuseEmail": "abuse@immateriali.sm",
+  "registrarAbusePhone": "+44.2037698590",
+  "registrarWhoisServer": "whois.immateriali.sm",
+  "registrantName": "Host Master",
+  "registrantOrg": "Njalla Okta LLC",
+  "registrantAddress": [
+    "Arthur L. Evelyn Building",
+    "Suite 5",
+    "Main Street"
+  ],
+  "registrantCity": "Charlestown",
+  "registrantState": "Charlestown",
+  "registrantPostalCode": "KN0802",
+  "registrantCountry": "KN",
+  "registrantPhone": "+1.6282511337",
+  "registrantEmail": "https://whois.nic.fo/contact/moviemad.fo/registrant",
+  "techName": "Host Master",
+  "techOrg": "Njalla Okta LLC",
+  "techAddress": [
+    "Arthur L. Evelyn Building",
+    "Suite 5",
+    "Main Street"
+  ],
+  "techCity": "Charlestown",
+  "techState": "Charlestown",
+  "techPostalCode": "KN0802",
+  "techCountry": "KN",
+  "techPhone": "+1.6282511337",
+  "techEmail": "https://whois.nic.fo/contact/moviemad.fo/tech"
+}

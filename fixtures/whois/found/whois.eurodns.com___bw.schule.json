@@ -1,0 +1,62 @@
+{
+  "query": "bw.schule",
+  "server": "whois.eurodns.com",
+  "domainId": "D21948945-SCHULE",
+  "domainName": "bw.schule",
+  "creationDate": "2019-09-17T00:00:00Z",
+  "expirationDate": "2026-09-16T00:00:00Z",
+  "registrarExpirationDate": "2026-09-16T00:00:00Z",
+  "updatedDate": "2025-04-01T10:09:30Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.manage-now.de",
+    "ns2.manage-now.de",
+    "ns3.manage-now.de"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1052",
+  "registrarIanaId": 1052,
+  "registrarName": "Eurodns S.A.",
+  "registrarUrl": "http://www.eurodns.com",
+  "registrarAbuseEmail": "legalservices@eurodns.com",
+  "registrarAbusePhone": "+352.27220150",
+  "registrarWhoisServer": "whois.eurodns.com",
+  "registrantId": "edns_r21723662",
+  "registrantName": "Baden-Württemberg Ministerium für Kultus, Jugend und Sport",
+  "registrantAddress": [
+    "Thouretstraße 6"
+  ],
+  "registrantCity": "Stuttgart",
+  "registrantPostalCode": "70173",
+  "registrantCountry": "DE",
+  "registrantPhone": "+49.7112790",
+  "registrantEmail": "bw.schule@km.kv.bwl.de",
+  "adminId": "edns_a21723662",
+  "adminName": "Manage Now GmbH Hostmaster",
+  "adminOrg": "Manage Now GmbH",
+  "adminAddress": [
+    "Mies-van-der-Rohe-Strasse 8"
+  ],
+  "adminCity": "Muenchen",
+  "adminPostalCode": "80807",
+  "adminCountry": "DE",
+  "adminPhone": "+49.713236601",
+  "adminEmail": "hostmaster@tds.de",
+  "techId": "edns_t21723662",
+  "techName": "MN Hostmaster",
+  "techOrg": "Manage Now GmbH",
+  "techAddress": [
+    "Mies-van-der-Rohe-Strasse 8"
+  ],
+  "techCity": "Muenchen",
+  "techPostalCode": "80807",
+  "techCountry": "DE",
+  "techPhone": "+49.713236601",
+  "techEmail": "hostmaster@tds.de"
+}

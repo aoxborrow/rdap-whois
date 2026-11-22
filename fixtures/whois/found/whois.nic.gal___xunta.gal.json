@@ -1,0 +1,37 @@
+{
+  "query": "xunta.gal",
+  "server": "whois.nic.gal",
+  "domainId": "D96-GAL",
+  "domainName": "xunta.gal",
+  "creationDate": "2014-11-28T10:26:10Z",
+  "expirationDate": "2026-11-28T10:26:10Z",
+  "updatedDate": "2025-11-23T01:08:32Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a1-15.akam.net",
+    "a2-66.akam.net",
+    "a7-64.akam.net",
+    "a8-65.akam.net",
+    "a9-66.akam.net",
+    "a20-67.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "140",
+  "registrarIanaId": 140,
+  "registrarName": "Acens Technologies, S.L.U",
+  "registrarUrl": "https://www.acens.com",
+  "registrarAbuseEmail": "abuse@acens.net",
+  "registrarAbusePhone": "+34.911418583",
+  "registrarWhoisServer": "whois.acens.net",
+  "registrantState": "A Coru?a",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

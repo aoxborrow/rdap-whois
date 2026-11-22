@@ -1,0 +1,31 @@
+{
+  "query": "stake.ceo",
+  "server": "whois.nic.ceo",
+  "domainId": "D346045884-CNIC",
+  "domainName": "stake.ceo",
+  "creationDate": "2023-01-29T23:50:02Z",
+  "expirationDate": "2028-01-29T23:59:59Z",
+  "updatedDate": "2026-02-06T14:00:27Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "clint.ns.cloudflare.com",
+    "meg.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.markmonitor.com"
+}

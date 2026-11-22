@@ -1,0 +1,30 @@
+{
+  "query": "nic.philips",
+  "server": "whois.nic.philips",
+  "domainId": "DD88B70FD91CA4F6F8B95DFB4C40E3E34-ARI",
+  "domainName": "nic.philips",
+  "creationDate": "2015-02-09T06:23:09Z",
+  "expirationDate": "2027-02-09T06:23:09Z",
+  "updatedDate": "2026-03-26T06:23:12Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.philips",
+    "b.nic.philips",
+    "c.nic.philips",
+    "d.nic.philips"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Koninklijke Philips Electronics N.V."
+}

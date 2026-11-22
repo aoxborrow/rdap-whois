@@ -1,0 +1,64 @@
+###%%% QRY: alta.inc
+###%%% SRV: whois-service.virtualcloud.co
+###%%% TME: 2025-03-21T04:37:32Z
+
+Domain Name: ALTA.INC
+Registry Domain ID: D282693449-CNIC
+Registrar WHOIS Server: whois-service.virtualcloud.co
+Registrar URL: https://www.sav.com/
+Updated Date: 2025-02-28T17:57:54Z
+Creation Date: 2022-03-18T05:43:58Z
+Registrar Registration Expiration Date: 2026-03-18T23:59:59Z
+Registrar: SAV.COM, LLC
+Registrar IANA ID: 609
+Registrar Abuse Contact Email: ABUSE-CONTACT@SAV.COM
+Registrar Abuse Contact Phone: +1.8885808790
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 997QDMU7H0
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: REDACTED FOR PRIVACY
+Registrant Street: 2229 S MICHIGAN AVE SUITE 303
+Registrant City: CHICAGO
+Registrant State/Province: ILLINOIS
+Registrant Postal Code: 60616
+Registrant Country: US
+Registrant Phone: +1.2563740797
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=alta.inc
+Registry Admin ID: 997QDMU7H0
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: 2229 S MICHIGAN AVE SUITE 303
+Admin City: CHICAGO
+Admin State/Province: ILLINOIS
+Admin Postal Code: 60616
+Admin Country: US
+Admin Phone: +1.2563740797
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=alta.inc
+Registry Tech ID: 997QDMU7H0
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: 2229 S MICHIGAN AVE SUITE 303
+Tech City: CHICAGO
+Tech State/Province: ILLINOIS
+Tech Postal Code: 60616
+Tech Country: US
+Tech Phone: +1.2563740797
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Select Contact Domain Holder Link https://privacy.sav.com/?domain=alta.inc
+Name Server: NS-579.AWSDNS-08.NET
+Name Server: NS-1445.AWSDNS-52.ORG
+Name Server: NS-1838.AWSDNS-37.CO.UK
+Name Server: NS-367.AWSDNS-45.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-02-28T17:57:54Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

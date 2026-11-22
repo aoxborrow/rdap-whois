@@ -1,0 +1,29 @@
+###%%% QRY: sri.gob.ec
+###%%% SRV: whois.nic.ec
+###%%% TME: 2026-07-14T10:43:27Z
+
+Domain Name: sri.gob.ec
+Registrar URL: https://nic.ec
+Updated Date: 2025-06-04T14:31:30Z
+Creation Date: 2010-07-02T23:00:00Z
+Registry Expiry Date: 2028-07-02T05:00:00Z
+Registrar Registration Expiration Date: 2028-07-02T05:00:00Z
+Registrar: ECUADORDOMAIN S.A.
+Registrar Abuse Contact Email: abuse@nic.ec
+Registrar Abuse Contact Phone: +593024016116
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 772334-nicec
+Registrant Name: Servicio de Rentas Internas
+Registry Admin ID: 846378-nicec
+Admin Name: Servicio de Rentas Internas
+>>> Last update of WHOIS database: 2026-07-14T10:43:28.308Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Los datos detallados a continuación por NIC.EC es información pública cuyo propósito es
+únicamente informativo que sirve para la obtención de la información acerca de o
+relacionado con los registros de un Nombre de Dominio. Los datos se muestran de acuerdo
+a los datos de NIC.EC en la última actualización de su base de datos. Al realizar una
+búsqueda de WHOIS de un dominio, usted declara y acepta que los datos serán utilizados
+solo para fines legales y que no utilizara los datos para envíos masivos no solicitados
+de correo electrónico o para publicidad o fines comerciales no solicitados.

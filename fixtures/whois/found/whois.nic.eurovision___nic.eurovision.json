@@ -1,0 +1,63 @@
+{
+  "query": "nic.eurovision",
+  "server": "whois.nic.eurovision",
+  "domainId": "D9-EUROVISN",
+  "domainName": "nic.eurovision",
+  "creationDate": "2014-07-22T13:43:01Z",
+  "expirationDate": "2027-07-22T13:43:01Z",
+  "updatedDate": "2026-09-05T14:00:21Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "European Broadcasting Union",
+  "registrarUrl": "http://www.eurovision.com",
+  "registrarAbuseEmail": "directionGeneralTlds@ebu.ch",
+  "registrarAbusePhone": "+41.227172158",
+  "registrarWhoisServer": "whois.nic.eurovision",
+  "registrantId": "C7-EUROVISN",
+  "registrantName": "European Broadcasting Union",
+  "registrantAddress": [
+    "L'Ancienne-Route 17A"
+  ],
+  "registrantCity": "Le Grand-Saconnex",
+  "registrantPostalCode": "1218",
+  "registrantCountry": "CH",
+  "registrantPhone": "+41.227172158",
+  "registrantFax": "+41.227474158",
+  "registrantEmail": "directionGeneralTlds@ebu.ch",
+  "techId": "C7-EUROVISN",
+  "techName": "European Broadcasting Union",
+  "techAddress": [
+    "L'Ancienne-Route 17A"
+  ],
+  "techCity": "Le Grand-Saconnex",
+  "techPostalCode": "1218",
+  "techCountry": "CH",
+  "techPhone": "+41.227172158",
+  "techFax": "+41.227474158",
+  "techEmail": "directionGeneralTlds@ebu.ch",
+  "billingId": "C7-EUROVISN",
+  "billingName": "European Broadcasting Union",
+  "billingAddress": [
+    "L'Ancienne-Route 17A"
+  ],
+  "billingCity": "Le Grand-Saconnex",
+  "billingPostalCode": "1218",
+  "billingCountry": "CH",
+  "billingPhone": "+41.227172158",
+  "billingFax": "+41.227474158",
+  "billingEmail": "directionGeneralTlds@ebu.ch"
+}

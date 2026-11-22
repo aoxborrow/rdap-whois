@@ -1,0 +1,103 @@
+###%%% QRY: sovcom.bank
+###%%% SRV: whois.nic.bank
+###%%% TME: 2026-07-16T11:40:15Z
+
+Domain Name: sovcom.bank
+Registry Domain ID: DE3763E5BE30849159B2D3C2E501D27F6-NSR
+Registrar WHOIS Server:
+Registrar URL: www.nic.ru
+Updated Date: 2026-06-02T21:14:38Z
+Creation Date: 2021-06-28T11:20:04Z
+Registry Expiry Date: 2027-06-28T11:20:04Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: Tld-abuse@nic.ru
+Registrar Abuse Contact Phone: +7.4959944601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C1208328E86394FB5A47C6E4DEFE81474-NSR
+Registrant Name: domain admins
+Registrant Organization: Public Joint Stock Company Sovcombank
+Registrant Street: Tekstilshikov ave 46
+Registrant Street:
+Registrant Street:
+Registrant City: Kostroma
+Registrant State/Province: Kostromskaya obl.
+Registrant Postal Code: 156000
+Registrant Country: RU
+Registrant Phone: +7.4942390909
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: domains@sovcombank.ru
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email:
+Registry Tech ID: C1208328E86394FB5A47C6E4DEFE81474-NSR
+Tech Name: domain admins
+Tech Organization: Public Joint Stock Company Sovcombank
+Tech Street: Tekstilshikov ave 46
+Tech Street:
+Tech Street:
+Tech City: Kostroma
+Tech State/Province: Kostromskaya obl.
+Tech Postal Code: 156000
+Tech Country: RU
+Tech Phone: +7.4942390909
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: domains@sovcombank.ru
+Name Server: ns-a.sovcom.bank
+Name Server: ns-b.sovcom.bank
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:40:16Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+fTLD Registry Services, LLC (Registry Operator) is required to collect and 
+provide domain name registration information (Whois Data) for a variety 
+of purposes. Registry Operator through its Registry Service Provider enables 
+access to Whois Data through a standard text-based network protocol on 
+port 43 and as a standard web-based interface at whois.nic.bank/whois.nic.insurance. 
+Both interfaces are publicly available at no cost to the user and are 
+reachable worldwide. This service is available to any Internet user and its 
+use does not require prior authorization or permission.
+
+Registry Operator provides the public Whois Data for information purposes 
+only, and does not guarantee its accuracy. 
+
+By accessing Whois Data made available by Registry Operator, you agree 
+that you will use the Whois Data only for lawful purposes.  Under no 
+circumstance shall the data or the systems of Registry Operator and/or 
+Registry Service Provider be used to: allow, enable, or otherwise support the 
+transmission of mass unsolicited, commercial advertising or solicitations via, 
+email, telephone or facsimile; or enable high volume, automated, electronic 
+processes that send queries or data to the systems of Registry Operator, 
+Registry Service Provider, or Registrar except as reasonably necessary to 
+register domain names or modify existing registrations. The compilation, 
+repackaging, disseminations or other use of the Whois Data is expressly 
+prohibited without the prior consent of Registry Operator. Registry Operator 
+reserves the right to restrict third party access to Whois Data through these 
+public resources in its sole discretion to ensure operational stability. Registry 
+Operator may restrict or block access to Whois Data for failure to abide by 
+the Terms of Use.
+
+Notice:  The expiration data displayed in this record is the date the 
+Registrars sponsorship of the domain name registration in is currently set to 
+expire. This date does not necessarily reflect the expiration date of the 
+domain name Registrants Registration Agreement with the sponsoring 
+Registrar. Users may consult the sponsoring Registrars Whois Data to view 
+the Registrars reported date of expiration for a specific domain name.

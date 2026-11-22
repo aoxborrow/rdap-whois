@@ -1,0 +1,33 @@
+###%%% QRY: almanar.com.lb
+###%%% SRV: whois.lbdr.org.lb
+###%%% TME: 2026-11-22T08:12:51Z
+
+Domain Name: almanar.com.lb
+Registry Domain ID: 13882-lbdr
+Registrar URL: https://www.terra.net.lb/
+Updated Date: 2026-04-23T14:30:32Z
+Creation Date: 2021-01-28T00:00:00Z
+Registry Expiry Date: 2027-04-28T00:00:00Z
+Registrar Registration Expiration Date: 2027-04-28T00:00:00Z
+Registrar: TERRANET
+Registrar Street Address: Beirut
+Registrar Country: LB
+Registrar Phone: 9611577511
+Registrar Email: dns-admin@terra.net.lb
+Registrar Abuse Contact Email: abuse@terra.net.lb
+Registrar Abuse Contact Phone: 9611656250
+Domain Status: active https://icann.org/epp#active
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: 14857-lbdr
+Name Server: ns2.awt-lb.com
+Name Server: ns1.awt-lb.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T08:10:36.586Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to LBDR it's members (or LBDR or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.
+
+GDPR COMPLIANCE: The LBDR applies GDPR data compliance as a General data privacy policy and EU GDPR compliance to EU data subjects ( European Union member states: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden).

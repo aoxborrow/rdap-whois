@@ -1,0 +1,66 @@
+###%%% QRY: e-volution.ai
+###%%% SRV: whois.nic.ai
+###%%% TME: 2026-07-16T11:39:55Z
+
+Domain Name: e-volution.ai
+Registry Domain ID: 8d2454da9eda48869fbe5537cdb254f5-DONUTS
+Registrar WHOIS Server: whois.eurodns.com
+Registrar URL: http://www.eurodns.com
+Updated Date: 2025-09-02T07:14:08Z
+Creation Date: 2019-09-03T12:37:15Z
+Registry Expiry Date: 2027-09-03T12:37:15Z
+Registrar: EuroDNS S.A.
+Registrar IANA ID: 1052
+Registrar Abuse Contact Email: legalservices@eurodns.com
+Registrar Abuse Contact Phone: +352.27220150
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: d52f7d182aaa445085809c9e6ad93240-DONUTS
+Registrant Name: Rea Alex
+Registrant Organization: Evolution Tech
+Registrant Street: 1349 Westmatch Welinghom Welminghom
+Registrant City: Welminghom
+Registrant State/Province: 
+Registrant Postal Code: 3323321
+Registrant Country: US
+Registrant Phone: +1.88772366333
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: admin@e-volution.ai
+Registry Admin ID: 33c327ba378045e5b9c4bd062fb671ec-DONUTS
+Admin Name: Rea Alex
+Admin Organization: Evolution Tech
+Admin Street: 1349 Westmatch Welinghom Welminghom
+Admin City: Welminghom
+Admin State/Province: 
+Admin Postal Code: 3323321
+Admin Country: US
+Admin Phone: +1.88772366333
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: admin@e-volution.ai
+Registry Tech ID: a8185b0103d441fcbef86a9e7418908a-DONUTS
+Tech Name: Rea Alex
+Tech Organization: Evolution Tech
+Tech Street: 1349 Westmatch Welinghom Welminghom
+Tech City: Welminghom
+Tech State/Province: 
+Tech Postal Code: 3323321
+Tech Country: US
+Tech Phone: +1.88772366333
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: admin@e-volution.ai
+Name Server: ns-1043.awsdns-02.org
+Name Server: ns-954.awsdns-55.net
+Name Server: ns-1963.awsdns-53.co.uk
+Name Server: ns-11.awsdns-01.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:39:55Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

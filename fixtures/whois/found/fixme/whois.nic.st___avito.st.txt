@@ -1,0 +1,80 @@
+###%%% QRY: avito.st
+###%%% SRV: whois.nic.st
+###%%% TME: 2025-04-09T08:36:52Z
+
+Whois Server Version 3.3.2
+
+Domain Name: avito.st
+Registrar: EPAG Domainservices GmbH
+Name Server: ns1.edgedns.ru
+Name Server: ns2.edgedns.world
+Status: ok
+Updated Date: 2024-10-08
+Creation Date: 2010-10-13
+Expiration Date: 2025-10-13
+
+>>> Last update of whois database: 2025-04-09T08:36:52Z <<<
+
+The data in the WHOIS database is protected by copyright.
+
+By submitting a WHOIS query, you agree that you will use this data only for lawful purposes according with the terms and policy that is publicly available on https://www.nic.st/terms-of-service and that, under no circumstances will you use this data to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; in contravention of any applicable data and privacy protection laws; or to enable high volume, automated, electronic processes that apply to the registry (or its systems).
+Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without ST Registry prior written permission.
+By executing this query, in any manner whatsoever, you agree to abide by these terms. In some limited cases, domains that might appear as available in whois might not actually be available as they could be already registered and the whois not yet updated and/or they could be part of the Restricted list. In this cases, performing a check through your Registrar's (EPP check) will give you the actual status of the domain.
+
+ST Registry reserves the right to modify or change these conditions at any time without prior or subsequent notification of any kind.
+
+DOMAIN: avito.st
+
+REGISTRATION-SERVICE-PROVIDER: EPAG Domainservices GmbH
+URL: epag.de
+
+created-date:    2010-10-13 12:35:11
+updated-date:    2024-10-08 22:00:28
+expiration-date: 2025-10-13 21:59:59
+
+registrant-organization: LLC KEKh eKOMMERC
+registrant-name:         Anastasiya Yatchenko (AT4300413545673)
+registrant-street:       ul. Lesnaya, d. 7, komn. 1
+registrant-city:         Moscow
+registrant-state:        
+registrant-zip:          125196
+registrant-country:      RU
+registrant-phone:        +7.4952283630
+registrant-fax:          
+registrant-email:        malisitskaya@avito.ru
+
+admin-organization: LLC KEKh eKOMMERC
+admin-name:         Anastasiya Yatchenko (AT4300413555773)
+admin-street:       ul. Lesnaya, d. 7, komn. 1
+admin-city:         Moscow
+admin-state:        
+admin-zip:          125196
+admin-country:      RU
+admin-phone:        +7.4952283630
+admin-fax:          
+admin-email:        malisitskaya@avito.ru
+
+tech-organization: RU-CENTER
+tech-name:         Evgeny Sekachev (AT3753504195073)
+tech-street:       2/1, 3d Khoroshevskaya str.
+tech-city:         Moscow
+tech-state:        
+tech-zip:          123308
+tech-country:      RU
+tech-phone:        +7.4957370601
+tech-fax:          
+tech-email:        omt18-epnic@ru.mailc.at
+
+billing-organization: RU-CENTER
+billing-name:         Evgeny Sekachev (R32122-EPNIC)
+billing-street:       2/1, 3d Khoroshevskaya str.
+billing-city:         Moscow
+billing-state:        Moscow
+billing-zip:          123308
+billing-country:      RU
+billing-phone:        +7.4957370601
+billing-fax:          
+billing-email:        omt18-epnic@ru.mailc.at
+
+nameserver: ns1.edgedns.ru
+nameserver: ns2.edgedns.world

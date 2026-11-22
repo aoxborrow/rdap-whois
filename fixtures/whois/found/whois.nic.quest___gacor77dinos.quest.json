@@ -1,0 +1,28 @@
+{
+  "query": "gacor77dinos.quest",
+  "server": "whois.nic.quest",
+  "domainId": "D519653154-CNIC",
+  "domainName": "gacor77dinos.quest",
+  "creationDate": "2025-01-16T07:20:35Z",
+  "expirationDate": "2027-01-16T23:59:59Z",
+  "updatedDate": "2026-02-27T03:28:50Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nena.ns.cloudflare.com",
+    "zac.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "http://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com"
+}

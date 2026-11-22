@@ -1,0 +1,48 @@
+{
+  "query": "noticiaslatam.lat",
+  "server": "whois.akky.mx",
+  "domainId": "D434356662-CNIC",
+  "domainName": "noticiaslatam.lat",
+  "creationDate": "2024-02-19T18:01:47Z",
+  "expirationDate": "2027-02-19T06:00:00Z",
+  "registrarExpirationDate": "2027-02-19T06:00:00Z",
+  "updatedDate": "2026-06-08T16:15:38Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)"
+  ],
+  "nameservers": [
+    "nss1.rian.ru",
+    "nss2.rian.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1705",
+  "registrarIanaId": 1705,
+  "registrarName": "Akky Online Solutions S.A. de C.V.",
+  "registrarUrl": "http://www.akky.mx",
+  "registrarAbuseEmail": "abuse@akky.mx",
+  "registrarAbusePhone": "+52.8188642625",
+  "registrarWhoisServer": "whois.akky.mx",
+  "registrantId": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantName": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantOrg": "Agencia Internacional de Informacion Rossiya Segodnya",
+  "registrantAddress": [
+    "Redacted for Privacy (Redactado por Privacidad)"
+  ],
+  "registrantCity": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantState": "Ciudad de Mexico",
+  "registrantPostalCode": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantCountry": "MX",
+  "registrantPhone": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantPhoneExt": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantFax": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantFaxExt": "Redacted for Privacy (Redactado por Privacidad)",
+  "registrantEmail": "https://www.akky.mx/WhoisContact",
+  "adminId": "Redacted for Privacy (Redactado por Privacidad)",
+  "adminEmail": "https://www.akky.mx/WhoisContact",
+  "techId": "Redacted for Privacy (Redactado por Privacidad)",
+  "techEmail": "https://www.akky.mx/WhoisContact"
+}

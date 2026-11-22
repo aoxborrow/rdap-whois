@@ -1,0 +1,5 @@
+###%%% QRY: throttled.jcb
+###%%% SRV: whois.nic.gmo
+###%%% TME: 2025-03-20T16:07:22Z
+
+Server is busy now, please try again later.

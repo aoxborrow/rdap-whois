@@ -1,0 +1,63 @@
+{
+  "domainId": "79428-MNINET",
+  "domainName": "aka.ms",
+  "creationDate": "2011-01-20T16:48:05Z",
+  "expirationDate": "2026-01-20T16:48:05Z",
+  "registrarExpirationDate": "2026-01-20T16:48:05Z",
+  "updatedDate": "2024-12-09T14:17:23Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "asia1.akam.net",
+    "asia3.akam.net",
+    "eur2.akam.net",
+    "use9.akam.net",
+    "usw1.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "CSC Corporate Domains",
+  "registrarAddress": [
+    "2711 Centerville Road",
+    "Suite 400",
+    "Wilmington, DE 19808"
+  ],
+  "registrarEmail": "admin@internationaladmin.com",
+  "registrantId": "61996-CoCCA",
+  "registrantName": "Domain Administrator",
+  "registrantAddress": [
+    "One Microsoft Way"
+  ],
+  "registrantCity": "Redmond",
+  "registrantState": "WA",
+  "registrantPostalCode": "98052",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4258828080",
+  "registrantEmail": "domains@microsoft.com",
+  "adminId": "61997-CoCCA",
+  "adminName": "Domain Administrator",
+  "adminAddress": [
+    "One Microsoft Way"
+  ],
+  "adminCity": "Redmond",
+  "adminState": "WA",
+  "adminPostalCode": "98052",
+  "adminCountry": "US",
+  "adminPhone": "+1.4258828080",
+  "adminEmail": "admin@internationaladmin.com",
+  "techId": "66242-CoCCA",
+  "techName": "MSN Hostmaster",
+  "techAddress": [
+    "One Microsoft Way"
+  ],
+  "techCity": "Redmond",
+  "techState": "WA",
+  "techPostalCode": "98052",
+  "techCountry": "US",
+  "techPhone": "+1.4258828080",
+  "techEmail": "msnhst@microsoft.com"
+}

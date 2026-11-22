@@ -1,0 +1,36 @@
+{
+  "query": "nic.taobao",
+  "server": "whois.nic.taobao",
+  "domainId": "f20e3ab6ffab449c9f821c93f324088f-DONUTS",
+  "domainName": "nic.taobao",
+  "creationDate": "2022-11-02T15:35:15Z",
+  "expirationDate": "2027-11-02T15:35:15Z",
+  "updatedDate": "2026-11-02T15:35:57Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a0.nic.taobao",
+    "a2.nic.taobao",
+    "b0.nic.taobao",
+    "c0.nic.taobao"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

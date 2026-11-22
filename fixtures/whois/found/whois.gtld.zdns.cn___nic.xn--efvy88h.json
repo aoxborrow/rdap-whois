@@ -1,0 +1,75 @@
+{
+  "query": "nic.xn--efvy88h",
+  "server": "whois.gtld.zdns.cn",
+  "domainId": "D20150825G10001G_42746634-xinwen",
+  "domainName": "nic.xn--efvy88h",
+  "creationDate": "2015-08-25T04:49:36Z",
+  "expirationDate": "2034-08-25T04:49:36Z",
+  "updatedDate": "2017-11-30T02:33:12Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "cns1.zdnscloud.net",
+    "dns1.zdnscloud.info",
+    "ins1.zdnscloud.com",
+    "vns1.zdnscloud.biz"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "knet",
+  "registrarUrl": "http://www.knet.cn",
+  "registrarAbuseEmail": "tech-supprot@zdns.cn",
+  "registrarAbusePhone": "+86.01058813521",
+  "registrarWhoisServer": "202.173.11.141",
+  "registrantId": "C20130607C_00000203-xinwen",
+  "registrantName": "Shuo Liu",
+  "registrantOrg": "Tech",
+  "registrantAddress": [
+    "No.80 Daqufu Road Tangshan Hebei"
+  ],
+  "registrantCity": "Tangshan",
+  "registrantState": "Heibei",
+  "registrantPostalCode": "100170",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.58812441",
+  "registrantPhoneExt": "2222",
+  "registrantFax": "+86.58815451",
+  "registrantFaxExt": "1234",
+  "registrantEmail": "liushuo@knet.cn",
+  "adminId": "C20130607C_00000203-xinwen",
+  "adminName": "Shuo Liu",
+  "adminOrg": "Tech",
+  "adminAddress": [
+    "No.80 Daqufu Road Tangshan Hebei"
+  ],
+  "adminCity": "Tangshan",
+  "adminState": "Heibei",
+  "adminPostalCode": "100170",
+  "adminCountry": "CN",
+  "adminPhone": "+86.58812441",
+  "adminPhoneExt": "2222",
+  "adminFax": "+86.58815451",
+  "adminFaxExt": "1234",
+  "adminEmail": "liushuo@knet.cn",
+  "techId": "C20130607C_00000203-xinwen",
+  "techName": "Shuo Liu",
+  "techOrg": "Tech",
+  "techAddress": [
+    "No.80 Daqufu Road Tangshan Hebei"
+  ],
+  "techCity": "Tangshan",
+  "techState": "Heibei",
+  "techPostalCode": "100170",
+  "techCountry": "CN",
+  "techPhone": "+86.58812441",
+  "techPhoneExt": "2222",
+  "techFax": "+86.58815451",
+  "techFaxExt": "1234",
+  "techEmail": "liushuo@knet.cn"
+}

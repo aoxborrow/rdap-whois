@@ -1,0 +1,68 @@
+{
+  "query": "everlit.audio",
+  "server": "whois.enom.com",
+  "domainId": "D331170550-CNIC",
+  "domainName": "everlit.audio",
+  "creationDate": "2022-10-31T19:30:00Z",
+  "expirationDate": "2027-10-31T23:59:00Z",
+  "registrarExpirationDate": "2027-10-31T23:59:00Z",
+  "updatedDate": "2026-11-22T08:08:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.domain.com",
+    "ns2.domain.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "48",
+  "registrarIanaId": 48,
+  "registrarName": "ENOM, INC.",
+  "registrarUrl": "https://www.enomdomains.com",
+  "registrarAbuseEmail": "ABUSE@ENOM.COM",
+  "registrarAbusePhone": "+1.4259744689",
+  "registrarWhoisServer": "whois.enom.com",
+  "registrantName": "Whois Agent (897829183)",
+  "registrantOrg": "Whois Privacy Protection Service, Inc.",
+  "registrantAddress": [
+    "PO Box 639",
+    "C/O everlit.audio"
+  ],
+  "registrantCity": "Kirkland",
+  "registrantState": "WA",
+  "registrantPostalCode": "98083",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4252740657",
+  "registrantFax": "+1.4259744730",
+  "registrantEmail": "sfwpwpbt@whoisprivacyprotect.com",
+  "adminName": "Whois Agent",
+  "adminOrg": "Whois Privacy Protection Service, Inc.",
+  "adminAddress": [
+    "PO Box 639",
+    "C/O everlit.audio"
+  ],
+  "adminCity": "Kirkland",
+  "adminState": "WA",
+  "adminPostalCode": "98083",
+  "adminCountry": "US",
+  "adminPhone": "+1.4252740657",
+  "adminFax": "+1.4259744730",
+  "adminEmail": "sfwpwpbt@whoisprivacyprotect.com",
+  "techName": "Whois Agent",
+  "techOrg": "Whois Privacy Protection Service, Inc.",
+  "techAddress": [
+    "PO Box 639",
+    "C/O everlit.audio"
+  ],
+  "techCity": "Kirkland",
+  "techState": "WA",
+  "techPostalCode": "98083",
+  "techCountry": "US",
+  "techPhone": "+1.4252740657",
+  "techFax": "+1.4259744730",
+  "techEmail": "sfwpwpbt@whoisprivacyprotect.com"
+}

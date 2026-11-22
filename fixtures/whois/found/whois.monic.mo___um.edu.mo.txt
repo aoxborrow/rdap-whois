@@ -1,0 +1,20 @@
+###%%% QRY: um.edu.mo
+###%%% SRV: whois.monic.mo
+###%%% TME: 2026-07-16T11:14:54Z
+
+% Domain Information over Whois protocol
+%
+% Monic Whois Server Version 1.0
+
+Domain Name: um.edu.mo
+Record created on 2010-12-31 08:00:00
+Record expires on 2026-12-31
+
+Domain name servers:
+ -----------------------------------------------------
+a10-64.akam.net
+a11-65.akam.net
+a9-64.akam.net
+a18-66.akam.net
+a1-35.akam.net
+a2-67.akam.net

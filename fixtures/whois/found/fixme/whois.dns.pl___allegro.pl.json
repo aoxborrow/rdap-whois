@@ -1,0 +1,26 @@
+{
+  "domainName": "allegro.pl",
+  "creationDate": "1999-10-27T13:00:00Z",
+  "expirationDate": "2025-10-26T14:00:00Z",
+  "updatedDate": "2025-04-02T11:23:54Z",
+  "status": [],
+  "nameservers": [
+    "dns1.allegro.pl",
+    "dns2.allegro.pl",
+    "dns3.allegro.pl",
+    "dns4.allegro.pl"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarName": "Corporation Service Company",
+  "registrarAddress": [
+    "251 Little Falls Drive",
+    "19808 Wilmington",
+    "Delaware",
+    "Stany Zjednoczone/United States"
+  ],
+  "registrarPhone": "+1.3026365400",
+  "registrarFax": "+1.3026365454",
+  "registrarEmail": "registryrelations@cscinfo.com",
+  "registrarWhoisServer": "https://dns.pl/en/whois"
+}

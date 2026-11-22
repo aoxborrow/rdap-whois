@@ -1,0 +1,63 @@
+{
+  "query": "engaged.courses",
+  "server": "whois.uniregistrar.com",
+  "domainId": "DD2F7CB84EC4B4508A9419632EE0FC50F-NSR",
+  "domainName": "engaged.courses",
+  "creationDate": "2018-01-07T21:18:42Z",
+  "expirationDate": "2026-01-07T21:18:42Z",
+  "registrarExpirationDate": "2026-01-07T21:18:42Z",
+  "updatedDate": "2025-01-08T11:27:09Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-443.awsdns-55.com",
+    "ns-637.awsdns-15.net",
+    "ns-1167.awsdns-17.org",
+    "ns-1660.awsdns-15.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1659",
+  "registrarIanaId": 1659,
+  "registrarName": "GoDaddy Online Services Cayman Islands Ltd.",
+  "registrarUrl": "http://uniregistry.com",
+  "registrarAbuseEmail": "abuse@uniregistry.com",
+  "registrarAbusePhone": "+1.4426008800",
+  "registrarWhoisServer": "whois.uniregistrar.com",
+  "registrantId": "CR764246465",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=engaged.courses",
+  "techId": "CR764246467",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=engaged.courses"
+}

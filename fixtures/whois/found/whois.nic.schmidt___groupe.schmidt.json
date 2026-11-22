@@ -1,0 +1,28 @@
+{
+  "query": "groupe.schmidt",
+  "server": "whois.nic.schmidt",
+  "domainId": "D2F31EB9595564986B1AB072FD788ECD8-ARI",
+  "domainName": "groupe.schmidt",
+  "creationDate": "2016-01-25T16:32:27Z",
+  "expirationDate": "2027-01-25T16:32:27Z",
+  "updatedDate": "2026-01-24T06:02:23Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns1.cscdns.net",
+    "dns2.cscdns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://whois.corporatedomains.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

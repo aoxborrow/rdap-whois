@@ -1,0 +1,30 @@
+{
+  "query": "nic.xn--kcrx77d1x4a",
+  "server": "whois.nic.xn--kcrx77d1x4a",
+  "domainId": "D365D317C073A42EA8645ABCB7BC36C64-ARI",
+  "domainName": "nic.xn--kcrx77d1x4a",
+  "creationDate": "2015-02-16T04:33:14Z",
+  "expirationDate": "2027-02-16T04:33:14Z",
+  "updatedDate": "2026-04-02T04:33:16Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.xn--kcrx77d1x4a",
+    "b.nic.xn--kcrx77d1x4a",
+    "c.nic.xn--kcrx77d1x4a",
+    "d.nic.xn--kcrx77d1x4a"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Koninklijke Philips Electronics N.V. Chinese"
+}

@@ -1,0 +1,86 @@
+###%%% QRY: eztv.yt
+###%%% SRV: whois.nic.yt
+###%%% TME: 2026-07-16T11:44:51Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        eztv.yt
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      EL5664-FRNIC
+admin-c:                       EL5665-FRNIC
+tech-c:                        EL5665-FRNIC
+registrar:                     EURODNS S.A.
+Expiry Date:                   2027-03-07T08:02:56Z
+created:                       2013-03-07T08:02:56Z
+last-update:                   2026-03-05T08:21:00.19446Z
+source:                        FRNIC
+
+nserver:                       lisa.ns.cloudflare.com
+nserver:                       theo.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     EURODNS S.A.
+address:                       Array
+address:                       L-3372 LEUDELANGE
+country:                       LU
+phone:                         +352.2637251
+e-mail:                        registryinfo@eurodns.com
+website:                       http://www.eurodns.com
+anonymous:                     No
+registered:                    2003-09-22T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       EL5664-FRNIC
+type:                          ORGANIZATION
+contact:                       EZCloud LIMITED
+address:                       EZCloud LIMITED
+address:                       Level 3, 207 Regent Street
+address:                       W1B 3HH London
+country:                       GB
+phone:                         +44.08081683676
+e-mail:                        emmkansas@gmail.com
+registrar:                     EURODNS S.A.
+changed:                       2025-08-15T14:46:04.177601Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-08-15T14:46:04.177614Z
+reachstatus:                   ok
+reachmedia:                    phone
+reachsource:                   REGISTRAR
+reachdate:                     2025-08-15T14:46:04.177622Z
+source:                        FRNIC
+
+nic-hdl:                       EL5665-FRNIC
+type:                          ORGANIZATION
+contact:                       EZCloud LIMITED
+address:                       EZCloud LIMITED
+address:                       Level 3, 207 Regent Street
+address:                       W1B 3HH London
+country:                       GB
+phone:                         +44.08081683676
+e-mail:                        emmkansas@gmail.com
+registrar:                     EURODNS S.A.
+changed:                       2015-04-24T20:04:39Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:52.007154Z <<<

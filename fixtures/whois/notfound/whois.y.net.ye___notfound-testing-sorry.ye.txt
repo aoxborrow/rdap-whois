@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.ye
+###%%% SRV: whois.y.net.ye
+###%%% TME: 2025-03-20T16:20:08Z
+
+NOT FOUND

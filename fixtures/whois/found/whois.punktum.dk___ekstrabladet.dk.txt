@@ -1,0 +1,44 @@
+###%%% QRY: ekstrabladet.dk
+###%%% SRV: whois.punktum.dk
+###%%% TME: 2026-07-16T11:44:53Z
+
+# Hello 192.0.2.1. Your session has been logged.
+#
+# Copyright (c) 2002 - 2026 by Punktum dk A/S
+#
+# Version: 6.3.0
+#
+# The data in the DK Whois database is provided by Punktum dk A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+#
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. Punktum dk A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               ekstrabladet.dk
+DNS:                  ekstrabladet.dk
+Registered:           1996-12-07
+Expires:              2026-12-31
+Registration period:  1 year
+VID:                  no
+DNSSEC:               Unsigned delegation
+Status:               Active
+
+Registrant
+Handle:               DATA REDACTED
+Name:                 JP/POLITIKENS HUS A/S
+Address:              Mediebyen 3
+Postalcode:           8000
+City:                 Aarhus C
+Country:              DK
+Email:                it-bestilling@jppol.dk
+ID status:            ID verified via electronic ID
+
+Nameservers
+Hostname:             ns-1196.awsdns-21.org
+Hostname:             ns-177.awsdns-22.com
+Hostname:             ns-1853.awsdns-39.co.uk
+Hostname:             ns-525.awsdns-01.net

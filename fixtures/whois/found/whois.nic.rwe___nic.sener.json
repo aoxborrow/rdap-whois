@@ -1,0 +1,36 @@
+{
+  "query": "nic.sener",
+  "server": "whois.nic.rwe",
+  "domainId": "33fe616097774fe38cec5c6eaf46056b-DONUTS",
+  "domainName": "nic.sener",
+  "creationDate": "2014-12-03T19:35:12Z",
+  "expirationDate": "2026-12-03T19:35:12Z",
+  "updatedDate": "2026-08-12T03:04:07Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.sener",
+    "v0n1.nic.sener",
+    "v0n2.nic.sener",
+    "v0n3.nic.sener",
+    "v2n0.nic.sener",
+    "v2n1.nic.sener"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

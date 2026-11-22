@@ -1,0 +1,15 @@
+###%%% QRY: beian.gov.cn
+###%%% SRV: whois.cnnic.cn
+###%%% TME: 2026-11-22T08:13:52Z
+
+Domain Name: beian.gov.cn
+ROID: 20140915s10061s02337546-cn
+Domain Status: ok
+Registrant: 中华人民共和国公安部
+Registrant Contact Email: bihaibin@263.net
+Sponsoring Registrar: 阿里云计算有限公司（万网）
+Name Server: dns7.hichina.com
+Name Server: dns8.hichina.com
+Registration Time: 2014-09-15 20:09:27
+Expiration Time: 2032-09-15 20:09:27
+DNSSEC: unsigned

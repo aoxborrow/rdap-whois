@@ -1,0 +1,64 @@
+{
+  "query": "tarkov.help",
+  "server": "whois.reg.ru",
+  "domainId": "D360728714-CNIC",
+  "domainName": "tarkov.help",
+  "creationDate": "2020-03-29T18:47:08Z",
+  "expirationDate": "2028-03-30T18:47:08Z",
+  "registrarExpirationDate": "2028-03-30T18:47:08Z",
+  "updatedDate": "2026-05-18T19:01:15Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "gns21.cloudns.net",
+    "gns22.cloudns.net",
+    "gns23.cloudns.net",
+    "gns24.cloudns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarUrl": "https://www.reg.com",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com",
+  "registrantId": "w88dunb5rdk50xb8",
+  "registrantName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "registrantCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "registrantPhone": "+7.4955801111",
+  "registrantFax": "+7.4955801111",
+  "registrantEmail": "tarkov.help@regprivate.ru",
+  "adminId": "e8t8r6k6fbruxie1",
+  "adminName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "adminCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "adminPhone": "+7.4955801111",
+  "adminFax": "+7.4955801111",
+  "adminEmail": "tarkov.help@regprivate.ru",
+  "techId": "xg1v31jk-2o885e4",
+  "techName": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techAddress": [
+    "Personal data, can not be publicly disclosed according to applicable laws."
+  ],
+  "techCity": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techPostalCode": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techCountry": "Personal data, can not be publicly disclosed according to applicable laws.",
+  "techPhone": "+7.4955801111",
+  "techFax": "+7.4955801111",
+  "techEmail": "tarkov.help@regprivate.ru"
+}

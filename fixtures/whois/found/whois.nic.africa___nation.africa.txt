@@ -1,0 +1,39 @@
+###%%% QRY: nation.africa
+###%%% SRV: whois.nic.africa
+###%%% TME: 2026-11-22T08:07:44Z
+
+Domain Name: nation.africa
+Registry Domain ID: 266_DOMAIN-AFRICA
+Registrar WHOIS Server: 
+Registrar URL: www.afriregister.co.ke
+Updated Date: 2026-06-22T13:50:09Z
+Creation Date: 2017-07-19T15:13:10Z
+Registry Expiry Date: 2027-07-19T15:13:10Z
+Registrar Registration Expiration Date: 2027-07-19T15:13:10Z
+Registrar: Afriregister Limited
+Registrar IANA ID: 1381
+Registrar Abuse Contact Email: team@afriregister.bi
+Registrar Abuse Contact Phone: +25.722219231
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: Nation Media Group
+Registrant Country: KE
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: kim.ns.cloudflare.com
+Name Server: gabe.ns.cloudflare.com
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:07:44Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The use of this facility is subject to the following terms and
+==============================================================
+conditions: https://registry.africa/whois-terms-and-conditions
+==============================================================
+Copyright (c) Registry Africa Ltd
+=================================

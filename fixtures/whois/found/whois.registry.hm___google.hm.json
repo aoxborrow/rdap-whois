@@ -1,0 +1,12 @@
+{
+  "query": "google.hm",
+  "server": "whois.registry.hm",
+  "domainName": "google.hm",
+  "expirationDate": "2020-04-28T00:00:00Z",
+  "nameservers": [
+    "ns1.everydns.net",
+    "ns2.everydns.net"
+  ],
+  "registrarName": "HM Domain Registry",
+  "registrarUrl": "http://www.registry.hm"
+}

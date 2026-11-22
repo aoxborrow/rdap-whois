@@ -1,0 +1,34 @@
+{
+  "query": "nic.ifm",
+  "server": "whois.nic.ifm",
+  "domainId": "D1-IFM",
+  "domainName": "nic.ifm",
+  "creationDate": "2014-09-18T16:18:42Z",
+  "expirationDate": "2027-09-18T16:18:42Z",
+  "updatedDate": "2026-07-06T06:49:17Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "ifm Internal Registrar",
+  "registrarUrl": "https://www.ifm.com",
+  "registrarAbuseEmail": "info@ifm.com",
+  "registrarAbusePhone": "+49.20124220",
+  "registrarWhoisServer": "whois.nic.ifm",
+  "registrantCountry": "DE",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

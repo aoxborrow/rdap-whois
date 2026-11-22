@@ -1,0 +1,65 @@
+{
+  "query": "samsung.com",
+  "server": "whois.co.kr",
+  "domainId": "1521529_DOMAIN_COM-VRSN",
+  "domainName": "samsung.com",
+  "creationDate": "1994-11-29T05:00:00Z",
+  "expirationDate": "2027-11-28T05:00:00Z",
+  "registrarExpirationDate": "2027-11-28T05:00:00Z",
+  "updatedDate": "2026-10-22T05:51:19Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "dns-awskr1.samsung.com",
+    "dns-gi1.samsung.com",
+    "dnssm.samsung.com",
+    "dnssm2.samsung.com",
+    "dnsst.samsung.com",
+    "dnsst2.samsung.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "100",
+  "registrarIanaId": 100,
+  "registrarName": "Whois Corp.",
+  "registrarUrl": "https://www.whois.co.kr",
+  "registrarAbuseEmail": "abuse@whois.co.kr",
+  "registrarAbusePhone": "+82.15884259",
+  "registrarWhoisServer": "whois.co.kr",
+  "registrantName": "Samsung Electronics CO., Ltd",
+  "registrantOrg": "Samsung Electronics CO., Ltd",
+  "registrantAddress": [
+    "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do,"
+  ],
+  "registrantCity": "Korea",
+  "registrantPostalCode": "16677",
+  "registrantCountry": "KR",
+  "registrantPhone": "+82.27277203",
+  "registrantEmail": "ssdomain@samsung.com",
+  "adminName": "Samsung Electronics CO., Ltd",
+  "adminOrg": "Samsung Electronics CO., Ltd",
+  "adminAddress": [
+    "129, Samsung-ro, Yeongtong-gu, Suwon-si, Gyeonggi-do,"
+  ],
+  "adminCity": "Korea",
+  "adminPostalCode": "16677",
+  "adminCountry": "KR",
+  "adminPhone": "+82.27277203",
+  "adminEmail": "ssdomain@samsung.com",
+  "techName": "Samsung Electronics CO., Ltd",
+  "techOrg": "Samsung Electronics CO., Ltd",
+  "techAddress": [
+    "129 Samsung-ro Yeongtong-gu Suwon-si Gyeonggi-do"
+  ],
+  "techCity": "Korea",
+  "techPostalCode": "16677",
+  "techCountry": "KR",
+  "techPhone": "+82.27277203",
+  "techEmail": "ssdomain@samsung.com"
+}

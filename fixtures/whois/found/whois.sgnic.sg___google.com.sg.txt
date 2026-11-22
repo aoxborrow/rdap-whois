@@ -1,0 +1,31 @@
+###%%% QRY: google.com.sg
+###%%% SRV: whois.sgnic.sg
+###%%% TME: 2026-11-22T08:08:07Z
+
+Domain Name: google.com.sg
+Unicode Name: google.com.sg
+Updated Date: 2026-06-02T10:08:14Z
+Creation Date: 2002-07-05T09:42:32Z
+Registry Expiry Date: 2027-07-04T16:00:00Z
+Registrar: MarkMonitor Inc.
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+VerifiedID Status: VerifiedID@SG-Not Required
+Registry Lock:
+Registrant Name: GOOGLE LLC
+Admin Name: MARKMONITOR INC.
+Tech Name: GOOGLE LLC
+Tech Email: dns-admin@google.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T08:08:07Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% ----------------------------------------------------------------------
+% SGNIC WHOIS Server
+% ----------------------------------------------------------------------
+%
+% This data is provided for information purposes only.

@@ -1,0 +1,39 @@
+###%%% QRY: vg.no
+###%%% SRV: whois.norid.no
+###%%% TME: 2026-07-16T11:44:51Z
+
+% By looking up information in the domain registration directory
+% service, you confirm that you accept the terms and conditions of the
+% service:
+% https://www.norid.no/en/domeneoppslag/vilkar/
+%
+% Norid AS holds the copyright to the lookup service, content,
+% layout and the underlying collections of information used in the
+% service (cf. the Act on Intellectual Property of May 2, 1961, No.
+% 2). Any commercial use of information from the service, including
+% targeted marketing, is prohibited. Using information from the domain
+% registration directory service in violation of the terms and
+% conditions may result in legal prosecution.
+%
+% The whois service at port 43 is intended to contribute to resolving
+% technical problems where individual domains threaten the
+% functionality, security and stability of other domains or the
+% internet as an infrastructure. It does not give any information
+% about who the holder of a domain is. To find information about a
+% domain holder, please visit our website:
+% https://www.norid.no/en/domeneoppslag/
+
+Domain Information
+
+NORID Handle...............: VG33D-NORID
+Domain Name................: vg.no
+Registrar Handle...........: REG42-NORID
+Tech-c Handle..............: VGAH7R-NORID
+Name Server Handle.........: NSAW29946H-NORID
+Name Server Handle.........: NSAW42002H-NORID
+Name Server Handle.........: NSAW8019H-NORID
+Name Server Handle.........: NSAW8946H-NORID
+
+Additional information:
+Created:         2011-06-10
+Last updated:    2026-05-14

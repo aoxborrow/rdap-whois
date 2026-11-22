@@ -1,0 +1,40 @@
+{
+  "query": "ati.tn",
+  "server": "whois.ati.tn",
+  "domainName": "ati.tn",
+  "creationDate": "1998-01-07T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns4.ati.tn",
+    "ns6.ati.tn"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signed",
+  "registrarName": "At-Tounessya Internet",
+  "registrantName": "ATI",
+  "registrantAddress": [
+    "13, Avenue Jughurta, Mutuelleville, 1002 Tunis Belv�d�re"
+  ],
+  "registrantPhone": "(+216) 71 84 61 00",
+  "registrantFax": "(+216) 71 84 66 00",
+  "registrantEmail": "webadmin@ati.tn",
+  "adminName": "ATI",
+  "adminAddress": [
+    "13, Avenue Jughurta, Mutuelleville, 1002 Tunis Belv�d�re"
+  ],
+  "adminPhone": "(+216) 71 84 61 00",
+  "adminFax": "(+216) 71 84 66 00",
+  "adminEmail": "webadmin@ati.tn",
+  "techName": "ATI",
+  "techAddress": [
+    "13, Avenue Jughurta, Mutuelleville, 1002 Tunis Belv�d�re"
+  ],
+  "techPhone": "(+216) 71 84 61 00",
+  "techFax": "(+216) 71 84 66 00",
+  "techEmail": "webadmin@ati.tn"
+}

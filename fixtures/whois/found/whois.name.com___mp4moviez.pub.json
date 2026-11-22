@@ -1,0 +1,68 @@
+{
+  "query": "mp4moviez.pub",
+  "server": "whois.name.com",
+  "domainId": "ff68fba3ea04463d9fc58dd50eeeb10c-DONUTS",
+  "domainName": "mp4moviez.pub",
+  "creationDate": "2025-01-30T05:31:03Z",
+  "expirationDate": "2026-01-30T05:31:03Z",
+  "registrarExpirationDate": "2026-01-30T05:31:03Z",
+  "updatedDate": "2025-02-04T05:32:00Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jerry.ns.cloudflare.com",
+    "teagan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unSigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Redacted For Privacy",
+  "registrantOrg": "Domain Protection Services, Inc.",
+  "registrantAddress": [
+    "PO Box 1769"
+  ],
+  "registrantCity": "Denver",
+  "registrantState": "CO",
+  "registrantPostalCode": "80201",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.7208009072",
+  "registrantFax": "+1.7209758725",
+  "registrantEmail": "https://www.name.com/contact-domain-whois/mp4moviez.pub",
+  "adminId": "Not Available From Registry",
+  "adminName": "Redacted For Privacy",
+  "adminOrg": "Domain Protection Services, Inc.",
+  "adminAddress": [
+    "PO Box 1769"
+  ],
+  "adminCity": "Denver",
+  "adminState": "CO",
+  "adminPostalCode": "80201",
+  "adminCountry": "US",
+  "adminPhone": "+1.7208009072",
+  "adminFax": "+1.7209758725",
+  "adminEmail": "https://www.name.com/contact-domain-whois/mp4moviez.pub",
+  "techId": "Not Available From Registry",
+  "techName": "Redacted For Privacy",
+  "techOrg": "Domain Protection Services, Inc.",
+  "techAddress": [
+    "PO Box 1769"
+  ],
+  "techCity": "Denver",
+  "techState": "CO",
+  "techPostalCode": "80201",
+  "techCountry": "US",
+  "techPhone": "+1.7208009072",
+  "techFax": "+1.7209758725",
+  "techEmail": "https://www.name.com/contact-domain-whois/mp4moviez.pub"
+}

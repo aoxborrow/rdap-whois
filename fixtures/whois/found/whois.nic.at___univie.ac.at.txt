@@ -1,0 +1,99 @@
+###%%% QRY: univie.ac.at
+###%%% SRV: whois.nic.at
+###%%% TME: 2026-07-16T11:40:04Z
+
+% Copyright (c)2026 by NIC.AT (1)                                       
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         univie.ac.at
+registrar:      
+registrant:     UWZI7674410-NICAT
+admin-c:        <data not disclosed>
+tech-c:         UH1428893-NICAT
+tech-c:         UN566897-NICAT
+nserver:        ns10.univie.ac.at
+remarks:        192.76.243.2
+nserver:        ns10.univie.ac.at
+remarks:        2001:67c:133c::2
+nserver:        ns3.univie.ac.at
+remarks:        2001:62a:4:322::53:3
+nserver:        ns3.univie.ac.at
+remarks:        77.80.62.2
+nserver:        ns4.univie.ac.at
+remarks:        131.130.249.82
+nserver:        ns4.univie.ac.at
+remarks:        2001:62a:4:321::53:4
+nserver:        ns5.univie.ac.at
+remarks:        193.171.255.77
+nserver:        ns5.univie.ac.at
+remarks:        2001:628:453:4305::53
+nserver:        ns8.univie.ac.at
+remarks:        2a02:568:20::8
+nserver:        ns8.univie.ac.at
+remarks:        81.91.161.104
+changed:        20251118 12:12:20
+DNSSEC:         Signed
+DS key tag  1:  52061
+algorithm   1:  13
+digest type 1:  2
+digest      1:  fe6ceb8f8eb56bbfc348e745f63b25a8823f54c44a5d94c57765792b80f73179
+source:         AT-DOM
+
+personname:     
+organization:   Universitaet Wien (Zentraler Informatikdienst)
+street address: Universitaetsstrasse 7
+postal code:    1010
+city:           Vienna
+country:        Austria
+phone:          +431427714277
+fax-no:         +431427714279
+e-mail:         domain-admin@univie.ac.at
+nic-hdl:        UWZI7674410-NICAT
+changed:        20230125 17:32:24
+source:         AT-DOM
+
+personname:     UNIVIE Hostmaster
+organization:   
+street address: Universitaetsstrasse 7
+postal code:    1010
+city:           Vienna
+country:        Austria
+phone:          +431427714277
+fax-no:         +431427714279
+e-mail:         domain-admin@univie.ac.at
+nic-hdl:        UH1428893-NICAT
+changed:        20230125 17:32:47
+source:         AT-DOM
+
+personname:     UNIVIE Netadmin
+organization:   
+street address: Universitaetsstrasse 7
+postal code:    A-1010
+city:           Vienna
+country:        Austria
+phone:          +431427714030
+fax-no:         +43142779140
+e-mail:         net-admin@univie.ac.at
+nic-hdl:        UN566897-NICAT
+changed:        20230125 17:33:00
+source:         AT-DOM

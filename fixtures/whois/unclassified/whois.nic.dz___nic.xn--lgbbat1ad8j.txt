@@ -1,0 +1,10 @@
+###%%% QRY: nic.xn--lgbbat1ad8j
+###%%% SRV: whois.nic.dz
+###%%% TME: 2026-07-14T10:43:26Z
+
+% This is the WHOIS server for Example Registry.
+% Queries are subject to terms of use.
+%
+% No match for domain 'NIC.XN--LGBBAT1AD8J'.
+
+% Query served at 2026-07-14T11:43:01.14661774+01:00

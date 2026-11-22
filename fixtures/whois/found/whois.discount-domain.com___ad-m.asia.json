@@ -1,0 +1,71 @@
+{
+  "query": "ad-m.asia",
+  "server": "whois.discount-domain.com",
+  "domainId": "09e88c4860294ddb9db5e9cd0c93baf3-DONUTS",
+  "domainName": "ad-m.asia",
+  "creationDate": "2013-04-11T08:14:36Z",
+  "expirationDate": "2025-04-11T08:14:36Z",
+  "registrarExpirationDate": "2025-04-11T08:14:36Z",
+  "updatedDate": "2024-03-27T00:26:02Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns21.freebit.net",
+    "ns22.freebit.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "49",
+  "registrarIanaId": 49,
+  "registrarName": "GMO Internet, Inc.",
+  "registrarUrl": "http://www.onamae.com",
+  "registrarAbuseEmail": "abuse@gmo.jp",
+  "registrarAbusePhone": "+81.337709199",
+  "registrarWhoisServer": "whois.discount-domain.com",
+  "registrantId": "13df82911b8",
+  "registrantName": "Tamotsu Ryogoku",
+  "registrantOrg": "CRAID Inc.",
+  "registrantAddress": [
+    "3-6 Maruyamacho",
+    "E.SpaceTower"
+  ],
+  "registrantCity": "Shibuya ku",
+  "registrantState": "Tokyo",
+  "registrantPostalCode": "150-0044",
+  "registrantCountry": "JP",
+  "registrantPhone": "+81.357285880",
+  "registrantFax": "+81.354577708",
+  "registrantEmail": "ryogoku@craid-inc.com",
+  "adminId": "13df82914b3",
+  "adminName": "Tamotsu Ryogoku",
+  "adminOrg": "CRAID Inc.",
+  "adminAddress": [
+    "3-6 Maruyamacho",
+    "E.SpaceTower"
+  ],
+  "adminCity": "Shibuya ku",
+  "adminState": "Tokyo",
+  "adminPostalCode": "150-0044",
+  "adminCountry": "JP",
+  "adminPhone": "+81.357285880",
+  "adminFax": "+81.354577708",
+  "adminEmail": "ryogoku@craid-inc.com",
+  "techId": "13df82917af",
+  "techName": "Tamotsu Ryogoku",
+  "techOrg": "CRAID Inc.",
+  "techAddress": [
+    "3-6 Maruyamacho",
+    "E.SpaceTower"
+  ],
+  "techCity": "Shibuya ku",
+  "techState": "Tokyo",
+  "techPostalCode": "150-0044",
+  "techCountry": "JP",
+  "techPhone": "+81.357285880",
+  "techFax": "+81.354577708",
+  "techEmail": "ryogoku@craid-inc.com"
+}

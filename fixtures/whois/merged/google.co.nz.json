@@ -1,0 +1,45 @@
+{
+  "query": "google.co.nz",
+  "server": "whois.srs.net.nz",
+  "domainId": null,
+  "domainName": "google.co.nz",
+  "creationDate": null,
+  "expirationDate": "2014-02-17T00:00:00Z",
+  "updatedDate": "2013-01-16T23:20:24Z",
+  "registrarId": null,
+  "registrarName": "MarkMonitor",
+  "registrarUrl": null,
+  "registrarWhoisServer": null,
+  "status": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssecRaw": null,
+  "registrantName": "Google Inc",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantPhone": "+1 650 +1 650 3300100",
+  "registrantFax": "+1 650 +1 650 6181434",
+  "registrantEmail": "dns-admin@google.com",
+  "adminName": "Google Inc",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminState": "CA",
+  "adminPostalCode": "94043",
+  "adminPhone": "+1 650 +1 650 3300100",
+  "adminFax": "+1 650 +1 650 6181434",
+  "adminEmail": "dns-admin@google.com"
+}

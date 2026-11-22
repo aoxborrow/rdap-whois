@@ -1,0 +1,54 @@
+{
+  "query": "kuka.ninja",
+  "server": "whois.registrar.amazon",
+  "domainName": "kuka.ninja",
+  "creationDate": "2025-01-07T14:28:40Z",
+  "expirationDate": "2026-01-07T14:28:40Z",
+  "registrarExpirationDate": "2026-01-07T14:28:40Z",
+  "updatedDate": "2025-01-07T15:03:16Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "peyton.ns.cloudflare.com",
+    "wren.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "468",
+  "registrarIanaId": 468,
+  "registrarName": "Amazon Registrar, Inc.",
+  "registrarUrl": "https://registrar.amazon.com",
+  "registrarAbuseEmail": "trustandsafety@support.aws.com",
+  "registrarAbusePhone": "+1.2024422253",
+  "registrarWhoisServer": "whois.registrar.amazon",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "On behalf of kuka.ninja owner",
+  "registrantOrg": "Identity Protection Service",
+  "registrantAddress": [
+    "PO Box 786"
+  ],
+  "registrantCity": "Hayes",
+  "registrantState": "Middlesex",
+  "registrantPostalCode": "UB3 9TR",
+  "registrantCountry": "GB",
+  "registrantPhone": "+44.1483307527",
+  "registrantFax": "+44.1483304031",
+  "registrantEmail": "2b7b4c6b-8758-4743-b401-3490df300ad5@identity-protect.org",
+  "techId": "Not Available From Registry",
+  "techName": "On behalf of kuka.ninja owner",
+  "techOrg": "Identity Protection Service",
+  "techAddress": [
+    "PO Box 786"
+  ],
+  "techCity": "Hayes",
+  "techState": "Middlesex",
+  "techPostalCode": "UB3 9TR",
+  "techCountry": "GB",
+  "techPhone": "+44.1483307527",
+  "techFax": "+44.1483304031",
+  "techEmail": "2b7b4c6b-8758-4743-b401-3490df300ad5@identity-protect.org"
+}

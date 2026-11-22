@@ -1,0 +1,10 @@
+###%%% QRY: ptc.gov.ye
+###%%% SRV: whois.y.net.ye
+###%%% TME: 2026-07-16T23:58:42Z
+
+Domain Name: PTC.GOV.YE
+Registrar: Yemen Net - Sales
+Updated Date: 
+Name Server: ns1.yemen.net.ye (2A02:2718:4::33, 78.137.77.77)
+Name Server: ns2.yemen.net.ye (2A02:2718:4::34, 78.137.78.78)
+>>> Last update of WHOIS database: 2026-07-16T23:58:44.135Z <<<

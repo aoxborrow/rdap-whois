@@ -1,0 +1,28 @@
+{
+  "query": "material.security",
+  "server": "whois.nic.security",
+  "domainId": "D176281189-CNIC",
+  "domainName": "material.security",
+  "creationDate": "2020-03-04T06:17:35Z",
+  "expirationDate": "2027-03-04T23:59:59Z",
+  "updatedDate": "2026-02-07T04:37:19Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ainsley.ns.cloudflare.com",
+    "denver.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1910",
+  "registrarIanaId": 1910,
+  "registrarName": "Cloudflare, Inc.",
+  "registrarUrl": "http://cloudflare.com",
+  "registrarAbuseEmail": "registrar-abuse@cloudflare.com",
+  "registrarAbusePhone": "+1.4153197517",
+  "registrarWhoisServer": "whois.cloudflare.com"
+}

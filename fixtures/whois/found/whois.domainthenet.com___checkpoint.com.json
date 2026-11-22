@@ -1,0 +1,65 @@
+{
+  "query": "checkpoint.com",
+  "server": "whois.domainthenet.com",
+  "domainId": "68307_DOMAIN_COM-VRSN",
+  "domainName": "checkpoint.com",
+  "creationDate": "1994-03-29T05:00:00Z",
+  "expirationDate": "2027-03-30T04:00:00Z",
+  "registrarExpirationDate": "2027-03-30T04:00:00Z",
+  "updatedDate": "2026-02-23T10:22:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited  https://www.icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited  https://www.icann.org/epp#clientRenewProhibited"
+  ],
+  "nameservers": [
+    "dns1.p01.nsone.net",
+    "dns2.p01.nsone.net",
+    "dns3.p01.nsone.net",
+    "dns4.p01.nsone.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "10007",
+  "registrarIanaId": 10007,
+  "registrarName": "DomainTheNet.com",
+  "registrarUrl": "http://www.domainthenet.com",
+  "registrarAbuseEmail": "abuse@dtnt.com",
+  "registrarWhoisServer": "whois.domainthenet.com",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Check Point Software Technologies Ltd.",
+  "registrantAddress": [
+    "5 Hasolelim St."
+  ],
+  "registrantCity": "Tel Aviv",
+  "registrantPostalCode": "6789705",
+  "registrantCountry": "IL",
+  "registrantPhone": "+972.36241100",
+  "registrantFax": "+",
+  "registrantEmail": "hostmaster@checkpoint.com",
+  "adminName": "Domain Admin",
+  "adminOrg": "Check Point Software Technologies LTD",
+  "adminAddress": [
+    "5 Hasolelim St"
+  ],
+  "adminCity": "Tel Aviv",
+  "adminPostalCode": "6789700",
+  "adminCountry": "IL",
+  "adminPhone": "+972.37534555",
+  "adminFax": "+972.36241100",
+  "adminEmail": "hostmaster@checkpoint.com",
+  "techName": "Domain Admin",
+  "techOrg": "Check Point Software Technologies LTD",
+  "techAddress": [
+    "5 Hasolelim St"
+  ],
+  "techCity": "Tel Aviv",
+  "techPostalCode": "6789700",
+  "techCountry": "IL",
+  "techPhone": "+972.37534555",
+  "techFax": "+972.36241100",
+  "techEmail": "hostmaster@checkpoint.com"
+}

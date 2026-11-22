@@ -1,0 +1,65 @@
+{
+  "query": "zooporn.show",
+  "server": "whois.regtime.net",
+  "domainId": "2428466fca0f4f0b9395b86f29c83381-DON",
+  "domainName": "zooporn.show",
+  "creationDate": "2017-12-14T00:00:00Z",
+  "expirationDate": "2027-12-14T04:00:00Z",
+  "registrarExpirationDate": "2027-12-14T04:00:00Z",
+  "updatedDate": "2026-10-17T12:35:14Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "OK"
+  ],
+  "nameservers": [
+    "apollo.ns.cloudflare.com",
+    "zara.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1362",
+  "registrarIanaId": 1362,
+  "registrarName": "REGTIME LTD.",
+  "registrarUrl": "http://www.webnames.ru",
+  "registrarAbuseEmail": "abuse@regtime.net",
+  "registrarAbusePhone": "+7.8463733047",
+  "registrarWhoisServer": "whois.regtime.net",
+  "registrantId": "CT3394365-RT",
+  "registrantName": "sanja loginov",
+  "registrantOrg": "sanja loginov",
+  "registrantAddress": [
+    "borodina 43 kv 56"
+  ],
+  "registrantCity": "Moskva",
+  "registrantState": "moskowskaia",
+  "registrantPostalCode": "119501",
+  "registrantCountry": "RU",
+  "registrantPhone": "+7.9881806287",
+  "registrantEmail": "sanjakms@gmail.com",
+  "adminId": "CT3394365-RT",
+  "adminName": "sanja loginov",
+  "adminOrg": "sanja loginov",
+  "adminAddress": [
+    "borodina 43 kv 56"
+  ],
+  "adminCity": "Moskva",
+  "adminState": "moskowskaia",
+  "adminPostalCode": "119501",
+  "adminCountry": "RU",
+  "adminPhone": "+7.9881806287",
+  "adminEmail": "sanjakms@gmail.com",
+  "techId": "CT3394365-RT",
+  "techName": "sanja loginov",
+  "techOrg": "sanja loginov",
+  "techAddress": [
+    "borodina 43 kv 56"
+  ],
+  "techCity": "Moskva",
+  "techState": "moskowskaia",
+  "techPostalCode": "119501",
+  "techCountry": "RU",
+  "techPhone": "+7.9881806287",
+  "techEmail": "sanjakms@gmail.com"
+}

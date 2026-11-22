@@ -1,0 +1,108 @@
+###%%% QRY: wallet.tg
+###%%% SRV: whois.nic.tg
+###%%% TME: 2026-07-16T11:44:20Z
+
+This is JWhoisServer serving ccTLD tg
+Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net
+All rights reserved.
+Copyright "NICTogo2 - http://www.nic.tg"
+
+Domain:.............wallet.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2023-09-25
+Expiration:.........2026-10-23
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...johnny.ns.cloudflare.com
+Name Server (DB):...simone.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............wallet.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2023-09-25
+Expiration:.........2026-10-23
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...johnny.ns.cloudflare.com
+Name Server (DB):...simone.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............wallet.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2023-09-25
+Expiration:.........2026-10-23
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...johnny.ns.cloudflare.com
+Name Server (DB):...simone.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............wallet.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2023-09-25
+Expiration:.........2026-10-23
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...johnny.ns.cloudflare.com
+Name Server (DB):...simone.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............wallet.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2023-09-25
+Expiration:.........2026-10-23
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...johnny.ns.cloudflare.com
+Name Server (DB):...simone.ns.cloudflare.com
+
+----------------------------------------
+
+Domain:.............wallet.tg
+Registrar:..........NETMASTER SARL
+Activation:.........2023-09-25
+Expiration:.........2026-10-23
+Status:.............Activé
+Contact Type:.......[PRIVEE]
+Last Name:..........[PRIVEE]
+First Name:.........[PRIVEE]
+Address:............[PRIVEE]
+Tel:................[PRIVEE]
+Fax:................[PRIVEE]
+e-mail:.............[PRIVEE]
+Name Server (DB):...johnny.ns.cloudflare.com
+Name Server (DB):...simone.ns.cloudflare.com

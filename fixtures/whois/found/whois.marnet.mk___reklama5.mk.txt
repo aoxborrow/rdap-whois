@@ -1,0 +1,47 @@
+###%%% QRY: reklama5.mk
+###%%% SRV: whois.marnet.mk
+###%%% TME: 2026-07-16T11:39:21Z
+
+% Domain Information over Whois protocol
+%
+% MARnet whois proxy server
+% Timestamp: Thu Jul 16 2026 13:39:22
+
+domain:       reklama5.mk
+registrant:   MKHOST-R3679
+admin-c:      MKHOST-C603
+nsset:        MKHOST-NS17073
+registrar:    MKHOST-REG
+registered:   12.03.2009 13:00:00
+changed:      07.03.2022 18:33:49
+expire:       12.03.2027
+
+contact:      MKHOST-R3679
+org:          Друштво за услуги производство и трговија БИГМЕДИА ДООЕЛ увоз-извоз с.Радолишта Струга
+name:         БИГМЕДИА ДООЕЛ с.Радолишта Струга
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      MK
+phone:        DATA REDACTED
+e-mail:       go2go@hotmail.de
+registrar:    MKHOST-REG
+created:      DATA REDACTED
+
+contact:      MKHOST-C603
+name:         Лутфи Латифи
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      MK
+phone:        DATA REDACTED
+e-mail:       go2go@hotmail.de
+registrar:    MKHOST-REG
+created:      DATA REDACTED
+
+nsset:        MKHOST-NS17073
+nserver:      ns01.domaincontrol.com 
+nserver:      ns02.domaincontrol.com 
+tech-c:       MKHOST-C603
+registrar:    MKHOST-REG
+created:      07.03.2022 18:33:47

@@ -1,0 +1,20 @@
+###%%% SRV: whois.mynic.my
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.mynic.my/my/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+Welcome to .my DOMAIN REGISTRY Whois Server.
+--------------------------------------------------
+  For alternative search,
+   whois -h whois.domainregistry.my xxxxx#option
+   
+  Type the command as below for display help: 
+  whois -h whois.domainregistry.my help#h
+
+  
+  Note: Code is previously known as MYNIC Handle.
+        Please note that the query limit is 500 per day from the same IP.
+--------------------------------------------------
+
+SEARCH BY DOMAIN NAME
+
+Domain Name [u34jedzcq.my] does not exist in database

@@ -1,0 +1,60 @@
+{
+  "query": "onecomm.bm",
+  "server": "whois.nic.bm",
+  "domainId": "105f1c62f3fd445e8cd2b477ad5f0e45-DONUTS",
+  "domainName": "onecomm.bm",
+  "creationDate": "2016-05-19T00:00:00Z",
+  "expirationDate": "2028-05-19T00:00:00Z",
+  "updatedDate": "2026-11-14T15:28:52Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.onecomm.bm",
+    "ns2.onecomm.bm"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "801154",
+  "registrarIanaId": 801154,
+  "registrarName": "The Registry General, Government of Bermuda",
+  "registrantId": "245a0f1ddecb46a48746244e9c0bea47-DONUTS",
+  "registrantName": "One Communications",
+  "registrantOrg": "One Communications",
+  "registrantAddress": [
+    "30 Victoria Street"
+  ],
+  "registrantCity": "Hamilton",
+  "registrantState": "Hamilton",
+  "registrantPostalCode": "HM 11",
+  "registrantCountry": "BM",
+  "registrantPhone": "+1.4412969650",
+  "registrantEmail": "noc@onecomm.bm",
+  "adminId": "245a0f1ddecb46a48746244e9c0bea47-DONUTS",
+  "adminName": "One Communications",
+  "adminOrg": "One Communications",
+  "adminAddress": [
+    "30 Victoria Street"
+  ],
+  "adminCity": "Hamilton",
+  "adminState": "Hamilton",
+  "adminPostalCode": "HM 11",
+  "adminCountry": "BM",
+  "adminPhone": "+1.4412969650",
+  "adminEmail": "noc@onecomm.bm",
+  "techId": "245a0f1ddecb46a48746244e9c0bea47-DONUTS",
+  "techName": "One Communications",
+  "techOrg": "One Communications",
+  "techAddress": [
+    "30 Victoria Street"
+  ],
+  "techCity": "Hamilton",
+  "techState": "Hamilton",
+  "techPostalCode": "HM 11",
+  "techCountry": "BM",
+  "techPhone": "+1.4412969650",
+  "techEmail": "noc@onecomm.bm"
+}

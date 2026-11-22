@@ -1,0 +1,16 @@
+{
+  "query": "nic.su",
+  "server": "whois.tcinet.ru",
+  "domainName": "nic.su",
+  "creationDate": "2001-09-29T20:00:00Z",
+  "expirationDate": "2027-09-30T21:00:00Z",
+  "eppStatusRaw": [
+    "REGISTERED, DELEGATED, VERIFIED"
+  ],
+  "nameservers": [
+    "ns3-fwl2.nic.ru",
+    "ns4-fwl2.nic.ru",
+    "ns8-fwl2.nic.ru"
+  ],
+  "registrarName": "RUCENTER-SU"
+}

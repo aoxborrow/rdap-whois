@@ -1,0 +1,60 @@
+{
+  "query": "funyoursjapan.pink",
+  "server": "whois.star-domain.jp",
+  "domainName": "funyoursjapan.pink",
+  "creationDate": "2017-02-15T07:30:39Z",
+  "expirationDate": "2026-02-15T07:30:39Z",
+  "registrarExpirationDate": "2026-02-15T07:30:39Z",
+  "updatedDate": "2024-12-25T02:24:22Z",
+  "eppStatusRaw": [
+    "- https://www.icann.org/epp#"
+  ],
+  "nameservers": [
+    "athena.ns.cloudflare.com",
+    "henry.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1557",
+  "registrarIanaId": 1557,
+  "registrarName": "Netowl, Inc.",
+  "registrarUrl": "https://www.star-domain.jp",
+  "registrarAbuseEmail": "registrar-abuse@netowl.jp",
+  "registrarAbusePhone": "+81.662928811",
+  "registrarWhoisServer": "whois.star-domain.jp",
+  "registrantId": "P-1418374418",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantAddress": [
+    "7F FIS Bldg., 403 Shimomaruya-cho, Nakagyo-ku"
+  ],
+  "registrantCity": "Kyoto",
+  "registrantState": "Kyoto",
+  "registrantPostalCode": "604-8006",
+  "registrantCountry": "JP",
+  "registrantPhone": "+81.752568553",
+  "registrantEmail": "whoisprivacy@netowl.jp",
+  "adminId": "P-1418374418",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "Whois Privacy Protection Service by StarDomain",
+  "adminAddress": [
+    "7F FIS Bldg., 403 Shimomaruya-cho, Nakagyo-ku"
+  ],
+  "adminCity": "Kyoto",
+  "adminState": "Kyoto",
+  "adminPostalCode": "604-8006",
+  "adminCountry": "JP",
+  "adminPhone": "+81.752568553",
+  "adminEmail": "whoisprivacy@netowl.jp",
+  "techId": "P-1418374418",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "Whois Privacy Protection Service by StarDomain",
+  "techAddress": [
+    "7F FIS Bldg., 403 Shimomaruya-cho, Nakagyo-ku"
+  ],
+  "techCity": "Kyoto",
+  "techState": "Kyoto",
+  "techPostalCode": "604-8006",
+  "techCountry": "JP",
+  "techPhone": "+81.752568553",
+  "techEmail": "whoisprivacy@netowl.jp"
+}

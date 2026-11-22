@@ -1,0 +1,6 @@
+###%%% QRY: nic.xn--90ae
+###%%% SRV: whois.imena.bg
+###%%% TME: 2026-07-14T10:47:09Z
+
+DOMAIN NAME: nic.бг (nic.xn--90ae)
+registration status: invalid

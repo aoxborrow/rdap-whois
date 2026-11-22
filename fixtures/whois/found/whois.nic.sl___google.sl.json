@@ -1,0 +1,64 @@
+{
+  "query": "google.sl",
+  "server": "whois.nic.sl",
+  "domainName": "google.sl",
+  "creationDate": "2008-05-17T21:00:00Z",
+  "expirationDate": "2027-05-17T21:00:00Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "nicsl",
+  "registrarWhoisServer": "whois.nic.sl",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "ccops@markmonitor.com",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Markmonitor Inc.",
+  "adminAddress": [
+    "1120 S. Rackham Way",
+    "Suite 300"
+  ],
+  "adminCity": "Meridian",
+  "adminState": "ID",
+  "adminPostalCode": "83642",
+  "adminCountry": "US",
+  "adminPhone": "+1.2083895740",
+  "adminEmail": "ccops@markmonitor.com",
+  "techName": "Domain Administrator",
+  "techOrg": "Markmonitor Inc.",
+  "techAddress": [
+    "1120 S. Rackham Way",
+    "Suite 300"
+  ],
+  "techCity": "Meridian",
+  "techState": "ID",
+  "techPostalCode": "83642",
+  "techCountry": "US",
+  "techPhone": "+1.2083895740",
+  "techEmail": "ccops@markmonitor.com",
+  "billingName": "CCOPS Billing",
+  "billingOrg": "Markmonitor Inc.",
+  "billingAddress": [
+    "1120 S. Rackham Way",
+    "Suite 300"
+  ],
+  "billingCity": "Meridian",
+  "billingState": "ID",
+  "billingPostalCode": "83642",
+  "billingCountry": "US",
+  "billingPhone": "+1.2083895740",
+  "billingFax": "+1.2083895771",
+  "billingEmail": "ccopsbilling@markmonitor.com"
+}

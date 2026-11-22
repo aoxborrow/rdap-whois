@@ -1,0 +1,30 @@
+{
+  "query": "net.pictet",
+  "server": "whois.nic.pictet",
+  "domainId": "634a161ce46c4f55aaa9703bd7e76aa7-DONUTS",
+  "domainName": "net.pictet",
+  "creationDate": "2015-06-26T16:15:49Z",
+  "expirationDate": "2027-06-26T16:15:49Z",
+  "updatedDate": "2026-08-12T08:59:09Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.net.pictet",
+    "ns2.net.pictet",
+    "ns3.net.pictet",
+    "ns4.net.pictet"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

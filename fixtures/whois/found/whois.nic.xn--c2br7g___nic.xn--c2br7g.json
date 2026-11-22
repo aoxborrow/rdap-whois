@@ -1,0 +1,30 @@
+{
+  "query": "nic.xn--c2br7g",
+  "server": "whois.nic.xn--c2br7g",
+  "domainId": "111994131_DOMAIN_XN__C2BR7G-VRSN",
+  "domainName": "nic.xn--c2br7g",
+  "creationDate": "2015-04-07T17:53:45Z",
+  "expirationDate": "2027-04-07T17:53:45Z",
+  "updatedDate": "2026-05-28T22:12:37Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "av1.nstld.com",
+    "av2.nstld.com",
+    "av3.nstld.com",
+    "av4.nstld.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator Reserved Non-Billable",
+  "registrarUrl": "http://www.verisign.com",
+  "registrarAbuseEmail": "info@verisign-grs.com",
+  "registrarAbusePhone": "+1.7039256999",
+  "registrarWhoisServer": "www.verisigninc.com"
+}

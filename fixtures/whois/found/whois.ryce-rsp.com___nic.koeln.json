@@ -1,0 +1,88 @@
+{
+  "query": "nic.koeln",
+  "server": "whois.ryce-rsp.com",
+  "domainId": "s9o_DOMAIN-KOELN",
+  "domainName": "nic.koeln",
+  "creationDate": "2014-03-05T11:00:00Z",
+  "expirationDate": "2099-12-31T23:59:59Z",
+  "registrarExpirationDate": "2099-12-31T23:59:59Z",
+  "updatedDate": "2025-08-07T13:52:59Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.dns.business",
+    "ns1.ryce-rsp.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "dotKoeln GmbH",
+  "registrarUrl": "http://nic.koeln",
+  "registrarAbuseEmail": "servicedesk@nic.koeln",
+  "registrarAbusePhone": "+43.198116",
+  "registrantId": "REDACTED",
+  "registrantName": "REDACTED",
+  "registrantOrg": "dotKoeln GmbH",
+  "registrantAddress": [
+    "REDACTED"
+  ],
+  "registrantCity": "REDACTED",
+  "registrantState": "REDACTED",
+  "registrantPostalCode": "REDACTED",
+  "registrantCountry": "AT",
+  "registrantPhone": "REDACTED",
+  "registrantPhoneExt": "REDACTED",
+  "registrantFax": "REDACTED",
+  "registrantFaxExt": "REDACTED",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "adminId": "REDACTED",
+  "adminName": "REDACTED",
+  "adminOrg": "REDACTED",
+  "adminAddress": [
+    "REDACTED"
+  ],
+  "adminCity": "REDACTED",
+  "adminState": "REDACTED",
+  "adminPostalCode": "REDACTED",
+  "adminCountry": "REDACTED",
+  "adminPhone": "REDACTED",
+  "adminPhoneExt": "REDACTED",
+  "adminFax": "REDACTED",
+  "adminFaxExt": "REDACTED",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "techId": "REDACTED",
+  "techName": "REDACTED",
+  "techOrg": "REDACTED",
+  "techAddress": [
+    "REDACTED"
+  ],
+  "techCity": "REDACTED",
+  "techState": "REDACTED",
+  "techPostalCode": "REDACTED",
+  "techCountry": "REDACTED",
+  "techPhone": "REDACTED",
+  "techPhoneExt": "REDACTED",
+  "techFax": "REDACTED",
+  "techFaxExt": "REDACTED",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.",
+  "billingId": "REDACTED",
+  "billingName": "REDACTED",
+  "billingOrg": "REDACTED",
+  "billingAddress": [
+    "REDACTED"
+  ],
+  "billingCity": "REDACTED",
+  "billingState": "REDACTED",
+  "billingPostalCode": "REDACTED",
+  "billingCountry": "REDACTED",
+  "billingPhone": "REDACTED",
+  "billingPhoneExt": "REDACTED",
+  "billingFax": "REDACTED",
+  "billingFaxExt": "REDACTED",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name."
+}

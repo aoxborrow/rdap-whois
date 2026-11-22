@@ -1,0 +1,27 @@
+{
+  "query": "google.co.nz",
+  "server": "whois.irs.net.nz",
+  "domainName": "google.co.nz",
+  "creationDate": "1999-02-16T11:00:00Z",
+  "updatedDate": "2026-01-20T10:39:46Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor. Inc",
+  "registrarUrl": "https://www.markmonitor.com"
+}

@@ -1,0 +1,73 @@
+{
+  "query": "nic.oracle",
+  "server": "whois.nic.oracle",
+  "domainId": "8bd8f580d6dc4abeb5b31d4fec31ddb7-DONUTS",
+  "domainName": "nic.oracle",
+  "creationDate": "2014-11-03T19:36:51Z",
+  "expirationDate": "2027-11-03T19:36:51Z",
+  "updatedDate": "2026-11-03T19:37:41Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a0.nic.oracle",
+    "a2.nic.oracle",
+    "b0.nic.oracle",
+    "c0.nic.oracle"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services",
+  "registrantId": "89b3b724b5ae4dcaa1a61f1e2ae83e95-DONUTS",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Oracle Corporation",
+  "registrantAddress": [
+    "500 Oracle Parkway, M/S 501ip3"
+  ],
+  "registrantCity": "Redwood Shores",
+  "registrantState": "CA",
+  "registrantPostalCode": "94065",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505062220",
+  "registrantEmail": "ngtld-oracle@cscinfo.com",
+  "adminId": "89b3b724b5ae4dcaa1a61f1e2ae83e95-DONUTS",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Oracle Corporation",
+  "adminAddress": [
+    "500 Oracle Parkway, M/S 501ip3"
+  ],
+  "adminCity": "Redwood Shores",
+  "adminState": "CA",
+  "adminPostalCode": "94065",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505062220",
+  "adminEmail": "ngtld-oracle@cscinfo.com",
+  "techId": "8144724ef2094cb7a4b0254f1380c9d0-DONUTS",
+  "techName": "DNS Administrator",
+  "techOrg": "Identity Digital Inc",
+  "techAddress": [
+    "10500 NE 8th Street Suite 750"
+  ],
+  "techCity": "Bellevue",
+  "techState": "WA",
+  "techPostalCode": "98004",
+  "techCountry": "US",
+  "techPhone": "+1.4242624238",
+  "techFax": "+1.4252235351",
+  "techEmail": "dnsadmin@identity.digital"
+}

@@ -1,0 +1,30 @@
+{
+  "query": "nic.gi",
+  "server": "whois.identitydigital.services",
+  "domainId": "REDACTED",
+  "domainName": "nic.gi",
+  "creationDate": "2000-07-01T04:00:00Z",
+  "expirationDate": "2032-07-01T04:00:00Z",
+  "updatedDate": "2026-08-12T07:48:52Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-398.awsdns-49.com",
+    "ns-794.awsdns-35.net",
+    "ns-1215.awsdns-23.org",
+    "ns-1854.awsdns-39.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "800072",
+  "registrarIanaId": 800072,
+  "registrarName": "GibNet Registrar"
+}

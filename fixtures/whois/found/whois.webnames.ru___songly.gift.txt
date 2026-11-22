@@ -1,0 +1,52 @@
+###%%% QRY: songly.gift
+###%%% SRV: whois.webnames.ru
+###%%% TME: 2026-11-22T08:10:22Z
+
+Domain Name: SONGLY.GIFT
+Registry Domain ID: DO_e4885371f2f58a91a52be4a8687a2ef2-UR
+Registrar WHOIS Server: whois.regtime.net
+Registrar URL: http://www.webnames.ru
+Updated Date: 2026-04-20T01:05:08Z
+Creation Date: 2024-06-04T00:00:00Z
+Registrar Registration Expiration Date: 2027-06-04T04:00:00Z
+Registrar: REGTIME LTD.
+Registrar IANA ID: 1362
+Registrar Abuse Contact Email: abuse@regtime.net
+Registrar Abuse Contact Phone: +7.8463733047
+Reseller: AO "TAJMVEB"
+Domain Status: OK
+Registry Registrant ID: co4438069-rt
+Registrant Name: Ivan Vaskov
+Registrant Organization: No company
+Registrant Street: Kalinina 62
+Registrant City: N/A
+Registrant State/Province: N/A
+Registrant Postal Code: 623850
+Registrant Country: RU
+Registrant Phone: +7.9950055995
+Registrant Email: neflamaster@mail.ru
+Registry Admin ID: ca4438069-rt
+Admin Name: Ivan Vaskov
+Admin Organization: No company
+Admin Street: Kalinina 62
+Admin City: N/A
+Admin State/Province: N/A
+Admin Postal Code: 623850
+Admin Country: RU
+Admin Phone: +7.9950055995
+Admin Email: neflamaster@mail.ru
+Registry Tech ID: ct4438069-rt
+Tech Name: Ivan Vaskov
+Tech Organization: No company
+Tech Street: Kalinina 62
+Tech City: N/A
+Tech State/Province: N/A
+Tech Postal Code: 623850
+Tech Country: RU
+Tech Phone: +7.9950055995
+Tech Email: neflamaster@mail.ru
+Name Server: PAM.NS.CLOUDFLARE.COM
+Name Server: SAM.NS.CLOUDFLARE.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:10:22Z <<<

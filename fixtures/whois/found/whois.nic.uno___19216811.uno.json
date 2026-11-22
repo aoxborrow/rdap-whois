@@ -1,0 +1,28 @@
+{
+  "query": "19216811.uno",
+  "server": "whois.nic.uno",
+  "domainId": "D175448819-CNIC",
+  "domainName": "19216811.uno",
+  "creationDate": "2019-09-17T05:32:07Z",
+  "expirationDate": "2027-09-17T23:59:59Z",
+  "updatedDate": "2026-09-06T15:13:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "brenda.ns.cloudflare.com",
+    "theo.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

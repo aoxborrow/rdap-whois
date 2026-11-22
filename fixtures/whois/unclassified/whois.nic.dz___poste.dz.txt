@@ -1,0 +1,18 @@
+###%%% QRY: poste.dz
+###%%% SRV: whois.nic.dz
+###%%% TME: 2026-07-14T10:43:25Z
+
+% This is the WHOIS server for Example Registry.
+% Queries are subject to terms of use.
+%
+Domain Name:    POSTE.DZ
+Registrar:      wissal
+Registrant:     Algerie Poste
+Admin Name:    GUESMI Salem
+Admin Email:      guesmi.salem@poste.dz
+Tech Name:   GUESMI Salem
+Tech Email:     guesmi.salem@poste.dz
+Creation Date:  2002-10-07
+Expiry Date:    N/A
+
+% Query served at 2026-07-14T11:43:00.401402995+01:00

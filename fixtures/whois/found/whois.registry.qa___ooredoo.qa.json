@@ -1,0 +1,19 @@
+{
+  "query": "ooredoo.qa",
+  "server": "whois.registry.qa",
+  "domainName": "ooredoo.qa",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok http://www.icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "dns1.qatar.net.qa",
+    "dns2.qatar.net.qa",
+    "dns3.qatar.net.qa"
+  ],
+  "registrarName": "Ooredoo QSC",
+  "registrantName": "DNS Administrator - Qtel Internet Services",
+  "techName": "DNS Administrator - Qtel Internet Services"
+}

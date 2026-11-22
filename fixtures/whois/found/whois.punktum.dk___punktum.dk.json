@@ -1,0 +1,29 @@
+{
+  "query": "punktum.dk",
+  "server": "whois.punktum.dk",
+  "domainName": "punktum.dk",
+  "creationDate": "2018-01-25T00:00:00Z",
+  "expirationDate": "2027-01-31T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "auth01.ns.dk-hostmaster.dk",
+    "auth02.ns.dk-hostmaster.dk",
+    "auth03.ns.dk-hostmaster.dk"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "Signed delegation",
+  "registrantName": "Punktum dk A/S",
+  "registrantAddress": [
+    "Ørestads Boulevard 108, 11."
+  ],
+  "registrantCity": "København S",
+  "registrantPostalCode": "2300",
+  "registrantCountry": "DK",
+  "registrantPhone": "+45 33646060",
+  "registrantEmail": "info@punktum.dk"
+}

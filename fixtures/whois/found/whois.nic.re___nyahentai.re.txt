@@ -1,0 +1,93 @@
+###%%% QRY: nyahentai.re
+###%%% SRV: whois.nic.re
+###%%% TME: 2026-07-16T11:43:31Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        nyahentai.re
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      CTC84855-FRNIC
+admin-c:                       CTC84855-FRNIC
+tech-c:                        CTC84856-FRNIC
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+Expiry Date:                   2027-08-11T00:03:14Z
+created:                       2022-08-11T00:03:14Z
+last-update:                   2026-05-19T06:35:51.855163Z
+source:                        FRNIC
+
+nserver:                       elaine.ns.cloudflare.com
+nserver:                       quinton.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+address:                       Hofplein 20
+address:                       Spaces Business Centre
+address:                       3032 AC ROTTERDAM
+country:                       NL
+phone:                         +31.104482299
+fax-no:                        +31.102440250
+e-mail:                        sales@openprovider.com
+website:                       https://www.openprovider.com
+anonymous:                     No
+registered:                    2005-06-27T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC84855-FRNIC
+type:                          ORGANIZATION
+contact:                       Njalla Guokte S.R.L.
+address:                       Njalla Guokte S.R.L.
+address:                       Bulevardul Metalurgiei 132 B1C
+address:                       041837 Bucuresti
+country:                       RO
+phone:                         +40.371701213
+e-mail:                        whois+nyahentai.re@njal.la
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-05-21T11:47:35.208843Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-05-13T11:43:16.424802Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-05-13T11:43:16.424802Z
+source:                        FRNIC
+
+nic-hdl:                       CTC84856-FRNIC
+type:                          ORGANIZATION
+contact:                       Njalla Guokte S.R.L.
+address:                       Njalla Guokte S.R.L.
+address:                       Bulevardul Metalurgiei 132 B1C
+address:                       041837 Bucuresti
+country:                       RO
+phone:                         +40.371701213
+e-mail:                        whois+nyahentai.re@njal.la
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-05-21T11:47:35.198478Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-05-13T11:43:16.671961Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-05-13T11:43:16.671961Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:43:32.099316Z <<<

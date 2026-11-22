@@ -1,0 +1,30 @@
+###%%% QRY: us.kg
+###%%% SRV: whois.kg
+###%%% TME: 2026-07-16T11:39:11Z
+
+% This is the .kg ccTLD Whois server
+% Register your own domain at https://www.cctld.kg
+% Whois web service - https://www.cctld.kg/whois
+
+Domain US.KG (ACTIVE)
+
+Administrative Contact:
+   PID: Secured
+
+Technical Contact:
+   PID: Secured
+
+Billing Contact:
+   PID: Secured
+
+
+Record created: Wed May 10 21:12:06 2023
+Record last updated on:  Tue Apr 14 21:51:40 2026
+Record expires on: Tue May  8 21:12:06 2029
+
+Name servers in the listed order:
+
+NS1.DIGITALPLAT.ORG
+NS2.DIGITALPLAT.ORG
+NS3.DIGITALPLAT.ORG
+NS4.DIGITALPLAT.ORG

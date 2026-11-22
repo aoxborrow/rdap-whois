@@ -1,0 +1,44 @@
+###%%% QRY: cnouyi.college
+###%%% SRV: whois.nic.college
+###%%% TME: 2026-07-16T23:28:32Z
+
+Domain Name: CNOUYI.COLLEGE
+Registry Domain ID: D336314436-CNIC
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: http://registrar.amazon.com
+Updated Date: 2026-04-08T13:26:02.0Z
+Creation Date: 2022-12-01T10:44:01.0Z
+Registry Expiry Date: 2026-12-01T23:59:59.0Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: NS-692.AWSDNS-22.NET
+Name Server: NS-212.AWSDNS-26.COM
+Name Server: NS-1026.AWSDNS-00.ORG
+Name Server: NS-1885.AWSDNS-43.CO.UK
+DNSSEC: unsigned
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact Phone: +1.2024422253
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:28:33.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+>>> IMPORTANT INFORMATION ABOUT THE DEPLOYMENT OF RDAP: please visit
+https://www.centralnicregistry.com/support/information/rdap <<<
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

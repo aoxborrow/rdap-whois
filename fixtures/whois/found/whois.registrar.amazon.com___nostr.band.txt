@@ -1,0 +1,98 @@
+###%%% QRY: nostr.band
+###%%% SRV: whois.registrar.amazon.com
+###%%% TME: 2026-11-22T08:08:14Z
+
+Domain Name: nostr.band
+Registry Domain ID: b52def42dc8c470ea948fadd0a196ca6-DONUTS
+Registrar WHOIS Server: whois.registrar.amazon
+Registrar URL: 
+Updated Date: 2025-11-28T10:58:46Z
+Creation Date: 2022-12-28T10:56:19Z
+Registrar Registration Expiration Date: 2026-12-28T10:56:19Z
+Registrar: Amazon Registrar, Inc.
+Registrar IANA ID: 468
+Registrar Abuse Contact Email: trustandsafety@support.aws.com
+Registrar Abuse Contact URL: 
+Registrar Abuse Contact Phone: +1.2024422253
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: On behalf of nostr.band OWNER 
+Registrant Organization: c/o whoisproxy.com
+Registrant Street: 604 Cameron Street
+Registrant City: Alexandria
+Registrant State/Province: VA
+Registrant Postal Code: 22314
+Registrant Country: US
+Registrant Phone: +64.48319528
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: ef5205ff4c742a25cbbc5a638dd266c7953823d1ed09807b922a42295fef4235@nostr.band.whoisproxy.org
+Registry Admin ID: Not Available From Registry
+Admin Name: On behalf of nostr.band ADMIN 
+Admin Organization: c/o whoisproxy.com
+Admin Street: 604 Cameron Street
+Admin City: Alexandria
+Admin State/Province: VA
+Admin Postal Code: 22314
+Admin Country: US
+Admin Phone: +64.48319528
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ef5205ff4c742a25cbbc5a638dd266c7aa7a1cd597e68cac891efba28f82f871@nostr.band.whoisproxy.org
+Registry Tech ID: Not Available From Registry
+Tech Name: On behalf of nostr.band TECH 
+Tech Organization: c/o whoisproxy.com
+Tech Street: 604 Cameron Street
+Tech City: Alexandria
+Tech State/Province: VA
+Tech Postal Code: 22314
+Tech Country: US
+Tech Phone: +64.48319528
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ef5205ff4c742a25cbbc5a638dd266c7e5847ffccdb9d92cdd2ae50a06367573@nostr.band.whoisproxy.org
+Registry Billing ID: Not Available From Registry
+Billing Name: On behalf of nostr.band BILLING 
+Billing Organization: c/o whoisproxy.com
+Billing Street: 604 Cameron Street
+Billing City: Alexandria
+Billing State/Province: VA
+Billing Postal Code: 22314
+Billing Country: US
+Billing Phone: +64.48319528
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: ef5205ff4c742a25cbbc5a638dd266c786117acef7173419628ebfd99d19622d@nostr.band.whoisproxy.org
+Name Server: ns-1262.awsdns-29.org 
+Name Server: ns-198.awsdns-24.com 
+Name Server: ns-2035.awsdns-62.co.uk 
+Name Server: ns-620.awsdns-13.net 
+DNSSEC: unsigned
+Whoisprivacy: 1
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:08:14Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+To contact the registered registrant please proceed to:
+https://www.domain-contact.org
+
+
+This data is provided by 
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+ does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

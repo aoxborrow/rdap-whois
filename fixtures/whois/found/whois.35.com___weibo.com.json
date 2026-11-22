@@ -1,0 +1,44 @@
+{
+  "query": "weibo.com",
+  "server": "whois.35.com",
+  "domainId": "4512414_DOMAIN_COM-VRSN",
+  "domainName": "weibo.com",
+  "creationDate": "1999-03-20T05:00:00Z",
+  "expirationDate": "2111-03-20T04:00:00Z",
+  "registrarExpirationDate": "2111-03-20T04:00:00Z",
+  "updatedDate": "2024-06-25T22:00:01Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.sina.com.cn",
+    "ns2.sina.com.cn",
+    "ns3.sina.com",
+    "ns3.sina.com.cn",
+    "ns4.sina.com",
+    "ns4.sina.com.cn"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "4163",
+  "registrarIanaId": 4163,
+  "registrarName": "Xiamen 35.com Information Co., Ltd.",
+  "registrarUrl": "https://www.35.com",
+  "registrarAbuseEmail": "domainabuse@35.cn",
+  "registrarAbusePhone": "+86.4001353511",
+  "registrarWhoisServer": "whois.35.com",
+  "registrantId": "Not Available From Registry",
+  "registrantCity": "Bei jing",
+  "registrantState": "Bei jing",
+  "registrantCountry": "CN",
+  "registrantEmail": "https://rdap.35.com/contact/domain/weibo.com",
+  "adminEmail": "https://rdap.35.com/contact/domain/weibo.com",
+  "techEmail": "https://rdap.35.com/contact/domain/weibo.com"
+}

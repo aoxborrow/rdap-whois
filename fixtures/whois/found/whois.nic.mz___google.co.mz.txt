@@ -1,0 +1,33 @@
+###%%% QRY: google.co.mz
+###%%% SRV: whois.nic.mz
+###%%% TME: 2026-07-16T11:42:38Z
+
+Domain Name: google.co.mz
+Registry Domain ID: 5165-NICMZ
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2026-03-31T21:19:19Z
+Creation Date: 2014-08-19T22:00:00Z
+Registry Expiry Date: 2026-11-14T05:00:00Z
+Registrar Registration Expiration Date: 2026-11-14T05:00:00Z
+Registrar: MarkMonitor
+Registrar Street Address: 2150 S Bonito Way, Suite 150, Meridian, ID 83642 USA
+Registrar Email: ccops@markmonitor.com
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T11:38:53.896Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated. 
+
+The data is for information purposes only. UEM does not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. 
+
+The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

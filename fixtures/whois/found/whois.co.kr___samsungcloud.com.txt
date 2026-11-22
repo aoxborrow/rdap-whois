@@ -1,0 +1,66 @@
+###%%% QRY: samsungcloud.com
+###%%% SRV: whois.co.kr
+###%%% TME: 2026-11-22T08:09:21Z
+
+Domain Name : samsungcloud.com
+Registry Domain ID: 1562750161_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.co.kr
+Registrar URL: https://www.whois.co.kr
+Updated Date: 2026-06-24T02:32:02Z
+Creation Date: 2009-07-18T02:43:19Z
+Registrar Registration Expiration Date: 2027-07-18T02:43:19Z
+Registrar: Whois Corp.
+Registrar IANA ID: 100
+Registrar Abuse Contact Email: abuse@whois.co.kr
+Registrar Abuse Contact Phone: +82.15884259
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Samsung Electronics CO., Ltd
+Registrant Organization: Samsung Electronics CO., Ltd
+Registrant Street: Samsung Main Bldg. 2-Ga,Taepyung-Ro Joong-Gu, Seoul,
+Registrant City: Korea
+Registrant State/Province: 
+Registrant Postal Code: 100742
+Registrant Country: KR
+Registrant Phone: +82.27277203
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: sedomain@samsung.com
+Registry Admin ID: 
+Admin Name: Samsung Electronics CO., Ltd
+Admin Organization: Samsung Electronics CO., Ltd
+Admin Street: Samsung Main Bldg. 2-Ga,Taepyung-Ro Joong-Gu, Seoul,
+Admin City: Korea
+Admin State/Province: 
+Admin Postal Code: 100742
+Admin Country: KR
+Admin Phone: +82.27277203
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: sedomain@samsung.com
+Registry Tech ID: 
+Tech Name: Samsung Electronics CO., Ltd
+Tech Organization: Samsung Electronics CO., Ltd
+Tech Street: Samsung Main Bldg. 2-Ga Taepyung-Ro Joong-Gu Seoul
+Tech City: Korea
+Tech State/Province: 
+Tech Postal Code: 100742
+Tech Country: KR
+Tech Phone: +82.27277203
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: sedomain@samsung.com
+Name Server: ns-1440.awsdns-52.org
+Name Server: ns-679.awsdns-20.net
+Name Server: ns-1898.awsdns-45.co.uk
+Name Server: ns-107.awsdns-13.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T17:09:21Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

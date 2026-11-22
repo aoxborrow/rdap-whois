@@ -1,0 +1,3872 @@
+{
+  "debian/whois|missing-tld|abbvie": {
+    "server": "whois.nic.abbvie",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|ads": {
+    "server": "whois.nic.ads",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|android": {
+    "server": "whois.nic.android",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|app": {
+    "server": "whois.nic.app",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|audible": {
+    "server": "whois.nic.audible",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|author": {
+    "server": "whois.nic.author",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|aws": {
+    "server": "whois.nic.aws",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|azure": {
+    "server": "whois.nic.azure",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|bbva": {
+    "server": "whois.nic.bbva",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|bing": {
+    "server": "whois.nic.bing",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|bom": {
+    "server": "whois.nic.bom",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|boo": {
+    "server": "whois.nic.boo",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|book": {
+    "server": "whois.nic.book",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|bot": {
+    "server": "whois.nic.bot",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|broadway": {
+    "server": "whois.nic.broadway",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|brussels": {
+    "server": "whois.nic.brussels",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|buy": {
+    "server": "whois.nic.buy",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|cal": {
+    "server": "whois.nic.cal",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|call": {
+    "server": "whois.nic.call",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|career": {
+    "server": "whois.nic.career",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|channel": {
+    "server": "whois.nic.channel",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|chrome": {
+    "server": "whois.nic.chrome",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|cymru": {
+    "server": "whois.nic.cymru",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|dad": {
+    "server": "whois.nic.dad",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|day": {
+    "server": "whois.nic.day",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|dclk": {
+    "server": "whois.nic.dclk",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|deal": {
+    "server": "whois.nic.deal",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|desi": {
+    "server": "whois.nic.desi",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|dev": {
+    "server": "whois.nic.dev",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|docs": {
+    "server": "whois.nic.docs",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|drive": {
+    "server": "whois.nic.drive",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|eat": {
+    "server": "whois.nic.eat",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|esq": {
+    "server": "whois.nic.esq",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|fairwinds": {
+    "server": "whois.nic.fairwinds",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|fast": {
+    "server": "whois.nic.fast",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|final": {
+    "server": "whois.nic.final",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|fire": {
+    "server": "whois.nic.fire",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|fly": {
+    "server": "whois.nic.fly",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|foo": {
+    "server": "whois.nic.foo",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|free": {
+    "server": "whois.nic.free",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|gbiz": {
+    "server": "whois.nic.gbiz",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|gle": {
+    "server": "whois.nic.gle",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|globo": {
+    "server": "whois.nic.globo",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|gmail": {
+    "server": "whois.nic.gmail",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|goog": {
+    "server": "whois.nic.goog",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|google": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|gucci": {
+    "server": "whois.nic.gucci",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|guge": {
+    "server": "whois.nic.guge",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|hangout": {
+    "server": "whois.nic.hangout",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|here": {
+    "server": "whois.nic.here",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|hot": {
+    "server": "whois.nic.hot",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|hotmail": {
+    "server": "whois.nic.hotmail",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|how": {
+    "server": "whois.nic.how",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|ieee": {
+    "server": "whois.nic.ieee",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|imdb": {
+    "server": "whois.nic.imdb",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|ing": {
+    "server": "whois.nic.ing",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|joy": {
+    "server": "whois.nic.joy",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|kindle": {
+    "server": "whois.nic.kindle",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|like": {
+    "server": "whois.nic.like",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|locus": {
+    "server": "whois.nic.locus",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|map": {
+    "server": "whois.nic.map",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|med": {
+    "server": "whois.nic.med",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|meet": {
+    "server": "whois.nic.meet",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|meme": {
+    "server": "whois.nic.meme",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|microsoft": {
+    "server": "whois.nic.microsoft",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|moi": {
+    "server": "whois.nic.moi",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|mov": {
+    "server": "whois.nic.mov",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|mtn": {
+    "server": "whois.nic.mtn",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|na": {
+    "server": "whois.na-nic.com.na",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|new": {
+    "server": "whois.nic.new",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|nexus": {
+    "server": "whois.nic.nexus",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|now": {
+    "server": "whois.nic.now",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|nowruz": {
+    "server": "whois.nic.nowruz",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|office": {
+    "server": "whois.nic.office",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|omega": {
+    "server": "whois.nic.omega",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|page": {
+    "server": "whois.nic.page",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|pars": {
+    "server": "whois.nic.pars",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|pay": {
+    "server": "whois.nic.pay",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|pharmacy": {
+    "server": "whois.nic.pharmacy",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|phd": {
+    "server": "whois.nic.phd",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|pin": {
+    "server": "whois.nic.pin",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|play": {
+    "server": "whois.nic.play",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|prime": {
+    "server": "whois.nic.prime",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|prod": {
+    "server": "whois.nic.prod",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|prof": {
+    "server": "whois.nic.prof",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|pru": {
+    "server": "whois.nic.pru",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|prudential": {
+    "server": "whois.nic.prudential",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|read": {
+    "server": "whois.nic.read",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|realestate": {
+    "server": "whois.nic.realestate",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|realtor": {
+    "server": "whois.nic.realtor",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|rio": {
+    "server": "whois.nic.rio",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|room": {
+    "server": "whois.nic.room",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|rsvp": {
+    "server": "whois.nic.rsvp",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|safe": {
+    "server": "whois.nic.safe",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|sas": {
+    "server": "whois.nic.sas",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|save": {
+    "server": "whois.nic.save",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|search": {
+    "server": "whois.nic.search",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|secure": {
+    "server": "whois.nic.secure",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|shell": {
+    "server": "whois.nic.shell",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|shia": {
+    "server": "whois.nic.shia",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|silk": {
+    "server": "whois.nic.silk",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|sky": {
+    "server": "whois.nic.sky",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|skype": {
+    "server": "whois.nic.skype",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|smile": {
+    "server": "whois.nic.smile",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|soy": {
+    "server": "whois.nic.soy",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|spb.ru": {
+    "server": "whois.flexireg.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|spb.su": {
+    "server": "whois.flexireg.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|spot": {
+    "server": "whois.nic.spot",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|staples": {
+    "server": "whois.nic.staples",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|statefarm": {
+    "server": "whois.nic.statefarm",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|swatch": {
+    "server": "whois.nic.swatch",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|talk": {
+    "server": "whois.nic.talk",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|target": {
+    "server": "whois.nic.target",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|tci": {
+    "server": "whois.nic.tci",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|tjmaxx": {
+    "server": "whois.nic.tjmaxx",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|tjx": {
+    "server": "whois.nic.tjx",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|tkmaxx": {
+    "server": "whois.nic.tkmaxx",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|tunes": {
+    "server": "whois.nic.tunes",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|tushu": {
+    "server": "whois.nic.tushu",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|uol": {
+    "server": "whois.nic.uol",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|virgin": {
+    "server": "whois.nic.virgin",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|vivo": {
+    "server": "whois.nic.vivo",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|vlaanderen": {
+    "server": "whois.nic.vlaanderen",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|wales": {
+    "server": "whois.nic.wales",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|wanggou": {
+    "server": "whois.nic.wanggou",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|weather": {
+    "server": "whois.nic.weather",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|weatherchannel": {
+    "server": "whois.nic.weatherchannel",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|wed": {
+    "server": "whois.nic.wed",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|williamhill": {
+    "server": "whois.nic.williamhill",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|windows": {
+    "server": "whois.nic.windows",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|winners": {
+    "server": "whois.nic.winners",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|wow": {
+    "server": "whois.nic.wow",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xbox": {
+    "server": "whois.nic.xbox",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--cckwcxetd": {
+    "server": "whois.nic.xn--cckwcxetd",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--flw351e": {
+    "server": "whois.nic.xn--flw351e",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--imr513n": {
+    "server": "whois.nic.xn--imr513n",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--jlq480n2rg": {
+    "server": "whois.nic.xn--jlq480n2rg",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--mgba3a3ejt": {
+    "server": "whois.nic.xn--mgba3a3ejt",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--mgbt3dhd": {
+    "server": "whois.nic.xn--mgbt3dhd",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--nyqy26a": {
+    "server": "whois.nic.xn--nyqy26a",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--otu796d": {
+    "server": "whois.nic.xn--otu796d",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--p1acf": {
+    "server": "whois.nic.xn--p1acf",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--q9jyb4c": {
+    "server": "whois.nic.xn--q9jyb4c",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|xn--qcka1pmc": {
+    "server": "whois.nic.xn--qcka1pmc",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|yamaxun": {
+    "server": "whois.nic.yamaxun",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|you": {
+    "server": "whois.nic.you",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|youtube": {
+    "server": "whois.nic.youtube",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|za": {
+    "server": "whois.nic.za",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|zappos": {
+    "server": "whois.nic.zappos",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|missing-tld|zip": {
+    "server": "whois.nic.zip",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|ac.uk": {
+    "server": "whois.nic.ac.uk",
+    "ourServer": "whois.ja.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|aco": {
+    "server": "whois.nic.aco",
+    "ourServer": "whois.afilias-srs.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|amazon": {
+    "server": "whois.nic.amazon",
+    "ourServer": "whois.iana.org",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|anquan": {
+    "server": "whois.nic.anquan",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|apple": {
+    "server": "whois.nic.apple",
+    "ourServer": "whois.afilias-srs.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|baidu": {
+    "server": "whois.nic.baidu",
+    "ourServer": "whois.gtld.knet.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|bh": {
+    "server": "whois.nic.bh",
+    "ourServer": "whois.bhregistry.bh",
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|bz": {
+    "server": "whois.identitydigital.services",
+    "ourServer": "whois.afilias-grs.info",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|click": {
+    "server": "whois.nic.click",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|cologne": {
+    "server": "whois.nic.cologne",
+    "ourServer": "whois.ryce-rsp.com",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|country": {
+    "server": "whois.nic.country",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|datsun": {
+    "server": "whois.nic.datsun",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|diy": {
+    "server": "whois.nic.diy",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|feedback": {
+    "server": "whois.nic.feedback",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|food": {
+    "server": "whois.nic.food",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|forum": {
+    "server": "whois.nic.forum",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|fujitsu": {
+    "server": "whois.nic.fujitsu",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|gea": {
+    "server": "whois.nic.gea",
+    "ourServer": "whois.afilias-srs.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|gift": {
+    "server": "whois.nic.gift",
+    "ourServer": "whois.registry.gift",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|gov.uk": {
+    "server": "whois.gov.uk",
+    "ourServer": "whois.ja.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|hisamitsu": {
+    "server": "whois.nic.hisamitsu",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|hitachi": {
+    "server": "whois.nic.hitachi",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|hiv": {
+    "server": "whois.nic.hiv",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|infiniti": {
+    "server": "whois.nic.infiniti",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|jcb": {
+    "server": "whois.nic.jcb",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|juegos": {
+    "server": "whois.nic.juegos",
+    "ourServer": "whois.uniregistry.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|koeln": {
+    "server": "whois.nic.koeln",
+    "ourServer": "whois.ryce-rsp.com",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|lc": {
+    "server": "whois.identitydigital.services",
+    "ourServer": "whois.afilias-grs.info",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|lifestyle": {
+    "server": "whois.nic.lifestyle",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|link": {
+    "server": "whois.nic.link",
+    "ourServer": "whois.uniregistry.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|living": {
+    "server": "whois.nic.living",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|mitsubishi": {
+    "server": "whois.nic.mitsubishi",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|music": {
+    "server": "whois.nic.music",
+    "ourServer": "whois.registryservices.music",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|nissan": {
+    "server": "whois.nic.nissan",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|org": {
+    "server": "whois.pir.org",
+    "ourServer": "whois.publicinterestregistry.org",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|panasonic": {
+    "server": "whois.nic.panasonic",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|pid": {
+    "server": "whois.nic.pid",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|pioneer": {
+    "server": "whois.nic.pioneer",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|pr": {
+    "server": "whois.nic.pr",
+    "ourServer": "whois.afilias-srs.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|property": {
+    "server": "whois.nic.property",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|sc": {
+    "server": "whois.nic.sc",
+    "ourServer": "whois.afilias-grs.info",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|schaeffler": {
+    "server": "whois.nic.schaeffler",
+    "ourServer": "whois.afilias-srs.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|sener": {
+    "server": "whois.nic.sener",
+    "ourServer": "whois.nic.rwe",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|sexy": {
+    "server": "whois.nic.sexy",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|sharp": {
+    "server": "whois.nic.sharp",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|shouji": {
+    "server": "whois.nic.shouji",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|trust": {
+    "server": "whois.nic.trust",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|vana": {
+    "server": "whois.nic.vana",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|wang": {
+    "server": "whois.nic.wang",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xihuan": {
+    "server": "whois.nic.xihuan",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--1qqw23a": {
+    "server": "whois.nic.xn--1qqw23a",
+    "ourServer": "whois.ngtld.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--30rr7y": {
+    "server": "whois.nic.xn--30rr7y",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--3bst00m": {
+    "server": "whois.nic.xn--3bst00m",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--3ds443g": {
+    "server": "whois.nic.xn--3ds443g",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--45q11c": {
+    "server": "whois.nic.xn--45q11c",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--55qx5d": {
+    "server": "whois.nic.xn--55qx5d",
+    "ourServer": "whois.ngtld.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--6qq986b3xl": {
+    "server": "whois.nic.xn--6qq986b3xl",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--9et52u": {
+    "server": "whois.nic.xn--9et52u",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--cg4bki": {
+    "server": "whois.nic.xn--cg4bki",
+    "ourServer": "whois.kr",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--czru2d": {
+    "server": "whois.nic.xn--czru2d",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--efvy88h": {
+    "server": "whois.nic.xn--efvy88h",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--fiq228c5hs": {
+    "server": "whois.nic.xn--fiq228c5hs",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--fiq64b": {
+    "server": "whois.nic.xn--fiq64b",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--hxt814e": {
+    "server": "whois.nic.xn--hxt814e",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--io0a7i": {
+    "server": "whois.nic.xn--io0a7i",
+    "ourServer": "whois.ngtld.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--vuq861b": {
+    "server": "whois.nic.xn--vuq861b",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|xn--xhq521b": {
+    "server": "whois.nic.xn--xhq521b",
+    "ourServer": "whois.ngtld.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|yodobashi": {
+    "server": "whois.nic.yodobashi",
+    "ourServer": "whois.nic.gmo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "debian/whois|server-disagrees|yun": {
+    "server": "whois.nic.yun",
+    "ourServer": "whois.teleinfo.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|abarth": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|abbvie": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ads": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ae.org": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|aeroport.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|afamilycompany": {
+    "server": "whois.nic.afamilycompany",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|africa.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|aigo": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|alfaromeo": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|android": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|app": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ar.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|audible": {
+    "server": "whois.nic.audible",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|author": {
+    "server": "whois.nic.author",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|avianca": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|avocat.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|aws": {
+    "server": "whois.nic.aws",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|bbva": {
+    "server": "whois.nic.bbva",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|bom": {
+    "server": "whois.gtlds.nic.br",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|boo": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|book": {
+    "server": "whois.nic.book",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|bot": {
+    "server": "whois.nic.bot",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|broadway": {
+    "server": "whois.nic.broadway",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|brussels": {
+    "server": "whois.nic.brussels",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|budapest": {
+    "server": "whois-dub.mm-registry.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|bugatti": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|buy": {
+    "server": "whois.nic.buy",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|cal": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|call": {
+    "server": "whois.nic.call",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|cancerresearch": {
+    "server": "whois.nic.cancerresearch",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|career": {
+    "server": "whois.nic.career",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|caseih": {
+    "server": "whois.nic.caseih",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|cbs": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ceb": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|chambagri.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|channel": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|chirurgiens-dentistes.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|chrome": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|cityeats": {
+    "server": "whois.nic.cityeats",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|co.com": {
+    "server": "whois.centralnic.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|com.de": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|com.se": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|comcast": {
+    "server": "whois.nic.comcast",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|cookingchannel": {
+    "server": "whois.nic.cookingchannel",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|csc": {
+    "server": "whois.nic.csc",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|cymru": {
+    "server": "whois.nic.cymru",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|dabur": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|dad": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|day": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|dclk": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|deal": {
+    "server": "whois.nic.deal",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|desi": {
+    "server": "whois.nic.desi",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|dev": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|docs": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|doosan": {
+    "server": "whois.nic.xn--cg4bki",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|drive": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|duck": {
+    "server": "whois.nic.duck",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|eat": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|esq": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|esurance": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|etisalat": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|experts-comptables.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|fairwinds": {
+    "server": "whois.nic.fairwinds",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|fast": {
+    "server": "whois.nic.fast",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|fiat": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|final": {
+    "server": "whois.gtlds.nic.br",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|fire": {
+    "server": "whois.nic.fire",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|fly": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|foo": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|foodnetwork": {
+    "server": "whois.nic.foodnetwork",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|free": {
+    "server": "whois.nic.free",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|frontdoor": {
+    "server": "whois.nic.frontdoor",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|fujixerox": {
+    "server": "whois.nic.fujixerox",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|gbiz": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|geometre-expert.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|glade": {
+    "server": "whois.nic.glade",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|gle": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|globo": {
+    "server": "whois.gtlds.nic.br",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|gmail": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|goog": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|google": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|guge": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|hangout": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|here": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|hgtv": {
+    "server": "whois.nic.hgtv",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|hk.com": {
+    "server": "whois.registry.hk.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|hk.org": {
+    "server": "whois.registry.hk.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|hot": {
+    "server": "whois.nic.hot",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|how": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|hu.net": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|imdb": {
+    "server": "whois.nic.imdb",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|in.ua": {
+    "server": "whois.in.ua",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|inc.hk": {
+    "server": "whois.registry.hk.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ing": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|iveco": {
+    "server": "whois.nic.iveco",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|jcp": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|jobs": {
+    "server": "whois.nic.jobs",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|joy": {
+    "server": "whois.nic.joy",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|jp.net": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|kerrylogistics": {
+    "server": "whois.nic.kerrylogistics",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|kindle": {
+    "server": "whois.nic.kindle",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|kr.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|lancia": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|like": {
+    "server": "whois.nic.like",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|linde": {
+    "server": "whois.nic.linde",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|lipsy": {
+    "server": "whois.nic.lipsy",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|lixil": {
+    "server": "whois.nic.lixil",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|locus": {
+    "server": "whois.nic.locus",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ltd.hk": {
+    "server": "whois.registry.hk.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|macys": {
+    "server": "whois.nic.macys",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|map": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|maserati": {
+    "server": "whois.nic.maserati",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|med": {
+    "server": "whois.nic.med",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|medecin.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|meet": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|meme": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|metlife": {
+    "server": "whois.nic.metlife",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|moi": {
+    "server": "whois.nic.moi",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|mov": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|mtn": {
+    "server": "whois.nic.mtn",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|na": {
+    "server": "whois.na-nic.com.na",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|nadex": {
+    "server": "whois.nic.nadex",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|nationwide": {
+    "server": "whois.nic.nationwide",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|natura": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|new": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|newholland": {
+    "server": "whois.nic.newholland",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|nexus": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|notaires.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|now": {
+    "server": "whois.nic.now",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|nowruz": {
+    "server": "whois.nic.nowruz",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|off": {
+    "server": "whois.nic.off",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|omega": {
+    "server": "whois.nic.omega",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|onyourside": {
+    "server": "whois.nic.onyourside",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|orientexpress": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|origin": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|page": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|pars": {
+    "server": "whois.nic.pars",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|pay": {
+    "server": "whois.nic.pay",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|pharmacien.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|phd": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|pin": {
+    "server": "whois.nic.pin",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|play": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|port.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|prime": {
+    "server": "whois.nic.prime",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|prod": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|prof": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|raid": {
+    "server": "whois.nic.raid",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|read": {
+    "server": "whois.nic.read",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|realestate": {
+    "server": "whois.nic.realestate",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|rightathome": {
+    "server": "whois.nic.rightathome",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|rio": {
+    "server": "whois.gtlds.nic.br",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|rmit": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|room": {
+    "server": "whois.nic.room",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|rsvp": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|safe": {
+    "server": "whois.nic.safe",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|save": {
+    "server": "whois.nic.save",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|sca": {
+    "server": "whois.nic.sca",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|scjohnson": {
+    "server": "whois.nic.scjohnson",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|scor": {
+    "server": "whois.nic.scor",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|search": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|secure": {
+    "server": "whois.nic.secure",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|ses": {
+    "server": "whois.nic.ses",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|shaw": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|shell": {
+    "server": "whois.nic.shell",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|shia": {
+    "server": "whois.nic.shia",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|showtime": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|shriram": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|silk": {
+    "server": "whois.nic.silk",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|sky": {
+    "server": "whois.nic.sky",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|smile": {
+    "server": "whois.nic.smile",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|soy": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|spot": {
+    "server": "whois.nic.spot",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|spreadbetting": {
+    "server": "whois.nic.spreadbetting",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|swatch": {
+    "server": "whois.nic.swatch",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|symantec": {
+    "server": "whois.nic.symantec",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|talk": {
+    "server": "whois.nic.talk",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|tci": {
+    "server": "whois.nic.tci",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|tiffany": {
+    "server": "whois.nic.tiffany",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|tiia": {
+    "server": "whois.nic.tiia",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|travelchannel": {
+    "server": "whois.nic.travelchannel",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|tunes": {
+    "server": "whois.nic.tunes",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|tushu": {
+    "server": "whois.nic.tushu",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|uol": {
+    "server": "whois.gtlds.nic.br",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|us.org": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|veterinaire.fr": {
+    "server": "whois.smallregistry.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|virgin": {
+    "server": "whois.nic.virgin",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|vlaanderen": {
+    "server": "whois.nic.vlaanderen",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|volkswagen": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|wales": {
+    "server": "whois.nic.wales",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|wanggou": {
+    "server": "whois.nic.wanggou",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|wed": {
+    "server": "whois.nic.wed",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|wow": {
+    "server": "whois.nic.wow",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xfinity": {
+    "server": "whois.nic.xfinity",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--3oq18vl8pn36a": {
+    "server": "whois.nic.xn--3oq18vl8pn36a",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--flw351e": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--jlq61u9w7b": {
+    "server": "whois.nic.xn--jlq61u9w7b",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--mgbaakc7dvf": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--mgbt3dhd": {
+    "server": "whois.nic.xn--mgbt3dhd",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--node": {
+    "server": "whois.itdc.ge",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--p1acf": {
+    "server": "whois.nic.xn--p1acf",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--q9jyb4c": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|xn--qcka1pmc": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|yamaxun": {
+    "server": "whois.nic.yamaxun",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|you": {
+    "server": "whois.nic.you",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|youtube": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|za.bz": {
+    "server": "whois.centralnic.com",
+    "ourServer": null,
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|zappos": {
+    "server": "whois.nic.zappos",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|missing-tld|zip": {
+    "server": "whois.nic.google",
+    "ourServer": null,
+    "firstSeen": "2026-11-10T01:17:17.461Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|abbott": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.abbott",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|adult": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.adult",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|africa": {
+    "server": "africa-whois.registry.net.za",
+    "ourServer": "whois.nic.africa",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|agakhan": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.agakhan",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|akdn": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.akdn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|allstate": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.allstate",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|alsace": {
+    "server": "whois-alsace.nic.fr",
+    "ourServer": "whois.nic.alsace",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|aquarelle": {
+    "server": "whois-aquarelle.nic.fr",
+    "ourServer": "whois.nic.aquarelle",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|archi": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.archi",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|audi": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.audi",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|audio": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.audio",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|auto": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.auto",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|autos": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.autos",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|beats": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.beats",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|bet": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.bet",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|bio": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.bio",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|biz": {
+    "server": "whois.biz",
+    "ourServer": "whois.nic.biz",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|black": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.black",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|blackfriday": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.blackfriday",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|blue": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.blue",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|bnpparibas": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.bnpparibas",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|boats": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.boats",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|boehringer": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.boehringer",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|bostik": {
+    "server": "whois-bostik.nic.fr",
+    "ourServer": "whois.nic.bostik",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|box": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.box",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|br.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|capetown": {
+    "server": "capetown-whois.registry.net.za",
+    "ourServer": "whois.nic.capetown",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|car": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.car",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|cars": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.cars",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|catholic": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.catholic",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|cern": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.cern",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|christmas": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.christmas",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|cipriani": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.cipriani",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|circle": {
+    "server": "whois.nic.cirle",
+    "ourServer": "whois.nic.circle",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|click": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|cm": {
+    "server": "whois.netcom.cm",
+    "ourServer": "whois.nic.cm",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|cn.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|co.za": {
+    "server": "coza-whois.registry.net.za",
+    "ourServer": "whois.registry.net.za",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|corsica": {
+    "server": "whois-corsica.nic.fr",
+    "ourServer": "whois.nic.corsica",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|country": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|courses": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.courses",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|creditunion": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.creditunion",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|de.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|diet": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.diet",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|diy": {
+    "server": "whois.nic.diy",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|dk": {
+    "server": "whois.dk-hostmaster.dk",
+    "ourServer": "whois.punktum.dk",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|dm": {
+    "server": "whois.nic.dm",
+    "ourServer": "whois.dmdomains.dm",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|durban": {
+    "server": "durban-whois.registry.net.za",
+    "ourServer": "whois.nic.durban",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|dvr": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.dvr",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|edeka": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.edeka",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|emerck": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.emerck",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|epson": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.epson",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|eu.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|extraspace": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.extraspace",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|fage": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.fage",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|feedback": {
+    "server": "whois.nic.feedback",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|fido": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.fido",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|fj": {
+    "server": "whois.usp.ac.fj",
+    "ourServer": "www.whois.fj",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|flowers": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.flowers",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|forum": {
+    "server": "whois.nic.forum",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ga": {
+    "server": "whois.dot.ga",
+    "ourServer": "whois.nic.ga",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|game": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.game",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gb.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gb.net": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ge": {
+    "server": "whois.registration.ge",
+    "ourServer": "whois.nic.ge",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gi": {
+    "server": "whois.afilias-grs.info",
+    "ourServer": "whois.identitydigital.services",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gift": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.registry.gift",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gmx": {
+    "server": "whois-fe1.gmx.tango.knipp.de",
+    "ourServer": "whois.nic.gmx",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|godaddy": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.godaddy",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gov": {
+    "server": "whois.dotgov.gov",
+    "ourServer": "whois.nic.gov",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|gr.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|green": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.green",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|guitars": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.guitars",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|help": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.help",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|hermes": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.hermes",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|hiphop": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.hiphop",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|hiv": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|homes": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.homes",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|hosting": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.hosting",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|hu.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ie": {
+    "server": "whois.iedr.ie",
+    "ourServer": "whois.weare.ie",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ikano": {
+    "server": "whois.ikano.tld-box.at",
+    "ourServer": "whois.nic.ikano",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|imamat": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.imamat",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|in.net": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|info": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.info",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ismaili": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.ismaili",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ist": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.ist",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|istanbul": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.istanbul",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|itv": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.itv",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|jeep": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.jeep",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|jll": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.jll",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|joburg": {
+    "server": "joburg-whois.registry.net.za",
+    "ourServer": "whois.nic.joburg",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|jpn.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|kim": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.kim",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|krd": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.krd",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lamborghini": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.lamborghini",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lancaster": {
+    "server": "whois-lancaster.nic.fr",
+    "ourServer": "whois.nic.lancaster",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lasalle": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.lasalle",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|leclerc": {
+    "server": "whois-leclerc.nic.fr",
+    "ourServer": "whois.nic.leclerc",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lgbt": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.lgbt",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lifestyle": {
+    "server": "whois.nic.lifestyle",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|llc": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.llc",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lol": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.lol",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|lotto": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.lotto",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ltda": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.ltda",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|madrid": {
+    "server": "whois.madrid.rs.corenic.net",
+    "ourServer": "whois.nic.madrid",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|marriott": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.marriott",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|melbourne": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.melbourne",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|mit": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.mit",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ml": {
+    "server": "whois.dot.ml",
+    "ourServer": "whois.nic.ml",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|mma": {
+    "server": "whois-mma.nic.fr",
+    "ourServer": "whois.nic.mma",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|mobi": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.mobi",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|mom": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.mom",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|motorcycles": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.motorcycles",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|mu": {
+    "server": "whois.nic.mu",
+    "ourServer": "whois.tld.mu",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ngo": {
+    "server": "whois.publicinterestregistry.net",
+    "ourServer": "whois.nic.ngo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|no.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|nokia": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.nokia",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|nra": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.nra",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|nz": {
+    "server": "whois.srs.net.nz",
+    "ourServer": "whois.irs.net.nz",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ong": {
+    "server": "whois.publicinterestregistry.net",
+    "ourServer": "whois.nic.ong",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|onl": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.onl",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|org": {
+    "server": "whois.pir.org",
+    "ourServer": "whois.publicinterestregistry.org",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|organic": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.organic",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ovh": {
+    "server": "whois.ovh.com",
+    "ourServer": "whois.nic.ovh",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|paris": {
+    "server": "whois-paris.nic.fr",
+    "ourServer": "whois.nic.paris",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|pet": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.pet",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|photo": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.photo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|pics": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.pics",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|pid": {
+    "server": "whois.nic.pid",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|pink": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.pink",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|poker": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.poker",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|politie": {
+    "server": "whois.nicpolitie",
+    "ourServer": "whois.nic.politie",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|porn": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.porn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|post": {
+    "server": "whois.dotpostregistry.net",
+    "ourServer": "whois.nic.post",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|pro": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.pro",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|progressive": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.progressive",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|promo": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.promo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|property": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|protection": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.nic.protection",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|pwc": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.pwc",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|qc.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|red": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.red",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|redumbrella": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.redumbrella",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|rich": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.rich",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|rogers": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.rogers",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ru.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|rugby": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.nic.rugby",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|sa.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|samsung": {
+    "server": "whois.nic.xn--cg4bki",
+    "ourServer": "whois.nic.samsung",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|saxo": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.saxo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|se.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|se.net": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|sew": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.sew",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|sex": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.sex",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|sexy": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|shiksha": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.shiksha",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|ski": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.ski",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|sncf": {
+    "server": "whois-sncf.nic.fr",
+    "ourServer": "whois.nic.sncf",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|srl": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.srl",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|stada": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.stada",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|stockholm": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.stockholm",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|tattoo": {
+    "server": "whois.uniregistry.net",
+    "ourServer": "whois.nic.tattoo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|temasek": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.temasek",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|tf": {
+    "server": "whois.nic.fr",
+    "ourServer": "whois.nic.tf",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|to": {
+    "server": "whois.tonic.to",
+    "ourServer": "whois.tonicregistry.to",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|total": {
+    "server": "whois-total.nic.fr",
+    "ourServer": "whois.nic.total",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|travelers": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.travelers",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|travelersinsurance": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.travelersinsurance",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|trust": {
+    "server": "whois.nic.trust",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|trv": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.trv",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|uk.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|uk.net": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|us.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|uy.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|vana": {
+    "server": "whois.nic.vana",
+    "ourServer": "whois.registry.click",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|vc": {
+    "server": "whois.afilias-grs.info",
+    "ourServer": "whois.identitydigital.services",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|vegas": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.vegas",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|vig": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.vig",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|viking": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.viking",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|vote": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.vote",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|voting": {
+    "server": "whois.voting.tld-box.at",
+    "ourServer": "whois.nic.voting",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|voto": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.voto",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|vu": {
+    "server": "vunic.vu",
+    "ourServer": "whois.dnrs.vu",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|wang": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--30rr7y": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--3bst00m": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--4gbrim": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.xn--4gbrim",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--55qw42g": {
+    "server": "whois.conac.cn",
+    "ourServer": "whois.nic.xn--55qw42g",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--6frz82g": {
+    "server": "whois.afilias.net",
+    "ourServer": "whois.nic.xn--6frz82g",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--6qq986b3xl": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--80aqecdr1a": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.xn--80aqecdr1a",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--80asehdb": {
+    "server": "whois.online.rs.corenic.net",
+    "ourServer": "whois.nic.xn--80asehdb",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--80aswg": {
+    "server": "whois.online.rs.corenic.net",
+    "ourServer": "whois.nic.xn--80aswg",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--8y0a063a": {
+    "server": "whois.imena.bg",
+    "ourServer": "whois.nic.xn--8y0a063a",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--9et52u": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--b4w605ferd": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.xn--b4w605ferd",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--c1avg": {
+    "server": "whois.publicinterestregistry.net",
+    "ourServer": "whois.nic.xn--c1avg",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--clchc0ea0b2g2a9gcd": {
+    "server": "whois.sgnic.sg",
+    "ourServer": "whois.ta.sgnic.sg",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--czru2d": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--efvy88h": {
+    "server": "whois.nic.xn--efvy88h",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--fiq64b": {
+    "server": "whois.gtld.knet.cn",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--fiqs8s": {
+    "server": "cwhois.cnnic.cn",
+    "ourServer": "whois.cnnic.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--fiqz9s": {
+    "server": "cwhois.cnnic.cn",
+    "ourServer": "whois.cnnic.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--g2xx48c": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.xn--g2xx48c",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--hxt814e": {
+    "server": "whois.nic.xn--hxt814e",
+    "ourServer": "whois.gtld.zdns.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--i1b6b1a6a2e": {
+    "server": "whois.publicinterestregistry.net",
+    "ourServer": "whois.nic.xn--i1b6b1a6a2e",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--mgbca7dzdo": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.xn--mgbca7dzdo",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--mgbi4ecexp": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.xn--mgbi4ecexp",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--nqv7f": {
+    "server": "whois.publicinterestregistry.net",
+    "ourServer": "whois.nic.xn--nqv7f",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--ses554g": {
+    "server": "whois.registry.knet.cn",
+    "ourServer": "whois.nic.xn--ses554g",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--tiq49xqyj": {
+    "server": "whois.aridnrs.net.au",
+    "ourServer": "whois.nic.xn--tiq49xqyj",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--xhq521b": {
+    "server": "whois.teleinfo.cn",
+    "ourServer": "whois.ngtld.cn",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--yfro4i67o": {
+    "server": "whois.sgnic.sg",
+    "ourServer": "whois.zh.sgnic.sg",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|xn--zfr164b": {
+    "server": "whois.conac.cn",
+    "ourServer": "whois.nic.xn--zfr164b",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|yachts": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.yachts",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|za.com": {
+    "server": "whois.centralnic.com",
+    "ourServer": "whois.centralnic.net",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  },
+  "weppos/whois|server-disagrees|zara": {
+    "server": "whois.afilias-srs.net",
+    "ourServer": "whois.nic.zara",
+    "firstSeen": "2026-07-31T08:22:09.074Z",
+    "lastSeen": "2026-11-16T22:58:46.039Z"
+  }
+}

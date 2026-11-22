@@ -1,0 +1,73 @@
+{
+  "query": "picsum.photos",
+  "server": "whois.1api.net",
+  "domainId": "535b6b2c1885485fa51d64e85c3c7fcb-DONUTS",
+  "domainName": "picsum.photos",
+  "creationDate": "2017-09-14T18:38:32Z",
+  "expirationDate": "2027-09-14T18:38:32Z",
+  "registrarExpirationDate": "2027-09-14T18:38:32Z",
+  "updatedDate": "2026-09-14T04:21:37Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "fay.ns.cloudflare.com",
+    "will.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1387",
+  "registrarIanaId": 1387,
+  "registrarName": "1API GmbH",
+  "registrarUrl": "http://iwantmyname.com",
+  "registrarAbuseEmail": "abuse@1api.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.1api.net",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "c/o WHOIStrustee.com Limited",
+  "registrantOrg": "Registrant of picsum.photos",
+  "registrantAddress": [
+    "6 Thornes Office Park Monckton Road"
+  ],
+  "registrantCity": "Wakefield",
+  "registrantPostalCode": "WF2 7AN",
+  "registrantCountry": "GB",
+  "registrantPhone": "+49.68416984300",
+  "registrantEmail": "1633ad474e@picsum.photos.whoistrustee.com",
+  "adminId": "Not Available From Registry",
+  "adminName": "c/o WHOIStrustee.com Limited",
+  "adminOrg": "Registrant of picsum.photos",
+  "adminAddress": [
+    "6 Thornes Office Park Monckton Road"
+  ],
+  "adminCity": "Wakefield",
+  "adminPostalCode": "WF2 7AN",
+  "adminCountry": "GB",
+  "adminPhone": "+49.68416984300",
+  "adminEmail": "1633ad474e@picsum.photos.whoistrustee.com",
+  "techId": "Not Available From Registry",
+  "techName": "c/o WHOIStrustee.com Limited",
+  "techOrg": "Registrant of picsum.photos",
+  "techAddress": [
+    "6 Thornes Office Park Monckton Road"
+  ],
+  "techCity": "Wakefield",
+  "techPostalCode": "WF2 7AN",
+  "techCountry": "GB",
+  "techPhone": "+49.68416984300",
+  "techEmail": "1633ad474e@picsum.photos.whoistrustee.com",
+  "billingId": "Not Available From Registry",
+  "billingName": "c/o WHOIStrustee.com Limited",
+  "billingOrg": "Registrant of picsum.photos",
+  "billingAddress": [
+    "6 Thornes Office Park Monckton Road"
+  ],
+  "billingCity": "Wakefield",
+  "billingPostalCode": "WF2 7AN",
+  "billingCountry": "GB",
+  "billingPhone": "+49.68416984300",
+  "billingEmail": "1633ad474e@picsum.photos.whoistrustee.com"
+}

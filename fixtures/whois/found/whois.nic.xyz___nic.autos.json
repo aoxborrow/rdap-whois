@@ -1,0 +1,36 @@
+{
+  "query": "nic.autos",
+  "server": "whois.nic.xyz",
+  "domainId": "D226183613-CNIC",
+  "domainName": "nic.autos",
+  "creationDate": "2016-03-11T17:59:08Z",
+  "expirationDate": "2027-03-11T23:59:59Z",
+  "updatedDate": "2026-03-05T00:06:50Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.autos",
+    "b.nic.autos",
+    "c.nic.autos",
+    "d.nic.autos"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "XYZ.com, LLC",
+  "registrarUrl": "https://gen.xyz",
+  "registrarAbuseEmail": "xyz_abuse@gen.xyz",
+  "registrarAbusePhone": "+1.8009998422",
+  "registrarWhoisServer": "whois.nic.xyz"
+}

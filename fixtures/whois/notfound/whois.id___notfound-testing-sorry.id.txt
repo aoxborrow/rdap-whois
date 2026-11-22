@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.id
+###%%% SRV: whois.id
+###%%% TME: 2025-03-20T16:23:24Z
+
+DOMAIN NOT FOUND

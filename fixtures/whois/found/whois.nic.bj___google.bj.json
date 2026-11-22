@@ -1,0 +1,77 @@
+{
+  "query": "google.bj",
+  "server": "whois.nic.bj",
+  "domainId": "154-CoCCA",
+  "domainName": "google.bj",
+  "creationDate": "2015-01-29T11:16:22Z",
+  "expirationDate": "2027-01-29T11:16:22Z",
+  "registrarExpirationDate": "2027-01-29T11:16:22Z",
+  "updatedDate": "2025-12-28T15:41:24Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "AFRIREGISTER_ENTREPRISE",
+  "registrantId": "GZZ4I-vmBcF",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6502530001",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "KgtqG-Mh4ZQ",
+  "adminName": "Redacted | Registry Policy",
+  "adminOrg": "Afriregister S.A",
+  "adminAddress": [
+    "Redacted | Registry Policy"
+  ],
+  "adminCity": "Redacted | Registry Policy",
+  "adminPostalCode": "Redacted | Registry Policy",
+  "adminCountry": "BJ",
+  "adminPhone": "Redacted | Registry Policy",
+  "adminEmail": "Redacted | Registry Policy",
+  "techId": "FjbIA-x9hJB",
+  "techName": "Domain Administrator",
+  "techOrg": "Google LLC",
+  "techAddress": [
+    "Redacted | Registry Policy"
+  ],
+  "techCity": "Redacted | Registry Policy",
+  "techState": "Redacted | Registry Policy",
+  "techPostalCode": "Redacted | Registry Policy",
+  "techCountry": "US",
+  "techPhone": "+1.6502530000",
+  "techFax": "+1.6502530001",
+  "techEmail": "dns-admin@google.com",
+  "billingId": "HJVtZ-vioiV",
+  "billingName": "Redacted | Registry Policy",
+  "billingOrg": "Markmonitor Inc.",
+  "billingAddress": [
+    "Redacted | Registry Policy"
+  ],
+  "billingCity": "Redacted | Registry Policy",
+  "billingState": "Redacted | Registry Policy",
+  "billingPostalCode": "Redacted | Registry Policy",
+  "billingCountry": "US",
+  "billingPhone": "Redacted | Registry Policy",
+  "billingFax": "Redacted | Registry Policy",
+  "billingEmail": "Redacted | Registry Policy"
+}

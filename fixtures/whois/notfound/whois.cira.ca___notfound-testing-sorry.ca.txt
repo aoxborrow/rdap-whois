@@ -1,0 +1,11 @@
+###%%% QRY: notfound-testing-sorry.ca
+###%%% SRV: whois.cira.ca
+###%%% TME: 2025-03-20T16:06:40Z
+
+Not found: notfound-testing-sorry.ca
+
+%
+% Use of CIRA's WHOIS service is governed by the Terms of Use in its Legal
+% Notice, available at http://www.cira.ca/legal-notice/?lang=en
+%
+% (c) 2025 Canadian Internet Registration Authority, (http://www.cira.ca/)

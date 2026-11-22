@@ -1,0 +1,32 @@
+{
+  "query": "yellowbet.com.gn",
+  "server": "whois.ande.gov.gn",
+  "domainId": "4881-nicgn",
+  "domainName": "yellowbet.com.gn",
+  "creationDate": "2023-08-02T14:29:12Z",
+  "expirationDate": "2025-12-30T11:00:00Z",
+  "registrarExpirationDate": "2025-12-30T11:00:00Z",
+  "updatedDate": "2025-07-03T13:46:55Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "alfred.ns.cloudflare.com",
+    "liv.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Internal Registrars",
+  "registrarAddress": [
+    "KIpé, Commune de Ratoma"
+  ],
+  "registrarCountry": "GN",
+  "registrarPhone": "+224 622298656",
+  "registrarUrl": "https://nic.gn",
+  "registrarAbuseEmail": "savane20014@gmail.com",
+  "registrarAbusePhone": "+224 627140970",
+  "registrarWhoisServer": "https://whois.nic.gn"
+}

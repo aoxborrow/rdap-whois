@@ -1,0 +1,41 @@
+###%%% QRY: cyberia.net.lb
+###%%% SRV: whois.lbdr.org.lb
+###%%% TME: 2026-07-16T23:21:27Z
+
+Domain Name: cyberia.net.lb
+Registry Domain ID: 2336-lbdr
+Registrar URL: http://www.idm.net.lb
+Updated Date: 2026-04-23T14:30:34Z
+Creation Date: 2014-11-18T00:00:00Z
+Registry Expiry Date: 2026-11-18T00:00:00Z
+Registrar Registration Expiration Date: 2026-11-18T00:00:00Z
+Registrar: IDM
+Registrar Street Address: Beirut-Corniche El Nahr-Holcom Bldg 4th floor
+Registrar Country: LB
+Registrar Phone: 9611595252
+Registrar Email: domlb@idm.net.lb
+Registrar Abuse Contact Email: abuse@idm.net.lb
+Registrar Abuse Contact Phone: 9611595252
+Domain Status: active https://icann.org/epp#active
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Registry Registrant ID: 1457-lbdr
+Registrant Name: BASSAM JABER
+Registrant Street: None
+Registrant City: BEIRUT
+Registrant State/Province: 
+Registrant Postal Code: 
+Registrant Country: LB
+Registrant Email: DOMAINS@CYBERIA.NET.LB
+Registrant Phone: +0.9999999999
+Name Server: nse1.cyberia.net.lb
+Name Server: nse2.cyberia.net.lb
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:21:28.426Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to LBDR it's members (or LBDR or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.
+
+GDPR COMPLIANCE: The LBDR applies GDPR data compliance as a General data privacy policy and EU GDPR compliance to EU data subjects ( European Union member states: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, the Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, and Sweden).

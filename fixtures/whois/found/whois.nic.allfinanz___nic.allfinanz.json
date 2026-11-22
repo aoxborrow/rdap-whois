@@ -1,0 +1,56 @@
+{
+  "query": "nic.allfinanz",
+  "server": "whois.nic.allfinanz",
+  "domainId": "D96445334-CNIC",
+  "domainName": "nic.allfinanz",
+  "creationDate": "2014-06-23T11:17:49Z",
+  "expirationDate": "2027-06-23T23:59:59Z",
+  "updatedDate": "2026-06-17T00:06:33Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "anycast1.dnsres.net",
+    "anycast2.dnsres.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Deutsche Vermögensberatung AG",
+  "registrarUrl": "http://www.nic.allfinanz",
+  "registrarAbuseEmail": "bettinger@bettinger.de",
+  "registrarAbusePhone": "+49.8954886700",
+  "registrarWhoisServer": "whois.nic.allfinanz",
+  "registrantName": "Allfinanz  Deutsche Vermögensberatung Aktiengesellschaft",
+  "registrantOrg": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft",
+  "registrantAddress": [
+    "Münchener Straße 1"
+  ],
+  "registrantCity": "Frankfurt am Main",
+  "registrantState": "Hessen",
+  "registrantPostalCode": "60329",
+  "registrantCountry": "DE",
+  "registrantPhone": "+49.6923840",
+  "registrantEmail": "domains@dvag.com",
+  "techName": "Allfinanz  Deutsche Vermögensberatung Aktiengesellschaft",
+  "techOrg": "Allfinanz Deutsche Vermögensberatung Aktiengesellschaft",
+  "techAddress": [
+    "Münchener Straße 1"
+  ],
+  "techCity": "Frankfurt am Main",
+  "techState": "Hessen",
+  "techPostalCode": "60329",
+  "techCountry": "DE",
+  "techPhone": "+49.6923840",
+  "techEmail": "domains@dvag.com"
+}

@@ -1,0 +1,30 @@
+{
+  "query": "nic.commbank",
+  "server": "whois.nic.commbank",
+  "domainId": "D560D8D97FA58450C8404633A7EC5A002-ARI",
+  "domainName": "nic.commbank",
+  "creationDate": "2015-03-04T01:49:02Z",
+  "expirationDate": "2027-03-04T01:49:02Z",
+  "updatedDate": "2026-04-18T01:49:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.commbank",
+    "b.nic.commbank",
+    "c.nic.commbank",
+    "d.nic.commbank"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "COMMONWEALTH BANK OF AUSTRALIA - COMMBANK"
+}

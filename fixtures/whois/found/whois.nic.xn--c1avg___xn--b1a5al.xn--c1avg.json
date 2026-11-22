@@ -1,0 +1,28 @@
+{
+  "query": "xn--b1a5al.xn--c1avg",
+  "server": "whois.nic.xn--c1avg",
+  "domainId": "REDACTED",
+  "domainName": "xn--b1a5al.xn--c1avg",
+  "creationDate": "2020-12-06T17:55:11Z",
+  "expirationDate": "2027-12-06T17:55:11Z",
+  "updatedDate": "2026-10-20T12:05:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.hosting.reg.ru",
+    "ns2.hosting.reg.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "Regional Network Information Center, JSC dba RU-CENTER",
+  "registrarUrl": "https://www.nic.ru/whois",
+  "registrarAbuseEmail": "tld-adm@nic.ru",
+  "registrarAbusePhone": "+7.4959944601",
+  "registrarWhoisServer": "www.nic.ru.whois"
+}

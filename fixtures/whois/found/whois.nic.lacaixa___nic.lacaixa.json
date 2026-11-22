@@ -1,0 +1,35 @@
+{
+  "query": "nic.lacaixa",
+  "server": "whois.nic.lacaixa",
+  "domainId": "D9-LACAIXA",
+  "domainName": "nic.lacaixa",
+  "creationDate": "2014-02-06T15:08:51Z",
+  "expirationDate": "2027-02-06T15:08:51Z",
+  "updatedDate": "2026-07-07T08:04:05Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Lacaixa internal Registrar",
+  "registrarUrl": "http://lacaixa.com",
+  "registrarAbuseEmail": "assessoria.juridica.cepb@lacaixa.com",
+  "registrarAbusePhone": "+34.934046000",
+  "registrarWhoisServer": "whois.nic.lacaixa",
+  "registrantOrg": "Fundación Bancaria “la Caixa”",
+  "registrantState": "Catalonia",
+  "registrantCountry": "ES",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

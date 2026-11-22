@@ -1,0 +1,36 @@
+{
+  "query": "ram.joburg",
+  "server": "whois.nic.joburg",
+  "domainId": "dom_7K5--1",
+  "domainName": "ram.joburg",
+  "creationDate": "2024-10-18T17:10:12Z",
+  "expirationDate": "2025-10-18T17:10:12Z",
+  "registrarExpirationDate": "2025-10-18T17:10:12Z",
+  "updatedDate": "2025-01-01T17:10:14Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "jocelyn.ns.cloudflare.com",
+    "logan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "69",
+  "registrarIanaId": 69,
+  "registrarName": "Open SRS",
+  "registrarUrl": "https://opensrs.com",
+  "registrarAbuseEmail": "nicrelations@opensrs.com",
+  "registrarAbusePhone": "+49.2283296859",
+  "registrantOrg": "Njalla Okta LLC",
+  "registrantCountry": "KN",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

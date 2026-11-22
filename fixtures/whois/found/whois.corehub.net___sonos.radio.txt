@@ -1,0 +1,100 @@
+###%%% QRY: sonos.radio
+###%%% SRV: whois.corehub.net
+###%%% TME: 2025-03-21T04:03:44Z
+
+Domain Name: sonos.radio
+Registry Domain ID: Dffnl3159-RADIO
+Registrar WHOIS Server: whois.corehub.net
+Registrar URL: http://corehub.net
+Updated Date: 2024-07-16T15:40:50.136Z
+Creation Date: 2019-07-17T17:40:55.370Z
+Registrar Registration Expiration Date: 2025-07-17T17:40:55.370Z
+Registrar: COREhub, S.R.L.
+Registrar IANA ID: 15
+Registrar Abuse Contact Email: abuse@corehub.net
+Registrar Abuse Contact Phone: +34.931807144
+Reseller: CORE-713 (Register.radio)
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Super Hi-Fi
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: CA
+Registrant Postal Code: 
+Registrant Country: US
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: https://corehub.net/whoiscontact/
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: https://corehub.net/whoiscontact/
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: https://corehub.net/whoiscontact/
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: https://corehub.net/whoiscontact/
+Name Server: ns-330.awsdns-41.com
+Name Server: ns-1872.awsdns-42.co.uk
+Name Server: ns-1359.awsdns-41.org
+Name Server: ns-736.awsdns-28.net
+DNSSEC: unsigned
+IDN Tag:
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of Whois database: 2025-03-21T04:03:07.226Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+(c) COREhub S.R.L.U. ("COREhub"). All rights reserved.
+
+NOTICE: Access to the domain name's information is restricted in
+order to protect the privacy of Registrants. If you believe you
+have a legitimate interest in having access to part or all of the
+data not published in the above output, please contact the
+Registrar of record at the address shown in the output above OR
+complete the form at:
+
+https://corehub.net/whoisaccess/
+
+The compilation, repackaging, dissemination or other use of the data
+in the COREhub Whois database is expressly prohibited without the
+prior written consent of COREhub. COREhub reserves the right to
+restrict your access to the Whois database in its sole discretion to
+ensure operational stability. COREhub may restrict or terminate your
+access to the Whois database for failure to abide by these terms of
+use. COREhub reserves the right to modify these terms at any time.
+
+End of Whois record.

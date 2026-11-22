@@ -1,0 +1,31 @@
+{
+  "notfound": [
+    "^(.*object does not exist.*)$",
+    "^(.*Not find MatchingRecord.*)$",
+    "^(.*Domain .* is available for registration.*)$",
+    "^(.*(Status:\\s+available).*)$",
+    "^(.*NO MATCH:.*)$",
+    "^(.*The queried object does not exist.*)$",
+    "^(.*queried object does not exist.*)$",
+    "^(.*domain has not been registered.*)$",
+    "^(.*(registration status: invalid).*)$",
+    "^(.*NO OBJECT FOUND.*)$",
+    "^(.*No_Se_Encontro_El_Objeto\\/Object_Not_Found.*)$",
+    "^(.* nothing found.*)$",
+    "^(.*This domain name has not been registered.*)$",
+    "^(.*: no entries found\\..*)$",
+    "^(.*is available for registration.*)$",
+    "^(.*domain name has not been registered.*)$",
+    "^(.*Status:\\s+AVAILABLE.*)$",
+    "^(.*No Match for.*)$",
+    "^(.*No information was found matching that query.*)$",
+    "^(.*registration status: available.*)$",
+    "^(.*Domain unknown.*)$",
+    "^(.*No Found.*)$"
+  ],
+  "reserved": [
+    "^(.*domain contains special characters not allowed.*)$",
+    "^(.*Domain Status: Prohibited String - Domain Cannot Be Registered.*)$",
+    "^(.*domain name requested has usage restrictions.*)$"
+  ]
+}

@@ -1,0 +1,5 @@
+###%%% QRY: nic.xn--cg4bki
+###%%% SRV: whois.kr
+###%%% TME: 2026-07-14T10:47:07Z
+
+%error 350 Invalid Query Syntax

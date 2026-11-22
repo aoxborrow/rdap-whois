@@ -1,0 +1,37 @@
+###%%% QRY: lanacion.com.ar
+###%%% SRV: whois.nic.ar
+###%%% TME: 2026-07-16T11:15:34Z
+
+% La información a la que estás accediendo se provee exclusivamente para
+% fines relacionados con operaciones sobre nombres de dominios y DNS,
+% quedando absolutamente prohibido su uso para otros fines.
+%
+% La DIRECCIÓN NACIONAL DEL REGISTRO DE DOMINIOS DE INTERNET es depositaria
+% de la información que los usuarios declaran con la sola finalidad de
+% registrar nombres de dominio en ‘.ar’, para ser publicada en el sitio web
+% de NIC Argentina.
+%
+% La información personal que consta en la base de datos generada a partir
+% del sistema de registro de nombres de dominios se encuentra amparada por
+% la Ley N° 25326 “Protección de Datos Personales” y el Decreto
+% Reglamentario 1558/01.
+
+domain:  lanacion.com.ar
+registrant: 30500089624
+registrar: nicar
+registered: 1996-01-01 00:00:00
+changed: 2025-12-22 13:53:32.477888
+expire:  2027-01-01 00:00:00
+
+contact: 30500089624
+name:  SA LA NACION
+registrar: nicar
+created: 2013-08-22 00:00:00
+changed: 2026-06-07 17:23:56.991456
+
+nserver: ns-108.awsdns-13.com ()
+nserver: ns-850.awsdns-42.net ()
+nserver: ns-1463.awsdns-54.org ()
+nserver: ns-1696.awsdns-20.co.uk ()
+registrar: nicar
+created: 2016-06-30 22:52:44.633080

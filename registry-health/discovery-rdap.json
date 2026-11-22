@@ -1,0 +1,387 @@
+{
+  "generatedAt": "2026-07-14T06:25:37.974Z",
+  "sources": [
+    "rdap.org"
+  ],
+  "input": {
+    "whoisOnlyNoRdap": 184,
+    "rdapUnhealthy": 56,
+    "probed": 240
+  },
+  "bySource": {
+    "rdap.org": {
+      "candidates": 41,
+      "verifiedAlive": 26,
+      "adopted": 26
+    }
+  },
+  "discoveredThisRun": {
+    "bridgestone": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "dnp": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "epson": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "firestone": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "fujitsu": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "gmo": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "goldpoint": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "hisamitsu": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "hitachi": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "honda": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "infiniti": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "lexus": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "mitsubishi": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "nec": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "nhk": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "okinawa": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "sharp": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "shop": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "softbank": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "sony": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "suzuki": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "tokyo": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "toray": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "toshiba": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "toyota": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    },
+    "yodobashi": {
+      "server": "https://rdap.gmoregistry.net/rdap/",
+      "source": "rdap.org"
+    }
+  },
+  "attempts": [
+    {
+      "tld": "aco",
+      "source": "rdap.org",
+      "base": "https://rdap.nic.aco/",
+      "classification": "suspect",
+      "detail": "2xx but non-conformant body"
+    },
+    {
+      "tld": "ar",
+      "source": "rdap.org",
+      "base": "https://rdap.nic.ar/",
+      "classification": "dead-candidate",
+      "detail": "This operation was aborted"
+    },
+    {
+      "tld": "bridgestone",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "dnp",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "epson",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "firestone",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "fj",
+      "source": "rdap.org",
+      "base": "https://www.rdap.fj/",
+      "classification": "dead-candidate",
+      "detail": "unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+    },
+    {
+      "tld": "fujitsu",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "gea",
+      "source": "rdap.org",
+      "base": "https://rdap.nic.gea/",
+      "classification": "suspect",
+      "detail": "2xx but non-conformant body"
+    },
+    {
+      "tld": "gmo",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "goldpoint",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "hisamitsu",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "hitachi",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "honda",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "hyundai",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    },
+    {
+      "tld": "infiniti",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "kg",
+      "source": "rdap.org",
+      "base": "https://rdap.cctld.kg/",
+      "classification": "suspect",
+      "detail": "2xx but non-conformant body"
+    },
+    {
+      "tld": "kia",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    },
+    {
+      "tld": "kyoto",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    },
+    {
+      "tld": "lexus",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "mitsubishi",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "nagoya",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    },
+    {
+      "tld": "nec",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "nhk",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "okinawa",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "playstation",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    },
+    {
+      "tld": "ricoh",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    },
+    {
+      "tld": "schaeffler",
+      "source": "rdap.org",
+      "base": "https://rdap.nic.schaeffler/",
+      "classification": "suspect",
+      "detail": "2xx but non-conformant body"
+    },
+    {
+      "tld": "sharp",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "shop",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "sn",
+      "source": "rdap.org",
+      "base": "https://rdap.nic.sn/whois43/",
+      "classification": "suspect",
+      "detail": "2xx but non-conformant body"
+    },
+    {
+      "tld": "softbank",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "sony",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "sr",
+      "source": "rdap.org",
+      "base": "https://whois.sr/rdap/",
+      "classification": "dead-candidate",
+      "detail": "unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca"
+    },
+    {
+      "tld": "suzuki",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "tokyo",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "toray",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "toshiba",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "toyota",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "yodobashi",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "healthy"
+    },
+    {
+      "tld": "yokohama",
+      "source": "rdap.org",
+      "base": "https://rdap.gmoregistry.net/rdap/",
+      "classification": "throttled",
+      "detail": "429"
+    }
+  ]
+}

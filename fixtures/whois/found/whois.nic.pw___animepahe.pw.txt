@@ -1,0 +1,51 @@
+###%%% QRY: animepahe.pw
+###%%% SRV: whois.nic.pw
+###%%% TME: 2026-07-16T23:47:58Z
+
+Domain Name: animepahe.pw
+Registry Domain ID: DO_c99002d1d494f740fc004c13fc8fac90-RADIX
+Registrar WHOIS Server: your-whois-server
+Registrar URL: https://immateriali.sm
+Updated Date: 2026-06-03T02:19:48.240Z
+Creation Date: 2026-04-03T08:30:29.938Z
+Registry Expiry Date: 2027-04-03T08:30:29.938Z
+Registrar: Immaterialism Limited
+Registrar IANA ID: 50012
+Registrar Abuse Contact Email: abuse@immateriali.sm
+Registrar Abuse Contact Phone: +44.2037698590
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ophelia.ns.cloudflare.com
+Name Server: yichun.ns.cloudflare.com
+DNSSEC: signedDelegation
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-07-16T23:47:59.116Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.

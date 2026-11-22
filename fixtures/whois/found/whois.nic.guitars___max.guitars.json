@@ -1,0 +1,28 @@
+{
+  "query": "max.guitars",
+  "server": "whois.nic.guitars",
+  "domainId": "D307948120-CNIC",
+  "domainName": "max.guitars",
+  "creationDate": "2014-06-24T12:51:58Z",
+  "expirationDate": "2027-06-24T23:59:59Z",
+  "updatedDate": "2026-09-04T14:00:29Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "alfred.ns.cloudflare.com",
+    "jean.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1345",
+  "registrarIanaId": 1345,
+  "registrarName": "Key-Systems, LLC",
+  "registrarUrl": "http://www.key-systems.net",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net"
+}

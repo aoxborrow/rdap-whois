@@ -1,0 +1,14 @@
+###%%% SRV: whois.cctld.uz
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.cctld.uz/uz/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+% UzWhois Server Version 1.0
+
+% Domain names in the .uz domain can now be registered
+% with many different competing registrars. Go to http://www.cctld.uz/
+% for detailed information.
+
+Sorry, but domain: "u34jedzcq.uz", not found in database
+
+%  The Whois Server (ver. 1.0) of ccTLD.UZ
+%  (c) 2005, Center UZINFOCOM

@@ -1,0 +1,60 @@
+###%%% QRY: businessidentity.llc
+###%%% SRV: whois.epik.com
+###%%% TME: 2025-03-20T18:21:55Z
+
+Domain Name: BUSINESSIDENTITY.LLC
+Registry Domain ID: 2c1323de14b540539018f784c5f5350d-DONUTS
+Registrar WHOIS Server: whois.epik.com
+Registrar URL: http://www.epik.com
+Updated Date: 2024-02-09T15:20:02Z
+Creation Date: 2023-10-09T18:05:27Z
+Registrar Registration Expiration Date: 2033-10-09T18:05:27Z
+Registrar: Epik LLC
+Registrar IANA ID: 617
+Registrar Abuse Contact Email: abuse@epik.com
+Registrar Abuse Contact Phone: +1.7373015923
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Name: Privacy Administrator
+Registrant Organization: Anonymize, LLC.
+Registrant Street: 30 N. Gould Street, Ste E
+Registrant City: Sheridan
+Registrant State/Province: WY
+Registrant Postal Code: 82801
+Registrant Country: US
+Registrant Phone: +1.3076839553
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: businessidentity.llc-tonzajuxkfhd@anonymize.com
+Admin Name: Privacy Administrator
+Admin Organization: Anonymize, Inc.
+Admin Street: 30 N. Gould Street, Ste E
+Admin City: Sheridan
+Admin State/Province: WY
+Admin Postal Code: 82801
+Admin Country: US
+Admin Phone: +1.3076839553
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: businessidentity.llc-tonzajuxkfhd@anonymize.com
+Tech Name: Privacy Administrator
+Tech Organization: Anonymize, Inc.
+Tech Street: 30 N. Gould Street, Ste E
+Tech City: Sheridan
+Tech State/Province: WY
+Tech Postal Code: 82801
+Tech Country: US
+Tech Phone: +1.3076839553
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: businessidentity.llc-tonzajuxkfhd@anonymize.com
+Name Server: ALBERTO.NS.CLOUDFLARE.COM
+Name Server: MARGARET.NS.CLOUDFLARE.COM
+DNSSEC: signedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-08-26T17:27:06.499Z <<<
+
+All registrar data, including registrant WHOIS data, is provided for public, non-commerical use only.  Any information made available by Epik Inc and its affiliate registrars shall not be collected, distributed or used for any commercial activity.  Third parties to agree not to use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts.
+WHOIS Version: 876b28bf2a9ee22a803162aca713444b4fff6a78

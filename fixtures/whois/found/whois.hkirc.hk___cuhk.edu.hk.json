@@ -1,0 +1,26 @@
+{
+  "query": "cuhk.edu.hk",
+  "server": "whois.hkirc.hk",
+  "domainName": "cuhk.edu.hk",
+  "creationDate": "1995-11-16T00:00:00Z",
+  "expirationDate": "2032-09-01T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "anyns.cuhk.edu.hk",
+    "dns1.cuhk.edu.hk",
+    "dns2.cuhk.edu.hk",
+    "ns4.gdnsdef.com",
+    "ns4.gdnsec.com"
+  ],
+  "registrarName": "Hong Kong Domain Name Registration Company Limited",
+  "registrarEmail": "enquiry@hkdnr.hk                       Hotline: +852 2319 1313",
+  "registrantName": "Company English Name (It should be the same as the registered/corporation name on your Business Register Certificate or relevant documents): THE CHINESE UNIVERSITY OF HONG KONG",
+  "registrantOrg": "THE CHINESE UNIVERSITY OF HONG KONG",
+  "registrantCountry": "Hong Kong (HK)",
+  "registrantEmail": "noc-admin@CUHK.EDU.HK"
+}

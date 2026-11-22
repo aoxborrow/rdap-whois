@@ -1,0 +1,6 @@
+###%%% SRV: whois.nic.ai
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.nic.ai/ai/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+Domain u34jedzcq.ai not registred.
+If you would like to register this, or any .ai domain, go to http://whois.ai

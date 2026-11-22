@@ -1,0 +1,29 @@
+###%%% QRY: men.gov.ma
+###%%% SRV: whois.registre.ma
+###%%% TME: 2025-04-09T08:39:07Z
+
+Domain Name: men.gov.ma
+Updated Date: 2025-02-07T00:00:26Z
+Creation Date: 2009-01-08T00:00:00Z
+Registry Expiry Date: 2026-01-08T00:00:00Z
+Registrar Registration Expiration Date: 2026-01-08T00:00:00Z
+Registrar: ITISSALAT AL-MAGHRIB
+Registrar Street Address: Siège ITISSALAT AL-MAGHRIB Avenue Annakhil Hay Riad Rabat, 10000
+Registrar Email: cae_int.bo@iam.ma
+Domain Status: active https://icann.org/epp#active
+Registrant Name: Ministère de l’Education Nationale de la Formation Professionnelle  de l’Enseignement Supérieur et de la Recherche Scientifique - DEN
+Admin Name: Rachidi Mostafa
+Admin Email: rachidi.mostafa@men.gov.ma
+Admin Phone: +0.212537661261
+Tech Name: Mohamed Loudifa
+Tech Email: mohamed.loudifa@men.gov.ma
+Tech Phone: +0.212661901479
+Name Server: ns2.men.gov.ma
+Name Server: ns3.men.gov.ma
+Name Server: ns1.men.gov.ma
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-04-09T08:39:14.532Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Le service Whois permet la vérification de la disponibilité d’un nom de domaine « .ma » et l’identification de son titulaire. La base de données Whois est maintenue à jour par les prestataires, à chaque fois qu’une modification sur les données enregistrées leur est communiquée par le titulaire. Tout usage abusif du service WHOIS et des donn��es d’identification qu’il publie engage la responsabilité des personnes concernées.

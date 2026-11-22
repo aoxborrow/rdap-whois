@@ -1,0 +1,68 @@
+{
+  "query": "3gppnetwork.org",
+  "server": "whois.networksolutions.com",
+  "domainId": "REDACTED",
+  "domainName": "3gppnetwork.org",
+  "creationDate": "2002-05-15T13:35:38Z",
+  "expirationDate": "2027-05-15T13:35:38Z",
+  "registrarExpirationDate": "2027-05-15T13:35:38Z",
+  "updatedDate": "2026-03-16T10:35:51Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "nn-ac.3gppnetwork.org",
+    "nn-eu.3gppnetwork.org",
+    "nn-se.3gppnetwork.org",
+    "ns1.1630167.cloudns.net",
+    "ns1.dnsimple.com",
+    "ns2.1630167.cloudns.com",
+    "ns2.dnsimple-edge.net",
+    "ns3.1630167.cloudns.net",
+    "ns3.dnsimple.com",
+    "ns4.1630167.cloudns.uk",
+    "ns4.dnsimple-edge.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "2",
+  "registrarIanaId": 2,
+  "registrarName": "Network Solutions, LLC",
+  "registrarUrl": "http://www.networksolutions.com",
+  "registrarAbuseEmail": "domain.operations@web.com",
+  "registrarAbusePhone": "+1.8777228662",
+  "registrarWhoisServer": "whois.networksolutions.com",
+  "registrantId": "Statutory Masking Enabled",
+  "registrantName": "Statutory Masking Enabled",
+  "registrantOrg": "Statutory Masking Enabled",
+  "registrantAddress": [
+    "Statutory Masking Enabled"
+  ],
+  "registrantCity": "Statutory Masking Enabled",
+  "registrantState": "London",
+  "registrantPostalCode": "Statutory Masking Enabled",
+  "registrantCountry": "UK",
+  "registrantPhone": "Statutory Masking Enabled",
+  "registrantPhoneExt": "Statutory Masking Enabled",
+  "registrantFax": "Statutory Masking Enabled",
+  "registrantFaxExt": "Statutory Masking Enabled",
+  "registrantEmail": "dataprotected@maskeddetails.com",
+  "techId": "Statutory Masking Enabled",
+  "techName": "Statutory Masking Enabled",
+  "techOrg": "Statutory Masking Enabled",
+  "techAddress": [
+    "Statutory Masking Enabled"
+  ],
+  "techCity": "Statutory Masking Enabled",
+  "techState": "Statutory Masking Enabled",
+  "techPostalCode": "Statutory Masking Enabled",
+  "techCountry": "Statutory Masking Enabled",
+  "techPhone": "Statutory Masking Enabled",
+  "techPhoneExt": "Statutory Masking Enabled",
+  "techFax": "Statutory Masking Enabled",
+  "techFaxExt": "Statutory Masking Enabled",
+  "techEmail": "dataprotected@maskeddetails.com"
+}

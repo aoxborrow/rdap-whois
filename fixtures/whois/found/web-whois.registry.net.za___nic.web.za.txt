@@ -1,0 +1,40 @@
+###%%% QRY: nic.web.za
+###%%% SRV: web-whois.registry.net.za
+###%%% TME: 2026-11-22T08:16:27Z
+
+Domain Name: nic.web.za
+Registry Domain ID: 3b2rgc_DOMAIN-WEB.ZA
+Registrar WHOIS Server: 
+Registrar URL: https://raphus.mu
+Updated Date: 2023-11-23T06:30:22Z
+Creation Date: 2014-04-10T13:43:52Z
+Registry Expiry Date: 2099-12-31T00:00:00Z
+Registrar Registration Expiration Date: 2099-12-31T00:00:00Z
+Registrar: Raphus Ltd
+Registrar Abuse Contact Email: abuse@raphus.mu
+Registrar Abuse Contact Phone: +27.785112910
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: 
+Registrant Country: ZA
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns1.dns.net.za
+Name Server: ns1.coza.net.za
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:16:27Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZARC Complaint/s Procedure and Form: https://zarc.web.za/wp-content/uploads/2025/08/ZA-SLD_Takedown_Policy.docx.pdf
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://zarc.web.za/whois-terms-and-conditions
+# Copyright (c) ZARC 1995-2026

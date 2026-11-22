@@ -1,0 +1,5 @@
+###%%% QRY: _wildcard_.xn--fiqz9s
+###%%% SRV: whois.cnnic.cn
+###%%% TME: 2026-07-14T10:47:16Z
+
+Invalid parameter:_wildcard_.xn--fiqz9s

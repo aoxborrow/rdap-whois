@@ -1,0 +1,24 @@
+{
+  "query": "nic.gb.net",
+  "server": "whois.centralnic.net",
+  "domainId": "D32603-CNIC",
+  "domainName": "nic.gb.net",
+  "creationDate": "2008-04-02T11:19:47Z",
+  "expirationDate": "2027-04-02T23:59:59Z",
+  "updatedDate": "2026-07-23T10:16:15Z",
+  "eppStatus": [
+    "inactive"
+  ],
+  "eppStatusRaw": [
+    "inactive https://icann.org/epp#inactive"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "CentralNic Ltd",
+  "registrarUrl": "https://www.centralnic.com",
+  "registrarAbuseEmail": "ops@centralnic.com",
+  "registrarAbusePhone": "+44.2033880600",
+  "registrarWhoisServer": "whois.centralnic.com"
+}

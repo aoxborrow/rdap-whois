@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.by
+###%%% SRV: whois.cctld.by
+###%%% TME: 2025-03-20T18:21:04Z
+
+object does not exist

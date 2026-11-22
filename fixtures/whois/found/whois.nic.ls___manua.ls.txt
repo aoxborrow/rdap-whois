@@ -1,0 +1,73 @@
+###%%% QRY: manua.ls
+###%%% SRV: whois.nic.ls
+###%%% TME: 2026-07-16T11:42:03Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.10.2
+% Timestamp: Thu Jul 16 13:42:06 2026
+
+domain:       manua.ls
+registrant:   ADMIN-REGISTRANT1293
+admin-c:      ADMIN-ADMIN1293
+nsset:        ADMIN-NS-1293
+registrar:    REG-ZEECOM
+registered:   22.10.2020 23:06:47
+expire:       22.10.2026
+
+contact:      ADMIN-REGISTRANT1293
+org:          WdH Media BV
+name:         WdH Media BV
+address:      Wijnbrugstraat 75
+address:      Rotterdam
+address:      3011XW
+address:      Zuid Holland
+address:      NL
+Phone: [REDACTED].3054348621
+e-mail:       domains@marcaria.com
+registrar:    REG-ZEECOM
+created:      22.10.2020 23:06:42
+changed:      22.10.2020 23:12:56
+
+contact:      ADMIN-ADMIN1293
+org:          Marcaria.com LLC
+name:         Domain Manager
+address:      8345 NW 66 St. #B1673
+address:      false
+address:      false
+address:      Miami
+address:      33166-7896
+address:      FL
+address:      US
+Phone: [REDACTED].3478970218
+e-mail:       domains@marcaria.com
+registrar:    REG-ZEECOM
+created:      22.10.2020 23:06:43
+changed:      22.10.2020 23:12:57
+
+nsset:        ADMIN-NS-1293
+nserver:      pns1.cloudns.net 
+nserver:      pns2.cloudns.net 
+tech-c:       ADMIN-BILLING1293
+registrar:    REG-ZEECOM
+created:      22.10.2020 23:06:46
+changed:      08.01.2025 16:27:54
+
+contact:      ADMIN-BILLING1293
+org:          Marcaria.com LLC
+name:         Domain Manager
+address:      8345 NW 66 St. #B1673
+address:      false
+address:      false
+address:      Miami
+address:      33166-7896
+address:      FL
+address:      US
+Phone: [REDACTED].3478970218
+e-mail:       domains@marcaria.com
+registrar:    REG-ZEECOM
+created:      22.10.2020 23:06:45
+
+
+>>> Terms: Data provided for information purposes only.
+>>> Rate limited; bulk access prohibited.

@@ -1,0 +1,33 @@
+###%%% QRY: ngengesport.cd
+###%%% SRV: whois.nic.cd
+###%%% TME: 2026-07-16T23:27:39Z
+
+Domain Name: ngengesport.cd
+Registry Domain ID: 6855-niccd
+Registry WHOIS Server: whois.nic.cd
+Updated Date: 2025-02-09T13:28:37.101Z
+Creation Date: 2021-01-15T00:00:00.0Z
+Registry Expiry Date: 2033-06-07T23:00:00.0Z
+Registrar Registration Expiration Date: 2033-06-07T23:00:00.0Z
+Registrar: SCPT
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: pXxUi-ELy7B
+Registrant Name: Office Congolais des Postes et Telecommunications - OCPT
+Registrant Organization: Office Congolais des Postes et Telecommunications - OCPT
+Registrant Street: Commune de la Gombe
+Registrant City: Kinshasa
+Registrant Country: CG
+Registrant Phone: +243.818068889
+Registrant Email: supportATnic.cd
+Name Server: ns1.contabo.net
+Name Server: ns2.contabo.net
+Name Server: ns3.contabo.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T18:19:02.509Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

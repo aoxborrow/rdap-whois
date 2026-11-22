@@ -1,0 +1,32 @@
+{
+  "domainName": "booth.pm",
+  "creationDate": "2013-10-30T05:36:45Z",
+  "expirationDate": "2025-04-26T07:59:49Z",
+  "updatedDate": "2024-05-31T22:01:06Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.booth.pm",
+    "ns2.booth.pm"
+  ],
+  "registrarName": "1API GmbH",
+  "registrarAddress": [
+    "Kaiserstraße 172-174",
+    "66386 ST. INGBERT"
+  ],
+  "registrarCountry": "DE",
+  "registrarPhone": "+49.68949396200",
+  "registrarFax": "+49.68416984299",
+  "registrarEmail": "info@1api.net",
+  "registrarUrl": "http://www.1api.net",
+  "registrantName": "PTS Privacy & Trustee Services GmbH",
+  "registrantAddress": [
+    "Neunkircher-Str. 43",
+    "66299 Friedrichsthal"
+  ],
+  "registrantCountry": "DE",
+  "registrantPhone": "+49.68975054909",
+  "registrantFax": "+49.68975021435",
+  "registrantEmail": "info@ptstrustee.com"
+}

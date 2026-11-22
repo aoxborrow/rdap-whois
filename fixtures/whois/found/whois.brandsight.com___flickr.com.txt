@@ -1,0 +1,50 @@
+###%%% QRY: flickr.com
+###%%% SRV: whois.brandsight.com
+###%%% TME: 2026-11-22T08:09:16Z
+
+Domain Name: flickr.com
+Registry Domain ID: 107075675_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.brandsight.com
+Registrar URL: https://gcd.com
+Updated Date: 2026-10-23T23:08:37Z
+Creation Date: 2003-11-22T07:49:51Z
+Registrar Registration Expiration Date: 2027-11-22T07:49:51Z
+Registrar: GoDaddy Corporate Domains, LLC
+Registrar IANA ID: 3786
+Registrar Abuse Contact Email: abuse@gcd.com
+Registrar Abuse Contact Phone: +1.5188315864
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registrant Organization: SmugMug, Inc.
+Registrant State/Province: CA
+Registrant Country: US
+Registrant Email: anonymous-registrant@brandsight.com
+Tech Email: anonymous-tech@brandsight.com
+Name Server: NS-421.AWSDNS-52.COM
+Name Server: NS-1244.AWSDNS-27.ORG
+Name Server: NS-573.AWSDNS-07.NET
+Name Server: NS-1683.AWSDNS-18.CO.UK
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:09:15Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of this data for any other purpose
+is expressly forbidden without the prior written permission of this registrar. By submitting
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not
+to use this data to allow, enable, or otherwise support the dissemination or collection of this
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone,
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations
+of any kind, including spam. You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data for any purpose, including
+mining this data for your own personal or commercial purposes. Failure to comply with these terms
+may result in termination of access to the Whois database. These terms may be subject to modification
+at any time without notice.
+
+
+**NOTICE** This WHOIS server is being retired. Please use our RDAP service instead.

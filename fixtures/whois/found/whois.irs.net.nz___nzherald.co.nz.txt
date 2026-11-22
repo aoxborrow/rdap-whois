@@ -1,0 +1,52 @@
+###%%% QRY: nzherald.co.nz
+###%%% SRV: whois.irs.net.nz
+###%%% TME: 2026-07-16T11:39:05Z
+
+Domain Name: nzherald.co.nz
+Registrar URL: https://webcentral.au/
+Updated Date: 2026-04-17T03:31:49Z
+Creation Date: 1997-04-16T12:00:00Z
+Original Created: 1997-04-16T12:00:00Z
+Registrar: Netregistry PTY Ltd/TA Webcentral and Melbourne IT
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Name Server: dns1.p01.nsone.net
+Name Server: dns2.p01.nsone.net
+Name Server: dns3.p01.nsone.net
+Name Server: dns4.p01.nsone.net
+DNSSEC: unsigned
+URL of the Domain Name Commission Limited Inaccuracy Complaint Form: https://dnc.org.nz/enquiry-form/
+>>> Last update of WHOIS database: 2026-07-16T11:39:06Z <<<
+
+% Terms of Use
+%
+% By submitting a WHOIS query you are entering into an agreement with Domain
+% Name Commission Ltd on the following terms and conditions, and subject to
+% all relevant .nz Policies and procedures as found at https://dnc.org.nz/.
+%
+% It is prohibited to:
+% - Send high volume WHOIS queries with the effect of downloading part of or
+%   all of the .nz Register or collecting register data or records;
+% - Access the .nz Register in bulk through the WHOIS service (ie. where a
+%   user is able to access WHOIS data other than by sending individual queries
+%   to the database);
+% - Use WHOIS data to allow, enable, or otherwise support mass unsolicited
+%   commercial advertising, or mass solicitations to registrants or to
+%   undertake market research via direct mail, electronic mail, SMS, telephone
+%   or any other medium;
+% - Use WHOIS data in contravention of any applicable data and privacy laws,
+%   including the Unsolicited Electronic Messages Act 2007;
+% - Store or compile WHOIS data to build up a secondary register of
+%   information;
+% - Publish historical or non-current versions of WHOIS data; and
+% - Publish any WHOIS data in bulk.
+%
+% Copyright Domain Name Commission Limited (a company wholly-owned by Internet
+% New Zealand Incorporated) which may enforce its rights against any person or
+% entity that undertakes any prohibited activity without its written
+% permission.
+%
+% The WHOIS service is provided by Internet New Zealand Incorporated.
+%
+% Additional information may be available at https://www.dnc.org.nz

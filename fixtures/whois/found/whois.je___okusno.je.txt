@@ -1,0 +1,52 @@
+###%%% QRY: okusno.je
+###%%% SRV: whois.je
+###%%% TME: 2026-07-16T11:39:08Z
+
+Domain:
+     okusno.je
+
+Domain Status:
+     Active
+     
+
+Registrant:
+     Pro Plus d.o.o.
+
+Registrar:
+     Eurodns (http://eurodns.com)
+
+Relevant dates:
+     Registered on 13th January 2011 at 15:53:12.858
+     Registry fee due on 13th January each year
+
+Registration status:
+     Registered until cancelled
+
+Name servers:
+     ns-cloud-d1.googledomains.com
+     ns-cloud-d2.googledomains.com
+     ns-cloud-d3.googledomains.com
+     ns-cloud-d4.googledomains.com
+     
+
+WHOIS lookup made on Thu, 16 Jul 2026 at 12:39:09 BST
+
+This WHOIS information is provided for free by CIDR, operator of
+the backend registry for domain names ending in GG and JE.
+
+Copyright (c) and database right Island Networks (Jersey) 1996 - 2026.
+
+You may not access this WHOIS server or use any data from it except
+as permitted by our Terms and Conditions which are published
+at http://www.channelisles.net/legal/whoisterms
+
+They include restrictions and prohibitions on
+
+- using or re-using the data for advertising;
+- using or re-using the service for commercial purposes without a licence;
+- repackaging, recompilation, redistribution or reuse;
+- obscuring, removing or hiding any or all of this notice;
+- exceeding query rate or volume limits.
+
+The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time.

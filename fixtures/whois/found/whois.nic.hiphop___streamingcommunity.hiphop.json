@@ -1,0 +1,28 @@
+{
+  "query": "streamingcommunity.hiphop",
+  "server": "whois.nic.hiphop",
+  "domainId": "DO_45327dbdf418e831a3cb45b7861a080b-HIPHOP",
+  "domainName": "streamingcommunity.hiphop",
+  "creationDate": "2026-04-29T17:32:51Z",
+  "expirationDate": "2027-04-29T17:32:51Z",
+  "updatedDate": "2026-05-04T17:33:50Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.ag614.parklogic.com",
+    "ns2.ag614.parklogic.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot, LLC",
+  "registrarUrl": "https://www.dynadot.com",
+  "registrarAbuseEmail": "info@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com"
+}

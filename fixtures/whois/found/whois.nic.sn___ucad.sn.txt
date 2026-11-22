@@ -1,0 +1,76 @@
+###%%% QRY: ucad.sn
+###%%% SRV: whois.nic.sn
+###%%% TME: 2026-07-16T11:43:54Z
+
+============================================================================
+Whois du Registre .SN
+Les informations fournies par ce service ne sont qu'à titre informatif.
+
+Les données collectées via le formulaire d'enregistrement sont traitées exclusivement à des fins liées au traitement des domaines conformément à la RFC 3912 par le NIC Sénégal.
+
+En application des dispositions de la loi n°2008-12 du 25 janvier 2008 portant sur la protection des données à caractère personnel, vous pouvez exercer vos droits d'accès, d'opposition, de rectification et de suppression auprès du NIC Sénégal - abuse(at)nic.sn.
+============================================================================
+
+Domain ID:                     DOM000000001600-SN
+Nom de domaine:                ucad.sn
+Date de création:              1997-01-01T00:00:00Z
+Dernière modification:         2026-03-19T10:02:59.207308Z
+Date d'expiration:             2026-12-31T00:00:00Z
+Registrar:                     NIC Sénégal
+Statut:                        actif
+
+[HOLDER]
+ID Contact:                    U123
+Type:                          Organisation
+Nom:                           Université Cheikh Anta Diop
+Adresse:                       Campus Universitaire,rectorat UCAD
+Code postal:                   9999
+Ville:                         Dakar
+Pays:                          SN
+Téléphone:                     +221.338219190
+Courriel:                      alex.corenthin@nic.sn
+Dernière modification:         2023-05-03T15:19:15.888706Z
+
+[TECH_C]
+ID Contact:                    FB147
+Type:                          Personne Physique
+Nom:                           Samba DIAW
+Adresse:                       Avenue Cheikh Anta DIOP
+Code postal:                   5005
+Ville:                         Dakar
+Pays:                          SN
+Téléphone:                     +22.1338235719
+Courriel:                      disi@ucad.edu.sn
+Dernière modification:         2022-06-08T08:52:18Z
+
+[ADMIN_C]
+ID Contact:                    FB147
+Type:                          Personne Physique
+Nom:                           Samba DIAW
+Adresse:                       Avenue Cheikh Anta DIOP
+Code postal:                   5005
+Ville:                         Dakar
+Pays:                          SN
+Téléphone:                     +22.1338235719
+Courriel:                      disi@ucad.edu.sn
+Dernière modification:         2022-06-08T08:52:18Z
+
+[BILLING_C]
+ID Contact:                    FB147
+Type:                          Personne Physique
+Nom:                           Samba DIAW
+Adresse:                       Avenue Cheikh Anta DIOP
+Code postal:                   5005
+Ville:                         Dakar
+Pays:                          SN
+Téléphone:                     +22.1338235719
+Courriel:                      disi@ucad.edu.sn
+Dernière modification:         2022-06-08T08:52:18Z
+
+Serveur de noms:               ns-a.unchk.sn
+Serveur de noms:               ns1.ucad.sn
+Serveur de noms:               ns2.ucad.sn
+
+DNSSEC:                        signedDelegation
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:00.326122Z <<<

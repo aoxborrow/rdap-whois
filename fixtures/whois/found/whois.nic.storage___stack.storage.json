@@ -1,0 +1,29 @@
+{
+  "query": "stack.storage",
+  "server": "whois.nic.storage",
+  "domainId": "D56939153-CNIC",
+  "domainName": "stack.storage",
+  "creationDate": "2017-11-30T14:00:00Z",
+  "expirationDate": "2026-11-30T23:59:59Z",
+  "updatedDate": "2026-02-25T12:01:15Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns0.transip.net",
+    "ns1.transip.nl",
+    "ns2.transip.eu"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1345",
+  "registrarIanaId": 1345,
+  "registrarName": "Key-Systems, LLC",
+  "registrarUrl": "http://www.key-systems.net",
+  "registrarAbuseEmail": "abuse@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net"
+}

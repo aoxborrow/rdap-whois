@@ -1,0 +1,5 @@
+###%%% QRY: throttled.dnp
+###%%% SRV: whois.nic.dnp
+###%%% TME: 2025-03-20T16:22:05Z
+
+Server is busy now, please try again later.

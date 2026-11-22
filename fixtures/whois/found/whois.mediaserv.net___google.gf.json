@@ -1,0 +1,37 @@
+{
+  "query": "google.gf",
+  "server": "whois.mediaserv.net",
+  "domainName": "google.gf",
+  "updatedDate": "2026-10-15T00:00:00Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrantName": "DOMAIN Administrator",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantFax": "+1.6506188571",
+  "registrantEmail": "dns-admin@google.com",
+  "adminName": "Google",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminPostalCode": "94043",
+  "adminCountry": "US",
+  "adminPhone": "+1.6502530000",
+  "adminFax": "+1.6502530001",
+  "adminEmail": "ns-admins@google.com",
+  "techName": "MarkMonitor Inc. Domain Administrator",
+  "techAddress": [
+    "2150 S Bonito Way Suite 150"
+  ],
+  "techPostalCode": "83642",
+  "techCountry": "US",
+  "techPhone": "+1.2083895740",
+  "techFax": "+1.2083895771",
+  "techEmail": "ccops@markmonitor.com"
+}

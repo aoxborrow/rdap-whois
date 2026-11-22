@@ -1,0 +1,93 @@
+###%%% QRY: ibomma.wf
+###%%% SRV: whois.nic.wf
+###%%% TME: 2026-07-16T11:17:17Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        ibomma.wf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      CTC3957-FRNIC
+admin-c:                       CTC3957-FRNIC
+tech-c:                        CTC380-FRNIC
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+Expiry Date:                   2027-03-03T10:19:19.071195Z
+created:                       2026-03-03T10:19:19.103174Z
+last-update:                   2026-03-08T10:22:58.868369Z
+source:                        FRNIC
+
+nserver:                       hehua.ns.giantpanda.com
+nserver:                       panpan.ns.giantpanda.com
+source:                        FRNIC
+
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+address:                       Hofplein 20
+address:                       Spaces Business Centre
+address:                       3032 AC ROTTERDAM
+country:                       NL
+phone:                         +31.104482299
+fax-no:                        +31.102440250
+e-mail:                        sales@openprovider.com
+website:                       https://www.openprovider.com
+anonymous:                     No
+registered:                    2005-06-27T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC3957-FRNIC
+type:                          ORGANIZATION
+contact:                       Whois Privacy Protection Foundation
+address:                       Whois Privacy Protection Foundation
+address:                       Hofplein 20
+address:                       3032 AC Rotterdam
+address:                       Zuid-Holland
+country:                       NL
+phone:                         +31.104482295
+e-mail:                        info@privacyprotected.domains
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-10-30T15:35:04.257039Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2023-10-07T09:26:21.189717Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2023-10-07T09:26:21.189717Z
+source:                        FRNIC
+
+nic-hdl:                       CTC380-FRNIC
+type:                          ORGANIZATION
+contact:                       Whois Privacy Protection Foundation
+address:                       Whois Privacy Protection Foundation
+address:                       Kipstraat 3 c
+address:                       3011 RR Rotterdam
+address:                       Zuid-Holland
+country:                       NL
+phone:                         +31.104482295
+e-mail:                        info@privacyprotected.domains
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-10-30T15:35:04.269293Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2022-10-17T21:00:20.824979Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:17:17.752495Z <<<

@@ -1,0 +1,34 @@
+{
+  "query": "wrap.ngo",
+  "server": "whois.nic.ngo",
+  "domainId": "REDACTED",
+  "domainName": "wrap.ngo",
+  "creationDate": "2023-11-16T17:06:15Z",
+  "expirationDate": "2027-11-16T17:06:15Z",
+  "updatedDate": "2026-08-12T01:22:03Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "cullen.ns.cloudflare.com",
+    "faye.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "http://www.whois.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "http://whois.godaddy.com"
+}

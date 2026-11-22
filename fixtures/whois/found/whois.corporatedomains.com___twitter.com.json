@@ -1,0 +1,77 @@
+{
+  "query": "twitter.com",
+  "server": "whois.corporatedomains.com",
+  "domainId": "18195971_DOMAIN_COM-VRSN",
+  "domainName": "twitter.com",
+  "creationDate": "2000-01-21T11:28:17Z",
+  "expirationDate": "2026-01-21T16:28:17Z",
+  "registrarExpirationDate": "2026-01-21T16:28:17Z",
+  "updatedDate": "2025-01-17T01:08:06Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "serverDeleteProhibited http://www.icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited http://www.icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited http://www.icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.r06.twtrdns.net",
+    "a.u06.twtrdns.net",
+    "b.r06.twtrdns.net",
+    "b.u06.twtrdns.net",
+    "c.r06.twtrdns.net",
+    "c.u06.twtrdns.net",
+    "d.r06.twtrdns.net",
+    "d.u06.twtrdns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC CORPORATE DOMAINS, INC.",
+  "registrarUrl": "https://www.cscprotectsbrands.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com",
+  "registrantName": "Twitter, Inc.",
+  "registrantOrg": "Twitter, Inc.",
+  "registrantAddress": [
+    "1355 Market Street"
+  ],
+  "registrantCity": "San Francisco",
+  "registrantState": "CA",
+  "registrantPostalCode": "94103",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4152229670",
+  "registrantFax": "+1.4152220922",
+  "registrantEmail": "domains@twitter.com",
+  "adminName": "Domain Admin",
+  "adminOrg": "Twitter, Inc.",
+  "adminAddress": [
+    "1355 Market Street"
+  ],
+  "adminCity": "San Francisco",
+  "adminState": "CA",
+  "adminPostalCode": "94103",
+  "adminCountry": "US",
+  "adminPhone": "+1.4152229670",
+  "adminFax": "+1.4152220922",
+  "adminEmail": "domains@twitter.com",
+  "techName": "Tech Admin",
+  "techOrg": "Twitter, Inc.",
+  "techAddress": [
+    "1355 Market Street"
+  ],
+  "techCity": "San Francisco",
+  "techState": "CA",
+  "techPostalCode": "94103",
+  "techCountry": "US",
+  "techPhone": "+1.4152229670",
+  "techFax": "+1.4152220922",
+  "techEmail": "domains-tech@twitter.com"
+}

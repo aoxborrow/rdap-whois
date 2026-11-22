@@ -1,0 +1,48 @@
+{
+  "query": "google.ac",
+  "server": "whois.markmonitor.com",
+  "domainId": "D503300000040385778-LRMS",
+  "domainName": "google.ac",
+  "creationDate": "2006-04-03T13:38:02Z",
+  "expirationDate": "2027-04-03T00:00:00Z",
+  "registrarExpirationDate": "2027-04-03T07:00:00Z",
+  "updatedDate": "2026-03-02T10:38:01Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited",
+    "serverUpdateProhibited",
+    "serverTransferProhibited",
+    "serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantState": "CA",
+  "registrantCountry": "US"
+}

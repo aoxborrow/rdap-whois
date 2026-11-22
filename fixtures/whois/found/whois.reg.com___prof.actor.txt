@@ -1,0 +1,55 @@
+###%%% QRY: prof.actor
+###%%% SRV: whois.reg.com
+###%%% TME: 2026-11-22T08:07:37Z
+
+Domain Name: PROF.ACTOR
+Registry Domain ID: ec9571e209d04236aa4bf6a12519e096-DONUTS
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: https://www.reg.com
+Updated Date: 2026-05-09T06:44:39Z
+Creation Date: 2023-06-19T06:14:26Z
+Registrar Registration Expiration Date: 2027-06-19T06:14:26Z
+Registrar: Registrar of Domain Names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: oget14n2p-kvqcr3
+Registrant Name: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Street: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant City: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Country: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Phone: +7.4955801111
+Registrant Phone Ext:
+Registrant Fax: +7.4955801111
+Registrant Fax Ext:
+Registrant Email: prof.actor@regprivate.ru
+Registry Admin ID: jgp0xi8qa3ogm7-w
+Admin Name: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Street: Personal data, can not be publicly disclosed according to applicable laws.
+Admin City: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Country: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Phone: +7.4955801111
+Admin Phone Ext:
+Admin Fax: +7.4955801111
+Admin Fax Ext:
+Admin Email: prof.actor@regprivate.ru
+Registry Tech ID: wztwxm5l2bhuq4q9
+Tech Name: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Street: Personal data, can not be publicly disclosed according to applicable laws.
+Tech City: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Country: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Phone: +7.4955801111
+Tech Phone Ext:
+Tech Fax: +7.4955801111
+Tech Fax Ext:
+Tech Email: prof.actor@regprivate.ru
+Name Server: ns5.hosting.reg.ru
+Name Server: ns6.hosting.reg.ru
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit: https://icann.org/epp
+>>> Last update of WHOIS database: 2026.11.22T08:07:28Z <<<

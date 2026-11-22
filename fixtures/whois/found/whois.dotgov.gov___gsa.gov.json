@@ -1,0 +1,65 @@
+{
+  "query": "gsa.gov",
+  "server": "whois.dotgov.gov",
+  "domainName": "gsa.gov",
+  "creationDate": "1997-10-02T01:29:24Z",
+  "expirationDate": "2027-09-02T12:26:47Z",
+  "updatedDate": "2026-10-28T15:42:15Z",
+  "eppStatus": [
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "dns.gsa.gov",
+    "dns2.gsa.gov",
+    "dns3.gsa.gov",
+    "dns4.gsa.gov",
+    "dns5.gsa.gov"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "8888888",
+  "registrarIanaId": 8888888,
+  "registrarName": "get.gov",
+  "registrarUrl": "https://get.gov",
+  "registrarWhoisServer": "whois.nic.gov",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "General Services Administration",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "DC",
+  "registrantState": "DC",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "REDACTED FOR PRIVACY",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY"
+}

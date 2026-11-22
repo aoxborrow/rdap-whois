@@ -1,0 +1,40 @@
+###%%% QRY: azet.sk
+###%%% SRV: whois.sk-nic.sk
+###%%% TME: 2026-07-16T11:17:35Z
+
+Domain:                       azet.sk
+Created:                      2003-05-15
+Valid Until:                  2027-05-15
+Updated:                      2026-06-24
+Domain Status:                ok
+Nameserver:                   ns.rintech.sk
+Nameserver:                   ns.rintech.eu
+Nameserver:                   ns.rintech.net
+Nameserver:                   ns2.rintech.eu
+DNSSEC:                       Yes
+
+Domain registrant:            RASM-0001
+Name:                         Ringier Slovakia Media s.r.o.
+Organization:                 Ringier Slovakia Media s.r.o.
+Organization ID:              53708792
+Phone:                        +421.905362914
+Street:                       Prievozská 14
+City:                         Bratislava
+Postal Code:                  821 09
+Country Code:                 SK
+Authorised Registrar:         RING-0002
+Created:                      2021-07-21
+Updated:                      2025-04-11
+
+Registrar:                    RING-0002
+Name:                         Ringier Slovakia Media s.r.o.
+Organization:                 Ringier Slovakia Media s.r.o.
+Organization ID:              53708792
+Phone:                        +421.413210133
+Email:                        peter.hromada@ringier.sk
+Street:                       Prievozská 14
+City:                         Bratislava
+Postal Code:                  82109
+Country Code:                 SK
+Created:                      2021-07-16
+Updated:                      2026-07-08

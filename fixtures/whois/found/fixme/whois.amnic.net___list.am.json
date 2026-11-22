@@ -1,0 +1,20 @@
+{
+  "domainName": "list.am",
+  "creationDate": "2004-12-28T00:00:00Z",
+  "expirationDate": "2028-12-28T00:00:00Z",
+  "updatedDate": "2024-07-08T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "coco.ns.cloudflare.com",
+    "todd.ns.cloudflare.com"
+  ],
+  "registrarName": "abcdomain (ABCDomain LLC)",
+  "registrantName": "Domain Privacy",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY",
+    "0000"
+  ],
+  "registrantCountry": "AM"
+}

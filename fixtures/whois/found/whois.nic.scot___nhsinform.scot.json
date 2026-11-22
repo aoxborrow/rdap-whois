@@ -1,0 +1,35 @@
+{
+  "query": "nhsinform.scot",
+  "server": "whois.nic.scot",
+  "domainId": "D51-SCOT",
+  "domainName": "nhsinform.scot",
+  "creationDate": "2014-07-15T14:02:24Z",
+  "expirationDate": "2027-07-15T14:02:24Z",
+  "updatedDate": "2026-06-15T14:03:10Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.livedns.co.uk",
+    "ns2.livedns.co.uk",
+    "ns3.livedns.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "83",
+  "registrarIanaId": 83,
+  "registrarName": "IONOS SE",
+  "registrarUrl": "https://ionos.com",
+  "registrarAbuseEmail": "abuse@ionos.com",
+  "registrarAbusePhone": "+1.6105601459",
+  "registrarWhoisServer": "whois.ionos.com",
+  "registrantOrg": "Data Protected",
+  "registrantState": "Lanarkshire",
+  "registrantCountry": "GB",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

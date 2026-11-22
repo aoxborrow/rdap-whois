@@ -1,0 +1,36 @@
+{
+  "query": "nic.whoswho",
+  "server": "whois.nic.whoswho",
+  "domainId": "Dgkhh475-WHOSWHO",
+  "domainName": "nic.whoswho",
+  "creationDate": "2013-08-09T23:11:05Z",
+  "expirationDate": "2027-08-08T23:59:59Z",
+  "updatedDate": "2026-09-23T00:00:23Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Who's Who Registry",
+  "registrarUrl": "http://nic.whoswho",
+  "registrarAbuseEmail": "abuse@nic.whoswho",
+  "registrarAbusePhone": "+1.2128778900",
+  "registrantOrg": "Who's Who Registry",
+  "registrantState": "NY",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

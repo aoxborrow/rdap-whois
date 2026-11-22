@@ -1,0 +1,779 @@
+{
+  "gatheredAt": "2026-07-14T13:46:37.723Z",
+  "reserved": {
+    "before": 14,
+    "after": 89,
+    "confirmed": [
+      {
+        "server": "whois.auda.org.au",
+        "query": "ab.au",
+        "kind": "reserved",
+        "snippet": "Reserved by Registry ⏎ This domain name is on Priority Hold status. ⏎ Identity Digital Australia Pty Ltd, for itself and on behalf of .au Domain Administration Limited (auDA), makes the WHOIS registration data directory service (WHOIS Service) available solely for the purposes of: ⏎ (a) querying the availability of a domain name licence; ⏎ (b) identifying the holder of a domain name licence; and/or ⏎ (c) contacting the holder of a domain name licence in relation to that domain name and its use."
+      },
+      {
+        "server": "whois.dnrs.vu",
+        "query": "example.vu",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.aaa",
+        "query": "example.aaa",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.aarp",
+        "query": "example.aarp",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.abb",
+        "query": "example.abb",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.abbott",
+        "query": "example.abbott",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.abc",
+        "query": "example.abc",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.abogado",
+        "query": "example.abogado",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.abudhabi",
+        "query": "example.abudhabi",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ Abu Dhabi Systems and Information Center (we, us, or our), provides the WHOIS Service (the Service) so that a user (you, your) may look ⏎ up certain information in relation to domain names that we hold in our database. Your use of the Service is subject to our policies. ⏎ The information provided by the Service, is for informational purposes only, is .as is. and we make no guarantee of its accuracy."
+      },
+      {
+        "server": "whois.nic.ac",
+        "query": "example.ac",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.accenture",
+        "query": "example.accenture",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.accountant",
+        "query": "example.accountant",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.adult",
+        "query": "example.adult",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.aeg",
+        "query": "example.aeg",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.afl",
+        "query": "example.afl",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.africa",
+        "query": "example.africa",
+        "kind": "reserved",
+        "snippet": "Reserved:    Technical ⏎ Domain Name: example.africa ⏎ The use of this facility is subject to the following terms and ⏎ ============================================================== ⏎ conditions: https://registry.africa/whois-terms-and-conditions ⏎ =============================================================="
+      },
+      {
+        "server": "whois.nic.agakhan",
+        "query": "example.agakhan",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.airbus",
+        "query": "example.airbus",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.akdn",
+        "query": "example.akdn",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.allstate",
+        "query": "example.allstate",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.americanfamily",
+        "query": "example.americanfamily",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.amfam",
+        "query": "example.amfam",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.anz",
+        "query": "example.anz",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.aol",
+        "query": "example.aol",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.arte",
+        "query": "example.arte",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.asda",
+        "query": "example.asda",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.audi",
+        "query": "example.audi",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.auspost",
+        "query": "example.auspost",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.arab",
+        "query": "example.arab",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The League of Arab States (we, us, or our), provides the WHOIS Service (the Service) so that a user (you, your) may look up ⏎ certain information in relation to domain names that we hold in our database. Your use of the Service is subject to our policies. ⏎ The information provided by the Service, is for informational purposes only, is .as is. and we make no guarantee of its accuracy."
+      },
+      {
+        "server": "whois.nic.axa",
+        "query": "example.axa",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.bank",
+        "query": "example.bank",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ fTLD Registry Services, LLC (Registry Operator) is required to collect and ⏎ provide domain name registration information (Whois Data) for a variety ⏎ of purposes. Registry Operator through its Registry Service Provider enables"
+      },
+      {
+        "server": "whois.nic.barclaycard",
+        "query": "example.barclaycard",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.barclays",
+        "query": "example.barclays",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.barefoot",
+        "query": "example.barefoot",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.baseball",
+        "query": "example.baseball",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.bbt",
+        "query": "example.bbt",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.bcg",
+        "query": "example.bcg",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.beats",
+        "query": "example.beats",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.beer",
+        "query": "example.beer",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.bible",
+        "query": "example.bible",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.bid",
+        "query": "example.bid",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.blackfriday",
+        "query": "example.blackfriday",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.bloomberg",
+        "query": "example.bloomberg",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.bms",
+        "query": "example.bms",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.bnpparibas",
+        "query": "example.bnpparibas",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.boehringer",
+        "query": "example.boehringer",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.bofa",
+        "query": "example.bofa",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.bosch",
+        "query": "example.bosch",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.boston",
+        "query": "example.boston",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.bradesco",
+        "query": "example.bradesco",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.buzz",
+        "query": "example.buzz",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.capetown",
+        "query": "example.capetown",
+        "kind": "reserved",
+        "snippet": "Reserved:    TLD Strings ⏎ Domain Name: example.capetown"
+      },
+      {
+        "server": "whois.nic.capitalone",
+        "query": "example.capitalone",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.casa",
+        "query": "example.casa",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.catholic",
+        "query": "example.catholic",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.cba",
+        "query": "example.cba",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.cern",
+        "query": "example.cern",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.cfa",
+        "query": "example.cfa",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.chanel",
+        "query": "example.chanel",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.charity",
+        "query": "example.charity",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry in accordance with ICANN Policy. ⏎ Terms of Use: Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.  The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+      },
+      {
+        "server": "whois.nic.chintai",
+        "query": "example.chintai",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.cipriani",
+        "query": "example.cipriani",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.citadel",
+        "query": "example.citadel",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.clinique",
+        "query": "example.clinique",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.club",
+        "query": "example.club",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.clubmed",
+        "query": "example.clubmed",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.commbank",
+        "query": "example.commbank",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.compare",
+        "query": "example.compare",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.cooking",
+        "query": "example.cooking",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.coupon",
+        "query": "example.coupon",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.courses",
+        "query": "example.courses",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.cpa",
+        "query": "example.cpa",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.cricket",
+        "query": "example.cricket",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      },
+      {
+        "server": "whois.nic.crs",
+        "query": "example.crs",
+        "kind": "reserved",
+        "snippet": "This name is reserved by the Registry. ⏎ Terms of Use: Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by Identity Digital or the Registry Operator for informational purposes only, and accuracy is not guaranteed. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. When using the Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access. Abuse of the Whois system through data mining is mitigated by detecting and limiting bulk query access from single sources. Where applicable, the presence of a [Non-Public Data] tag indicates that such data is not made publicly available due to applicable data privacy laws or requirements. Should you wish to contact the registrant, please refer to the Whois records available through the registrar URL listed above. Access to non-public data may be provided, upon request, where it can be reasonably confirmed that the requester holds a specific legitimate interest and a proper legal basis for accessing the withheld data. Access to this data provided by Identity Digital can be requested by submitting a request via the form found at https://www.identity.digital/about/policies/whois-layered-access/. The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name. Identity Digital Inc. and Registry Operator reserve the right to modify these terms at any time. By submitting this query, you agree to abide by this policy."
+      },
+      {
+        "server": "whois.nic.cuisinella",
+        "query": "example.cuisinella",
+        "kind": "reserved",
+        "snippet": "Reserved Domain Name ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ The Service is provided so that you may look up certain information in relation to domain names that we store in our database. ⏎ Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy. ⏎ The information provided by this Service is 'as is' and we make no guarantee of it its accuracy."
+      }
+    ],
+    "suspected": [
+      {
+        "server": "kero.yachay.pe",
+        "query": "example.pe",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.pe ⏎ Domain Status: Prohibited String - Object Cannot Be Registered ⏎ La informacion de esta pagina se provee exclusivamente para fines relacionados con la delegacion de nombres de dominios, su publicidad y la operacion del DNS administrado por el NIC .Pe. ⏎ Queda absolutamente prohibido el uso de los datos proporcionados para cualquier otra finalidad distinta a la indicada, incluyendo el envio de correo electronico comercial no solicitado, de acuerdo a lo dispuesto en la Ley N 28493 - Ley Peruana Antispam. ⏎ La base de datos generada a partir del sistema de delegacion de nombres de dominio peruanos esta protegida por las leyes nacionales de Propiedad Intelectual y los tratados internacionales que sobre la materia ha suscrito el Peru. En ese sentido, su autorizacion es exclusivamente para visualizar y conocer el contenido de la misma, por lo que queda expresamente prohibida su reproduccion, comunicacion, distribucion, transformacion y cualquier otro uso distinto al autorizado."
+      },
+      {
+        "server": "whois.aeda.net.ae",
+        "query": "example.ae",
+        "kind": "suspected",
+        "snippet": "Domain example.ae has been reserved by aeDA Regulator"
+      },
+      {
+        "server": "whois.ande.gov.gn",
+        "query": "example.gn",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.gn ⏎ Domain Status: Prohibited String - Domain Cannot Be Registered ⏎ TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community. ⏎ The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited."
+      },
+      {
+        "server": "whois.ati.tn",
+        "query": "example.tn",
+        "kind": "suspected",
+        "snippet": "NIC Whois server for cTLDs : .tn , .تونس ⏎ All rights reserved ⏎ Copyright \"Tunisian Internet Agency - https://whois.ati.tn ⏎ Supported ccTLDs : .tn , .تونس ⏎ Sectorial domains : .com.tn,.ens.tn,.fin.tn,.gov.tn,.ind.tn,.intl.tn,.nat.tn,.net.tn,.org.tn,.info.tn,.perso.tn,.tourism.tn,.mincom.tn ⏎ NO OBJECT FOUND!"
+      },
+      {
+        "server": "whois.ax",
+        "query": "a.ax",
+        "kind": "suspected",
+        "snippet": "Invalid domain name ⏎ Copyright (c) Ålands Landskapsregering"
+      },
+      {
+        "server": "whois.bnnic.bn",
+        "query": "example.bn",
+        "kind": "suspected",
+        "snippet": "Domain Not Found"
+      },
+      {
+        "server": "whois.cctld.uz",
+        "query": "example.uz",
+        "kind": "suspected",
+        "snippet": "Domain \"example.uz\" is not available for registration"
+      },
+      {
+        "server": "whois.cctld.by",
+        "query": "a.by",
+        "kind": "suspected",
+        "snippet": "Parameter value \"a.by\" syntax error"
+      },
+      {
+        "server": "whois.cira.ca",
+        "query": "example.ca",
+        "kind": "suspected",
+        "snippet": "Error code: 01044 ⏎ Error message: The domain name requested has usage restrictions applied to it. Please see your Registrar for more details."
+      },
+      {
+        "server": "whois.co.pl",
+        "query": "example.co.pl",
+        "kind": "suspected",
+        "snippet": "co.pl WHOIS server @ whois.co.pl ⏎ Data usage pending restrictions. ⏎ Domain data: ⏎ Name...: co.pl ⏎ Status.: INVALID ⏎ Please note that the WHOIS database is refreshed every hour."
+      },
+      {
+        "server": "whois.co.ug",
+        "query": "example.ug",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.ug"
+      },
+      {
+        "server": "whois.dmdomains.dm",
+        "query": "example.dm",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.dm ⏎ service@dotdm.dm. ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted in ⏎ compliance with ICANN's Temporary Specification for gTLD Registration ⏎ Data."
+      },
+      {
+        "server": "whois.dns.hr",
+        "query": "example.hr",
+        "kind": "suspected",
+        "snippet": ""
+      },
+      {
+        "server": "whois.dns.be",
+        "query": "a.be",
+        "kind": "suspected",
+        "snippet": "Domain: a.be ⏎ Status: NOT ALLOWED ⏎ Message: This domain name is too short."
+      },
+      {
+        "server": "whois.domain-registry.nl",
+        "query": "a.nl",
+        "kind": "suspected",
+        "snippet": "Domain name: a.nl ⏎ Status:      excluded ⏎ Record maintained by: SIDN BV"
+      },
+      {
+        "server": "whois.domreg.lt",
+        "query": "a.lt",
+        "kind": "suspected",
+        "snippet": "Invalid .lt domain name"
+      },
+      {
+        "server": "whois.eu",
+        "query": "example.eu",
+        "kind": "suspected",
+        "snippet": "Domain: example.eu ⏎ Script: LATIN ⏎ Registrant: ⏎ NOT DISCLOSED! ⏎ Visit www.eurid.eu for the web-based WHOIS. ⏎ Technical:"
+      },
+      {
+        "server": "whois.gov.za",
+        "query": "example.gov.za",
+        "kind": "suspected",
+        "snippet": "No match found for example.gov.za"
+      },
+      {
+        "server": "whois.hkirc.hk",
+        "query": "example.hk",
+        "kind": "suspected",
+        "snippet": "This domain is currently not available for registration. Please select other domain."
+      },
+      {
+        "server": "whois.imena.bg",
+        "query": "example.xn--90ae",
+        "kind": "suspected",
+        "snippet": "DOMAIN NAME: example.бг (example.xn--90ae) ⏎ registration status: invalid"
+      },
+      {
+        "server": "whois.irs.net.nz",
+        "query": "a.nz",
+        "kind": "suspected",
+        "snippet": "Error code: 01044 ⏎ Error message: The domain name requested has usage restrictions applied to it. Please see your Registrar for more details."
+      },
+      {
+        "server": "whois.isoc.org.il",
+        "query": "example.il",
+        "kind": "suspected",
+        "snippet": ""
+      },
+      {
+        "server": "whois.isnic.is",
+        "query": "a.is",
+        "kind": "suspected",
+        "snippet": "domain:       a.is ⏎ registrant:   NBH3-IS ⏎ admin-c:      NBH3-IS ⏎ tech-c:       ABH216-IS ⏎ zone-c:       CN25-IS ⏎ billing-c:    NBH3-IS"
+      },
+      {
+        "server": "whois.ja.net",
+        "query": "example.ac.uk",
+        "kind": "suspected",
+        "snippet": "Domain: ⏎ example.ac.uk ⏎ Registered For: ⏎ Trust and Identity ⏎ Domain Owner: ⏎ Jisc Services Limited"
+      },
+      {
+        "server": "whois.kg",
+        "query": "example.kg",
+        "kind": "suspected",
+        "snippet": "Domain EXAMPLE.KG ⏎ Data not found. This domain is available for registration."
+      },
+      {
+        "server": "whois.kenic.or.ke",
+        "query": "ab.ke",
+        "kind": "suspected",
+        "snippet": "Domain Name: ab.ke ⏎ Domain Status: Prohibited String - Domain Cannot Be Registered"
+      },
+      {
+        "server": "whois.kyregistry.ky",
+        "query": "example.ky",
+        "kind": "suspected",
+        "snippet": "registrars ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.kr",
+        "query": "a.kr",
+        "kind": "suspected",
+        "snippet": "query : a.kr ⏎ 상기 도메인이름은 도메인이름 등록기준에 부합하지 않아 현재 등록이 ⏎ 제한되어 있습니다. ⏎ The requested domain name is restricted because of public interest. ⏎ - KISA/KRNIC WHOIS Service -"
+      },
+      {
+        "server": "whois.mediaserv.net",
+        "query": "example.gf",
+        "kind": "suspected",
+        "snippet": "This is JWhoisServer serving ccTLD tld;mq;gf;gp ⏎ Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net ⏎ NO OBJECT FOUND! ⏎ object:     example.gf ⏎ type:       domain"
+      },
+      {
+        "server": "whois.mx",
+        "query": "example.mx",
+        "kind": "suspected",
+        "snippet": "No_Se_Encontro_El_Objeto/Object_Not_Found ⏎ &PARAMETROS VALIDOS: ⏎ &NombreObjeto    Busca en la base de datos de NIC Mexico el objeto solicitado. ⏎ &=NombreDominio  Verifica la disponibilidad de un nombre de dominio. ⏎ &?               Muestra este mensaje. ⏎ &NOTA:"
+      },
+      {
+        "server": "whois.mynic.my",
+        "query": "example.my",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.my ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.nic.alsace",
+        "query": "example.alsace",
+        "kind": "suspected",
+        "snippet": "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ Rights restricted by copyright. ⏎ If you wish to access the protected data, please visit our website at the following address: www.mondomaine.alsace ⏎ Terms of Use : Région d'Alsace's database is protected by the provisions of the French Law of the 1st of July 1998 ⏎ transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code."
+      },
+      {
+        "server": "whois.nic.amsterdam",
+        "query": "example.amsterdam",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.amsterdam ⏎ Creation Date: 2017-11-21T06:21:28Z ⏎ Domain Status: BLOCKED ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ Record maintained by: SIDN BV ⏎ Terms of use: No part of this publication may be reproduced,"
+      },
+      {
+        "server": "whois.nic.ar",
+        "query": "example.ar",
+        "kind": "suspected",
+        "snippet": "El dominio no se encuentra registrado en NIC Argentina"
+      },
+      {
+        "server": "whois.nic.as",
+        "query": "example.as",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.as ⏎ Registry Domain ID: 256109-as ⏎ Creation Date: 2025-05-17T00:00:00Z ⏎ Registry Expiry Date: 2027-05-17T00:00:00Z ⏎ Registrar Registration Expiration Date: 2027-05-17T00:00:00Z ⏎ Registrar: Dynadot Inc."
+      },
+      {
+        "server": "whois.nic.aw",
+        "query": "example.aw",
+        "kind": "suspected",
+        "snippet": "example.aw is free"
+      },
+      {
+        "server": "whois.nic.bar",
+        "query": "example.bar",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.bar ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.nic.bj",
+        "query": "example.bj",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.bj ⏎ Domain Status: No Object Found ⏎ TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community. ⏎ The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. ⏎ The compilation, repackaging, dissemination or other use of this Data is expressly prohibited."
+      },
+      {
+        "server": "whois.nic.blockbuster",
+        "query": "example.blockbuster",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.blockbuster ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.nic.blog",
+        "query": "example.blog",
+        "kind": "suspected",
+        "snippet": "Error code: 01044 ⏎ Error message: The domain name requested has usage restrictions applied to it. Please see your Registrar for more details."
+      },
+      {
+        "server": "whois.nic.bostik",
+        "query": "example.bostik",
+        "kind": "suspected",
+        "snippet": "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ Rights restricted by copyright. ⏎ Terms of Use : AFNIC's database is protected by the provisions of the French Law of the 1st of July 1998 ⏎ transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code."
+      },
+      {
+        "server": "whois.nic.bridgestone",
+        "query": "example.bridgestone",
+        "kind": "suspected",
+        "snippet": "Notice: Effective May 1, 2026, the WHOIS service has been retired in accordance with ICANN's RDAP transition policy. All registration data queries are now served via RDAP. The Registration Data Access Protocol (RDAP) base URL is: https://rdap.gmoregistry.net/rdap/"
+      },
+      {
+        "server": "whois.nic.brother",
+        "query": "example.brother",
+        "kind": "suspected",
+        "snippet": "Notice: Effective May 1, 2026, the WHOIS service has been retired in accordance with ICANN's RDAP transition policy. All registration data queries are now served via RDAP. The Registration Data Access Protocol (RDAP) base URL is: https://rdap.gmoregistry.net/rdap/"
+      },
+      {
+        "server": "whois.nic.bzh",
+        "query": "a.bzh",
+        "kind": "suspected",
+        "snippet": "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ Rights restricted by copyright. ⏎ If you wish to access the protected data, please visit our website at the following address: www.pik.bzh ⏎ Terms of Use : Association www.bzh's database is protected by the provisions of the French Law of the 1st of July 1998 ⏎ transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code."
+      },
+      {
+        "server": "whois.nic.canon",
+        "query": "example.canon",
+        "kind": "suspected",
+        "snippet": "Notice: Effective May 1, 2026, the WHOIS service has been retired in accordance with ICANN's RDAP transition policy. All registration data queries are now served via RDAP. The Registration Data Access Protocol (RDAP) base URL is: https://rdap.gmoregistry.net/rdap/"
+      },
+      {
+        "server": "whois.nic.ch",
+        "query": "example.ch",
+        "kind": "suspected",
+        "snippet": "Requests of this client are not permitted. Please use https://www.nic.ch/whois/ for queries."
+      },
+      {
+        "server": "whois.nic.cl",
+        "query": "example.cl",
+        "kind": "suspected",
+        "snippet": "Registrant name: UNIVERSIDAD DE CHILE ⏎ Registrant organisation: ⏎ Registrar name: NIC Chile ⏎ Registrar URL: https://www.nic.cl ⏎ Creation date: 2010-01-19 19:41:36 CLST ⏎ Expiration date: 2030-02-08 21:00:00 CLST"
+      },
+      {
+        "server": "whois.nic.cloud",
+        "query": "example.cloud",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.cloud ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.nic.coop",
+        "query": "example.coop",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.coop ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.nic.corsica",
+        "query": "example.corsica",
+        "kind": "suspected",
+        "snippet": "URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/ ⏎ For more information on Whois status codes, please visit https://icann.org/epp ⏎ Rights restricted by copyright. ⏎ If you wish to access the protected data, please visit our website at the following address: www.puntu.corsica ⏎ Terms of Use : Collectivité de Corse's database is protected by the provisions of the French Law of the 1st of July 1998 ⏎ transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code."
+      },
+      {
+        "server": "whois.nic.creditunion",
+        "query": "example.creditunion",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.creditunion ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      },
+      {
+        "server": "whois.nic.crown",
+        "query": "example.crown",
+        "kind": "suspected",
+        "snippet": "Error code: 01044 ⏎ Error message: The domain name requested has usage restrictions applied to it. Please see your Registrar for more details."
+      },
+      {
+        "server": "whois.nic.data",
+        "query": "example.data",
+        "kind": "suspected",
+        "snippet": "Domain Name: example.data ⏎ For more information on domain status codes, please visit https://icann.org/epp ⏎ The WHOIS information provided in this page has been redacted ⏎ in compliance with ICANN's Temporary Specification for gTLD ⏎ Registration Data. ⏎ The data in this record is provided by Tucows Registry for informational"
+      }
+    ]
+  }
+}

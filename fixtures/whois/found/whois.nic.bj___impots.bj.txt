@@ -1,0 +1,57 @@
+###%%% QRY: impots.bj
+###%%% SRV: whois.nic.bj
+###%%% TME: 2026-07-16T23:25:14Z
+
+Domain Name: impots.bj
+Registry Domain ID: 2278-btsa
+Updated Date: 2026-04-11T09:16:10.229Z
+Creation Date: 2016-01-07T16:53:31.890Z
+Registry Expiry Date: 2027-02-07T23:00:00.0Z
+Registrar Registration Expiration Date: 2027-02-07T23:00:00.0Z
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: vM24G-q2D7C
+Registrant Name: DIRECTION GENERALE DES IMPOTS (ED 04187)
+Registrant Organization: ADMINISTRATION PUBLIQUE
+Registrant Street: 01BP 302 cOTONOU
+Registrant City: COTONOU
+Registrant Country: BJ
+Registrant Phone: +213.01020
+Registrant Email: contact@impots.bj
+Registry Admin ID: nT38Y-jsIEH
+Admin Name: Redacted | Registry Policy
+Admin Organization: Direction Generale des Impots
+Admin Street: Redacted | Registry Policy
+Admin City: Redacted | Registry Policy
+Admin Country: BJ
+Admin Phone: Redacted | Registry Policy
+Admin Email: Redacted | Registry Policy
+Registry Tech ID: I3Cpq-mcNRR
+Tech Name: TOSSOU H. Geraud
+Tech Organization: Direction Generale des Impots
+Tech Street: Redacted | Registry Policy
+Tech City: Redacted | Registry Policy
+Tech Country: BJ
+Tech Phone: +95.427489
+Tech Email: tossou_geraud@yahoo.fr
+Registry Billing ID: TCQ89-JdccW
+Billing Name: Redacted | Registry Policy
+Billing Organization: Direction Generale des Impots
+Billing Street: Redacted | Registry Policy
+Billing City: Redacted | Registry Policy
+Billing Country: BJ
+Billing Phone: Redacted | Registry Policy
+Billing Email: Redacted | Registry Policy
+Registrar: DATA TECHNOLOGIES_ENTREPRISE
+Name Server: ns1.arobase360.com
+Name Server: ns2.arobase360.com
+Name Server: ns3.arobase360.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T21:30:00.634Z <<<
+
+For more information on EPP status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes.
+
+The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

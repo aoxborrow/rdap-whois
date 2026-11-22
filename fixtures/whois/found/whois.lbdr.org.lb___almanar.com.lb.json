@@ -1,0 +1,35 @@
+{
+  "query": "almanar.com.lb",
+  "server": "whois.lbdr.org.lb",
+  "domainId": "13882-lbdr",
+  "domainName": "almanar.com.lb",
+  "creationDate": "2021-01-28T00:00:00Z",
+  "expirationDate": "2027-04-28T00:00:00Z",
+  "registrarExpirationDate": "2027-04-28T00:00:00Z",
+  "updatedDate": "2026-04-23T14:30:32Z",
+  "eppStatus": [
+    "ok",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.awt-lb.com",
+    "ns2.awt-lb.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "TERRANET",
+  "registrarAddress": [
+    "Beirut"
+  ],
+  "registrarCountry": "LB",
+  "registrarPhone": "9611577511",
+  "registrarEmail": "dns-admin@terra.net.lb",
+  "registrarUrl": "https://www.terra.net.lb",
+  "registrarAbuseEmail": "abuse@terra.net.lb",
+  "registrarAbusePhone": "9611656250",
+  "registrantId": "14857-lbdr"
+}

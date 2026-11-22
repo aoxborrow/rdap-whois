@@ -1,0 +1,89 @@
+###%%% QRY: donmai.us
+###%%% SRV: whois.nic.us
+###%%% TME: 2026-07-16T11:44:37Z
+
+Domain Name: donmai.us
+Registry Domain ID: D7286012-US
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2026-01-13T07:02:32Z
+Creation Date: 2005-02-08T02:52:05Z
+Registry Expiry Date: 2027-02-07T23:59:59Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C114D14E41FD8467F9FB0646339C61F97-GDREG
+Registrant Name: Blue Ant
+Registrant Organization: Blue Ant, LLC
+Registrant Street: 3030 Northwest Expressway
+Registrant Street: Suite 200B
+Registrant Street:
+Registrant City: Oklahoma City
+Registrant State/Province: OK
+Registrant Postal Code: 73112
+Registrant Country: US
+Registrant Phone: +1.9187209598
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: noiz.ave@gmail.com
+Registrant Application Purpose: P1
+Registrant Nexus Category: C21
+Registry Admin ID: C7F7E133CF697476EA6E412DDB61BE90A-GDREG
+Admin Name: Blue Ant
+Admin Organization: Blue Ant, LLC
+Admin Street: 3030 Northwest Expressway
+Admin Street: Suite 200B
+Admin Street:
+Admin City: Oklahoma City
+Admin State/Province: OK
+Admin Postal Code: 73112
+Admin Country: US
+Admin Phone: +1.9187209598
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: noiz.ave@gmail.com
+Admin Application Purpose: P1
+Admin Nexus Category: C21
+Registry Tech ID: C6EFC7EEFFD55402F903FA7E880A4C085-GDREG
+Tech Name: Blue Ant
+Tech Organization: Blue Ant, LLC
+Tech Street: 3030 Northwest Expressway
+Tech Street: Suite 200B
+Tech Street:
+Tech City: Oklahoma City
+Tech State/Province: OK
+Tech Postal Code: 73112
+Tech Country: US
+Tech Phone: +1.9187209598
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: noiz.ave@gmail.com
+Tech Application Purpose: P1
+Tech Nexus Category: C21
+Name Server: adel.ns.cloudflare.com
+Name Server: alec.ns.cloudflare.com
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:44:37Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+.US WHOIS Complaint Tool - http://www.whoiscomplaints.us
+Advanced WHOIS Instructions - http://whois.us/help.html
+
+Registry Services, LLC, the Registry Administrator for .US, has collected this information for the WHOIS database through a .US-Accredited Registrar. This information is provided to you for informational purposes only and is designed to assist persons in determining contents of a domain name registration record in the registry database. 
+
+Registry Services, LLC makes this information available to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data: 
+
+(1) to allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail, electronic mail, or by telephone; 
+(2) in contravention of any applicable data and privacy protection laws; or 
+(3) to enable high volume, automated, electronic processes that apply to the registry (or its systems). 
+
+Compilation, repackaging, dissemination, or other use of the WHOIS database in its entirety, or of a substantial portion thereof, is not allowed without our prior written permission. 
+
+We reserve the right to modify or change these conditions at any time without prior or subsequent notification of any kind. By executing this query, in any manner whatsoever, you agree to abide by these terms. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME. All domain names are subject to certain additional domain name registration rules. For details, please visit our site at www.whois.us.

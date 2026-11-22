@@ -1,0 +1,21 @@
+###%%% QRY: moe.gov.om
+###%%% SRV: whois.registry.om
+###%%% TME: 2026-07-16T11:45:12Z
+
+Domain Name: moe.gov.om
+Registry Domain ID: D4635FEF5E55FAC465EE97368C272C37B-OMREG
+Registrar WHOIS Server:
+Registrar URL: http://www.omantel.om
+Registrar: Oman Telecommunication Company (Omantel)
+Registrar IANA ID: 700000007
+Registrar Abuse Contact Email:
+Registrant Name: Ministry Of Education
+Registrant Organization: Ministry Of Education
+Registrant Email: dnsadmin@moe.om
+Admin Organization: Ministry Of Education
+Name Server: ns4.ict.omantel.om
+Name Server: ns3.ict.omantel.om
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:45:13Z <<<
+
+https://tra.gov.om

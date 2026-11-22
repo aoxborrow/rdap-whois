@@ -1,0 +1,32 @@
+{
+  "query": "nic.alibaba",
+  "server": "whois.nic.alibaba",
+  "domainId": "d_200310878000012-ALIBABA",
+  "domainName": "nic.alibaba",
+  "creationDate": "2019-06-07T21:18:05Z",
+  "expirationDate": "2027-05-07T17:54:38Z",
+  "updatedDate": "2026-06-10T11:25:06Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "vip3.alidns.com",
+    "vip4.alidns.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999) (9999)",
+  "registrarUrl": "https://www.aliyun.com",
+  "registrarAbuseEmail": "abuse.alitld@list.alibaba-inc.com",
+  "registrarAbusePhone": "+86.57128223456",
+  "registrarWhoisServer": "whois.aliregistry.cn"
+}

@@ -1,0 +1,97 @@
+###%%% QRY: bfi.wien
+###%%% SRV: whois.nic.wien
+###%%% TME: 2026-11-22T08:11:49Z
+
+Domain Name: bfi.wien
+Registry Domain ID: 8a4_DOMAIN-WIEN
+Registrar WHOIS Server: 
+Registrar URL: http://www.ascio.com/
+Updated Date: 2026-01-31T10:25:07Z
+Creation Date: 2014-12-17T10:24:33Z
+Registry Expiry Date: 2026-12-17T10:24:33Z
+Registrar Registration Expiration Date: 2026-12-17T10:24:33Z
+Registrar: Ascio Technologies Inc. Danmark
+Registrar IANA ID: 106
+Registrar Abuse Contact Email: nicrelations@ascio.com
+Registrar Abuse Contact Phone: 442 070 159 248
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: REDACTED
+Registrant Name: REDACTED
+Registrant Organization: Berufsfoerderungsinstitut Wien
+Registrant Street: REDACTED
+Registrant City: REDACTED
+Registrant State/Province: REDACTED
+Registrant Postal Code: REDACTED
+Registrant Country: AT
+Registrant Phone: REDACTED
+Registrant Phone Ext: REDACTED
+Registrant Fax: REDACTED
+Registrant Fax Ext: REDACTED
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Registry Admin ID: REDACTED
+Admin Name: REDACTED
+Admin Organization: REDACTED
+Admin Street: REDACTED
+Admin City: REDACTED
+Admin State/Province: REDACTED
+Admin Postal Code: REDACTED
+Admin Country: REDACTED
+Admin Phone: REDACTED
+Admin Phone Ext: REDACTED
+Admin Fax: REDACTED
+Admin Fax Ext: REDACTED
+Admin Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Registry Tech ID: REDACTED
+Tech Name: REDACTED
+Tech Organization: REDACTED
+Tech Street: REDACTED
+Tech City: REDACTED
+Tech State/Province: REDACTED
+Tech Postal Code: REDACTED
+Tech Country: REDACTED
+Tech Phone: REDACTED
+Tech Phone Ext: REDACTED
+Tech Fax: REDACTED
+Tech Fax Ext: REDACTED
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Registry Billing ID: REDACTED
+Billing Name: REDACTED
+Billing Organization: REDACTED
+Billing Street: REDACTED
+Billing City: REDACTED
+Billing State/Province: REDACTED
+Billing Postal Code: REDACTED
+Billing Country: REDACTED
+Billing Phone: REDACTED
+Billing Phone Ext: REDACTED
+Billing Fax: REDACTED
+Billing Fax Ext: REDACTED
+Billing Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin or Tech contacts of the domain name.
+Name Server: alan.ns.cloudflare.com
+Name Server: aria.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:11:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+% The RyCE-whois database is protected through
+% the Austrian Copyright-Law. The query of individual
+% domains is allowed to the internet community
+% free of charge until further notice. All rights,
+% in particular the right of duplication, circulation
+% or usage, belong exclusively to punkt.wien GmbH,
+% unless you have an explicit written agreement
+% with RyCE GmbH.
+%
+%
+%
+% Die RyCE-Whois-Datenbank ist eine urheberrechtlich
+% geschÃ¼tzte Datenbank. Die Abfrage einzelner Domains
+% wird der Internet-Community bis auf weiteres
+% kostenlos ermÃ¶glicht. Das alleinige Recht auf
+% VervielfÃ¤ltigung, Verbreitung, Ãœbermittlung oder
+% Ã¶ffentliche Wiedergabe der Datenbank oder Teile
+% derselben liegt bei RyCE GmbH.

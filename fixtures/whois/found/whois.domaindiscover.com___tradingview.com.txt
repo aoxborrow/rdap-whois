@@ -1,0 +1,73 @@
+###%%% QRY: tradingview.com
+###%%% SRV: whois.domaindiscover.com
+###%%% TME: 2026-11-22T08:09:19Z
+
+Domain Name: TRADINGVIEW.COM
+Registry Domain ID: 
+Registrar WHOIS Server: whois.domaindiscover.com
+Registrar URL: https://www.tierra.net
+Updated Date: 2025-07-25T11:23:36Z
+Creation Date: 2010-03-20T10:43:54Z
+Registrar Registration Expiration Date: 2032-03-19T14:17:52Z
+Registrar: DomainSpot LLC
+Registrar IANA ID: 86
+Registrar Abuse Contact Email: icann-abuse-reports@tierra.net
+Registrar Abuse Contact Phone: +1.6193932105
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Whois Privacy Service
+Registrant Organization: Whois Privacy Service
+Registrant Street: PO BOX 501610
+Registrant City: San Diego
+Registrant State/Province: CA
+Registrant Postal Code: 92150-1610
+Registrant Country: US
+Registrant Phone: +1.6193932111
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: whois@emailaddressprotection.com
+Registry Admin ID:
+Admin Name: Whois Privacy Service
+Admin Organization: Whois Privacy Service
+Admin Street: PO BOX 501610
+Admin City: San Diego
+Admin State/Province: CA
+Admin Postal Code: 92150-1610
+Admin Country: US
+Admin Phone: +1.6193932111
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: whois@emailaddressprotection.com
+Registry Tech ID:
+Tech Name: Whois Privacy Service
+Tech Organization: Whois Privacy Service
+Tech Street: PO BOX 501610
+Tech City: San Diego
+Tech State/Province: CA
+Tech Postal Code: 92150-1610
+Tech Country: US
+Tech Phone: +1.6193932111
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: whois@emailaddressprotection.com
+Name Server: NS-1533.AWSDNS-63.ORG
+Name Server: NS-1853.AWSDNS-39.CO.UK
+Name Server: NS-234.AWSDNS-29.COM
+Name Server: NS-619.AWSDNS-13.NET
+DNSSEC:
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit https://icann.org/epp
+>>> Last update of WHOIS database: 2026-11-22T00:09:19Z <<<
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.

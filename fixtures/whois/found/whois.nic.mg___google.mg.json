@@ -1,0 +1,39 @@
+{
+  "query": "google.mg",
+  "server": "whois.nic.mg",
+  "domainId": "1915-nicmg",
+  "domainName": "google.mg",
+  "creationDate": "2009-06-18T08:38:20Z",
+  "expirationDate": "2027-11-26T21:00:00Z",
+  "registrarExpirationDate": "2027-11-26T21:00:00Z",
+  "updatedDate": "2026-10-28T19:14:51Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "MarkMonitor Inc.",
+  "registrarAddress": [
+    "1120 S. Rackham Way, Suite 300"
+  ],
+  "registrarCity": "Meridian",
+  "registrarPostalCode": "83642",
+  "registrarEmail": "ccops@markmonitor.com"
+}

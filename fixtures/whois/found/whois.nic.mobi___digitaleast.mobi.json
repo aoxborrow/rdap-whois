@@ -1,0 +1,30 @@
+{
+  "query": "digitaleast.mobi",
+  "server": "whois.nic.mobi",
+  "domainId": "01cfcaf45f134776b72845de50643165-DONUTS",
+  "domainName": "digitaleast.mobi",
+  "creationDate": "2017-12-06T20:59:48Z",
+  "expirationDate": "2026-12-06T20:59:48Z",
+  "updatedDate": "2025-02-17T01:46:22Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-266.awsdns-33.com",
+    "ns-968.awsdns-57.net",
+    "ns-1488.awsdns-58.org",
+    "ns-1659.awsdns-15.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1408",
+  "registrarIanaId": 1408,
+  "registrarName": "united-domains GmbH",
+  "registrarUrl": "http://www.united-domains.de",
+  "registrarAbuseEmail": "abuse@united-domains.de",
+  "registrarAbusePhone": "+49.8151368670",
+  "registrarWhoisServer": "whois.udag.net"
+}

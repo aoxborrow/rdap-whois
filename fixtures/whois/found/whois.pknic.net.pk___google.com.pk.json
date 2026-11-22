@@ -1,0 +1,16 @@
+{
+  "query": "google.com.pk",
+  "server": "whois.pknic.net.pk",
+  "domainName": "google.com.pk",
+  "creationDate": "2003-03-05T00:00:00Z",
+  "expirationDate": "2027-03-05T00:00:00Z",
+  "eppStatusRaw": [
+    "Domain is Registered"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ]
+}

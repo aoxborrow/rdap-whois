@@ -1,0 +1,34 @@
+{
+  "query": "newsroom.bi",
+  "server": "whois1.nic.bi",
+  "domainId": "114008NIC-BI",
+  "domainName": "newsroom.bi",
+  "creationDate": "2020-04-12T12:18:08Z",
+  "expirationDate": "2027-04-12T12:18:08Z",
+  "registrarExpirationDate": "2027-04-12T12:18:08Z",
+  "updatedDate": "2026-03-23T15:07:28Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "mary.ns.cloudflare.com",
+    "micah.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Netim",
+  "registrarWhoisServer": "whois.nic.bi",
+  "registrantId": "rju4u-x0RZL",
+  "registrantName": "Redacted | EU Registrar",
+  "registrantAddress": [
+    "Redacted | EU Registrar"
+  ],
+  "registrantCity": "Redacted | EU Registrar",
+  "registrantPostalCode": "Redacted | EU Registrar",
+  "registrantCountry": "ES",
+  "registrantPhone": "Redacted | EU Registrar",
+  "registrantEmail": "Redacted | EU Registrar"
+}

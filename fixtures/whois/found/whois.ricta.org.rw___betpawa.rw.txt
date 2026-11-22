@@ -1,0 +1,24 @@
+###%%% QRY: betpawa.rw
+###%%% SRV: whois.ricta.org.rw
+###%%% TME: 2026-11-22T08:10:56Z
+
+Domain Name: betpawa.rw
+Registry Domain ID: 78630RICTA
+Updated Date: 2026-04-02T17:43:03Z
+Creation Date: 2021-04-26T11:34:39Z
+Registry Expiry Date: 2027-04-26T11:34:39Z
+Registrar Registration Expiration Date: 2027-04-26T11:34:39Z
+Registrar: Marcaria.com LLC
+Registrar Phone: +1.3054348621
+Registrar Email: domains@marcaria.com
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Registry Registrant ID: 2696832RICTA
+Name Server: isla.ns.cloudflare.com
+Name Server: damian.ns.cloudflare.com
+>>> Last update of WHOIS database: 2026-11-22T08:02:12.222Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The Data in RICTA WHOIS database is provided by RICTA  for information purposes, and to assist persons in obtaining information about or related to a domain name registration record.RICTA does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will use this Data only for lawful purposes and that, under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail (spam); or  (2) enable high volume, automated, electronic processes that apply to RICTA  (or its systems). RICTA reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.

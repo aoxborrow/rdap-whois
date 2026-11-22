@@ -1,0 +1,27 @@
+{
+  "query": "moe.video",
+  "server": "whois.nic.video",
+  "domainId": "85cc83ccb9ec47c5abefe21a555c17fb-DONUTS",
+  "domainName": "moe.video",
+  "creationDate": "2015-05-06T19:38:26Z",
+  "expirationDate": "2025-05-06T19:38:26Z",
+  "updatedDate": "2024-12-05T16:30:31Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns4.moe.video",
+    "ns5.moe.video"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com"
+}

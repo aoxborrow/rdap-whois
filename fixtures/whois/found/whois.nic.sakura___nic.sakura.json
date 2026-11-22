@@ -1,0 +1,72 @@
+{
+  "query": "nic.sakura",
+  "server": "whois.nic.sakura",
+  "domainId": "00000IATNTEVD250TYO010B9N-SAKURA",
+  "domainName": "nic.sakura",
+  "creationDate": "2015-06-12T13:38:19Z",
+  "expirationDate": "2027-06-12T13:38:19Z",
+  "updatedDate": "2026-04-28T00:15:02Z",
+  "eppStatus": [
+    "serverDeleteProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited  https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.nic.sakura",
+    "ns2.nic.sakura",
+    "ns3.nic.sakura",
+    "ns4.nic.sakura"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1485",
+  "registrarIanaId": 1485,
+  "registrarName": "Japan Registry Services Co.,Ltd.",
+  "registrarUrl": "https://jprs.jp/registrar",
+  "registrarAbuseEmail": "gtld-contact@jprs.co.jp",
+  "registrarAbusePhone": "+81.352158451",
+  "registrarWhoisServer": "whois.registrar.sakura",
+  "registrantId": "00000KECCZW86OB0TYO01G10C-SAKURA",
+  "registrantName": "DotSakura Administrative Contact",
+  "registrantOrg": "SAKURA internet Inc.",
+  "registrantAddress": [
+    "4-20, Ofukacho, Kita-ku",
+    "Grand Front Osaka Tower A 35F"
+  ],
+  "registrantCity": "Osaka-shi",
+  "registrantState": "Osaka",
+  "registrantPostalCode": "530-0011",
+  "registrantCountry": "JP",
+  "registrantPhone": "+81.663764800",
+  "registrantFax": "+81.662924250",
+  "registrantEmail": "gtld-adminp@sakura.ad.jp",
+  "adminId": "00000KECCZW86OB0TYO01G10C-SAKURA",
+  "adminName": "DotSakura Administrative Contact",
+  "adminOrg": "SAKURA internet Inc.",
+  "adminAddress": [
+    "4-20, Ofukacho, Kita-ku",
+    "Grand Front Osaka Tower A 35F"
+  ],
+  "adminCity": "Osaka-shi",
+  "adminState": "Osaka",
+  "adminPostalCode": "530-0011",
+  "adminCountry": "JP",
+  "adminPhone": "+81.663764800",
+  "adminFax": "+81.662924250",
+  "adminEmail": "gtld-adminp@sakura.ad.jp",
+  "techId": "00000KECCZW86OB0TYO01G10C-SAKURA",
+  "techName": "DotSakura Administrative Contact",
+  "techOrg": "SAKURA internet Inc.",
+  "techAddress": [
+    "4-20, Ofukacho, Kita-ku",
+    "Grand Front Osaka Tower A 35F"
+  ],
+  "techCity": "Osaka-shi",
+  "techState": "Osaka",
+  "techPostalCode": "530-0011",
+  "techCountry": "JP",
+  "techPhone": "+81.663764800",
+  "techFax": "+81.662924250",
+  "techEmail": "gtld-adminp@sakura.ad.jp"
+}

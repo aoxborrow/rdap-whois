@@ -1,0 +1,31 @@
+{
+  "query": "google.td",
+  "server": "whois.nic.td",
+  "domainId": "607-nictd",
+  "domainName": "google.td",
+  "creationDate": "2019-09-05T00:00:00Z",
+  "expirationDate": "2027-09-10T00:00:00Z",
+  "registrarExpirationDate": "2027-09-10T00:00:00Z",
+  "updatedDate": "2026-08-09T15:42:24Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Afriregister Tchad",
+  "registrarAddress": [
+    "Avenue Charles Degaule"
+  ],
+  "registrarEmail": "team@afriregister.com"
+}

@@ -1,0 +1,34 @@
+{
+  "query": "intelligentrip.art",
+  "server": "whois.nic.art",
+  "domainId": "D434804736-CNIC",
+  "domainName": "intelligentrip.art",
+  "creationDate": "2024-02-21T10:25:11Z",
+  "expirationDate": "2026-02-21T23:59:59Z",
+  "updatedDate": "2025-02-01T10:23:11Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "bart.ns.cloudflare.com",
+    "novalee.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1599",
+  "registrarIanaId": 1599,
+  "registrarName": "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)",
+  "registrarAbuseEmail": "domainabuse@service.aliyun.com",
+  "registrarAbusePhone": "+86.95187",
+  "registrarWhoisServer": "grs-whois.hichina.com",
+  "registrantOrg": "tian jin yue zhi xin wang luo ke ji you xian gong si",
+  "registrantState": "tian jin",
+  "registrantCountry": "CN",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

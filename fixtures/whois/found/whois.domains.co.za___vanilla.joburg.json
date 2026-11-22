@@ -1,0 +1,33 @@
+{
+  "query": "vanilla.joburg",
+  "server": "whois.domains.co.za",
+  "domainId": "DOM_5S1-ZACITIES",
+  "domainName": "vanilla.joburg",
+  "creationDate": "2021-08-06T12:53:29Z",
+  "expirationDate": "2027-08-06T12:53:29Z",
+  "registrarExpirationDate": "2027-08-06T12:53:29Z",
+  "updatedDate": "2026-06-22T14:24:30Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.vanillaregistrar.co.za",
+    "ns2.vanillaregistrar.co.za",
+    "ns3.vanilla.joburg"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1645",
+  "registrarIanaId": 1645,
+  "registrarName": "DIAMATRIX C.C.",
+  "registrarUrl": "https://www.domains.co.za",
+  "registrarAbuseEmail": "abuse@domains.co.za",
+  "registrarAbusePhone": "+27.116409714",
+  "registrarWhoisServer": "whois.domains.co.za",
+  "registrantEmail": "https://contact.gtld-whois.com/385dde8bc812d6bfcc4c9d339af73c9e",
+  "adminEmail": "https://contact.gtld-whois.com/385dde8bc812d6bfcc4c9d339af73c9e",
+  "techEmail": "https://contact.gtld-whois.com/385dde8bc812d6bfcc4c9d339af73c9e"
+}

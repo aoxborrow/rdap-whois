@@ -1,0 +1,15 @@
+###%%% QRY: notfound-testing-sorry.tatar
+###%%% SRV: whois.nic.tatar
+###%%% TME: 2025-03-20T16:07:29Z
+
+The queried object does not exist: NOTFOUND-TESTING-SORRY.TATAR
+
+>>> Last update of WHOIS database: 2025-03-20T16:03:01Z <<<
+
+% For more information on Whois status codes, please visit
+% https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://whois.nic.tatar/terms_of_use.html (in Russian)
+% http://whois.nic.tatar/terms_of_use.en.html (in English).

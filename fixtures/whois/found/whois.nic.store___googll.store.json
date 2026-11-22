@@ -1,0 +1,27 @@
+{
+  "query": "googll.store",
+  "server": "whois.nic.store",
+  "domainId": "D263379667-CNIC",
+  "domainName": "googll.store",
+  "creationDate": "2021-12-10T10:10:58Z",
+  "expirationDate": "2028-12-10T23:59:59Z",
+  "updatedDate": "2026-11-18T14:22:18Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "megan.ns.cloudflare.com",
+    "norm.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarUrl": "https://reg.ru",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarWhoisServer": "https://whois.nic.love"
+}

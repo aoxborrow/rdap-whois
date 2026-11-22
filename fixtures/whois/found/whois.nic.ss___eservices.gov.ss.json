@@ -1,0 +1,38 @@
+{
+  "query": "eservices.gov.ss",
+  "server": "whois.nic.ss",
+  "domainId": "112-SSNIC",
+  "domainName": "eservices.gov.ss",
+  "creationDate": "2020-03-03T11:01:17Z",
+  "expirationDate": "2030-03-03T11:01:17Z",
+  "registrarExpirationDate": "2030-03-03T11:01:17Z",
+  "updatedDate": "2020-03-08T13:00:12Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns1.digitalocean.com",
+    "ns2.digitalocean.com",
+    "ns3.digitalocean.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "SSNIC",
+  "registrarAddress": [
+    "Juba   South Sudan"
+  ],
+  "registrarCity": "Juba",
+  "registrarEmail": "admin@nic.ss",
+  "registrantId": "48-SSNIC",
+  "registrantName": "South Sudan Network Information Centre",
+  "registrantAddress": [
+    "Gumbo"
+  ],
+  "registrantCity": "Juba",
+  "registrantCountry": "SS",
+  "registrantPhone": "+21154001154",
+  "registrantEmail": "admin@nic.ss"
+}

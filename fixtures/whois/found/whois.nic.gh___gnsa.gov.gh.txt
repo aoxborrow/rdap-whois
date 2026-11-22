@@ -1,0 +1,59 @@
+###%%% QRY: gnsa.gov.gh
+###%%% SRV: whois.nic.gh
+###%%% TME: 2026-07-16T23:34:11Z
+
+Domain Name: gnsa.gov.gh
+Registry Domain ID: 69285-gh
+Registry WHOIS Server: whois.nic.gh
+Creation Date: 2025-10-02T12:55:34.122Z
+Registry Expiry Date: 2026-10-02T12:55:34.275Z
+Registrar Registration Expiration Date: 2026-10-02T12:55:34.275Z
+Registrar: NITA GOV Registrar
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: fLPAx-pdDFk
+Registrant Name: RUTH DELA SEDDOH (DIRECTOR GENERAL)
+Registrant Organization: National Service  Authority
+Registrant Street: 46 PATRICE LAMUMBA ROAD AIRPORT RESIDENCIAL AREA
+Registrant City: GREATER ACCRA REGION
+Registrant Country: GH
+Registrant Phone: +55.3294969
+Registrant Email: info@gnsa.gov.gh
+Registry Admin ID: dPZjQ-PDXjb
+Admin Name: Dr. Mark-Oliver Kevor (Director General)
+Admin Organization: NATIONAL INFORMATION TECHNOLOGY AGENCY(NITA)
+Admin Street: Accra
+Admin City: Greater Accra
+Admin Country: GH
+Admin Phone: 0
+Admin Email: mark-oliver.kevor@nita.gov.gh
+Registry Tech ID: zsVsl-OCblv
+Tech Name: Solomon Richardson
+Tech Organization: NITA
+Tech Street: 3rd Floor Ministry of Communications Office Complex
+Tech Street: Abdul Diof Road, Ridge.
+Tech City: Accra
+Tech State/Province: Greater Accra
+Tech Postal Code: PMB, Ministries Post Office
+Tech Country: GH
+Tech Phone: +233.302661777
+Tech Email: solomon.richardson@nita.gov.gh
+Registry Billing ID: HQIyV-xLUAO
+Billing Name: Dr. Mark-Oliver Kevor (Director General)
+Billing Organization: NATIONAL INFORMATION TECHNOLOGY AGENCY(NITA)
+Billing Street: Accra
+Billing City: Greater Accra
+Billing Country: GH
+Billing Phone: 0
+Billing Email: mark-oliver.kevor@nita.gov.gh
+Name Server: ns1.nita.gov.gh
+Name Server: ns2.nita.gov.gh
+Name Server: ns3.nita.gov.gh
+Name Server: ns5.nita.gov.gh
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T18:10:15.564Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to Ghregistry it's members (or Ghregistry or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

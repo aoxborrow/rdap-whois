@@ -1,0 +1,72 @@
+{
+  "query": "nic.jprs",
+  "server": "whois.nic.jprs",
+  "domainId": "00000IBC64RKJ1F0TYO02F7Q6-JPRS",
+  "domainName": "nic.jprs",
+  "creationDate": "2015-06-25T12:30:53Z",
+  "expirationDate": "2027-06-25T12:30:53Z",
+  "updatedDate": "2026-05-11T00:15:01Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok  https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.nic.jprs",
+    "ns2.nic.jprs",
+    "ns3.nic.jprs",
+    "ns4.nic.jprs"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1721",
+  "registrarIanaId": 1721,
+  "registrarName": "JPRS Registrar Co., Ltd.",
+  "registrarUrl": "http://jprs-registrar.co.jp",
+  "registrarAbuseEmail": "contact@jprs-registrar.co.jp",
+  "registrarAbusePhone": "+81.352158473",
+  "registrarWhoisServer": "whois.registrar.jprs",
+  "registrantId": "00000JB1U54F52B0TYO01Q710-JPRS",
+  "registrantName": "Japan Registry Services Co., Ltd.",
+  "registrantOrg": "Japan Registry Services Co., Ltd.",
+  "registrantAddress": [
+    "3-8-1 Nishi-Kanda",
+    "Chiyoda First Bldg. East 13F"
+  ],
+  "registrantCity": "Chiyoda-ku",
+  "registrantState": "Tokyo",
+  "registrantPostalCode": "101-0065",
+  "registrantCountry": "JP",
+  "registrantPhone": "+81.352158451",
+  "registrantFax": "+81.352158452",
+  "registrantEmail": "info@jprs.jp",
+  "adminId": "00000JB1U54F52B0TYO01Q710-JPRS",
+  "adminName": "Japan Registry Services Co., Ltd.",
+  "adminOrg": "Japan Registry Services Co., Ltd.",
+  "adminAddress": [
+    "3-8-1 Nishi-Kanda",
+    "Chiyoda First Bldg. East 13F"
+  ],
+  "adminCity": "Chiyoda-ku",
+  "adminState": "Tokyo",
+  "adminPostalCode": "101-0065",
+  "adminCountry": "JP",
+  "adminPhone": "+81.352158451",
+  "adminFax": "+81.352158452",
+  "adminEmail": "info@jprs.jp",
+  "techId": "00000JB1U54F52B0TYO01Q710-JPRS",
+  "techName": "Japan Registry Services Co., Ltd.",
+  "techOrg": "Japan Registry Services Co., Ltd.",
+  "techAddress": [
+    "3-8-1 Nishi-Kanda",
+    "Chiyoda First Bldg. East 13F"
+  ],
+  "techCity": "Chiyoda-ku",
+  "techState": "Tokyo",
+  "techPostalCode": "101-0065",
+  "techCountry": "JP",
+  "techPhone": "+81.352158451",
+  "techFax": "+81.352158452",
+  "techEmail": "info@jprs.jp"
+}

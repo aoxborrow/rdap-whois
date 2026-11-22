@@ -1,0 +1,27 @@
+{
+  "query": "gazprombank.investments",
+  "server": "whois.nic.investments",
+  "domainId": "5b6a22e974904238af7f88a05e5405ca-DONUTS",
+  "domainName": "gazprombank.investments",
+  "creationDate": "2020-07-03T06:44:46Z",
+  "expirationDate": "2025-07-03T06:44:46Z",
+  "updatedDate": "2024-12-05T15:25:05Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.reg.ru",
+    "ns2.reg.ru"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com"
+}

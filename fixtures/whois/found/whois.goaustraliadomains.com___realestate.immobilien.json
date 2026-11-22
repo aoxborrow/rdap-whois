@@ -1,0 +1,61 @@
+{
+  "query": "realestate.immobilien",
+  "server": "whois.goaustraliadomains.com",
+  "domainId": "01279e6ace764005bdb8ef79161e6b9f-D",
+  "domainName": "realestate.immobilien",
+  "creationDate": "2014-05-28T17:00:05Z",
+  "expirationDate": "2028-05-28T17:00:05Z",
+  "registrarExpirationDate": "2028-05-28T17:00:05Z",
+  "updatedDate": "2026-04-24T10:25:20Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.realestate.immobilien",
+    "ns2.realestate.immobilien"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1151",
+  "registrarIanaId": 1151,
+  "registrarName": "Go Australia Domains, LLC",
+  "registrarUrl": "https://www.goaustraliadomains.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "whois.godaddy.com",
+  "registrantId": "CR764300313",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "https://www.godaddy.com/whois/results.aspx?domain=REALESTATE.IMMOBILIEN&action=contactDomainOwner",
+  "techId": "CR764300300",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "https://www.godaddy.com/whois/results.aspx?domain=REALESTATE.IMMOBILIEN&action=contactDomainOwner"
+}

@@ -1,0 +1,31 @@
+{
+  "query": "nic.xn--io0a7i",
+  "server": "whois.ngtld.cn",
+  "domainId": "2-CNNIC",
+  "domainName": "nic.xn--io0a7i",
+  "creationDate": "2014-04-15T09:46:39Z",
+  "expirationDate": "2027-04-15T09:46:39Z",
+  "updatedDate": "2026-05-31T16:05:02Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a.ngtld.cn",
+    "b.ngtld.cn",
+    "c.ngtld.cn",
+    "d.ngtld.cn",
+    "e.ngtld.cn"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Reserved for non-billable transactions where Registry Operator acts as Registrar",
+  "registrarUrl": "http://whois.ngtld.cn",
+  "registrarAbuseEmail": "******",
+  "registrarAbusePhone": "******",
+  "registrarWhoisServer": "whois.ngtld.cn"
+}

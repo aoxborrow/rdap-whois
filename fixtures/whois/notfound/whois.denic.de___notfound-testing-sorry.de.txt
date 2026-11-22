@@ -1,0 +1,6 @@
+###%%% QRY: notfound-testing-sorry.de
+###%%% SRV: whois.denic.de
+###%%% TME: 2025-03-20T18:15:30Z
+
+Domain: notfound-testing-sorry.de
+Status: free

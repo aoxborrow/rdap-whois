@@ -1,0 +1,40 @@
+{
+  "query": "blogspot.mk",
+  "server": "whois.marnet.mk",
+  "domainName": "blogspot.mk",
+  "creationDate": "2011-09-23T14:00:00Z",
+  "expirationDate": "2027-09-23T00:00:00Z",
+  "updatedDate": "2014-08-29T13:10:29Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "UNET-REG",
+  "registrantId": "UNET-R11",
+  "registrantName": "Google LLC",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "DATA REDACTED",
+    "US"
+  ],
+  "registrantPhone": "DATA REDACTED",
+  "registrantEmail": "ccops@markmonitor.com",
+  "adminId": "UNET-C12",
+  "adminName": "MarkMonitor Inc..",
+  "adminAddress": [
+    "DATA REDACTED",
+    "US"
+  ],
+  "adminPhone": "DATA REDACTED",
+  "adminEmail": "ccops@markmonitor.com",
+  "techId": "UNET-C12",
+  "techName": "MarkMonitor Inc..",
+  "techAddress": [
+    "DATA REDACTED",
+    "US"
+  ],
+  "techPhone": "DATA REDACTED",
+  "techEmail": "ccops@markmonitor.com"
+}

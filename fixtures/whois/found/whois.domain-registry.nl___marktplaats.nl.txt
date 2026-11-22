@@ -1,0 +1,26 @@
+###%%% QRY: marktplaats.nl
+###%%% SRV: whois.domain-registry.nl
+###%%% TME: 2026-11-22T08:08:10Z
+
+Domain name: marktplaats.nl
+Status:      active
+
+Registrar:
+   MarkMonitor Inc.
+   1120 S. Rackham Way Suite 300 IDAHO
+   83642 Meridian
+   United States of America
+
+DNSSEC:      no
+
+Domain nameservers:
+   ns-1656.awsdns-15.co.uk
+   ns-1512.awsdns-61.org
+   ns-758.awsdns-30.net
+   ns-449.awsdns-56.com
+
+Creation Date: 1999-05-19
+
+Updated Date: 2024-07-08
+
+Record maintained by: SIDN BV

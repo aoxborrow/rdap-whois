@@ -1,0 +1,115 @@
+###%%% QRY: ukr.radio
+###%%% SRV: whois.nic.radio
+###%%% TME: 2026-07-16T23:48:10Z
+
+Domain Name: ukr.radio
+Registry Domain ID: Dammw3122-RADIO
+Registrar WHOIS Server: whois.corehub.net
+Registrar URL: http://www.corehub.net
+Updated Date: 2026-02-27T09:31:12.378Z
+Creation Date: 2019-06-10T08:15:47.659Z
+Registry Expiry Date: 2027-06-10T08:15:47.659Z
+Registrar Registration Expiration Date: 
+Registrar: COREhub
+Registrar IANA ID: 15
+Registrar Abuse Contact Email: abuse@corehub.net
+Registrar Abuse Contact Phone: +34.935275235
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: Public Broadcasting Company of Ukraine
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: Kyiv region
+Registrant Postal Code: 
+Registrant Country: UA
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: us20-west.irondns.net
+Name Server: us19-east.irondns.net
+DNSSEC: unsigned
+Canonical Name: ukr.radio
+IDN Tag: Latn
+Registrant Ext. Name: 
+Registrant Ext. Organization: Public Broadcasting Company of Ukraine
+Registrant Ext. Street: 
+Registrant Ext. City: 
+Registrant Ext. State/Province: Kyiv region
+Registrant Ext. Postal Code: 
+Registrant Ext. Country: UA
+Tech Ext. Name: 
+Tech Ext. Organization: 
+Tech Ext. Street: 
+Tech Ext. City: 
+Tech Ext. State/Province: 
+Tech Ext. Postal Code: 
+Tech Ext. Country: 
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2026-07-16T23:47:47.856Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Terms and Conditions of Use
+
+The data in this record is provided by the European Broadcasting Union
+("the Registry") for informational purposes only. The Registry
+does not guarantee its accuracy and cannot, under any circumstances,
+be held liable in case the stored information would prove to be
+wrong, incomplete or not accurate in any sense.
+
+NOTICE: Access to the domain name's information is restricted in
+order to protect the privacy of Registrants. If you believe you have
+a legitimate interest in having access to part or all of the data not
+published in the above output, please contact the Registrar of record
+at the address shown in the output above OR the Registry at the
+following address:
+
+WHOISdataAccess@nic.radio
+
+The compilation, repackaging, dissemination or other use of the data
+in this Whois database is expressly prohibited without the
+prior written consent of the Registry.
+
+The Registry maintains the right to restrict your access to the Whois
+database in its sole discretion to ensure operational stability. The
+Registry may restrict or terminate your access to the Whois database
+for failure to abide by these terms of use. The Registry reserves the
+right to modify these terms at any time.
+
+By maintaining the connection you assure that you have a legitimate
+interest in the data and that you will only use it for the stated
+purposes. You are aware the Registry maintains the right to initiate
+legal proceedings against you in the event of any breach of this
+assurance and to bar you from using its Whois service.
+
+End of Whois record.

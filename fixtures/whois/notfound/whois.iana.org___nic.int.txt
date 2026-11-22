@@ -1,0 +1,13 @@
+###%%% QRY: nic.int
+###%%% SRV: whois.iana.org
+###%%% TME: 2026-07-14T10:41:56Z
+
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 0 objects.
+%
+% You queried for nic.int but this server does not have
+% any data for nic.int.
+%
+% If you need further information please check the web site
+% or use -h for help

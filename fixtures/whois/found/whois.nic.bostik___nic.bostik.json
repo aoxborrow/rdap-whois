@@ -1,0 +1,27 @@
+{
+  "query": "nic.bostik",
+  "server": "whois.nic.bostik",
+  "domainId": "DOM000000000002-BOSTIK",
+  "domainName": "nic.bostik",
+  "creationDate": "2015-08-28T15:12:54Z",
+  "expirationDate": "2027-08-28T15:12:54Z",
+  "updatedDate": "2026-10-12T15:15:45Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "g.ext.nic.fr",
+    "ns1.nic.fr",
+    "ns2.nic.fr",
+    "ns3.nic.fr"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operations",
+  "registrarWhoisServer": "whois.nic.bostik"
+}

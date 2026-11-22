@@ -1,0 +1,69 @@
+###%%% QRY: nabp.pharmacy
+###%%% SRV: whois.nic.pharmacy
+###%%% TME: 2025-03-21T04:07:38Z
+
+Domain Name: NABP.PHARMACY
+Registry Domain ID: D26170-PHARMACY
+Registrar WHOIS Server: 
+Registrar URL: 
+Updated Date: 2023-01-11T16:19:30Z
+Creation Date: 2016-03-02T14:51:32Z
+Registry Expiry Date: 2030-03-01T23:59:59Z
+Registrar: National Association of Boards of Pharmacy
+Registrar IANA ID: 9998
+Registrar Abuse Contact Email: abuse@safe.pharmacy
+Registrar Abuse Contact Phone: +18473914497
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C2283-PHARMACY
+Registrant Name: NABP
+Registrant Organization: National Association of Boards of Pharmacy
+Registrant Street: 1600 Feehanville Drive
+Registrant City: Mt. Prospect
+Registrant State/Province: IL
+Registrant Postal Code: 60056
+Registrant Country: US
+Registrant Phone: +1.8473914497
+Registrant Email: abuse@safe.pharmacy
+Registry Admin ID: C2283-PHARMACY
+Admin Name: NABP
+Admin Organization: National Association of Boards of Pharmacy
+Admin Street: 1600 Feehanville Drive
+Admin City: Mt. Prospect
+Admin State/Province: IL
+Admin Postal Code: 60056
+Admin Country: US
+Admin Phone: +1.8473914497
+Admin Email: abuse@safe.pharmacy
+Registry Tech ID: C2283-PHARMACY
+Tech Name: NABP
+Tech Organization: National Association of Boards of Pharmacy
+Tech Street: 1600 Feehanville Drive
+Tech City: Mt. Prospect
+Tech State/Province: IL
+Tech Postal Code: 60056
+Tech Country: US
+Tech Phone: +1.8473914497
+Tech Email: abuse@safe.pharmacy
+Registry Billing ID: C2283-PHARMACY
+Billing Name: NABP
+Billing Organization: National Association of Boards of Pharmacy
+Billing Street: 1600 Feehanville Drive
+Billing City: Mt. Prospect
+Billing State/Province: IL
+Billing Postal Code: 60056
+Billing Country: US
+Billing Phone: +1.8473914497
+Billing Email: abuse@safe.pharmacy
+Name Server: ns-173.awsdns-21.com.
+Name Server: ns-1073.awsdns-06.org.
+Name Server: ns-2025.awsdns-61.co.uk.
+Name Server: ns-824.awsdns-39.net.
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-21T04:07:37Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This WHOIS information is provided for free by Nominet UK, the central registry for .pharmacy domain names. This information and the .pharmacy WHOIS are:
+Copyright Nominet UK 2025.
+You may not access the .pharmacy WHOIS or use any data from it except as permitted by the terms of use available in full at http://www.nominet.org.uk/whois, which includes restrictions on: (A) use of the data for advertising, or its repackaging, recompilation, redistribution or reuse (B) obscuring, removing or hiding any or all of this notice and (C) exceeding query rate or volume limits. The data is provided on an 'as-is' basis and may lag behind the register. No guarantee is given as to the accuracy of the data provided. Access may be withdrawn or restricted at any time.

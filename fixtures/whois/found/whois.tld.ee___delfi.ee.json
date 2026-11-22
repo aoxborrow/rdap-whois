@@ -1,0 +1,32 @@
+{
+  "query": "delfi.ee",
+  "server": "whois.tld.ee",
+  "domainName": "delfi.ee",
+  "creationDate": "2010-07-04T03:59:01Z",
+  "expirationDate": "2027-11-17T00:00:00Z",
+  "updatedDate": "2026-10-29T08:05:22Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok (paid and in zone)"
+  ],
+  "nameservers": [
+    "ns-350.awsdns-43.com",
+    "ns-1018.awsdns-63.net",
+    "ns-1049.awsdns-03.org",
+    "ns-1864.awsdns-41.co.uk"
+  ],
+  "registrarName": "Zone Media OÜ",
+  "registrarPhone": "+372 6886886",
+  "registrarUrl": "http://www.zone.ee",
+  "registrantName": "AS EKSPRESS MEEDIA",
+  "registrantOrg": "10586863",
+  "registrantCountry": "EE",
+  "registrantPhone": "Not Disclosed - Visit www.internet.ee for webbased WHOIS",
+  "registrantEmail": "Not Disclosed - Visit www.internet.ee for webbased WHOIS",
+  "adminName": "Not Disclosed - Visit www.internet.ee for webbased WHOIS",
+  "adminEmail": "Not Disclosed - Visit www.internet.ee for webbased WHOIS",
+  "techName": "Not Disclosed - Visit www.internet.ee for webbased WHOIS",
+  "techEmail": "Not Disclosed - Visit www.internet.ee for webbased WHOIS"
+}

@@ -1,0 +1,95 @@
+{
+  "minedAt": "2026-07-16T05:52:06.667Z",
+  "fixtures": 1391,
+  "minServers": 3,
+  "foldable": [],
+  "conflicts": [
+    {
+      "key": "e-mail",
+      "field": "registrar_email",
+      "servers": 5,
+      "occurrences": 5,
+      "likexian": null,
+      "keyIsNew": false,
+      "examples": [
+        "e-mail=support@afnic.fr",
+        "e-mail=support@afnic.fr",
+        "e-mail=support@ovh.net"
+      ]
+    },
+    {
+      "key": "fax-no",
+      "field": "registrar_fax",
+      "servers": 4,
+      "occurrences": 11,
+      "likexian": null,
+      "keyIsNew": false,
+      "examples": [
+        "fax-no=+33.139308301",
+        "fax-no=+33.139308301",
+        "fax-no=+33.139308301"
+      ]
+    },
+    {
+      "key": "registrant",
+      "field": "registrant_org",
+      "servers": 4,
+      "occurrences": 4,
+      "likexian": null,
+      "keyIsNew": false,
+      "examples": [
+        "Registrant=Google LLC",
+        "Registrant=Google Inc.",
+        "Registrant=Google LLC"
+      ]
+    },
+    {
+      "key": "country",
+      "field": "registrar_country",
+      "servers": 3,
+      "occurrences": 10,
+      "likexian": null,
+      "keyIsNew": false,
+      "examples": [
+        "country=FR",
+        "country=FR",
+        "country=FR"
+      ]
+    }
+  ],
+  "ambiguous": [
+    {
+      "key": "name",
+      "fields": {
+        "registrant_name": 12,
+        "registrar_name": 5,
+        "domain_name": 2,
+        "admin_name": 2,
+        "tech_name": 2,
+        "billing_name": 1
+      }
+    },
+    {
+      "key": "phone",
+      "fields": {
+        "registrar_phone": 9,
+        "tech_phone": 2,
+        "billing_phone": 1
+      }
+    },
+    {
+      "key": "organization name",
+      "fields": {
+        "registrar_name": 2,
+        "registrant_org": 1
+      }
+    },
+    {
+      "key": "nic handle",
+      "fields": {
+        "registrar_id": 2,
+        "admin_id": 1
+      }
+    }
+  ]
+}

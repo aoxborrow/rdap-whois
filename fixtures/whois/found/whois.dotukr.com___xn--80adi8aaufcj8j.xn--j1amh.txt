@@ -1,0 +1,80 @@
+###%%% QRY: xn--80adi8aaufcj8j.xn--j1amh
+###%%% SRV: whois.dotukr.com
+###%%% TME: 2026-07-16T11:38:37Z
+
+Whois Server Version 1.0
+Domain Name (PUNYCODE): xn--80adi8aaufcj8j.xn--j1amh
+Domain name (UTF8): тестування.укр
+
+Registry Domain ID: D00106612-ukr
+
+Updated Date: 29-May-2026 05:53:56 UTC
+Creation Date: 01-Jun-2014 09:16:52 UTC
+Expiration Date: 01-Jun-2027 09:16:52 UTC
+
+Registry Status: ok
+
+Registrar: ТОВ "Сервіс Онлайн"
+Registrar URL: https://drs.ua
+Registrar ID: drsua
+Registrar Abuse Contact Email: support@drs.ua
+Registrar Abuse Contact Phone: +380445933225
+
+Registry Registrant ID: gdvkeuzhbwrzodwh
+Registrant Name (Organization): hidden
+Registrant Street: hidden
+Registrant City: hidden
+Registrant Postal Code: hidden
+Registrant Country: hidden
+Registrant Phone: hidden
+Registrant Phone Ext: hidden
+Registrant Fax: hidden
+Registrant Fax Ext: hidden
+Registrant Email: hidden
+
+Registry Admin ID: gdvkeuzhbwrzodwh
+Admin Name: hidden
+Admin Organization: hidden
+Admin Street: hidden
+Admin City: hidden
+Admin Postal Code: hidden
+Admin Country: hidden
+Admin Phone: hidden
+Admin Phone Ext: hidden
+Admin Fax: hidden
+Admin Fax Ext: hidden
+Admin Email: hidden
+
+Registry Tech ID: sdkptdtzwnyuhjgw
+Tech Name: Petro Khylyuk (Petro Khylyuk)
+Tech Organization: UAhosting.com.ua (UAhosting.com.ua)
+Tech Street: a/s 7973 (a/s 7973)
+Tech City: Lviv (Lviv)
+Tech Postal Code: 79008 (79008)
+Tech Country: UA (UA)
+Tech Phone: +380.322539632
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: hosting@uahosting.com.ua
+
+Registry Billing ID: gdvkeuzhbwrzodwh
+Billing Name: hidden
+Billing Organization: hidden
+Billing Street: hidden
+Billing City: hidden
+Billing Postal Code: hidden
+Billing Country: hidden
+Billing Phone: hidden
+Billing Phone Ext: hidden
+Billing Fax: hidden
+Billing Fax Ext: hidden
+Billing Email: hidden
+
+Domain servers in listed order:
+ns2.gmhost.com.ua
+ns3.gmhost.com.ua
+
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 16-Jul-2026 11:37:46 UTC <<<

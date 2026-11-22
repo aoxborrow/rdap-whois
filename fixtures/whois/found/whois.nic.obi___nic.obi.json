@@ -1,0 +1,36 @@
+{
+  "query": "nic.obi",
+  "server": "whois.nic.obi",
+  "domainId": "11f6508e45c64a77851aa58e971146cb-DONUTS",
+  "domainName": "nic.obi",
+  "creationDate": "2014-11-03T19:29:47Z",
+  "expirationDate": "2027-11-03T19:29:47Z",
+  "updatedDate": "2026-11-03T19:30:24Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "a0.nic.obi",
+    "a2.nic.obi",
+    "b0.nic.obi",
+    "c0.nic.obi"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

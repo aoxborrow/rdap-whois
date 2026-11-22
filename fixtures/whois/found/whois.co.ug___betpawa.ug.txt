@@ -1,0 +1,51 @@
+###%%% QRY: betpawa.ug
+###%%% SRV: whois.co.ug
+###%%% TME: 2026-11-22T08:13:53Z
+
+**********************************************************
+*            The UG ccTLD Registry Database              *
+**********************************************************
+
+Domain name:                    betpawa.ug
+Status:                         ACTIVE
+Locked:                         No
+Expires On:                     2027-09-29
+Registered On:                  2015-09-03
+Renewed On:                     2026-09-07
+Nameserver:                     damian.ns.cloudflare.com
+Nameserver:                     isla.ns.cloudflare.com
+
+Registrant Contact Information:
+Registrant Name:                Pawatech Gulf IP FZCO
+Registrant Organization:        PAWATECH GULF IP - FZCO
+Registrant Country:             AE
+Registrant State / Province:    Dubai
+Registrant City:                Dubai
+Registrant Address:             IFZA Business Park, Premises Number DDP, Makani Number A1 – 3641379065
+Registrant Postal Code:         77531 – 001
+Registrant Phone:               +1.3054348621
+Registrant Email:               domains@marcaria.com
+
+Administrative Contact Information:
+Admin Name:                     Francisco Fuentealba
+Admin Organization:             MARCARIA.COM LLC
+Admin Country:                  US
+Admin State / Province:         FL
+Admin City:                     Miami
+Admin Address:                  8345 NW 66 ST #B1673
+Admin Postal Code:              33166
+Admin Phone:                    13054348621
+Admin Email:                    domains@marcaria.com
+
+Technical Contact Information:
+Tech Name:                      Francisco Fuentealba
+Tech Organization:              MARCARIA.COM LLC
+Tech Country:                   US
+Tech State / Province:          FL
+Tech City:                      Miami
+Tech Address:                   8345 NW 66 ST #B1673
+Tech Postal Code:               33166
+Tech Phone:                     13054348621
+Tech Email:                     domains@marcaria.com
+
+Information Last Updated:       2026-09-07T18:09:27.000+03:00

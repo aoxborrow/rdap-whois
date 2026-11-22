@@ -1,0 +1,150 @@
+{
+  "generatedAt": "2026-07-14T06:19:16.696Z",
+  "sources": [
+    "debian/tld_serv_list",
+    "weppos/whois"
+  ],
+  "input": {
+    "deadWhois": 176,
+    "probed": 176
+  },
+  "bySource": {
+    "debian/tld_serv_list": {
+      "candidates": 4,
+      "verifiedAlive": 4,
+      "adopted": 4
+    },
+    "weppos/whois": {
+      "candidates": 10,
+      "verifiedAlive": 7,
+      "adopted": 5
+    }
+  },
+  "discoveredThisRun": {
+    "aco": {
+      "server": "whois.afilias-srs.net",
+      "source": "weppos/whois"
+    },
+    "apple": {
+      "server": "whois.afilias-srs.net",
+      "source": "weppos/whois"
+    },
+    "ga": {
+      "server": "whois.nic.ga",
+      "source": "debian/tld_serv_list"
+    },
+    "gea": {
+      "server": "whois.afilias-srs.net",
+      "source": "weppos/whois"
+    },
+    "net.za": {
+      "server": "net-whois.registry.net.za",
+      "source": "debian/tld_serv_list"
+    },
+    "pioneer": {
+      "server": "whois.nic.gmo",
+      "source": "weppos/whois"
+    },
+    "sc": {
+      "server": "whois.afilias-grs.info",
+      "source": "weppos/whois"
+    },
+    "vi": {
+      "server": "whois.nic.vi",
+      "source": "debian/tld_serv_list"
+    },
+    "web.za": {
+      "server": "web-whois.registry.net.za",
+      "source": "debian/tld_serv_list"
+    }
+  },
+  "attempts": [
+    {
+      "tld": "aco",
+      "source": "weppos/whois",
+      "host": "whois.afilias-srs.net",
+      "classification": "healthy"
+    },
+    {
+      "tld": "apple",
+      "source": "weppos/whois",
+      "host": "whois.afilias-srs.net",
+      "classification": "healthy"
+    },
+    {
+      "tld": "circle",
+      "source": "weppos/whois",
+      "host": "whois.nic.cirle",
+      "classification": "dead-candidate",
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "ga",
+      "source": "debian/tld_serv_list",
+      "host": "whois.nic.ga",
+      "classification": "healthy"
+    },
+    {
+      "tld": "gea",
+      "source": "weppos/whois",
+      "host": "whois.afilias-srs.net",
+      "classification": "healthy"
+    },
+    {
+      "tld": "lancaster",
+      "source": "weppos/whois",
+      "host": "whois-lancaster.nic.fr",
+      "classification": "dead-candidate",
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "net.za",
+      "source": "debian/tld_serv_list",
+      "host": "net-whois.registry.net.za",
+      "classification": "healthy"
+    },
+    {
+      "tld": "net.za",
+      "source": "weppos/whois",
+      "host": "net-whois.registry.net.za",
+      "classification": "healthy"
+    },
+    {
+      "tld": "pioneer",
+      "source": "weppos/whois",
+      "host": "whois.nic.gmo",
+      "classification": "healthy"
+    },
+    {
+      "tld": "sc",
+      "source": "weppos/whois",
+      "host": "whois.afilias-grs.info",
+      "classification": "healthy"
+    },
+    {
+      "tld": "vi",
+      "source": "debian/tld_serv_list",
+      "host": "whois.nic.vi",
+      "classification": "healthy"
+    },
+    {
+      "tld": "web.za",
+      "source": "debian/tld_serv_list",
+      "host": "web-whois.registry.net.za",
+      "classification": "healthy"
+    },
+    {
+      "tld": "web.za",
+      "source": "weppos/whois",
+      "host": "web-whois.registry.net.za",
+      "classification": "healthy"
+    },
+    {
+      "tld": "xn--ses554g",
+      "source": "weppos/whois",
+      "host": "whois.registry.knet.cn",
+      "classification": "dead-candidate",
+      "detail": "Connection error: Proxy connection timed out"
+    }
+  ]
+}

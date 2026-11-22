@@ -1,0 +1,36 @@
+{
+  "query": "nic.bloomberg",
+  "server": "whois.nic.bloomberg",
+  "domainId": "85ada51bf0b745feb5f963db2a60adf7-DONUTS",
+  "domainName": "nic.bloomberg",
+  "creationDate": "2014-08-14T18:28:42Z",
+  "expirationDate": "2027-08-14T18:28:42Z",
+  "updatedDate": "2026-09-28T18:29:34Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.bloomberg",
+    "v0n1.nic.bloomberg",
+    "v0n2.nic.bloomberg",
+    "v0n3.nic.bloomberg",
+    "v2n0.nic.bloomberg",
+    "v2n1.nic.bloomberg"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

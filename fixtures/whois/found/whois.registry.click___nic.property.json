@@ -1,0 +1,32 @@
+{
+  "query": "nic.property",
+  "server": "whois.registry.click",
+  "domainId": "DO_172b7401a35a2e5bff31d02d71e115ba-ISC",
+  "domainName": "nic.property",
+  "creationDate": "2013-09-16T14:21:26Z",
+  "expirationDate": "2027-09-16T14:21:26Z",
+  "updatedDate": "2026-10-31T14:22:14Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Tucows Registry Services",
+  "registrarUrl": "https://tucowsregistry.com",
+  "registrarAbuseEmail": "ry-services@tucows.com",
+  "registrarAbusePhone": "+1.8003716992",
+  "registrarWhoisServer": "whois.tucowsregistry.net"
+}

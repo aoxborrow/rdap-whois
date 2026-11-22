@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.li
+###%%% SRV: whois.nic.li
+###%%% TME: 2025-03-20T18:31:18Z
+
+Requests of this client are not permitted. Please use https://www.nic.ch/whois/ for queries.

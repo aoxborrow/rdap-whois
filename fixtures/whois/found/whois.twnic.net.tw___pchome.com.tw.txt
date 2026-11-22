@@ -1,0 +1,30 @@
+###%%% QRY: pchome.com.tw
+###%%% SRV: whois.twnic.net.tw
+###%%% TME: 2026-07-16T11:45:35Z
+
+Domain Name: pchome.com.tw
+   Domain Status: clientTransferProhibited
+   Registrant:
+      網路家庭國際資訊股份有限公司
+      PChome Online Inc.
+      domain@staff.pchome.com.tw
+      TW
+      (Redacted for privacy)
+
+   Administrative Contact:
+      (Redacted for privacy)
+
+   Technical Contact:
+      (Redacted for privacy)
+
+   Record expires on 2035-05-31 00:00:00 (UTC+8)
+   Record created on 1985-07-04 00:00:00 (UTC+8)
+
+   Domain servers in listed order:
+      dns.pchome.com.tw      210.59.230.85 
+      dns2.pchome.com.tw     211.20.188.153 
+      dns3.pchome.com.tw     34.80.229.255 
+
+Registration Service Provider: PCHOME
+Registration Service URL: https://myname.pchome.com.tw
+Registrar Abuse Contact Email: myname@staff.pchome.com.tw

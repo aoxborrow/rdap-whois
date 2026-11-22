@@ -1,0 +1,30 @@
+{
+  "query": "nic.yun",
+  "server": "whois.teleinfo.cn",
+  "domainId": "104_DOMAIN-BTI",
+  "domainName": "nic.yun",
+  "creationDate": "2015-12-01T16:00:00Z",
+  "expirationDate": "2027-08-31T16:00:00Z",
+  "updatedDate": "2026-10-17T16:05:01Z",
+  "eppStatus": [
+    "clientDeleteProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns.nic.yun",
+    "ns2.nic.yun"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Reserved for non-billable transactions where Registry Operator acts as Registrar",
+  "registrarUrl": "http://whois.teleinfo.cn",
+  "registrarAbuseEmail": "abuse@teleinfo.cn",
+  "registrarAbusePhone": "+86.4000305000",
+  "registrarWhoisServer": "whois.teleinfo.cn",
+  "registrantCountry": "CN",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

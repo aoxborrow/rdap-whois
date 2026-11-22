@@ -1,0 +1,28 @@
+{
+  "query": "it.fage",
+  "server": "whois.nic.fage",
+  "domainId": "f2a7b6c6c4614bd0ad6e05c06b6d836b-DONUTS",
+  "domainName": "it.fage",
+  "creationDate": "2016-12-21T21:23:38Z",
+  "expirationDate": "2026-12-21T21:23:38Z",
+  "updatedDate": "2026-08-12T05:05:11Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns1.cscdns.net",
+    "dns2.cscdns.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com"
+}

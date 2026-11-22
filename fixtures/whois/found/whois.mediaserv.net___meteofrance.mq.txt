@@ -1,0 +1,73 @@
+###%%% QRY: meteofrance.mq
+###%%% SRV: whois.mediaserv.net
+###%%% TME: 2026-07-16T11:39:31Z
+
+This is JWhoisServer serving ccTLD tld;mq;gf;gp
+Java Whois Server 0.4.1.3    (c) 2006 - 2015 Klaus Zerwes zero-sys.net
+#########################################################################
+# All data copyright of the organization unit running this server!
+# By querying this server, you agree that you :
+# -may use this data only for lawful purposes;
+# -will not re-use data for any kind of support
+#   for the transmission of unsolicited advertising
+#   via e-mail, telephone, or facsimile;
+# -will not reproduce and/or store any part of the data
+#   without prior permission of the copyright holders;
+# -are aware of and agree to the fact that all access to the
+#   server is under constant monitoring and will be logged
+#   for the purpose of prosecution in case of missuse!
+#########################################################################
+
+domain:     meteofrance.mq
+mntnr:      MNTNR2005
+changed:    2026-01-06 00:00:00.0
+nameserver: nscf1.meteo.fr
+nameserver: nscf2.meteo.fr
+
+[holder]
+mntnr:      MNTNR2005
+type:       ORGANISATION
+name:       Meteo France
+address:    42 avenue Gaspard Coriolis
+pcode:      31057
+country:    FR
+phone:      +33.561078080
+fax:        +33.561078331
+email:      domains@oxyd.fr
+changed:    2026-07-16 07:35:08.0
+
+[admin_c]
+mntnr:      MNTNR2005
+type:       ORGANISATION
+name:       Domain Name Department
+address:    130 Hampstead House
+pcode:      NW3 6BT
+country:    GB
+phone:      +44.2081331319
+fax:        
+email:      domains@lexsynergy.com
+changed:    2026-07-16 07:35:08.0
+
+[tech_c]
+mntnr:      MNTNR2005
+type:       ORGANISATION
+name:       Domain Name Department
+address:    130 Hampstead House
+pcode:      NW3 6BT
+country:    GB
+phone:      +44.2081331319
+fax:        
+email:      domains@lexsynergy.com
+changed:    2026-07-16 07:35:08.0
+
+[zone_c]
+mntnr:      MNTNR2005
+type:       ORGANISATION
+name:       Daniel Greenberg
+address:    130 Hampstead House 176 Finchley Road
+pcode:      NW3 6BT
+country:    GB
+phone:      +44.2031370459
+fax:        +44.2031370459
+email:      domains@lexsynergy.com
+changed:    2026-07-16 07:35:08.0

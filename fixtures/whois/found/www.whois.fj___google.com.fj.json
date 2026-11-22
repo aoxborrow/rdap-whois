@@ -1,0 +1,36 @@
+{
+  "query": "google.com.fj",
+  "server": "www.whois.fj",
+  "domainName": "google.com.fj",
+  "creationDate": "2003-04-27T12:00:00Z",
+  "expirationDate": "2025-04-27T12:00:00Z",
+  "registrarExpirationDate": "2025-04-27T12:00:00Z",
+  "updatedDate": "2024-04-11T18:19:40Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrarName": "USP Registrar",
+  "registrarUrl": "https://www.domains.fj",
+  "registrarAbuseEmail": "domreg@usp.ac.fj",
+  "registrantId": "Redacted | Registry Policy",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantState": "CA",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "dns-admin@google.com"
+}

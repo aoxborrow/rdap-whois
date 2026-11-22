@@ -1,0 +1,99 @@
+###%%% QRY: booth.pm
+###%%% SRV: whois.nic.pm
+###%%% TME: 2026-07-16T11:16:53Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        booth.pm
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      PPTS103-FRNIC
+admin-c:                       ANO00-FRNIC
+tech-c:                        HM21072-FRNIC
+registrar:                     1API GmbH
+Expiry Date:                   2027-04-26T07:59:49Z
+created:                       2013-10-30T05:36:45Z
+last-update:                   2026-05-31T22:00:51.25798Z
+source:                        FRNIC
+
+nserver:                       ns1.booth.pm
+nserver:                       ns2.booth.pm
+source:                        FRNIC
+
+registrar:                     1API GmbH
+address:                       Kaiserstraße 172-174
+address:                       66386 ST. INGBERT
+country:                       DE
+phone:                         +49.68949396200
+fax-no:                        +49.68416984299
+e-mail:                        info@1api.net
+website:                       http://www.1api.net
+anonymous:                     No
+registered:                    2008-09-01T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       PPTS103-FRNIC
+type:                          ORGANIZATION
+contact:                       PTS Privacy & Trustee Services GmbH
+address:                       Neunkircher-Str. 43
+address:                       66299 Friedrichsthal
+country:                       DE
+phone:                         +49.68975054909
+fax-no:                        +49.68975021435
+e-mail:                        info@ptstrustee.com
+registrar:                     1API GmbH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       ANO00-FRNIC
+type:                          PERSON
+contact:                       Ano Nymous
+registrar:                     1API GmbH
+anonymous:                     YES
+remarks:                       -------------- WARNING --------------
+remarks:                       While the registrar knows him/her,
+remarks:                       this person chose to restrict access
+remarks:                       to his/her personal data. So PLEASE,
+remarks:                       don't send emails to Ano Nymous. This
+remarks:                       address is bogus and there is no hope
+remarks:                       of a reply.
+remarks:                       -------------- WARNING --------------
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+nic-hdl:                       HM21072-FRNIC
+type:                          PERSON
+contact:                       Host Master
+address:                       3-1-1 Sunshine 60 45FL
+address:                       170-6045 Higashi Ikebukuro
+country:                       JP
+phone:                         +81.5055257438
+e-mail:                        support@gonbei.jp
+registrar:                     1API GmbH
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    not identified
+reachstatus:                   not identified
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:16:54.730755Z <<<

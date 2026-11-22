@@ -1,0 +1,65 @@
+###%%% QRY: nic.pp.ua
+###%%% SRV: whois.pp.ua
+###%%% TME: 2026-11-22T08:16:26Z
+
+Domain ID:1166959_PPUA-DRS
+Domain Name:NIC.PP.UA
+Created On:17-Jun-2025 12:59:05 UTC
+Last Updated On:27-Feb-2026 02:03:40 UTC
+Expiration Date:17-Jun-2027 12:59:05 UTC
+Sponsoring Registrar:NIC.UA LLC (nic-mnt-cunic)
+Status:serverDeleteProhibited
+Registrant ID:NICUA261556749NY-CUNIC
+Registrant Name:Glatt Walter J
+Registrant Organization:
+Registrant Street1:3753 Blackwell Street
+Registrant Street2:
+Registrant Street3:
+Registrant City:Fairbanks
+Registrant State/Province:Alaska
+Registrant Postal Code:99701
+Registrant Country:US
+Registrant Phone:+1.7865290874
+Registrant Fax:
+Registrant Email:enic@duck.com
+Admin ID:NICUA261556749NY-CUNIC
+Admin Name:<not disclosed>
+Admin Organization:<not disclosed>
+Admin Street1:<not disclosed>
+Admin Street2:<not disclosed>
+Admin Street3:<not disclosed>
+Admin City:<not disclosed>
+Admin State/Province:<not disclosed>
+Admin Postal Code:<not disclosed>
+Admin Country:<not disclosed>
+Admin Phone:<not disclosed>
+Admin Fax:<not disclosed>
+Admin Email:<not disclosed>
+Billing ID:NICUA261556749NY-CUNIC
+Billing Name:<not disclosed>
+Billing Organization:<not disclosed>
+Billing Street1:<not disclosed>
+Billing Street2:<not disclosed>
+Billing Street3:<not disclosed>
+Billing City:<not disclosed>
+Billing State/Province:<not disclosed>
+Billing Postal Code:<not disclosed>
+Billing Country:<not disclosed>
+Billing Phone:<not disclosed>
+Billing Fax:<not disclosed>
+Billing Email:<not disclosed>
+Tech ID:NICUA261556749NY-CUNIC
+Tech Name:<not disclosed>
+Tech Organization:<not disclosed>
+Tech Street1:<not disclosed>
+Tech Street2:<not disclosed>
+Tech Street3:<not disclosed>
+Tech City:<not disclosed>
+Tech State/Province:<not disclosed>
+Tech Postal Code:<not disclosed>
+Tech Country:<not disclosed>
+Tech Phone:<not disclosed>
+Tech Fax:<not disclosed>
+Tech Email:<not disclosed>
+Name Server:JERRY.NS.CLOUDFLARE.COM
+Name Server:NELLY.NS.CLOUDFLARE.COM

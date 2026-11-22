@@ -1,0 +1,5 @@
+###%%% QRY: nic.xn--mgberp4a5d4ar
+###%%% SRV: whois.nic.net.sa
+###%%% TME: 2026-07-14T10:47:20Z
+
+No Match for domain: nic.xn--mgberp4a5d4ar

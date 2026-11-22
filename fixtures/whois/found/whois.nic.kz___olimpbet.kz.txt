@@ -1,0 +1,41 @@
+###%%% QRY: olimpbet.kz
+###%%% SRV: whois.nic.kz
+###%%% TME: 2026-07-16T11:41:49Z
+
+Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+Domain Name............: olimpbet.kz
+
+Organization Using Domain Name
+Name...................: [HIDDEN PERSONAL DATA]
+Organization Name......: [HIDDEN PERSONAL DATA]
+Street Address.........: [HIDDEN PERSONAL DATA]
+City...................: [HIDDEN PERSONAL DATA]
+State..................: [HIDDEN PERSONAL DATA]
+Postal Code............: [HIDDEN PERSONAL DATA]
+Country................: [HIDDEN PERSONAL DATA]
+
+Administrative Contact/Agent
+NIC Handle.............: ICPS-QMBAFEK07L
+Name...................: [HIDDEN PERSONAL DATA]
+Phone Number...........: [HIDDEN PERSONAL DATA]
+Fax Number.............: [HIDDEN PERSONAL DATA]
+Email Address..........: [HIDDEN PERSONAL DATA]
+
+Nameserver in listed order
+
+Primary server.........: doug.ns.cloudflare.com
+Primary ip address.....: 
+
+Secondary server.......: marge.ns.cloudflare.com
+Secondary ip address...: 173.245.58.191
+
+
+Domain created: 2014-11-09 19:11:43 (GMT+0:00)
+Last modified : 2026-04-10 07:09:53 (GMT+0:00)
+Domain status : clientRenewProhibited - 
+                clientTransferProhibited - 
+                
+Registar created: ICPS
+Current Registar: ICPS

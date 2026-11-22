@@ -1,0 +1,39 @@
+{
+  "query": "blic.rs",
+  "server": "whois.rnids.rs",
+  "domainName": "blic.rs",
+  "creationDate": "2008-04-26T11:26:40Z",
+  "expirationDate": "2027-04-26T11:26:40Z",
+  "updatedDate": "2026-03-26T01:19:22Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active https://www.rnids.rs/en/domain-name-status-codes#Active"
+  ],
+  "nameservers": [
+    "bg1.mns-dns.net",
+    "ns.bg2.ha.rs",
+    "ns.bg3.ha.rs",
+    "ns.ha.rs",
+    "us1.mns-dns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "no",
+  "registrarName": "Mainstream Public Cloud Services d.o.o.",
+  "registrantName": "Ringier Serbia doo",
+  "registrantAddress": [
+    "Kosovska 10, Beograd, Serbia"
+  ],
+  "registrantPostalCode": "11000",
+  "adminName": "Ringier Serbia doo",
+  "adminAddress": [
+    "Kosovska 10, Beograd, Serbia"
+  ],
+  "adminPostalCode": "11000",
+  "techName": "Mainstream d.o.o.",
+  "techAddress": [
+    "Nusiceva 15, Beograd, Serbia"
+  ],
+  "techPostalCode": "11000"
+}

@@ -1,0 +1,33 @@
+###%%% QRY: imo.im
+###%%% SRV: whois.nic.im
+###%%% TME: 2026-07-16T11:41:36Z
+
+This information has been redacted to comply with European Union General Data Protection Regulations (GDPR). Please contact us at info@nic.im if you have any further queries.
+              
+Domain Name: imo.im
+Domain Managers
+Name: Redacted
+Address
+Redacted
+Domain Owners / Registrant
+Name: Redacted
+Address
+Redacted
+Administrative Contact
+Name: Redacted
+Address
+Redacted
+Billing Contact
+Name: Redacted
+Address
+Redacted
+Technical Contact
+Name: Redacted
+Address
+Redacted
+Domain Details
+Expiry Date: 29/01/2027 23:59:57
+Name Server:ns-1458.awsdns-54.org.
+Name Server:ns-257.awsdns-32.com.
+Name Server:ns-1696.awsdns-20.co.uk.
+Name Server:ns-542.awsdns-03.net.

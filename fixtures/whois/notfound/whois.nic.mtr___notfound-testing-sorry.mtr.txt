@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.mtr
+###%%% SRV: whois.nic.mtr
+###%%% TME: 2025-03-20T16:21:10Z
+
+The domain has not been registered.

@@ -1,0 +1,29 @@
+###%%% QRY: nic.ma
+###%%% SRV: whois.registre.ma
+###%%% TME: 2026-07-16T11:17:24Z
+
+Domain Name: nic.ma
+Updated Date: 2026-01-27T00:00:28Z
+Creation Date: 2005-12-28T00:00:00Z
+Registry Expiry Date: 2026-12-28T00:00:00Z
+Registrar Registration Expiration Date: 2026-12-28T00:00:00Z
+Registrar: ITISSALAT AL-MAGHRIB
+Registrar Street Address: Siège ITISSALAT AL-MAGHRIB Avenue Annakhil Hay Riad Rabat, 10000
+Registrar Email: cae_int.bo@iam.ma
+Domain Status: active https://icann.org/epp#active
+Registrant Name: Division Internet Maroc Telecom
+Admin Name: - -
+Admin Email: niciam@menara.ma
+Admin Phone: +212.537533000
+Tech Name: - -
+Tech Email: niciam@menara.ma
+Tech Phone: +212.537533000
+Name Server: dns.menara.ma
+Name Server: dns1.menara.ma
+Name Server: dns2.menara.ma
+Name Server: dns3.menara.ma
+>>> Last update of WHOIS database: 2026-07-16T11:17:24.650Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Le service Whois permet la vérification de la disponibilité d’un nom de domaine « .ma » et l’identification de son titulaire. La base de données Whois est maintenue à jour par les prestataires, à chaque fois qu’une modification sur les données enregistrées leur est communiquée par le titulaire. Tout usage abusif du service WHOIS et des données d’identification qu’il publie engage la responsabilité des personnes concernées.

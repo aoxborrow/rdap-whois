@@ -1,0 +1,77 @@
+###%%% QRY: dns.politie
+###%%% SRV: whois.nic.politie
+###%%% TME: 2026-07-16T23:47:27Z
+
+Domain Name: dns.politie
+Registry Domain ID: DNM_102440-SIDN
+Registrar WHOIS Server: whois.nic.politie
+Registrar URL: www.nic.politie
+Updated Date: 2026-01-11T00:15:01Z
+Creation Date: 2023-01-11T10:00:57Z
+Registry Expiry Date: 2027-01-11T10:00:57Z
+Registrar: Stichting Internet Domeinregistratie Nederland (Operationeel)
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: support@sidn.nl
+Registrar Abuse Contact Phone: +31.0263525555
+Domain Status: inactive https://icann.org/epp#inactive
+Domain Status: serverHold https://icann.org/epp#serverHold
+Registry Registrant ID: STI000001-SIDN
+Registrant Name: Stichting Internet Domeinregistratie Nederland
+Registrant Organization:
+Registrant Street: Meander 501
+Registrant City: Arnhem
+Registrant State/Province:
+Registrant Postal Code: 6825MD
+Registrant Country: NL
+Registrant Phone: +31.263525555
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: support@sidn.nl
+Registry Admin ID: STI000001-SIDN
+Admin Name: Stichting Internet Domeinregistratie Nederland
+Admin Organization:
+Admin Street: Meander 501
+Admin City: Arnhem
+Admin State/Province:
+Admin Postal Code: 6825MD
+Admin Country: NL
+Admin Phone: +31.263525555
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: support@sidn.nl
+Registry Tech ID: SID000002-SIDN
+Tech Name: SIDN NOC
+Tech Organization:
+Tech Street: Meander 501
+Tech City: Arnhem
+Tech State/Province:
+Tech Postal Code: 6825MD
+Tech Country: NL
+Tech Phone: +31.263525555
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: support@sidn.nl
+Name Server:
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:47:28Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp.
+
+Record maintained by: SIDN BV
+
+Terms of use: No part of this publication may be reproduced,
+published, stored in a retrieval system, or transmitted, in any form
+or by any means, electronic, mechanical, recording, or otherwise,
+without prior permission of the Netherlands Police. These restrictions
+apply equally to registrars, except in that reproductions and
+publications are permitted insofar as they are reasonable, necessary
+and solely in the context of the registration activities referred to
+in the Registrar Agreement. Any use of this material for advertising,
+targeting commercial offers or similar activities is explicitly
+forbidden and liable to result in legal action. Anyone who is aware or
+suspects that such activities are taking place is asked to inform the
+Netherlands Police.

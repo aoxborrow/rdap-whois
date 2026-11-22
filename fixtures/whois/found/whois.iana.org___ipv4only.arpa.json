@@ -1,0 +1,28 @@
+{
+  "query": "ipv4only.arpa",
+  "server": "whois.iana.org",
+  "domainName": "ipv4only.arpa",
+  "creationDate": "2013-09-30T00:00:00Z",
+  "updatedDate": "2026-05-22T00:00:00Z",
+  "nameservers": [
+    "a.iana-servers.net",
+    "b.iana-servers.net",
+    "c.iana-servers.net",
+    "ns.icann.org"
+  ],
+  "registrantOrg": "Internet Architecture Board (IAB)",
+  "registrantAddress": [
+    "c/o IETF Administration LLC",
+    "1000 N. West St.",
+    "Suite 1200",
+    "Wilmington Delaware 19801",
+    "United States",
+    "12025 Waterfront Drive",
+    "Suite 300",
+    "Los Angeles California 90094",
+    "US"
+  ],
+  "registrantPhone": "+1 510 492 4080",
+  "registrantFax": "+1 510 492 4001",
+  "registrantEmail": "iab@iab.org"
+}

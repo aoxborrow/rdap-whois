@@ -1,0 +1,27 @@
+{
+  "query": "nic.mc",
+  "server": "whois.nic.mc",
+  "domainName": "nic.mc",
+  "creationDate": "2007-01-08T11:06:00Z",
+  "expirationDate": "2027-01-08T00:00:00Z",
+  "updatedDate": "2026-01-08T00:10:01Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "mc.cctld.authdns.ripe.net",
+    "ns1.nic.mc",
+    "ns2.nic.mc",
+    "ns3.nic.mc"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "Signed",
+  "registrarName": "NIC Monaco",
+  "registrarPhone": "+377 98988800",
+  "registrarEmail": "nic@gouv.mc",
+  "adminId": "Restricted",
+  "techId": "Restricted"
+}

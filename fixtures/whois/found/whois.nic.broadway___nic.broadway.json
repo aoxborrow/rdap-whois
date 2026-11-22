@@ -1,0 +1,81 @@
+{
+  "query": "nic.broadway",
+  "server": "whois.nic.broadway",
+  "domainId": "226122_MMc1-BROADWAY",
+  "domainName": "nic.broadway",
+  "creationDate": "2015-11-05T22:47:36Z",
+  "expirationDate": "2031-11-05T22:47:36Z",
+  "updatedDate": "2022-02-22T12:10:49Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "dns1.nic.broadway",
+    "dns2.nic.broadway",
+    "dns3.nic.broadway",
+    "dns4.nic.broadway",
+    "dnsa.nic.broadway",
+    "dnsb.nic.broadway",
+    "dnsc.nic.broadway",
+    "dnsd.nic.broadway"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Broadway Internal Registrar",
+  "registrarUrl": "http://www.nic.broadway",
+  "registrarAbuseEmail": "abuse@nominet.uk",
+  "registrarAbusePhone": "+44.3302369478",
+  "registrantId": "C_0003B5B4_A38E487332E2460990D285487623C840_000001586C3ADE63-BROADWAY",
+  "registrantName": "Administrator",
+  "registrantOrg": "Celebrate Broadway, Inc.",
+  "registrantAddress": [
+    "729 Seventh Ave, 7th Floor"
+  ],
+  "registrantCity": "New York",
+  "registrantState": "NY",
+  "registrantPostalCode": "10019",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.2127640866",
+  "registrantFax": "+1.6467640866",
+  "registrantEmail": "admin@admin.broadway",
+  "adminId": "C_0003B5B4_A38E487332E2460990D285487623C840_000001586C3ADE63-BROADWAY",
+  "adminName": "Administrator",
+  "adminOrg": "Celebrate Broadway, Inc.",
+  "adminAddress": [
+    "729 Seventh Ave, 7th Floor"
+  ],
+  "adminCity": "New York",
+  "adminState": "NY",
+  "adminPostalCode": "10019",
+  "adminCountry": "US",
+  "adminPhone": "+1.2127640866",
+  "adminFax": "+1.6467640866",
+  "adminEmail": "admin@admin.broadway",
+  "techId": "C_0003B5B5_D9111E60F4594547B202568791712328_000001586C3CA608-BROADWAY",
+  "techName": "Technical Manager",
+  "techOrg": "Com Laude",
+  "techAddress": [
+    "28-30 Little Russell Street"
+  ],
+  "techCity": "London",
+  "techPostalCode": "WC1A 2HN",
+  "techCountry": "GB",
+  "techPhone": "+44.2074218250",
+  "techFax": "+44.8700118187",
+  "techEmail": "hostmaster@comlaude.com"
+}

@@ -1,0 +1,93 @@
+###%%% QRY: psa.wf
+###%%% SRV: whois.nic.wf
+###%%% TME: 2026-07-16T11:44:42Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        psa.wf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      CTC6117-FRNIC
+admin-c:                       CTC6117-FRNIC
+tech-c:                        CTC6118-FRNIC
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+Expiry Date:                   2027-03-18T14:34:37.170058Z
+created:                       2023-03-18T14:34:37.201069Z
+last-update:                   2026-02-27T14:34:42.832446Z
+source:                        FRNIC
+
+nserver:                       amy.ns.cloudflare.com
+nserver:                       cody.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+address:                       Hofplein 20
+address:                       Spaces Business Centre
+address:                       3032 AC ROTTERDAM
+country:                       NL
+phone:                         +31.104482299
+fax-no:                        +31.102440250
+e-mail:                        sales@openprovider.com
+website:                       https://www.openprovider.com
+anonymous:                     No
+registered:                    2005-06-27T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       CTC6117-FRNIC
+type:                          ORGANIZATION
+contact:                       Njalla Guokte S.R.L.
+address:                       Njalla Guokte S.R.L.
+address:                       Bulevardul Metalurgiei 132 B1C
+address:                       041837 Bucuresti
+country:                       RO
+phone:                         +40.371701213
+e-mail:                        whois+psa.wf@njal.la
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-03-06T05:19:06.057359Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-02-26T05:15:26.578863Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-02-26T05:15:26.578863Z
+source:                        FRNIC
+
+nic-hdl:                       CTC6118-FRNIC
+type:                          ORGANIZATION
+contact:                       Njalla Guokte S.R.L.
+address:                       Njalla Guokte S.R.L.
+address:                       Bulevardul Metalurgiei 132 B1C
+address:                       041837 Bucuresti
+country:                       RO
+phone:                         +40.371701213
+e-mail:                        whois+psa.wf@njal.la
+registrar:                     Hosting Concepts B.V. d/b/a Openprovider
+changed:                       2025-03-06T05:19:06.048504Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2025-02-26T05:15:26.845205Z
+reachstatus:                   ok
+reachmedia:                    email
+reachsource:                   REGISTRAR
+reachdate:                     2025-02-26T05:15:26.845205Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:42.972336Z <<<

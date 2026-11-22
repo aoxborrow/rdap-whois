@@ -1,0 +1,60 @@
+###%%% QRY: ppomppu.co.kr
+###%%% SRV: whois.kr
+###%%% TME: 2026-07-16T11:39:33Z
+
+query : ppomppu.co.kr
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : ppomppu.co.kr
+등록인                      : 후이즈 도메인 관리자
+등록인 주소                 : 서울특별시 구로구 디지털로34길 27 대륭포스트타워 3차 1101호
+등록인 우편번호             : 08378
+책임자                      : 후이즈 도메인 관리자
+책임자 전자우편             : admin@whoisblind.com
+책임자 전화번호             : 82-2-1588-4259
+등록일                      : 2005. 11. 14.
+최근 정보 변경일            : 2019. 03. 13.
+사용 종료일                 : 2030. 11. 14.
+정보공개여부                : Y
+등록대행자                  : (주)후이즈(http://whois.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : ns-971.awsdns-57.net
+
+2차 네임서버 정보
+   호스트이름               : ns-281.awsdns-35.com
+   호스트이름               : ns-1579.awsdns-05.co.uk
+   호스트이름               : ns-1245.awsdns-27.org
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : ppomppu.co.kr
+Registrant                  : Whois Domain Admin.
+Registrant Address          : #1101 Daerung post tower 182-4 guro3dong guro gu, Seoul
+Registrant Zip Code         : 08378
+Administrative Contact(AC)  : Whois Domain Admin.
+AC E-Mail                   : admin@whoisblind.com
+AC Phone Number             : 82-2-1588-4259
+Registered Date             : 2005. 11. 14.
+Last Updated Date           : 2019. 03. 13.
+Expiration Date             : 2030. 11. 14.
+Publishes                   : Y
+Authorized Agency           : Whois Corp.(http://whois.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : ns-971.awsdns-57.net
+
+Secondary Name Server
+   Host Name                : ns-281.awsdns-35.com
+   Host Name                : ns-1579.awsdns-05.co.uk
+   Host Name                : ns-1245.awsdns-27.org
+
+
+- KISA/KRNIC WHOIS Service -

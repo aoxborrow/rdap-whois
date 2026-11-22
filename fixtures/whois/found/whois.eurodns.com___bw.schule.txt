@@ -1,0 +1,72 @@
+###%%% QRY: bw.schule
+###%%% SRV: whois.eurodns.com
+###%%% TME: 2025-04-01T18:20:21Z
+
+Domain Name: bw.schule
+Registry Domain ID: D21948945-SCHULE
+Registrar WHOIS Server: whois.eurodns.com
+Registrar URL: http://www.eurodns.com
+Updated Date: 2025-04-01T10:09:30Z
+Creation Date: 2019-09-17T00:00:00Z
+Registrar Registration Expiration Date: 2026-09-16T00:00:00Z
+Registrar: Eurodns S.A.
+Registrar IANA ID: 1052
+Registrar Abuse Contact Email: legalservices@eurodns.com
+Registrar Abuse Contact Phone: +352.27220150
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: edns_r21723662
+Registrant Name: Baden-Württemberg Ministerium für Kultus, Jugend und Sport
+Registrant Street: Thouretstraße 6
+Registrant City: Stuttgart
+Registrant State/Province:
+Registrant Postal Code: 70173
+Registrant Country: DE
+Registrant Phone: +49.7112790
+Registrant Fax: 
+Registrant Email: bw.schule@km.kv.bwl.de
+Registry Admin ID: edns_a21723662
+Admin Name: Manage Now GmbH Hostmaster
+Admin Organization: Manage Now GmbH
+Admin Street: Mies-van-der-Rohe-Strasse 8
+Admin City: Muenchen
+Admin State/Province:
+Admin Postal Code: 80807
+Admin Country: DE
+Admin Phone: +49.713236601
+Admin Fax: 
+Admin Email: hostmaster@tds.de
+Registry Tech ID: edns_t21723662
+Tech Name: MN Hostmaster
+Tech Organization: Manage Now GmbH
+Tech Street: Mies-van-der-Rohe-Strasse 8
+Tech City: Muenchen
+Tech State/Province:
+Tech Postal Code: 80807
+Tech Country: DE
+Tech Phone: +49.713236601
+Tech Fax: 
+Tech Email: hostmaster@tds.de
+Name Server: ns1.manage-now.de
+Name Server: ns2.manage-now.de
+Name Server: ns3.manage-now.de
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-04-01T18:20:21Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Please email the listed admin email address if you wish to raise a legal issue.
+
+The Data in EuroDNS WHOIS database is provided for information purposes only.
+The fact that EuroDNS display such information does not provide any guarantee
+expressed or implied on the purpose for which the database may be used, its
+accuracy or usefulness. By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no circumstances will
+you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that apply to EuroDNS
+(or its systems). EuroDNS reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the above policy.

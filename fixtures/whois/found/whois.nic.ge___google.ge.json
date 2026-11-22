@@ -1,0 +1,24 @@
+{
+  "query": "google.ge",
+  "server": "whois.nic.ge",
+  "domainName": "google.ge",
+  "creationDate": "2006-07-28T00:00:00Z",
+  "expirationDate": "2027-07-29T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Ok"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "proservice ltd",
+  "registrantId": "Google LLC",
+  "registrantName": "Google LLC",
+  "adminEmail": "dns-admin@google.com",
+  "techEmail": "dns-admin@google.com"
+}

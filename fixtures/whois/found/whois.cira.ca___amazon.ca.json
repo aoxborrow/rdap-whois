@@ -1,0 +1,77 @@
+{
+  "query": "amazon.ca",
+  "server": "whois.cira.ca",
+  "domainId": "D237-CIRA",
+  "domainName": "amazon.ca",
+  "creationDate": "2000-09-19T18:44:39Z",
+  "expirationDate": "2027-07-16T04:00:00Z",
+  "updatedDate": "2026-07-16T04:03:21Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-52.awsdns-06.com",
+    "ns-520.awsdns-01.net",
+    "ns-1036.awsdns-01.org",
+    "ns-1561.awsdns-03.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "not applicable",
+  "registrarName": "MarkMonitor International Canada Ltd.",
+  "registrarUrl": "https://markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.ca.fury.ca",
+  "registrantId": "16390820-CIRA",
+  "registrantName": "Amazon Technologies, Inc. TMA499121",
+  "registrantAddress": [
+    "PO Box 8102"
+  ],
+  "registrantCity": "Reno",
+  "registrantState": "NV",
+  "registrantPostalCode": "91423",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.2062664064",
+  "registrantFax": "+1.2062667010",
+  "registrantEmail": "hostmaster@amazon.com",
+  "adminId": "16310044-CIRA",
+  "adminName": "David C Arnett",
+  "adminOrg": "Amazon Technologies, Inc. TMA499121",
+  "adminAddress": [
+    "PO Box 8102"
+  ],
+  "adminCity": "Reno",
+  "adminState": "NV",
+  "adminPostalCode": "91423",
+  "adminCountry": "US",
+  "adminPhone": "+1.2062664064",
+  "adminFax": "+1.2062667010",
+  "adminEmail": "hostmaster@amazon.com",
+  "techId": "16310044-CIRA",
+  "techName": "David C Arnett",
+  "techOrg": "Amazon Technologies, Inc. TMA499121",
+  "techAddress": [
+    "PO Box 8102"
+  ],
+  "techCity": "Reno",
+  "techState": "NV",
+  "techPostalCode": "91423",
+  "techCountry": "US",
+  "techPhone": "+1.2062664064",
+  "techFax": "+1.2062667010",
+  "techEmail": "hostmaster@amazon.com"
+}

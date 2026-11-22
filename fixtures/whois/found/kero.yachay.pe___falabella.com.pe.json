@@ -1,0 +1,19 @@
+{
+  "query": "falabella.com.pe",
+  "server": "kero.yachay.pe",
+  "domainName": "falabella.com.pe",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "rafe.ns.cloudflare.com",
+    "zeus.ns.cloudflare.com"
+  ],
+  "registrarName": "NIC.PE",
+  "registrantName": "Falabella S.A.",
+  "adminName": "Silva & Cia",
+  "adminEmail": "domains@silva.cl"
+}

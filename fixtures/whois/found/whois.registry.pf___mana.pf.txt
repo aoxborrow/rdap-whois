@@ -1,0 +1,33 @@
+###%%% QRY: mana.pf
+###%%% SRV: whois.registry.pf
+###%%% TME: 2025-04-09T08:39:11Z
+
+This is the PF top level domain whois server.
+Informations about 'mana.pf' :
+
+Status : active
+Created (JJ/MM/AAAA) : 01/03/2005
+Last renewed (JJ/MM/AAAA) : 24/02/2025
+Expire (JJ/MM/AAAA) : 24/02/2026
+Name server 1 : ns1.mana.pf
+Name server 2 : ns2.mana.pf
+Registrant Compagnie Name : MANA
+Registrant Name : Paul DUGUE 
+Registrant Address : 40001
+Registrant Postal Code : 98713
+Registrant City : PAPEETE - FARE TONY
+Registrant Region / Island : TAHITI
+Registrant Country : Polynésie Française
+Tech 1 Compagnie Name : MANA
+Tech 1 Name : Paul DUGUE 
+Tech 1 Address : 40001
+Tech 1 Postal Code : 98713
+Tech 1 City : PAPEETE - FARE TONY
+Tech 1 Region / Island : TAHITI
+Tech 1 Country : Polynésie Française
+Registrar Compagnie Name : ONATI SAS
+Registrar Address : BP 440
+Registrar Address : Immeuble Ainapare au Pont de l'Est
+Registrar Postal Code : 98713
+Registrar City : PAPEETE
+Registrar Country : Polynésie Française

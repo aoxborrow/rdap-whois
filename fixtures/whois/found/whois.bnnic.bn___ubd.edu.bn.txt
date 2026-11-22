@@ -1,0 +1,46 @@
+###%%% QRY: ubd.edu.bn
+###%%% SRV: whois.bnnic.bn
+###%%% TME: 2026-07-16T11:38:12Z
+
+----------------------------------------------------------------------  
+ BNNIC WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   IMAGINE SDN BHD
+
+    Domain Name:  UBD.EDU.BN 
+    Creation Date:  01-Sep-1998 00:00:00
+    Modified Date:  17-Dec-2014 18:07:42
+    Expiration Date:  01-Sep-2026 00:00:00
+    Domain Status:  ok
+
+
+    Registrant:
+
+        Name:            - (BNC861T)      
+        Email:           
+        
+        
+
+
+    Administrative Contact:
+          
+        Name:            - (BNC861T)
+        Email:           
+        
+        
+
+
+    Technical Contact:
+        
+        Name:            - (BNC861T)
+        Email:           
+        
+        
+
+
+    Name Servers:
+        NS1.UBD.EDU.BN  (202.160.1.185)
+        NS2.UBD.EDU.BN  (202.160.1.186)

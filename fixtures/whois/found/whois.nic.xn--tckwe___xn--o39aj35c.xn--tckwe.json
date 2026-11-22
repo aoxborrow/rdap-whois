@@ -1,0 +1,80 @@
+{
+  "query": "xn--o39aj35c.xn--tckwe",
+  "server": "whois.nic.xn--tckwe",
+  "domainId": "199444861_DOMAIN_XN__TCKWE-VRSN",
+  "domainName": "xn--o39aj35c.xn--tckwe",
+  "creationDate": "2024-03-06T13:07:53Z",
+  "expirationDate": "2026-03-06T13:07:53Z",
+  "updatedDate": "2025-03-04T16:50:05Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "alaric.ns.cloudflare.com",
+    "etta.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "7202492374",
+  "registrarWhoisServer": "whois.name.com",
+  "registrantId": "35317412_CONTACT_XN__TCKWE-VRSN",
+  "registrantName": "Redacted For Privacy",
+  "registrantOrg": "Domain Protection Services, Inc.",
+  "registrantAddress": [
+    "PO Box 1769"
+  ],
+  "registrantCity": "Denver",
+  "registrantState": "CO",
+  "registrantPostalCode": "80201",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.7208009072",
+  "registrantFax": "+1.7209758725",
+  "registrantEmail": "xn--o39aj35c.xn--tckwe@protecteddomainservices.com",
+  "adminId": "35317412_CONTACT_XN__TCKWE-VRSN",
+  "adminName": "Redacted For Privacy",
+  "adminOrg": "Domain Protection Services, Inc.",
+  "adminAddress": [
+    "PO Box 1769"
+  ],
+  "adminCity": "Denver",
+  "adminState": "CO",
+  "adminPostalCode": "80201",
+  "adminCountry": "US",
+  "adminPhone": "+1.7208009072",
+  "adminFax": "+1.7209758725",
+  "adminEmail": "xn--o39aj35c.xn--tckwe@protecteddomainservices.com",
+  "techId": "35317412_CONTACT_XN__TCKWE-VRSN",
+  "techName": "Redacted For Privacy",
+  "techOrg": "Domain Protection Services, Inc.",
+  "techAddress": [
+    "PO Box 1769"
+  ],
+  "techCity": "Denver",
+  "techState": "CO",
+  "techPostalCode": "80201",
+  "techCountry": "US",
+  "techPhone": "+1.7208009072",
+  "techFax": "+1.7209758725",
+  "techEmail": "xn--o39aj35c.xn--tckwe@protecteddomainservices.com",
+  "billingId": "35317412_CONTACT_XN__TCKWE-VRSN",
+  "billingName": "Redacted For Privacy",
+  "billingOrg": "Domain Protection Services, Inc.",
+  "billingAddress": [
+    "PO Box 1769"
+  ],
+  "billingCity": "Denver",
+  "billingState": "CO",
+  "billingPostalCode": "80201",
+  "billingCountry": "US",
+  "billingPhone": "+1.7208009072",
+  "billingFax": "+1.7209758725",
+  "billingEmail": "xn--o39aj35c.xn--tckwe@protecteddomainservices.com"
+}

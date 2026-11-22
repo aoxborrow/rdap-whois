@@ -1,0 +1,28 @@
+{
+  "query": "nic.lifestyle",
+  "server": "whois.registry.click",
+  "domainId": "DO_4edf8246fe6d33b2a5b676addacf43c2-UR",
+  "domainName": "nic.lifestyle",
+  "creationDate": "2023-11-10T22:57:58Z",
+  "expirationDate": "2033-11-10T22:57:58Z",
+  "updatedDate": "2023-11-14T21:27:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns03.trs-dns.com",
+    "ns03.trs-dns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Tucows Registry Services",
+  "registrarUrl": "https://tucowsregistry.com",
+  "registrarAbuseEmail": "ry-services@tucows.com",
+  "registrarAbusePhone": "+1.8003716992",
+  "registrarWhoisServer": "whois.tucowsregistry.net"
+}

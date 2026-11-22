@@ -1,0 +1,19 @@
+{
+  "query": "autoplius.lt",
+  "server": "whois.domreg.lt",
+  "domainName": "autoplius.lt",
+  "creationDate": "2003-03-06T00:00:00Z",
+  "expirationDate": "2027-03-06T00:00:00Z",
+  "eppStatusRaw": [
+    "registered"
+  ],
+  "nameservers": [
+    "alina.ns.cloudflare.com",
+    "lloyd.ns.cloudflare.com"
+  ],
+  "registrarName": "UAB \"BALTNETOS KOMUNIKACIJOS\"",
+  "registrarEmail": "info@balt.net",
+  "registrarUrl": "http://www.balt.net",
+  "registrantOrg": "UAB \"Baltnetos komunikacijos\"",
+  "registrantEmail": "hostmaster@balt.net"
+}

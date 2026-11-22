@@ -1,0 +1,28 @@
+{
+  "query": "croxyproxy.rocks",
+  "server": "whois.nic.rocks",
+  "domainId": "30ef4e7c6c6b431bafe4e0b6e50adcc7-DONUTS",
+  "domainName": "croxyproxy.rocks",
+  "creationDate": "2018-03-13T08:41:53Z",
+  "expirationDate": "2026-03-13T08:41:53Z",
+  "updatedDate": "2025-03-18T08:16:53Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "angela.ns.cloudflare.com",
+    "dilbert.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1052",
+  "registrarIanaId": 1052,
+  "registrarName": "EuroDNS S.A.",
+  "registrarUrl": "http://www.eurodns.com",
+  "registrarAbuseEmail": "legalservices@eurodns.com",
+  "registrarAbusePhone": "+352.27220150",
+  "registrarWhoisServer": "whois.eurodns.com"
+}

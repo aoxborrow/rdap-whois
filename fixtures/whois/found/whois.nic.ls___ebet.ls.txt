@@ -1,0 +1,70 @@
+###%%% QRY: ebet.ls
+###%%% SRV: whois.nic.ls
+###%%% TME: 2026-07-16T11:42:09Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.10.2
+% Timestamp: Thu Jul 16 13:42:19 2026
+
+domain:       ebet.ls
+registrant:   ADMIN-REGISTRANT1856
+admin-c:      ADMIN-ADMIN1856
+nsset:        ADMIN-NS-1856
+registrar:    REG-ZEECOM
+registered:   13.10.2021 20:43:16
+expire:       13.10.2026
+
+contact:      ADMIN-REGISTRANT1856
+name:         Willie Delport
+address:      289 Bear Creek Boulevard
+address:      false
+address:      false
+address:      Pearl Valley Golf Estate
+address:      7646
+address:      Paarl
+address:      US
+Phone: [REDACTED].3054348621
+e-mail:       domains@marcaria.com
+registrar:    REG-ZEECOM
+created:      13.10.2021 20:43:11
+
+contact:      ADMIN-ADMIN1856
+name:         Willie Delport
+address:      289 Bear Creek Boulevard
+address:      false
+address:      false
+address:      Pearl Valley Golf Estate
+address:      7646
+address:      Paarl
+address:      US
+Phone: [REDACTED].3054348621
+e-mail:       domains@marcaria.com
+registrar:    REG-ZEECOM
+created:      13.10.2021 20:43:12
+
+nsset:        ADMIN-NS-1856
+nserver:      lou.ns.cloudflare.com 
+nserver:      rachel.ns.cloudflare.com 
+tech-c:       ADMIN-BILLING1856
+registrar:    REG-ZEECOM
+created:      13.10.2021 20:43:15
+changed:      14.01.2022 18:07:30
+
+contact:      ADMIN-BILLING1856
+name:         Willie Delport
+address:      289 Bear Creek Boulevard
+address:      false
+address:      false
+address:      Pearl Valley Golf Estate
+address:      7646
+address:      Paarl
+address:      US
+Phone: [REDACTED].3054348621
+e-mail:       domains@marcaria.com
+registrar:    REG-ZEECOM
+created:      13.10.2021 20:43:14
+
+
+>>> Terms: Data provided for information purposes only.
+>>> Rate limited; bulk access prohibited.

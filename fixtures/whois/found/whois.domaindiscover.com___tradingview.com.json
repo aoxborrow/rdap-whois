@@ -1,0 +1,61 @@
+{
+  "query": "tradingview.com",
+  "server": "whois.domaindiscover.com",
+  "domainName": "tradingview.com",
+  "creationDate": "2010-03-20T10:43:54Z",
+  "expirationDate": "2032-03-19T14:17:52Z",
+  "registrarExpirationDate": "2032-03-19T14:17:52Z",
+  "updatedDate": "2025-07-25T11:23:36Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-234.awsdns-29.com",
+    "ns-619.awsdns-13.net",
+    "ns-1533.awsdns-63.org",
+    "ns-1853.awsdns-39.co.uk"
+  ],
+  "registrarId": "86",
+  "registrarIanaId": 86,
+  "registrarName": "DomainSpot LLC",
+  "registrarUrl": "https://www.tierra.net",
+  "registrarAbuseEmail": "icann-abuse-reports@tierra.net",
+  "registrarAbusePhone": "+1.6193932105",
+  "registrarWhoisServer": "whois.domaindiscover.com",
+  "registrantName": "Whois Privacy Service",
+  "registrantOrg": "Whois Privacy Service",
+  "registrantAddress": [
+    "PO BOX 501610"
+  ],
+  "registrantCity": "San Diego",
+  "registrantState": "CA",
+  "registrantPostalCode": "92150-1610",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6193932111",
+  "registrantEmail": "whois@emailaddressprotection.com",
+  "adminName": "Whois Privacy Service",
+  "adminOrg": "Whois Privacy Service",
+  "adminAddress": [
+    "PO BOX 501610"
+  ],
+  "adminCity": "San Diego",
+  "adminState": "CA",
+  "adminPostalCode": "92150-1610",
+  "adminCountry": "US",
+  "adminPhone": "+1.6193932111",
+  "adminEmail": "whois@emailaddressprotection.com",
+  "techName": "Whois Privacy Service",
+  "techOrg": "Whois Privacy Service",
+  "techAddress": [
+    "PO BOX 501610"
+  ],
+  "techCity": "San Diego",
+  "techState": "CA",
+  "techPostalCode": "92150-1610",
+  "techCountry": "US",
+  "techPhone": "+1.6193932111",
+  "techEmail": "whois@emailaddressprotection.com"
+}

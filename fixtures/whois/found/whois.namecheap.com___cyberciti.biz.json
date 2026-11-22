@@ -1,0 +1,63 @@
+{
+  "query": "cyberciti.biz",
+  "server": "whois.namecheap.com",
+  "domainId": "D3209108-BIZ",
+  "domainName": "cyberciti.biz",
+  "creationDate": "2002-07-01T09:31:21Z",
+  "expirationDate": "2032-06-30T23:59:59Z",
+  "registrarExpirationDate": "2032-06-30T23:59:59Z",
+  "updatedDate": "2022-08-24T17:16:23Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dns1.cyberciti.biz",
+    "dns2.cyberciti.biz"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NAMECHEAP INC",
+  "registrarReseller": "NAMECHEAP INC",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantName": "Redacted for Privacy Purposes",
+  "registrantOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "registrantAddress": [
+    "16192 Coastal Highway"
+  ],
+  "registrantCity": "Lewes",
+  "registrantState": "Delaware",
+  "registrantPostalCode": "19958",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.3022061391",
+  "registrantEmail": "765c4298f1dc45c4b2e6c7fbcf35531a.protect@withheldforprivacy.com",
+  "adminName": "Redacted for Privacy Purposes",
+  "adminOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "adminAddress": [
+    "16192 Coastal Highway"
+  ],
+  "adminCity": "Lewes",
+  "adminState": "Delaware",
+  "adminPostalCode": "19958",
+  "adminCountry": "US",
+  "adminPhone": "+1.3022061391",
+  "adminEmail": "765c4298f1dc45c4b2e6c7fbcf35531a.protect@withheldforprivacy.com",
+  "techName": "Redacted for Privacy Purposes",
+  "techOrg": "Privacy service provided by WITHHELD FOR PRIVACY LLC",
+  "techAddress": [
+    "16192 Coastal Highway"
+  ],
+  "techCity": "Lewes",
+  "techState": "Delaware",
+  "techPostalCode": "19958",
+  "techCountry": "US",
+  "techPhone": "+1.3022061391",
+  "techEmail": "765c4298f1dc45c4b2e6c7fbcf35531a.protect@withheldforprivacy.com"
+}

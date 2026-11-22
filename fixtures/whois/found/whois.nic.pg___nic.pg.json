@@ -1,0 +1,39 @@
+{
+  "query": "nic.pg",
+  "server": "whois.nic.pg",
+  "domainId": "36769-nicpg",
+  "domainName": "nic.pg",
+  "creationDate": "2025-04-18T00:00:00Z",
+  "expirationDate": "2026-04-18T00:00:00Z",
+  "registrarExpirationDate": "2026-04-18T00:00:00Z",
+  "updatedDate": "2025-04-25T09:41:41Z",
+  "eppStatus": [
+    "ok",
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.desec.io",
+    "ns2.desec.org"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarName": "PG NIC Reserved",
+  "registrarAddress": [
+    "Private Mail Bag"
+  ],
+  "registrarCity": "Lae Morobe Province",
+  "registrarPostalCode": "411",
+  "registrarCountry": "PG",
+  "registrarPhone": "+(675) 473 4214",
+  "registrarEmail": "dns@pnguot.ac.pg",
+  "registrarAbuseEmail": "dns@pnguot.ac.pg",
+  "registrarAbusePhone": "+(675) 473 4214"
+}

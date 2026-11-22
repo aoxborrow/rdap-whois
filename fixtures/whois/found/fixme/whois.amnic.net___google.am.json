@@ -1,0 +1,43 @@
+{
+  "domainName": "google.am",
+  "creationDate": "1999-06-05T00:00:00Z",
+  "expirationDate": "2026-04-15T00:00:00Z",
+  "updatedDate": "2025-03-21T00:00:00Z",
+  "status": [
+    "active",
+    "registrar locked"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "abcdomain (ABCDomain LLC)",
+  "registrantName": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View, CA,  94043",
+    "US"
+  ],
+  "adminName": "Google, Inc.",
+  "adminOrg": "Google, Inc.",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View, CA, 94043",
+    "US"
+  ],
+  "adminPhone": "1 6502530000",
+  "adminFax": "1 6506188571",
+  "adminEmail": "ccops@markmonitor.com",
+  "techName": "DNS Admin",
+  "techOrg": "Google, Inc.",
+  "techAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View, CA, 94043",
+    "US"
+  ],
+  "techPhone": "1 6502530000",
+  "techFax": "1 6506188571",
+  "techEmail": "ccops@markmonitor.com"
+}

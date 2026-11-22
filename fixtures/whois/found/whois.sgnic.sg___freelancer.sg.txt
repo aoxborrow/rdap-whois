@@ -1,0 +1,31 @@
+###%%% QRY: freelancer.sg
+###%%% SRV: whois.sgnic.sg
+###%%% TME: 2026-07-16T23:58:27Z
+
+Domain Name: freelancer.sg
+Unicode Name: freelancer.sg
+Updated Date: 2024-08-16T16:57:32Z
+Creation Date: 2009-10-15T04:14:48Z
+Registry Expiry Date: 2026-10-15T04:14:48Z
+Registrar: Web Commerce Communications (S) Pte Ltd
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+VerifiedID Status: VerifiedID@SG-Not Required
+Registry Lock:
+Registrant Name: FREELANCER TECHNOLOGY PTY LIMITED
+Admin Name: WEB COMMERCE COMMUNICATIONS LTD
+Tech Name: 101DOMAIN GRS LTD
+Tech Email: tech1@101domain.com
+Name Server: ns-1221.awsdns-24.org
+Name Server: ns-1644.awsdns-13.co.uk
+Name Server: ns-429.awsdns-53.com
+Name Server: ns-843.awsdns-41.net
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:58:27Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% ----------------------------------------------------------------------
+% SGNIC WHOIS Server
+% ----------------------------------------------------------------------
+%
+% This data is provided for information purposes only.

@@ -1,0 +1,65 @@
+{
+  "query": "slashdot.org",
+  "server": "whois.godaddy.com",
+  "domainId": "D2289308-LROR",
+  "domainName": "slashdot.org",
+  "creationDate": "1997-10-05T04:00:00Z",
+  "expirationDate": "2027-10-04T04:00:00Z",
+  "registrarExpirationDate": "2027-10-04T04:00:00Z",
+  "updatedDate": "2024-10-05T16:45:27Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns11.constellix.com",
+    "ns21.constellix.com",
+    "ns31.constellix.com",
+    "ns41.constellix.net",
+    "ns51.constellix.net",
+    "ns61.constellix.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "https://www.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4806242505",
+  "registrarWhoisServer": "whois.godaddy.com",
+  "registrantId": "CR810147019",
+  "registrantName": "Registration Private",
+  "registrantOrg": "Domains By Proxy, LLC",
+  "registrantAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "registrantCity": "Tempe",
+  "registrantState": "Arizona",
+  "registrantPostalCode": "85281",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4806242599",
+  "registrantEmail": "https://www.godaddy.com/whois/results.aspx?domain=slashdot.org&action=contactDomainOwner",
+  "techId": "CR810147038",
+  "techName": "Registration Private",
+  "techOrg": "Domains By Proxy, LLC",
+  "techAddress": [
+    "DomainsByProxy.com",
+    "100 S. Mill Ave, Suite 1600"
+  ],
+  "techCity": "Tempe",
+  "techState": "Arizona",
+  "techPostalCode": "85281",
+  "techCountry": "US",
+  "techPhone": "+1.4806242599",
+  "techEmail": "https://www.godaddy.com/whois/results.aspx?domain=slashdot.org&action=contactDomainOwner"
+}

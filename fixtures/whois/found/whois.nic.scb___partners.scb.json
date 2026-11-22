@@ -1,0 +1,68 @@
+{
+  "query": "partners.scb",
+  "server": "whois.nic.scb",
+  "domainId": "DOMAIN_10058-SCB",
+  "domainName": "partners.scb",
+  "creationDate": "2019-03-21T06:58:35Z",
+  "expirationDate": "2027-03-21T06:58:35Z",
+  "updatedDate": "2026-02-05T12:33:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)",
+    "clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)",
+    "serverTransferProhibited (https://www.icann.org/epp#serverTransferProhibited)"
+  ],
+  "nameservers": [
+    "ns-145.awsdns-18.com",
+    "ns-743.awsdns-28.net",
+    "ns-1517.awsdns-61.org",
+    "ns-1852.awsdns-39.co.uk"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "1373",
+  "registrarIanaId": 1373,
+  "registrarName": "DOTARAI CO.,LTD.",
+  "registrarUrl": "http://www.nic.scb",
+  "registrarWhoisServer": "whois.nic.scb",
+  "registrantName": "Redacted for Data Protection",
+  "registrantOrg": "The Siam Commercial Bank Public Company Limited",
+  "registrantAddress": [
+    "Redacted for Data Protection"
+  ],
+  "registrantCity": "Redacted for Data Protection",
+  "registrantState": "Bangkok",
+  "registrantPostalCode": "Redacted for Data Protection",
+  "registrantCountry": "TH",
+  "registrantPhone": "Redacted for Data Protection",
+  "registrantFax": "Redacted for Data Protection",
+  "registrantEmail": "Please query the RDDS service of the Registrar for information on how to contact the Registrant",
+  "adminName": "Redacted for Data Protection",
+  "adminOrg": "Redacted for Data Protection",
+  "adminAddress": [
+    "Redacted for Data Protection"
+  ],
+  "adminCity": "Redacted for Data Protection",
+  "adminState": "Redacted for Data Protection",
+  "adminPostalCode": "Redacted for Data Protection",
+  "adminCountry": "TH",
+  "adminPhone": "Redacted for Data Protection",
+  "adminFax": "Redacted for Data Protection",
+  "adminEmail": "Please query the RDDS service of the Registrar for information on how to contact the Admin contact",
+  "techName": "Redacted for Data Protection",
+  "techOrg": "Redacted for Data Protection",
+  "techAddress": [
+    "Redacted for Data Protection"
+  ],
+  "techCity": "Redacted for Data Protection",
+  "techState": "Redacted for Data Protection",
+  "techPostalCode": "Redacted for Data Protection",
+  "techCountry": "TH",
+  "techPhone": "Redacted for Data Protection",
+  "techFax": "Redacted for Data Protection",
+  "techEmail": "Please query the RDDS service of the Registrar for information on how to contact the Tech contact"
+}

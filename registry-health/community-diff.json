@@ -1,0 +1,4058 @@
+{
+  "generatedAt": "2026-11-16T22:58:46.039Z",
+  "ourTlds": 1502,
+  "perSource": {
+    "debian/whois": {
+      "tlds": 1421,
+      "missingTld": [
+        {
+          "tld": "abbvie",
+          "server": "whois.nic.abbvie",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ads",
+          "server": "whois.nic.ads",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "android",
+          "server": "whois.nic.android",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "app",
+          "server": "whois.nic.app",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "audible",
+          "server": "whois.nic.audible",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "author",
+          "server": "whois.nic.author",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "aws",
+          "server": "whois.nic.aws",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "azure",
+          "server": "whois.nic.azure",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bbva",
+          "server": "whois.nic.bbva",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bing",
+          "server": "whois.nic.bing",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bom",
+          "server": "whois.nic.bom",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "boo",
+          "server": "whois.nic.boo",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "book",
+          "server": "whois.nic.book",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bot",
+          "server": "whois.nic.bot",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "broadway",
+          "server": "whois.nic.broadway",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "brussels",
+          "server": "whois.nic.brussels",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "buy",
+          "server": "whois.nic.buy",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "cal",
+          "server": "whois.nic.cal",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "call",
+          "server": "whois.nic.call",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "career",
+          "server": "whois.nic.career",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "channel",
+          "server": "whois.nic.channel",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "chrome",
+          "server": "whois.nic.chrome",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "cymru",
+          "server": "whois.nic.cymru",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "dad",
+          "server": "whois.nic.dad",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "day",
+          "server": "whois.nic.day",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "dclk",
+          "server": "whois.nic.dclk",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "deal",
+          "server": "whois.nic.deal",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "desi",
+          "server": "whois.nic.desi",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "dev",
+          "server": "whois.nic.dev",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "docs",
+          "server": "whois.nic.docs",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "drive",
+          "server": "whois.nic.drive",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "eat",
+          "server": "whois.nic.eat",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "esq",
+          "server": "whois.nic.esq",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fairwinds",
+          "server": "whois.nic.fairwinds",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fast",
+          "server": "whois.nic.fast",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "final",
+          "server": "whois.nic.final",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fire",
+          "server": "whois.nic.fire",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fly",
+          "server": "whois.nic.fly",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "foo",
+          "server": "whois.nic.foo",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "free",
+          "server": "whois.nic.free",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "gbiz",
+          "server": "whois.nic.gbiz",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "gle",
+          "server": "whois.nic.gle",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "globo",
+          "server": "whois.nic.globo",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "gmail",
+          "server": "whois.nic.gmail",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "goog",
+          "server": "whois.nic.goog",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "google",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "gucci",
+          "server": "whois.nic.gucci",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "guge",
+          "server": "whois.nic.guge",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "hangout",
+          "server": "whois.nic.hangout",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "here",
+          "server": "whois.nic.here",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "hot",
+          "server": "whois.nic.hot",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "hotmail",
+          "server": "whois.nic.hotmail",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "how",
+          "server": "whois.nic.how",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ieee",
+          "server": "whois.nic.ieee",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "imdb",
+          "server": "whois.nic.imdb",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ing",
+          "server": "whois.nic.ing",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "joy",
+          "server": "whois.nic.joy",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "kindle",
+          "server": "whois.nic.kindle",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "like",
+          "server": "whois.nic.like",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "locus",
+          "server": "whois.nic.locus",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "map",
+          "server": "whois.nic.map",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "med",
+          "server": "whois.nic.med",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "meet",
+          "server": "whois.nic.meet",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "meme",
+          "server": "whois.nic.meme",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "microsoft",
+          "server": "whois.nic.microsoft",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "moi",
+          "server": "whois.nic.moi",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "mov",
+          "server": "whois.nic.mov",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "mtn",
+          "server": "whois.nic.mtn",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "na",
+          "server": "whois.na-nic.com.na",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "new",
+          "server": "whois.nic.new",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "nexus",
+          "server": "whois.nic.nexus",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "now",
+          "server": "whois.nic.now",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "nowruz",
+          "server": "whois.nic.nowruz",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "office",
+          "server": "whois.nic.office",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "omega",
+          "server": "whois.nic.omega",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "page",
+          "server": "whois.nic.page",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pars",
+          "server": "whois.nic.pars",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pay",
+          "server": "whois.nic.pay",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pharmacy",
+          "server": "whois.nic.pharmacy",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "phd",
+          "server": "whois.nic.phd",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pin",
+          "server": "whois.nic.pin",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "play",
+          "server": "whois.nic.play",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "prime",
+          "server": "whois.nic.prime",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "prod",
+          "server": "whois.nic.prod",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "prof",
+          "server": "whois.nic.prof",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pru",
+          "server": "whois.nic.pru",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "prudential",
+          "server": "whois.nic.prudential",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "read",
+          "server": "whois.nic.read",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "realestate",
+          "server": "whois.nic.realestate",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "realtor",
+          "server": "whois.nic.realtor",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "rio",
+          "server": "whois.nic.rio",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "room",
+          "server": "whois.nic.room",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "rsvp",
+          "server": "whois.nic.rsvp",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "safe",
+          "server": "whois.nic.safe",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "sas",
+          "server": "whois.nic.sas",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "save",
+          "server": "whois.nic.save",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "search",
+          "server": "whois.nic.search",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "secure",
+          "server": "whois.nic.secure",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "shell",
+          "server": "whois.nic.shell",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "shia",
+          "server": "whois.nic.shia",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "silk",
+          "server": "whois.nic.silk",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "sky",
+          "server": "whois.nic.sky",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "skype",
+          "server": "whois.nic.skype",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "smile",
+          "server": "whois.nic.smile",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "soy",
+          "server": "whois.nic.soy",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "spb.ru",
+          "server": "whois.flexireg.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "spb.su",
+          "server": "whois.flexireg.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "spot",
+          "server": "whois.nic.spot",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "staples",
+          "server": "whois.nic.staples",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "statefarm",
+          "server": "whois.nic.statefarm",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "swatch",
+          "server": "whois.nic.swatch",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "talk",
+          "server": "whois.nic.talk",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "target",
+          "server": "whois.nic.target",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tci",
+          "server": "whois.nic.tci",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tjmaxx",
+          "server": "whois.nic.tjmaxx",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tjx",
+          "server": "whois.nic.tjx",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tkmaxx",
+          "server": "whois.nic.tkmaxx",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tunes",
+          "server": "whois.nic.tunes",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tushu",
+          "server": "whois.nic.tushu",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "uol",
+          "server": "whois.nic.uol",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "virgin",
+          "server": "whois.nic.virgin",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "vivo",
+          "server": "whois.nic.vivo",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "vlaanderen",
+          "server": "whois.nic.vlaanderen",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wales",
+          "server": "whois.nic.wales",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wanggou",
+          "server": "whois.nic.wanggou",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "weather",
+          "server": "whois.nic.weather",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "weatherchannel",
+          "server": "whois.nic.weatherchannel",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wed",
+          "server": "whois.nic.wed",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "williamhill",
+          "server": "whois.nic.williamhill",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "windows",
+          "server": "whois.nic.windows",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "winners",
+          "server": "whois.nic.winners",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wow",
+          "server": "whois.nic.wow",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xbox",
+          "server": "whois.nic.xbox",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--cckwcxetd",
+          "server": "whois.nic.xn--cckwcxetd",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--flw351e",
+          "server": "whois.nic.xn--flw351e",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--imr513n",
+          "server": "whois.nic.xn--imr513n",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--jlq480n2rg",
+          "server": "whois.nic.xn--jlq480n2rg",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--mgba3a3ejt",
+          "server": "whois.nic.xn--mgba3a3ejt",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--mgbt3dhd",
+          "server": "whois.nic.xn--mgbt3dhd",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--nyqy26a",
+          "server": "whois.nic.xn--nyqy26a",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--otu796d",
+          "server": "whois.nic.xn--otu796d",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--p1acf",
+          "server": "whois.nic.xn--p1acf",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--q9jyb4c",
+          "server": "whois.nic.xn--q9jyb4c",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--qcka1pmc",
+          "server": "whois.nic.xn--qcka1pmc",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "yamaxun",
+          "server": "whois.nic.yamaxun",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "you",
+          "server": "whois.nic.you",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "youtube",
+          "server": "whois.nic.youtube",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "za",
+          "server": "whois.nic.za",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "zappos",
+          "server": "whois.nic.zappos",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "zip",
+          "server": "whois.nic.zip",
+          "ourEntry": "null"
+        }
+      ],
+      "serverDisagrees": [
+        {
+          "tld": "ac.uk",
+          "ours": "whois.ja.net",
+          "theirs": "whois.nic.ac.uk"
+        },
+        {
+          "tld": "aco",
+          "ours": "whois.afilias-srs.net",
+          "theirs": "whois.nic.aco"
+        },
+        {
+          "tld": "amazon",
+          "ours": "whois.iana.org",
+          "theirs": "whois.nic.amazon"
+        },
+        {
+          "tld": "anquan",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.anquan"
+        },
+        {
+          "tld": "apple",
+          "ours": "whois.afilias-srs.net",
+          "theirs": "whois.nic.apple"
+        },
+        {
+          "tld": "baidu",
+          "ours": "whois.gtld.knet.cn",
+          "theirs": "whois.nic.baidu"
+        },
+        {
+          "tld": "bh",
+          "ours": "whois.bhregistry.bh",
+          "theirs": "whois.nic.bh"
+        },
+        {
+          "tld": "bz",
+          "ours": "whois.afilias-grs.info",
+          "theirs": "whois.identitydigital.services"
+        },
+        {
+          "tld": "click",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.click"
+        },
+        {
+          "tld": "cologne",
+          "ours": "whois.ryce-rsp.com",
+          "theirs": "whois.nic.cologne"
+        },
+        {
+          "tld": "country",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.country"
+        },
+        {
+          "tld": "datsun",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.datsun"
+        },
+        {
+          "tld": "diy",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.diy"
+        },
+        {
+          "tld": "feedback",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.feedback"
+        },
+        {
+          "tld": "food",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.food"
+        },
+        {
+          "tld": "forum",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.forum"
+        },
+        {
+          "tld": "fujitsu",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.fujitsu"
+        },
+        {
+          "tld": "gea",
+          "ours": "whois.afilias-srs.net",
+          "theirs": "whois.nic.gea"
+        },
+        {
+          "tld": "gift",
+          "ours": "whois.registry.gift",
+          "theirs": "whois.nic.gift"
+        },
+        {
+          "tld": "gov.uk",
+          "ours": "whois.ja.net",
+          "theirs": "whois.gov.uk"
+        },
+        {
+          "tld": "hisamitsu",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.hisamitsu"
+        },
+        {
+          "tld": "hitachi",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.hitachi"
+        },
+        {
+          "tld": "hiv",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.hiv"
+        },
+        {
+          "tld": "infiniti",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.infiniti"
+        },
+        {
+          "tld": "jcb",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.jcb"
+        },
+        {
+          "tld": "juegos",
+          "ours": "whois.uniregistry.net",
+          "theirs": "whois.nic.juegos"
+        },
+        {
+          "tld": "koeln",
+          "ours": "whois.ryce-rsp.com",
+          "theirs": "whois.nic.koeln"
+        },
+        {
+          "tld": "lc",
+          "ours": "whois.afilias-grs.info",
+          "theirs": "whois.identitydigital.services"
+        },
+        {
+          "tld": "lifestyle",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.lifestyle"
+        },
+        {
+          "tld": "link",
+          "ours": "whois.uniregistry.net",
+          "theirs": "whois.nic.link"
+        },
+        {
+          "tld": "living",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.living"
+        },
+        {
+          "tld": "mitsubishi",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.mitsubishi"
+        },
+        {
+          "tld": "music",
+          "ours": "whois.registryservices.music",
+          "theirs": "whois.nic.music"
+        },
+        {
+          "tld": "nissan",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.nissan"
+        },
+        {
+          "tld": "org",
+          "ours": "whois.publicinterestregistry.org",
+          "theirs": "whois.pir.org"
+        },
+        {
+          "tld": "panasonic",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.panasonic"
+        },
+        {
+          "tld": "pid",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.pid"
+        },
+        {
+          "tld": "pioneer",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.pioneer"
+        },
+        {
+          "tld": "pr",
+          "ours": "whois.afilias-srs.net",
+          "theirs": "whois.nic.pr"
+        },
+        {
+          "tld": "property",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.property"
+        },
+        {
+          "tld": "sc",
+          "ours": "whois.afilias-grs.info",
+          "theirs": "whois.nic.sc"
+        },
+        {
+          "tld": "schaeffler",
+          "ours": "whois.afilias-srs.net",
+          "theirs": "whois.nic.schaeffler"
+        },
+        {
+          "tld": "sener",
+          "ours": "whois.nic.rwe",
+          "theirs": "whois.nic.sener"
+        },
+        {
+          "tld": "sexy",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.sexy"
+        },
+        {
+          "tld": "sharp",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.sharp"
+        },
+        {
+          "tld": "shouji",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.shouji"
+        },
+        {
+          "tld": "trust",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.trust"
+        },
+        {
+          "tld": "vana",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.vana"
+        },
+        {
+          "tld": "wang",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.wang"
+        },
+        {
+          "tld": "xihuan",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.xihuan"
+        },
+        {
+          "tld": "xn--1qqw23a",
+          "ours": "whois.ngtld.cn",
+          "theirs": "whois.nic.xn--1qqw23a"
+        },
+        {
+          "tld": "xn--30rr7y",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--30rr7y"
+        },
+        {
+          "tld": "xn--3bst00m",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--3bst00m"
+        },
+        {
+          "tld": "xn--3ds443g",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.xn--3ds443g"
+        },
+        {
+          "tld": "xn--45q11c",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--45q11c"
+        },
+        {
+          "tld": "xn--55qx5d",
+          "ours": "whois.ngtld.cn",
+          "theirs": "whois.nic.xn--55qx5d"
+        },
+        {
+          "tld": "xn--6qq986b3xl",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--6qq986b3xl"
+        },
+        {
+          "tld": "xn--9et52u",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--9et52u"
+        },
+        {
+          "tld": "xn--cg4bki",
+          "ours": "whois.kr",
+          "theirs": "whois.nic.xn--cg4bki"
+        },
+        {
+          "tld": "xn--czru2d",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--czru2d"
+        },
+        {
+          "tld": "xn--efvy88h",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--efvy88h"
+        },
+        {
+          "tld": "xn--fiq228c5hs",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.xn--fiq228c5hs"
+        },
+        {
+          "tld": "xn--fiq64b",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--fiq64b"
+        },
+        {
+          "tld": "xn--hxt814e",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--hxt814e"
+        },
+        {
+          "tld": "xn--io0a7i",
+          "ours": "whois.ngtld.cn",
+          "theirs": "whois.nic.xn--io0a7i"
+        },
+        {
+          "tld": "xn--vuq861b",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.xn--vuq861b"
+        },
+        {
+          "tld": "xn--xhq521b",
+          "ours": "whois.ngtld.cn",
+          "theirs": "whois.nic.xn--xhq521b"
+        },
+        {
+          "tld": "yodobashi",
+          "ours": "whois.nic.gmo",
+          "theirs": "whois.nic.yodobashi"
+        },
+        {
+          "tld": "yun",
+          "ours": "whois.teleinfo.cn",
+          "theirs": "whois.nic.yun"
+        }
+      ],
+      "weOnly": [
+        "alt.za",
+        "bentley",
+        "cf",
+        "dunlop",
+        "es",
+        "goo",
+        "gq",
+        "info",
+        "jo",
+        "lancaster",
+        "merck",
+        "mo",
+        "mobi",
+        "pro",
+        "ps",
+        "redstone",
+        "travel",
+        "uy",
+        "wolterskluwer",
+        "xn--mgbcpq6gpa1a",
+        "xn--mix891f",
+        "xn--ygbi2ammx"
+      ]
+    },
+    "weppos/whois": {
+      "tlds": 1320,
+      "missingTld": [
+        {
+          "tld": "abarth",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "abbvie",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ads",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ae.org",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "aeroport.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "afamilycompany",
+          "server": "whois.nic.afamilycompany",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "africa.com",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "aigo",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "alfaromeo",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "android",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "app",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ar.com",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "audible",
+          "server": "whois.nic.audible",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "author",
+          "server": "whois.nic.author",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "avianca",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "avocat.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "aws",
+          "server": "whois.nic.aws",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bbva",
+          "server": "whois.nic.bbva",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bom",
+          "server": "whois.gtlds.nic.br",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "boo",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "book",
+          "server": "whois.nic.book",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "bot",
+          "server": "whois.nic.bot",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "broadway",
+          "server": "whois.nic.broadway",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "brussels",
+          "server": "whois.nic.brussels",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "budapest",
+          "server": "whois-dub.mm-registry.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "bugatti",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "buy",
+          "server": "whois.nic.buy",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "cal",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "call",
+          "server": "whois.nic.call",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "cancerresearch",
+          "server": "whois.nic.cancerresearch",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "career",
+          "server": "whois.nic.career",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "caseih",
+          "server": "whois.nic.caseih",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "cbs",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "ceb",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "chambagri.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "channel",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "chirurgiens-dentistes.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "chrome",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "cityeats",
+          "server": "whois.nic.cityeats",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "co.com",
+          "server": "whois.centralnic.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "com.de",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "com.se",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "comcast",
+          "server": "whois.nic.comcast",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "cookingchannel",
+          "server": "whois.nic.cookingchannel",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "csc",
+          "server": "whois.nic.csc",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "cymru",
+          "server": "whois.nic.cymru",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "dabur",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "dad",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "day",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "dclk",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "deal",
+          "server": "whois.nic.deal",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "desi",
+          "server": "whois.nic.desi",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "dev",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "docs",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "doosan",
+          "server": "whois.nic.xn--cg4bki",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "drive",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "duck",
+          "server": "whois.nic.duck",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "eat",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "esq",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "esurance",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "etisalat",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "experts-comptables.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "fairwinds",
+          "server": "whois.nic.fairwinds",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fast",
+          "server": "whois.nic.fast",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fiat",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "final",
+          "server": "whois.gtlds.nic.br",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fire",
+          "server": "whois.nic.fire",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "fly",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "foo",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "foodnetwork",
+          "server": "whois.nic.foodnetwork",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "free",
+          "server": "whois.nic.free",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "frontdoor",
+          "server": "whois.nic.frontdoor",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "fujixerox",
+          "server": "whois.nic.fujixerox",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "gbiz",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "geometre-expert.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "glade",
+          "server": "whois.nic.glade",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "gle",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "globo",
+          "server": "whois.gtlds.nic.br",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "gmail",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "goog",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "google",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "guge",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "hangout",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "here",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "hgtv",
+          "server": "whois.nic.hgtv",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "hk.com",
+          "server": "whois.registry.hk.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "hk.org",
+          "server": "whois.registry.hk.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "hot",
+          "server": "whois.nic.hot",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "how",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "hu.net",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "imdb",
+          "server": "whois.nic.imdb",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "in.ua",
+          "server": "whois.in.ua",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "inc.hk",
+          "server": "whois.registry.hk.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "ing",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "iveco",
+          "server": "whois.nic.iveco",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "jcp",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "jobs",
+          "server": "whois.nic.jobs",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "joy",
+          "server": "whois.nic.joy",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "jp.net",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "kerrylogistics",
+          "server": "whois.nic.kerrylogistics",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "kindle",
+          "server": "whois.nic.kindle",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "kr.com",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "lancia",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "like",
+          "server": "whois.nic.like",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "linde",
+          "server": "whois.nic.linde",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "lipsy",
+          "server": "whois.nic.lipsy",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "lixil",
+          "server": "whois.nic.lixil",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "locus",
+          "server": "whois.nic.locus",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ltd.hk",
+          "server": "whois.registry.hk.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "macys",
+          "server": "whois.nic.macys",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "map",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "maserati",
+          "server": "whois.nic.maserati",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "med",
+          "server": "whois.nic.med",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "medecin.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "meet",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "meme",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "metlife",
+          "server": "whois.nic.metlife",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "moi",
+          "server": "whois.nic.moi",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "mov",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "mtn",
+          "server": "whois.nic.mtn",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "na",
+          "server": "whois.na-nic.com.na",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "nadex",
+          "server": "whois.nic.nadex",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "nationwide",
+          "server": "whois.nic.nationwide",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "natura",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "new",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "newholland",
+          "server": "whois.nic.newholland",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "nexus",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "notaires.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "now",
+          "server": "whois.nic.now",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "nowruz",
+          "server": "whois.nic.nowruz",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "off",
+          "server": "whois.nic.off",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "omega",
+          "server": "whois.nic.omega",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "onyourside",
+          "server": "whois.nic.onyourside",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "orientexpress",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "origin",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "page",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pars",
+          "server": "whois.nic.pars",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pay",
+          "server": "whois.nic.pay",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pharmacien.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "phd",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pin",
+          "server": "whois.nic.pin",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "play",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "port.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "prime",
+          "server": "whois.nic.prime",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "prod",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "prof",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "raid",
+          "server": "whois.nic.raid",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "read",
+          "server": "whois.nic.read",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "realestate",
+          "server": "whois.nic.realestate",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "rightathome",
+          "server": "whois.nic.rightathome",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "rio",
+          "server": "whois.gtlds.nic.br",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "rmit",
+          "server": "whois.aridnrs.net.au",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "room",
+          "server": "whois.nic.room",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "rsvp",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "safe",
+          "server": "whois.nic.safe",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "save",
+          "server": "whois.nic.save",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "sca",
+          "server": "whois.nic.sca",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "scjohnson",
+          "server": "whois.nic.scjohnson",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "scor",
+          "server": "whois.nic.scor",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "search",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "secure",
+          "server": "whois.nic.secure",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "ses",
+          "server": "whois.nic.ses",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "shaw",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "shell",
+          "server": "whois.nic.shell",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "shia",
+          "server": "whois.nic.shia",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "showtime",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "shriram",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "silk",
+          "server": "whois.nic.silk",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "sky",
+          "server": "whois.nic.sky",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "smile",
+          "server": "whois.nic.smile",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "soy",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "spot",
+          "server": "whois.nic.spot",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "spreadbetting",
+          "server": "whois.nic.spreadbetting",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "swatch",
+          "server": "whois.nic.swatch",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "symantec",
+          "server": "whois.nic.symantec",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "talk",
+          "server": "whois.nic.talk",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tci",
+          "server": "whois.nic.tci",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tiffany",
+          "server": "whois.nic.tiffany",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "tiia",
+          "server": "whois.nic.tiia",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "travelchannel",
+          "server": "whois.nic.travelchannel",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "tunes",
+          "server": "whois.nic.tunes",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "tushu",
+          "server": "whois.nic.tushu",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "uol",
+          "server": "whois.gtlds.nic.br",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "us.org",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "veterinaire.fr",
+          "server": "whois.smallregistry.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "virgin",
+          "server": "whois.nic.virgin",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "vlaanderen",
+          "server": "whois.nic.vlaanderen",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "volkswagen",
+          "server": "whois.afilias-srs.net",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "wales",
+          "server": "whois.nic.wales",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wanggou",
+          "server": "whois.nic.wanggou",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wed",
+          "server": "whois.nic.wed",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "wow",
+          "server": "whois.nic.wow",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xfinity",
+          "server": "whois.nic.xfinity",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "xn--3oq18vl8pn36a",
+          "server": "whois.nic.xn--3oq18vl8pn36a",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "xn--flw351e",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--jlq61u9w7b",
+          "server": "whois.nic.xn--jlq61u9w7b",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "xn--mgbaakc7dvf",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "xn--mgbt3dhd",
+          "server": "whois.nic.xn--mgbt3dhd",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--node",
+          "server": "whois.itdc.ge",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--p1acf",
+          "server": "whois.nic.xn--p1acf",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--q9jyb4c",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "xn--qcka1pmc",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "yamaxun",
+          "server": "whois.nic.yamaxun",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "you",
+          "server": "whois.nic.you",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "youtube",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "za.bz",
+          "server": "whois.centralnic.com",
+          "ourEntry": "absent"
+        },
+        {
+          "tld": "zappos",
+          "server": "whois.nic.zappos",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "zip",
+          "server": "whois.nic.google",
+          "ourEntry": "null"
+        }
+      ],
+      "serverDisagrees": [
+        {
+          "tld": "abbott",
+          "ours": "whois.nic.abbott",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "adult",
+          "ours": "whois.nic.adult",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "africa",
+          "ours": "whois.nic.africa",
+          "theirs": "africa-whois.registry.net.za"
+        },
+        {
+          "tld": "agakhan",
+          "ours": "whois.nic.agakhan",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "akdn",
+          "ours": "whois.nic.akdn",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "allstate",
+          "ours": "whois.nic.allstate",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "alsace",
+          "ours": "whois.nic.alsace",
+          "theirs": "whois-alsace.nic.fr"
+        },
+        {
+          "tld": "aquarelle",
+          "ours": "whois.nic.aquarelle",
+          "theirs": "whois-aquarelle.nic.fr"
+        },
+        {
+          "tld": "archi",
+          "ours": "whois.nic.archi",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "audi",
+          "ours": "whois.nic.audi",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "audio",
+          "ours": "whois.nic.audio",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "auto",
+          "ours": "whois.nic.auto",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "autos",
+          "ours": "whois.nic.autos",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "beats",
+          "ours": "whois.nic.beats",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "bet",
+          "ours": "whois.nic.bet",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "bio",
+          "ours": "whois.nic.bio",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "biz",
+          "ours": "whois.nic.biz",
+          "theirs": "whois.biz"
+        },
+        {
+          "tld": "black",
+          "ours": "whois.nic.black",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "blackfriday",
+          "ours": "whois.nic.blackfriday",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "blue",
+          "ours": "whois.nic.blue",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "bnpparibas",
+          "ours": "whois.nic.bnpparibas",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "boats",
+          "ours": "whois.nic.boats",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "boehringer",
+          "ours": "whois.nic.boehringer",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "bostik",
+          "ours": "whois.nic.bostik",
+          "theirs": "whois-bostik.nic.fr"
+        },
+        {
+          "tld": "box",
+          "ours": "whois.nic.box",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "br.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "capetown",
+          "ours": "whois.nic.capetown",
+          "theirs": "capetown-whois.registry.net.za"
+        },
+        {
+          "tld": "car",
+          "ours": "whois.nic.car",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "cars",
+          "ours": "whois.nic.cars",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "catholic",
+          "ours": "whois.nic.catholic",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "cern",
+          "ours": "whois.nic.cern",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "christmas",
+          "ours": "whois.nic.christmas",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "cipriani",
+          "ours": "whois.nic.cipriani",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "circle",
+          "ours": "whois.nic.circle",
+          "theirs": "whois.nic.cirle"
+        },
+        {
+          "tld": "click",
+          "ours": "whois.registry.click",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "cm",
+          "ours": "whois.nic.cm",
+          "theirs": "whois.netcom.cm"
+        },
+        {
+          "tld": "cn.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "co.za",
+          "ours": "whois.registry.net.za",
+          "theirs": "coza-whois.registry.net.za"
+        },
+        {
+          "tld": "corsica",
+          "ours": "whois.nic.corsica",
+          "theirs": "whois-corsica.nic.fr"
+        },
+        {
+          "tld": "country",
+          "ours": "whois.registry.click",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "courses",
+          "ours": "whois.nic.courses",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "creditunion",
+          "ours": "whois.nic.creditunion",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "de.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "diet",
+          "ours": "whois.nic.diet",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "diy",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.diy"
+        },
+        {
+          "tld": "dk",
+          "ours": "whois.punktum.dk",
+          "theirs": "whois.dk-hostmaster.dk"
+        },
+        {
+          "tld": "dm",
+          "ours": "whois.dmdomains.dm",
+          "theirs": "whois.nic.dm"
+        },
+        {
+          "tld": "durban",
+          "ours": "whois.nic.durban",
+          "theirs": "durban-whois.registry.net.za"
+        },
+        {
+          "tld": "dvr",
+          "ours": "whois.nic.dvr",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "edeka",
+          "ours": "whois.nic.edeka",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "emerck",
+          "ours": "whois.nic.emerck",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "epson",
+          "ours": "whois.nic.epson",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "eu.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "extraspace",
+          "ours": "whois.nic.extraspace",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "fage",
+          "ours": "whois.nic.fage",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "feedback",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.feedback"
+        },
+        {
+          "tld": "fido",
+          "ours": "whois.nic.fido",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "fj",
+          "ours": "www.whois.fj",
+          "theirs": "whois.usp.ac.fj"
+        },
+        {
+          "tld": "flowers",
+          "ours": "whois.nic.flowers",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "forum",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.forum"
+        },
+        {
+          "tld": "ga",
+          "ours": "whois.nic.ga",
+          "theirs": "whois.dot.ga"
+        },
+        {
+          "tld": "game",
+          "ours": "whois.nic.game",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "gb.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "gb.net",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "ge",
+          "ours": "whois.nic.ge",
+          "theirs": "whois.registration.ge"
+        },
+        {
+          "tld": "gi",
+          "ours": "whois.identitydigital.services",
+          "theirs": "whois.afilias-grs.info"
+        },
+        {
+          "tld": "gift",
+          "ours": "whois.registry.gift",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "gmx",
+          "ours": "whois.nic.gmx",
+          "theirs": "whois-fe1.gmx.tango.knipp.de"
+        },
+        {
+          "tld": "godaddy",
+          "ours": "whois.nic.godaddy",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "gov",
+          "ours": "whois.nic.gov",
+          "theirs": "whois.dotgov.gov"
+        },
+        {
+          "tld": "gr.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "green",
+          "ours": "whois.nic.green",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "guitars",
+          "ours": "whois.nic.guitars",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "help",
+          "ours": "whois.nic.help",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "hermes",
+          "ours": "whois.nic.hermes",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "hiphop",
+          "ours": "whois.nic.hiphop",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "hiv",
+          "ours": "whois.registry.click",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "homes",
+          "ours": "whois.nic.homes",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "hosting",
+          "ours": "whois.nic.hosting",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "hu.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "ie",
+          "ours": "whois.weare.ie",
+          "theirs": "whois.iedr.ie"
+        },
+        {
+          "tld": "ikano",
+          "ours": "whois.nic.ikano",
+          "theirs": "whois.ikano.tld-box.at"
+        },
+        {
+          "tld": "imamat",
+          "ours": "whois.nic.imamat",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "in.net",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "info",
+          "ours": "whois.nic.info",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "ismaili",
+          "ours": "whois.nic.ismaili",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "ist",
+          "ours": "whois.nic.ist",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "istanbul",
+          "ours": "whois.nic.istanbul",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "itv",
+          "ours": "whois.nic.itv",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "jeep",
+          "ours": "whois.nic.jeep",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "jll",
+          "ours": "whois.nic.jll",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "joburg",
+          "ours": "whois.nic.joburg",
+          "theirs": "joburg-whois.registry.net.za"
+        },
+        {
+          "tld": "jpn.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "kim",
+          "ours": "whois.nic.kim",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "krd",
+          "ours": "whois.nic.krd",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "lamborghini",
+          "ours": "whois.nic.lamborghini",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "lancaster",
+          "ours": "whois.nic.lancaster",
+          "theirs": "whois-lancaster.nic.fr"
+        },
+        {
+          "tld": "lasalle",
+          "ours": "whois.nic.lasalle",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "leclerc",
+          "ours": "whois.nic.leclerc",
+          "theirs": "whois-leclerc.nic.fr"
+        },
+        {
+          "tld": "lgbt",
+          "ours": "whois.nic.lgbt",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "lifestyle",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.lifestyle"
+        },
+        {
+          "tld": "llc",
+          "ours": "whois.nic.llc",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "lol",
+          "ours": "whois.nic.lol",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "lotto",
+          "ours": "whois.nic.lotto",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "ltda",
+          "ours": "whois.nic.ltda",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "madrid",
+          "ours": "whois.nic.madrid",
+          "theirs": "whois.madrid.rs.corenic.net"
+        },
+        {
+          "tld": "marriott",
+          "ours": "whois.nic.marriott",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "melbourne",
+          "ours": "whois.nic.melbourne",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "mit",
+          "ours": "whois.nic.mit",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "ml",
+          "ours": "whois.nic.ml",
+          "theirs": "whois.dot.ml"
+        },
+        {
+          "tld": "mma",
+          "ours": "whois.nic.mma",
+          "theirs": "whois-mma.nic.fr"
+        },
+        {
+          "tld": "mobi",
+          "ours": "whois.nic.mobi",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "mom",
+          "ours": "whois.nic.mom",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "motorcycles",
+          "ours": "whois.nic.motorcycles",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "mu",
+          "ours": "whois.tld.mu",
+          "theirs": "whois.nic.mu"
+        },
+        {
+          "tld": "ngo",
+          "ours": "whois.nic.ngo",
+          "theirs": "whois.publicinterestregistry.net"
+        },
+        {
+          "tld": "no.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "nokia",
+          "ours": "whois.nic.nokia",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "nra",
+          "ours": "whois.nic.nra",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "nz",
+          "ours": "whois.irs.net.nz",
+          "theirs": "whois.srs.net.nz"
+        },
+        {
+          "tld": "ong",
+          "ours": "whois.nic.ong",
+          "theirs": "whois.publicinterestregistry.net"
+        },
+        {
+          "tld": "onl",
+          "ours": "whois.nic.onl",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "org",
+          "ours": "whois.publicinterestregistry.org",
+          "theirs": "whois.pir.org"
+        },
+        {
+          "tld": "organic",
+          "ours": "whois.nic.organic",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "ovh",
+          "ours": "whois.nic.ovh",
+          "theirs": "whois.ovh.com"
+        },
+        {
+          "tld": "paris",
+          "ours": "whois.nic.paris",
+          "theirs": "whois-paris.nic.fr"
+        },
+        {
+          "tld": "pet",
+          "ours": "whois.nic.pet",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "photo",
+          "ours": "whois.nic.photo",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "pics",
+          "ours": "whois.nic.pics",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "pid",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.pid"
+        },
+        {
+          "tld": "pink",
+          "ours": "whois.nic.pink",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "poker",
+          "ours": "whois.nic.poker",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "politie",
+          "ours": "whois.nic.politie",
+          "theirs": "whois.nicpolitie"
+        },
+        {
+          "tld": "porn",
+          "ours": "whois.nic.porn",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "post",
+          "ours": "whois.nic.post",
+          "theirs": "whois.dotpostregistry.net"
+        },
+        {
+          "tld": "pro",
+          "ours": "whois.nic.pro",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "progressive",
+          "ours": "whois.nic.progressive",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "promo",
+          "ours": "whois.nic.promo",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "property",
+          "ours": "whois.registry.click",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "protection",
+          "ours": "whois.nic.protection",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "pwc",
+          "ours": "whois.nic.pwc",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "qc.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "red",
+          "ours": "whois.nic.red",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "redumbrella",
+          "ours": "whois.nic.redumbrella",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "rich",
+          "ours": "whois.nic.rich",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "rogers",
+          "ours": "whois.nic.rogers",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "ru.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "rugby",
+          "ours": "whois.nic.rugby",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "sa.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "samsung",
+          "ours": "whois.nic.samsung",
+          "theirs": "whois.nic.xn--cg4bki"
+        },
+        {
+          "tld": "saxo",
+          "ours": "whois.nic.saxo",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "se.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "se.net",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "sew",
+          "ours": "whois.nic.sew",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "sex",
+          "ours": "whois.nic.sex",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "sexy",
+          "ours": "whois.registry.click",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "shiksha",
+          "ours": "whois.nic.shiksha",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "ski",
+          "ours": "whois.nic.ski",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "sncf",
+          "ours": "whois.nic.sncf",
+          "theirs": "whois-sncf.nic.fr"
+        },
+        {
+          "tld": "srl",
+          "ours": "whois.nic.srl",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "stada",
+          "ours": "whois.nic.stada",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "stockholm",
+          "ours": "whois.nic.stockholm",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "tattoo",
+          "ours": "whois.nic.tattoo",
+          "theirs": "whois.uniregistry.net"
+        },
+        {
+          "tld": "temasek",
+          "ours": "whois.nic.temasek",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "tf",
+          "ours": "whois.nic.tf",
+          "theirs": "whois.nic.fr"
+        },
+        {
+          "tld": "to",
+          "ours": "whois.tonicregistry.to",
+          "theirs": "whois.tonic.to"
+        },
+        {
+          "tld": "total",
+          "ours": "whois.nic.total",
+          "theirs": "whois-total.nic.fr"
+        },
+        {
+          "tld": "travelers",
+          "ours": "whois.nic.travelers",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "travelersinsurance",
+          "ours": "whois.nic.travelersinsurance",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "trust",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.trust"
+        },
+        {
+          "tld": "trv",
+          "ours": "whois.nic.trv",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "uk.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "uk.net",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "us.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "uy.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "vana",
+          "ours": "whois.registry.click",
+          "theirs": "whois.nic.vana"
+        },
+        {
+          "tld": "vc",
+          "ours": "whois.identitydigital.services",
+          "theirs": "whois.afilias-grs.info"
+        },
+        {
+          "tld": "vegas",
+          "ours": "whois.nic.vegas",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "vig",
+          "ours": "whois.nic.vig",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "viking",
+          "ours": "whois.nic.viking",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "vote",
+          "ours": "whois.nic.vote",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "voting",
+          "ours": "whois.nic.voting",
+          "theirs": "whois.voting.tld-box.at"
+        },
+        {
+          "tld": "voto",
+          "ours": "whois.nic.voto",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "vu",
+          "ours": "whois.dnrs.vu",
+          "theirs": "vunic.vu"
+        },
+        {
+          "tld": "wang",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--30rr7y",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--3bst00m",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--4gbrim",
+          "ours": "whois.nic.xn--4gbrim",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "xn--55qw42g",
+          "ours": "whois.nic.xn--55qw42g",
+          "theirs": "whois.conac.cn"
+        },
+        {
+          "tld": "xn--6frz82g",
+          "ours": "whois.nic.xn--6frz82g",
+          "theirs": "whois.afilias.net"
+        },
+        {
+          "tld": "xn--6qq986b3xl",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--80aqecdr1a",
+          "ours": "whois.nic.xn--80aqecdr1a",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "xn--80asehdb",
+          "ours": "whois.nic.xn--80asehdb",
+          "theirs": "whois.online.rs.corenic.net"
+        },
+        {
+          "tld": "xn--80aswg",
+          "ours": "whois.nic.xn--80aswg",
+          "theirs": "whois.online.rs.corenic.net"
+        },
+        {
+          "tld": "xn--8y0a063a",
+          "ours": "whois.nic.xn--8y0a063a",
+          "theirs": "whois.imena.bg"
+        },
+        {
+          "tld": "xn--9et52u",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--b4w605ferd",
+          "ours": "whois.nic.xn--b4w605ferd",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "xn--c1avg",
+          "ours": "whois.nic.xn--c1avg",
+          "theirs": "whois.publicinterestregistry.net"
+        },
+        {
+          "tld": "xn--clchc0ea0b2g2a9gcd",
+          "ours": "whois.ta.sgnic.sg",
+          "theirs": "whois.sgnic.sg"
+        },
+        {
+          "tld": "xn--czru2d",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--efvy88h",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--efvy88h"
+        },
+        {
+          "tld": "xn--fiq64b",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.gtld.knet.cn"
+        },
+        {
+          "tld": "xn--fiqs8s",
+          "ours": "whois.cnnic.cn",
+          "theirs": "cwhois.cnnic.cn"
+        },
+        {
+          "tld": "xn--fiqz9s",
+          "ours": "whois.cnnic.cn",
+          "theirs": "cwhois.cnnic.cn"
+        },
+        {
+          "tld": "xn--g2xx48c",
+          "ours": "whois.nic.xn--g2xx48c",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "xn--hxt814e",
+          "ours": "whois.gtld.zdns.cn",
+          "theirs": "whois.nic.xn--hxt814e"
+        },
+        {
+          "tld": "xn--i1b6b1a6a2e",
+          "ours": "whois.nic.xn--i1b6b1a6a2e",
+          "theirs": "whois.publicinterestregistry.net"
+        },
+        {
+          "tld": "xn--mgbca7dzdo",
+          "ours": "whois.nic.xn--mgbca7dzdo",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "xn--mgbi4ecexp",
+          "ours": "whois.nic.xn--mgbi4ecexp",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "xn--nqv7f",
+          "ours": "whois.nic.xn--nqv7f",
+          "theirs": "whois.publicinterestregistry.net"
+        },
+        {
+          "tld": "xn--ses554g",
+          "ours": "whois.nic.xn--ses554g",
+          "theirs": "whois.registry.knet.cn"
+        },
+        {
+          "tld": "xn--tiq49xqyj",
+          "ours": "whois.nic.xn--tiq49xqyj",
+          "theirs": "whois.aridnrs.net.au"
+        },
+        {
+          "tld": "xn--xhq521b",
+          "ours": "whois.ngtld.cn",
+          "theirs": "whois.teleinfo.cn"
+        },
+        {
+          "tld": "xn--yfro4i67o",
+          "ours": "whois.zh.sgnic.sg",
+          "theirs": "whois.sgnic.sg"
+        },
+        {
+          "tld": "xn--zfr164b",
+          "ours": "whois.nic.xn--zfr164b",
+          "theirs": "whois.conac.cn"
+        },
+        {
+          "tld": "yachts",
+          "ours": "whois.nic.yachts",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
+          "tld": "za.com",
+          "ours": "whois.centralnic.net",
+          "theirs": "whois.centralnic.com"
+        },
+        {
+          "tld": "zara",
+          "ours": "whois.nic.zara",
+          "theirs": "whois.afilias-srs.net"
+        }
+      ],
+      "weOnly": [
+        "aaa",
+        "abb",
+        "able",
+        "ac.ru",
+        "ac.uk",
+        "accenture",
+        "ad",
+        "aetna",
+        "aig",
+        "amazon",
+        "americanexpress",
+        "amex",
+        "amica",
+        "analytics",
+        "arab",
+        "aramco",
+        "athleta",
+        "axa",
+        "banamex",
+        "baseball",
+        "bf",
+        "bh",
+        "bharti",
+        "biz.ua",
+        "bloomberg",
+        "bm",
+        "booking",
+        "calvinklein",
+        "caravan",
+        "cbn",
+        "cbre",
+        "chase",
+        "cisco",
+        "citadel",
+        "citi",
+        "citic",
+        "co.ua",
+        "com.ru",
+        "cpa",
+        "crown",
+        "crs",
+        "cv",
+        "dealer",
+        "dell",
+        "dhl",
+        "discover",
+        "dnp",
+        "do",
+        "dupont",
+        "earth",
+        "edu.cn",
+        "farmers",
+        "fed.us",
+        "ferrero",
+        "flickr",
+        "flir",
+        "food",
+        "ford",
+        "frontier",
+        "ftr",
+        "gap",
+        "gay",
+        "gh",
+        "gmo",
+        "gn",
+        "gov.scot",
+        "gov.uk",
+        "gov.wales",
+        "gp",
+        "grainger",
+        "grocery",
+        "hair",
+        "hbo",
+        "health",
+        "homegoods",
+        "homesense",
+        "hotels",
+        "hsbc",
+        "hyatt",
+        "intuit",
+        "ipiranga",
+        "itau",
+        "jmp",
+        "jnj",
+        "jo",
+        "jpmorgan",
+        "jprs",
+        "kids",
+        "kpmg",
+        "kpn",
+        "kred",
+        "kw",
+        "lanxess",
+        "lb",
+        "lifeinsurance",
+        "lilly",
+        "lincoln",
+        "living",
+        "llp",
+        "llyw.cymru",
+        "ls",
+        "maif",
+        "marshalls",
+        "mattel",
+        "mc",
+        "merck",
+        "merckmsd",
+        "mint",
+        "mlb",
+        "mm",
+        "moto",
+        "msd",
+        "msk.ru",
+        "msk.su",
+        "mt",
+        "music",
+        "nba",
+        "net.ru",
+        "netflix",
+        "neustar",
+        "nfl",
+        "nhk",
+        "nike",
+        "nov.ru",
+        "nov.su",
+        "ntt",
+        "open",
+        "org.ru",
+        "otsuka",
+        "pfizer",
+        "pg",
+        "pictet",
+        "ping",
+        "pk",
+        "pp.ru",
+        "pp.ua",
+        "praxi",
+        "qpon",
+        "ren",
+        "safety",
+        "sakura",
+        "sd",
+        "sener",
+        "sohu",
+        "spa",
+        "sr",
+        "suzuki",
+        "taobao",
+        "td",
+        "tdk",
+        "tmall",
+        "tube",
+        "uk.co",
+        "unicom",
+        "vi",
+        "watches",
+        "web.com",
+        "weir",
+        "xn--1ck2e1b",
+        "xn--45q11c",
+        "xn--4dbrk0ce",
+        "xn--90ae",
+        "xn--bck1b9a5dre4c",
+        "xn--cck2b3b",
+        "xn--czr694b",
+        "xn--eckvdtc9d",
+        "xn--fct429k",
+        "xn--gckr3f0f",
+        "xn--gk3at1e",
+        "xn--jvr189m",
+        "xn--l1acc",
+        "xn--mgbcpq6gpa1a",
+        "xn--ngbrx",
+        "xn--pgbs0dh",
+        "xn--q7ce6a",
+        "xn--qxa6a",
+        "xn--rhqv96g",
+        "xn--rovu88b",
+        "yahoo",
+        "yandex",
+        "ye"
+      ]
+    }
+  },
+  "agreedMissing": [
+    {
+      "tld": "audible",
+      "server": "whois.nic.audible",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "author",
+      "server": "whois.nic.author",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "aws",
+      "server": "whois.nic.aws",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "bbva",
+      "server": "whois.nic.bbva",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "book",
+      "server": "whois.nic.book",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "bot",
+      "server": "whois.nic.bot",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "broadway",
+      "server": "whois.nic.broadway",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "brussels",
+      "server": "whois.nic.brussels",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "buy",
+      "server": "whois.nic.buy",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "call",
+      "server": "whois.nic.call",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "career",
+      "server": "whois.nic.career",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "cymru",
+      "server": "whois.nic.cymru",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "deal",
+      "server": "whois.nic.deal",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "desi",
+      "server": "whois.nic.desi",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "fairwinds",
+      "server": "whois.nic.fairwinds",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "fast",
+      "server": "whois.nic.fast",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "fire",
+      "server": "whois.nic.fire",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "free",
+      "server": "whois.nic.free",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "google",
+      "server": "whois.nic.google",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "hot",
+      "server": "whois.nic.hot",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "imdb",
+      "server": "whois.nic.imdb",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "joy",
+      "server": "whois.nic.joy",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "kindle",
+      "server": "whois.nic.kindle",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "like",
+      "server": "whois.nic.like",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "locus",
+      "server": "whois.nic.locus",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "med",
+      "server": "whois.nic.med",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "moi",
+      "server": "whois.nic.moi",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "mtn",
+      "server": "whois.nic.mtn",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "na",
+      "server": "whois.na-nic.com.na",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "now",
+      "server": "whois.nic.now",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "nowruz",
+      "server": "whois.nic.nowruz",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "omega",
+      "server": "whois.nic.omega",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "pars",
+      "server": "whois.nic.pars",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "pay",
+      "server": "whois.nic.pay",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "pin",
+      "server": "whois.nic.pin",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "prime",
+      "server": "whois.nic.prime",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "read",
+      "server": "whois.nic.read",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "realestate",
+      "server": "whois.nic.realestate",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "room",
+      "server": "whois.nic.room",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "safe",
+      "server": "whois.nic.safe",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "save",
+      "server": "whois.nic.save",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "secure",
+      "server": "whois.nic.secure",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "shell",
+      "server": "whois.nic.shell",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "shia",
+      "server": "whois.nic.shia",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "silk",
+      "server": "whois.nic.silk",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "sky",
+      "server": "whois.nic.sky",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "smile",
+      "server": "whois.nic.smile",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "spot",
+      "server": "whois.nic.spot",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "swatch",
+      "server": "whois.nic.swatch",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "talk",
+      "server": "whois.nic.talk",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "tci",
+      "server": "whois.nic.tci",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "tunes",
+      "server": "whois.nic.tunes",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "tushu",
+      "server": "whois.nic.tushu",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "virgin",
+      "server": "whois.nic.virgin",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "vlaanderen",
+      "server": "whois.nic.vlaanderen",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "wales",
+      "server": "whois.nic.wales",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "wanggou",
+      "server": "whois.nic.wanggou",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "wed",
+      "server": "whois.nic.wed",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "wow",
+      "server": "whois.nic.wow",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "xn--mgbt3dhd",
+      "server": "whois.nic.xn--mgbt3dhd",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "xn--p1acf",
+      "server": "whois.nic.xn--p1acf",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "yamaxun",
+      "server": "whois.nic.yamaxun",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "you",
+      "server": "whois.nic.you",
+      "ourEntry": "null"
+    },
+    {
+      "tld": "zappos",
+      "server": "whois.nic.zappos",
+      "ourEntry": "null"
+    }
+  ],
+  "newDivergences": [],
+  "probes": [
+    {
+      "tld": "abarth",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "abbvie",
+      "host": "whois.nic.abbvie",
+      "sources": [
+        "debian/whois",
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "abbvie",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "debian/whois",
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "ieee",
+      "host": "whois.nic.ieee",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "pru",
+      "host": "whois.nic.pru",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "prudential",
+      "host": "whois.nic.prudential",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "sas",
+      "host": "whois.nic.sas",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "spb.ru",
+      "host": "whois.flexireg.net",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "notfound-fp",
+      "adopted": true,
+      "detail": "Object Not Found: The requested object does not exist."
+    },
+    {
+      "tld": "spb.su",
+      "host": "whois.flexireg.net",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "notfound-fp",
+      "adopted": true,
+      "detail": "Object Not Found: The requested object does not exist."
+    },
+    {
+      "tld": "staples",
+      "host": "whois.nic.staples",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "statefarm",
+      "host": "whois.nic.statefarm",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "target",
+      "host": "whois.nic.target",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "tjmaxx",
+      "host": "whois.nic.tjmaxx",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "tjx",
+      "host": "whois.nic.tjx",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "tkmaxx",
+      "host": "whois.nic.tkmaxx",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "vivo",
+      "host": "whois.nic.vivo",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "weather",
+      "host": "whois.nic.weather",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "weatherchannel",
+      "host": "whois.nic.weatherchannel",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "williamhill",
+      "host": "whois.nic.williamhill",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "winners",
+      "host": "whois.nic.winners",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "xn--imr513n",
+      "host": "whois.nic.xn--imr513n",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "xn--mgba3a3ejt",
+      "host": "whois.nic.xn--mgba3a3ejt",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "xn--nyqy26a",
+      "host": "whois.nic.xn--nyqy26a",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "xn--otu796d",
+      "host": "whois.nic.xn--otu796d",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "za",
+      "host": "whois.nic.za",
+      "sources": [
+        "debian/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    }
+  ],
+  "adopted": {
+    "pru": "whois.nic.pru",
+    "prudential": "whois.nic.prudential",
+    "sas": "whois.nic.sas",
+    "spb.ru": "whois.flexireg.net",
+    "spb.su": "whois.flexireg.net",
+    "staples": "whois.nic.staples",
+    "statefarm": "whois.nic.statefarm",
+    "target": "whois.nic.target",
+    "tjmaxx": "whois.nic.tjmaxx",
+    "tjx": "whois.nic.tjx",
+    "tkmaxx": "whois.nic.tkmaxx",
+    "vivo": "whois.nic.vivo",
+    "weather": "whois.nic.weather",
+    "weatherchannel": "whois.nic.weatherchannel",
+    "williamhill": "whois.nic.williamhill",
+    "winners": "whois.nic.winners",
+    "xn--mgba3a3ejt": "whois.nic.xn--mgba3a3ejt",
+    "xn--imr513n": "whois.nic.xn--imr513n",
+    "xn--nyqy26a": "whois.nic.xn--nyqy26a",
+    "xn--otu796d": "whois.nic.xn--otu796d",
+    "za": "whois.nic.za"
+  }
+}

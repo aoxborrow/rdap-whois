@@ -1,0 +1,53 @@
+###%%% QRY: ange.gift
+###%%% SRV: whois.registry.gift
+###%%% TME: 2026-07-16T23:58:01Z
+
+Domain Name: ange.gift
+Registry Domain ID: DO_ddd231631a04b18481e294245df8905e-UR
+Registrar WHOIS Server: whois.discount-domain.com
+Registrar URL: http://www.onamae.com
+Updated Date: 2025-09-20T15:56:09.784Z
+Creation Date: 2021-09-30T09:25:40.855Z
+Registry Expiry Date: 2026-09-30T09:25:40.855Z
+Registrar: GMO Internet, Inc. d/b/a Onamae.com
+Registrar IANA ID: 49
+Registrar Abuse Contact Email: admin@onamae.com
+Registrar Abuse Contact Phone: +81.354562555
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns-23.awsdns-02.com
+Name Server: ns-946.awsdns-54.net
+Name Server: ns-1603.awsdns-08.co.uk
+Name Server: ns-1189.awsdns-20.org
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-07-16T23:58:01.521Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.

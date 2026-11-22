@@ -1,0 +1,8 @@
+###%%% QRY: likexian-have-no-money-to-register.ee
+###%%% SRC: likexian/whois-parser@2426ff1e36f7540b2e0e7f69324cbe2091f5b278 testdata/notfound/ee_likexian-have-no-money-to-register.ee
+###%%% LIC: Apache-2.0 — Copyright 2014-2026 Li Kexian
+###%%% NOTE: vendored fixture (current through 2026) — validates the ENGINE, not today's registry output
+Domain not found
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

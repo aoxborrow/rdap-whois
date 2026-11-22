@@ -1,0 +1,63 @@
+###%%% QRY: priv.at
+###%%% SRV: whois.nic.priv.at
+###%%% TME: 2026-07-14T10:45:26Z
+
+% Rights restricted by copyright and data protection act.
+% See http://www.nic.priv.at/ for details.
+
+domain:      priv.at
+descr:       Verein fuer Internet-Benutzer Oesterreichs (VIBE!AT)
+descr:       c/o Gerald Pfeifer
+descr:       Mondweg 64
+descr:       A-1140
+descr:       Wien
+descr:       Austria
+descr:       +4369917793825
+descr:       hostmaster@nic.priv.at
+admin-c:     GP362-PRIVAT
+admin-c:     TM318-PRIVAT
+admin-c:     RW1
+admin-c:     CM125
+admin-c:     OL122
+tech-c:      GP362-PRIVAT
+tech-c:      TM318-PRIVAT
+tech-c:      RW1
+tech-c:      CM125
+tech-c:      OL122
+zone-c:      GP362-PRIVAT
+zone-c:      TM318-PRIVAT
+zone-c:      RW1
+zone-c:      CM125
+zone-c:      OL122
+nserver:     seppuku.nic.priv.at
+nserver:     zns1.eunet.at
+nserver:     zns2.eunet.at
+nserver:     ns5.univie.ac.at
+nserver:     ns1.via.at
+nserver:     priv-ns.sil.at
+remarks:     seppuku.nic.priv.at=193.154.170.100
+mnt-by:      PRIVAT-MNT
+mnt-lower:   PRIVAT-MNT
+changed:     hostmaster@nic.priv.at 20021012
+changed:     cm@nic.priv.at 20021013
+source:      PRIVAT
+
+role:        Hostmaster priv.at
+address:     Verein fuer Internet-Benutzer Oesterreichs (VIBE!AT)
+address:     c/o Gerald Pfeifer
+address:     Mondweg 64
+address:     A-1140
+address:     Wien
+address:     Austria
+e-mail:      hostmaster@nic.priv.at
+admin-c:     CM125
+tech-c:      GP362-PRIVAT
+tech-c:      TM318-PRIVAT
+tech-c:      RW1
+tech-c:      CM125
+tech-c:      OL122
+nic-hdl:     HM-PRIVAT
+notify:      hostmaster@nic.priv.at
+mnt-by:      PRIVAT-MNT
+changed:     cm@nic.priv.at 20021013
+source:      PRIVAT

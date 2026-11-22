@@ -1,0 +1,76 @@
+{
+  "query": "tatneft.tatar",
+  "server": "whois.nic.tatar",
+  "domainId": "TATNEFT.TATAR",
+  "domainName": "tatneft.tatar",
+  "creationDate": "2014-12-26T10:52:40Z",
+  "expirationDate": "2026-12-26T10:52:40Z",
+  "updatedDate": "2022-12-25T01:57:07Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.tatneft.tatar",
+    "ns2.tatneft.tatar"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "JSC RU-CENTER [RUCENTER-TATAR]",
+  "registrarUrl": "http://whois.nic.ru",
+  "registrarAbuseEmail": "tld-abuse@nic.ru",
+  "registrarAbusePhone": "+7.4959944601",
+  "registrarWhoisServer": "whois.nic.ru",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "JSC \"Tatneft\"",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Tatarstan",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "RU",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the Registrar in this output for contact the Registrant",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminEmail": "Please query the Registrar in this output for contact the Registrant",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techEmail": "Please query the Registrar in this output for contact the Registrant",
+  "billingId": "REDACTED FOR PRIVACY",
+  "billingName": "REDACTED FOR PRIVACY",
+  "billingOrg": "REDACTED FOR PRIVACY",
+  "billingAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "billingCity": "REDACTED FOR PRIVACY",
+  "billingState": "REDACTED FOR PRIVACY",
+  "billingPostalCode": "REDACTED FOR PRIVACY",
+  "billingCountry": "REDACTED FOR PRIVACY",
+  "billingPhone": "REDACTED FOR PRIVACY",
+  "billingEmail": "Please query the Registrar in this output for contact the Registrant"
+}

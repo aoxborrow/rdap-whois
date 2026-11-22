@@ -1,0 +1,77 @@
+{
+  "query": "archive.org",
+  "server": "whois.easydns.com",
+  "domainId": "D2445039-LROR",
+  "domainName": "archive.org",
+  "creationDate": "1995-12-14T05:00:00Z",
+  "expirationDate": "2025-12-13T05:00:00Z",
+  "registrarExpirationDate": "2025-12-13T05:00:00Z",
+  "updatedDate": "2022-07-20T21:03:42Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-global.kjsl.com",
+    "ns1.archive.org",
+    "ns2.archive.org",
+    "ns3.archive.org",
+    "ns0036.secondary.cloudflare.com",
+    "ns0208.secondary.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "469",
+  "registrarIanaId": 469,
+  "registrarName": "easyDNS Technologies, Inc.",
+  "registrarUrl": "http://www.easydns.com",
+  "registrarAbuseEmail": "abuse@easydns.com",
+  "registrarAbusePhone": "+1.4165358672",
+  "registrarWhoisServer": "whois.easydns.com",
+  "registrantName": "Internet Archive",
+  "registrantOrg": "Internet Archive",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "REDACTED FOR PRIVACY",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "REDACTED FOR PRIVACY",
+  "adminName": "Internet Archive",
+  "adminOrg": "Internet Archive",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "REDACTED FOR PRIVACY",
+  "techName": "Internet Archive",
+  "techOrg": "Internet Archive",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "REDACTED FOR PRIVACY"
+}

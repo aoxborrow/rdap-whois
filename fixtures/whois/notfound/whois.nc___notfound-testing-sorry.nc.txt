@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.nc
+###%%% SRV: whois.nc
+###%%% TME: 2025-03-20T16:11:43Z
+
+No entries found in the .nc database
+
+more details on http://www.whois.nc

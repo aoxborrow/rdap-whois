@@ -1,0 +1,28 @@
+{
+  "query": "rajwap.buzz",
+  "server": "whois.nic.buzz",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "rajwap.buzz",
+  "creationDate": "2024-04-24T17:39:12Z",
+  "expirationDate": "2027-04-24T17:39:12Z",
+  "updatedDate": "2026-08-02T15:17:38Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.oh313.parklogic.com",
+    "ns2.oh313.parklogic.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "https://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com"
+}

@@ -1,0 +1,19 @@
+###%%% QRY: linkos.bg
+###%%% SRV: whois.register.bg
+###%%% TME: 2026-07-16T11:44:54Z
+
+DOMAIN NAME: linkos.bg (linkos.bg)
+registration status: busy, active
+
+NAME SERVER INFORMATION:
+server1.linkos.bg 77.95.232.10 
+server2.linkos.bg 77.95.232.9 
+
+DNSSEC: inactive
+
+According to REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND
+OF THE COUNCIL (GDPR) personal data is not published.
+
+If you would like to contact the persons responsible for the domain
+name, please, use the online WHOIS contact form from the "Info / Whois" menu
+at www.register.bg.

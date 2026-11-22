@@ -1,0 +1,14 @@
+{
+  "query": "drupalcamp.by",
+  "server": "whois.cctld.by",
+  "domainName": "drupalcamp.by",
+  "creationDate": "2020-08-20T00:00:00Z",
+  "expirationDate": "2025-08-20T00:00:00Z",
+  "updatedDate": "2024-08-20T00:00:00Z",
+  "status": [],
+  "nameservers": [
+    "u1.hoster.by",
+    "u2.hoster.by"
+  ],
+  "registrarName": "Reliable Software, Ltd"
+}

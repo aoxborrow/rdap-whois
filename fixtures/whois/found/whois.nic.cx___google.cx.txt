@@ -1,0 +1,69 @@
+###%%% QRY: google.cx
+###%%% SRV: whois.nic.cx
+###%%% TME: 2025-04-09T12:12:25Z
+
+Domain Name: google.cx
+Registry Domain ID: 447518-CoCCA
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2024-06-27T09:51:04Z
+Creation Date: 2010-07-29T18:15:42Z
+Registry Expiry Date: 2025-07-29T18:15:42Z
+Registrar Registration Expiration Date: 2025-07-29T18:15:42Z
+Registrar: MarkMonitor
+Registrar Street Address: 1120 S. Rackham Way, Suite 300
+Meridian, Idaho
+83642
+Registrar Country: US
+Registrar Phone: +1.2083895740
+Registrar Fax: +1.2083895771
+Registrar Email: ccops@markmonitor.com
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Registry Registrant ID: 1671988-CoCCA
+Registrant Name: Domain Administrator
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94043
+Registrant Country: 
+Registrant Email: dns-admin@google.com
+Registrant Phone: +1.6502530000
+Registry Admin ID: 1671988-CoCCA
+Admin Name: Domain Administrator
+Admin Street: 1600 Amphitheatre Parkway
+Admin City: Mountain View
+Admin State/Province: CA
+Admin Postal Code: 94043
+Admin Country: 
+Admin Email: dns-admin@google.com
+Admin Phone: +1.6502530000
+Registry Tech ID: 1671988-CoCCA
+Tech Name: Domain Administrator
+Tech Street: 1600 Amphitheatre Parkway
+Tech City: Mountain View
+Tech State/Province: CA
+Tech Postal Code: 94043
+Tech Country: 
+Tech Email: dns-admin@google.com
+Tech Phone: +1.6502530000
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-04-09T12:12:25.759Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our Whois database through the use of electronic processes that are high-volume and automated. Whois database is provided by Christmas Island Domain Administration Limited ("cxDA").
+
+cxDA makes every effort to maintain the completeness and accuracy of the Whois data, but cannot guarantee that the results are error-free. Therefore, any data provided through the Whois service are on an "as is" basis without any warranties. BY USING THE WHOIS SERVICE AND THE DATA CONTAINED HEREIN OR IN ANY REPORT GENERATED WITH RESPECT THERETO, IT IS ACCEPTED THAT CIIA IS NOT LIABLE FOR ANY DAMAGES OF ANY KIND ARISING OUT OF, OR IN CONNECTION WITH, THE REPORT OR THE INFORMATION PROVIDED BY THE WHOIS SERVICE, NOR OMISSIONS OR MISSING INFORMATION. THE RESULTS OF ANY WHOIS REPORT OR INFORMATION PROVIDED BY THE WHOIS SERVICE CANNOT BE RELIED UPON IN CONTEMPLATION OF LEGAL PROCEEDINGS WITHOUT FURTHER VERIFICATION, NOR DO SUCH RESULTS CONSTITUTE A LEGAL OPINION. Acceptance of the results of the Whois constitutes acceptance of these terms, conditions and limitations. Whois data may be requested only for lawful purposes, in particular, to protect legal rights and obligations. Illegitimate uses of Whois data include, but are not limited to, unsolicited email, data mining, direct marketing or any other improper purpose. Any request made for Whois data will be documented by cxDA but will not be used for any commercial purpose whatsoever. NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE AVAILABILITY OF A DOMAIN NAME.
+
+© 2021 cxDA All rights reserved.

@@ -1,0 +1,78 @@
+{
+  "query": "nic.xn--mxtq1m",
+  "server": "whois.nic.xn--mxtq1m",
+  "domainId": "TWDOMAIN0000272063-twnic",
+  "domainName": "nic.政府",
+  "creationDate": "2014-04-24T00:00:00Z",
+  "expirationDate": "2035-04-04T00:00:00Z",
+  "registrarExpirationDate": "2035-04-04T00:00:00Z",
+  "updatedDate": "2017-02-07T00:00:00Z",
+  "eppStatus": [
+    "serverDeleteProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited -- http://www.icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "dns.nic.xn--mxtq1m",
+    "dns2.nic.xn--mxtq1m"
+  ],
+  "registrarId": "001897",
+  "registrarIanaId": 1897,
+  "registrarName": "Taiwan Network Information Center",
+  "registrarAbuseEmail": "tech@twnic.net.tw",
+  "registrarAbusePhone": "+886.23411313 #500",
+  "registrarWhoisServer": "whois.nic.政府",
+  "registrantId": "t001",
+  "registrantName": "tech department",
+  "registrantOrg": "twnic",
+  "registrantAddress": [
+    "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C."
+  ],
+  "registrantCity": "taipei",
+  "registrantState": "taiwan",
+  "registrantPostalCode": "100",
+  "registrantCountry": "TW",
+  "registrantPhone": "+886.223411313",
+  "registrantFax": "+886.223411313",
+  "registrantEmail": "test2@twnic.net.tw",
+  "adminId": "t002",
+  "adminName": "nic",
+  "adminOrg": "TWNIC",
+  "adminAddress": [
+    "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C."
+  ],
+  "adminCity": "taipei",
+  "adminState": "Taiwan",
+  "adminPostalCode": "100",
+  "adminCountry": "TW",
+  "adminPhone": "+886.223411313",
+  "adminFax": "+886.223411313",
+  "adminEmail": "tech@twnic.net.tw",
+  "techId": "t002",
+  "techName": "nic",
+  "techOrg": "TWNIC",
+  "techAddress": [
+    "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C."
+  ],
+  "techCity": "taipei",
+  "techState": "Taiwan",
+  "techPostalCode": "100",
+  "techCountry": "TW",
+  "techPhone": "+886.223411313",
+  "techFax": "+886.223411313",
+  "techEmail": "tech@twnic.net.tw",
+  "billingId": "t002",
+  "billingName": "nic",
+  "billingOrg": "TWNIC",
+  "billingAddress": [
+    "4F-2, No. 9, Roosevelt Rd., Sec. 2, Taipei 100, Taiwan, R.O.C."
+  ],
+  "billingCity": "taipei",
+  "billingState": "Taiwan",
+  "billingPostalCode": "100",
+  "billingCountry": "TW",
+  "billingPhone": "+886.223411313",
+  "billingFax": "+886.223411313",
+  "billingEmail": "tech@twnic.net.tw"
+}

@@ -1,0 +1,7 @@
+###%%% QRY: nic.xn--o3cw4h
+###%%% SRV: whois.thnic.co.th
+###%%% TME: 2026-07-14T10:47:26Z
+
+Whois Server Version 2.1.7
+
+% No match found.

@@ -1,0 +1,34 @@
+{
+  "query": "nic.itv",
+  "server": "whois.nic.itv",
+  "domainId": "0c11effb5a3c477cbb2a2202f11da672-DONUTS",
+  "domainName": "nic.itv",
+  "creationDate": "2016-09-19T16:41:33Z",
+  "expirationDate": "2027-09-19T16:41:33Z",
+  "updatedDate": "2026-11-03T16:41:51Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.itv",
+    "a2.nic.itv",
+    "b0.nic.itv",
+    "c0.nic.itv"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

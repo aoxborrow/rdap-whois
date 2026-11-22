@@ -1,0 +1,51 @@
+###%%% QRY: zooporn.show
+###%%% SRV: whois.regtime.net
+###%%% TME: 2026-11-22T08:12:03Z
+
+Domain Name: ZOOPORN.SHOW
+Registry Domain ID: 2428466fca0f4f0b9395b86f29c83381-DON
+Registrar WHOIS Server: whois.regtime.net
+Registrar URL: http://www.webnames.ru
+Updated Date: 2026-10-17T12:35:14Z
+Creation Date: 2017-12-14T00:00:00Z
+Registrar Registration Expiration Date: 2027-12-14T04:00:00Z
+Registrar: REGTIME LTD.
+Registrar IANA ID: 1362
+Registrar Abuse Contact Email: abuse@regtime.net
+Registrar Abuse Contact Phone: +7.8463733047
+Domain Status: OK
+Registry Registrant ID: CT3394365-RT
+Registrant Name: sanja loginov
+Registrant Organization: sanja loginov
+Registrant Street: borodina 43 kv 56
+Registrant City: Moskva
+Registrant State/Province: moskowskaia
+Registrant Postal Code: 119501
+Registrant Country: RU
+Registrant Phone: +7.9881806287
+Registrant Email: sanjakms@gmail.com
+Registry Admin ID: CT3394365-RT
+Admin Name: sanja loginov
+Admin Organization: sanja loginov
+Admin Street: borodina 43 kv 56
+Admin City: Moskva
+Admin State/Province: moskowskaia
+Admin Postal Code: 119501
+Admin Country: RU
+Admin Phone: +7.9881806287
+Admin Email: sanjakms@gmail.com
+Registry Tech ID: CT3394365-RT
+Tech Name: sanja loginov
+Tech Organization: sanja loginov
+Tech Street: borodina 43 kv 56
+Tech City: Moskva
+Tech State/Province: moskowskaia
+Tech Postal Code: 119501
+Tech Country: RU
+Tech Phone: +7.9881806287
+Tech Email: sanjakms@gmail.com
+Name Server: APOLLO.NS.CLOUDFLARE.COM
+Name Server: ZARA.NS.CLOUDFLARE.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T08:12:03Z <<<

@@ -1,0 +1,36 @@
+{
+  "query": "nic.genting",
+  "server": "whois.nic.genting",
+  "domainId": "7519fa4f87a0465fa08fc8a1365efd69-DONUTS",
+  "domainName": "nic.genting",
+  "creationDate": "2015-04-24T18:50:40Z",
+  "expirationDate": "2027-04-24T18:50:40Z",
+  "updatedDate": "2026-08-12T04:06:16Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.genting",
+    "v0n1.nic.genting",
+    "v0n2.nic.genting",
+    "v0n3.nic.genting",
+    "v2n0.nic.genting",
+    "v2n1.nic.genting"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

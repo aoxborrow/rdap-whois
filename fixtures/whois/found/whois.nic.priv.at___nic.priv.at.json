@@ -1,0 +1,11 @@
+{
+  "query": "nic.priv.at",
+  "server": "whois.nic.priv.at",
+  "domainName": "nic.priv.at",
+  "registrantOrg": "Network Information Center for priv.at",
+  "registrantAddress": [
+    "Network Information Center for priv.at"
+  ],
+  "adminId": "HM-PRIVAT",
+  "techId": "HM-PRIVAT"
+}

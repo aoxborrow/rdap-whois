@@ -1,0 +1,9 @@
+###%%% QRY: nic.xn--mix891f
+###%%% SRV: whois.monic.mo
+###%%% TME: 2026-07-14T10:47:22Z
+
+% Domain Information over Whois protocol
+%
+% Monic Whois Server Version 1.0
+
+No match for nic.xn--mix891f

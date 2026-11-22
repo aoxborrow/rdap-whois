@@ -1,0 +1,28 @@
+{
+  "query": "xhprofiles.world",
+  "server": "whois.nic.world",
+  "domainId": "1339448f76e04d819bf6bc254c10ae33-DONUTS",
+  "domainName": "xhprofiles.world",
+  "creationDate": "2024-11-21T16:21:17Z",
+  "expirationDate": "2025-11-21T16:21:17Z",
+  "updatedDate": "2025-01-20T10:27:03Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "anuj.ns.cloudflare.com",
+    "sima.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "whois.name.com"
+}

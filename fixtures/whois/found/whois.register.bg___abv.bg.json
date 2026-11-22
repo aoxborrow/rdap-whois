@@ -1,0 +1,17 @@
+{
+  "query": "abv.bg",
+  "server": "whois.register.bg",
+  "domainName": "abv.bg",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "busy, active"
+  ],
+  "nameservers": [
+    "ns.netinfo.bg",
+    "ns1.netinfo.bg"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "inactive"
+}

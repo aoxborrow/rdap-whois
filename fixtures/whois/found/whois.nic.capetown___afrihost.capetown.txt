@@ -1,0 +1,41 @@
+###%%% QRY: afrihost.capetown
+###%%% SRV: whois.nic.capetown
+###%%% TME: 2026-07-16T11:40:31Z
+
+Domain Name: afrihost.capetown
+Registry Domain ID: bwp0p_DOMAIN-CAPETOWN
+Registrar WHOIS Server: 
+Registrar URL: https://opensrs.com
+Updated Date: 2025-12-01T06:11:12Z
+Creation Date: 2014-11-04T12:14:41Z
+Registry Expiry Date: 2028-11-04T12:14:41Z
+Registrar Registration Expiration Date: 2028-11-04T12:14:41Z
+Registrar: Open SRS
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: nicrelations@opensrs.com
+Registrar Abuse Contact Phone: +49.2283296859
+Reseller: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: Data Protected
+Registrant Country: CA
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns.dns1.co.za
+Name Server: ns.dns2.co.za
+Name Server: ns.otherdns.net
+Name Server: ns.otherdns.com
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:40:32Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZACR Policies and Procedures: https://zacities.africa/policies/
+# The use of this Whois facility is subject to the following terms and
+# conditions: https://zacities.africa/whois-terms-and-conditions/
+# Copyright ZACR (NPC) 1995-2026

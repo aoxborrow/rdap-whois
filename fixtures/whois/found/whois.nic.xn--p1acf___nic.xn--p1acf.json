@@ -1,0 +1,45 @@
+{
+  "query": "p1acf--nic.xn--p1acf",
+  "server": "whois.nic.xn",
+  "domainId": "8-CoCCA",
+  "domainName": "nic.рус",
+  "creationDate": "2014-10-02T20:45:48Z",
+  "expirationDate": "2023-10-02T20:45:48Z",
+  "registrarExpirationDate": "2023-10-02T20:45:48Z",
+  "updatedDate": "2025-03-04T19:48:22Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "desec1.nic.xn--p1acf",
+    "desec2.nic.xn--p1acf"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "RUSNAMES LIMITED",
+  "registrarAddress": [
+    "17 Moskowskoye shosse str, office 2103"
+  ],
+  "registrarCity": "Samara, Russia",
+  "registrarCountry": "RU",
+  "registrarPhone": "+79649772117",
+  "registrarFax": "+7(846)3799039",
+  "registrarEmail": "alexeisozonov@rusnames.ru",
+  "registrarUrl": "http://rusnames.ru",
+  "registrarAbuseEmail": "abuse@rusnames.ru",
+  "registrarAbusePhone": "+79649772117",
+  "registrantId": "6-CoCCA"
+}

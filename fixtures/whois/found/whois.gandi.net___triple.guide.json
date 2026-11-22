@@ -1,0 +1,71 @@
+{
+  "query": "triple.guide",
+  "server": "whois.gandi.net",
+  "domainId": "b08858adb9d04aac898caa2144eb2409-DONUTS",
+  "domainName": "triple.guide",
+  "creationDate": "2017-03-23T07:11:10Z",
+  "expirationDate": "2027-03-23T08:11:10Z",
+  "registrarExpirationDate": "2027-03-23T08:11:10Z",
+  "updatedDate": "2026-02-16T08:12:36Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-483.awsdns-60.com",
+    "ns-923.awsdns-51.net",
+    "ns-1219.awsdns-24.org",
+    "ns-2040.awsdns-63.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "GANDI SAS",
+  "registrarReseller": "Amazon Registrar, Inc.",
+  "registrarUrl": "http://www.gandi.net",
+  "registrarAbuseEmail": "abuse@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrarWhoisServer": "whois.gandi.net",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "TITICACA Corp.",
+  "registrantAddress": [
+    "63-65 boulevard Massena"
+  ],
+  "registrantCity": "Paris",
+  "registrantState": "Paris",
+  "registrantPostalCode": "75013",
+  "registrantCountry": "FR",
+  "registrantPhone": "+33.170377666",
+  "registrantFax": "+33.143730576",
+  "registrantEmail": "39d50fdce9ee0a108da482be8a494f67-7923831@contact.gandi.net",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "TITICACA Corp.",
+  "adminAddress": [
+    "63-65 boulevard Massena"
+  ],
+  "adminCity": "Paris",
+  "adminState": "Paris",
+  "adminPostalCode": "75013",
+  "adminCountry": "FR",
+  "adminPhone": "+33.170377666",
+  "adminFax": "+33.143730576",
+  "adminEmail": "c719d2dfb845c971c61ea3f72f3d6103-5637255@contact.gandi.net",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "TITICACA Corp.",
+  "techAddress": [
+    "63-65 boulevard Massena"
+  ],
+  "techCity": "Paris",
+  "techState": "Paris",
+  "techPostalCode": "75013",
+  "techCountry": "FR",
+  "techPhone": "+33.170377666",
+  "techFax": "+33.143730576",
+  "techEmail": "c719d2dfb845c971c61ea3f72f3d6103-5637255@contact.gandi.net"
+}

@@ -1,0 +1,24 @@
+###%%% QRY: mmarau.ac.ke
+###%%% SRV: whois.kenic.or.ke
+###%%% TME: 2026-07-16T23:21:23Z
+
+Domain Name: mmarau.ac.ke
+Registry Domain ID: 97779-KENIC
+Updated Date: 2026-03-15T15:10:12Z
+Creation Date: 2013-02-25T08:20:51Z
+Registry Expiry Date: 2027-02-25T08:20:51Z
+Registrar Registration Expiration Date: 2027-02-25T08:20:51Z
+Registrar: Kenya Education Network
+Registrar Street Address: KENET Offices,, P.O. Box 30244, 00100,,  Nairobi.
+Registrar Phone: +254 0732150500
+Registrar Email: billing@kenet.or.ke
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: ns1.kenet.or.ke
+Name Server: ns2.kenet.or.ke
+Name Server: ns3.kenet.or.ke
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:12:08.496Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

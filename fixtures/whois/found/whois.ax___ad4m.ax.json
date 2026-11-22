@@ -1,0 +1,29 @@
+{
+  "query": "ad4m.ax",
+  "server": "whois.ax",
+  "domainName": "ad4m.ax",
+  "creationDate": "2024-06-06T00:00:00Z",
+  "expirationDate": "2027-06-06T00:00:00Z",
+  "updatedDate": "2026-05-27T00:00:00Z",
+  "eppStatusRaw": [
+    "Registered"
+  ],
+  "nameservers": [
+    "a.ns14.net",
+    "b.ns14.net",
+    "c.ns14.net",
+    "d.ns14.net"
+  ],
+  "registrarName": "InterNetX GmbH",
+  "registrarUrl": "http://www.internetx.com",
+  "registrantId": "DE261726838",
+  "registrantName": "advanced STORE GmbH",
+  "registrantAddress": [
+    "Stefan-Heym-Platz 1",
+    "10367",
+    "Berlin"
+  ],
+  "registrantCountry": "DE",
+  "registrantPhone": "+49-30-577066020",
+  "registrantEmail": "domains@advanced-store.com"
+}

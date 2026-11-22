@@ -1,0 +1,10 @@
+{
+  "query": "nic.mq",
+  "server": "whois.mediaserv.net",
+  "domainName": "nic.mq",
+  "updatedDate": "2022-02-22T00:00:00Z",
+  "nameservers": [
+    "ns1-gp.mediaserv.net",
+    "ns1-mq.mediaserv.net"
+  ]
+}

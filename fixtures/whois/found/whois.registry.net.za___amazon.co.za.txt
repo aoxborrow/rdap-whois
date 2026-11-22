@@ -1,0 +1,44 @@
+###%%% QRY: amazon.co.za
+###%%% SRV: whois.registry.net.za
+###%%% TME: 2026-07-16T23:58:05Z
+
+Domain Name: amazon.co.za
+Registry Domain ID: 1smjj_DOMAIN-CO.ZA
+Registrar WHOIS Server: https://comlaude.com/whois
+Registrar URL: http://www.comlaude.com
+Updated Date: 2025-12-23T23:01:54Z
+Creation Date: 1997-12-28T22:00:00Z
+Registry Expiry Date: 2026-12-28T22:00:00Z
+Registrar Registration Expiration Date: 2026-12-28T22:00:00Z
+Registrar: Nom-IQ Limited
+Registrar IANA ID: 470
+Registrar Abuse Contact Email: abuse@comlaude.com
+Registrar Abuse Contact Phone: +44.2074218250
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registrant Organization: 
+Registrant Country: --
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: pdns1.ultradns.net
+Name Server: pdns2.ultradns.net
+Name Server: pdns3.ultradns.org
+Name Server: pdns4.ultradns.org
+Name Server: pdns5.ultradns.info
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:58:06Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+# --
+
+# For more information on Whois status codes, please visit https://icann.org/epp
+
+# ZARC Complaint/s Procedure and Form: https://zarc.web.za/wp-content/uploads/2025/08/ZA-SLD_Takedown_Policy.docx.pdf
+# The use of this Whois facility is subject to the following terms and
+# conditions. https://zarc.web.za/whois-terms-and-conditions
+# Copyright (c) ZARC 1995-2026

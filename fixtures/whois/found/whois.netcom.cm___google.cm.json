@@ -1,0 +1,31 @@
+{
+  "query": "google.cm",
+  "server": "whois.netcom.cm",
+  "domainId": "64389-RegCM",
+  "domainName": "google.cm",
+  "creationDate": "2009-10-07T09:02:24Z",
+  "expirationDate": "2027-10-07T09:02:24Z",
+  "registrarExpirationDate": "2027-10-07T09:02:24Z",
+  "updatedDate": "2026-09-17T18:59:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Netcom.cm Sarl",
+  "registrarEmail": "info@netcom.cm",
+  "registrarUrl": "http://www.netcom.cm"
+}

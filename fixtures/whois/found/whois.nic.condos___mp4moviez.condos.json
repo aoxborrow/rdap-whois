@@ -1,0 +1,30 @@
+{
+  "query": "mp4moviez.condos",
+  "server": "whois.nic.condos",
+  "domainId": "d1887af762c54d87aa0be9b46b6466e6-DONUTS",
+  "domainName": "mp4moviez.condos",
+  "creationDate": "2025-01-11T03:28:49Z",
+  "expirationDate": "2026-01-11T03:28:49Z",
+  "updatedDate": "2025-03-14T19:50:13Z",
+  "eppStatus": [
+    "clientHold",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientHold https://icann.org/epp#clientHold",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jerry.ns.cloudflare.com",
+    "teagan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

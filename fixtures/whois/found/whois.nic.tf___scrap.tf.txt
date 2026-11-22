@@ -1,0 +1,70 @@
+###%%% QRY: scrap.tf
+###%%% SRV: whois.nic.tf
+###%%% TME: 2026-07-16T11:44:22Z
+
+%%
+%% This is the AFNIC Whois server.
+%%
+%% complete date format: YYYY-MM-DDThh:mm:ssZ
+%%
+%% Rights restricted by copyright.
+%% See https://www.afnic.fr/en/domain-names-and-support/everything-there-is-to-know-about-domain-names/find-a-domain-name-or-a-holder-using-whois/
+%%
+%%
+
+domain:                        scrap.tf
+status:                        ACTIVE
+eppstatus:                     active
+hold:                          NO
+holder-c:                      ST28377-FRNIC
+admin-c:                       ST28377-FRNIC
+tech-c:                        ST28377-FRNIC
+registrar:                     INSTRA CORPORATION PTY LTD
+Expiry Date:                   2026-09-19T01:02:19Z
+created:                       2012-09-03T04:41:22Z
+last-update:                   2025-11-20T13:14:43.500622Z
+source:                        FRNIC
+
+nserver:                       bruce.ns.cloudflare.com
+nserver:                       sharon.ns.cloudflare.com
+source:                        FRNIC
+
+registrar:                     INSTRA CORPORATION PTY LTD
+address:                       Level 1
+address:                       222-225 Beach Road
+address:                       3195 MORDIALLOC, VICTORIA
+country:                       AU
+phone:                         +61.397831800
+fax-no:                        +61.397836844
+e-mail:                        support@instra.com
+website:                       http://www.instra.com
+anonymous:                     No
+registered:                    2007-10-22T00:00:00Z
+source:                        FRNIC
+
+nic-hdl:                       ST28377-FRNIC
+type:                          ORGANIZATION
+contact:                       SUBLIME TECHNOLOGY (FRANCE)
+address:                       SUBLIME TECHNOLOGY (FRANCE)
+address:                       BATIMENT II
+address:                       2 RUE ROBERT GEFFRE
+address:                       17000 AQUITAINE-LIMOUSIN-POITOU-CHARENTES
+country:                       FR
+phone:                         +33.176607101
+e-mail:                        frdomains@instra.com
+registrar:                     INSTRA CORPORATION PTY LTD
+changed:                       2020-07-29T02:10:32Z
+anonymous:                     NO
+obsoleted:                     NO
+eppstatus:                     associated
+eppstatus:                     active
+eligstatus:                    ok
+eligsource:                    REGISTRAR
+eligdate:                      2020-07-29T00:00:00Z
+reachstatus:                   ok
+reachmedia:                    phone
+reachsource:                   REGISTRAR
+reachdate:                     2020-07-29T00:00:00Z
+source:                        FRNIC
+
+>>> Last update of WHOIS database: 2026-07-16T11:44:23.062015Z <<<

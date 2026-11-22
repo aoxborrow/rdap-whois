@@ -1,0 +1,26 @@
+# gitleaks configuration for this package: gitleaks' own rules, and an allowlist that holds
+# only findings proven to be false positives. Each entry names what it silences and why.
+#
+# Run locally: gitleaks dir . --config .gitleaks.toml --redact
+[extend]
+useDefault = true
+
+# To add one, after confirming the finding is not a secret:
+#
+# [[allowlists]]
+# description = "what the match is, and why it is not a secret"
+# paths = ['''fixtures/whois/found/whois\.example___nic\.example\.txt''']
+
+[[allowlists]]
+condition = "AND"
+description = "a registrar's contact-form link in a fixture, as the server printed it in place of the registrant's e-mail address: anyone who asks WHOIS gets it, and the token only opens a form that forwards a message, so it is not a credential"
+paths = ['''fixtures/whois/found/whois\.acens\.net___xunta\.gal\.(txt|json)''']
+regexes = ['''rdap-contact/\?token=''']
+regexTarget = "line"
+
+[[allowlists]]
+condition = "AND"
+description = "the registrar named 1 API and its WHOIS host, in the registrar list the tooling uses"
+paths = ['''scripts/whois/lib/top-100\.ts''']
+regexes = ['''whois\.1api\.net''']
+regexTarget = "line"

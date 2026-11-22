@@ -1,0 +1,77 @@
+{
+  "query": "gandi.net",
+  "server": "whois.gandi.net",
+  "domainId": "6683836_DOMAIN_NET-VRSN",
+  "domainName": "gandi.net",
+  "creationDate": "1999-05-21T12:09:21Z",
+  "expirationDate": "2027-05-21T14:09:56Z",
+  "registrarExpirationDate": "2027-05-21T14:09:56Z",
+  "updatedDate": "2026-03-22T13:17:55Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "dns0.gandi.net",
+    "dns1.gandi.net",
+    "dns2.gandi.net",
+    "dns3.gandi.net",
+    "dns4.gandi.net",
+    "dns6.gandi.net",
+    "e.gandi-ns.fr"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "GANDI SAS",
+  "registrarReseller": "GANDI SAS",
+  "registrarUrl": "http://www.gandi.net",
+  "registrarAbuseEmail": "abuse@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrarWhoisServer": "whois.gandi.net",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Gandi SAS",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "FR",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantEmail": "6fb93a207f1595ce2dc0c687d35807b1-523678@contact.gandi.net",
+  "adminId": "REDACTED FOR PRIVACY",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminEmail": "1d9d694288ff0a90a4e72a6601e21ebc-248842@contact.gandi.net",
+  "techId": "REDACTED FOR PRIVACY",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techEmail": "1d9d694288ff0a90a4e72a6601e21ebc-248842@contact.gandi.net"
+}

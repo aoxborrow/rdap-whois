@@ -1,0 +1,26 @@
+###%%% QRY: kakamega-assembly.go.ke
+###%%% SRV: whois.kenic.or.ke
+###%%% TME: 2026-07-16T23:21:30Z
+
+Domain Name: kakamega-assembly.go.ke
+Registry Domain ID: 518292-KENIC
+Updated Date: 2026-02-10T12:25:14Z
+Creation Date: 2017-11-15T14:40:58Z
+Registry Expiry Date: 2026-11-15T14:40:58Z
+Registrar Registration Expiration Date: 2026-11-15T14:40:58Z
+Registrar: ICT Authority
+Registrar Street Address: Teleposta Towers, 12th Flr,, Kenyatta Ave., Nairobi, Kenya., , P.O. Box 27150 - 00100,, Nairobi, Kenya.
+Registrar City: Nairobi
+Registrar State: Kenya
+Registrar Postal Code: 00100
+Registrar Phone: +254 20 2211960
+Registrar Email: websupport@icta.go.ke
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Name Server: ns2.kakamega-assembly.go.ke
+Name Server: ns1.kakamega-assembly.go.ke
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-16T23:12:08.496Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

@@ -1,0 +1,39 @@
+###%%% QRY: max.guitars
+###%%% SRV: whois.nic.guitars
+###%%% TME: 2026-11-22T08:10:57Z
+
+Domain Name: MAX.GUITARS
+Registry Domain ID: D307948120-CNIC
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.key-systems.net
+Updated Date: 2026-09-04T14:00:29.0Z
+Creation Date: 2014-06-24T12:51:58.0Z
+Registry Expiry Date: 2027-06-24T23:59:59.0Z
+Registrar: Key-Systems, LLC
+Registrar IANA ID: 1345
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ALFRED.NS.CLOUDFLARE.COM
+Name Server: JEAN.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:10:57.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The registration data available in this service is limited. Additional
+data may be available at https://lookup.icann.org
+
+The Whois and RDAP services are provided by CentralNic, and contain
+information pertaining to Internet domain names registered by our
+our customers. By using this service you are agreeing (1) not to use any
+information presented here for any purpose other than determining
+ownership of domain names, (2) not to store or reproduce this data in
+any way, (3) not to use any high-volume, automated, electronic processes
+to obtain data from this service. Abuse of this service is monitored and
+actions in contravention of these terms will result in being permanently
+blacklisted. All data is (c) CentralNic Ltd (https://www.centralnicregistry.com)
+
+Access to the Whois and RDAP services is rate limited. For more
+information, visit https://centralnicregistry.com/policies/whois-guidance.

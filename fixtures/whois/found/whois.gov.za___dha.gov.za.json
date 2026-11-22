@@ -1,0 +1,15 @@
+{
+  "domainName": "dha.gov.za",
+  "nameservers": [
+    "ns1.dha.gov.za",
+    "ns2.dha.gov.za"
+  ],
+  "registrantOrg": "Department of Home Affairs",
+  "registrantPostalCode": "0001",
+  "adminName": "Zakhele Khuzwayo",
+  "adminOrg": "Department of Home Affairs",
+  "adminEmail": "zakhele.khuzwayo@dha.gov.za",
+  "techName": "David D. Sussens",
+  "techOrg": "SITA",
+  "techEmail": "david.sussens@sita.co.za"
+}

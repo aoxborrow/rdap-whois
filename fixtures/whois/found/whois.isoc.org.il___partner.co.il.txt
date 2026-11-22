@@ -1,0 +1,85 @@
+###%%% QRY: partner.co.il
+###%%% SRV: whois.isoc.org.il
+###%%% TME: 2026-07-16T11:39:05Z
+
+% The data in the WHOIS database of the .il registry is provided
+% by ISOC-IL for information purposes, and to assist persons in 
+% obtaining information about or related to a domain name 
+% registration record. ISOC-IL does not guarantee its accuracy.
+% By submitting a WHOIS query, you agree that you will use this
+% Data only for lawful purposes and that, under no circumstances
+% will you use this Data to: (1) allow, enable, or otherwise 
+% support the transmission of mass unsolicited, commercial 
+% advertising or solicitations via e-mail (spam); 
+% or  (2) enable high volume, automated, electronic processes that 
+% apply to ISOC-IL (or its systems).
+% ISOC-IL reserves the right to modify these terms at any time.
+% By submitting this query, you agree to abide by this policy.
+ 
+query:        partner.co.il
+
+reg-name:     partner
+domain:       partner.co.il
+
+descr:        Partner Communications Company Ltd
+descr:        8 Amal St. Park Afek
+descr:        Rosh-Haain
+descr:        48103
+descr:        Israel
+phone:        972-54-9000305
+e-mail:       nadavh AT orange.co.il
+admin-c:      DT-DA41245-IL
+tech-c:       DT-DA13335-IL
+zone-c:       DT-DA13335-IL
+nserver:      ns1.partner.co.il 
+nserver:      ns2.partner.co.il 
+nserver:      ns0031.secondary.cloudflare.com 
+nserver:      ns0130.secondary.cloudflare.com 
+nserver:      ns3.secondary.cloudflare.partner.co.il 
+nserver:      ns4.secondary.cloudflare.partner.co.il 
+assigned:     26-10-1998
+validity:     16-03-2027
+DNSSEC:       unsigned
+status:       Transfer Locked
+changed:      registrar AT ns.il 19981026 (Assigned)
+changed:      registrar AT ns.il 19990928 (Changed)
+changed:      registrar AT ns.il 19991227 (Changed)
+changed:      registrar AT ns.il 19991228 (Changed)
+changed:      registrar AT ns.il 20000312 (Changed)
+changed:      domain-registrar AT isoc.org.il 20150420 (Changed)
+changed:      domain-registrar AT isoc.org.il 20150831 (Changed)
+changed:      domain-registrar AT isoc.org.il 20151228 (Changed)
+changed:      domain-registrar AT isoc.org.il 20160128 (Changed)
+changed:      domain-registrar AT isoc.org.il 20250316 (Changed)
+changed:      domain-registrar AT isoc.org.il 20250323 (Transferred)
+changed:      domain-registrar AT isoc.org.il 20250323 (Changed)
+changed:      domain-registrar AT isoc.org.il 20250324 (Changed)
+changed:      domain-registrar AT isoc.org.il 20250324 (Changed)
+
+person:       domain admin
+address      Partner Communications Company Ltd
+address      8 Amal St
+address      Rosh Haayin
+address      1234500
+address      Israel
+phone:        +972 72 2009063
+e-mail:       dns AT partner.co.il
+nic-hdl:      DT-DA41245-IL
+changed:      Managing Registrar 20250318
+
+person:       Domain Admin
+address      Partner Communications Company Ltd
+address      8 Amal St
+address      Rosh Haayin IL
+address      48103
+address      Israel
+phone:        +972 72 2009063
+fax-no:       +972 72 2009074
+e-mail:       dns AT orange.co.il
+nic-hdl:      DT-DA13335-IL
+changed:      Managing Registrar 20130723
+
+registrar name: Domain The Net Technologies Ltd
+registrar info: https://www.domainthenet.com
+
+% Rights to the data above are restricted by copyright.

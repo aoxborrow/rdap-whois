@@ -1,0 +1,27 @@
+{
+  "query": "google.pl",
+  "server": "whois.dns.pl",
+  "domainName": "google.pl",
+  "creationDate": "2002-09-19T13:00:00Z",
+  "expirationDate": "2027-09-18T14:00:00Z",
+  "updatedDate": "2026-08-17T12:47:01Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarName": "Markmonitor, Inc.",
+  "registrarAddress": [
+    "1120 S. Rackham Way, Suite 300",
+    "83642 Meridian",
+    "Idaho",
+    "Stany Zjednoczone/United States"
+  ],
+  "registrarPhone": "+1.2083895740",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrarUrl": "https://www.markmonitor.com",
+  "registrarWhoisServer": "https://dns.pl/en/whois"
+}

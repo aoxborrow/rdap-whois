@@ -1,0 +1,70 @@
+{
+  "query": "nic.pm",
+  "server": "whois.nic.pm",
+  "domainName": "nic.pm",
+  "creationDate": "1995-01-01T00:00:00Z",
+  "expirationDate": "2029-12-31T23:00:00Z",
+  "updatedDate": "2026-06-08T07:37:42Z",
+  "eppStatus": [
+    "ok",
+    "serverDeleteProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE",
+    "serverTransferProhibited",
+    "serverDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns4.nic.fr",
+    "ns6.ext.nic.fr",
+    "ns7.ext.nic.fr"
+  ],
+  "registrarName": "Registry Operations",
+  "registrarAddress": [
+    "AFNIC",
+    "immeuble le Stephenson",
+    "1, rue Stephenson",
+    "78180 Montigny-Le-Bretonneux"
+  ],
+  "registrarCountry": "FR",
+  "registrarPhone": "+33.139308300",
+  "registrarFax": "+33.139308301",
+  "registrarEmail": "support@afnic.fr",
+  "registrarUrl": "https://www.afnic.fr",
+  "registrantId": "NF100-FRNIC",
+  "registrantName": "Nic pm",
+  "registrantAddress": [
+    "Afnic Backend Registry Operator",
+    "immeuble le Stephenson",
+    "1, rue Stephenson",
+    "78180 Montigny le Bretonneux"
+  ],
+  "registrantCountry": "FR",
+  "registrantPhone": "+33.139308300",
+  "registrantFax": "+33.139308301",
+  "registrantEmail": "support+fr@nic.fr",
+  "adminId": "NF100-FRNIC",
+  "adminName": "Nic pm",
+  "adminAddress": [
+    "Afnic Backend Registry Operator",
+    "immeuble le Stephenson",
+    "1, rue Stephenson",
+    "78180 Montigny le Bretonneux"
+  ],
+  "adminCountry": "FR",
+  "adminPhone": "+33.139308300",
+  "adminFax": "+33.139308301",
+  "adminEmail": "support+fr@nic.fr",
+  "techId": "CTC23829-FRNIC",
+  "techName": "AFNIC",
+  "techAddress": [
+    "ASSOCIATION FRANÇAISE POUR LE NOMMAGE INTERNET EN COOPERATION",
+    "7 Avenue du 8 mai 1945",
+    "78280 Guyancourt"
+  ],
+  "techCountry": "FR",
+  "techPhone": "+33.139308300",
+  "techFax": "+33.139308301",
+  "techEmail": "dnsops@afnic.fr"
+}

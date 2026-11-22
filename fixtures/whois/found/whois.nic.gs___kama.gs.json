@@ -1,0 +1,65 @@
+{
+  "query": "kama.gs",
+  "server": "whois.nic.gs",
+  "domainId": "670543-CoCCA",
+  "domainName": "kama.gs",
+  "creationDate": "2011-12-10T12:32:08Z",
+  "expirationDate": "2025-12-10T12:33:32Z",
+  "registrarExpirationDate": "2025-12-10T12:33:32Z",
+  "updatedDate": "2024-11-21T15:38:25Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns-3.awsdns-00.com",
+    "ns-1002.awsdns-61.net",
+    "ns-1196.awsdns-21.org",
+    "ns-1870.awsdns-41.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Instra Corporation",
+  "registrarAddress": [
+    "INSTRA CORPORATION PTY LTD",
+    "ACN 110 054 610",
+    "GPO Box 988"
+  ],
+  "registrarCity": "Melbourne",
+  "registrarPostalCode": "3001",
+  "registrarCountry": "AU",
+  "registrarEmail": "registry_admin@instra.com",
+  "registrarUrl": "http://www.instra.com",
+  "registrantId": "1787326-CoCCA",
+  "registrantName": "Igor Chuprin",
+  "registrantAddress": [
+    "Dubai Internet City, Building 1"
+  ],
+  "registrantCity": "Dubai",
+  "registrantState": "Dubai",
+  "registrantPostalCode": "000",
+  "registrantPhone": "+971.44582499",
+  "registrantEmail": "zotobimanagement@gmail.com",
+  "adminId": "1787329-CoCCA",
+  "adminName": "Igor Chuprin",
+  "adminAddress": [
+    "Dubai Internet City, Building 1"
+  ],
+  "adminCity": "Dubai",
+  "adminState": "Dubai",
+  "adminPostalCode": "000",
+  "adminPhone": "+971.44582499",
+  "adminEmail": "zotobimanagement@gmail.com",
+  "techId": "1787328-CoCCA",
+  "techName": "Igor Chuprin",
+  "techAddress": [
+    "Dubai Internet City, Building 1"
+  ],
+  "techCity": "Dubai",
+  "techState": "Dubai",
+  "techPostalCode": "000",
+  "techPhone": "+971.44582499",
+  "techEmail": "zotobimanagement@gmail.com"
+}

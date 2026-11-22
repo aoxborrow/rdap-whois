@@ -1,0 +1,54 @@
+{
+  "query": "encircadns.bank",
+  "server": "whois.nic.bank",
+  "domainId": "D2BF26D81762B4D688E8BBC6A39A54895-GDREG",
+  "domainName": "encircadns.bank",
+  "creationDate": "2023-06-26T15:46:01Z",
+  "expirationDate": "2027-06-24T16:20:18Z",
+  "updatedDate": "2026-07-29T18:23:58Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.encircadns.bank",
+    "ns2.encircadns.bank"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "455",
+  "registrarIanaId": 455,
+  "registrarName": "EnCirca, Inc.",
+  "registrarUrl": "https://www.encirca.com",
+  "registrarAbuseEmail": "debbie@encirca.com",
+  "registrarAbusePhone": "+1.7819429975",
+  "registrarWhoisServer": "whois.encirca.com",
+  "registrantId": "C7E7034FED8B54E4DB3D077ED4B48528E-GDREG",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "EnCirca",
+  "registrantAddress": [
+    "400 W Cummings Park",
+    "Suite 1725"
+  ],
+  "registrantCity": "Woburn",
+  "registrantState": "MA",
+  "registrantPostalCode": "01801",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.7819429975",
+  "registrantEmail": "domainadmin@encirca.com",
+  "techId": "C7E7034FED8B54E4DB3D077ED4B48528E-GDREG",
+  "techName": "Domain Admin",
+  "techOrg": "EnCirca",
+  "techAddress": [
+    "400 W Cummings Park",
+    "Suite 1725"
+  ],
+  "techCity": "Woburn",
+  "techState": "MA",
+  "techPostalCode": "01801",
+  "techCountry": "US",
+  "techPhone": "+1.7819429975",
+  "techEmail": "domainadmin@encirca.com"
+}

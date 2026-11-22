@@ -1,0 +1,25 @@
+{
+  "query": "google.com.bn",
+  "server": "whois.bnnic.bn",
+  "domainName": "google.com.bn",
+  "creationDate": "2006-11-13T00:00:00Z",
+  "expirationDate": "2027-11-13T00:00:00Z",
+  "updatedDate": "2014-12-17T18:07:42Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrarName": "IMAGINE SDN BHD",
+  "registrantName": "INTEGRICITY CORPORATION SDN BHD (BNC304T)",
+  "registrantEmail": "jason.ong@intergricity.com",
+  "adminName": "INTEGRICITY CORPORATION SDN BHD (BNC304T)",
+  "adminEmail": "jason.ong@intergricity.com",
+  "techName": "INTEGRICITY CORPORATION SDN BHD (BNC304T)",
+  "techEmail": "jason.ong@intergricity.com"
+}

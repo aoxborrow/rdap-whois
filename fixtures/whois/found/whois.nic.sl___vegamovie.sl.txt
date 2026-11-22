@@ -1,0 +1,76 @@
+###%%% QRY: vegamovie.sl
+###%%% SRV: whois.nic.sl
+###%%% TME: 2026-07-16T23:51:35Z
+
+Domain Name: vegamovie.sl
+WHOIS Server: whois.nic.sl
+Creation Date: 2026-06-10T04:00:00.0Z
+Registry Expiry Date: 2027-06-10T04:00:00.0Z
+Sponsoring Registrar: nicsl
+Registrant Name: Amine Boualam
+Registrant Street: 89 Bloc 57 Sidi Othman Casablanca
+Registrant City: Casablanca
+Registrant State/Province: Casablanca
+Registrant Postal Code: 20660
+Registrant Country: MA
+Registrant Phone: +212.654859632
+Registrant Phone Ext: 
+Registrant Email: tld@netim.com
+Admin Name: Bruno Vincent
+Admin Organization: Netim
+Admin Street: 165 Av De Bretagne
+Admin City: Lille
+Admin State/Province: 
+Admin Postal Code: 59000
+Admin Country: FR
+Admin Phone: +33.972307470
+Admin Phone Ext: 
+Admin Email: tld@netim.com
+Billing Name: Bruno Vincent
+Billing Organization: Netim
+Billing Street: 165 Av De Bretagne
+Billing City: Lille
+Billing State/Province: 
+Billing Postal Code: 59000
+Billing Country: FR
+Billing Phone: +33.972307470
+Billing Phone Ext: 
+Billing Email: tld@netim.com
+Tech Name: Bruno Vincent
+Tech Organization: Netim
+Tech Street: 165 Av De Bretagne
+Tech City: Lille
+Tech State/Province: 
+Tech Postal Code: 59000
+Tech Country: FR
+Tech Phone: +33.972307470
+Tech Phone Ext: 
+Tech Email: tld@netim.com
+Name Server: desiree.ns.cloudflare.com
+Name Server: osmar.ns.cloudflare.com
+>>> Last update of WHOIS database: 2026-07-15T12:58:30.727Z <<<
+
+------------------------------------------------------------------------------
+ NOTICE AND TERMS OF USE:
+ You are not authorized to access or query our WHOIS database through the use
+ of high-volume, automated, electronic processes. The data in WHOIS database
+ is provided by NIC.SL for information purposes only, and to assist persons
+ in obtaining information about or related to a domain name registration
+ record. NIC.SL does not guarantee its accuracy. By submitting a WHOIS query,
+ you agree to abide by the following terms of use:
+ You agree that you may use this data only for lawful purposes and that under
+ no circumstances will you use this data to: (1) allow, enable, or otherwise
+ support the transmission of mass unsolicited, commercial advertising or
+ solicitations via e-mail, telephone, or facsimile; or (2) enable high volume,
+ automated, electronic processes that apply to NIC.SL (or its computer
+ systems). The compilation, repackaging, dissemination or other use of this
+ data is expressly prohibited without the prior written consent of NIC.SL.
+ You agree not to use high-volume, automated, electronic processes to access
+ or query the WHOIS database. NIC.SL reserves the right to terminate your
+ access to the WHOIS database in its sole discretion, including without
+ limitation, for excessive querying of the WHOIS database or for failure to
+ otherwise abide by this policy. NIC.SL reserves the right to modify these
+ terms at any time.
+ SIMPLE WORDS: Do not abuse this service or you'll get blocked.
+
+------------------------------------------------------------------------------

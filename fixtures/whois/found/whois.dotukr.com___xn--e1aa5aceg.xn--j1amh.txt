@@ -1,0 +1,80 @@
+###%%% QRY: xn--e1aa5aceg.xn--j1amh
+###%%% SRV: whois.dotukr.com
+###%%% TME: 2026-07-16T11:14:30Z
+
+Whois Server Version 1.0
+Domain Name (PUNYCODE): xn--e1aa5aceg.xn--j1amh
+Domain name (UTF8): реестр.укр
+
+Registry Domain ID: D00120929-ukr
+
+Updated Date: 07-Jul-2026 14:36:46 UTC
+Creation Date: 09-Nov-2022 09:29:01 UTC
+Expiration Date: 09-Nov-2026 09:29:01 UTC
+
+Registry Status: client hold
+
+Registrar: ТОВ "Хостінг Україна"
+Registrar URL: http://www.ukraine.com.ua
+Registrar ID: uaukraine
+Registrar Abuse Contact Email: domain@abuse.team
+Registrar Abuse Contact Phone: +380443927433
+
+Registry Registrant ID: icn-259838-odhxk
+Registrant Name (Organization): hidden
+Registrant Street: hidden
+Registrant City: hidden
+Registrant Postal Code: hidden
+Registrant Country: hidden
+Registrant Phone: hidden
+Registrant Phone Ext: hidden
+Registrant Fax: hidden
+Registrant Fax Ext: hidden
+Registrant Email: aa162ebe64d636be5b@privacyprotected.net
+
+Registry Admin ID: icn-259838-odhxk
+Admin Name: hidden
+Admin Organization: hidden
+Admin Street: hidden
+Admin City: hidden
+Admin Postal Code: hidden
+Admin Country: hidden
+Admin Phone: hidden
+Admin Phone Ext: hidden
+Admin Fax: hidden
+Admin Fax Ext: hidden
+Admin Email: aa162ebe64d636be5b@privacyprotected.net
+
+Registry Tech ID: icn-259838-odhxk
+Tech Name: hidden
+Tech Organization: hidden
+Tech Street: hidden
+Tech City: hidden
+Tech Postal Code: hidden
+Tech Country: hidden
+Tech Phone: hidden
+Tech Phone Ext: hidden
+Tech Fax: hidden
+Tech Fax Ext: hidden
+Tech Email: aa162ebe64d636be5b@privacyprotected.net
+
+Registry Billing ID: icn-259838-odhxk
+Billing Name: hidden
+Billing Organization: hidden
+Billing Street: hidden
+Billing City: hidden
+Billing Postal Code: hidden
+Billing Country: hidden
+Billing Phone: hidden
+Billing Phone Ext: hidden
+Billing Fax: hidden
+Billing Fax Ext: hidden
+Billing Email: aa162ebe64d636be5b@privacyprotected.net
+
+Domain servers in listed order:
+jose.ns.cloudflare.com
+surina.ns.cloudflare.com
+
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 16-Jul-2026 11:13:39 UTC <<<

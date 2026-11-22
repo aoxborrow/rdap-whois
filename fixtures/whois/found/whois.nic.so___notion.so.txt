@@ -1,0 +1,27 @@
+###%%% QRY: notion.so
+###%%% SRV: whois.nic.so
+###%%% TME: 2026-11-22T08:14:24Z
+
+Domain Name: notion.so
+Registry Domain ID: 31288-sonic
+Updated Date: 2026-04-24T19:02:39Z
+Creation Date: 2015-03-31T00:00:00Z
+Registry Expiry Date: 2027-03-31T00:00:00Z
+Registrar Registration Expiration Date: 2027-03-31T00:00:00Z
+Registrar: 1API
+Registrar Street Address: Talstrasse 27, Homburg Saarland, 66424
+Registrar Email: admin-c@1api.net
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: dana.ns.cloudflare.com
+Name Server: woz.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-11-22T07:58:36.001Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

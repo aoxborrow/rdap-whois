@@ -1,0 +1,32 @@
+{
+  "query": "xn--80aaig9ahr.xn--c1avg",
+  "server": "whois.nic.xn--c1avg",
+  "domainId": "REDACTED",
+  "domainName": "xn--80aaig9ahr.xn--c1avg",
+  "creationDate": "2020-02-15T10:52:21Z",
+  "expirationDate": "2027-02-15T10:52:21Z",
+  "updatedDate": "2026-08-12T02:37:58Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.ddos-guard.net",
+    "ns2.ddos-guard.net",
+    "ns3.ddos-guard.net",
+    "ns4.ddos-guard.net",
+    "ns5.ddos-guard.net",
+    "ns6.ddos-guard.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "303",
+  "registrarIanaId": 303,
+  "registrarName": "PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "registrarUrl": "http://www.publicdomainregistry.com",
+  "registrarAbuseEmail": "abuse@publicdomainregistry.com",
+  "registrarAbusePhone": "+1.2013775952",
+  "registrarWhoisServer": "http://whois.publicdomainregistry.com"
+}

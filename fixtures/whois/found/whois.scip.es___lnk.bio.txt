@@ -1,0 +1,87 @@
+###%%% QRY: lnk.bio
+###%%% SRV: whois.scip.es
+###%%% TME: 2026-11-22T08:08:30Z
+
+Domain Name: LNK.BIO
+Registry Domain ID: D503300000036880065-LRMS
+Registrar WHOIS Server: whois.scip.es
+Registrar URL: https://www.dondominio.com
+Updated Date: 2025-02-14T07:25:39Z
+Creation Date: 2017-03-16T00:17:08Z
+Registrar Registration Expiration Date: 2029-03-16T00:17:08Z
+Registrar: DonDominio (SCIP)
+Registrar IANA ID: 1383
+Registrar Abuse Contact Email: abuse@scip.es
+Registrar Abuse Contact Phone: +34.871-98-63-87
+Reseller:
+Domain Status: ok http://www.icann.org/epp#ok
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Redacted for privacy
+Registrant Organization: Gimucco PTE. LTD.
+Registrant Street: Redacted for privacy
+Registrant City: Redacted for privacy
+Registrant State/Province: Central
+Registrant Postal Code: Redacted for privacy
+Registrant Country: SG
+Registrant Phone: Redacted for privacy
+Registrant Phone Ext:
+Registrant Fax: Redacted for privacy
+Registrant Fax Ext:
+Registrant Email: Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio
+Registry Admin ID:
+Admin Name: Redacted for privacy
+Admin Organization: Redacted for privacy
+Admin Street: Redacted for privacy
+Admin City: Redacted for privacy
+Admin State/Province: Redacted for privacy
+Admin Postal Code: Redacted for privacy
+Admin Country: Redacted for privacy
+Admin Phone: Redacted for privacy
+Admin Phone Ext:
+Admin Fax: Redacted for privacy
+Admin Fax Ext:
+Admin Email: Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio
+Registry Tech ID:
+Tech Name: Redacted for privacy
+Tech Organization: Redacted for privacy
+Tech Street: Redacted for privacy
+Tech City: Redacted for privacy
+Tech State/Province: Redacted for privacy
+Tech Postal Code: Redacted for privacy
+Tech Country: Redacted for privacy
+Tech Phone: Redacted for privacy
+Tech Phone Ext:
+Tech Fax: Redacted for privacy
+Tech Fax Ext:
+Tech Email: Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio
+Registry Billing ID:
+Billing Name: Redacted for privacy
+Billing Organization: Redacted for privacy
+Billing Street: Redacted for privacy
+Billing City: Redacted for privacy
+Billing State/Province: Redacted for privacy
+Billing Postal Code: Redacted for privacy
+Billing Country: Redacted for privacy
+Billing Phone: Redacted for privacy
+Billing Phone Ext:
+Billing Fax: Redacted for privacy
+Billing Fax Ext:
+Billing Email: Visit https://icann.online-validation.com/domain-contact/?domainname=lnk.bio
+Name Server: MALEAH.NS.CLOUDFLARE.COM
+Name Server: WILL.NS.CLOUDFLARE.COM
+DNSSEC: signedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T09:08:00Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.

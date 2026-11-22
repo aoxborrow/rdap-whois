@@ -1,0 +1,25 @@
+{
+  "query": "google.hk",
+  "server": "whois.hkirc.hk",
+  "domainName": "google.hk",
+  "creationDate": "2004-04-06T00:00:00Z",
+  "expirationDate": "2027-03-31T00:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "Active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MARKMONITOR INC.",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrantName": "Company English Name (It should be the same as the registered/corporation name on your Business Register Certificate or relevant documents): GOOGLE LLC",
+  "registrantOrg": "GOOGLE LLC",
+  "registrantCountry": "United States (US)",
+  "registrantEmail": "dns-admin@google.com"
+}

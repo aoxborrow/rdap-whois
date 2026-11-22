@@ -1,0 +1,28 @@
+{
+  "query": "urlowl.com",
+  "server": "whois.verisign-grs.com",
+  "domainId": "3032724640_DOMAIN_COM-VRSN",
+  "domainName": "urlowl.com",
+  "creationDate": "2025-10-25T18:35:05Z",
+  "expirationDate": "2027-10-25T18:35:05Z",
+  "updatedDate": "2026-10-26T08:39:29Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nsg1.namebrightdns.com",
+    "nsg2.namebrightdns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1953",
+  "registrarIanaId": 1953,
+  "registrarName": "DropCatch.com 473 LLC",
+  "registrarUrl": "http://www.namebright.com",
+  "registrarAbuseEmail": "support@namebright.com",
+  "registrarAbusePhone": "17204960020",
+  "registrarWhoisServer": "whois.namebright.com"
+}

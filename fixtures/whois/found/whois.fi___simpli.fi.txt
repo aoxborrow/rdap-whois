@@ -1,0 +1,51 @@
+###%%% QRY: simpli.fi
+###%%% SRV: whois.fi
+###%%% TME: 2026-07-16T11:14:40Z
+
+domain.............: simpli.fi
+status.............: Registered
+created............: 9.3.2011 00:00:00
+expires............: 15.3.2029 11:58:57
+available..........: 15.4.2029 11:58:57
+modified...........: 18.4.2024 00:12:14
+holder transfer....: 19.12.2017 17:06:19
+RegistryLock.......: no
+
+Nameservers
+
+nserver............: dns1.simpli.fi [156.154.64.5] [OK]
+nserver............: dns3.simpli.fi [156.154.66.5] [OK]
+nserver............: dns2.simpli.fi [156.154.65.5] [OK]
+nserver............: dns4.simpli.fi [156.154.67.5] [OK]
+nserver............: dns5.simpli.fi [156.154.68.5] [OK]
+nserver............: dns6.simpli.fi [156.154.69.5] [OK]
+
+DNSSEC
+
+dnssec.............: no
+
+Holder
+
+name...............: 101domain GRS Limited
+register number....: 532923
+address............: Level 2, Plaza 3  Custom House Plaza Harbourmaster Place 
+postal.............: D01VY7
+city...............: Dublin
+country............: Ireland
+phone..............: 
+holder email.......: 
+
+Registrar
+
+registrar..........: 101Domain GRS Ltd.
+www................: http://101domain.com
+
+Tech
+
+name...............: 101domain GRS Limited
+email..............: domreg@101domain.com
+
+>>> Last update of WHOIS database: 16.7.2026 14:00:33 (EET) <<<
+
+
+Copyright (c) Finnish Transport and Communications Agency Traficom

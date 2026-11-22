@@ -1,0 +1,51 @@
+###%%% QRY: djerycom.ug
+###%%% SRV: whois.co.ug
+###%%% TME: 2026-07-16T11:38:33Z
+
+**********************************************************
+*            The UG ccTLD Registry Database              *
+**********************************************************
+
+Domain name:                    djerycom.ug
+Status:                         ACTIVE
+Locked:                         No
+Expires On:                     2027-01-14
+Registered On:                  2020-12-21
+Renewed On:                     2026-01-03
+Nameserver:                     maria.ns.cloudflare.com
+Nameserver:                     miles.ns.cloudflare.com
+
+Registrant Contact Information:
+Registrant Name:                Erycom Mutebi
+Registrant Organization:        ERYCOM MUSIC UGANDA
+Registrant Country:             Uganda
+Registrant State / Province:    Uganda
+Registrant City:                Kampala
+Registrant Address:             P.O Box 218 Nateete, Plot 617, Block 20 Busega Nateete
+Registrant Postal Code:         218
+Registrant Phone:               0414660101
+Registrant Email:               djerycom@gmail.com
+
+Administrative Contact Information:
+Admin Name:                     Erycom Mutebi
+Admin Organization:             ERYCOM MUSIC UGANDA
+Admin Country:                  Uganda
+Admin State / Province:         Uganda
+Admin City:                     Kampala
+Admin Address:                  P.O Box 218 Nateete, Plot 617, Block 20 Busega Nateete
+Admin Postal Code:              218
+Admin Phone:                    0414660101
+Admin Email:                    djerycom@gmail.com
+
+Technical Contact Information:
+Tech Name:                      Erycom Mutebi
+Tech Organization:              ERYCOM MUSIC UGANDA
+Tech Country:                   Uganda
+Tech State / Province:          Uganda
+Tech City:                      Kampala
+Tech Address:                   P.O Box 218 Nateete, Plot 617, Block 20 Busega Nateete
+Tech Postal Code:               218
+Tech Phone:                     0414660101
+Tech Email:                     djerycom@gmail.com
+
+Information Last Updated:       2026-01-03T10:12:31.000+03:00

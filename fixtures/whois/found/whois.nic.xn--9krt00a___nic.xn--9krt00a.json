@@ -1,0 +1,35 @@
+{
+  "query": "nic.xn--9krt00a",
+  "server": "whois.nic.xn--9krt00a",
+  "domainId": "855419-CNNIC",
+  "domainName": "nic.xn--9krt00a",
+  "creationDate": "2019-08-16T04:28:00Z",
+  "expirationDate": "2027-08-16T04:28:00Z",
+  "updatedDate": "2026-10-01T16:05:02Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ta.ngtld.cn",
+    "tb.ngtld.cn",
+    "tc.ngtld.cn",
+    "td.ngtld.cn",
+    "te.ngtld.cn"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Reserved for non-billable transactions where Registry Operator acts as Registrar",
+  "registrarUrl": "http://whois.ngtld.cn",
+  "registrarAbuseEmail": "******",
+  "registrarAbusePhone": "******",
+  "registrarWhoisServer": "whois.ngtld.cn"
+}

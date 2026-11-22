@@ -1,0 +1,32 @@
+{
+  "query": "google.mx",
+  "server": "whois.mx",
+  "domainName": "google.mx",
+  "creationDate": "2009-05-12T00:00:00Z",
+  "expirationDate": "2027-05-11T00:00:00Z",
+  "updatedDate": "2026-04-12T00:00:00Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantName": "DNS Admin",
+  "registrantCity": "Mountain View",
+  "registrantState": "California",
+  "registrantCountry": "United States",
+  "adminName": "DNS Admin",
+  "adminCity": "Mountain View",
+  "adminState": "California",
+  "adminCountry": "United States",
+  "techName": "DNS Admin",
+  "techCity": "Mountain View",
+  "techState": "California",
+  "techCountry": "United States",
+  "billingName": "CCOPs Provisioning",
+  "billingCity": "Meridian",
+  "billingState": "Idaho",
+  "billingCountry": "United States"
+}

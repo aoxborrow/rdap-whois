@@ -1,0 +1,28 @@
+###%%% QRY: google.ch
+###%%% SRV: whois.nic.ch
+###%%% TME: 2025-04-09T08:35:59Z
+
+This information is subject to an Acceptable Use Policy.
+See https://www.nic.ch/terms/aup/
+
+
+Domain name:
+google.ch
+
+Registrar:
+MarkMonitor
+
+2150 S Bonito Way, Suite 150
+US-ID 83642 Meridian
+United States
+
+First registration date:
+1999-05-31
+
+DNSSEC:N
+
+Name servers:
+ns1.google.com
+ns2.google.com
+ns3.google.com
+ns4.google.com

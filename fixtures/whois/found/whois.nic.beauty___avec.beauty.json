@@ -1,0 +1,36 @@
+{
+  "query": "avec.beauty",
+  "server": "whois.nic.beauty",
+  "domainId": "D373360878-CNIC",
+  "domainName": "avec.beauty",
+  "creationDate": "2023-06-07T16:59:06Z",
+  "expirationDate": "2027-06-07T23:59:59Z",
+  "updatedDate": "2025-07-29T12:03:05Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-330.awsdns-41.com",
+    "ns-644.awsdns-16.net",
+    "ns-1308.awsdns-35.org",
+    "ns-1727.awsdns-23.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "https://www.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4805058800",
+  "registrarWhoisServer": "whois.godaddy.com"
+}

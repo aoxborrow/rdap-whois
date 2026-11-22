@@ -1,0 +1,27 @@
+###%%% QRY: nic.xn--i1b6b1a6a2e
+###%%% SRV: whois.nic.xn--i1b6b1a6a2e
+###%%% TME: 2026-07-16T23:56:54Z
+
+Domain Name: nic.xn--i1b6b1a6a2e
+Registry Domain ID: REDACTED
+Registrar WHOIS Server: whois.publicinterestregistry.org
+Registrar URL: https://thenew.org/
+Updated Date: 2026-06-05T20:09:59Z
+Creation Date: 2014-04-21T20:09:30Z
+Registry Expiry Date: 2027-04-21T20:09:30Z
+Registrar: PIR Internal (9999)
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: cbath@pir.org
+Registrar Abuse Contact Phone: +1.1234567890
+Domain Status: ok https://icann.org/epp#ok
+Name Server: a0.nic.xn--i1b6b1a6a2e
+Name Server: a2.nic.xn--i1b6b1a6a2e
+Name Server: b0.nic.xn--i1b6b1a6a2e
+Name Server: c0.nic.xn--i1b6b1a6a2e
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:56:55Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Identity Digital except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.  The Registrar of Record identified in this output may have an RDDS service that can be queried for additional information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.

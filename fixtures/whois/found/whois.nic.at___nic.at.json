@@ -1,0 +1,36 @@
+{
+  "query": "nic.at",
+  "server": "whois.nic.at",
+  "domainName": "nic.at",
+  "creationDate": "2000-08-25T20:16:35Z",
+  "updatedDate": "2020-04-27T16:03:40Z",
+  "nameservers": [
+    "ns1.nic.at",
+    "ns2.nic.at",
+    "ns5.nic.at",
+    "ns5.univie.ac.at",
+    "ns10.univie.ac.at"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "Signed",
+  "registrantId": "NG8867695-NICAT",
+  "registrantOrg": "NIC.AT GmbH",
+  "registrantAddress": [
+    "Jakob-Haringerstrasse 8"
+  ],
+  "registrantCity": "Salzburg",
+  "registrantPostalCode": "A-5020",
+  "registrantCountry": "Austria",
+  "registrantPhone": "+43.66246690",
+  "registrantEmail": "service@nic.at",
+  "techId": "UH567003-NICAT",
+  "techName": "UNIVIE Hostmaster",
+  "techAddress": [
+    "Universitaetsstrasse 7"
+  ],
+  "techCity": "Vienna",
+  "techPostalCode": "A-1010",
+  "techCountry": "Austria",
+  "techPhone": "+43.1427714277",
+  "techEmail": "domain-admin@univie.ac.at"
+}

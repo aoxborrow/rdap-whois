@@ -1,0 +1,32 @@
+{
+  "query": "fxtools.gl",
+  "server": "whois.nic.gl",
+  "domainId": "D327728308-CNIC",
+  "domainName": "fxtools.gl",
+  "creationDate": "2015-04-01T08:00:14Z",
+  "expirationDate": "2027-04-01T23:59:59Z",
+  "updatedDate": "2026-05-26T14:00:28Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-354.awsdns-44.com",
+    "ns-715.awsdns-25.net",
+    "ns-1459.awsdns-54.org",
+    "ns-1546.awsdns-01.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1387",
+  "registrarIanaId": 1387,
+  "registrarName": "1API GmbH",
+  "registrarUrl": "http://www.1api.net",
+  "registrarAbuseEmail": "abuse@1api.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.1api.net",
+  "registrantEmail": "https://whois.nic.gl/contact/fxtools.gl/registrant",
+  "techEmail": "https://whois.nic.gl/contact/fxtools.gl/tech"
+}

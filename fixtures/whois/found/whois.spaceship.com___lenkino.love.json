@@ -1,0 +1,66 @@
+{
+  "query": "lenkino.love",
+  "server": "whois.spaceship.com",
+  "domainId": "D254575089-CNIC",
+  "domainName": "lenkino.love",
+  "creationDate": "2021-10-14T10:59:22Z",
+  "expirationDate": "2026-10-14T23:59:59Z",
+  "registrarExpirationDate": "2026-10-14T23:59:59Z",
+  "updatedDate": "2025-02-20T12:27:22Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.hostiservices.com",
+    "ns2.hostiservices.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signed",
+  "registrarId": "3862",
+  "registrarIanaId": 3862,
+  "registrarName": "Spaceship, Inc.",
+  "registrarReseller": "Spaceship, Inc.",
+  "registrarUrl": "https://www.spaceship.com",
+  "registrarAbuseEmail": "abuse@spaceship.com",
+  "registrarAbusePhone": "+1.6613102107",
+  "registrarWhoisServer": "whois.spaceship.com",
+  "registrantId": "r41zjxdo2zih1byt",
+  "registrantName": "Redacted for Privacy Purposes",
+  "registrantOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "registrantAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "registrantCity": "Reykjavik",
+  "registrantState": "Capital Region",
+  "registrantPostalCode": "101",
+  "registrantCountry": "IS",
+  "registrantPhone": "+354.4212434",
+  "registrantEmail": "https://www.spaceship.com/domains/whois/contact/?d=lenkino.love",
+  "adminId": "3djlt01hdio1vhwk",
+  "adminName": "Redacted for Privacy Purposes",
+  "adminOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "adminAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "adminCity": "Reykjavik",
+  "adminState": "Capital Region",
+  "adminPostalCode": "101",
+  "adminCountry": "IS",
+  "adminPhone": "+354.4212434",
+  "adminEmail": "https://www.spaceship.com/domains/whois/contact/?d=lenkino.love",
+  "techId": "eo3sz9bmi2abg8mu",
+  "techName": "Redacted for Privacy Purposes",
+  "techOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "techAddress": [
+    "Kalkofnsvegur 2"
+  ],
+  "techCity": "Reykjavik",
+  "techState": "Capital Region",
+  "techPostalCode": "101",
+  "techCountry": "IS",
+  "techPhone": "+354.4212434",
+  "techEmail": "https://www.spaceship.com/domains/whois/contact/?d=lenkino.love"
+}

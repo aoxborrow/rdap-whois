@@ -1,0 +1,30 @@
+###%%% QRY: animeunity.so
+###%%% SRV: whois.nic.so
+###%%% TME: 2026-07-16T11:43:54Z
+
+Domain Name: animeunity.so
+Registry Domain ID: 281345-sonic
+Registrar URL: https://www.ovhcloud.com
+Updated Date: 2025-12-01T11:00:06Z
+Creation Date: 2024-12-31T18:14:27Z
+Registry Expiry Date: 2026-12-31T18:14:27Z
+Registrar Registration Expiration Date: 2026-12-31T18:14:27Z
+Registrar: OVH.com
+Registrar IANA ID: 433
+Registrar Street Address: 2 rue Kellermann, Roubaix, 59100
+Registrar Email: registry-so-admin@ovh.net
+Registrar Abuse Contact Email: abuse@ovh.net
+Registrar Abuse Contact Phone: 
+Domain Status: active https://icann.org/epp#active
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Name Server: nola.ns.cloudflare.com
+Name Server: ken.ns.cloudflare.com
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2026-07-15T23:56:32.962Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  This WHOIS database is provided by as a service to the internet community.
+
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes. The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

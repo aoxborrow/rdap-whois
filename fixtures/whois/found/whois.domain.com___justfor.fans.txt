@@ -1,0 +1,63 @@
+###%%% QRY: justfor.fans
+###%%% SRV: whois.domain.com
+###%%% TME: 2026-11-22T08:09:57Z
+
+Domain Name: JUSTFOR.FANS
+Registry Domain ID: 
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://www.networksolutions.com
+Updated Date: 2026-03-28T11:56:06Z
+Creation Date: 2018-01-19T19:23:40Z
+Registrar Registration Expiration Date: 2027-04-17T04:00:00Z
+Registrar: Domain.com
+Registrar IANA ID: 886
+Reseller: 
+Domain Status: 
+Registry Registrant ID: 
+Registrant Name: PERFECT PRIVACY, LLC
+Registrant Organization: 
+Registrant Street: 5335 Gate Parkway care of Network Solutions PO Box 459
+Registrant City: Jacksonville
+Registrant State/Province: FL
+Registrant Postal Code: 32256
+Registrant Country: US
+Registrant Phone: +1.5707088622
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: privacy@networksolutionsprivateregistration.com
+Registry Admin ID: 
+Registry Tech ID: 
+Tech Name: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Email: 
+Name Server: 
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: domain.operations@web.com
+Registrar Abuse Contact Phone: +1.8777228662
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T09:15:42Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+This listing is a Network Solutions Private Registration. Mail
+correspondence to this address must be sent via USPS Express Mail(TM) or
+USPS Certified Mail(R); all other mail will not be processed. Be sure to
+include the registrant's domain name in the address.
+The data in Networksolutions.com's WHOIS database is provided to you by
+Networksolutions.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record. Networksolutions.com makes this information available "as is," and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Networksolutions.com  (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Networksolutions.com.
+Networksolutions.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.

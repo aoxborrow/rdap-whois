@@ -1,0 +1,16 @@
+###%%% QRY: lagoon.nc
+###%%% SRV: whois.nc
+###%%% TME: 2026-07-16T11:14:54Z
+
+OPT Whois v3.0.0
+
+Domain                   : lagoon.nc
+Created on               : 1999-08-09T00:00:00.000Z
+Expires on               : 2028-08-09
+Last updated on          : 2026-06-19T13:11:36.000Z
+
+Domain server 1          : dnsp.lagoon.nc
+Domain server 2          : dnss.lagoon.nc
+Domain server 3          : dnst.lagoon.nc
+
+Registrar                : NONE

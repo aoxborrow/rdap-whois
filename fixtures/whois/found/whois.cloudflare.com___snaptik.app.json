@@ -1,0 +1,38 @@
+{
+  "query": "snaptik.app",
+  "server": "whois.cloudflare.com",
+  "domainId": "425E8C809-APP",
+  "domainName": "snaptik.app",
+  "creationDate": "2020-05-05T00:18:22Z",
+  "expirationDate": "2032-05-05T00:18:22Z",
+  "registrarExpirationDate": "2032-05-05T00:18:22Z",
+  "updatedDate": "2026-06-05T06:54:46Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
+  ],
+  "nameservers": [
+    "jessica.ns.cloudflare.com",
+    "logan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1910",
+  "registrarIanaId": 1910,
+  "registrarName": "Cloudflare, Inc.",
+  "registrarUrl": "https://www.cloudflare.com",
+  "registrarAbuseEmail": "registrar-abuse@cloudflare.com",
+  "registrarAbusePhone": "+1.4153197517",
+  "registrarWhoisServer": "whois.cloudflare.com",
+  "registrantName": "DATA REDACTED",
+  "registrantAddress": [
+    "DATA REDACTED"
+  ],
+  "registrantCity": "DATA REDACTED",
+  "registrantState": "Ha Noi",
+  "registrantPostalCode": "DATA REDACTED",
+  "registrantCountry": "VN",
+  "registrantPhone": "+1.4153197517"
+}

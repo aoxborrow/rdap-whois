@@ -1,0 +1,44 @@
+###%%% QRY: punktum.dk
+###%%% SRV: whois.punktum.dk
+###%%% TME: 2026-11-22T08:08:11Z
+
+# Hello 192.0.2.1. Your session has been logged.
+#
+# Copyright (c) 2002 - 2026 by Punktum dk A/S
+#
+# Version: 6.3.1
+#
+# The data in the DK Whois database is provided by Punktum dk A/S
+# for information purposes only, and to assist persons in obtaining
+# information about or related to a domain name registration record.
+# We do not guarantee its accuracy. We will reserve the right to remove
+# access for entities abusing the data, without notice.
+#
+# Any use of this material to target advertising or similar activities
+# are explicitly forbidden and will be prosecuted. Punktum dk A/S
+# requests to be notified of any such activities or suspicions thereof.
+
+Domain:               punktum.dk
+DNS:                  punktum.dk
+Registered:           2018-01-25
+Expires:              2027-01-31
+Registration period:  1 year
+VID:                  no
+DNSSEC:               Signed delegation
+Status:               Active
+
+Registrant
+Handle:               DATA REDACTED
+Name:                 Punktum dk A/S
+Address:              Ørestads Boulevard 108, 11.
+Postalcode:           2300
+City:                 København S
+Country:              DK
+Phone:                +45 33646060
+Email:                info@punktum.dk
+ID status:            ID verified via electronic ID
+
+Nameservers
+Hostname:             auth01.ns.dk-hostmaster.dk
+Hostname:             auth02.ns.dk-hostmaster.dk
+Hostname:             auth03.ns.dk-hostmaster.dk

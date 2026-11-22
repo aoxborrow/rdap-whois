@@ -1,0 +1,30 @@
+{
+  "query": "smart.car",
+  "server": "whois.nic.car",
+  "domainId": "D211470153-CNIC",
+  "domainName": "smart.car",
+  "creationDate": "2015-12-09T16:00:02Z",
+  "expirationDate": "2026-12-09T23:59:59Z",
+  "updatedDate": "2026-01-24T00:42:21Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.smart.car",
+    "ns2.smart.car",
+    "ns3.smart.car",
+    "ns4.smart.car"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1420",
+  "registrarIanaId": 1420,
+  "registrarName": "INWX GmbH",
+  "registrarUrl": "https://www.inwx.com",
+  "registrarAbuseEmail": "abuse@inwx.com",
+  "registrarAbusePhone": "+49.30983212123",
+  "registrarWhoisServer": "whois.domrobot.com"
+}

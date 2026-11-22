@@ -1,0 +1,5 @@
+###%%% QRY: aagmaal.how
+###%%% SRV: whois.enom.com
+###%%% TME: 2026-11-22T08:29:15Z
+
+We're sorry, there has been a problem. Technicians have been notified. Code E3.

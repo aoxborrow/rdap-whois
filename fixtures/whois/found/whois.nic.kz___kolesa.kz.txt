@@ -1,0 +1,44 @@
+###%%% QRY: kolesa.kz
+###%%% SRV: whois.nic.kz
+###%%% TME: 2026-07-16T11:41:51Z
+
+Whois Server for the KZ top level domain name.
+This server is maintained by KazNIC Organization, a ccTLD manager for Kazakhstan Republic.
+
+Domain Name............: kolesa.kz
+
+Organization Using Domain Name
+Name...................: [HIDDEN PERSONAL DATA]
+Organization Name......: [HIDDEN PERSONAL DATA]
+Street Address.........: [HIDDEN PERSONAL DATA]
+City...................: [HIDDEN PERSONAL DATA]
+State..................: [HIDDEN PERSONAL DATA]
+Postal Code............: [HIDDEN PERSONAL DATA]
+Country................: [HIDDEN PERSONAL DATA]
+
+Administrative Contact/Agent
+NIC Handle.............: PS-KZ-1712666099
+Name...................: [HIDDEN PERSONAL DATA]
+Phone Number...........: [HIDDEN PERSONAL DATA]
+Fax Number.............: [HIDDEN PERSONAL DATA]
+Email Address..........: [HIDDEN PERSONAL DATA]
+
+Nameserver in listed order
+
+Primary server.........: ns1.kolesa.kz
+Primary ip address.....: 185.146.2.2, 185.146.2.3
+
+Secondary server.......: ns2.kolesa.kz
+Secondary ip address...: 89.218.30.251, 89.218.30.252
+
+Secondary server.......: ns3.kolesa.kz
+Secondary ip address...: 185.146.2.2, 89.218.30.251
+
+
+Domain created: 2005-01-05 06:54:47 (GMT+0:00)
+Last modified : 2024-04-09 12:34:59 (GMT+0:00)
+Domain status : clientTransferProhibited - 
+                clientRenewProhibited - 
+                
+Registar created: KAZNIC
+Current Registar: ICPS

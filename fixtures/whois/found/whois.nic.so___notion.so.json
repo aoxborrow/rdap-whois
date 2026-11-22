@@ -1,0 +1,29 @@
+{
+  "query": "notion.so",
+  "server": "whois.nic.so",
+  "domainId": "31288-sonic",
+  "domainName": "notion.so",
+  "creationDate": "2015-03-31T00:00:00Z",
+  "expirationDate": "2027-03-31T00:00:00Z",
+  "registrarExpirationDate": "2027-03-31T00:00:00Z",
+  "updatedDate": "2026-04-24T19:02:39Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "dana.ns.cloudflare.com",
+    "woz.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "1API",
+  "registrarAddress": [
+    "Talstrasse 27, Homburg Saarland, 66424"
+  ],
+  "registrarEmail": "admin-c@1api.net"
+}

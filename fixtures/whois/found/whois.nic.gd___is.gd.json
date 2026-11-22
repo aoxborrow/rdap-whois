@@ -1,0 +1,30 @@
+{
+  "query": "is.gd",
+  "server": "whois.nic.gd",
+  "domainId": "D81923924-CNIC",
+  "domainName": "is.gd",
+  "creationDate": "2007-09-12T00:00:00Z",
+  "expirationDate": "2028-09-12T23:59:59Z",
+  "updatedDate": "2023-08-31T16:51:20Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "gwen.ns.cloudflare.com",
+    "jerry.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "Gandi SAS",
+  "registrarUrl": "http://www.gandi.net",
+  "registrarAbuseEmail": "abuse@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrarWhoisServer": "whois.gandi.net",
+  "registrantEmail": "https://whois.nic.gd/contact/is.gd/registrant",
+  "techEmail": "https://whois.nic.gd/contact/is.gd/tech"
+}

@@ -1,0 +1,22 @@
+{
+  "query": "google.lu",
+  "server": "whois.dns.lu",
+  "domainName": "google.lu",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ACTIVE"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor",
+  "registrarCountry": "GB",
+  "registrarEmail": "ccops@markmonitor.com",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantCountry": "US"
+}

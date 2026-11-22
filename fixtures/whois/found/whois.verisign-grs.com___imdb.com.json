@@ -1,0 +1,40 @@
+{
+  "query": "imdb.com",
+  "server": "whois.verisign-grs.com",
+  "domainId": "2724536_DOMAIN_COM-VRSN",
+  "domainName": "imdb.com",
+  "creationDate": "1996-01-05T05:00:00Z",
+  "expirationDate": "2028-01-04T05:00:00Z",
+  "updatedDate": "2026-11-05T23:30:14Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns-180.awsdns-22.com",
+    "ns-590.awsdns-09.net",
+    "ns-1155.awsdns-16.org",
+    "ns-1880.awsdns-43.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com"
+}

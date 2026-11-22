@@ -1,0 +1,51 @@
+###%%% QRY: project2025.observer
+###%%% SRV: whois.nic.observer
+###%%% TME: 2026-07-16T11:42:57Z
+
+Domain Name: project2025.observer
+Registry Domain ID: DO_f85b4a360698a2e8038f69795b25f768-INAMING
+Registrar WHOIS Server: http://www.name.com/whois_result
+Registrar URL: www.name.com
+Updated Date: 2026-04-24T20:36:41.780Z
+Creation Date: 2025-02-11T02:06:29.926Z
+Registry Expiry Date: 2027-02-11T02:06:29.926Z
+Registrar: Name.com, Inc.
+Registrar IANA ID: 625
+Registrar Abuse Contact Email: support@name.com
+Registrar Abuse Contact Phone: +1.7202492374
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: ns1.vercel-dns.com
+Name Server: ns2.vercel-dns.com
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-07-16T11:42:58.081Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.

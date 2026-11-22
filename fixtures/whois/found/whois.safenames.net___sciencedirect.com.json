@@ -1,0 +1,72 @@
+{
+  "domainId": "4453196_DOMAIN_COM-VRSN",
+  "domainName": "sciencedirect.com",
+  "creationDate": "1997-03-12T05:00:00Z",
+  "expirationDate": "2026-03-13T04:00:00Z",
+  "registrarExpirationDate": "2026-03-13T04:00:00Z",
+  "updatedDate": "2025-03-14T00:53:59Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "elmo.ns.cloudflare.com",
+    "sofia.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "447",
+  "registrarIanaId": 447,
+  "registrarName": "Safenames Ltd",
+  "registrarUrl": "http://www.safenames.net",
+  "registrarAbuseEmail": "abuse@safenames.net",
+  "registrarAbusePhone": "+44.1908200022",
+  "registrarWhoisServer": "whois.safenames.net",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Data protected, not disclosed",
+  "registrantOrg": "Elsevier Ltd",
+  "registrantAddress": [
+    "Data protected, not disclosed"
+  ],
+  "registrantCity": "Data protected, not disclosed",
+  "registrantState": "Data protected, not disclosed",
+  "registrantPostalCode": "Data protected, not disclosed",
+  "registrantCountry": "UK",
+  "registrantPhone": "Data protected, not disclosed",
+  "registrantFax": "Data protected, not disclosed",
+  "registrantEmail": "chviucafzpne@idp.email",
+  "adminId": "Not Available From Registry",
+  "adminName": "International Domain Administrator",
+  "adminOrg": "Safenames Ltd",
+  "adminAddress": [
+    "Safenames House, Sunrise Parkway",
+    "Linford Wood"
+  ],
+  "adminCity": "Milton Keynes",
+  "adminState": "Bucks",
+  "adminPostalCode": "MK14 6LS",
+  "adminCountry": "UK",
+  "adminPhone": "+44.1908200022",
+  "adminFax": "+44.1908325192",
+  "adminEmail": "hostmaster@safenames.net",
+  "techId": "Not Available From Registry",
+  "techName": "International Domain Tech",
+  "techOrg": "Safenames Ltd",
+  "techAddress": [
+    "Safenames House, Sunrise Parkway",
+    "Linford Wood"
+  ],
+  "techCity": "Milton Keynes",
+  "techState": "Bucks",
+  "techPostalCode": "MK14 6LS",
+  "techCountry": "UK",
+  "techPhone": "+44.1908200022",
+  "techFax": "+44.1908325192",
+  "techEmail": "hostmaster@safenames.net"
+}

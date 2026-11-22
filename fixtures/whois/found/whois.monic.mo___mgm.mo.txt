@@ -1,0 +1,20 @@
+###%%% QRY: mgm.mo
+###%%% SRV: whois.monic.mo
+###%%% TME: 2026-07-16T11:39:30Z
+
+% Domain Information over Whois protocol
+%
+% Monic Whois Server Version 1.0
+
+Domain Name: mgm.mo
+Record created on 2014-05-25 23:44:33
+Record expires on 2029-05-25
+
+Domain name servers:
+ -----------------------------------------------------
+ns1-34.azure-dns.com
+ns2-34.azure-dns.net
+ns3-34.azure-dns.org
+ns4-34.azure-dns.info
+ns1.f5clouddns.com
+ns2.f5clouddns.com

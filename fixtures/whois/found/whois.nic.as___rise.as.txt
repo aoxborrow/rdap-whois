@@ -1,0 +1,20 @@
+###%%% QRY: rise.as
+###%%% SRV: whois.nic.as
+###%%% TME: 2026-07-16T23:23:04Z
+
+Domain Name: rise.as
+Registry Domain ID: 272850-as
+Creation Date: 2014-12-17T00:00:00Z
+Registry Expiry Date: 2026-12-17T00:00:00Z
+Registrar Registration Expiration Date: 2026-12-17T00:00:00Z
+Registrar: gdns
+Registrar Abuse Contact Email: hostmaster@gdns.com
+Registrar Abuse Contact Phone: +1 212 334 3660
+Domain Status: active https://icann.org/epp#active
+Name Server: ns3.rise.as
+Name Server: ns2.rise.as
+Name Server: ns4.rise.as
+Name Server: ns1.rise.as
+>>> Last update of WHOIS database: 2026-07-16T23:10:19.683Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp

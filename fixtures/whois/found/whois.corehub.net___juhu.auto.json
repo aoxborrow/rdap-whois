@@ -1,0 +1,39 @@
+{
+  "query": "juhu.auto",
+  "server": "whois.corehub.net",
+  "domainId": "D211586668-CNIC",
+  "domainName": "juhu.auto",
+  "creationDate": "2018-06-27T10:25:35Z",
+  "expirationDate": "2025-06-27T23:59:59Z",
+  "registrarExpirationDate": "2025-06-27T23:59:59Z",
+  "updatedDate": "2025-03-14T14:40:19Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns-75.awsdns-09.com",
+    "ns-690.awsdns-22.net",
+    "ns-1470.awsdns-55.org",
+    "ns-1680.awsdns-18.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "15",
+  "registrarIanaId": 15,
+  "registrarName": "COREhub, S.R.L.",
+  "registrarReseller": "CORE-75 (Deutsche Telekom AG)",
+  "registrarUrl": "http://corehub.net",
+  "registrarAbuseEmail": "abuse@corehub.net",
+  "registrarAbusePhone": "+34.931807144",
+  "registrarWhoisServer": "whois.corehub.net",
+  "registrantOrg": "Bank Deutsches Kraftfahrzeuggewerbe GmbH",
+  "registrantState": "Hamburg",
+  "registrantCountry": "DE",
+  "registrantEmail": "https://corehub.net/whoiscontact/",
+  "adminEmail": "https://corehub.net/whoiscontact/",
+  "techEmail": "https://corehub.net/whoiscontact/",
+  "billingEmail": "https://corehub.net/whoiscontact/"
+}

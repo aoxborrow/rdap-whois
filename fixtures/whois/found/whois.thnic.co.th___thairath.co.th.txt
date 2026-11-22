@@ -1,0 +1,31 @@
+###%%% QRY: thairath.co.th
+###%%% SRV: whois.thnic.co.th
+###%%% TME: 2026-07-16T11:45:34Z
+
+Whois Server Version 2.1.7
+
+Domain Name:                THAIRATH.CO.TH
+Registrar:                  THNIC
+Name Server:                NS-696.AWSDNS-23.NET
+Name Server:                NS-443.AWSDNS-55.COM
+Name Server:                NS-1707.AWSDNS-21.CO.UK
+Name Server:                NS-1123.AWSDNS-12.ORG
+DNSSEC:                     unsigned
+Status:                     ACTIVE
+Updated date:               31 Mar 2023
+Created date:               17 Jan 1999
+Exp date:                   16 Jan 2030
+Domain Holder Organization: The Thairath Daily, Vacharaphol Co., Ltd. (บริษัท วัชรพล จำกัด)
+Domain Holder Street:       Personal Information
+Domain Holder Country:      TH
+
+Tech Contact:               Personal Information
+Tech Organization:          Personal Information
+Tech Street:                Personal Information
+Tech Country:               Personal Information
+
+>>> Last updated on Thu, 16 Jul 2026 18:45:35 UTC+7 <<<
+
+If you have a legitimate interest in viewing the non-public WHOIS details, send your request and the reasons for your request to staff@thnic.co.th and specify the domain name in the subject line. We will review that request and may ask for supporting documentation and explanation.
+
+For more information please visit: https://www.thnic.co.th/whois

@@ -1,0 +1,64 @@
+{
+  "query": "nic.samsclub",
+  "server": "whois.nic.samsclub",
+  "domainId": "D8AD88A2901A7431C82080B9501FA4066-GDREG",
+  "domainName": "nic.samsclub",
+  "creationDate": "2024-08-01T02:16:28Z",
+  "expirationDate": "2027-08-01T02:16:28Z",
+  "updatedDate": "2026-09-15T02:16:32Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverRenewProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverRenewProhibited https://icann.org/epp#serverRenewProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.samsclub",
+    "b.nic.samsclub",
+    "c.nic.samsclub",
+    "x.nic.samsclub",
+    "y.nic.samsclub",
+    "z.nic.samsclub"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Wal-Mart Stores, Inc.",
+  "registrarUrl": "https://nic.walmart",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.4242624238",
+  "registrarWhoisServer": "whois.nic.walmart",
+  "registrantId": "CFEB8AC65A7A149F3AAA8A4F1ACD0783E-GDREG",
+  "registrantName": "Wal-Mart Stores, Inc.",
+  "registrantOrg": "Wal-Mart Stores, Inc.",
+  "registrantAddress": [
+    "702 Southwest 8th Street"
+  ],
+  "registrantCity": "Bentonville",
+  "registrantState": "AR",
+  "registrantPostalCode": "72716",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4242624238",
+  "registrantFax": "+1.4242624238",
+  "registrantEmail": "techsupport@registry.godaddy",
+  "techId": "CFEB8AC65A7A149F3AAA8A4F1ACD0783E-GDREG",
+  "techName": "Wal-Mart Stores, Inc.",
+  "techOrg": "Wal-Mart Stores, Inc.",
+  "techAddress": [
+    "702 Southwest 8th Street"
+  ],
+  "techCity": "Bentonville",
+  "techState": "AR",
+  "techPostalCode": "72716",
+  "techCountry": "US",
+  "techPhone": "+1.4242624238",
+  "techFax": "+1.4242624238",
+  "techEmail": "techsupport@registry.godaddy"
+}

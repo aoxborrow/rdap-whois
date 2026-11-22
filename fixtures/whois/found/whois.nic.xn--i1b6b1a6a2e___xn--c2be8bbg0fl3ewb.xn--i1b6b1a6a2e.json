@@ -1,0 +1,28 @@
+{
+  "query": "xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e",
+  "server": "whois.nic.xn--i1b6b1a6a2e",
+  "domainId": "REDACTED",
+  "domainName": "xn--c2be8bbg0fl3ewb.xn--i1b6b1a6a2e",
+  "creationDate": "2024-01-09T07:29:50Z",
+  "expirationDate": "2027-01-09T07:29:50Z",
+  "updatedDate": "2026-08-12T02:40:07Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "clint.ns.cloudflare.com",
+    "wally.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "Dynadot Inc",
+  "registrarUrl": "http://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com"
+}

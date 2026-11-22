@@ -1,0 +1,107 @@
+###%%% QRY: dollar.bank
+###%%% SRV: whois.nic.bank
+###%%% TME: 2026-07-16T11:40:14Z
+
+Domain Name: dollar.bank
+Registry Domain ID: 113343192_DOMAIN_BANK-NSR
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: www.markmonitor.com
+Updated Date: 2026-05-22T11:08:42Z
+Creation Date: 2015-06-18T00:20:21Z
+Registry Expiry Date: 2027-06-18T00:20:21Z
+Registrar: MarkMonitor, Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: registry.admin@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 1784600_CONTACT_BANK-NSR
+Registrant Name: Primary Registrant
+Registrant Organization: Dollar Bank, Federal Savings Bank
+Registrant Street: 20 Stanwix Street, 20th Floor
+Registrant Street:
+Registrant Street:
+Registrant City: Pittsburgh
+Registrant State/Province: PA
+Registrant Postal Code: 15222
+Registrant Country: US
+Registrant Phone: +1.4122617549
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: halldj@dollarbank.com
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin Street:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email:
+Registry Tech ID: 1008036_CONTACT_INSURANCE-NSR
+Tech Name: Domain Administrator
+Tech Organization: MarkMonitor Inc.
+Tech Street: 3540 East Longwing Lane
+Tech Street: Suite 300
+Tech Street:
+Tech City: Meridian
+Tech State/Province: ID
+Tech Postal Code: 83646
+Tech Country: US
+Tech Phone: +1.2083895740
+Tech Phone Ext:
+Tech Fax: +1.2083895771
+Tech Fax Ext:
+Tech Email: ccopsbilling@markmonitor.com
+Name Server: ns10.dollar.bank
+Name Server: ns12.dollar.bank
+Name Server: ns11.dollar.bank
+Name Server: ns13.dollar.bank
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:40:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+fTLD Registry Services, LLC (Registry Operator) is required to collect and 
+provide domain name registration information (Whois Data) for a variety 
+of purposes. Registry Operator through its Registry Service Provider enables 
+access to Whois Data through a standard text-based network protocol on 
+port 43 and as a standard web-based interface at whois.nic.bank/whois.nic.insurance. 
+Both interfaces are publicly available at no cost to the user and are 
+reachable worldwide. This service is available to any Internet user and its 
+use does not require prior authorization or permission.
+
+Registry Operator provides the public Whois Data for information purposes 
+only, and does not guarantee its accuracy. 
+
+By accessing Whois Data made available by Registry Operator, you agree 
+that you will use the Whois Data only for lawful purposes.  Under no 
+circumstance shall the data or the systems of Registry Operator and/or 
+Registry Service Provider be used to: allow, enable, or otherwise support the 
+transmission of mass unsolicited, commercial advertising or solicitations via, 
+email, telephone or facsimile; or enable high volume, automated, electronic 
+processes that send queries or data to the systems of Registry Operator, 
+Registry Service Provider, or Registrar except as reasonably necessary to 
+register domain names or modify existing registrations. The compilation, 
+repackaging, disseminations or other use of the Whois Data is expressly 
+prohibited without the prior consent of Registry Operator. Registry Operator 
+reserves the right to restrict third party access to Whois Data through these 
+public resources in its sole discretion to ensure operational stability. Registry 
+Operator may restrict or block access to Whois Data for failure to abide by 
+the Terms of Use.
+
+Notice:  The expiration data displayed in this record is the date the 
+Registrars sponsorship of the domain name registration in is currently set to 
+expire. This date does not necessarily reflect the expiration date of the 
+domain name Registrants Registration Agreement with the sponsoring 
+Registrar. Users may consult the sponsoring Registrars Whois Data to view 
+the Registrars reported date of expiration for a specific domain name.

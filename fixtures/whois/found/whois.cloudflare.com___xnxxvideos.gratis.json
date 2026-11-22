@@ -1,0 +1,38 @@
+{
+  "query": "xnxxvideos.gratis",
+  "server": "whois.cloudflare.com",
+  "domainId": "7c1a9a33c8de434ea4b9d88534abda02-DONUTS",
+  "domainName": "xnxxvideos.gratis",
+  "creationDate": "2022-02-23T16:25:15Z",
+  "expirationDate": "2027-02-23T16:25:15Z",
+  "registrarExpirationDate": "2027-02-23T16:25:15Z",
+  "updatedDate": "2026-07-03T06:58:46Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clienttransferprohibited https://icann.org/epp#clienttransferprohibited"
+  ],
+  "nameservers": [
+    "jack.ns.cloudflare.com",
+    "megan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1910",
+  "registrarIanaId": 1910,
+  "registrarName": "Cloudflare, Inc.",
+  "registrarUrl": "https://www.cloudflare.com",
+  "registrarAbuseEmail": "registrar-abuse@cloudflare.com",
+  "registrarAbusePhone": "+1.4153197517",
+  "registrarWhoisServer": "whois.cloudflare.com",
+  "registrantName": "DATA REDACTED",
+  "registrantAddress": [
+    "DATA REDACTED"
+  ],
+  "registrantCity": "DATA REDACTED",
+  "registrantState": "Bacau",
+  "registrantPostalCode": "DATA REDACTED",
+  "registrantCountry": "RO",
+  "registrantPhone": "+1.4153197517"
+}

@@ -1,0 +1,75 @@
+{
+  "query": "google.ca",
+  "server": "whois.ca.fury.ca",
+  "domainId": "D73081-CIRA",
+  "domainName": "google.ca",
+  "creationDate": "2000-10-04T02:21:23Z",
+  "expirationDate": "2027-04-28T04:00:00Z",
+  "updatedDate": "2026-04-28T04:05:31Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited",
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "not applicable",
+  "registrarName": "MarkMonitor International Canada Ltd.",
+  "registrarUrl": "https://markmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2083895740",
+  "registrarWhoisServer": "whois.ca.fury.ca",
+  "registrantId": "106113561-CIRA",
+  "registrantName": "Google Canada Corporation",
+  "registrantOrg": "Google Canada Corporation",
+  "registrantAddress": [
+    "12-111 Richmond St. W"
+  ],
+  "registrantCity": "Toronto",
+  "registrantState": "ON",
+  "registrantPostalCode": "M5H2G4",
+  "registrantCountry": "CA",
+  "registrantPhone": "+1.4162146034",
+  "registrantEmail": "dns-admin@google.com",
+  "adminId": "114145987-CIRA",
+  "adminName": "Colm Buckley",
+  "adminOrg": "Google Canada Corporation",
+  "adminAddress": [
+    "12-111 Richmond St W"
+  ],
+  "adminCity": "Toronto",
+  "adminState": "ON",
+  "adminPostalCode": "M5H2G4",
+  "adminCountry": "CA",
+  "adminPhone": "+1.4162146034",
+  "adminEmail": "dns-admin@google.com",
+  "techId": "114145987-CIRA",
+  "techName": "Colm Buckley",
+  "techOrg": "Google Canada Corporation",
+  "techAddress": [
+    "12-111 Richmond St W"
+  ],
+  "techCity": "Toronto",
+  "techState": "ON",
+  "techPostalCode": "M5H2G4",
+  "techCountry": "CA",
+  "techPhone": "+1.4162146034",
+  "techEmail": "dns-admin@google.com"
+}

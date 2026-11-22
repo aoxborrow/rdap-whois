@@ -1,0 +1,30 @@
+{
+  "query": "nic.capitalone",
+  "server": "whois.nic.capitalone",
+  "domainId": "DA399D6232C0D4B01B93D529325661004-GDREG",
+  "domainName": "nic.capitalone",
+  "creationDate": "2025-04-22T05:30:26Z",
+  "expirationDate": "2027-04-22T05:30:26Z",
+  "updatedDate": "2026-11-12T06:02:33Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a.nic.capitalone",
+    "b.nic.capitalone",
+    "c.nic.capitalone",
+    "d.nic.capitalone"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "Capital One Financial Corporation",
+  "registrarUrl": "https://nic.capitalone",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "whois.nic.capitalone"
+}

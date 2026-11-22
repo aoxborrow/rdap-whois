@@ -1,0 +1,72 @@
+###%%% QRY: tatneft.tatar
+###%%% SRV: whois.nic.tatar
+###%%% TME: 2026-11-22T08:11:03Z
+
+Domain Name: TATNEFT.TATAR
+Registry Domain ID: TATNEFT.TATAR
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: http://whois.nic.ru
+Updated Date: 2022-12-25T01:57:07Z
+Creation Date: 2014-12-26T10:52:40Z
+Registry Expiry Date: 2026-12-26T10:52:40Z
+Registrar: JSC RU-CENTER [RUCENTER-TATAR]
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-abuse@nic.ru
+Registrar Abuse Contact Phone: +7.4959944601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: REDACTED FOR PRIVACY
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: JSC "Tatneft"
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: Tatarstan
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: RU
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Email: Please query the Registrar in this output for contact the Registrant
+Registry Admin ID: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: REDACTED FOR PRIVACY
+Admin Phone: REDACTED FOR PRIVACY
+Admin Email: Please query the Registrar in this output for contact the Registrant
+Registry Tech ID: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: REDACTED FOR PRIVACY
+Tech Phone: REDACTED FOR PRIVACY
+Tech Email: Please query the Registrar in this output for contact the Registrant
+Registry Billing ID: REDACTED FOR PRIVACY
+Billing Name: REDACTED FOR PRIVACY
+Billing Organization: REDACTED FOR PRIVACY
+Billing Street: REDACTED FOR PRIVACY
+Billing City: REDACTED FOR PRIVACY
+Billing State/Province: REDACTED FOR PRIVACY
+Billing Postal Code: REDACTED FOR PRIVACY
+Billing Country: REDACTED FOR PRIVACY
+Billing Phone: REDACTED FOR PRIVACY
+Billing Email: Please query the Registrar in this output for contact the Registrant
+Name Server: ns1.tatneft.tatar.
+IP Address: 91.245.41.21
+Name Server: ns2.tatneft.tatar.
+IP Address: 91.245.41.22
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+>>> Last update of WHOIS database: 2026-11-22T08:08:01Z <<<
+
+% For more information on Whois status codes, please visit
+% https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://whois.nic.tatar/terms_of_use.html (in Russian)
+% http://whois.nic.tatar/terms_of_use.en.html (in English).

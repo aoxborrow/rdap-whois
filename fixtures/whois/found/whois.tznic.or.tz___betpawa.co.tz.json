@@ -1,0 +1,16 @@
+{
+  "query": "betpawa.co.tz",
+  "server": "whois.tznic.or.tz",
+  "domainName": "betpawa.co.tz",
+  "creationDate": "2016-11-02T21:16:12Z",
+  "expirationDate": "2027-11-02T00:00:00Z",
+  "updatedDate": "2026-04-02T15:06:53Z",
+  "nameservers": [
+    "damian.ns.cloudflare.com",
+    "isla.ns.cloudflare.com"
+  ],
+  "registrarName": "REG-MARCARIA",
+  "registrantId": "MCRC456656",
+  "adminId": "MCRC000000",
+  "techId": "MCRC000000"
+}

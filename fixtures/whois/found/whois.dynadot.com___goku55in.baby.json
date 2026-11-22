@@ -1,0 +1,65 @@
+{
+  "query": "goku55in.baby",
+  "server": "whois.dynadot.com",
+  "domainId": "D475750440-CNIC",
+  "domainName": "goku55in.baby",
+  "creationDate": "2024-08-03T07:05:59Z",
+  "expirationDate": "2025-08-03T23:59:59Z",
+  "registrarExpirationDate": "2025-08-03T23:59:59Z",
+  "updatedDate": "2025-01-28T09:01:04Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nile.ns.cloudflare.com",
+    "sasha.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "472",
+  "registrarIanaId": 472,
+  "registrarName": "DYNADOT LLC",
+  "registrarUrl": "http://www.dynadot.com",
+  "registrarAbuseEmail": "abuse@dynadot.com",
+  "registrarAbusePhone": "+1.6502620100",
+  "registrarWhoisServer": "whois.dynadot.com",
+  "registrantId": "CPF-1184842",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Super Privacy Service LTD c/o Dynadot",
+  "registrantAddress": [
+    "PO Box 701"
+  ],
+  "registrantCity": "San Mateo",
+  "registrantState": "California",
+  "registrantPostalCode": "94401",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6505854708",
+  "registrantEmail": "https://www.dynadot.com/domain/contact-request?domain=goku55in.baby",
+  "adminId": "CPF-1184842",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "Super Privacy Service LTD c/o Dynadot",
+  "adminAddress": [
+    "PO Box 701"
+  ],
+  "adminCity": "San Mateo",
+  "adminState": "California",
+  "adminPostalCode": "94401",
+  "adminCountry": "US",
+  "adminPhone": "+1.6505854708",
+  "adminEmail": "https://www.dynadot.com/domain/contact-request?domain=goku55in.baby",
+  "techId": "CPF-1184842",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "Super Privacy Service LTD c/o Dynadot",
+  "techAddress": [
+    "PO Box 701"
+  ],
+  "techCity": "San Mateo",
+  "techState": "California",
+  "techPostalCode": "94401",
+  "techCountry": "US",
+  "techPhone": "+1.6505854708",
+  "techEmail": "https://www.dynadot.com/domain/contact-request?domain=goku55in.baby"
+}

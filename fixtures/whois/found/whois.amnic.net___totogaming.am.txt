@@ -1,0 +1,44 @@
+###%%% QRY: totogaming.am
+###%%% SRV: whois.amnic.net
+###%%% TME: 2026-07-16T11:38:08Z
+
+%
+%AM TLD whois server #2
+% Please see 'whois -h whois.amnic.net help' for usage.
+%
+
+   Domain name: totogaming.am
+   Registrar:   abcdomain (ABCDomain LLC)
+   Status:      active
+
+   Registrant:
+      Digitain LLC
+      Amiryan 26
+      Yerevan,  0002
+      AM
+
+   Administrative contact:
+      Harutyun Vardanyan
+      Digitain LLC
+      Amiryan 26
+      Yerevan, 0002
+      AM
+      itservice@digitain.com
+      +374 60 700400
+
+   Technical contact:
+      Harutyun Vardanyan
+      Digitain LLC
+      Amiryan 26
+      Yerevan, 0002
+      AM
+      itservice@digitain.com
+      +374 60 700400
+
+   DNS servers:
+      kara.ns.cloudflare.com
+      steven.ns.cloudflare.com
+
+   Registered:    2018-06-12
+   Last modified: 2026-06-04
+   Expires:       2027-06-12

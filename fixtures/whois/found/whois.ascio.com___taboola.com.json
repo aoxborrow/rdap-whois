@@ -1,0 +1,79 @@
+{
+  "query": "taboola.com",
+  "server": "whois.ascio.com",
+  "domainId": "834820814_DOMAIN_COM-VRSN",
+  "domainName": "taboola.com",
+  "creationDate": "2007-02-23T00:00:00Z",
+  "expirationDate": "2031-02-23T22:21:41Z",
+  "registrarExpirationDate": "2031-02-23T22:21:41Z",
+  "updatedDate": "2025-09-16T11:01:58Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "OK https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "dns1.p05.nsone.net",
+    "dns2.p05.nsone.net",
+    "dns3.p05.nsone.net",
+    "dns4.p05.nsone.net",
+    "ns01.dnsfaster.com",
+    "ns02.dnsfaster.com",
+    "ns03.dnsfaster.com",
+    "ns04.dnsfaster.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "106",
+  "registrarIanaId": 106,
+  "registrarName": "Ascio Technologies, Inc",
+  "registrarUrl": "http://www.ascio.com",
+  "registrarAbuseEmail": "abuse@ascio.com",
+  "registrarAbusePhone": "+44 (20) 81583881",
+  "registrarWhoisServer": "whois.ascio.com",
+  "registrantId": "Not Disclosed",
+  "registrantName": "Not Disclosed",
+  "registrantOrg": "Not Disclosed",
+  "registrantAddress": [
+    "Not Disclosed"
+  ],
+  "registrantCity": "Not Disclosed",
+  "registrantPostalCode": "Not Disclosed",
+  "registrantCountry": "US",
+  "registrantPhone": "Not Disclosed",
+  "registrantPhoneExt": "Not Disclosed",
+  "registrantFax": "Not Disclosed",
+  "registrantFaxExt": "Not Disclosed",
+  "registrantEmail": "https://whoiscontact.ascio.com?domainname=taboola.com",
+  "adminId": "Not Disclosed",
+  "adminName": "Not Disclosed",
+  "adminOrg": "Not Disclosed",
+  "adminAddress": [
+    "Not Disclosed"
+  ],
+  "adminCity": "Not Disclosed",
+  "adminState": "Not Disclosed",
+  "adminPostalCode": "Not Disclosed",
+  "adminCountry": "Not Disclosed",
+  "adminPhone": "Not Disclosed",
+  "adminPhoneExt": "Not Disclosed",
+  "adminFax": "Not Disclosed",
+  "adminFaxExt": "Not Disclosed",
+  "adminEmail": "Not Disclosed",
+  "techId": "Not Disclosed",
+  "techName": "Not Disclosed",
+  "techOrg": "Not Disclosed",
+  "techAddress": [
+    "Not Disclosed"
+  ],
+  "techCity": "Not Disclosed",
+  "techState": "Not Disclosed",
+  "techPostalCode": "Not Disclosed",
+  "techCountry": "Not Disclosed",
+  "techPhone": "Not Disclosed",
+  "techPhoneExt": "Not Disclosed",
+  "techFax": "Not Disclosed",
+  "techFaxExt": "Not Disclosed",
+  "techEmail": "Not Disclosed"
+}

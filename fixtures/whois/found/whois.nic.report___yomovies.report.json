@@ -1,0 +1,30 @@
+{
+  "query": "yomovies.report",
+  "server": "whois.nic.report",
+  "domainId": "902609d164284f888bd7318c01c1fd1b-DONUTS",
+  "domainName": "yomovies.report",
+  "creationDate": "2025-01-09T03:35:41Z",
+  "expirationDate": "2026-01-09T03:35:41Z",
+  "updatedDate": "2025-03-14T18:53:21Z",
+  "eppStatus": [
+    "clientHold",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientHold https://icann.org/epp#clientHold",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "isabel.ns.cloudflare.com",
+    "jack.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "https://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

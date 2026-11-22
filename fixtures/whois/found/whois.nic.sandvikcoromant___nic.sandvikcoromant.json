@@ -1,0 +1,30 @@
+{
+  "query": "nic.sandvikcoromant",
+  "server": "whois.nic.sandvikcoromant",
+  "domainId": "D2EAA80AB35A645B4830724FA83644652-ARI",
+  "domainName": "nic.sandvikcoromant",
+  "creationDate": "2015-04-13T07:47:10Z",
+  "expirationDate": "2027-04-13T07:47:10Z",
+  "updatedDate": "2026-05-28T07:47:14Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.sandvikcoromant",
+    "b.nic.sandvikcoromant",
+    "c.nic.sandvikcoromant",
+    "d.nic.sandvikcoromant"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Sandvik AB - SANDVIKCOROMANT"
+}

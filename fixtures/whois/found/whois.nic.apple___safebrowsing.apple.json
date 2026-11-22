@@ -1,0 +1,69 @@
+{
+  "query": "safebrowsing.apple",
+  "server": "whois.nic.apple",
+  "domainId": "ceaa8d36e8dd4e2bbc6514d1460197ee-DONUTS",
+  "domainName": "safebrowsing.apple",
+  "creationDate": "2020-04-13T18:20:29Z",
+  "expirationDate": "2025-04-13T18:20:29Z",
+  "updatedDate": "2024-04-14T05:18:45Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a.ns.apple.com",
+    "b.ns.apple.com",
+    "c.ns.apple.com",
+    "d.ns.apple.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "http://www.cscglobal.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.3026365400",
+  "registrarWhoisServer": "www.whois.corporatedomains.com",
+  "registrantId": "30c43e7e9c3640c4a35823624900ff4a-DONUTS",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Apple Inc.",
+  "registrantAddress": [
+    "One Apple Park Way"
+  ],
+  "registrantCity": "Cupertino",
+  "registrantState": "CA",
+  "registrantPostalCode": "95014",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.4089961010",
+  "registrantFax": "+1.4089961010",
+  "registrantEmail": "domains@apple.com",
+  "adminId": "30c43e7e9c3640c4a35823624900ff4a-DONUTS",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Apple Inc.",
+  "adminAddress": [
+    "One Apple Park Way"
+  ],
+  "adminCity": "Cupertino",
+  "adminState": "CA",
+  "adminPostalCode": "95014",
+  "adminCountry": "US",
+  "adminPhone": "+1.4089961010",
+  "adminFax": "+1.4089961010",
+  "adminEmail": "domains@apple.com",
+  "techId": "6f725ad843954db1829c619da443b28e-DONUTS",
+  "techName": "Domain Administrator",
+  "techOrg": "Apple Inc.",
+  "techAddress": [
+    "One Apple Park Way"
+  ],
+  "techCity": "Cupertino",
+  "techState": "CA",
+  "techPostalCode": "95014",
+  "techCountry": "US",
+  "techPhone": "+1.4089961010",
+  "techFax": "+1.4089961010",
+  "techEmail": "apple-noc@apple.com"
+}

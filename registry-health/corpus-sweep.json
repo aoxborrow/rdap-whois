@@ -1,0 +1,4229 @@
+{
+  "sweptAt": "2026-07-14T11:01:27.336Z",
+  "coverage": {
+    "before": {
+      "tldsTotal": 1488,
+      "tldsRouted": 1349,
+      "tldsCovered": 1087,
+      "serversRouted": 1170,
+      "serversCovered": 1021
+    },
+    "after": {
+      "tldsTotal": 1488,
+      "tldsRouted": 1349,
+      "tldsCovered": 1087,
+      "serversRouted": 1170,
+      "serversCovered": 1021
+    }
+  },
+  "results": [
+    {
+      "tld": "abudhabi",
+      "server": "whois.nic.abudhabi",
+      "query": "mediaoffice.abudhabi",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "ac.uk",
+      "server": "whois.ja.net",
+      "query": "nic.ac.uk",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "ac.za",
+      "server": "whois.ac.za",
+      "query": "nic.ac.za",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "aco",
+      "server": "whois.afilias-srs.net",
+      "query": "nic.aco",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ads",
+      "server": "whois.nic.google",
+      "query": "nic.ads",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "alt.za",
+      "server": "whois.alt.za",
+      "query": "nic.alt.za",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "android",
+      "server": "whois.nic.google",
+      "query": "nic.android",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "aquarelle",
+      "server": "whois.nic.aquarelle",
+      "query": "nic.aquarelle",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "arab",
+      "server": "whois.nic.arab",
+      "query": "nic.arab",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "arpa",
+      "server": "whois.iana.org",
+      "query": "ipv4only.arpa",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "arte",
+      "server": "whois.nic.arte",
+      "query": "nic.arte",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "asda",
+      "server": "whois.nic.asda",
+      "query": "nic.asda",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "at",
+      "server": "whois.nic.at",
+      "query": "nic.at",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "audible",
+      "server": "whois.nic.audible",
+      "query": "nic.audible",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "author",
+      "server": "whois.nic.author",
+      "query": "nic.author",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "aws",
+      "server": "whois.nic.aws",
+      "query": "nic.aws",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "axa",
+      "server": "whois.nic.axa",
+      "query": "nic.axa",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "azure",
+      "server": "whois.nic.azure",
+      "query": "nic.azure",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "baidu",
+      "server": "whois.gtld.knet.cn",
+      "query": "nic.baidu",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "barefoot",
+      "server": "whois.nic.barefoot",
+      "query": "nic.barefoot",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bbc",
+      "server": "whois.nic.bbc",
+      "query": "nic.bbc",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "bbt",
+      "server": "whois.nic.bbt",
+      "query": "nic.bbt",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bbva",
+      "server": "whois.nic.bbva",
+      "query": "nic.bbva",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "bcg",
+      "server": "whois.nic.bcg",
+      "query": "nic.bcg",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bcn",
+      "server": "whois.nic.bcn",
+      "query": "nic.bcn",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "beats",
+      "server": "whois.nic.beats",
+      "query": "nic.beats",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bentley",
+      "server": "whois.nic.bentley",
+      "query": "nic.bentley",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "bharti",
+      "server": "whois.nic.bharti",
+      "query": "nic.bharti",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bing",
+      "server": "whois.nic.bing",
+      "query": "nic.bing",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "biz.ua",
+      "server": "whois.biz.ua",
+      "query": "nic.biz.ua",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "blockbuster",
+      "server": "whois.nic.blockbuster",
+      "query": "nic.blockbuster",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bloomberg",
+      "server": "whois.nic.bloomberg",
+      "query": "nic.bloomberg",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bms",
+      "server": "whois.nic.bms",
+      "query": "nic.bms",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "boehringer",
+      "server": "whois.nic.boehringer",
+      "query": "nic.boehringer",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bom",
+      "server": "whois.gtlds.nic.br",
+      "query": "nic.bom",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "book",
+      "server": "whois.nic.book",
+      "query": "nic.book",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "boo",
+      "server": "whois.nic.google",
+      "query": "nic.boo",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "bosch",
+      "server": "whois.nic.bosch",
+      "query": "nic.bosch",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bostik",
+      "server": "whois.nic.bostik",
+      "query": "nic.bostik",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bot",
+      "server": "whois.nic.bot",
+      "query": "nic.bot",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "br.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.br.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "bridgestone",
+      "server": "whois.nic.bridgestone",
+      "query": "golf.bridgestone",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "brother",
+      "server": "whois.nic.brother",
+      "query": "creativecenter.brother",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "buy",
+      "server": "whois.nic.buy",
+      "query": "nic.buy",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "by",
+      "server": "whois.cctld.by",
+      "query": "nic.by",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "call",
+      "server": "whois.nic.call",
+      "query": "nic.call",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "cal",
+      "server": "whois.nic.google",
+      "query": "nic.cal",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "capitalone",
+      "server": "whois.nic.capitalone",
+      "query": "nic.capitalone",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "career",
+      "server": "whois.nic.career",
+      "query": "nic.career",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "catholic",
+      "server": "whois.nic.catholic",
+      "query": "nic.catholic",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "cba",
+      "server": "whois.nic.cba",
+      "query": "nic.cba",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "cf",
+      "server": "whois.dot.cf",
+      "query": "nic.cf",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "chanel",
+      "server": "whois.nic.chanel",
+      "query": "nic.chanel",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "channel",
+      "server": "whois.nic.google",
+      "query": "nic.channel",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "chrome",
+      "server": "whois.nic.google",
+      "query": "nic.chrome",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "cipriani",
+      "server": "whois.nic.cipriani",
+      "query": "nic.cipriani",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "circle",
+      "server": "whois.nic.circle",
+      "query": "nic.circle",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "citadel",
+      "server": "whois.nic.citadel",
+      "query": "nic.citadel",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "citic",
+      "server": "whois.nic.citic",
+      "query": "nic.citic",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "click",
+      "server": "whois.registry.click",
+      "query": "nic.click",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "clinique",
+      "server": "whois.nic.clinique",
+      "query": "nic.clinique",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "cm",
+      "server": "whois.nic.cm",
+      "query": "nic.cm",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "cn.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.cn.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "co.ca",
+      "server": "whois.co.ca",
+      "query": "nic.co.ca",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "co.pl",
+      "server": "whois.co.pl",
+      "query": "nic.co.pl",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "co.ua",
+      "server": "whois.co.ua",
+      "query": "nic.co.ua",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "co.za",
+      "server": "whois.registry.net.za",
+      "query": "nic.co.za",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "commbank",
+      "server": "whois.nic.commbank",
+      "query": "nic.commbank",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "comsec",
+      "server": "whois.nic.comsec",
+      "query": "nic.comsec",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "country",
+      "server": "whois.registry.click",
+      "query": "nic.country",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "coupon",
+      "server": "whois.nic.coupon",
+      "query": "nic.coupon",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "co",
+      "server": "whois.registry.co",
+      "query": "nic.co",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "creditunion",
+      "server": "whois.nic.creditunion",
+      "query": "nic.creditunion",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "crown",
+      "server": "whois.nic.crown",
+      "query": "nic.crown",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "cruise",
+      "server": "whois.nic.cruise",
+      "query": "nic.cruise",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "dad",
+      "server": "whois.nic.google",
+      "query": "nic.dad",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "datsun",
+      "server": "whois.nic.gmo",
+      "query": "nic.datsun",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "day",
+      "server": "whois.nic.google",
+      "query": "nic.day",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "dclk",
+      "server": "whois.nic.google",
+      "query": "nic.dclk",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "dds",
+      "server": "whois.nic.dds",
+      "query": "nic.dds",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "de.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.de.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "deal",
+      "server": "whois.nic.deal",
+      "query": "nic.deal",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "desi",
+      "server": "whois.nic.desi",
+      "query": "nic.desi",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "dev",
+      "server": "whois.nic.google",
+      "query": "nic.dev",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "discover",
+      "server": "whois.nic.discover",
+      "query": "nic.discover",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "dish",
+      "server": "whois.nic.dish",
+      "query": "nic.dish",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "diy",
+      "server": "whois.registry.click",
+      "query": "nic.diy",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "dnp",
+      "server": "whois.nic.dnp",
+      "query": "nic.dnp",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "docs",
+      "server": "whois.nic.google",
+      "query": "nic.docs",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "drive",
+      "server": "whois.nic.google",
+      "query": "nic.drive",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "dubai",
+      "server": "whois.nic.dubai",
+      "query": "nic.dubai",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "dunlop",
+      "server": "whois.nic.dunlop",
+      "query": "nic.dunlop",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "dz",
+      "server": "whois.nic.dz",
+      "query": "poste.dz",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "e164.arpa",
+      "server": "whois.ripe.net",
+      "query": "nic.e164.arpa",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "eat",
+      "server": "whois.nic.google",
+      "query": "nic.eat",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "ec",
+      "server": "whois.nic.ec",
+      "query": "sri.gob.ec",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "edu.cn",
+      "server": "whois.edu.cn",
+      "query": "nic.edu.cn",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "edu.ru",
+      "server": "whois.informika.ru",
+      "query": "nic.edu.ru",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "edu",
+      "server": "whois.educause.edu",
+      "query": "nic.edu",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "emerck",
+      "server": "whois.nic.emerck",
+      "query": "nic.emerck",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "epson",
+      "server": "whois.nic.epson",
+      "query": "corporate.epson",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ericsson",
+      "server": "whois.nic.ericsson",
+      "query": "nic.ericsson",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "erni",
+      "server": "whois.nic.erni",
+      "query": "nic.erni",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "esq",
+      "server": "whois.nic.google",
+      "query": "nic.esq",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "es",
+      "server": "whois.nic.es",
+      "query": "nic.es",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "eu.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.eu.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "eu.org",
+      "server": "whois.eu.org",
+      "query": "nic.eu.org",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "eurovision",
+      "server": "whois.nic.eurovision",
+      "query": "nic.eurovision",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "fairwinds",
+      "server": "whois.nic.fairwinds",
+      "query": "nic.fairwinds",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "fast",
+      "server": "whois.nic.fast",
+      "query": "nic.fast",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "fed.us",
+      "server": "whois.nic.gov",
+      "query": "nic.fed.us",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "feedback",
+      "server": "whois.registry.click",
+      "query": "nic.feedback",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ferrari",
+      "server": "whois.nic.ferrari",
+      "query": "nic.ferrari",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "fido",
+      "server": "whois.nic.fido",
+      "query": "nic.fido",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "final",
+      "server": "whois.gtlds.nic.br",
+      "query": "nic.final",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "firestone",
+      "server": "whois.nic.firestone",
+      "query": "nic.firestone",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "fire",
+      "server": "whois.nic.fire",
+      "query": "nic.fire",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "firmdale",
+      "server": "whois.nic.firmdale",
+      "query": "nic.firmdale",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "fly",
+      "server": "whois.nic.google",
+      "query": "nic.fly",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "food",
+      "server": "whois.registry.click",
+      "query": "nic.food",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "foo",
+      "server": "whois.nic.google",
+      "query": "nic.foo",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "forum",
+      "server": "whois.registry.click",
+      "query": "nic.forum",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "free",
+      "server": "whois.nic.free",
+      "query": "nic.free",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "fresenius",
+      "server": "whois.nic.fresenius",
+      "query": "nic.fresenius",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "fr",
+      "server": "whois.nic.fr",
+      "query": "nic.fr",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "fujitsu",
+      "server": "whois.nic.gmo",
+      "query": "global.fujitsu",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "gallo",
+      "server": "whois.nic.gallo",
+      "query": "nic.gallo",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "gallup",
+      "server": "whois.nic.gallup",
+      "query": "nic.gallup",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ga",
+      "server": "whois.nic.ga",
+      "query": "google.ga",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "gb.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.gb.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "gb.net",
+      "server": "whois.centralnic.net",
+      "query": "nic.gb.net",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "gbiz",
+      "server": "whois.nic.google",
+      "query": "nic.gbiz",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "gdn",
+      "server": "whois.nic.gdn",
+      "query": "nic.gdn",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "gea",
+      "server": "whois.afilias-srs.net",
+      "query": "nic.gea",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ggee",
+      "server": "whois.nic.ggee",
+      "query": "nic.ggee",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "gift",
+      "server": "whois.registry.gift",
+      "query": "nic.gift",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "gi",
+      "server": "whois.identitydigital.services",
+      "query": "nic.gi",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "gle",
+      "server": "whois.nic.google",
+      "query": "nic.gle",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "globo",
+      "server": "whois.gtlds.nic.br",
+      "query": "nic.globo",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "gmail",
+      "server": "whois.nic.google",
+      "query": "nic.gmail",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "gmx",
+      "server": "whois.nic.gmx",
+      "query": "nic.gmx",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "goldpoint",
+      "server": "whois.nic.goldpoint",
+      "query": "nic.goldpoint",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "goodyear",
+      "server": "whois.nic.goodyear",
+      "query": "nic.goodyear",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "google",
+      "server": "whois.nic.google",
+      "query": "nic.google",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "goog",
+      "server": "whois.nic.google",
+      "query": "nic.goog",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "goo",
+      "server": "whois.nic.gmo",
+      "query": "nic.goo",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "got",
+      "server": "whois.nic.got",
+      "query": "nic.got",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "gov.uk",
+      "server": "whois.ja.net",
+      "query": "nic.gov.uk",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "gov.za",
+      "server": "whois.gov.za",
+      "query": "nic.gov.za",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "gp",
+      "server": "whois.nic.gp",
+      "query": "nic.gp",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "gq",
+      "server": "whois.dominio.gq",
+      "query": "ns.gq",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "gr.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.gr.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "gripe",
+      "server": "whois.nic.gripe",
+      "query": "cabura.gripe",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "gucci",
+      "server": "whois.nic.gucci",
+      "query": "nic.gucci",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "guge",
+      "server": "whois.nic.google",
+      "query": "nic.guge",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "hair",
+      "server": "whois.nic.hair",
+      "query": "nic.hair",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "hangout",
+      "server": "whois.nic.google",
+      "query": "nic.hangout",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "hdfcbank",
+      "server": "whois.nic.hdfcbank",
+      "query": "nic.hdfcbank",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "hdfc",
+      "server": "whois.nic.hdfc",
+      "query": "nic.hdfc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "helsinki",
+      "server": "whois.nic.helsinki",
+      "query": "nic.helsinki",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "here",
+      "server": "whois.nic.google",
+      "query": "nic.here",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "hermes",
+      "server": "whois.nic.hermes",
+      "query": "nic.hermes",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "hisamitsu",
+      "server": "whois.nic.gmo",
+      "query": "nic.hisamitsu",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "hitachi",
+      "server": "whois.nic.gmo",
+      "query": "social-innovation.hitachi",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "hiv",
+      "server": "whois.registry.click",
+      "query": "nic.hiv",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "hkt",
+      "server": "whois.nic.hkt",
+      "query": "nic.hkt",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "honda",
+      "server": "whois.nic.honda",
+      "query": "0.honda",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "host",
+      "server": "whois.nic.host",
+      "query": "nic.host",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "hotmail",
+      "server": "whois.nic.hotmail",
+      "query": "nic.hotmail",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "hot",
+      "server": "whois.nic.hot",
+      "query": "nic.hot",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "hu.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.hu.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "hughes",
+      "server": "whois.nic.hughes",
+      "query": "nic.hughes",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "hyundai",
+      "server": "whois.nic.hyundai",
+      "query": "nic.hyundai",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ibm",
+      "server": "whois.nic.ibm",
+      "query": "nic.ibm",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "icbc",
+      "server": "whois.nic.icbc",
+      "query": "nic.icbc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ifm",
+      "server": "whois.nic.ifm",
+      "query": "nic.ifm",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "il",
+      "server": "whois.isoc.org.il",
+      "query": "ynet.co.il",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "imamat",
+      "server": "whois.nic.imamat",
+      "query": "nic.imamat",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "imdb",
+      "server": "whois.nic.imdb",
+      "query": "nic.imdb",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "in.net",
+      "server": "whois.centralnic.net",
+      "query": "nic.in.net",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "infiniti",
+      "server": "whois.nic.gmo",
+      "query": "nic.infiniti",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ing",
+      "server": "whois.nic.google",
+      "query": "nic.ing",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "int",
+      "server": "whois.iana.org",
+      "query": "who.int",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "in",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.in",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "iq",
+      "server": "whois.cmc.iq",
+      "query": "nic.iq",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "itv",
+      "server": "whois.nic.itv",
+      "query": "nic.itv",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "jcb",
+      "server": "whois.nic.gmo",
+      "query": "specialoffers.jcb",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "jeep",
+      "server": "whois.nic.jeep",
+      "query": "nic.jeep",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "jll",
+      "server": "whois.nic.jll",
+      "query": "nic.jll",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "jobs",
+      "server": "whois.nic.jobs",
+      "query": "nic.jobs",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "jot",
+      "server": "whois.nic.jot",
+      "query": "nic.jot",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "joy",
+      "server": "whois.nic.joy",
+      "query": "nic.joy",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "jpn.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.jpn.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "juegos",
+      "server": "whois.uniregistry.net",
+      "query": "nic.juegos",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "juniper",
+      "server": "whois.nic.juniper",
+      "query": "nic.juniper",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kddi",
+      "server": "whois.nic.kddi",
+      "query": "nic.kddi",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "kerryhotels",
+      "server": "whois.nic.kerryhotels",
+      "query": "nic.kerryhotels",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kerryproperties",
+      "server": "whois.nic.kerryproperties",
+      "query": "nic.kerryproperties",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kfh",
+      "server": "whois.nic.kfh",
+      "query": "nic.kfh",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kg",
+      "server": "whois.kg",
+      "query": "nic.kg",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kia",
+      "server": "whois.nic.kia",
+      "query": "nic.kia",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "kindle",
+      "server": "whois.nic.kindle",
+      "query": "nic.kindle",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "koeln",
+      "server": "whois.ryce-rsp.com",
+      "query": "nic.koeln",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "komatsu",
+      "server": "whois.nic.komatsu",
+      "query": "kcsj.komatsu",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "kosher",
+      "server": "whois.nic.kosher",
+      "query": "nic.kosher",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kred",
+      "server": "whois.nic.kred",
+      "query": "nic.kred",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kuokgroup",
+      "server": "whois.nic.kuokgroup",
+      "query": "nic.kuokgroup",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "kyoto",
+      "server": "whois.nic.kyoto",
+      "query": "hotel.kyoto",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "lacaixa",
+      "server": "whois.nic.lacaixa",
+      "query": "nic.lacaixa",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lamborghini",
+      "server": "whois.nic.lamborghini",
+      "query": "nic.lamborghini",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lamer",
+      "server": "whois.nic.lamer",
+      "query": "nic.lamer",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lancaster",
+      "server": "whois.nic.lancaster",
+      "query": "nic.lancaster",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "lasalle",
+      "server": "whois.nic.lasalle",
+      "query": "nic.lasalle",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "latino",
+      "server": "whois.nic.latino",
+      "query": "nic.latino",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "latrobe",
+      "server": "whois.nic.latrobe",
+      "query": "nic.latrobe",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lds",
+      "server": "whois.nic.lds",
+      "query": "nic.lds",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lefrak",
+      "server": "whois.nic.lefrak",
+      "query": "nic.lefrak",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lexus",
+      "server": "whois.nic.lexus",
+      "query": "nic.lexus",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "lifeinsurance",
+      "server": "whois.nic.lifeinsurance",
+      "query": "nic.lifeinsurance",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lifestyle",
+      "server": "whois.registry.click",
+      "query": "nic.lifestyle",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "like",
+      "server": "whois.nic.like",
+      "query": "nic.like",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "link",
+      "server": "whois.uniregistry.net",
+      "query": "nic.link",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "living",
+      "server": "whois.registry.click",
+      "query": "nic.living",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lk",
+      "server": "whois.nic.lk",
+      "query": "nic.lk",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "llp",
+      "server": "whois.nic.llp",
+      "query": "nic.llp",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "locus",
+      "server": "whois.nic.locus",
+      "query": "nic.locus",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "lotte",
+      "server": "whois.nic.lotte",
+      "query": "nic.lotte",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "lotto",
+      "server": "whois.nic.lotto",
+      "query": "nic.lotto",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "lplfinancial",
+      "server": "whois.nic.lplfinancial",
+      "query": "nic.lplfinancial",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lpl",
+      "server": "whois.nic.lpl",
+      "query": "nic.lpl",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "lundbeck",
+      "server": "whois.nic.lundbeck",
+      "query": "nic.lundbeck",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "map",
+      "server": "whois.nic.google",
+      "query": "nic.map",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "marriott",
+      "server": "whois.nic.marriott",
+      "query": "nic.marriott",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "mckinsey",
+      "server": "whois.nic.mckinsey",
+      "query": "nic.mckinsey",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "mc",
+      "server": "whois.nic.mc",
+      "query": "nic.mc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "med",
+      "server": "whois.nic.med",
+      "query": "nic.med",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "meet",
+      "server": "whois.nic.google",
+      "query": "nic.meet",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "meme",
+      "server": "whois.nic.google",
+      "query": "nic.meme",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "merckmsd",
+      "server": "whois.nic.merckmsd",
+      "query": "nic.merckmsd",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "merck",
+      "server": "whois.nic.merck",
+      "query": "nic.merck",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "microsoft",
+      "server": "whois.nic.microsoft",
+      "query": "nic.microsoft",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "mitsubishi",
+      "server": "whois.nic.gmo",
+      "query": "nic.mitsubishi",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "mit",
+      "server": "whois.nic.mit",
+      "query": "nic.mit",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "mma",
+      "server": "whois.nic.mma",
+      "query": "nic.mma",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "moi",
+      "server": "whois.nic.moi",
+      "query": "nic.moi",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "mormon",
+      "server": "whois.nic.mormon",
+      "query": "nic.mormon",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "mov",
+      "server": "whois.nic.google",
+      "query": "nic.mov",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "mq",
+      "server": "whois.mediaserv.net",
+      "query": "meteofrance.mq",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "mr",
+      "server": "whois.nic.mr",
+      "query": "nic.mr",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "mtn",
+      "server": "whois.nic.mtn",
+      "query": "nic.mtn",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "mt",
+      "server": "whois.nic.org.mt",
+      "query": "nic.mt",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "nagoya",
+      "server": "whois.nic.nagoya",
+      "query": "ex-unit.nagoya",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "na",
+      "server": "whois.na-nic.com.na",
+      "query": "nic.na",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "nec",
+      "server": "whois.nic.nec",
+      "query": "nic.nec",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "net.za",
+      "server": "net-whois.registry.net.za",
+      "query": "nic.net.za",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "netbank",
+      "server": "whois.nic.netbank",
+      "query": "nic.netbank",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "neustar",
+      "server": "whois.nic.neustar",
+      "query": "nic.neustar",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "new",
+      "server": "whois.nic.google",
+      "query": "nic.new",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "nextdirect",
+      "server": "whois.nic.nextdirect",
+      "query": "nic.nextdirect",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "nexus",
+      "server": "whois.nic.google",
+      "query": "nic.nexus",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "nhk",
+      "server": "whois.nic.nhk",
+      "query": "nic.nhk",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "nikon",
+      "server": "whois.nic.nikon",
+      "query": "nic.nikon",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "nissan",
+      "server": "whois.nic.gmo",
+      "query": "nic.nissan",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "nissay",
+      "server": "whois.nic.nissay",
+      "query": "nic.nissay",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "no.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.no.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "nokia",
+      "server": "whois.nic.nokia",
+      "query": "nic.nokia",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "norton",
+      "server": "whois.nic.norton",
+      "query": "nic.norton",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "nowruz",
+      "server": "whois.nic.nowruz",
+      "query": "nic.nowruz",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "nowtv",
+      "server": "whois.nic.nowtv",
+      "query": "nic.nowtv",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "now",
+      "server": "whois.nic.now",
+      "query": "nic.now",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "obi",
+      "server": "whois.nic.obi",
+      "query": "nic.obi",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "office",
+      "server": "whois.nic.office",
+      "query": "nic.office",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "okinawa",
+      "server": "whois.nic.okinawa",
+      "query": "gokart.okinawa",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "olayangroup",
+      "server": "whois.nic.olayangroup",
+      "query": "nic.olayangroup",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "olayan",
+      "server": "whois.nic.olayan",
+      "query": "nic.olayan",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ollo",
+      "server": "whois.nic.ollo",
+      "query": "nic.ollo",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "omega",
+      "server": "whois.nic.omega",
+      "query": "nic.omega",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "open",
+      "server": "whois.nic.open",
+      "query": "nic.open",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "origins",
+      "server": "whois.nic.origins",
+      "query": "nic.origins",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "otsuka",
+      "server": "whois.nic.otsuka",
+      "query": "nic.otsuka",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ott",
+      "server": "whois.nic.ott",
+      "query": "nic.ott",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "page",
+      "server": "whois.nic.google",
+      "query": "nic.page",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "panasonic",
+      "server": "whois.nic.gmo",
+      "query": "holdings.panasonic",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "pars",
+      "server": "whois.nic.pars",
+      "query": "nic.pars",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "pay",
+      "server": "whois.nic.pay",
+      "query": "nic.pay",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "pccw",
+      "server": "whois.nic.pccw",
+      "query": "nic.pccw",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "pg",
+      "server": "whois.nic.pg",
+      "query": "nic.pg",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "phd",
+      "server": "whois.nic.google",
+      "query": "nic.phd",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "pid",
+      "server": "whois.registry.click",
+      "query": "nic.pid",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "pin",
+      "server": "whois.nic.pin",
+      "query": "nic.pin",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "pioneer",
+      "server": "whois.nic.gmo",
+      "query": "jpn.pioneer",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "playstation",
+      "server": "whois.nic.playstation",
+      "query": "nic.playstation",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "play",
+      "server": "whois.nic.google",
+      "query": "nic.play",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "pm",
+      "server": "whois.nic.pm",
+      "query": "nic.pm",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "pnc",
+      "server": "whois.nic.pnc",
+      "query": "nic.pnc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "pohl",
+      "server": "whois.nic.pohl",
+      "query": "nic.pohl",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "post",
+      "server": "whois.nic.post",
+      "query": "nic.post",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "pp.ua",
+      "server": "whois.pp.ua",
+      "query": "nic.pp.ua",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "prime",
+      "server": "whois.nic.prime",
+      "query": "nic.prime",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "priv.at",
+      "server": "whois.nic.priv.at",
+      "query": "nic.priv.at",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "prod",
+      "server": "whois.nic.google",
+      "query": "nic.prod",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "prof",
+      "server": "whois.nic.google",
+      "query": "nic.prof",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "progressive",
+      "server": "whois.nic.progressive",
+      "query": "nic.progressive",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "property",
+      "server": "whois.registry.click",
+      "query": "nic.property",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "protection",
+      "server": "whois.nic.protection",
+      "query": "nic.protection",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "qc.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.qc.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "read",
+      "server": "whois.nic.read",
+      "query": "nic.read",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "realestate",
+      "server": "whois.nic.realestate",
+      "query": "nic.realestate",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "realtor",
+      "server": "whois.nic.realtor",
+      "query": "nic.realtor",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "realty",
+      "server": "whois.nic.realty",
+      "query": "nic.realty",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "redstone",
+      "server": "whois.nic.redstone",
+      "query": "nic.redstone",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "redumbrella",
+      "server": "whois.nic.redumbrella",
+      "query": "nic.redumbrella",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "reliance",
+      "server": "whois.nic.reliance",
+      "query": "nic.reliance",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "re",
+      "server": "whois.nic.re",
+      "query": "nic.re",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "rexroth",
+      "server": "whois.nic.rexroth",
+      "query": "nic.rexroth",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "richardli",
+      "server": "whois.nic.richardli",
+      "query": "nic.richardli",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ricoh",
+      "server": "whois.nic.ricoh",
+      "query": "sodachie.ricoh",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "ril",
+      "server": "whois.nic.ril",
+      "query": "nic.ril",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "rio",
+      "server": "whois.gtlds.nic.br",
+      "query": "nic.rio",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "rogers",
+      "server": "whois.nic.rogers",
+      "query": "nic.rogers",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "room",
+      "server": "whois.nic.room",
+      "query": "nic.room",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "rsvp",
+      "server": "whois.nic.google",
+      "query": "nic.rsvp",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "ru.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.ru.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ryukyu",
+      "server": "whois.nic.ryukyu",
+      "query": "789club.ryukyu",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "sa.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.sa.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "safety",
+      "server": "whois.nic.safety",
+      "query": "nic.safety",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "safe",
+      "server": "whois.nic.safe",
+      "query": "nic.safe",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "sakura",
+      "server": "whois.nic.sakura",
+      "query": "nic.sakura",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "samsclub",
+      "server": "whois.nic.samsclub",
+      "query": "nic.samsclub",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sandvikcoromant",
+      "server": "whois.nic.sandvikcoromant",
+      "query": "nic.sandvikcoromant",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "save",
+      "server": "whois.nic.save",
+      "query": "nic.save",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "schaeffler",
+      "server": "whois.afilias-srs.net",
+      "query": "nic.schaeffler",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "scholarships",
+      "server": "whois.nic.scholarships",
+      "query": "nic.scholarships",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sd",
+      "server": "whois.nic.sd",
+      "query": "nic.sd",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "se.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.se.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "se.net",
+      "server": "whois.centralnic.net",
+      "query": "nic.se.net",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "search",
+      "server": "whois.nic.google",
+      "query": "nic.search",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "secure",
+      "server": "whois.nic.secure",
+      "query": "nic.secure",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "seek",
+      "server": "whois.nic.seek",
+      "query": "nic.seek",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sener",
+      "server": "whois.nic.rwe",
+      "query": "nic.sener",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "seven",
+      "server": "whois.nic.seven",
+      "query": "nic.seven",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sew",
+      "server": "whois.nic.sew",
+      "query": "nic.sew",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sexy",
+      "server": "whois.registry.click",
+      "query": "nic.sexy",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sfr",
+      "server": "whois.nic.sfr",
+      "query": "nic.sfr",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "shangrila",
+      "server": "whois.nic.shangrila",
+      "query": "nic.shangrila",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sharp",
+      "server": "whois.nic.gmo",
+      "query": "global.sharp",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "shell",
+      "server": "whois.nic.shell",
+      "query": "nic.shell",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "shia",
+      "server": "whois.nic.shia",
+      "query": "nic.shia",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "shop",
+      "server": "whois.nic.shop",
+      "query": "mlsbd.shop",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "shouji",
+      "server": "whois.teleinfo.cn",
+      "query": "nic.shouji",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "silk",
+      "server": "whois.nic.silk",
+      "query": "nic.silk",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "sina",
+      "server": "whois.nic.sina",
+      "query": "nic.sina",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sk",
+      "server": "whois.sk-nic.sk",
+      "query": "nic.sk",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "skype",
+      "server": "whois.nic.skype",
+      "query": "nic.skype",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "sky",
+      "server": "whois.nic.sky",
+      "query": "nic.sky",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "sling",
+      "server": "whois.nic.sling",
+      "query": "nic.sling",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "smile",
+      "server": "whois.nic.smile",
+      "query": "nic.smile",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "softbank",
+      "server": "whois.nic.softbank",
+      "query": "group.softbank",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "sohu",
+      "server": "whois.nic.sohu",
+      "query": "nic.sohu",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "song",
+      "server": "whois.nic.song",
+      "query": "nic.song",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "sony",
+      "server": "whois.nic.sony",
+      "query": "ai.sony",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "soy",
+      "server": "whois.nic.google",
+      "query": "nic.soy",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "spot",
+      "server": "whois.nic.spot",
+      "query": "nic.spot",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "sr",
+      "server": "whois.sr",
+      "query": "nic.sr",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "stada",
+      "server": "whois.nic.stada",
+      "query": "nic.stada",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "stcgroup",
+      "server": "whois.nic.stcgroup",
+      "query": "nic.stcgroup",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "stc",
+      "server": "whois.nic.stc",
+      "query": "nic.stc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "su",
+      "server": "whois.tcinet.ru",
+      "query": "nic.su",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "swatch",
+      "server": "whois.nic.swatch",
+      "query": "nic.swatch",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "tab",
+      "server": "whois.nic.tab",
+      "query": "nic.tab",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "talk",
+      "server": "whois.nic.talk",
+      "query": "nic.talk",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "taobao",
+      "server": "whois.nic.taobao",
+      "query": "nic.taobao",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "tci",
+      "server": "whois.nic.tci",
+      "query": "nic.tci",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "tdk",
+      "server": "whois.nic.tdk",
+      "query": "nic.tdk",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "temasek",
+      "server": "whois.nic.temasek",
+      "query": "nic.temasek",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "tg",
+      "server": "whois.nic.tg",
+      "query": "nic.tg",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "thd",
+      "server": "whois.nic.thd",
+      "query": "nic.thd",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "theatre",
+      "server": "whois.nic.theatre",
+      "query": "nic.theatre",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "tirol",
+      "server": "whois.nic.tirol",
+      "query": "nic.tirol",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "tk",
+      "server": "whois.dot.tk",
+      "query": "nic.tk",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "tmall",
+      "server": "whois.nic.tmall",
+      "query": "nic.tmall",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "toray",
+      "server": "whois.nic.toray",
+      "query": "nic.toray",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "to",
+      "server": "whois.tonicregistry.to",
+      "query": "nic.to",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "toyota",
+      "server": "whois.nic.toyota",
+      "query": "id.toyota",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "training",
+      "server": "whois.nic.training",
+      "query": "data-flair.training",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "travelersinsurance",
+      "server": "whois.nic.travelersinsurance",
+      "query": "nic.travelersinsurance",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "travelers",
+      "server": "whois.nic.travelers",
+      "query": "nic.travelers",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "trust",
+      "server": "whois.registry.click",
+      "query": "nic.trust",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "trv",
+      "server": "whois.nic.trv",
+      "query": "nic.trv",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "tunes",
+      "server": "whois.nic.tunes",
+      "query": "nic.tunes",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "tushu",
+      "server": "whois.nic.tushu",
+      "query": "nic.tushu",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "tvs",
+      "server": "whois.nic.tvs",
+      "query": "nic.tvs",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ubank",
+      "server": "whois.nic.ubank",
+      "query": "nic.ubank",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ubs",
+      "server": "whois.nic.ubs",
+      "query": "nic.ubs",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "uk.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.uk.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "uk.co",
+      "server": "whois.uk.co",
+      "query": "nic.uk.co",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "uk.net",
+      "server": "whois.centralnic.net",
+      "query": "nic.uk.net",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "unicom",
+      "server": "whois.nic.unicom",
+      "query": "nic.unicom",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "us.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.us.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "uy.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.uy.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "uz",
+      "server": "whois.cctld.uz",
+      "query": "nic.uz",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "vana",
+      "server": "whois.registry.click",
+      "query": "nic.vana",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "vc",
+      "server": "whois.identitydigital.services",
+      "query": "nic.vc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "verisign",
+      "server": "whois.nic.verisign",
+      "query": "nic.verisign",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "ve",
+      "server": "whois.nic.ve",
+      "query": "nic.ve",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "vig",
+      "server": "whois.nic.vig",
+      "query": "nic.vig",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "viking",
+      "server": "whois.nic.viking",
+      "query": "nic.viking",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "virgin",
+      "server": "whois.nic.virgin",
+      "query": "nic.virgin",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "viva",
+      "server": "whois.nic.viva",
+      "query": "nic.viva",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "vi",
+      "server": "whois.nic.vi",
+      "query": "nic.vi",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "volvo",
+      "server": "whois.nic.volvo",
+      "query": "nic.volvo",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "walmart",
+      "server": "whois.nic.walmart",
+      "query": "nic.walmart",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "walter",
+      "server": "whois.nic.walter",
+      "query": "nic.walter",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "wanggou",
+      "server": "whois.nic.wanggou",
+      "query": "nic.wanggou",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "wang",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.wang",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "web.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.web.com",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "web.za",
+      "server": "web-whois.registry.net.za",
+      "query": "nic.web.za",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "wed",
+      "server": "whois.nic.wed",
+      "query": "nic.wed",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "weibo",
+      "server": "whois.nic.weibo",
+      "query": "nic.weibo",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "wf",
+      "server": "whois.nic.wf",
+      "query": "nic.wf",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "whoswho",
+      "server": "whois.nic.whoswho",
+      "query": "nic.whoswho",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "windows",
+      "server": "whois.nic.windows",
+      "query": "nic.windows",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "wme",
+      "server": "whois.nic.wme",
+      "query": "nic.wme",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "wolterskluwer",
+      "server": "whois.nic.wolterskluwer",
+      "query": "nic.wolterskluwer",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "wow",
+      "server": "whois.nic.wow",
+      "query": "nic.wow",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "wtc",
+      "server": "whois.nic.wtc",
+      "query": "nic.wtc",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xbox",
+      "server": "whois.nic.xbox",
+      "query": "nic.xbox",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xihuan",
+      "server": "whois.teleinfo.cn",
+      "query": "nic.xihuan",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--11b4c3d",
+      "server": "whois.nic.xn--11b4c3d",
+      "query": "nic.xn--11b4c3d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--1ck2e1b",
+      "server": "whois.nic.xn--1ck2e1b",
+      "query": "nic.xn--1ck2e1b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--1qqw23a",
+      "server": "whois.ngtld.cn",
+      "query": "nic.xn--1qqw23a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--2scrj9c",
+      "server": "whois.nixiregistry.in",
+      "query": "xn--3rc7bwa7a5hpa.xn--2scrj9c",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--30rr7y",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--30rr7y",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--3bst00m",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--3bst00m",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--3ds443g",
+      "server": "whois.teleinfo.cn",
+      "query": "nic.xn--3ds443g",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--3e0b707e",
+      "server": "whois.kr",
+      "query": "xn--ok0b90i33r.xn--3e0b707e",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--3hcrj9c",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--3hcrj9c",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--3pxu8k",
+      "server": "whois.nic.xn--3pxu8k",
+      "query": "nic.xn--3pxu8k",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--42c2d9a",
+      "server": "whois.nic.xn--42c2d9a",
+      "query": "nic.xn--42c2d9a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--45br5cyl",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--45br5cyl",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--45brj9c",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--45brj9c",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--45q11c",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--45q11c",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--4dbrk0ce",
+      "server": "whois.isoc.org.il",
+      "query": "nic.xn--4dbrk0ce",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--4gbrim",
+      "server": "whois.nic.xn--4gbrim",
+      "query": "nic.xn--4gbrim",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--55qw42g",
+      "server": "whois.nic.xn--55qw42g",
+      "query": "nic.xn--55qw42g",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--55qx5d",
+      "server": "whois.ngtld.cn",
+      "query": "nic.xn--55qx5d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--5su34j936bgsg",
+      "server": "whois.nic.xn--5su34j936bgsg",
+      "query": "nic.xn--5su34j936bgsg",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--5tzm5g",
+      "server": "whois.nic.xn--5tzm5g",
+      "query": "nic.xn--5tzm5g",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--6qq986b3xl",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--6qq986b3xl",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--80ao21a",
+      "server": "whois.nic.kz",
+      "query": "xn--e1anb.xn--80ao21a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--80aqecdr1a",
+      "server": "whois.nic.xn--80aqecdr1a",
+      "query": "nic.xn--80aqecdr1a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--8y0a063a",
+      "server": "whois.nic.xn--8y0a063a",
+      "query": "nic.xn--8y0a063a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--90a3ac",
+      "server": "whois.rnids.rs",
+      "query": "nic.xn--90a3ac",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--90ae",
+      "server": "whois.imena.bg",
+      "query": "nic.xn--90ae",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--9dbq2a",
+      "server": "whois.nic.xn--9dbq2a",
+      "query": "nic.xn--9dbq2a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--9et52u",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--9et52u",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--9krt00a",
+      "server": "whois.nic.xn--9krt00a",
+      "query": "nic.xn--9krt00a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--b4w605ferd",
+      "server": "whois.nic.xn--b4w605ferd",
+      "query": "nic.xn--b4w605ferd",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--bck1b9a5dre4c",
+      "server": "whois.nic.xn--bck1b9a5dre4c",
+      "query": "nic.xn--bck1b9a5dre4c",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--c2br7g",
+      "server": "whois.nic.xn--c2br7g",
+      "query": "nic.xn--c2br7g",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--cck2b3b",
+      "server": "whois.nic.xn--cck2b3b",
+      "query": "nic.xn--cck2b3b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--cckwcxetd",
+      "server": "whois.nic.xn--cckwcxetd",
+      "query": "nic.xn--cckwcxetd",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--cg4bki",
+      "server": "whois.kr",
+      "query": "nic.xn--cg4bki",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--clchc0ea0b2g2a9gcd",
+      "server": "whois.ta.sgnic.sg",
+      "query": "nic.xn--clchc0ea0b2g2a9gcd",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--czr694b",
+      "server": "whois.nic.xn--czr694b",
+      "query": "nic.xn--czr694b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--czrs0t",
+      "server": "whois.nic.xn--czrs0t",
+      "query": "nic.xn--czrs0t",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--czru2d",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--czru2d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--d1alf",
+      "server": "whois.marnet.mk",
+      "query": "nic.xn--d1alf",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--e1a4c",
+      "server": "whois.eu",
+      "query": "nic.xn--e1a4c",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--eckvdtc9d",
+      "server": "whois.nic.xn--eckvdtc9d",
+      "query": "nic.xn--eckvdtc9d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--efvy88h",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--efvy88h",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--fct429k",
+      "server": "whois.nic.xn--fct429k",
+      "query": "nic.xn--fct429k",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--fhbei",
+      "server": "whois.nic.xn--fhbei",
+      "query": "nic.xn--fhbei",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--fiq228c5hs",
+      "server": "whois.teleinfo.cn",
+      "query": "nic.xn--fiq228c5hs",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--fiq64b",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--fiq64b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--fiqz9s",
+      "server": "whois.cnnic.cn",
+      "query": "_wildcard_.xn--fiqz9s",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--fjq720a",
+      "server": "whois.nic.xn--fjq720a",
+      "query": "nic.xn--fjq720a",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--flw351e",
+      "server": "whois.nic.google",
+      "query": "nic.xn--flw351e",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "xn--fpcrj9c3d",
+      "server": "whois.nixiregistry.in",
+      "query": "xn--joc6a9di0b9hmd.xn--fpcrj9c3d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--fzc2c9e2c",
+      "server": "whois.nic.lk",
+      "query": "nic.xn--fzc2c9e2c",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--fzys8d69uvgm",
+      "server": "whois.nic.xn--fzys8d69uvgm",
+      "query": "nic.xn--fzys8d69uvgm",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--g2xx48c",
+      "server": "whois.nic.xn--g2xx48c",
+      "query": "nic.xn--g2xx48c",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--gckr3f0f",
+      "server": "whois.nic.xn--gckr3f0f",
+      "query": "nic.xn--gckr3f0f",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--gecrj9c",
+      "server": "whois.nixiregistry.in",
+      "query": "xn--hdcl2bk2m1bc.xn--gecrj9c",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--gk3at1e",
+      "server": "whois.nic.xn--gk3at1e",
+      "query": "nic.xn--gk3at1e",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--h2breg3eve",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--h2breg3eve",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--h2brj9c8c",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--h2brj9c8c",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--h2brj9c",
+      "server": "whois.nixiregistry.in",
+      "query": "xn--11b7cb3a6a.xn--h2brj9c",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--hxt814e",
+      "server": "whois.gtld.zdns.cn",
+      "query": "nic.xn--hxt814e",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--io0a7i",
+      "server": "whois.ngtld.cn",
+      "query": "nic.xn--io0a7i",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--j1aef",
+      "server": "whois.nic.xn--j1aef",
+      "query": "nic.xn--j1aef",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--j6w193g",
+      "server": "whois.hkirc.hk",
+      "query": "nic.xn--j6w193g",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--jlq480n2rg",
+      "server": "whois.nic.xn--jlq480n2rg",
+      "query": "nic.xn--jlq480n2rg",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--jvr189m",
+      "server": "whois.nic.xn--jvr189m",
+      "query": "nic.xn--jvr189m",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--kcrx77d1x4a",
+      "server": "whois.nic.xn--kcrx77d1x4a",
+      "query": "nic.xn--kcrx77d1x4a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--kprw13d",
+      "server": "whois.twnic.net.tw",
+      "query": "nic.xn--kprw13d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--kpry57d",
+      "server": "whois.twnic.net.tw",
+      "query": "nic.xn--kpry57d",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--kput3i",
+      "server": "whois.nic.xn--kput3i",
+      "query": "nic.xn--kput3i",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--l1acc",
+      "server": "whois.mn",
+      "query": "nic.xn--l1acc",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--lgbbat1ad8j",
+      "server": "whois.nic.dz",
+      "query": "nic.xn--lgbbat1ad8j",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--mgb9awbf",
+      "server": "whois.registry.om",
+      "query": "nic.xn--mgb9awbf",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--mgba3a4f16a",
+      "server": "whois.nic.ir",
+      "query": "nic.xn--mgba3a4f16a",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--mgba7c0bbn0a",
+      "server": "whois.nic.xn--mgba7c0bbn0a",
+      "query": "nic.xn--mgba7c0bbn0a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--mgbaam7a8h",
+      "server": "whois.aeda.net.ae",
+      "query": "nic.xn--mgbaam7a8h",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--mgbab2bd",
+      "server": "whois.nic.xn--mgbab2bd",
+      "query": "nic.xn--mgbab2bd",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--mgbah1a3hjkrd",
+      "server": "whois.nic.mr",
+      "query": "nic.xn--mgbah1a3hjkrd",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--mgbbh1a71e",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--mgbbh1a71e",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--mgbbh1a",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--mgbbh1a",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--mgbca7dzdo",
+      "server": "whois.nic.xn--mgbca7dzdo",
+      "query": "nic.xn--mgbca7dzdo",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--mgberp4a5d4ar",
+      "server": "whois.nic.net.sa",
+      "query": "nic.xn--mgberp4a5d4ar",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--mgbgu82a",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--mgbgu82a",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--mgbi4ecexp",
+      "server": "whois.nic.xn--mgbi4ecexp",
+      "query": "nic.xn--mgbi4ecexp",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--mgbt3dhd",
+      "server": "whois.nic.xn--mgbt3dhd",
+      "query": "nic.xn--mgbt3dhd",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--mgbtx2b",
+      "server": "whois.cmc.iq",
+      "query": "nic.xn--mgbtx2b",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "xn--mgbx4cd0ab",
+      "server": "whois.mynic.my",
+      "query": "nic.xn--mgbx4cd0ab",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--mix891f",
+      "server": "whois.monic.mo",
+      "query": "nic.xn--mix891f",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--mxtq1m",
+      "server": "whois.nic.xn--mxtq1m",
+      "query": "nic.xn--mxtq1m",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--ngbe9e0a",
+      "server": "whois.nic.xn--ngbe9e0a",
+      "query": "nic.xn--ngbe9e0a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--ngbrx",
+      "server": "whois.nic.xn--ngbrx",
+      "query": "nic.xn--ngbrx",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--nqv7fs00ema",
+      "server": "whois.nic.xn--nqv7fs00ema",
+      "query": "nic.xn--nqv7fs00ema",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--o3cw4h",
+      "server": "whois.thnic.co.th",
+      "query": "nic.xn--o3cw4h",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--ogbpf8fl",
+      "server": "whois.tld.sy",
+      "query": "nic.xn--ogbpf8fl",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--p1ai",
+      "server": "whois.tcinet.ru",
+      "query": "xn--d1aqf.xn--p1ai",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--pgbs0dh",
+      "server": "whois.ati.tn",
+      "query": "nic.xn--pgbs0dh",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--pssy2u",
+      "server": "whois.nic.xn--pssy2u",
+      "query": "nic.xn--pssy2u",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--q7ce6a",
+      "server": "whois.nic.la",
+      "query": "nic.xn--q7ce6a",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--qcka1pmc",
+      "server": "whois.nic.google",
+      "query": "nic.xn--qcka1pmc",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "xn--qxa6a",
+      "server": "whois.eu",
+      "query": "nic.xn--qxa6a",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--rhqv96g",
+      "server": "whois.nic.xn--rhqv96g",
+      "query": "nic.xn--rhqv96g",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--rovu88b",
+      "server": "whois.nic.xn--rovu88b",
+      "query": "nic.xn--rovu88b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--rvc1e0am3e",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--rvc1e0am3e",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--s9brj9c",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--s9brj9c",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--ses554g",
+      "server": "whois.nic.xn--ses554g",
+      "query": "nic.xn--ses554g",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--t60b56a",
+      "server": "whois.nic.xn--t60b56a",
+      "query": "nic.xn--t60b56a",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--tiq49xqyj",
+      "server": "whois.nic.xn--tiq49xqyj",
+      "query": "nic.xn--tiq49xqyj",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--unup4y",
+      "server": "whois.nic.xn--unup4y",
+      "query": "nic.xn--unup4y",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--vermgensberater-ctb",
+      "server": "whois.nic.xn--vermgensberater-ctb",
+      "query": "nic.xn--vermgensberater-ctb",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--vermgensberatung-pwb",
+      "server": "whois.nic.xn--vermgensberatung-pwb",
+      "query": "nic.xn--vermgensberatung-pwb",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--w4r85el8fhu5dnra",
+      "server": "whois.nic.xn--w4r85el8fhu5dnra",
+      "query": "nic.xn--w4r85el8fhu5dnra",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--w4rs40l",
+      "server": "whois.nic.xn--w4rs40l",
+      "query": "nic.xn--w4rs40l",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--wgbh1c",
+      "server": "whois.dotmasr.eg",
+      "query": "nic.xn--wgbh1c",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "xn--wgbl6a",
+      "server": "whois.registry.qa",
+      "query": "nic.xn--wgbl6a",
+      "outcome": "notfound",
+      "golden": false,
+      "detail": "Object Not Found"
+    },
+    {
+      "tld": "xn--xhq521b",
+      "server": "whois.ngtld.cn",
+      "query": "nic.xn--xhq521b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "xn--xkc2al3hye2a",
+      "server": "whois.nic.lk",
+      "query": "nic.xn--xkc2al3hye2a",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "xn--xkc2dl3a5ee0h",
+      "server": "whois.nixiregistry.in",
+      "query": "nic.xn--xkc2dl3a5ee0h",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--y9a3aq",
+      "server": "whois.amnic.net",
+      "query": "nic.xn--y9a3aq",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--yfro4i67o",
+      "server": "whois.zh.sgnic.sg",
+      "query": "nic.xn--yfro4i67o",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "xn--ygbi2ammx",
+      "server": "whois.pnina.ps",
+      "query": "nic.xn--ygbi2ammx",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "xn--zfr164b",
+      "server": "whois.nic.xn--zfr164b",
+      "query": "nic.xn--zfr164b",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "yamaxun",
+      "server": "whois.nic.yamaxun",
+      "query": "nic.yamaxun",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "yodobashi",
+      "server": "whois.nic.gmo",
+      "query": "nic.yodobashi",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "yokohama",
+      "server": "whois.nic.yokohama",
+      "query": "japan-curling.yokohama",
+      "outcome": "unclassified",
+      "golden": false,
+      "detail": "no credible parse"
+    },
+    {
+      "tld": "youtube",
+      "server": "whois.nic.google",
+      "query": "nic.youtube",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "you",
+      "server": "whois.nic.you",
+      "query": "nic.you",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "yt",
+      "server": "whois.nic.yt",
+      "query": "nic.yt",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "yun",
+      "server": "whois.teleinfo.cn",
+      "query": "nic.yun",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "za.com",
+      "server": "whois.centralnic.net",
+      "query": "nic.za.com",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "za.net",
+      "server": "whois.za.net",
+      "query": "nic.za.net",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "za.org",
+      "server": "whois.za.org",
+      "query": "nic.za.org",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "zappos",
+      "server": "whois.nic.zappos",
+      "query": "nic.zappos",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Connection error: Proxy connection timed out"
+    },
+    {
+      "tld": "zero",
+      "server": "whois.nic.zero",
+      "query": "nic.zero",
+      "outcome": "found",
+      "golden": true
+    },
+    {
+      "tld": "zip",
+      "server": "whois.nic.google",
+      "query": "nic.zip",
+      "outcome": "dead",
+      "golden": false,
+      "detail": "Proxy connection error: Socks5 proxy rejected connection - HostUnreachable"
+    },
+    {
+      "tld": "zuerich",
+      "server": "whois.nic.zuerich",
+      "query": "nic.zuerich",
+      "outcome": "found",
+      "golden": true
+    }
+  ]
+}

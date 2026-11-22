@@ -1,0 +1,52 @@
+###%%% QRY: linktr.ee
+###%%% SRV: whois.tld.ee
+###%%% TME: 2026-07-16T11:45:29Z
+
+Search results may not be used for commercial, advertising, recompilation,
+repackaging, redistribution, reuse, obscuring or other similar activities.
+
+Estonia .ee Top Level Domain WHOIS server
+
+Domain:
+name:       linktr.ee
+status:     ok (paid and in zone)
+registered: 2016-03-08 21:02:27 +02:00
+changed:    2025-02-11 22:45:14 +02:00
+expire:     2027-03-09
+outzone:    
+delete:     
+
+Registrant:
+name:       Linktree Pty Ltd
+org id:     608 721 562
+country:    AU
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+phone:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    2025-02-11 22:45:14 +02:00
+
+Administrative contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Technical contact:
+name:       Not Disclosed - Visit www.internet.ee for webbased WHOIS
+email:      Not Disclosed - Visit www.internet.ee for webbased WHOIS
+changed:    Not Disclosed - Visit www.internet.ee for webbased WHOIS
+
+Registrar:
+name:       Zone Media OÜ
+url:        http://www.zone.ee
+phone:      +372 6886886
+changed:    2020-07-01 13:55:58 +03:00
+
+Name servers:
+nserver:   ns-634.awsdns-15.net
+nserver:   ns-1782.awsdns-30.co.uk
+nserver:   ns-1534.awsdns-63.org
+nserver:   ns-169.awsdns-21.com
+changed:   2019-02-11 04:14:28 +02:00
+
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

@@ -1,0 +1,6 @@
+###%%% QRY: likexian-have-no-money-to-register.de
+###%%% SRC: likexian/whois-parser@2426ff1e36f7540b2e0e7f69324cbe2091f5b278 testdata/notfound/de_likexian-have-no-money-to-register.de
+###%%% LIC: Apache-2.0 — Copyright 2014-2026 Li Kexian
+###%%% NOTE: vendored fixture (current through 2026) — validates the ENGINE, not today's registry output
+Domain: likexian-have-no-money-to-register.de
+Status: free

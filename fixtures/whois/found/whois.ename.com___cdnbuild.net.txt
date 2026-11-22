@@ -1,0 +1,33 @@
+###%%% QRY: cdnbuild.net
+###%%% SRV: whois.ename.com
+###%%% TME: 2026-11-22T08:10:57Z
+
+Domain Name: cdnbuild.net
+Registry Domain ID: 2570623127_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.ename.com
+Registrar URL: http://www.ename.net
+Updated Date: 2026-10-02T21:47:00Z
+Creation Date: 2020-11-06T03:19:40Z
+Registrar Registration Expiration Date: 2027-11-06T03:19:40Z
+Registrar: eName Technology Co.,Ltd.
+Registrar IANA ID: 1331
+Registrar Abuse Contact Email: abuse@ename.com
+Registrar Abuse Contact Phone: +86.4000044400
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registrant State/Province: BeiJing
+Registrant Country: CN
+Registrant Email: https://whois.ename.net/contact/cdnbuild.net
+Admin Email: https://whois.ename.net/contact/cdnbuild.net
+Tech Email: https://whois.ename.net/contact/cdnbuild.net
+Name Server:ns-dispatch1.volc-dns.com
+Name Server:ns-dispatch2.volc-dns.net
+Name Server:ns-dispatch-mobile.volc-dns.com
+Name Server:ns-dispatch-telecom.volc-dns.net
+Name Server:ns-dispatch-unicom.volc-dns.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-11-22T16:10:57Z <<<
+
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en

@@ -1,0 +1,5 @@
+###%%% QRY: nic.xn--y9a3aq
+###%%% SRV: whois.amnic.net
+###%%% TME: 2026-07-14T10:47:35Z
+
+Wrong top level domain name in query

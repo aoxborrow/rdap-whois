@@ -1,0 +1,34 @@
+{
+  "query": "nic.lamer",
+  "server": "whois.nic.lamer",
+  "domainId": "5b21911e88f34c3b8939e1d64be424bf-DONUTS",
+  "domainName": "nic.lamer",
+  "creationDate": "2016-01-22T23:45:55Z",
+  "expirationDate": "2027-01-22T23:45:55Z",
+  "updatedDate": "2026-08-12T06:05:39Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.lamer",
+    "a2.nic.lamer",
+    "b0.nic.lamer",
+    "c0.nic.lamer"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

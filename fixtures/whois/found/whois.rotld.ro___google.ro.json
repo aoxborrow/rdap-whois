@@ -1,0 +1,19 @@
+{
+  "query": "google.ro",
+  "server": "whois.rotld.ro",
+  "domainName": "google.ro",
+  "creationDate": "2000-07-17T00:00:00Z",
+  "eppStatusRaw": [
+    "UpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Inactive",
+  "registrarName": "MarkMonitor Inc.",
+  "registrarUrl": "https://www.markmonitor.com"
+}

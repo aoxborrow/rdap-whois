@@ -1,0 +1,8 @@
+###%%% QRY: notfound-testing-sorry.ee
+###%%% SRV: whois.tld.ee
+###%%% TME: 2025-03-20T16:16:30Z
+
+Domain not found
+
+Estonia .ee Top Level Domain WHOIS server
+More information at http://internet.ee

@@ -1,0 +1,66 @@
+###%%% QRY: xn--ok0b90i12mc2e54v.xn--3e0b707e
+###%%% SRV: whois.kr
+###%%% TME: 2026-07-16T11:39:25Z
+
+query : xn--ok0b90i12mc2e54v.xn--3e0b707e
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : 해성동기와.한국
+등록인                      : (주)해성동기와
+등록인 주소                 : 경기도 안성시 안광길 20-12  
+등록인 우편번호             : 17520
+책임자                      : (주)해성동기와
+책임자 전자우편             : idkorea_@naver.com
+책임자 전화번호             : +82.316777195
+등록일                      : 2016. 06. 22.
+최근 정보 변경일            : 2019. 06. 17.
+사용 종료일                 : 2027. 06. 22.
+정보공개여부                : Y
+등록대행자                  : 메가존(주)(http://HOSTING.KR)
+DNSSEC                      : 미서명
+등록정보 보호               : clientTransferProhibited
+
+1차 네임서버 정보
+   호스트이름               : ns1.idkor.kr
+   IP 주소                  : 175.115.53.130
+
+2차 네임서버 정보
+   호스트이름               : ns2.idkor.kr
+   IP 주소                  : 222.236.46.195
+   호스트이름               : ns3.idkor.kr
+   IP 주소                  : 114.200.199.144
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : xn--ok0b90i12mc2e54v.xn--3e0b707e
+Registrant                  : C.D.B
+Registrant Address          : 20-12, Angwang-gil, Anseong-si, Gyeonggi-do,  
+Registrant Zip Code         : 17520
+Administrative Contact(AC)  : C.D.B
+AC E-Mail                   : idkorea_@naver.com
+AC Phone Number             : +82.316777195
+Registered Date             : 2016. 06. 22.
+Last Updated Date           : 2019. 06. 17.
+Expiration Date             : 2027. 06. 22.
+Publishes                   : Y
+Authorized Agency           : Megazone(http://HOSTING.KR)
+DNSSEC                      : unsigned
+Domain Status               : clientTransferProhibited
+
+Primary Name Server
+   Host Name                : ns1.idkor.kr
+   IP Address               : 175.115.53.130
+
+Secondary Name Server
+   Host Name                : ns2.idkor.kr
+   IP Address               : 222.236.46.195
+   Host Name                : ns3.idkor.kr
+   IP Address               : 114.200.199.144
+
+
+- KISA/KRNIC WHOIS Service -

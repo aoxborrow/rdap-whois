@@ -1,0 +1,65 @@
+###%%% QRY: bsky.app
+###%%% SRV: whois.squarespace.domains
+###%%% TME: 2026-11-22T08:07:49Z
+
+Domain Name: bsky.app
+Registry Domain ID: 4A390C061-APP
+Registrar WHOIS Server: whois.squarespace.domains
+Registrar URL: https://domains2.squarespace.com
+Registrar: Squarespace Domains II LLC
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: abuse-complaints@squarespace.com
+Registrar Abuse Contact Phone: +1.646-693-5324
+Reseller:
+Updated Date: 2024-07-05T23:44:19.286482Z
+Creation Date: 2022-09-27T00:14:48Z
+Registrar Registration Expiration Date: 2028-09-27T00:14:48Z
+Domain Status: client delete prohibited http://www.icann.org/epp#client delete prohibited
+Domain Status: client transfer prohibited http://www.icann.org/epp#client transfer prohibited
+Registry Registrant ID:
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: Bluesky
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: WA
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: US
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: https://domains.squarespace.com/whois-contact-form
+Registry Admin ID:
+Admin Name:
+Admin Organization:
+Admin Street:
+Admin City:
+Admin State/Province:
+Admin Postal Code:
+Admin Country:
+Admin Phone:
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email:
+Registry Tech ID:
+Tech Name:
+Tech Organization:
+Tech Street:
+Tech City:
+Tech State/Province:
+Tech Postal Code:
+Tech Country:
+Tech Phone:
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email:
+Name Server: ns-372.awsdns-46.com
+Name Server: ns-1425.awsdns-50.org
+Name Server: ns-2001.awsdns-58.co.uk
+Name Server: ns-757.awsdns-30.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+The registration data available in this service is limited.  Additional data may be available at https://lookup.icann.org.
+****** Last update of WHOIS database: 2024-07-05T23:44:19.286482Z

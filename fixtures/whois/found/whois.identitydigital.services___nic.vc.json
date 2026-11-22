@@ -1,0 +1,28 @@
+{
+  "query": "nic.vc",
+  "server": "whois.identitydigital.services",
+  "domainId": "REDACTED",
+  "domainName": "nic.vc",
+  "creationDate": "2017-09-13T01:05:30Z",
+  "expirationDate": "2027-09-13T01:05:30Z",
+  "updatedDate": "2026-10-28T01:06:27Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.dns.park.io",
+    "b.dns.park.io"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "801130",
+  "registrarIanaId": 801130,
+  "registrarName": "humbly, LLC"
+}

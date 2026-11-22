@@ -1,0 +1,60 @@
+###%%% QRY: xn--vk1b87o4zefwd.xn--3e0b707e
+###%%% SRV: whois.kr
+###%%% TME: 2026-07-16T11:39:27Z
+
+query : xn--vk1b87o4zefwd.xn--3e0b707e
+
+
+# KOREAN(UTF8)
+
+도메인이름                  : 백암순대.한국
+등록인                      : 나눔컴즈
+등록인 주소                 : 서울 금천구 가산디지털1로 204 610호
+등록인 우편번호             : 08502
+책임자                      : 나눔컴즈
+책임자 전자우편             : nanum@nncoms.kr
+책임자 전화번호             : 02-2688-7516
+등록일                      : 2025. 05. 13.
+최근 정보 변경일            : 2025. 05. 13.
+사용 종료일                 : 2027. 05. 13.
+정보공개여부                : Y
+등록대행자                  : (주)아이티이지(http://www.iteasy.co.kr)
+DNSSEC                      : 미서명
+
+1차 네임서버 정보
+   호스트이름               : kns1.sorriso.kr
+   IP 주소                  : 121.126.130.232
+
+2차 네임서버 정보
+   호스트이름               : kns2.sorriso.kr
+   IP 주소                  : 121.126.130.232
+
+네임서버 이름이 .kr이 아닌 경우는 IP주소가 보이지 않습니다.
+
+
+# ENGLISH
+
+Domain Name                 : xn--vk1b87o4zefwd.xn--3e0b707e
+Registrant                  : nanumcoms
+Registrant Address          : 204 Gasan digital 1-ro, Geumcheon-gu, Seoul, Republic of Korea, 610
+Registrant Zip Code         : 08502
+Administrative Contact(AC)  : nanumcoms
+AC E-Mail                   : nanum@nncoms.kr
+AC Phone Number             : 02-2688-7516
+Registered Date             : 2025. 05. 13.
+Last Updated Date           : 2025. 05. 13.
+Expiration Date             : 2027. 05. 13.
+Publishes                   : Y
+Authorized Agency           : ITEASY inc(http://www.iteasy.co.kr)
+DNSSEC                      : unsigned
+
+Primary Name Server
+   Host Name                : kns1.sorriso.kr
+   IP Address               : 121.126.130.232
+
+Secondary Name Server
+   Host Name                : kns2.sorriso.kr
+   IP Address               : 121.126.130.232
+
+
+- KISA/KRNIC WHOIS Service -

@@ -1,0 +1,66 @@
+###%%% QRY: nic.co.ua
+###%%% SRV: whois.co.ua
+###%%% TME: 2026-11-22T08:16:31Z
+
+Domain ID:162781_COUA-DRS
+Domain Name:NIC.CO.UA
+Created On:01-Jan-2005 00:00:00 UTC
+Last Updated On:16-Sep-2026 12:58:50 UTC
+Expiration Date:21-Sep-2027 12:33:44 UTC
+Sponsoring Registrar:NIC.UA LLC (nic-mnt-cunic)
+Status:ok
+Registrant ID:NIC-CUNIC
+Registrant Name:NIC.UA Hostmaster
+Registrant Organization:NIC.UA LLC
+Registrant Street1:PO BOX 80
+Registrant Street2:
+Registrant Street3:
+Registrant City:Dnepropetrovsk
+Registrant State/Province:DP
+Registrant Postal Code:49000
+Registrant Country:ua
+Registrant Phone:+380.445933222
+Registrant Fax:+380.445937569
+Registrant Email:support@nic.ua
+Admin ID:NIC-CUNIC
+Admin Name:NIC.UA Hostmaster
+Admin Organization:NIC.UA LLC
+Admin Street1:PO BOX 80
+Admin Street2:
+Admin Street3:
+Admin City:Dnepropetrovsk
+Admin State/Province:DP
+Admin Postal Code:49000
+Admin Country:ua
+Admin Phone:+380.445933222
+Admin Fax:+380.445937569
+Admin Email:support@nic.ua
+Billing ID:NIC-CUNIC
+Billing Name:NIC.UA Hostmaster
+Billing Organization:NIC.UA LLC
+Billing Street1:PO BOX 80
+Billing Street2:
+Billing Street3:
+Billing City:Dnepropetrovsk
+Billing State/Province:DP
+Billing Postal Code:49000
+Billing Country:ua
+Billing Phone:+380.445933222
+Billing Fax:+380.445937569
+Billing Email:support@nic.ua
+Tech ID:NIC-CUNIC
+Tech Name:NIC.UA Hostmaster
+Tech Organization:NIC.UA LLC
+Tech Street1:PO BOX 80
+Tech Street2:
+Tech Street3:
+Tech City:Dnepropetrovsk
+Tech State/Province:DP
+Tech Postal Code:49000
+Tech Country:ua
+Tech Phone:+380.445933222
+Tech Fax:+380.445937569
+Tech Email:support@nic.ua
+Name Server:NS10.UADNS.COM
+Name Server:NS11.UADNS.COM
+Name Server:NS12.UADNS.COM

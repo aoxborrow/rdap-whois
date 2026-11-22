@@ -1,0 +1,30 @@
+{
+  "query": "play.afl",
+  "server": "whois.nic.afl",
+  "domainId": "D90B4E24BA9134FB88663CC44BA00CBBA-ARI",
+  "domainName": "play.afl",
+  "creationDate": "2016-01-25T03:09:24Z",
+  "expirationDate": "2027-01-25T03:09:24Z",
+  "updatedDate": "2026-08-06T21:15:30Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns-190.awsdns-23.com",
+    "ns-906.awsdns-49.net",
+    "ns-1068.awsdns-05.org",
+    "ns-1577.awsdns-05.co.uk"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "299",
+  "registrarIanaId": 299,
+  "registrarName": "CSC Corporate Domains, Inc.",
+  "registrarUrl": "https://whois.corporatedomains.com",
+  "registrarAbuseEmail": "domainabuse@cscglobal.com",
+  "registrarAbusePhone": "+1.8887802723",
+  "registrarWhoisServer": "whois.corporatedomains.com"
+}

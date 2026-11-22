@@ -1,0 +1,34 @@
+{
+  "query": "nic.lefrak",
+  "server": "whois.nic.lefrak",
+  "domainId": "4a34dc5f8d7a43fe81affe6c00ba8084-DONUTS",
+  "domainName": "nic.lefrak",
+  "creationDate": "2016-02-11T20:30:11Z",
+  "expirationDate": "2027-02-11T20:30:11Z",
+  "updatedDate": "2026-08-12T01:27:51Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.lefrak",
+    "a2.nic.lefrak",
+    "b0.nic.lefrak",
+    "c0.nic.lefrak"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

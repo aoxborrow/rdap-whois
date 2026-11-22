@@ -1,0 +1,15 @@
+###%%% QRY: example.africa
+###%%% SRV: whois.nic.africa
+###%%% TME: 2026-07-14T13:48:41Z
+
+Reserved:    Technical
+Domain Name: example.africa
+
+>>> Last update of WHOIS database: 2026-07-14T13:48:42Z <<<
+
+The use of this facility is subject to the following terms and
+==============================================================
+conditions: https://registry.africa/whois-terms-and-conditions
+==============================================================
+Copyright (c) Registry Africa Ltd
+=================================

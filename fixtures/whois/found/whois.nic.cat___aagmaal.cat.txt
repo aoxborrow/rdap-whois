@@ -1,0 +1,105 @@
+###%%% QRY: aagmaal.cat
+###%%% SRV: whois.nic.cat
+###%%% TME: 2026-11-22T08:08:51Z
+
+Domain Name: aagmaal.cat
+Registry Domain ID: Daufc311047-CAT
+Registrar WHOIS Server:
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2026-05-17T16:14:38.532Z
+Creation Date: 2024-12-30T15:55:25.729Z
+Registry Expiry Date: 2027-12-30T15:55:25.729Z
+Registrar Registration Expiration Date: 
+Registrar: Namecheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: Jawa Barat
+Registrant Postal Code: 
+Registrant Country: ID
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ignat.ns.cloudflare.com
+Name Server: perla.ns.cloudflare.com
+DNSSEC: unsigned
+Canonical Name: aagmaal.cat
+IDN Tag: ca
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2026-11-22T08:08:05.105Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+
+This domain has chosen privacy settings according to the European
+data protection framework provisions.
+
+Should you need to contact the registrant, please see
+http://www.domini.cat/contact-registrant
+
+For law enforcement and trademark protection purposes, see
+http://www.domini.cat/whois-access
+
+In case of technical problems, please see
+http://www.domini.cat/report-problem
+
+Terms and Conditions of Use
+
+The data in this record is provided by puntCAT for informational
+purposes only. puntCAT does not guarantee its accuracy and cannot,
+under any circumstances, be held liable in case the stored information would
+prove to be wrong, incomplete or not accurate in any sense.
+
+All the domain data that is visible in the Whois service is protected by
+law. It is not permitted to use it for any purpose other than technical or
+administrative requirements associated with the operation of the Internet.
+It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+form and by any means (electronically or not) the whole or a quantitatively
+or qualitatively substantial part of the contents of the Whois database
+without prior and explicit written permission by puntCAT It is
+prohibited, in particular, to use it for transmission of unsolicited and/or
+commercial and/or advertising by phone, fax, e-mail or for any similar
+purposes.
+
+By maintaining the connection you assure that you have a legitimate interest
+in the data and that you will only use it for the stated purposes. You are
+aware that puntCAT maintains the right to initiate legal
+proceedings against you in the event of any breach of this assurance and to
+bar you from using its Whois service.
+
+End of Whois record.

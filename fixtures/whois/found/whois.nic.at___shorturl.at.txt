@@ -1,0 +1,48 @@
+###%%% QRY: shorturl.at
+###%%% SRV: whois.nic.at
+###%%% TME: 2026-07-16T11:40:02Z
+
+% Copyright (c)2026 by NIC.AT (1)                                       
+%
+% Restricted rights.
+%
+% Except  for  agreed Internet  operational  purposes, no  part  of this
+% information  may  be reproduced,  stored  in  a  retrieval  system, or
+% transmitted, in  any  form  or by  any means,  electronic, mechanical,
+% recording, or otherwise, without prior  permission of NIC.AT on behalf
+% of itself and/or the copyright  holders.  Any use of this  material to
+% target advertising  or similar activities is explicitly  forbidden and
+% can be prosecuted.
+%
+% It is furthermore strictly forbidden to use the Whois-Database in such
+% a  way  that  jeopardizes or  could jeopardize  the  stability  of the
+% technical  systems of  NIC.AT  under any circumstances. In particular,
+% this includes  any misuse  of the  Whois-Database and  any  use of the
+% Whois-Database which disturbs its operation.
+%
+% Should the  user violate  these points,  NIC.AT reserves  the right to
+% deactivate  the  Whois-Database   entirely  or  partly  for  the user.
+% Moreover,  the  user  shall be  held liable  for  any  and all  damage
+% arising from a violation of these points.
+
+domain:         shorturl.at
+registrar:      Key-Systems GmbH ( https://nic.at/registrar/404 )
+registrant:     <data not disclosed>
+tech-c:         NL14523253-NICAT
+nserver:        jason.ns.cloudflare.com
+nserver:        mia.ns.cloudflare.com
+changed:        20251121 23:18:34
+source:         AT-DOM
+
+personname:     Domain Admin
+organization:   NameSilo, LLC
+street address: 1300 E. Missouri Avenue
+street address: Suite A-110
+postal code:    85014
+city:           Phoenix
+country:        United States of America (the)
+phone:          +18884626950
+e-mail:         internal_domains@namesilo.com
+nic-hdl:        NL14523253-NICAT
+changed:        20250712 22:49:41
+source:         AT-DOM

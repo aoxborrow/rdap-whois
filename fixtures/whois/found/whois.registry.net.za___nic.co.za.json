@@ -1,0 +1,32 @@
+{
+  "query": "nic.co.za",
+  "server": "whois.registry.net.za",
+  "domainId": "1yhue_DOMAIN-CO.ZA",
+  "domainName": "nic.co.za",
+  "creationDate": "2004-08-14T13:53:34Z",
+  "expirationDate": "2027-08-14T13:53:34Z",
+  "registrarExpirationDate": "2027-08-14T13:53:34Z",
+  "updatedDate": "2026-05-26T09:21:14Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.dreamhost.com",
+    "ns2.dreamhost.com",
+    "ns3.dreamhost.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "1-Grid",
+  "registrarUrl": "https://1-grid.com",
+  "registrarAbuseEmail": "abuse@1-grid.com",
+  "registrarAbusePhone": "None",
+  "registrantCountry": "--",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

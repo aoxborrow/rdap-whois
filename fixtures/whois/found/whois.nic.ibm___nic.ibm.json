@@ -1,0 +1,30 @@
+{
+  "query": "nic.ibm",
+  "server": "whois.nic.ibm",
+  "domainId": "D7371123169994A448BE34103EE34CD7B-ARI",
+  "domainName": "nic.ibm",
+  "creationDate": "2014-09-23T01:11:18Z",
+  "expirationDate": "2027-09-23T01:11:18Z",
+  "updatedDate": "2026-11-07T01:11:19Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a.nic.ibm",
+    "b.nic.ibm",
+    "c.nic.ibm",
+    "d.nic.ibm"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "International Business Machines Corporation"
+}

@@ -1,0 +1,34 @@
+###%%% QRY: gub.ax
+###%%% SRV: whois.ax
+###%%% TME: 2026-07-16T11:38:11Z
+
+domain...............: gub.ax
+status...............: Registered
+created..............: 09.01.2019
+expires..............: 09.01.2029
+available............: 10.02.2029
+modified.............: 04.01.2026
+RegistryLock.........: no
+
+Nameservers
+
+nserver..............: connie.ns.cloudflare.com
+nserver..............: theo.ns.cloudflare.com
+
+Holder
+
+name.................: Willy Guidone
+register number......: 20.778.879/0001-04
+address..............: R R. Ap.
+address..............: 13183170
+address..............: Hortolandia
+country..............: BR
+phone................: +55.19989319177
+holder email.........: gubaxnet@gmail.com
+
+Registrar
+
+registrar............: Stanco doo
+www..................: https://www.istanco.net
+
+Copyright (c) Ålands Landskapsregering

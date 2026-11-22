@@ -1,0 +1,25 @@
+{
+  "query": "google.com.pe",
+  "server": "kero.yachay.pe",
+  "domainName": "google.com.pe",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited",
+    "clientUpdateProhibited",
+    "clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "MarkMonitor Inc.",
+  "registrantName": "Google LLC",
+  "adminName": "Google LLC",
+  "adminEmail": "dns-admin@google.com"
+}

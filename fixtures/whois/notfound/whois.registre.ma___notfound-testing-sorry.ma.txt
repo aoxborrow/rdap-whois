@@ -1,0 +1,10 @@
+###%%% QRY: notfound-testing-sorry.ma
+###%%% SRV: whois.registre.ma
+###%%% TME: 2025-03-20T18:22:26Z
+
+Domain Name: notfound-testing-sorry.ma
+The queried object does not exist: No Object Found
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-20T18:22:33.356Z <<<
+
+Le service Whois permet la vérification de la disponibilité d’un nom de domaine « .ma » et l’identification de son titulaire. La base de données Whois est maintenue à jour par les prestataires, à chaque fois qu’une modification sur les données enregistrées leur est communiquée par le titulaire. Tout usage abusif du service WHOIS et des données d’identification qu’il publie engage la responsabilité des personnes concernées.

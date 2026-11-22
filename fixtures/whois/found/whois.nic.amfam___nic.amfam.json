@@ -1,0 +1,30 @@
+{
+  "query": "nic.amfam",
+  "server": "whois.nic.amfam",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "nic.amfam",
+  "creationDate": "2024-04-03T23:29:27Z",
+  "expirationDate": "2027-04-03T23:29:27Z",
+  "updatedDate": "2026-11-12T05:26:22Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a.nic.amfam",
+    "b.nic.amfam",
+    "c.nic.amfam",
+    "d.nic.amfam"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9998",
+  "registrarIanaId": 9998,
+  "registrarName": "AmFam, Inc.",
+  "registrarUrl": "http://nic.amfam",
+  "registrarAbuseEmail": "techsupport@registry.godaddy",
+  "registrarAbusePhone": "+1.2022239252",
+  "registrarWhoisServer": "whois.nic.amfam"
+}

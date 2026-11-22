@@ -1,0 +1,27 @@
+{
+  "domainName": "vegamovies.tc",
+  "creationDate": "2025-01-10T00:03:38Z",
+  "expirationDate": "2026-01-10T00:03:38Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited",
+    "ok"
+  ],
+  "nameservers": [
+    "ethan.ns.cloudflare.com",
+    "olga.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1408",
+  "registrarIanaId": 1408,
+  "registrarName": "united-domains GmbH",
+  "registrarCountry": "DE",
+  "registrarEmail": "support@united-domains.de",
+  "registrarUrl": "https://www.united-domains.de",
+  "registrarWhoisServer": "whois.nic.tc",
+  "registrantOrg": "streaming"
+}

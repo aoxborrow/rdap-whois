@@ -1,0 +1,19 @@
+###%%% QRY: xn----7sbkofbbj4akz.xn--90ae
+###%%% SRV: whois.imena.bg
+###%%% TME: 2026-11-22T08:21:23Z
+
+DOMAIN NAME: казино-игри.бг (xn----7sbkofbbj4akz.xn--90ae)
+registration status: busy, active
+
+NAME SERVER INFORMATION:
+mimi.ns.cloudflare.com 
+jonah.ns.cloudflare.com 
+
+DNSSEC: inactive
+
+According to REGULATION (EU) 2016/679 OF THE EUROPEAN PARLIAMENT AND
+OF THE COUNCIL (GDPR) personal data is not published.
+
+If you would like to contact the persons responsible for the domain
+name, please, use the online WHOIS contact form from the "Info / Whois" menu
+at www.imena.bg.

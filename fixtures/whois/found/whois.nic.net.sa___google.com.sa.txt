@@ -1,0 +1,13 @@
+###%%% QRY: google.com.sa
+###%%% SRV: whois.nic.net.sa
+###%%% TME: 2026-11-22T08:08:08Z
+
+Domain Name: GOOGLE.COM.SA
+
+Registrant Name: GOOGLE LLC
+
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+DNSSEC: unsigned

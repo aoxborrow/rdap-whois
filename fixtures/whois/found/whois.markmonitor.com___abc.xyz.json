@@ -1,0 +1,42 @@
+{
+  "query": "abc.xyz",
+  "server": "whois.markmonitor.com",
+  "domainId": "D2192285-CNIC",
+  "domainName": "abc.xyz",
+  "creationDate": "2014-03-20T12:59:17Z",
+  "expirationDate": "2027-03-20T00:00:00Z",
+  "registrarExpirationDate": "2027-03-20T07:00:00Z",
+  "updatedDate": "2026-02-16T10:45:11Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientUpdateProhibited",
+    "clientTransferProhibited",
+    "clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "292",
+  "registrarIanaId": 292,
+  "registrarName": "Markmonitor Inc.",
+  "registrarAddress": [
+    "3540 E Longwing Ln"
+  ],
+  "registrarCity": "Meridian",
+  "registrarState": "ID",
+  "registrarPostalCode": "83646",
+  "registrarCountry": "US",
+  "registrarAbusePhone": "+1.2086851750",
+  "registrarWhoisServer": "whois.markmonitor.com",
+  "registrantState": "CA",
+  "registrantCountry": "US"
+}

@@ -1,0 +1,20 @@
+###%%% QRY: yandex.by
+###%%% SRV: whois.cctld.by
+###%%% TME: 2026-07-16T11:14:22Z
+
+Domain name: yandex.by
+Registrar: Open Contact, Ltd
+Org: YANDEX LLC
+Country: RU
+Address: 119021, Moscow, Moscow, Lva Tolstogo str, 16, 16
+Registration or other identification number: 7736207543
+Phone: +7.4957397000
+Email: yandex@safenames.net
+Name Server: ns1.yandex.net
+Name Server: ns2.yandex.net
+Update Date: 2026-04-13
+Creation Date: 2002-09-20
+Expiration Date: 2026-10-01
+
+-------------------------------------------
+Service provided by Belarusian Cloud Technologies LLC

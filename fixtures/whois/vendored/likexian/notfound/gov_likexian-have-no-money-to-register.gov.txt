@@ -1,0 +1,11 @@
+###%%% QRY: likexian-have-no-money-to-register.gov
+###%%% SRC: likexian/whois-parser@2426ff1e36f7540b2e0e7f69324cbe2091f5b278 testdata/notfound/gov_likexian-have-no-money-to-register.gov
+###%%% LIC: Apache-2.0 — Copyright 2014-2026 Li Kexian
+###%%% NOTE: vendored fixture (current through 2026) — validates the ENGINE, not today's registry output
+% DOTGOV WHOIS Server ready
+No match for "LIKEXIAN-HAVE-NO-MONEY-TO-REGISTER.GOV".
+>>> Last update of whois database: 2022-07-03T03:50:32Z <<<
+
+Please be advised that this whois server only contains information pertaining
+to the .GOV domain. For information for other domains please use the whois
+server at RS.INTERNIC.NET.

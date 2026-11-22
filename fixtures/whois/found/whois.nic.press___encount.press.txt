@@ -1,0 +1,53 @@
+###%%% QRY: encount.press
+###%%% SRV: whois.nic.press
+###%%% TME: 2026-11-22T08:12:24Z
+
+Domain Name: encount.press
+Registry Domain ID: D92248438-CNIC
+Registrar WHOIS Server: whois.discount-domain.com
+Registrar URL: http://www.onamae.com
+Updated Date: 2026-03-18T07:26:03.031Z
+Creation Date: 2019-01-30T05:55:46.000Z
+Registry Expiry Date: 2027-01-30T23:59:59.000Z
+Registrar: GMO Internet Group, Inc. d/b/a Onamae.com
+Registrar IANA ID: 49
+Registrar Abuse Contact Email: onamae@internet.gmo
+Registrar Abuse Contact Phone: +81.337709199
+Domain Status: ok https://icann.org/epp#ok
+Name Server: ns-1194.awsdns-21.org
+Name Server: ns-1797.awsdns-32.co.uk
+Name Server: ns-290.awsdns-36.com
+Name Server: ns-866.awsdns-44.net
+DNSSEC: unsigned
+URL of the ICANN RDDS Inaccuracy Complaint Form: https://icann.org/wicf
+
+>>> Last update of WHOIS database: 2026-11-22T08:12:24.710Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+The WHOIS information provided in this page has been redacted
+in compliance with ICANN's Temporary Specification for gTLD
+Registration Data.
+
+The data in this record is provided by Tucows Registry for informational
+purposes only, and it does not guarantee its accuracy. Tucows Registry is
+authoritative for whois information in top-level domains it operates
+under contract with the Internet Corporation for Assigned Names and
+Numbers. Whois information from other top-level domains is provided by
+a third-party under license to Tucows Registry.
+
+This service is intended only for query-based access. By using this
+service, you agree that you will use any data presented only for lawful
+purposes and that, under no circumstances will you use (a) data
+acquired for the purpose of allowing, enabling, or otherwise supporting
+the transmission by e-mail, telephone, facsimile or other
+communications mechanism of mass  unsolicited, commercial advertising
+or solicitations to entities other than your existing  customers; or
+(b) this service to enable high volume, automated, electronic processes
+that send queries or data to the systems of any Registrar or any
+Registry except as reasonably necessary to register domain names or
+modify existing domain name registrations.
+
+Tucows Registry reserves the right to modify these terms at any time. By
+submitting this query, you agree to abide by this policy. All rights
+reserved.

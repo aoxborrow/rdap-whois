@@ -1,0 +1,81 @@
+###%%% QRY: xn--80ajrjcbe1a2b.xn--j1amh
+###%%% SRV: whois.dotukr.com
+###%%% TME: 2026-11-22T08:13:57Z
+
+Whois Server Version 1.0
+Domain Name (PUNYCODE): xn--80ajrjcbe1a2b.xn--j1amh
+Domain name (UTF8): полотенца.укр
+
+Registry Domain ID: D00118711-ukr
+
+Updated Date: 31-Mar-2026 17:12:27 UTC
+Creation Date: 20-Sep-2019 06:46:01 UTC
+Expiration Date: 20-Sep-2028 06:46:01 UTC
+
+Registry Status: ok
+
+Registrar: ТОВ "Хостінг Україна"
+Registrar URL: http://www.ukraine.com.ua
+Registrar ID: uaukraine
+Registrar Abuse Contact Email: domain@abuse.team
+Registrar Abuse Contact Phone: +380443927433
+
+Registry Registrant ID: icn-901262-koeht
+Registrant Name (Organization): hidden
+Registrant Street: hidden
+Registrant City: hidden
+Registrant Postal Code: hidden
+Registrant Country: hidden
+Registrant Phone: hidden
+Registrant Phone Ext: hidden
+Registrant Fax: hidden
+Registrant Fax Ext: hidden
+Registrant Email: aa45e03550ae398a58@privacyprotected.net
+
+Registry Admin ID: icn-901262-koeht
+Admin Name: hidden
+Admin Organization: hidden
+Admin Street: hidden
+Admin City: hidden
+Admin Postal Code: hidden
+Admin Country: hidden
+Admin Phone: hidden
+Admin Phone Ext: hidden
+Admin Fax: hidden
+Admin Fax Ext: hidden
+Admin Email: aa45e03550ae398a58@privacyprotected.net
+
+Registry Tech ID: icn-901262-koeht
+Tech Name: hidden
+Tech Organization: hidden
+Tech Street: hidden
+Tech City: hidden
+Tech Postal Code: hidden
+Tech Country: hidden
+Tech Phone: hidden
+Tech Phone Ext: hidden
+Tech Fax: hidden
+Tech Fax Ext: hidden
+Tech Email: aa45e03550ae398a58@privacyprotected.net
+
+Registry Billing ID: icn-901262-koeht
+Billing Name: hidden
+Billing Organization: hidden
+Billing Street: hidden
+Billing City: hidden
+Billing Postal Code: hidden
+Billing Country: hidden
+Billing Phone: hidden
+Billing Phone Ext: hidden
+Billing Fax: hidden
+Billing Fax Ext: hidden
+Billing Email: aa45e03550ae398a58@privacyprotected.net
+
+Domain servers in listed order:
+ns116.inhostedns.com
+ns216.inhostedns.net
+ns316.inhostedns.org
+
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 22-Nov-2026 08:12:48 UTC <<<

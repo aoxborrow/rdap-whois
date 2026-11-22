@@ -1,0 +1,37 @@
+{
+  "query": "google.ie",
+  "server": "whois.weare.ie",
+  "domainId": "762999-IEDR",
+  "domainName": "google.ie",
+  "creationDate": "2002-03-21T00:00:00Z",
+  "expirationDate": "2027-03-21T14:13:27Z",
+  "updatedDate": "2026-05-05T14:17:13Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "not applicable",
+  "registrarName": "Markmonitor Inc",
+  "registrarUrl": "http://www.emarkmonitor.com",
+  "registrarAbuseEmail": "abusecomplaints@markmonitor.com",
+  "registrarAbusePhone": "+1.2086851865",
+  "registrarWhoisServer": "whois.weare.ie",
+  "registrantId": "379250-IEDR",
+  "registrantName": "Google LLC",
+  "adminId": "53735502-IEDR",
+  "techId": "534389-IEDR",
+  "billingId": "REDACTED FOR PRIVACY"
+}

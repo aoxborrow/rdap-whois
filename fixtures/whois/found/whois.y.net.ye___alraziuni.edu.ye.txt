@@ -1,0 +1,8 @@
+###%%% QRY: alraziuni.edu.ye
+###%%% SRV: whois.y.net.ye
+###%%% TME: 2025-03-21T05:52:00Z
+
+Domain Name: ALRAZIUNI.EDU.YE
+Registrar: Yemen Net - Sales
+Name Server: ns1.yemen.net.ye (2a02:2718:4::33, 65.162.184.33)
+Name Server: ns2.yemen.net.ye (2a02:2718:4::34, 65.162.184.34)

@@ -1,0 +1,30 @@
+{
+  "domainName": "men.gov.ma",
+  "creationDate": "2009-01-08T00:00:00Z",
+  "expirationDate": "2026-01-08T00:00:00Z",
+  "registrarExpirationDate": "2026-01-08T00:00:00Z",
+  "updatedDate": "2025-02-07T00:00:26Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns1.men.gov.ma",
+    "ns2.men.gov.ma",
+    "ns3.men.gov.ma"
+  ],
+  "registrarName": "ITISSALAT AL-MAGHRIB",
+  "registrarAddress": [
+    "Siège ITISSALAT AL-MAGHRIB Avenue Annakhil Hay Riad Rabat, 10000"
+  ],
+  "registrarEmail": "cae_int.bo@iam.ma",
+  "registrantName": "Ministère de l’Education Nationale de la Formation Professionnelle  de l’Enseignement Supérieur et de la Recherche Scientifique - DEN",
+  "adminName": "Rachidi Mostafa",
+  "adminPhone": "+0.212537661261",
+  "adminEmail": "rachidi.mostafa@men.gov.ma",
+  "techName": "Mohamed Loudifa",
+  "techPhone": "+0.212661901479",
+  "techEmail": "mohamed.loudifa@men.gov.ma"
+}

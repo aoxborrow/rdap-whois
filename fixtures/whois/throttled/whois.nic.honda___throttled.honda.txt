@@ -1,0 +1,5 @@
+###%%% QRY: throttled.honda
+###%%% SRV: whois.nic.honda
+###%%% TME: 2025-03-20T16:21:39Z
+
+Server is busy now, please try again later.

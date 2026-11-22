@@ -1,0 +1,34 @@
+###%%% QRY: mine.nu
+###%%% SRV: whois.iis.nu
+###%%% TME: 2026-11-22T08:13:56Z
+
+# Copyright (c) 1997- The Swedish Internet Foundation.
+# All rights reserved.
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+# Result of search for registered domain names under
+# the .se top level domain.
+# This whois printout is printed with UTF-8 encoding.
+#
+state:            active
+domain:           mine.nu
+holder:           mmr-159935
+created:          1999-08-02
+modified:         2026-07-30
+expires:          2027-08-31
+transferred:      2023-12-14
+nserver:          ns1.p201.dns.oraclecloud.net
+nserver:          ns4.p201.dns.oraclecloud.net
+nserver:          ns3.p201.dns.oraclecloud.net
+nserver:          ns2.p201.dns.oraclecloud.net
+dnssec:           unsigned delegation
+registry-lock:    unlocked
+status:           ok
+registrar:        MarkMonitor Inc

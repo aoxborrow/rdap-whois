@@ -1,0 +1,62 @@
+###%%% QRY: hoster.kz
+###%%% SRV: whois.nic.kz
+###%%% TME: 2026-11-22T08:14:13Z
+
+Whois Server for the .kz and .xn--80ao21a top level domains.
+This server is maintained by the KazNIC, the ccTLD manager for the Republic of Kazakhstan.
+
+Domain Name............: hoster.kz
+
+Registrant
+Name...................: 
+Organization Name......: TOO "Kompaniia Hoster.KZ"
+Street Address.........: Komissarova, 45g, ofis 405
+City...................: Karaganda
+State..................: -
+Postal Code............: 100000
+Country................: KZ
+Phone Number...........: +7.7470949284
+Fax Number.............: +7.7272379284
+Email Address..........: hostmaster@hoster.kz
+
+Administrative Contact
+Name...................: Сухачев Денис Сергеевич
+Organization Name......: ТОО "Компания Hoster.KZ"
+Street Address.........: Комиссарова, 45г, офис 405
+City...................: Караганда
+State..................: -
+Postal Code............: -
+Country................: KZ
+Phone Number...........: +77470949284
+Fax Number.............: 87272379284
+Email Address..........: hostmaster@hoster.kz
+
+Name Server list
+
+Name Server............: ns1.hoster.kz
+IP Address.............: 185.116.195.38
+
+Name Server............: ns2.hoster.kz
+IP Address.............: 185.121.81.104
+
+Name Server............: ns3.hoster.kz
+IP Address.............: 89.35.125.31
+
+Name Server............: ns4.hoster.kz
+IP Address.............: 185.136.99.224, 2a06:fb00:1::4:224
+
+Domain created.........: 2004-10-19 09:01:55 (GMT+0:00)
+Last modified..........: 2026-07-31 09:56:08 (GMT+0:00)
+Expiration date........: 2030-10-18 19:00:00 (GMT+0:00)
+
+Domain status..........: clientDeleteProhibited - Deletion of the domain is
+                         prohibited by the registrar.
+                         clientTransferProhibited - Transfer of the domain is
+                         prohibited by the registrar.
+                         clientRenewProhibited - Auto-renewal of the domain is
+                         prohibited by the registrar.
+                         registrantIdentityVerified - Registrant identity
+                         verified successfully
+
+Registrar created......: KAZNIC
+Current Registrar......: HOSTER.KZ

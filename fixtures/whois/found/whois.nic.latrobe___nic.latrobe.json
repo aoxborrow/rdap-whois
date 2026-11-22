@@ -1,0 +1,30 @@
+{
+  "query": "nic.latrobe",
+  "server": "whois.nic.latrobe",
+  "domainId": "D564FEA6EEC2248448A78FDCEC40EA9F5-ARI",
+  "domainName": "nic.latrobe",
+  "creationDate": "2014-11-24T05:52:22Z",
+  "expirationDate": "2026-11-24T05:52:22Z",
+  "updatedDate": "2026-01-08T05:52:26Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "a.nic.latrobe",
+    "b.nic.latrobe",
+    "c.nic.latrobe",
+    "d.nic.latrobe"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "La Trobe University"
+}

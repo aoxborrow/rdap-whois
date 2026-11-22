@@ -1,0 +1,13 @@
+{
+  "query": "monic.mo",
+  "server": "whois.monic.mo",
+  "domainName": "monic.mo",
+  "creationDate": "1993-01-01T08:00:00Z",
+  "expirationDate": "2027-12-31T00:00:00Z",
+  "nameservers": [
+    "ns1.monic.mo",
+    "ns2.monic.mo",
+    "ns3.monic.mo",
+    "ns4.monic.mo"
+  ]
+}

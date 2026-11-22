@@ -1,0 +1,66 @@
+{
+  "query": "dreamhost.com",
+  "server": "whois.dreamhost.com",
+  "domainId": "494018_DOMAIN_COM-VRSN",
+  "domainName": "dreamhost.com",
+  "creationDate": "1997-09-22T21:00:00Z",
+  "expirationDate": "2027-09-22T04:00:00Z",
+  "registrarExpirationDate": "2027-09-22T04:00:00Z",
+  "updatedDate": "2026-08-21T11:32:53Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.dreamhost.com",
+    "ns2.dreamhost.com",
+    "ns3.dreamhost.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "431",
+  "registrarIanaId": 431,
+  "registrarName": "DREAMHOST",
+  "registrarUrl": "https://www.dreamhost.com",
+  "registrarAbuseEmail": "DOMAIN-ABUSE@DREAMHOST.COM",
+  "registrarAbusePhone": "+1.7148729370",
+  "registrarWhoisServer": "whois.dreamhost.com",
+  "registrantName": "Proxy Protection LLC",
+  "registrantOrg": "Proxy Protection LLC",
+  "registrantAddress": [
+    "417 Associated Rd #327",
+    "C/O dreamhost.com"
+  ],
+  "registrantCity": "Brea",
+  "registrantState": "CA",
+  "registrantPostalCode": "92821",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.7147064182",
+  "registrantEmail": "yw3gazmc77btmtf@proxy.dreamhost.com",
+  "adminName": "Proxy Protection LLC",
+  "adminOrg": "Proxy Protection LLC",
+  "adminAddress": [
+    "417 Associated Rd #327",
+    "C/O dreamhost.com"
+  ],
+  "adminCity": "Brea",
+  "adminState": "CA",
+  "adminPostalCode": "92821",
+  "adminCountry": "US",
+  "adminPhone": "+1.7147064182",
+  "adminEmail": "yw3gazmc77btmtf@proxy.dreamhost.com",
+  "techName": "Proxy Protection LLC",
+  "techOrg": "Proxy Protection LLC",
+  "techAddress": [
+    "417 Associated Rd #327",
+    "C/O dreamhost.com"
+  ],
+  "techCity": "Brea",
+  "techState": "CA",
+  "techPostalCode": "92821",
+  "techCountry": "US",
+  "techPhone": "+1.7147064182",
+  "techEmail": "yw3gazmc77btmtf@proxy.dreamhost.com"
+}

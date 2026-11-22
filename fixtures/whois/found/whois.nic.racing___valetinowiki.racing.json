@@ -1,0 +1,43 @@
+{
+  "query": "valetinowiki.racing",
+  "server": "whois.nic.racing",
+  "domainId": "REDACTED FOR PRIVACY",
+  "domainName": "valetinowiki.racing",
+  "creationDate": "2018-04-29T06:16:38Z",
+  "expirationDate": "2027-04-29T06:16:38Z",
+  "updatedDate": "2026-09-07T23:11:35Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "150.ns1.abovedomains.com",
+    "150.ns2.abovedomains.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1479",
+  "registrarIanaId": 1479,
+  "registrarName": "NameSilo, LLC",
+  "registrarUrl": "https://www.namesilo.com",
+  "registrarAbuseEmail": "abuse@namesilo.com",
+  "registrarAbusePhone": "+1.4805240066",
+  "registrarWhoisServer": "whois.namesilo.com",
+  "registrantId": "REDACTED FOR PRIVACY",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "See PrivacyGuardian.org",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "AZ",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "US",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

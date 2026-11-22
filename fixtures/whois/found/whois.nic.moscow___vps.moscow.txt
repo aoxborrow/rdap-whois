@@ -1,0 +1,60 @@
+###%%% QRY: vps.moscow
+###%%% SRV: whois.nic.moscow
+###%%% TME: 2026-07-16T23:41:47Z
+
+Domain Name: vps.moscow
+Registry Domain ID: 20250905112237421494_1958807535e1757071356e28744e235037_domain-FIR
+Registrar WHOIS Server: whois.reg.ru
+Registrar URL: https://www.reg.ru
+Updated Date: 2026-05-27T18:04:17Z
+Creation Date: 2025-09-05T11:22:37Z
+Registry Expiry Date: 2026-09-05T11:22:37Z
+Registrar: Limited Liability Company "Registrar of domain names REG.RU"
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7 (495) 580-11-11
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Name: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Street: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant City: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Country: RU
+Registrant Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Fax: Personal data, can not be publicly disclosed according to applicable laws.
+Registrant Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Admin ID: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Name: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Street: Personal data, can not be publicly disclosed according to applicable laws.
+Admin City: Personal data, can not be publicly disclosed according to applicable laws.
+Admin State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Country: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Fax: Personal data, can not be publicly disclosed according to applicable laws.
+Admin Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Registry Tech ID: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Name: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Street: Personal data, can not be publicly disclosed according to applicable laws.
+Tech City: Personal data, can not be publicly disclosed according to applicable laws.
+Tech State/Province: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Postal Code: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Country: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Phone: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Fax: Personal data, can not be publicly disclosed according to applicable laws.
+Tech Email: Please check Registrar RDDS. Personal data, can not be publicly disclosed according to applicable laws.
+Name Server: a.ns.selectel.ru
+Name Server: b.ns.selectel.ru
+Name Server: c.ns.selectel.ru
+Name Server: d.ns.selectel.ru
+DNSSEC: unsignedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T23:41:48Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% By submitting a query to Whois Service
+% you agree to abide by the following terms of use:
+% http://flexireg.net/whois-terms_of_use.html (in Russian)
+% http://flexireg.net/whois-terms_of_use.en.html (in English)

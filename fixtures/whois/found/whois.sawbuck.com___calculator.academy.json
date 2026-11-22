@@ -1,0 +1,73 @@
+{
+  "query": "calculator.academy",
+  "server": "whois.sawbuck.com",
+  "domainId": "635d77ffbca04f9cbe11df730ddc8cd9-DONUTS",
+  "domainName": "calculator.academy",
+  "creationDate": "2019-04-05T18:10:09Z",
+  "expirationDate": "2026-04-05T18:10:09Z",
+  "registrarExpirationDate": "2026-04-05T18:10:09Z",
+  "updatedDate": "2025-03-16T09:05:11Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "mitch.ns.cloudflare.com",
+    "ruth.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1531",
+  "registrarIanaId": 1531,
+  "registrarName": "Automattic Inc.",
+  "registrarUrl": "http://www.automattic.com",
+  "registrarAbuseEmail": "domainabuse@automattic.com",
+  "registrarAbusePhone": "+1.8772733049",
+  "registrarWhoisServer": "whois.sawbuck.com",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Knock Knock WHOIS Not There, LLC",
+  "registrantAddress": [
+    "9450 SW Gemini Dr #63259"
+  ],
+  "registrantCity": "Beaverton",
+  "registrantPostalCode": "97008-7105",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.8772738550",
+  "registrantEmail": "calculator.academy@privatewho.is",
+  "adminId": "Not Available From Registry",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "Knock Knock WHOIS Not There, LLC",
+  "adminAddress": [
+    "9450 SW Gemini Dr #63259"
+  ],
+  "adminCity": "Beaverton",
+  "adminPostalCode": "97008-7105",
+  "adminCountry": "US",
+  "adminPhone": "+1.8772738550",
+  "adminEmail": "calculator.academy@privatewho.is",
+  "techId": "Not Available From Registry",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "Knock Knock WHOIS Not There, LLC",
+  "techAddress": [
+    "9450 SW Gemini Dr #63259"
+  ],
+  "techCity": "Beaverton",
+  "techPostalCode": "97008-7105",
+  "techCountry": "US",
+  "techPhone": "+1.8772738550",
+  "techEmail": "calculator.academy@privatewho.is",
+  "billingId": "Not Available From Registry",
+  "billingName": "REDACTED FOR PRIVACY",
+  "billingOrg": "Knock Knock WHOIS Not There, LLC",
+  "billingAddress": [
+    "9450 SW Gemini Dr #63259"
+  ],
+  "billingCity": "Beaverton",
+  "billingPostalCode": "97008-7105",
+  "billingCountry": "US",
+  "billingPhone": "+1.8772738550",
+  "billingEmail": "calculator.academy@privatewho.is"
+}

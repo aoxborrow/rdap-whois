@@ -1,0 +1,25 @@
+###%%% QRY: publico.pt
+###%%% SRV: whois.dns.pt
+###%%% TME: 2026-11-22T08:13:53Z
+
+Domain: publico.pt
+Domain Status: Registered
+Creation Date: 11/05/1995 00:00:00
+Expiration Date: 02/11/2027 23:59:00
+Owner Name: PÚBLICO - COMUNICAÇÃO SOCIAL, S.A.
+Owner Address: Apartado 1606
+Owner Locality: Vila Nova de Gaia
+Owner ZipCode: 4401-901
+Owner Locality ZipCode: EC Devesas
+Owner Country Code: PT
+Admin Name: PSERVERS CONSULTING, UNIPESSOAL LDA
+Admin Address: Rua Professor Vieira de Almeida  5 10 C
+Admin Locality: Lisboa
+Admin ZipCode: 1600-664
+Admin Locality ZipCode: LISBOA
+Admin Country Code: PT
+
+Name Server: ns-861.awsdns-43.net | IPv4:  and IPv6: 
+Name Server: ns-112.awsdns-14.com | IPv4:  and IPv6: 
+Name Server: ns-1801.awsdns-33.co.uk | IPv4:  and IPv6: 
+Name Server: ns-1381.awsdns-44.org | IPv4:  and IPv6:

@@ -1,0 +1,65 @@
+{
+  "query": "beta.agency",
+  "server": "whois.regtime.net",
+  "domainId": "77054972a7d24b5d8501690a8007fd3b-D",
+  "domainName": "beta.agency",
+  "creationDate": "2014-05-28T00:00:00Z",
+  "expirationDate": "2027-05-28T04:00:00Z",
+  "registrarExpirationDate": "2027-05-28T04:00:00Z",
+  "updatedDate": "2026-04-16T14:45:05Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "OK"
+  ],
+  "nameservers": [
+    "dns1.yandex.net",
+    "dns2.yandex.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "Unsigned",
+  "registrarId": "1362",
+  "registrarIanaId": 1362,
+  "registrarName": "REGTIME LTD.",
+  "registrarUrl": "http://www.webnames.ru",
+  "registrarAbuseEmail": "abuse@regtime.net",
+  "registrarAbusePhone": "+7.8463733047",
+  "registrarWhoisServer": "whois.regtime.net",
+  "registrantId": "CT1512641-RT",
+  "registrantName": "Vladislav Merkulov",
+  "registrantOrg": "Beta LLC",
+  "registrantAddress": [
+    "3rd Yamskogo polya st, estate 2, building 26, 2nd floor"
+  ],
+  "registrantCity": "Moscow",
+  "registrantState": "Moscow",
+  "registrantPostalCode": "125124",
+  "registrantCountry": "RU",
+  "registrantPhone": "+7.9853855512",
+  "registrantEmail": "merkulov.vlad@gmail.com",
+  "adminId": "CT1512641-RT",
+  "adminName": "Vladislav Merkulov",
+  "adminOrg": "Beta LLC",
+  "adminAddress": [
+    "3rd Yamskogo polya st, estate 2, building 26, 2nd floor"
+  ],
+  "adminCity": "Moscow",
+  "adminState": "Moscow",
+  "adminPostalCode": "125124",
+  "adminCountry": "RU",
+  "adminPhone": "+7.9853855512",
+  "adminEmail": "merkulov.vlad@gmail.com",
+  "techId": "CT1512641-RT",
+  "techName": "Vladislav Merkulov",
+  "techOrg": "Beta LLC",
+  "techAddress": [
+    "3rd Yamskogo polya st, estate 2, building 26, 2nd floor"
+  ],
+  "techCity": "Moscow",
+  "techState": "Moscow",
+  "techPostalCode": "125124",
+  "techCountry": "RU",
+  "techPhone": "+7.9853855512",
+  "techEmail": "merkulov.vlad@gmail.com"
+}

@@ -1,0 +1,34 @@
+{
+  "query": "nic.bcg",
+  "server": "whois.nic.bcg",
+  "domainId": "808f39d3720f4125825817199e213a7a-DONUTS",
+  "domainName": "nic.bcg",
+  "creationDate": "2016-01-22T21:24:41Z",
+  "expirationDate": "2027-01-22T21:24:41Z",
+  "updatedDate": "2026-08-12T01:40:55Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "a0.nic.bcg",
+    "a2.nic.bcg",
+    "b0.nic.bcg",
+    "c0.nic.bcg"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

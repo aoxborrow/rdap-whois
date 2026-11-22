@@ -1,0 +1,42 @@
+###%%% QRY: absa.africa
+###%%% SRV: whois.nic.africa
+###%%% TME: 2026-07-16T11:39:51Z
+
+Domain Name: absa.africa
+Registry Domain ID: 3t_DOMAIN-AFRICA
+Registrar WHOIS Server: whois.lexsynergy.com
+Registrar URL: https://www.lexsynergy.com
+Updated Date: 2026-05-03T22:42:33Z
+Creation Date: 2017-06-02T22:00:06Z
+Registry Expiry Date: 2027-06-02T22:00:06Z
+Registrar Registration Expiration Date: 2027-06-02T22:00:06Z
+Registrar: Lexsynergy Limited
+Registrar IANA ID: 1466
+Registrar Abuse Contact Email: abuse@lexsynergy.com
+Registrar Abuse Contact Phone: +44.2031370459
+Reseller: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registrant Organization: Absa Bank Limited
+Registrant Country: ZA
+Registrant Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Admin Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Tech Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Billing Email: Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.
+Name Server: ns2.absa.africa
+Name Server: ns3.absa.africa
+Name Server: ns4.absa.africa
+DNSSEC: unsigned
+
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-07-16T11:39:53Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The use of this facility is subject to the following terms and
+==============================================================
+conditions: https://registry.africa/whois-terms-and-conditions
+==============================================================
+Copyright (c) Registry Africa Ltd
+=================================

@@ -1,0 +1,32 @@
+###%%% QRY: y2mate.nu
+###%%% SRV: whois.iis.nu
+###%%% TME: 2026-07-16T11:38:54Z
+
+# Copyright (c) 1997- The Swedish Internet Foundation.
+# All rights reserved.
+# The information obtained through searches, or otherwise, is protected
+# by the Swedish Copyright Act (1960:729) and international conventions.
+# It is also subject to database protection according to the Swedish
+# Copyright Act.
+# Any use of this material to target advertising or
+# similar activities is forbidden and will be prosecuted.
+# If any of the information below is transferred to a third
+# party, it must be done in its entirety. This server must
+# not be used as a backend for a search engine.
+# Result of search for registered domain names under
+# the .se top level domain.
+# This whois printout is printed with UTF-8 encoding.
+#
+state:            active
+domain:           y2mate.nu
+holder:           (not shown)
+created:          2023-01-03
+modified:         2025-12-12
+expires:          2027-01-03
+transferred:      2025-08-19
+nserver:          ns1.dnsserv.nu
+nserver:          ns1.dnsserv.se
+dnssec:           unsigned delegation
+registry-lock:    unlocked
+status:           ok
+registrar:        SpaceDump IT AB

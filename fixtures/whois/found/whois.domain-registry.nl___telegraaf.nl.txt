@@ -1,0 +1,27 @@
+###%%% QRY: telegraaf.nl
+###%%% SRV: whois.domain-registry.nl
+###%%% TME: 2026-07-16T11:38:31Z
+
+Domain name: telegraaf.nl
+Status:      active
+
+Registrar:
+   Mediahuis TPS
+   Katwilgweg 2
+   2050 Antwerpen
+   Belgium
+
+Abuse Contact:
+   abuse@mediahuis.be
+
+DNSSEC:      no
+
+Domain nameservers:
+   donna.ns.cloudflare.com
+   jeremy.ns.cloudflare.com
+
+Creation Date: 1995-12-18
+
+Updated Date: 2024-10-02
+
+Record maintained by: SIDN BV

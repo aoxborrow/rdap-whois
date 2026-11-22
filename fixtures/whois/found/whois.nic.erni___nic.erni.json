@@ -1,0 +1,36 @@
+{
+  "query": "nic.erni",
+  "server": "whois.nic.erni",
+  "domainId": "D1-ERNI",
+  "domainName": "nic.erni",
+  "creationDate": "2014-10-13T15:50:28Z",
+  "expirationDate": "2026-10-13T15:50:28Z",
+  "updatedDate": "2026-07-07T08:02:19Z",
+  "eppStatus": [
+    "autoRenewPeriod",
+    "pendingRenew",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "pendingRenew https://icann.org/epp#pendingRenew",
+    "autoRenewPeriod https://icann.org/epp#autoRenewPeriod"
+  ],
+  "nameservers": [
+    "anycast1.irondns.net",
+    "anycast2.irondns.net"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "ERNI Internal Registrar",
+  "registrarUrl": "http://erni-consultants.com",
+  "registrarAbuseEmail": "info@erni.ch",
+  "registrarAbusePhone": "+41.412273500",
+  "registrarWhoisServer": "whois.nic.erni",
+  "registrantOrg": "ERNI Consulting AG",
+  "registrantCountry": "CH",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

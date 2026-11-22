@@ -1,0 +1,79 @@
+###%%% QRY: funyoursjapan.pink
+###%%% SRV: whois.star-domain.jp
+###%%% TME: 2025-03-20T16:19:41Z
+
+Domain Name: funyoursjapan.pink
+Registry Domain ID: 
+Registrar WHOIS Server: whois.star-domain.jp
+Registrar URL: www.star-domain.jp
+Updated Date: 2024-12-25T02:24:22Z
+Creation Date: 2017-02-15T07:30:39Z
+Registrar Registration Expiration Date: 2026-02-15T07:30:39Z
+Registrar: Netowl, Inc.
+Registrar IANA ID: 1557
+Registrar Abuse Contact Email: registrar-abuse@netowl.jp
+Registrar Abuse Contact Phone: +81.662928811
+Domain Status:  - https://www.icann.org/epp#
+Registry Registrant ID: P-1418374418
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: 7F FIS Bldg., 403 Shimomaruya-cho, Nakagyo-ku
+Registrant Street: 
+Registrant City: Kyoto
+Registrant State/Province: Kyoto
+Registrant Postal Code: 604-8006
+Registrant Country: JP
+Registrant Phone: +81.752568553
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: whoisprivacy@netowl.jp
+Registry Admin ID: P-1418374418
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization: Whois Privacy Protection Service by StarDomain
+Admin Street: 7F FIS Bldg., 403 Shimomaruya-cho, Nakagyo-ku
+Admin Street: 
+Admin City: Kyoto
+Admin State/Province: Kyoto
+Admin Postal Code: 604-8006
+Admin Country: JP
+Admin Phone: +81.752568553
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: whoisprivacy@netowl.jp
+Registry Tech ID: P-1418374418
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization: Whois Privacy Protection Service by StarDomain
+Tech Street: 7F FIS Bldg., 403 Shimomaruya-cho, Nakagyo-ku
+Tech Street: 
+Tech City: Kyoto
+Tech State/Province: Kyoto
+Tech Postal Code: 604-8006
+Tech Country: JP
+Tech Phone: +81.752568553
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: whoisprivacy@netowl.jp
+Name Server: athena.ns.cloudflare.com
+Name Server: henry.ns.cloudflare.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2024-12-25T02:24:22Z <<<
+
+The WHOIS service (the "Service") offered by Netowl, Inc. ("Netowl") and the
+access to the records provided via the Service are for informational purposes
+only. Netowl makes this information available to you "as is" and does not
+guarantee its accuracy. By submitting a WHOIS query, you agree that you will use
+this data only for lawful purposes and that, under no circumstances will you use
+this data: (1) to allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone; (2) in contravention of any applicable data and privacy
+protection acts; or (3) to enable high volume, automated, electronic processes
+that apply to Netowl (or its systems). Compilation, repackaging, dissemination,
+or other use of the WHOIS database in its entirety, or of a substantial portion
+thereof, is strictly prohibited.
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.

@@ -1,0 +1,28 @@
+{
+  "query": "crim.ist",
+  "server": "whois.nic.ist",
+  "domainId": "REDACTED",
+  "domainName": "crim.ist",
+  "creationDate": "2021-12-29T22:46:20Z",
+  "expirationDate": "2034-12-29T22:46:20Z",
+  "updatedDate": "2026-08-12T04:47:01Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "margaret.ns.cloudflare.com",
+    "trevor.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1479",
+  "registrarIanaId": 1479,
+  "registrarName": "NameSilo, LLC",
+  "registrarUrl": "http://www.namesilo.com",
+  "registrarAbuseEmail": "abuse@namesilo.com",
+  "registrarAbusePhone": "+1.6024928198",
+  "registrarWhoisServer": "whois.namesilo.com"
+}

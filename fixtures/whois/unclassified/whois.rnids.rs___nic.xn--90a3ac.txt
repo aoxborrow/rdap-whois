@@ -1,0 +1,5 @@
+###%%% QRY: nic.xn--90a3ac
+###%%% SRV: whois.rnids.rs
+###%%% TME: 2026-07-14T10:47:08Z
+
+%ERROR:102: Invalid domain name

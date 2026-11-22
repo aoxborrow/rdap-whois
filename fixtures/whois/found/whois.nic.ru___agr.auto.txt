@@ -1,0 +1,58 @@
+###%%% QRY: agr.auto
+###%%% SRV: whois.nic.ru
+###%%% TME: 2025-03-20T11:47:30Z
+
+Domain Name: AGR.AUTO
+Registry Domain ID: D378259014-CNIC
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: http://www.nic.ru
+Updated Date: 2023-07-04T07:17:38Z
+Creation Date: 2023-07-04T07:10:20Z
+Registrar Registration Expiration Date: 2025-07-04T21:00:00Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-abuse@nic.ru
+Registrar Abuse Contact Phone: +7.4959944601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C1092004080-CNIC
+Registrant Name: Privacy protection service - whoisproxy.ru
+Registrant Organization: Privacy protection service - whoisproxy.ru
+Registrant Street: PO box 99, whoisproxy.ru
+Registrant City: Moscow
+Registrant State/Province: Moscow
+Registrant Postal Code: 123308
+Registrant Country: RU
+Registrant Phone: +7.4957856536
+Registrant Phone Ext:
+Registrant Email: agr.auto@whoisproxy.ru
+Registry Admin ID: C1092004080-CNIC
+Admin Name: Privacy protection service - whoisproxy.ru
+Admin Organization: Privacy protection service - whoisproxy.ru
+Admin Street: PO box 99, whoisproxy.ru
+Admin City: Moscow
+Admin State/Province: Moscow
+Admin Postal Code: 123308
+Admin Country: RU
+Admin Phone: +7.4957856536
+Admin Phone Ext:
+Admin Email: agr.auto@whoisproxy.ru
+Registry Tech ID: C1092004080-CNIC
+Tech Name: Privacy protection service - whoisproxy.ru
+Tech Organization: Privacy protection service - whoisproxy.ru
+Tech Street: PO box 99, whoisproxy.ru
+Tech City: Moscow
+Tech State/Province: Moscow
+Tech Postal Code: 123308
+Tech Country: RU
+Tech Phone: +7.4957856536
+Tech Phone Ext:
+Tech Email: agr.auto@whoisproxy.ru
+Name Server: ns3-l2.nic.ru
+Name Server: ns4-cloud.nic.ru
+Name Server: ns4-l2.nic.ru
+Name Server: ns8-cloud.nic.ru
+Name Server: ns8-l2.nic.ru
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit: https://icann.org/epp
+>>> Last update of WHOIS database: 2025.03.20T14:47:21Z <<<

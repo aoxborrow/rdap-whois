@@ -1,0 +1,35 @@
+{
+  "query": "samehadaku.college",
+  "server": "whois.nic.college",
+  "domainId": "D520298718-CNIC",
+  "domainName": "samehadaku.college",
+  "creationDate": "2025-01-18T17:43:30Z",
+  "expirationDate": "2026-01-18T23:59:59Z",
+  "updatedDate": "2025-02-13T10:21:52Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "lou.ns.cloudflare.com",
+    "rita.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "Namecheap",
+  "registrarUrl": "https://namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.9854014545",
+  "registrarWhoisServer": "whois.namecheap.com",
+  "registrantOrg": "Privacy service provided by Withheld for Privacy ehf",
+  "registrantState": "Capital Region",
+  "registrantCountry": "IS",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

@@ -1,0 +1,68 @@
+{
+  "query": "postnl.post",
+  "server": "whois.dotpostregistry.net",
+  "domainId": "5741da69971f4dcbbc28d8070856e61f-DONUTS",
+  "domainName": "postnl.post",
+  "creationDate": "2013-04-03T14:07:21Z",
+  "expirationDate": "2027-04-03T14:07:21Z",
+  "updatedDate": "2026-08-11T20:40:41Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "a1-6.akam.net",
+    "a2-66.akam.net",
+    "a3-67.akam.net",
+    "a13-67.akam.net",
+    "a14-64.akam.net",
+    "a18-65.akam.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "455",
+  "registrarIanaId": 455,
+  "registrarName": "EnCirca, Inc.",
+  "registrarUrl": "http://encirca.com",
+  "registrarAbuseEmail": "reportedabuse@encirca.com",
+  "registrarAbusePhone": "+1.7819429975",
+  "registrarWhoisServer": "whois.encirca.com",
+  "registrantId": "0abcfd4fc61040ee952582abb6392951-DONUTS",
+  "registrantName": "Domain Admins",
+  "registrantOrg": "Postnl B.V.",
+  "registrantAddress": [
+    "Waldorpstraat 3"
+  ],
+  "registrantCity": "Den Haag",
+  "registrantState": "ZH",
+  "registrantPostalCode": "2521 CA",
+  "registrantCountry": "NL",
+  "registrantPhone": "+0.888687923",
+  "registrantEmail": "domain-registry@postnl.nl",
+  "adminId": "0abcfd4fc61040ee952582abb6392951-DONUTS",
+  "adminName": "Domain Admins",
+  "adminOrg": "Postnl B.V.",
+  "adminAddress": [
+    "Waldorpstraat 3"
+  ],
+  "adminCity": "Den Haag",
+  "adminState": "ZH",
+  "adminPostalCode": "2521 CA",
+  "adminCountry": "NL",
+  "adminPhone": "+0.888687923",
+  "adminEmail": "domain-registry@postnl.nl",
+  "techId": "0abcfd4fc61040ee952582abb6392951-DONUTS",
+  "techName": "Domain Admins",
+  "techOrg": "Postnl B.V.",
+  "techAddress": [
+    "Waldorpstraat 3"
+  ],
+  "techCity": "Den Haag",
+  "techState": "ZH",
+  "techPostalCode": "2521 CA",
+  "techCountry": "NL",
+  "techPhone": "+0.888687923",
+  "techEmail": "domain-registry@postnl.nl"
+}

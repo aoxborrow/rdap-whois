@@ -1,0 +1,60 @@
+###%%% QRY: google.ht
+###%%% SRV: whois.nic.ht
+###%%% TME: 2025-03-20T18:14:40Z
+
+Domain Name: google.ht
+Registry Domain ID: 112029-CoCCA
+Updated Date: 2024-05-16T09:51:30Z
+Creation Date: 2004-06-17T23:00:00Z
+Registry Expiry Date: 2025-06-17T23:00:00Z
+Registrar Registration Expiration Date: 2025-06-17T23:00:00Z
+Registrar: MarkMonitor
+Registrar Street Address: 1120 S. Rackham Way, Suite 300
+Meridian, Idaho
+83642
+Registrar Email: ccops@markmonitor.com
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 1671988-CoCCA
+Registrant Name: Domain Administrator
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94043
+Registrant Country: 
+Registrant Email: dns-admin@google.com
+Registrant Phone: +1.6502530000
+Registry Admin ID: 1671988-CoCCA
+Admin Name: Domain Administrator
+Admin Street: 1600 Amphitheatre Parkway
+Admin City: Mountain View
+Admin State/Province: CA
+Admin Postal Code: 94043
+Admin Country: 
+Admin Email: dns-admin@google.com
+Admin Phone: +1.6502530000
+Registry Tech ID: 1671988-CoCCA
+Tech Name: Domain Administrator
+Tech Street: 1600 Amphitheatre Parkway
+Tech City: Mountain View
+Tech State/Province: CA
+Tech Postal Code: 94043
+Tech Country: 
+Tech Email: dns-admin@google.com
+Tech Phone: +1.6502530000
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2025-03-20T18:14:40.144Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+TERMS OF USE: You are not authorized to access or query our Whois database through the use of electronic processes that are high-volume and automated.  Whois database is provided by Consortium FDS/RDDH as a service to the internet community on by of Consortium FDS/RDDH. (http://www.nic.ht)
+
+The data is for information purposes only. Consortium FDS/RDDH does not guarantee its accuracy. By submitting a Whois query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to Consortium FDS/RDDH it's members (or Consortium FDS/RDDH or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.

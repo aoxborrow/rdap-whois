@@ -1,0 +1,42 @@
+###%%% QRY: arabx.cam
+###%%% SRV: whois.nic.cam
+###%%% TME: 2026-11-22T08:08:46Z
+
+Domain Name: ARABX.CAM
+Registry Domain ID: D212761803-CNIC
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://namecheap.com
+Updated Date: 2026-09-28T06:42:18.0Z
+Creation Date: 2020-12-03T21:18:42.0Z
+Registry Expiry Date: 2027-12-03T23:59:59.0Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Name Server: JEFF.NS.CLOUDFLARE.COM
+Name Server: JULE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.9854014545
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:08:45.0Z <<<
+
+This data is provided by CAM-REGISTRY for information purposes only in
+accordance with the CAM-REGISTRY TLD Privacy Policy. It is intended to
+assist persons to obtain information about or related to domain name
+ registration records. CAM-REGISTRY does not guarantee its accuracy.
+By submitting this query, you agree to abide as follows:
+
+You agree to use this data only for lawful purposes and that under no
+circumstances will you permit this data to
+1) allow, enable, or otherwise support the transmission of mass
+    unsolicited, commercial advertising or solicitations via e-mail,
+    telephone or fax (spam); nor
+2) enable high volume, automated, electronic processes to the systems
+    of CAM-REGISTRY or Registrars, except as reasonably required to
+    register new domain names or modify existing registrations; nor
+3) will you generate a database of registered domain names and
+    registrant data.
+
+The registration data available in this service is limited. Additional data may be available at https://lookup.icann.org.
+
+These terms may be changed without prior notice.

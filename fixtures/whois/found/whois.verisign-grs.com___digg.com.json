@@ -1,0 +1,28 @@
+{
+  "query": "digg.com",
+  "server": "whois.verisign-grs.com",
+  "domainId": "20261849_DOMAIN_COM-VRSN",
+  "domainName": "digg.com",
+  "creationDate": "2000-02-20T16:55:16Z",
+  "expirationDate": "2028-12-29T02:29:44Z",
+  "updatedDate": "2026-05-15T22:37:04Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "katja.ns.cloudflare.com",
+    "zac.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1068",
+  "registrarIanaId": 1068,
+  "registrarName": "NameCheap, Inc.",
+  "registrarUrl": "http://www.namecheap.com",
+  "registrarAbuseEmail": "abuse@namecheap.com",
+  "registrarAbusePhone": "+1.6613102107",
+  "registrarWhoisServer": "whois.namecheap.com"
+}

@@ -1,0 +1,25 @@
+{
+  "query": "telbru.com.bn",
+  "server": "whois.bnnic.bn",
+  "domainName": "telbru.com.bn",
+  "creationDate": "2014-10-07T00:00:00Z",
+  "expirationDate": "2027-10-07T00:00:00Z",
+  "updatedDate": "2015-12-22T09:14:16Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "pt01.brunet.bn",
+    "pt02.brunet.bn"
+  ],
+  "registrarName": "IMAGINE SDN BHD",
+  "registrantName": "JEFFREY TAN SIAW WEI  (BNC38N)",
+  "registrantEmail": "jeffrey.tan@telbru.com.bn",
+  "adminName": "JEFFREY TAN SIAW WEI  (BNC38N)",
+  "adminEmail": "jeffrey.tan@telbru.com.bn",
+  "techName": "JEFFREY TAN SIAW WEI  (BNC38N)",
+  "techEmail": "jeffrey.tan@telbru.com.bn"
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.eslintcache
+*.tgz
+.DS_Store
+.wrangler/
+
+# every .env variant is secret except the committed example
+.env*
+!.env.example

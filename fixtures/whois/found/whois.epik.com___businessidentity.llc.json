@@ -1,0 +1,62 @@
+{
+  "query": "businessidentity.llc",
+  "server": "whois.epik.com",
+  "domainId": "2c1323de14b540539018f784c5f5350d-DONUTS",
+  "domainName": "businessidentity.llc",
+  "creationDate": "2023-10-09T18:05:27Z",
+  "expirationDate": "2033-10-09T18:05:27Z",
+  "registrarExpirationDate": "2033-10-09T18:05:27Z",
+  "updatedDate": "2024-02-09T15:20:02Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "alberto.ns.cloudflare.com",
+    "margaret.ns.cloudflare.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "617",
+  "registrarIanaId": 617,
+  "registrarName": "Epik LLC",
+  "registrarUrl": "http://www.epik.com",
+  "registrarAbuseEmail": "abuse@epik.com",
+  "registrarAbusePhone": "+1.7373015923",
+  "registrarWhoisServer": "whois.epik.com",
+  "registrantName": "Privacy Administrator",
+  "registrantOrg": "Anonymize, LLC.",
+  "registrantAddress": [
+    "30 N. Gould Street, Ste E"
+  ],
+  "registrantCity": "Sheridan",
+  "registrantState": "WY",
+  "registrantPostalCode": "82801",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.3076839553",
+  "registrantEmail": "businessidentity.llc-tonzajuxkfhd@anonymize.com",
+  "adminName": "Privacy Administrator",
+  "adminOrg": "Anonymize, Inc.",
+  "adminAddress": [
+    "30 N. Gould Street, Ste E"
+  ],
+  "adminCity": "Sheridan",
+  "adminState": "WY",
+  "adminPostalCode": "82801",
+  "adminCountry": "US",
+  "adminPhone": "+1.3076839553",
+  "adminEmail": "businessidentity.llc-tonzajuxkfhd@anonymize.com",
+  "techName": "Privacy Administrator",
+  "techOrg": "Anonymize, Inc.",
+  "techAddress": [
+    "30 N. Gould Street, Ste E"
+  ],
+  "techCity": "Sheridan",
+  "techState": "WY",
+  "techPostalCode": "82801",
+  "techCountry": "US",
+  "techPhone": "+1.3076839553",
+  "techEmail": "businessidentity.llc-tonzajuxkfhd@anonymize.com"
+}

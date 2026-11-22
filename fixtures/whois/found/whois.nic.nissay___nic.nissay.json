@@ -1,0 +1,36 @@
+{
+  "query": "nic.nissay",
+  "server": "whois.nic.nissay",
+  "domainId": "269c052cde084f9eb828df8b13686150-DONUTS",
+  "domainName": "nic.nissay",
+  "creationDate": "2023-09-29T19:21:10Z",
+  "expirationDate": "2027-09-29T19:21:10Z",
+  "updatedDate": "2026-11-13T19:21:22Z",
+  "eppStatus": [
+    "serverDeleteProhibited",
+    "serverTransferProhibited",
+    "serverUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited",
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited"
+  ],
+  "nameservers": [
+    "v0n0.nic.nissay",
+    "v0n1.nic.nissay",
+    "v0n2.nic.nissay",
+    "v0n3.nic.nissay",
+    "v2n0.nic.nissay",
+    "v2n1.nic.nissay"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "Registry Operator acts as Registrar (9999)",
+  "registrarUrl": "https://identity.digital",
+  "registrarAbuseEmail": "abuse@identity.digital",
+  "registrarAbusePhone": "+1.6664447777",
+  "registrarWhoisServer": "whois.identitydigital.services"
+}

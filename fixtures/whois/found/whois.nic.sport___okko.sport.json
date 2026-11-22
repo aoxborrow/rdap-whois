@@ -1,0 +1,35 @@
+{
+  "query": "okko.sport",
+  "server": "whois.nic.sport",
+  "domainId": "Dggor9075-SPORT",
+  "domainName": "okko.sport",
+  "creationDate": "2019-02-14T16:30:20Z",
+  "expirationDate": "2027-02-21T09:37:12Z",
+  "updatedDate": "2026-02-20T00:26:34Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "a.ns.selectel.ru",
+    "b.ns.selectel.ru",
+    "c.ns.selectel.ru",
+    "d.ns.selectel.ru",
+    "ns1.edgedns.ru",
+    "ns2.edgedns.world"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "463",
+  "registrarIanaId": 463,
+  "registrarName": "RU-CENTER",
+  "registrarUrl": "https://www.nic.ru/en",
+  "registrarAbuseEmail": "tld-abuse@nic.ru",
+  "registrarAbusePhone": "+7.4957377664",
+  "registrantOrg": "LLC \"OKKO\"",
+  "registrantCountry": "RU",
+  "registrantEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

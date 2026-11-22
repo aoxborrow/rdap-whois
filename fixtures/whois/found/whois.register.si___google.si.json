@@ -1,0 +1,25 @@
+{
+  "query": "google.si",
+  "server": "whois.register.si",
+  "domainName": "google.si",
+  "creationDate": "2005-04-04T00:00:00Z",
+  "expirationDate": "2027-07-19T00:00:00Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "client_delete_prohibited,client_update_prohibited"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "Markmonitor Inc.",
+  "registrarUrl": "http://www.markmonitor.com",
+  "registrantId": "G830057",
+  "registrantName": "NOT DISCLOSED",
+  "techName": "NOT DISCLOSED"
+}

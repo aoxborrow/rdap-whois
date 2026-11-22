@@ -1,0 +1,31 @@
+{
+  "domainName": "bezeq.co.il",
+  "creationDate": "1995-08-07T00:00:00Z",
+  "status": [
+    "transfer locked"
+  ],
+  "nameservers": [
+    "ns1.bezeqint.net",
+    "ns2.bezeqint.net",
+    "ns3.bezeqint.net"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Israel Internet Association ISOC-IL",
+  "registrarUrl": "https://www.isoc.org.il",
+  "registrantName": "Rose Naamani",
+  "registrantAddress": [
+    "Bezeq The Israel Telecommunication Corp. Ltd.",
+    "P.O.B 62083",
+    "Tel Aviv",
+    "61620",
+    "Israel"
+  ],
+  "registrantPhone": "+972-3-6265152",
+  "registrantEmail": "BezeqContact AT bezeq.com",
+  "techName": "Yair Ovadia",
+  "techOrg": "Bezeq International Ltd.",
+  "techPhone": "+972 3 9203005",
+  "techFax": "+972 3 9203025",
+  "techEmail": "hostmaster AT bezeqint.net"
+}

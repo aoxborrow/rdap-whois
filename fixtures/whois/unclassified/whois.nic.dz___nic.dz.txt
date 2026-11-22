@@ -1,0 +1,18 @@
+###%%% QRY: nic.dz
+###%%% SRV: whois.nic.dz
+###%%% TME: 2026-07-14T10:43:21Z
+
+% This is the WHOIS server for Example Registry.
+% Queries are subject to terms of use.
+%
+Domain Name:    NIC.DZ
+Registrar:      wissal
+Registrant:     Net work Internet Center
+Admin Name:    administrateur
+Admin Email:      dznic@nic.dz
+Tech Name:   administrateur
+Tech Email:     dznic@nic.dz
+Creation Date:  N/A
+Expiry Date:    N/A
+
+% Query served at 2026-07-14T11:42:56.166960421+01:00

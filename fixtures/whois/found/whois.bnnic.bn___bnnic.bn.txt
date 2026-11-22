@@ -1,0 +1,46 @@
+###%%% QRY: bnnic.bn
+###%%% SRV: whois.bnnic.bn
+###%%% TME: 2026-11-22T08:13:52Z
+
+----------------------------------------------------------------------  
+ BNNIC WHOIS Server
+---------------------------------------------------------------------- 
+
+The following data is provided for information purposes only.
+
+Registrar:   IMAGINE SDN BHD
+
+    Domain Name:  BNNIC.BN 
+    Creation Date:  13-Feb-2014 00:00:00
+    Modified Date:  13-Feb-2016 00:45:04
+    Expiration Date:  13-Feb-2027 00:00:00
+    Domain Status:  ok
+
+
+    Registrant:
+
+        Name:           Aliffian Hj Awg Damit - (BNC1318T)      
+        Email:          aliffian.damit@aiti.gov.bn 
+        
+        
+
+
+    Administrative Contact:
+          
+        Name:           Aliffian Hj Awg Damit - (BNC1318T)
+        Email:          aliffian.damit@aiti.gov.bn 
+        
+        
+
+
+    Technical Contact:
+        
+        Name:           Aliffian Hj Awg Damit - (BNC1318T)
+        Email:          aliffian.damit@aiti.gov.bn 
+        
+        
+
+
+    Name Servers:
+        NS104.BRUNET.BN  (202.93.223.25, 202.160.6.206)
+        NS204.BRUNET.BN  (202.93.223.25, 202.160.6.206)

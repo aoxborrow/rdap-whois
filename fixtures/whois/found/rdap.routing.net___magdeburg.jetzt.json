@@ -1,0 +1,37 @@
+{
+  "query": "magdeburg.jetzt",
+  "server": "rdap.routing.net",
+  "domainId": "5c07f529189f481b837963905566da11-DONUTS",
+  "domainName": "magdeburg.jetzt",
+  "creationDate": "2021-04-27T00:00:00Z",
+  "expirationDate": "2025-04-27T00:00:00Z",
+  "registrarExpirationDate": "2025-04-27T00:00:00Z",
+  "updatedDate": "2021-04-27T18:47:29Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.hosting.de",
+    "ns2.hosting.de",
+    "ns3.hosting.de"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "976",
+  "registrarIanaId": 976,
+  "registrarName": "http.net Internet GmbH",
+  "registrarUrl": "https://www.http.net",
+  "registrarAbuseEmail": "abuse @ http.net",
+  "registrarAbusePhone": "+49.24146314115",
+  "registrarWhoisServer": "rdap.routing.net",
+  "registrantOrg": "Softwerke Magdeburg e. V.",
+  "registrantCountry": "DE",
+  "registrantEmail": "igzj5qttjj7fs7li76ju3xazjttqyoiz36sj4u7ytlomq@protectedmx.com",
+  "adminOrg": "Softwerke Magdeburg e. V.",
+  "adminEmail": "igzj5qttjj7fs7li76ju3xazjttqyoiz36sj4u7ytlomq@protectedmx.com",
+  "techOrg": "Softwerke Magdeburg e. V.",
+  "techEmail": "igzj5qttjj7fs7li76ju3xazjttqyoiz36sj4u7ytlomq@protectedmx.com"
+}

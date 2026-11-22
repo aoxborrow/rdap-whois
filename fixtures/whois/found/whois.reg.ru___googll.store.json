@@ -1,0 +1,68 @@
+{
+  "query": "googll.store",
+  "server": "whois.reg.ru",
+  "domainId": "D263379667-CNIC",
+  "domainName": "googll.store",
+  "creationDate": "2021-12-10T10:11:02Z",
+  "expirationDate": "2028-12-10T10:11:02Z",
+  "registrarExpirationDate": "2028-12-10T10:11:02Z",
+  "updatedDate": "2026-11-13T14:21:42Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "megan.ns.cloudflare.com",
+    "norm.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1606",
+  "registrarIanaId": 1606,
+  "registrarName": "Registrar of Domain Names REG.RU LLC",
+  "registrarUrl": "https://www.reg.com",
+  "registrarAbuseEmail": "abuse@reg.ru",
+  "registrarAbusePhone": "+7.4955801111",
+  "registrarWhoisServer": "whois.reg.com",
+  "registrantId": "jjzsk4ve69pysp3k",
+  "registrantName": "Igor Zuzanskii",
+  "registrantOrg": "Private Person",
+  "registrantAddress": [
+    "Kurnatovskogo 4b"
+  ],
+  "registrantCity": "Kyiv",
+  "registrantState": "Kyiv",
+  "registrantPostalCode": "02140",
+  "registrantCountry": "UA",
+  "registrantPhone": "+380.953181937",
+  "registrantFax": "+380.953181937",
+  "registrantEmail": "igordotwhite@gmail.com",
+  "adminId": "ktbvq2bokek2qmsj",
+  "adminName": "Igor Zuzanskii",
+  "adminOrg": "Private Person",
+  "adminAddress": [
+    "Kurnatovskogo 4b"
+  ],
+  "adminCity": "Kyiv",
+  "adminState": "Kyiv",
+  "adminPostalCode": "02140",
+  "adminCountry": "UA",
+  "adminPhone": "+380.953181937",
+  "adminFax": "+380.953181937",
+  "adminEmail": "igordotwhite@gmail.com",
+  "techId": "un47v5ko8hlqueqz",
+  "techName": "Igor Zuzanskii",
+  "techOrg": "Private Person",
+  "techAddress": [
+    "Kurnatovskogo 4b"
+  ],
+  "techCity": "Kyiv",
+  "techState": "Kyiv",
+  "techPostalCode": "02140",
+  "techCountry": "UA",
+  "techPhone": "+380.953181937",
+  "techFax": "+380.953181937",
+  "techEmail": "igordotwhite@gmail.com"
+}

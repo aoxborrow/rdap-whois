@@ -1,0 +1,50 @@
+###%%% QRY: blogspot.mk
+###%%% SRV: whois.marnet.mk
+###%%% TME: 2026-11-22T08:13:59Z
+
+% Domain Information over Whois protocol
+%
+% MARnet whois proxy server
+% Timestamp: Sun Nov 22 2026 09:13:59
+
+domain:       blogspot.mk
+registrant:   UNET-R11
+admin-c:      UNET-C12
+nsset:        UNET-NS1058
+registrar:    UNET-REG
+registered:   23.09.2011 14:00:00
+changed:      29.08.2014 13:10:29
+expire:       23.09.2027
+
+contact:      UNET-R11
+org:          Google LLC
+name:         Google LLC
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      US
+phone:        DATA REDACTED
+e-mail:       ccops@markmonitor.com
+registrar:    UNET-REG
+created:      DATA REDACTED
+
+contact:      UNET-C12
+name:         MarkMonitor Inc..
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      DATA REDACTED
+address:      US
+phone:        DATA REDACTED
+e-mail:       ccops@markmonitor.com
+registrar:    UNET-REG
+created:      DATA REDACTED
+
+nsset:        UNET-NS1058
+nserver:      ns1.google.com 
+nserver:      ns2.google.com 
+nserver:      ns3.google.com 
+nserver:      ns4.google.com 
+tech-c:       UNET-C12
+registrar:    UNET-REG
+created:      29.08.2014 13:09:45
+changed:      21.08.2015 12:32:45

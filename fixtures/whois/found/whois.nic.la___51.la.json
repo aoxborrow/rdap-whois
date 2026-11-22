@@ -1,0 +1,32 @@
+{
+  "query": "51.la",
+  "server": "whois.nic.la",
+  "domainId": "D473296-LANIC",
+  "domainName": "51.la",
+  "creationDate": "2005-01-17T01:00:00Z",
+  "expirationDate": "2028-01-17T23:59:59Z",
+  "updatedDate": "2026-05-21T09:01:51Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "e1.xundns.com",
+    "e2.xundns.com",
+    "ns1.huaweicloud-dns.net",
+    "ns1.huaweicloud-dns.org",
+    "vip3.alidns.com",
+    "vip4.alidns.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Key-Systems GmbH",
+  "registrarAbuseEmail": "abuse@centralnic.com",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrantEmail": "https://whois.nic.la/contact/51.la/registrant",
+  "adminEmail": "https://whois.nic.la/contact/51.la/admin",
+  "techEmail": "https://whois.nic.la/contact/51.la/tech",
+  "billingEmail": "https://whois.nic.la/contact/51.la/billing"
+}

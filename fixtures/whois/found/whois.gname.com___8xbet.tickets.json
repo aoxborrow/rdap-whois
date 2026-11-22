@@ -1,0 +1,66 @@
+{
+  "query": "8xbet.tickets",
+  "server": "whois.gname.com",
+  "domainId": "D523419696-CNIC",
+  "domainName": "8xbet.tickets",
+  "creationDate": "2025-02-01T11:40:20Z",
+  "expirationDate": "2027-02-01T23:59:59Z",
+  "registrarExpirationDate": "2027-02-01T23:59:59Z",
+  "updatedDate": "2026-11-16T18:42:54Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "cora.ns.cloudflare.com",
+    "nile.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1923",
+  "registrarIanaId": 1923,
+  "registrarName": "Gname.com Pte. Ltd.",
+  "registrarUrl": "https://www.gname.com",
+  "registrarAbuseEmail": "complaint@gname.com",
+  "registrarAbusePhone": "+65.31581931",
+  "registrarWhoisServer": "whois.gname.com",
+  "registrantId": "Redacted for privacy",
+  "registrantName": "Redacted for privacy",
+  "registrantOrg": "Redacted for privacy",
+  "registrantAddress": [
+    "Redacted for privacy"
+  ],
+  "registrantCity": "Redacted for privacy",
+  "registrantState": "Redacted for privacy",
+  "registrantPostalCode": "Redacted for privacy",
+  "registrantCountry": "CW",
+  "registrantPhone": "Redacted for privacy",
+  "registrantFax": "Redacted for privacy",
+  "registrantEmail": "https://rdap.gname.com/extra/contact?type=registrant&domain=8XBET.TICKETS",
+  "adminName": "Redacted for privacy",
+  "adminOrg": "Redacted for privacy",
+  "adminAddress": [
+    "Redacted for privacy"
+  ],
+  "adminCity": "Redacted for privacy",
+  "adminState": "Redacted for privacy",
+  "adminPostalCode": "Redacted for privacy",
+  "adminCountry": "Redacted for privacy",
+  "adminPhone": "Redacted for privacy",
+  "adminFax": "Redacted for privacy",
+  "adminEmail": "https://rdap.gname.com/extra/contact?type=admin&domain=8XBET.TICKETS",
+  "techName": "Redacted for privacy",
+  "techOrg": "Redacted for privacy",
+  "techAddress": [
+    "Redacted for privacy"
+  ],
+  "techCity": "Redacted for privacy",
+  "techState": "Redacted for privacy",
+  "techPostalCode": "Redacted for privacy",
+  "techCountry": "Redacted for privacy",
+  "techPhone": "Redacted for privacy",
+  "techFax": "Redacted for privacy",
+  "techEmail": "https://rdap.gname.com/extra/contact?type=technical&domain=8XBET.TICKETS"
+}

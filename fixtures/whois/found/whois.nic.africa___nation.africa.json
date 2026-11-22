@@ -1,0 +1,34 @@
+{
+  "query": "nation.africa",
+  "server": "whois.nic.africa",
+  "domainId": "266_DOMAIN-AFRICA",
+  "domainName": "nation.africa",
+  "creationDate": "2017-07-19T15:13:10Z",
+  "expirationDate": "2027-07-19T15:13:10Z",
+  "registrarExpirationDate": "2027-07-19T15:13:10Z",
+  "updatedDate": "2026-06-22T13:50:09Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "gabe.ns.cloudflare.com",
+    "kim.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1381",
+  "registrarIanaId": 1381,
+  "registrarName": "Afriregister Limited",
+  "registrarUrl": "https://www.afriregister.co.ke",
+  "registrarAbuseEmail": "team@afriregister.bi",
+  "registrarAbusePhone": "+25.722219231",
+  "registrantOrg": "Nation Media Group",
+  "registrantCountry": "KE",
+  "registrantEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "adminEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "techEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information.",
+  "billingEmail": "Please contact the RDDS service of the listed Registrar for Registrant, Admin, or Tech contact information."
+}

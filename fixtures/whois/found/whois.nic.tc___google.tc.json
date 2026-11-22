@@ -1,0 +1,24 @@
+{
+  "query": "google.tc",
+  "server": "whois.nic.tc",
+  "domainName": "google.tc",
+  "creationDate": "2014-12-24T05:00:00Z",
+  "expirationDate": "2026-12-24T05:00:00Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok"
+  ],
+  "nameservers": [
+    "ns1.google.tc",
+    "ns2.google.tc"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "Isimtescil Bilisim A.S.",
+  "registrarCountry": "TR",
+  "registrarEmail": "destek@isimtescil.net",
+  "registrarUrl": "https://www.isimtescil.net",
+  "registrarWhoisServer": "whois.nic.tc"
+}

@@ -1,0 +1,70 @@
+{
+  "query": "nic.xn--9et52u",
+  "server": "whois.gtld.zdns.cn",
+  "domainId": "D20150112G10001G_26460661-shishang",
+  "domainName": "nic.xn--9et52u",
+  "creationDate": "2015-01-12T03:23:05Z",
+  "expirationDate": "2034-01-12T03:23:05Z",
+  "updatedDate": "2026-04-21T07:20:09Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "ns.zhuoyue.wang",
+    "ns2.zhuoyue.wang"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "9999",
+  "registrarIanaId": 9999,
+  "registrarName": "RISE VICTORY LIMITED",
+  "registrarUrl": "http://www.newgtld.cn",
+  "registrarAbuseEmail": "info@yu-wei.cn",
+  "registrarAbusePhone": "+852.18818800556",
+  "registrarWhoisServer": "whois.newgtld.cn",
+  "registrantId": "C20160307C_06105566-shishang",
+  "registrantName": "Guangfeng Li",
+  "registrantOrg": "Guangzhou Yuwei Information and Technology Co.,Ltd",
+  "registrantAddress": [
+    "No.3302 International Trade Center,No.1 Linhe West Road,",
+    "Tianhe District"
+  ],
+  "registrantCity": "Guangzhou",
+  "registrantState": "Guangdong",
+  "registrantPostalCode": "510000",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.2066222813",
+  "registrantFax": "+86.2066222813",
+  "registrantEmail": "liguangfeng@yu-wei.cn",
+  "adminId": "C20160307C_06105566-shishang",
+  "adminName": "Guangfeng Li",
+  "adminOrg": "Guangzhou Yuwei Information and Technology Co.,Ltd",
+  "adminAddress": [
+    "No.3302 International Trade Center,No.1 Linhe West Road,",
+    "Tianhe District"
+  ],
+  "adminCity": "Guangzhou",
+  "adminState": "Guangdong",
+  "adminPostalCode": "510000",
+  "adminCountry": "CN",
+  "adminPhone": "+86.2066222813",
+  "adminFax": "+86.2066222813",
+  "adminEmail": "liguangfeng@yu-wei.cn",
+  "techId": "C20160307C_06105566-shishang",
+  "techName": "Guangfeng Li",
+  "techOrg": "Guangzhou Yuwei Information and Technology Co.,Ltd",
+  "techAddress": [
+    "No.3302 International Trade Center,No.1 Linhe West Road,",
+    "Tianhe District"
+  ],
+  "techCity": "Guangzhou",
+  "techState": "Guangdong",
+  "techPostalCode": "510000",
+  "techCountry": "CN",
+  "techPhone": "+86.2066222813",
+  "techFax": "+86.2066222813",
+  "techEmail": "liguangfeng@yu-wei.cn"
+}

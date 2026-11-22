@@ -1,0 +1,102 @@
+###%%% QRY: ajax.systems
+###%%% SRV: whois.imena.ua
+###%%% TME: 2026-11-22T08:11:31Z
+
+Domain Name: ajax.systems
+Registry Domain ID: dfdc6ca2593b4f748a95918ccc2fcf23-DONUTS
+Registrar WHOIS Server: whois.imena.ua
+Registrar URL: http://www.imena.ua
+Updated Date: 2026-08-13T21:34:16Z
+Creation Date: 2014-06-04T14:35:12Z
+Registrar Registration Expiration Date: 2027-06-04T14:35:12Z
+Registrar: INTERNET INVEST, LTD. DBA IMENA.UA
+Registrar IANA ID: 1112
+Registrar Abuse Contact Email: abuse@imena.ua
+Registrar Abuse Contact Phone: +380.442010102
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: imn-cl-xse25duk6
+Registrant Name: Aleksandr Konotopskyi
+Registrant Organization: AJAX SYSTEMS CYPRUS HOLDINGS LTD
+Registrant Street: Ifigeneias, 17, Strovolos
+Registrant City: Nicosia
+Registrant State/Province: 
+Registrant Postal Code: 2007
+Registrant Country: Cyprus
+Registrant Phone: +380.504145808
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: legal@ajax.systems
+Registry Admin ID: imn-cl-5pnklbfbc
+Admin Name: Aleksandr Konotopskyi
+Admin Organization: AJAX SYSTEMS CYPRUS HOLDINGS LTD
+Admin Street: Ifigeneias, 17, Strovolos
+Admin City: Nicosia
+Admin State/Province: 
+Admin Postal Code: 2007
+Admin Country: Cyprus
+Admin Phone: +380.504145808
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: legal@ajax.systems
+Registry Tech ID: imn-cl-64dahnu3r
+Tech Name: Aleksandr Konotopskyi
+Tech Organization: AJAX SYSTEMS CYPRUS HOLDINGS LTD
+Tech Street: Ifigeneias, 17, Strovolos
+Tech City: Nicosia
+Tech State/Province: 
+Tech Postal Code: 2007
+Tech Country: Cyprus
+Tech Phone: +380.504145808
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: legal@ajax.systems
+Registry Billing ID: imn-cl-afmv4n9xh
+Billing Name: Aleksandr Konotopskyi
+Billing Organization: AJAX SYSTEMS CYPRUS HOLDINGS LTD
+Billing Street: Ifigeneias, 17, Strovolos
+Billing City: Nicosia
+Billing State/Province: 
+Billing Postal Code: 2007
+Billing Country: Cyprus
+Billing Phone: +380.504145808
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: legal@ajax.systems
+Name Server: anna.ns.cloudflare.com
+Name Server: cleo.ns.cloudflare.com
+DNSSEC: signed
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:10:03Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+; This data is provided by IMENA.UA for information purposes only in
+; accordance with the IMENA.UA Privacy Policy. It is intended to
+; assist persons to obtain information about or related to domain name
+; registration records. IMENA.UA does not guarantee its accuracy.
+; By submitting this query, you agree to abide as follows:
+
+
+; The data in this registrar whois database is provided to you for
+; information purposes only, and may be used to assist you in obtaining
+; information about or related to domain name registration records.
+; We do not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; a) allow, enable, or otherwise support the transmission by e-mail,
+; telephone, or facsimile of mass, unsolicited, commercial advertising
+; or solicitations to entities other than the data recipient's own
+; existing customers; or
+; b) enable high volume, automated, electronic processes that send queries
+; or data to the systems of any Registry Operator or ICANN-Accredited
+; registrar, except as reasonably necessary to register domain names
+; or modify existing registrations.
+; The compilation, repackaging, dissemination or other use of this data
+; is expressly prohibited without prior written consent.
+; These terms may be changed without prior notice. By submitting this
+; query, you agree to abide by this policy.

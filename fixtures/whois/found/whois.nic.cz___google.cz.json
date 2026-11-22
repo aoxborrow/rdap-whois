@@ -1,0 +1,46 @@
+{
+  "query": "google.cz",
+  "server": "whois.nic.cz",
+  "domainName": "google.cz",
+  "creationDate": "2000-07-21T15:21:00Z",
+  "expirationDate": "2027-07-22T00:00:00Z",
+  "updatedDate": "2018-04-23T20:24:01Z",
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "registrarName": "REG-MARKMONITOR",
+  "registrantId": "MM1171195",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "adminId": "MM1171195",
+  "adminName": "Domain Administrator",
+  "adminOrg": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway",
+    "Mountain View",
+    "94043",
+    "CA",
+    "US"
+  ],
+  "techId": "MM193020",
+  "techName": "Domain Provisioning",
+  "techOrg": "MarkMonitor Inc.",
+  "techAddress": [
+    "2150 S Bonito Way",
+    "Suite 150",
+    "Meridian",
+    "83642",
+    "ID",
+    "US"
+  ]
+}

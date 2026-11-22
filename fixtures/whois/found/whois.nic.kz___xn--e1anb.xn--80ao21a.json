@@ -1,0 +1,45 @@
+{
+  "query": "xn--e1anb.xn--80ao21a",
+  "server": "whois.nic.kz",
+  "domainName": "xn--e1anb.xn--80ao21a",
+  "creationDate": "2012-04-10T09:41:10Z",
+  "expirationDate": "2027-04-10T09:41:10Z",
+  "updatedDate": "2022-12-21T08:26:12Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok - Normal state."
+  ],
+  "nameservers": [
+    "ns.nic.kz",
+    "ns1.nic.kz",
+    "ns2.nic.kz"
+  ],
+  "registrarName": "KAZNIC",
+  "registrantName": "KazNIC",
+  "registrantOrg": "KazNIC",
+  "registrantAddress": [
+    "Ilyashev str. 47/2"
+  ],
+  "registrantCity": "Semey",
+  "registrantState": "VKO",
+  "registrantPostalCode": "071400",
+  "registrantCountry": "KZ",
+  "registrantPhone": "+77222600006",
+  "registrantFax": "+77222604740",
+  "registrantEmail": "info@nic.kz",
+  "adminName": "KazNIC Organization",
+  "adminOrg": "KazNIC Organization",
+  "adminAddress": [
+    "Ilyashev str. 47/2"
+  ],
+  "adminCity": "Semey",
+  "adminState": "VKO",
+  "adminPostalCode": "071400",
+  "adminCountry": "KZ",
+  "adminPhone": "+77222600006",
+  "adminFax": "+77222604740",
+  "adminEmail": "info@nic.kz",
+  "techName": "KazNIC"
+}

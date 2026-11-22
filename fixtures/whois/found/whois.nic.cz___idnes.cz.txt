@@ -1,0 +1,70 @@
+###%%% QRY: idnes.cz
+###%%% SRV: whois.nic.cz
+###%%% TME: 2026-07-16T11:40:52Z
+
+%  (c) 2006-2021 CZ.NIC, z.s.p.o.
+% 
+% Intended use of supplied data and information
+% 
+% Data contained in the domain name register, as well as information
+% supplied through public information services of CZ.NIC association,
+% are appointed only for purposes connected with Internet network
+% administration and operation, or for the purpose of legal or other
+% similar proceedings, in process as regards a matter connected
+% particularly with holding and using a concrete domain name.
+% 
+% Full text available at:
+% http://www.nic.cz/page/306/intended-use-of-supplied-data-and-information/
+% 
+% See also a search service at http://www.nic.cz/whois/
+% 
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 13:40:53 2026
+
+domain:       idnes.cz
+registrant:   MAFRACZ
+admin-c:      MAFRACZ
+nsset:        MAFRA1
+keyset:       MAFRA-ALL
+registrar:    REG-INTERNET-CZ
+registered:   30.11.1997 01:00:00
+changed:      27.05.2019 10:04:38
+expire:       20.10.2026
+
+contact:      MAFRACZ
+org:          MAFRA, a.s.
+name:         Marek Mikéska
+address:      Karla Engliše 519/11
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      27.08.2015 14:07:24
+changed:      27.08.2019 13:47:58
+
+nsset:        MAFRA1
+nserver:      ns.mafra.cz (194.79.53.77)
+nserver:      ns2.mafra.cz (194.79.55.77)
+nserver:      ns.mafracz.net 
+tech-c:       MAFRA-CZ
+registrar:    REG-INTERNET-CZ
+created:      22.09.2008 11:05:08
+changed:      11.12.2024 14:29:42
+
+contact:      MAFRA-CZ
+org:          MAFRA, a.s.
+name:         Marek Mikéska
+address:      Karla Engliše 519/11
+address:      Praha 5
+address:      150 00
+address:      CZ
+registrar:    REG-INTERNET-CZ
+created:      11.11.2014 10:12:10
+changed:      27.08.2019 13:50:54
+
+keyset:       MAFRA-ALL
+dnskey:       257 3 8 AwEAAcFIyKd0BI6qMNgcikcj52agYWFBuwPmt7dwHwKKk/w8IwY1lXXG4X44gzzdBa020bURjNHMNla3PKxqtOhPpL4H8bGV7/H8YSK8q58/UoZQpXdLjQN73fHALq7sjdjEuNgSxftBoeIbInW0BvRcd1RA7Wk2F68eCyEhXTyKwbUjNHf9WCbQ3I0HY1b6gmHVpscGfe5rGIuxl8O1gzX4pK8jedfZGOaOa/na5Tb7W5M1j5N78XeRIU33TWwNJ2byC1QfO93QSJmJMotPyugo6fH1kVky6Sbkvoiyfs94AeSq38jsd0VGZJOsD6g78JOZNcgeuGrck++VD8Vpt41rw8E=
+tech-c:       MAFRA-CZ
+registrar:    REG-INTERNET-CZ
+created:      04.12.2017 13:08:23

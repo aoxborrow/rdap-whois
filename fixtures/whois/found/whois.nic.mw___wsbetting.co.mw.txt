@@ -1,0 +1,81 @@
+###%%% QRY: wsbetting.co.mw
+###%%% SRV: whois.nic.mw
+###%%% TME: 2026-07-16T11:42:37Z
+
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.9.0
+% Timestamp: Thu Jul 16 13:42:38 2026
+
+domain:       wsbetting.co.mw
+registrant:   WSBETTING-CO-MW-REG
+admin-c:      WSBETTING-CO-MW-ADMIN
+admin-c:      WSBETTING-CO-MW-BILLING
+nsset:        WSBETTING-CO-MW-NS
+registrar:    mw_system_reg
+registered:   19.07.2016 12:45:22
+expire:       19.08.2026
+
+contact:      WSBETTING-CO-MW-REG
+org:          World Star Betting
+name:         World Star Betting
+address:      PO Box 2956 Blantyre
+address:      Blantyre
+address:      -
+address:      MW
+phone:        +265.995460606
+fax-no:       +265.995460606
+e-mail:       stewart@worldstarbetting.com
+registrar:    mw_system_reg
+created:      19.07.2016 12:45:20
+changed:      09.08.2016 00:28:45
+
+contact:      WSBETTING-CO-MW-ADMIN
+org:          World Star Betting
+name:         Stewart Parkins
+address:      PO Box 2956 Blantyre
+address:      Blantyre
+address:      -
+address:      MW
+phone:        +265.997543505
+fax-no:       +265.997543505
+e-mail:       stewart@worldstarbetting.com
+registrar:    mw_system_reg
+created:      19.07.2016 12:45:20
+changed:      09.08.2016 00:28:55
+
+contact:      WSBETTING-CO-MW-BILLING
+org:          World Star Betting
+name:         Stewart Parkins
+address:      PO Box 2956 Blantyre
+address:      Blantyre
+address:      -
+address:      MW
+phone:        +265.997543505
+fax-no:       +265.997543505
+e-mail:       stewart@worldstarbetting.com
+registrar:    mw_system_reg
+created:      19.07.2016 12:45:21
+changed:      09.08.2016 00:29:03
+
+nsset:        WSBETTING-CO-MW-NS
+nserver:      curt.ns.cloudflare.com 
+nserver:      venus.ns.cloudflare.com 
+tech-c:       WSBETTING-CO-MW-TECH
+registrar:    mw_system_reg
+created:      19.07.2016 12:45:22
+changed:      12.11.2019 17:41:38
+
+contact:      WSBETTING-CO-MW-TECH
+org:          World Star Betting
+name:         Bernard Salloum
+address:      PO Box 2956 Blantyre
+address:      Blantyre
+address:      -
+address:      MW
+phone:        +265.7799213403
+fax-no:       +265.7799213403
+e-mail:       bernie@worldstarbetting.com
+registrar:    mw_system_reg
+created:      19.07.2016 12:45:21
+changed:      09.08.2016 00:29:00

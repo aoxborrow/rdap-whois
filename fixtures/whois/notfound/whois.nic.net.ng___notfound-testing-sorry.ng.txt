@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.ng
+###%%% SRV: whois.nic.net.ng
+###%%% TME: 2025-03-20T18:30:28Z
+
+Domain Name: notfound-testing-sorry.ng
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2025-03-20T18:30:28.535Z <<<

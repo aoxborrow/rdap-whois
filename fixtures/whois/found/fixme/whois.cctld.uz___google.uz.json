@@ -1,0 +1,53 @@
+{
+  "domainName": "google.uz",
+  "creationDate": "2006-04-13T00:00:00Z",
+  "expirationDate": "2025-05-01T00:00:00Z",
+  "updatedDate": "2024-04-23T00:00:00Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com"
+  ],
+  "registrarName": "Tomas",
+  "registrarUrl": "http://www.cctld.uz",
+  "registrarWhoisServer": "www.whois.uz",
+  "registrantName": "Google LLC",
+  "registrantAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "registrantCity": "Mountain View",
+  "registrantPostalCode": "94043",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.6502530000",
+  "registrantEmail": "dns-admin [at] google.com",
+  "adminName": "Google LLC",
+  "adminAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "adminCity": "Mountain View",
+  "adminPostalCode": "94043",
+  "adminCountry": "US",
+  "adminPhone": "+1.6502530000",
+  "adminEmail": "dns-admin [at] google.com",
+  "techName": "Google LLC",
+  "techAddress": [
+    "1600 Amphitheatre Parkway"
+  ],
+  "techCity": "Mountain View",
+  "techPostalCode": "94043",
+  "techCountry": "US",
+  "techPhone": "+1.6502530000",
+  "techEmail": "dns-admin [at] google.com",
+  "billingName": "MarkMonitor Inc.",
+  "billingAddress": [
+    "3540 East Longwing Lane, Suite 300"
+  ],
+  "billingCity": "Meridian, Idaho",
+  "billingPostalCode": "83646",
+  "billingCountry": "US",
+  "billingPhone": "+1.2083898740",
+  "billingFax": "+1.2083898771",
+  "billingEmail": "ccops [at] markmonitor.com"
+}

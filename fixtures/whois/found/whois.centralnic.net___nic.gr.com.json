@@ -1,0 +1,50 @@
+{
+  "query": "nic.gr.com",
+  "server": "whois.centralnic.net",
+  "domainId": "D720056-CNIC",
+  "domainName": "nic.gr.com",
+  "creationDate": "2010-11-03T14:22:01Z",
+  "expirationDate": "2027-11-03T23:59:59Z",
+  "updatedDate": "2026-10-28T00:05:33Z",
+  "eppStatus": [
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.i-pro.org",
+    "ns2.i-pro.org"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "iDOT Services Limited",
+  "registrarUrl": "http://www.domain.gr.com",
+  "registrarAbuseEmail": "alert@email.gr.com",
+  "registrarAbusePhone": "+357.22030616",
+  "registrarWhoisServer": "whois.domain.gr.com",
+  "registrantName": "Domain Administrator",
+  "registrantOrg": "iDOT Services Limited",
+  "registrantAddress": [
+    "Demosthenis Severis Ave. 25",
+    "Metropolis Tower",
+    "3rd floor, Office 301"
+  ],
+  "registrantCity": "Nicosia",
+  "registrantPostalCode": "1080",
+  "registrantCountry": "CY",
+  "registrantPhone": "+357.22030616",
+  "registrantEmail": "whois@domain.gr.com",
+  "techName": "Domain Administrator",
+  "techOrg": "iDOT Services Limited",
+  "techAddress": [
+    "Demosthenis Severis Ave. 25",
+    "Metropolis Tower",
+    "3rd floor, Office 301"
+  ],
+  "techCity": "Nicosia",
+  "techPostalCode": "1080",
+  "techCountry": "CY",
+  "techPhone": "+357.22030616",
+  "techEmail": "whois@domain.gr.com"
+}

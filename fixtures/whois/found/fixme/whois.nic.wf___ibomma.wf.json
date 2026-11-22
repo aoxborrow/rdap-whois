@@ -1,0 +1,34 @@
+{
+  "domainName": "ibomma.wf",
+  "creationDate": "2024-02-02T19:57:03Z",
+  "expirationDate": "2026-02-02T19:57:03Z",
+  "updatedDate": "2025-02-01T03:51:41Z",
+  "status": [
+    "active"
+  ],
+  "nameservers": [
+    "isla.ns.cloudflare.com",
+    "yahir.ns.cloudflare.com"
+  ],
+  "registrarName": "Hosting Concepts B.V. d/b/a Openprovider",
+  "registrarAddress": [
+    "Hofplein 20",
+    "Spaces Business Centre",
+    "3032 AC ROTTERDAM"
+  ],
+  "registrarCountry": "NL",
+  "registrarPhone": "+31.104482299",
+  "registrarFax": "+31.102440250",
+  "registrarEmail": "sales@openprovider.com",
+  "registrarUrl": "https://www.openprovider.com",
+  "registrantName": "Privacy Protect LLC",
+  "registrantAddress": [
+    "Privacy Protect LLC",
+    "Makariou III, 42E",
+    "1065 Nicosia",
+    "Nocosia"
+  ],
+  "registrantCountry": "CY",
+  "registrantPhone": "+1.6282511337",
+  "registrantEmail": "whois+ibomma.wf@privacyprotect.email"
+}

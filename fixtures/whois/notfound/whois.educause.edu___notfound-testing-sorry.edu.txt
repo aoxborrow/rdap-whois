@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.edu
+###%%% SRV: whois.educause.edu
+###%%% TME: 2025-03-20T16:18:39Z
+
+NO MATCH: notfound-testing-sorry.edu

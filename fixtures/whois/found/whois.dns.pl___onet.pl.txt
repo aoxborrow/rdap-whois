@@ -1,0 +1,31 @@
+###%%% QRY: onet.pl
+###%%% SRV: whois.dns.pl
+###%%% TME: 2026-07-16T11:38:27Z
+
+DOMAIN NAME:                    onet.pl
+registrant type:                organization
+nameservers:                    ns5.ringpublishing.net. 
+                                ns6.ringpublishing.net. 
+                                ns7.ringpublishing.net. 
+                                ns8.ringpublishing.net. 
+created:                        1996.06.22 01:00:00
+last modified:                  2025.12.21 00:30:39
+renewal date:                   2026.12.31 13:00:00
+
+option created:                 2025.09.03 22:48:19
+option expiration date:         2028.09.03 22:48:19
+
+dnssec:                         Unsigned
+
+REGISTRAR:
+cyber_Folks S.A.
+ul. Wierzbięcice 1B
+61-569 Poznań
+Polska/Poland
+Tel: +48.122963663
+https://cyberfolks.pl/
+domeny@cyberfolks.pl
+
+WHOIS database responses:       https://dns.pl/en/whois
+
+WHOIS displays data with a delay not exceeding 15 minutes in relation to the .pl Registry system

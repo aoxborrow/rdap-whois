@@ -1,0 +1,29 @@
+###%%% QRY: puri.sm
+###%%% SRV: whois.nic.sm
+###%%% TME: 2026-07-16T11:43:54Z
+
+Domain Name: puri.sm
+Registration date: 05/05/2014
+Status: Active
+
+Owner:
+Purism SPC
+417 Associated Rd
+98199 Brea
+US
+Phone: +12139471032
+Email: todd@m2n.com
+
+Technical Contact:
+Todd Weaver
+Purism SPC
+417 Associated Rd
+98199 Brea
+US
+Phone: +12139471032
+Email: todd@m2n.com
+
+DNS Servers:
+ns1.puri.sm
+ns2.librem.one
+ns3.puri.st

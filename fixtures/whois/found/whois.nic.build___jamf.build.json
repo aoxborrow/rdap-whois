@@ -1,0 +1,36 @@
+{
+  "query": "jamf.build",
+  "server": "whois.nic.build",
+  "domainId": "D210573798-CNIC",
+  "domainName": "jamf.build",
+  "creationDate": "2015-09-08T21:02:32Z",
+  "expirationDate": "2027-09-08T23:59:59Z",
+  "updatedDate": "2026-11-19T15:54:33Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientRenewProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientRenewProhibited https://icann.org/epp#clientRenewProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited"
+  ],
+  "nameservers": [
+    "ns-118.awsdns-14.com",
+    "ns-983.awsdns-58.net",
+    "ns-1404.awsdns-47.org",
+    "ns-1952.awsdns-52.co.uk"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "146",
+  "registrarIanaId": 146,
+  "registrarName": "GoDaddy.com, LLC",
+  "registrarUrl": "https://www.godaddy.com",
+  "registrarAbuseEmail": "abuse@godaddy.com",
+  "registrarAbusePhone": "+1.4805058800",
+  "registrarWhoisServer": "whois.godaddy.com"
+}

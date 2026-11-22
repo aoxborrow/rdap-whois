@@ -1,0 +1,66 @@
+{
+  "query": "dns.samsung",
+  "server": "whois.nic.samsung",
+  "domainId": "D2-KNIC",
+  "domainName": "dns.samsung",
+  "creationDate": "2015-05-20T05:43:23Z",
+  "expirationDate": "2030-10-11T00:00:00Z",
+  "registrarExpirationDate": "2030-10-11T00:00:00Z",
+  "updatedDate": "2017-10-11T05:43:23Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#ok"
+  ],
+  "nameservers": [
+    "ns1.dns.samsung",
+    "ns2.dns.samsung"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrantId": "C1-KNIC",
+  "registrantName": "KNIC",
+  "registrantOrg": "KNIC",
+  "registrantAddress": [
+    "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu"
+  ],
+  "registrantCity": "Seoul",
+  "registrantPostalCode": "135798",
+  "registrantCountry": "KR",
+  "registrantPhone": "+82.15884259",
+  "registrantEmail": "info@yesnic.com",
+  "adminId": "C1-KNIC",
+  "adminName": "KNIC",
+  "adminOrg": "KNIC",
+  "adminAddress": [
+    "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu"
+  ],
+  "adminCity": "Seoul",
+  "adminPostalCode": "135798",
+  "adminCountry": "KR",
+  "adminPhone": "+82.15884259",
+  "adminEmail": "info@yesnic.com",
+  "techId": "C1-KNIC",
+  "techName": "KNIC",
+  "techOrg": "KNIC",
+  "techAddress": [
+    "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu"
+  ],
+  "techCity": "Seoul",
+  "techPostalCode": "135798",
+  "techCountry": "KR",
+  "techPhone": "+82.15884259",
+  "techEmail": "info@yesnic.com",
+  "billingId": "C1-KNIC",
+  "billingName": "KNIC",
+  "billingOrg": "KNIC",
+  "billingAddress": [
+    "9th fl, asem tower , Samseong 1(il)-dong , Gangnam-gu"
+  ],
+  "billingCity": "Seoul",
+  "billingPostalCode": "135798",
+  "billingCountry": "KR",
+  "billingPhone": "+82.15884259",
+  "billingEmail": "info@yesnic.com"
+}

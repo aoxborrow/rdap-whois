@@ -1,0 +1,5 @@
+###%%% QRY: co.ca
+###%%% SRV: whois.co.ca
+###%%% TME: 2026-07-14T10:43:01Z
+
+WHOIS only available for .CO.CA domains

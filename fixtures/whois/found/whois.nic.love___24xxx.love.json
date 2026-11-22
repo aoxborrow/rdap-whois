@@ -1,0 +1,28 @@
+{
+  "query": "24xxx.love",
+  "server": "whois.nic.love",
+  "domainId": "D205964273-CNIC",
+  "domainName": "24xxx.love",
+  "creationDate": "2020-10-26T18:35:09Z",
+  "expirationDate": "2027-10-26T23:59:59Z",
+  "updatedDate": "2026-10-25T00:00:38Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "nadia.ns.cloudflare.com",
+    "zeus.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "3862",
+  "registrarIanaId": 3862,
+  "registrarName": "Spaceship, Inc.",
+  "registrarUrl": "https://www.spaceship.com",
+  "registrarAbuseEmail": "abuse@spaceship.com",
+  "registrarAbusePhone": "+1.6027723958",
+  "registrarWhoisServer": "whois.spaceship.com"
+}

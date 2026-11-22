@@ -1,0 +1,47 @@
+###%%% QRY: api.tui
+###%%% SRV: whois.nic.tui
+###%%% TME: 2026-11-22T08:13:39Z
+
+Domain Name: API.TUI
+Registry Domain ID: D98159004-CNIC
+Registrar WHOIS Server: whois.rrpproxy.net
+Registrar URL: http://www.key-systems.net/
+Updated Date: 2026-02-16T03:56:16.0Z
+Creation Date: 2019-03-27T15:04:20.0Z
+Registry Expiry Date: 2027-03-27T23:59:59.0Z
+Registrar: Key-Systems GmbH
+Registrar IANA ID: 269
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: TUI AG
+Registrant Country: DE
+Registrant Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: NS01.BRANDSHELTER.COM
+Name Server: NS02.BRANDSHELTER.NET
+DNSSEC: unsigned
+Registrar Abuse Contact Email: registry@key-systems.net
+Registrar Abuse Contact Phone: +49.68949396850
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:13:38.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This data is provided by TUI REGISTRY for information purposes only in
+ accordance with the TUI REGISTRY TLD Privacy Policy. It is intended to
+ assist persons to obtain information about or related to domain name
+registration records. TUI REGISTRY does not guarantee its accuracy.
+By submitting this query, you agree to abide as follows:
+
+You agree to use this data only for lawful purposes and that under no
+ circumstances will you permit this data to
+1) allow, enable, or otherwise support the transmission of mass
+    unsolicited, commercial advertising or solicitations via e-mail,
+    telephone or fax (spam); nor
+2) enable high volume, automated, electronic processes to the systems
+    of TUI REGISTRY or Registrars, except as reasonably required to
+    register new domain names or modify existing registrations; nor
+3) will you generate a database of registered domain names and
+    registrant data.
+
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

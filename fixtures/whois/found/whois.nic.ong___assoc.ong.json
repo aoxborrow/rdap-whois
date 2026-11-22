@@ -1,0 +1,28 @@
+{
+  "query": "assoc.ong",
+  "server": "whois.nic.ong",
+  "domainId": "REDACTED",
+  "domainName": "assoc.ong",
+  "creationDate": "2019-05-07T15:46:24Z",
+  "expirationDate": "2027-05-07T15:46:24Z",
+  "updatedDate": "2026-08-12T03:25:43Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns3.agencia.ro",
+    "ns4.agencia.ro"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.7203101849",
+  "registrarWhoisServer": "http://whois.name.com"
+}

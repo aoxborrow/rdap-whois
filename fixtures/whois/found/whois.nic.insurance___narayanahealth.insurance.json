@@ -1,0 +1,52 @@
+{
+  "query": "narayanahealth.insurance",
+  "server": "whois.nic.insurance",
+  "domainId": "D8C0FF097CCFA42CFBDFF457F0821C196-GDREG",
+  "domainName": "narayanahealth.insurance",
+  "creationDate": "2023-09-22T09:47:47Z",
+  "expirationDate": "2027-09-22T09:47:47Z",
+  "updatedDate": "2026-09-15T10:40:21Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "ns1.narayanahealth.insurance",
+    "ns2.narayanahealth.insurance",
+    "ns3.narayanahealth.insurance"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "81",
+  "registrarIanaId": 81,
+  "registrarName": "Gandi SAS",
+  "registrarUrl": "https://whois.gandi.net",
+  "registrarAbuseEmail": "abuse@support.gandi.net",
+  "registrarAbusePhone": "+33.170377661",
+  "registrantId": "CFFDC6852D3C4462798C1CC67214773A7-GDREG",
+  "registrantName": "Jagadeesh Ramasamy",
+  "registrantOrg": "NARAYANA HEALTH INSURANCE LIMITED",
+  "registrantAddress": [
+    "261/A, 2nd Floor",
+    "Bommasandra Industrial Area, Road Anekal Thaluk"
+  ],
+  "registrantCity": "Bengaluru",
+  "registrantPostalCode": "560099",
+  "registrantCountry": "IN",
+  "registrantPhone": "+91.9740960121",
+  "registrantEmail": "infosec@narayanahealth.org",
+  "techId": "CFFDC6852D3C4462798C1CC67214773A7-GDREG",
+  "techName": "Jagadeesh Ramasamy",
+  "techOrg": "NARAYANA HEALTH INSURANCE LIMITED",
+  "techAddress": [
+    "261/A, 2nd Floor",
+    "Bommasandra Industrial Area, Road Anekal Thaluk"
+  ],
+  "techCity": "Bengaluru",
+  "techPostalCode": "560099",
+  "techCountry": "IN",
+  "techPhone": "+91.9740960121",
+  "techEmail": "infosec@narayanahealth.org"
+}

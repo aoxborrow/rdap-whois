@@ -1,0 +1,24 @@
+###%%% SRV: whois.jprs.jp
+###%%% SRC: weppos/whois-parser@bedb4a48b0c9b28dad1c18e5d2bd0f761642927c spec/fixtures/responses/whois.jprs.jp/jp/status_available.txt
+###%%% LIC: MIT — Copyright (c) 2009-2022 Simone Carletti
+###%%% NOTE: vendored fixture, frozen 2022 — validates the ENGINE, not today's registry output
+[ JPRS database provides information on network administration. Its use is    ]
+[ restricted to network administration purposes. For further information,     ]
+[ use 'whois -h whois.jprs.jp help'. To suppress Japanese output, add'/e'     ]
+[ at the end of command, e.g. 'whois -h whois.jprs.jp xxx/e'.                 ]
+
+No match!!
+
+With JPRS WHOIS, you can query the following domain name information
+sponsored by JPRS.
+    - All of registered JP domain name
+    - gTLD domain name of which sponsoring registrar is JPRS
+Detail: http://jprs.jp/about/dom-search/jprs-whois/ (only in Japanese)
+
+For IP address information, please refer to the following WHOIS servers:
+    - JPNIC WHOIS (whois.nic.ad.jp)
+    - APNIC WHOIS (whois.apnic.net)
+    - ARIN WHOIS (whois.arin.net)
+    - RIPE WHOIS (whois.ripe.net)
+    - LACNIC WHOIS (whois.lacnic.net)
+    - AfriNIC WHOIS (whois.afrinic.net)

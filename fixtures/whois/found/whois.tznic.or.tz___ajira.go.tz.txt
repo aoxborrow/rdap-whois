@@ -1,0 +1,44 @@
+###%%% QRY: ajira.go.tz
+###%%% SRV: whois.tznic.or.tz
+###%%% TME: 2026-07-16T11:45:41Z
+
+%  https://karibu.tz/media/WHOIS_TERMS_TOU.pdf
+% 
+% Whoisd Server Version: 3.15.0
+% Timestamp: Thu Jul 16 14:45:42 2026
+
+domain:       ajira.go.tz
+registrant:   REG-EGA
+admin-c:      EGA-GISUP
+nsset:        NS-EGANET.GO.TZ
+keyset:       AJIRA-KEY
+registrar:    REG-EGA
+registered:   27.01.2012 19:33:59
+changed:      15.11.2018 18:50:23
+expire:       27.01.2027
+
+contact:      REG-EGA
+registrar:    REG-EGA
+created:      28.03.2014 15:37:59
+changed:      22.02.2022 17:52:14
+
+contact:      EGA-GISUP
+registrar:    REG-EGA
+created:      12.11.2014 10:45:31
+changed:      22.02.2022 17:57:13
+
+nsset:        NS-EGANET.GO.TZ
+nserver:      ns3.eganet.go.tz (196.216.162.236, 2001:43f8:e0:2::236)
+nserver:      ns1.eganet.go.tz (154.118.231.82)
+nserver:      ns2.eganet.go.tz (154.118.230.88)
+tech-c:       EGA-GISUP
+registrar:    REG-EGA
+created:      02.12.2013 15:48:01
+changed:      23.03.2018 17:15:37
+
+keyset:       AJIRA-KEY
+dnskey:       257 3 13 KST6U1ZDyYA7ZVfUybA+bfVyUWdSRBvuN+1EWrnK2mOfKw4V+WuP0wcKOEktNT6Y23uUuWE76gOlilJowngfcA==
+tech-c:       EGA-GISUP
+registrar:    REG-EGA
+created:      15.11.2018 18:49:26
+changed:      02.05.2023 18:12:32

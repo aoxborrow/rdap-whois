@@ -1,0 +1,13 @@
+###%%% QRY: example.capetown
+###%%% SRV: whois.nic.capetown
+###%%% TME: 2026-07-14T13:51:36Z
+
+Reserved:    TLD Strings
+Domain Name: example.capetown
+
+>>> Last update of WHOIS database: 2026-07-14T13:51:38Z <<<
+
+# ZACR Policies and Procedures: https://zacities.africa/policies/
+# The use of this Whois facility is subject to the following terms and
+# conditions: https://zacities.africa/whois-terms-and-conditions/
+# Copyright ZACR (NPC) 1995-2026

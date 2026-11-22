@@ -1,0 +1,76 @@
+{
+  "query": "filmyzilla.net.bz",
+  "server": "whois.rrpproxy.net",
+  "domainId": "4b4fcf5709d54e76ac0e2c98615cde6c-DONUTS",
+  "domainName": "filmyzilla.net.bz",
+  "creationDate": "2025-01-29T16:19:29Z",
+  "expirationDate": "2026-01-29T16:19:29Z",
+  "registrarExpirationDate": "2026-01-29T16:19:29Z",
+  "updatedDate": "2025-01-29T16:22:06Z",
+  "eppStatus": [
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "isabel.ns.cloudflare.com",
+    "randy.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "269",
+  "registrarIanaId": 269,
+  "registrarName": "Key-Systems GmbH",
+  "registrarAbuseEmail": "abusereport@key-systems.net",
+  "registrarAbusePhone": "+49.68949396850",
+  "registrarWhoisServer": "whois.rrpproxy.net",
+  "registrantId": "Not Available From Registry",
+  "registrantName": "Domain Admin",
+  "registrantOrg": "Whois Privacy Corp.",
+  "registrantAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "registrantCity": "Nassau",
+  "registrantState": "New Providence",
+  "registrantPostalCode": "00000",
+  "registrantCountry": "BS",
+  "registrantPhone": "+1.5163872248",
+  "registrantEmail": "OWNER@filmyzilla.net.bz.customers.whoisprivacycorp.com",
+  "adminId": "Not Available From Registry",
+  "adminName": "Domain Admin",
+  "adminOrg": "Whois Privacy Corp.",
+  "adminAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "adminCity": "Nassau",
+  "adminState": "New Providence",
+  "adminPostalCode": "00000",
+  "adminCountry": "BS",
+  "adminPhone": "+1.5163872248",
+  "adminEmail": "ADMIN@filmyzilla.net.bz.customers.whoisprivacycorp.com",
+  "techId": "Not Available From Registry",
+  "techName": "Domain Admin",
+  "techOrg": "Whois Privacy Corp.",
+  "techAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "techCity": "Nassau",
+  "techState": "New Providence",
+  "techPostalCode": "00000",
+  "techCountry": "BS",
+  "techPhone": "+1.5163872248",
+  "techEmail": "TECH@filmyzilla.net.bz.customers.whoisprivacycorp.com",
+  "billingId": "Not Available From Registry",
+  "billingName": "Domain Admin",
+  "billingOrg": "Whois Privacy Corp.",
+  "billingAddress": [
+    "Ocean Centre, Montagu Foreshore, East Bay Street"
+  ],
+  "billingCity": "Nassau",
+  "billingState": "New Providence",
+  "billingPostalCode": "00000",
+  "billingCountry": "BS",
+  "billingPhone": "+1.5163872248",
+  "billingEmail": "BILLING@filmyzilla.net.bz.customers.whoisprivacycorp.com"
+}

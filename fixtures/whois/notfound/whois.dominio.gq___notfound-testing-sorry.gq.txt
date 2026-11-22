@@ -1,0 +1,7 @@
+###%%% QRY: notfound-testing-sorry.gq
+###%%% SRV: whois.dominio.gq
+###%%% TME: 2025-03-20T18:21:41Z
+
+The domain you requested is not known in Freenoms database.
+
+This TLD has no whois server.

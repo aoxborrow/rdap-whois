@@ -1,0 +1,5 @@
+###%%% QRY: notfound-testing-sorry.gg
+###%%% SRV: whois.gg
+###%%% TME: 2025-03-20T18:14:42Z
+
+NOT FOUND

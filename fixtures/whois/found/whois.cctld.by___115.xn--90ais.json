@@ -1,0 +1,21 @@
+{
+  "query": "115.xn--90ais",
+  "server": "whois.cctld.by",
+  "domainName": "115.бел",
+  "creationDate": "2015-07-22T00:00:00Z",
+  "expirationDate": "2027-07-22T00:00:00Z",
+  "updatedDate": "2025-07-07T00:00:00Z",
+  "nameservers": [
+    "ns1.it-minsk.by",
+    "ns2.it-minsk.by"
+  ],
+  "registrarName": "Reliable Software, Ltd",
+  "registrantId": "190095031",
+  "registrantOrg": "Коммунальное унитарное предприятие \"Центр информационных технологий Мингорисполкома\"",
+  "registrantAddress": [
+    "220007, -, г. Минск, ул. Московская, д. 9/25, -"
+  ],
+  "registrantCountry": "BY",
+  "registrantPhone": "+375172158879",
+  "registrantEmail": "sglem@it-minsk.by"
+}

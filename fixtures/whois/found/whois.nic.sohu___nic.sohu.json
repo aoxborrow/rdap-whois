@@ -1,0 +1,71 @@
+{
+  "query": "nic.sohu",
+  "server": "whois.nic.sohu",
+  "domainId": "D20140328G10001G_08728627-sohu",
+  "domainName": "nic.sohu",
+  "creationDate": "2014-03-28T10:41:37Z",
+  "expirationDate": "2031-03-28T10:41:37Z",
+  "updatedDate": "2023-06-19T06:35:50Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "ok https://icann.org/epp#OK"
+  ],
+  "nameservers": [
+    "ns11.sohu.com",
+    "ns12.sohu.com",
+    "ns13.sohu.com",
+    "ns14.sohu.com",
+    "ns15.sohu.com",
+    "ns16.sohu.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1723",
+  "registrarIanaId": 1723,
+  "registrarName": "zdns",
+  "registrarUrl": "http://www.zdns.cn",
+  "registrarAbuseEmail": "tech-support@zdns.cn",
+  "registrarAbusePhone": "+86.01058813521",
+  "registrarWhoisServer": "whois.gtld.knet.cn",
+  "registrantId": "C20230619C_81406692-sohu",
+  "registrantName": "WangHuiZhen",
+  "registrantOrg": "BeiJingSouHuXinMeiTiXinXiJiShuYouXianGongSi",
+  "registrantAddress": [
+    "HaiDianQuKeXueYuanNanLu2HaoYuan3HaoLouSouHuMeiTiDaXia"
+  ],
+  "registrantCity": "BeiJing",
+  "registrantState": "BeiJing",
+  "registrantPostalCode": "100190",
+  "registrantCountry": "CN",
+  "registrantPhone": "+86.01056602146",
+  "registrantFax": "+86.01056602146",
+  "registrantEmail": "huizhenwang@sohu-inc.com",
+  "adminId": "C20230619C_81406692-sohu",
+  "adminName": "WangHuiZhen",
+  "adminOrg": "BeiJingSouHuXinMeiTiXinXiJiShuYouXianGongSi",
+  "adminAddress": [
+    "HaiDianQuKeXueYuanNanLu2HaoYuan3HaoLouSouHuMeiTiDaXia"
+  ],
+  "adminCity": "BeiJing",
+  "adminState": "BeiJing",
+  "adminPostalCode": "100190",
+  "adminCountry": "CN",
+  "adminPhone": "+86.01056602146",
+  "adminFax": "+86.01056602146",
+  "adminEmail": "huizhenwang@sohu-inc.com",
+  "techId": "C20230619C_81406692-sohu",
+  "techName": "WangHuiZhen",
+  "techOrg": "BeiJingSouHuXinMeiTiXinXiJiShuYouXianGongSi",
+  "techAddress": [
+    "HaiDianQuKeXueYuanNanLu2HaoYuan3HaoLouSouHuMeiTiDaXia"
+  ],
+  "techCity": "BeiJing",
+  "techState": "BeiJing",
+  "techPostalCode": "100190",
+  "techCountry": "CN",
+  "techPhone": "+86.01056602146",
+  "techFax": "+86.01056602146",
+  "techEmail": "huizhenwang@sohu-inc.com"
+}

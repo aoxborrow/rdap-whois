@@ -1,0 +1,37 @@
+{
+  "query": "mp4moviez.gent",
+  "server": "whois.nic.gent",
+  "domainId": "D525298470-CNIC",
+  "domainName": "mp4moviez.gent",
+  "creationDate": "2025-02-08T14:43:44Z",
+  "expirationDate": "2026-02-08T23:59:59Z",
+  "updatedDate": "2025-02-08T14:43:48Z",
+  "eppStatus": [
+    "clientTransferProhibited",
+    "serverTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "serverTransferProhibited https://icann.org/epp#serverTransferProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "jerry.ns.cloudflare.com",
+    "teagan.ns.cloudflare.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "625",
+  "registrarIanaId": 625,
+  "registrarName": "Name.com, Inc.",
+  "registrarUrl": "http://www.name.com",
+  "registrarAbuseEmail": "abuse@name.com",
+  "registrarAbusePhone": "+1.4252982607",
+  "registrarWhoisServer": "whois.name.com",
+  "registrantOrg": "Domain Protection Services, Inc.",
+  "registrantState": "CO",
+  "registrantCountry": "US",
+  "registrantEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "adminEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "techEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.",
+  "billingEmail": "Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name."
+}

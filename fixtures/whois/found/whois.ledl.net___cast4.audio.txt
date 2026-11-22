@@ -1,0 +1,61 @@
+###%%% QRY: cast4.audio
+###%%% SRV: whois.ledl.net
+###%%% TME: 2026-11-22T08:08:00Z
+
+Domain Name: CAST4.AUDIO
+Registrar WHOIS Server: whois.ledl.net
+Registrar URL: http://www.ledl.net/
+Updated Date: 2017-05-19T08:47:54Z
+Creation Date: 2016-01-03T22:15:04Z
+Registrar Registration Expiration Date: 2027-01-03T23:59:59Z
+Registrar: Ledl.net GmbH & Co KG
+Registrar IANA ID: 809
+Registrar Abuse Contact Email: abuse@ledl.net 
+Registrar Abuse Contact Phone: +43.621520888999
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Country: AT
+Registrant Email: https://whois.ledl.net/contact
+Name Server: ns1.domaintechnik.at
+Name Server: ns2.domaintechnik.at
+Name Server: ns3.domaintechnik.at
+Name Server: ns4.domaintechnik.at
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2026-11-22T08:08:00Z <<<
+
+This is the Ledl.net GmbH & Co KG Registrar RDDS server
+
+It is not allowed to use this information of Ledl.net GmbH & Co KG's RDDS database
+by any means of electronic processes in any form for reproducing, storing
+or transmitting data, except as reasonably necessary to register domains
+or modify existing registrations. The data is provided by Ledl.net GmbH & Co KG
+for information purposes only, and to assist persons in obtaining
+information on or related to a domain name registration record.
+Ledl.net GmbH & Co KG does not guarantee its accuracy.
+
+The Ledl.net RDDS server shows information about the registrant of a
+particular domain name as well as other information about the domain name.
+Some of this information is maintained by Ledl.net GmbH & Co KG and some is
+maintained by the Registry Operator. Only domain names that are registered by
+Ledl.net GmbH & Co KG show up here. Names that are maintained by other Registrars will
+not appear in the Ledl.net GmbH & Co KG RDDS, even though they are already registered.
+
+By submitting a RDDS query, you agree to abide by the following TERMS OF USE:
+You are not authorized to access or query our RDDS database through the use
+of electronic processes that are high-volume and automated except as
+reasonably necessary to register domain names or modify existing
+registrations;
+By submitting a RDDS query, you agree to use this Data only for lawful
+purposes and that under no circumstances you will use this Data to:
+  allow, enable, or otherwise support the transmission of mass
+  unsolicited, commercial advertising or solicitations via e-mail,
+  telephone, or facsimile; or
+The compilation, repackaging, dissemination or other use of this
+Data is expressly prohibited without the prior written
+consent of Ledl.net GmbH & Co KG.
+You agree not to use electronic processes that are automated
+and high-volume to access or query the RDDS database except as
+reasonably necessary to register domain names or modify existing
+registrations.

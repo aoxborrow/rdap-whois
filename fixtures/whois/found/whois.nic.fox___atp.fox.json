@@ -1,0 +1,38 @@
+{
+  "query": "atp.fox",
+  "server": "whois.nic.fox",
+  "domainId": "DA102C9C6790A47BA83AF2DEA9AFE7257-NSR",
+  "domainName": "atp.fox",
+  "creationDate": "2021-02-19T20:29:15Z",
+  "expirationDate": "2027-02-19T20:29:15Z",
+  "updatedDate": "2026-03-05T23:39:53Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited",
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns01.dns.fox",
+    "ns01.foxdoua.com",
+    "ns02.dns.fox",
+    "ns02.foxdoua.com",
+    "ns03.dns.fox",
+    "ns03.foxdoua.com",
+    "ns04.dns.fox",
+    "ns04.foxdoua.com"
+  ],
+  "dnssec": true,
+  "dnssecRaw": "signedDelegation",
+  "registrarId": "3786",
+  "registrarIanaId": 3786,
+  "registrarName": "GoDaddy Corporate Domains, LLC",
+  "registrarUrl": "https://www.brandsight.com",
+  "registrarAbuseEmail": "abuse@brandsight.com",
+  "registrarAbusePhone": "+1.5182900169",
+  "registrarWhoisServer": "https://brandsight.com/whois"
+}

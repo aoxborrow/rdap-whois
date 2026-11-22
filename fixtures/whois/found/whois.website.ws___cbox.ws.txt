@@ -1,0 +1,23 @@
+###%%% QRY: cbox.ws
+###%%% SRV: whois.website.ws
+###%%% TME: 2026-07-16T23:58:37Z
+
+Domain Name: CBOX.WS
+Domain ID: D865CD2B67F3835CE040010AAB015FFF-GDI
+WHOIS Server: whois.domainsite.com
+Registrar URL:  
+Updated Date: 2026-06-09T07:29:24Z
+Creation Date: 2005-06-24T23:43:56Z
+Registrar Registration Expiration Date: 2027-06-24T23:43:56Z
+Registrar: DomainSite
+Registrar IANA ID: 104
+Registrar Abuse Contact Email: support@domainsite.com
+Registrar Abuse Contact Phone: 303-364-3669
+Domain Status: clientTransferProhibited
+Name Server: dora.ns.cloudflare.com
+Name Server: ed.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2026-07-16T23:58:38Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

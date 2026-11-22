@@ -1,0 +1,30 @@
+{
+  "domainId": "52252-niccv",
+  "domainName": "google.cv",
+  "creationDate": "2024-06-13T20:18:02Z",
+  "expirationDate": "2025-06-14T00:00:00Z",
+  "registrarExpirationDate": "2025-06-14T00:00:00Z",
+  "updatedDate": "2025-02-27T11:51:46Z",
+  "eppStatus": [
+    "ok"
+  ],
+  "eppStatusRaw": [
+    "active https://icann.org/epp#active"
+  ],
+  "nameservers": [
+    "ns1.google.com",
+    "ns2.google.com",
+    "ns3.google.com",
+    "ns4.google.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarName": "OlaCV Registrar",
+  "registrarAddress": [
+    "3A, Olumuyiwa Street",
+    "Omole Phase 1",
+    "Lagos"
+  ],
+  "registrarEmail": "admin@olacv.com",
+  "registrantName": "Google Inc"
+}

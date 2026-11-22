@@ -1,0 +1,105 @@
+###%%% QRY: nyan.cat
+###%%% SRV: whois.nic.cat
+###%%% TME: 2026-11-22T08:13:40Z
+
+Domain Name: nyan.cat
+Registry Domain ID: 826532-D
+Registrar WHOIS Server: whois.gandi.net
+Registrar URL: https://www.gandi.net/
+Updated Date: 2026-03-31T15:41:23.324Z
+Creation Date: 2011-04-13T19:52:17.635Z
+Registry Expiry Date: 2035-04-13T19:52:17.635Z
+Registrar Registration Expiration Date: 
+Registrar: GANDI SAS
+Registrar IANA ID: 81
+Registrar Abuse Contact Email: abuse@support.gandi.net
+Registrar Abuse Contact Phone: +33.170377661
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: 
+Registrant Street: 
+Registrant City: 
+Registrant State/Province: TX
+Registrant Postal Code: 
+Registrant Country: US
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Admin ID: 
+Admin Name: 
+Admin Organization: 
+Admin Street: 
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 
+Admin Country: 
+Admin Phone: 
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Tech ID: 
+Tech Name: 
+Tech Organization: 
+Tech Street: 
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: 
+Tech Phone: 
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Registry Billing ID: 
+Billing Name: 
+Billing Organization: 
+Billing Street: 
+Billing City: 
+Billing State/Province: 
+Billing Postal Code: 
+Billing Country: 
+Billing Phone: 
+Billing Phone Ext: 
+Billing Fax: 
+Billing Fax Ext: 
+Billing Email: Please query the Whois service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
+Name Server: ns1.dreamhost.com
+Name Server: ns2.dreamhost.com
+Name Server: ns3.dreamhost.com
+DNSSEC: unsigned
+IDN Tag:
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of Whois database: 2026-11-22T08:13:05.480Z <<<
+
+For more information on domain status codes, please visit https://icann.org/epp
+
+Terms and Conditions of Use
+
+The data in this record is provided by puntCAT for informational
+purposes only. puntCAT does not guarantee its accuracy and cannot,
+under any circumstances, be held liable in case the stored information would
+prove to be wrong, incomplete or not accurate in any sense.
+
+All the domain data that is visible in the Whois service is protected by
+law. It is not permitted to use it for any purpose other than technical or
+administrative requirements associated with the operation of the Internet.
+It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+form and by any means (electronically or not) the whole or a quantitatively
+or qualitatively substantial part of the contents of the Whois database
+without prior and explicit written permission by puntCAT It is
+prohibited, in particular, to use it for transmission of unsolicited and/or
+commercial and/or advertising by phone, fax, e-mail or for any similar
+purposes.
+
+By maintaining the connection you assure that you have a legitimate interest
+in the data and that you will only use it for the stated purposes. You are
+aware that puntCAT maintains the right to initiate legal
+proceedings against you in the event of any breach of this assurance and to
+bar you from using its Whois service.
+
+End of Whois record.

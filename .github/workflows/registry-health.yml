@@ -1,0 +1,289 @@
+name: Registry Health
+
+# The weekly registry-health run (docs: CONTRIBUTING.md, "Registry health"). Three jobs, so
+# the data refresh and the alerting are separate:
+#
+#   refresh  probes every WHOIS server and RDAP base, refreshes the registry truth (IANA and
+#            the RDAP bootstrap files), runs the parser regression and the cross-checks,
+#            keeps the state (failure counters, known differences, throttling), regenerates
+#            the routing table and the coverage page, runs the offline checks on the result,
+#            and opens or updates one rolling pull request with the data diff and the report.
+#            When the offline checks pass and the repository variable REGISTRY_DATA_AUTOMERGE
+#            is 'true', the pull request merges itself once its required checks pass.
+#            Merging it each week is what lets the failure counters build up.
+#   alert    an actionable regression (an outage with no RDAP to fall back on, a top-100
+#            parser regression, a new top-100 parser disagreement two oracles share) or a
+#            failed run opens or updates one `registry-health` issue; a clean run closes it.
+#   live     the live suite: a few real lookups end to end. A failure opens or updates one
+#            `live-suite` issue.
+#
+# Secrets: PROXY_USERNAME_DEFAULT and PROXY_PASSWORD_DEFAULT (the rotating proxy the probes
+# go through; registries rate-limit datacenter addresses), and optionally
+# REGISTRY_HEALTH_TOKEN (a token allowed to push and open pull requests, so the weekly pull
+# request's own checks run). This workflow has no pull_request trigger, so a fork's pull
+# request can never reach the secrets; and the repository check below keeps a fork's
+# copy of the schedule from running without them.
+#
+# workflow_dispatch has a `dry_run`: a quick report-only sample that writes nothing, opens
+# no pull request and touches no issue.
+
+on:
+  schedule:
+    # Mondays 13:00 UTC
+    - cron: '0 13 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Quick report-only sample: writes nothing, opens no pull request or issue.'
+        type: boolean
+        required: false
+        default: false
+      sample:
+        description: 'dry_run only: servers to probe per lane.'
+        required: false
+        default: '10'
+
+# write to push the rolling branch, open or update the pull request, and open or close
+# the issues
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+concurrency:
+  group: registry-health-${{ github.ref }}
+  cancel-in-progress: true
+
+env:
+  HEALTH_DIR: registry-health
+
+jobs:
+  refresh:
+    if: github.repository == 'aoxborrow/rdap-whois'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    outputs:
+      red: ${{ steps.health.outputs.red }}
+      checks: ${{ steps.checks.outputs.passed }}
+      pr: ${{ steps.pr.outputs.pull-request-number }}
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: 'npm'
+
+      - name: Install dependencies (from the lockfile)
+        run: npm ci
+
+      # the Go and Ruby parser oracles the WHOIS cross-check compares against (whoiser, the
+      # third, is an npm devDependency). These toolchains exist only in this job, pinned by
+      # the committed go.sum and Gemfile.lock
+      - name: Setup Go (likexian oracle)
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: scripts/whois/oracles/likexian/go.mod
+          cache-dependency-path: scripts/whois/oracles/likexian/go.sum
+
+      - name: Build likexian oracle
+        run: go build -o likexian-oracle .
+        working-directory: scripts/whois/oracles/likexian
+
+      - name: Setup Ruby (weppos oracle)
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Cache weppos oracle gems
+        uses: actions/cache@v4
+        with:
+          path: scripts/whois/oracles/weppos/vendor/bundle
+          key: weppos-gems-${{ runner.os }}-${{ hashFiles('scripts/whois/oracles/weppos/Gemfile.lock') }}
+
+      - name: Install weppos oracle gems
+        run: bundle install
+        working-directory: scripts/whois/oracles/weppos
+        env:
+          BUNDLE_PATH: vendor/bundle
+
+      # the run exits non-zero on an actionable regression; that becomes the `red` output
+      # for the alert job instead of failing this one, and every data write happens before
+      # that exit, so the pull request below still carries the full tree
+      - name: Run registry health
+        id: health
+        env:
+          DRY_RUN: ${{ inputs.dry_run }}
+          SAMPLE: ${{ inputs.sample || '10' }}
+          PROXY_USERNAME_DEFAULT: ${{ secrets.PROXY_USERNAME_DEFAULT }}
+          PROXY_PASSWORD_DEFAULT: ${{ secrets.PROXY_PASSWORD_DEFAULT }}
+        run: |
+          set +e
+          if [ "$DRY_RUN" = "true" ]; then
+            echo "dry run: report-only sample of $SAMPLE per lane, no writes"
+            npm run registry:health -- --report-only --skip-refresh --sample "$SAMPLE"
+          else
+            echo "full sweep: every server, registry truth refreshed, state kept"
+            npm run registry:health
+          fi
+          code=$?
+          if [ "$code" -eq 0 ]; then echo "red=false" >> "$GITHUB_OUTPUT"; else echo "red=true" >> "$GITHUB_OUTPUT"; fi
+          echo "registry:health exited $code"
+          exit 0
+
+      - name: Write job summary
+        if: always()
+        run: |
+          REPORT="$HEALTH_DIR/report.md"
+          if [ -f "$REPORT" ]; then
+            cat "$REPORT" >> "$GITHUB_STEP_SUMMARY"
+          else
+            echo "No report produced (the run failed before the report stage)." >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      # the coverage page follows the routing data and the health state just written
+      - name: Regenerate the coverage page
+        if: inputs.dry_run != true
+        run: npm run coverage
+
+      # the offline checks a data change must pass to merge on its own. Nothing here
+      # touches the network
+      - name: Offline checks on the refreshed data
+        id: checks
+        if: inputs.dry_run != true
+        run: |
+          set +e
+          npm run typecheck && npm test
+          if [ $? -eq 0 ]; then echo "passed=true" >> "$GITHUB_OUTPUT"; else echo "passed=false" >> "$GITHUB_OUTPUT"; fi
+          exit 0
+
+      # only the health output, the routing data, the generated tables, the coverage page
+      # and the README's numbers are committed, never anything else the run touched. A pull request opened with
+      # the default token starts no workflows, so its required checks would never report;
+      # REGISTRY_HEALTH_TOKEN lets them run
+      - name: Open or update the weekly pull request
+        id: pr
+        if: always() && inputs.dry_run != true
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ secrets.REGISTRY_HEALTH_TOKEN || secrets.GITHUB_TOKEN }}
+          branch: registry-health/weekly
+          base: main
+          title: 'Registry health: weekly update'
+          commit-message: 'chore(registry-health): weekly state refresh'
+          body-path: registry-health/report.md
+          labels: registry-health
+          delete-branch: false
+          add-paths: |
+            registry-health/**
+            data/whois/**
+            data/rdap/**
+            src/whois/generated/**
+            docs/coverage.md
+            README.md
+
+      - name: Let the pull request merge on green
+        if: >-
+          inputs.dry_run != true && steps.checks.outputs.passed == 'true' &&
+          steps.pr.outputs.pull-request-number != '' && vars.REGISTRY_DATA_AUTOMERGE == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.REGISTRY_HEALTH_TOKEN || secrets.GITHUB_TOKEN }}
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+        run: gh pr merge "$PR" --auto --squash --repo "$GITHUB_REPOSITORY"
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: registry-health-report
+          path: |
+            registry-health/report.md
+            registry-health/decisions.json
+            registry-health/throttling.json
+          if-no-files-found: warn
+          retention-days: 90
+
+  alert:
+    needs: refresh
+    if: always() && inputs.dry_run != true && github.repository == 'aoxborrow/rdap-whois'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      # one open issue at a time: created by the first red run, commented on by each later
+      # one, closed by the first clean one. A refresh job that failed outright counts as red
+      - name: Report regressions as an issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RED: ${{ needs.refresh.outputs.red == 'true' || needs.refresh.result != 'success' }}
+          CHECKS: ${{ needs.refresh.outputs.checks }}
+          PR: ${{ needs.refresh.outputs.pr }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Registry health: actionable regression"
+          gh label create registry-health --repo "$GITHUB_REPOSITORY" --color d93f0b 2>/dev/null || true
+          OPEN=$(gh issue list --repo "$GITHUB_REPOSITORY" --label registry-health --state open \
+            --search "in:title \"$TITLE\"" --json number --jq '.[0].number // empty')
+          if [ "$RED" = "true" ]; then
+            BODY="The weekly registry-health run found an outage with no RDAP fallback, or a top-100 parser or oracle regression, or did not finish. Run: $RUN_URL${PR:+ · weekly pull request: #$PR}"
+            if [ "$CHECKS" = "false" ]; then BODY="$BODY (the refreshed data failed the offline checks)"; fi
+            if [ -n "$OPEN" ]; then
+              gh issue comment "$OPEN" --repo "$GITHUB_REPOSITORY" --body "$BODY"
+            else
+              gh issue create --repo "$GITHUB_REPOSITORY" --title "$TITLE" --label registry-health --body "$BODY"
+            fi
+          elif [ -n "$OPEN" ]; then
+            gh issue close "$OPEN" --repo "$GITHUB_REPOSITORY" --comment "Clean run: $RUN_URL"
+          fi
+
+  live:
+    if: inputs.dry_run != true && github.repository == 'aoxborrow/rdap-whois'
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+
+      - name: Setup Node.js 24
+        uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: 'npm'
+
+      - name: Install dependencies (from the lockfile)
+        run: npm ci
+
+      - name: Run the live suite
+        id: suite
+        env:
+          LIVE: '1'
+        run: |
+          set +e
+          npm test -- test/live.test.ts test/scripts/rdap/redirect.test.ts
+          if [ $? -eq 0 ]; then echo "passed=true" >> "$GITHUB_OUTPUT"; else echo "passed=false" >> "$GITHUB_OUTPUT"; fi
+          exit 0
+
+      - name: Report a failing live suite as an issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PASSED: ${{ steps.suite.outputs.passed }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          TITLE="Live suite failing"
+          gh label create live-suite --repo "$GITHUB_REPOSITORY" --color d93f0b 2>/dev/null || true
+          OPEN=$(gh issue list --repo "$GITHUB_REPOSITORY" --label live-suite --state open \
+            --search "in:title \"$TITLE\"" --json number --jq '.[0].number // empty')
+          if [ "$PASSED" != "true" ]; then
+            BODY="The weekly live lookups failed. Run: $RUN_URL"
+            if [ -n "$OPEN" ]; then
+              gh issue comment "$OPEN" --repo "$GITHUB_REPOSITORY" --body "$BODY"
+            else
+              gh issue create --repo "$GITHUB_REPOSITORY" --title "$TITLE" --label live-suite --body "$BODY"
+            fi
+          elif [ -n "$OPEN" ]; then
+            gh issue close "$OPEN" --repo "$GITHUB_REPOSITORY" --comment "Passing again: $RUN_URL"
+          fi

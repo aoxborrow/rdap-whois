@@ -1,0 +1,76 @@
+{
+  "query": "story.capetown",
+  "server": "whois.lexsynergy.com",
+  "domainId": "DOM_8CZ-CAPETOWN",
+  "domainName": "story.capetown",
+  "creationDate": "2020-09-28T12:38:52Z",
+  "expirationDate": "2025-09-28T12:38:52Z",
+  "registrarExpirationDate": "2025-09-28T12:38:52Z",
+  "updatedDate": "2024-08-07T06:20:58Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited",
+    "clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited",
+    "clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited"
+  ],
+  "nameservers": [
+    "ns1.gummy.co.za",
+    "ns2.gummy.co.za"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1466",
+  "registrarIanaId": 1466,
+  "registrarName": "Lexsynergy Limited",
+  "registrarReseller": "Cybersmart Pty (Ltd)",
+  "registrarUrl": "http://www.lexsynergy.com",
+  "registrarAbuseEmail": "abuse@lexsynergy.com",
+  "registrarAbusePhone": "+44.2031370459",
+  "registrarWhoisServer": "whois.lexsynergy.com",
+  "registrantName": "REDACTED FOR PRIVACY",
+  "registrantOrg": "Calothi Technologies CC",
+  "registrantAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "registrantCity": "REDACTED FOR PRIVACY",
+  "registrantState": "Rondebosch",
+  "registrantPostalCode": "REDACTED FOR PRIVACY",
+  "registrantCountry": "ZA",
+  "registrantPhone": "REDACTED FOR PRIVACY",
+  "registrantPhoneExt": "REDACTED FOR PRIVACY",
+  "registrantFax": "REDACTED FOR PRIVACY",
+  "registrantFaxExt": "REDACTED FOR PRIVACY",
+  "registrantEmail": "support@gummy.co.za",
+  "adminName": "REDACTED FOR PRIVACY",
+  "adminOrg": "REDACTED FOR PRIVACY",
+  "adminAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "adminCity": "REDACTED FOR PRIVACY",
+  "adminState": "REDACTED FOR PRIVACY",
+  "adminPostalCode": "REDACTED FOR PRIVACY",
+  "adminCountry": "REDACTED FOR PRIVACY",
+  "adminPhone": "REDACTED FOR PRIVACY",
+  "adminPhoneExt": "REDACTED FOR PRIVACY",
+  "adminFax": "REDACTED FOR PRIVACY",
+  "adminFaxExt": "REDACTED FOR PRIVACY",
+  "adminEmail": "support@gummy.co.za",
+  "techName": "REDACTED FOR PRIVACY",
+  "techOrg": "REDACTED FOR PRIVACY",
+  "techAddress": [
+    "REDACTED FOR PRIVACY"
+  ],
+  "techCity": "REDACTED FOR PRIVACY",
+  "techState": "REDACTED FOR PRIVACY",
+  "techPostalCode": "REDACTED FOR PRIVACY",
+  "techCountry": "REDACTED FOR PRIVACY",
+  "techPhone": "REDACTED FOR PRIVACY",
+  "techPhoneExt": "REDACTED FOR PRIVACY",
+  "techFax": "REDACTED FOR PRIVACY",
+  "techFaxExt": "REDACTED FOR PRIVACY",
+  "techEmail": "support@gummy.co.za"
+}
