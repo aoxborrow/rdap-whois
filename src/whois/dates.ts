@@ -117,7 +117,7 @@ const UTC_OFFSET_SUFFIX = /\(UTC([+-]\d{1,2})(?::?(\d{2}))?\)/i;
 // an ISO 8601 date and time with its zone, which says the instant exactly
 const ISO_WITH_ZONE = /^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}:\d{2}(\.\d+)?(Z|[+-]\d{2}:?\d{2})$/i;
 
-// parse date strings using date-fns and lots of formats
+/** parse date strings using date-fns and lots of formats */
 export function parseDate(value: string, options?: ParserOptions): Date | null {
   if (!value) return null;
   const text = value.trim().toUpperCase();

@@ -49,7 +49,9 @@ each entry point loads: the root no WHOIS parser and no date parsing, `/utils` n
 code. `/utils` is built without shared chunks, and nothing it loads may import tldts,
 punycode, ipaddr.js or html-entities (none is marked free of side effects, so a bundler would
 keep all of each); `check:pack` fails when one constant from it bundles to more than 10 kB.
-Comments are `//`, never `/** */`.
+Comments on exported declarations and their members (options, result and record types,
+errors, public functions and methods) are `/** */`, so they reach the type declarations and
+show in editor hovers; every other comment is `//`.
 
 The maintainers' tooling (registry health, discovery, the oracles) is described in
 [docs/registry-health.md](./docs/registry-health.md).

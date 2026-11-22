@@ -55,9 +55,11 @@ function selectPreferred(items: VcardProperty[]): VcardProperty | undefined {
   return itemsWithPref[0];
 }
 
-// Read a jCard (RFC 7095), as an RDAP entity's vcardArray holds it, into its common fields.
-// Returns null when it has nothing but a version, and throws when it is not a jCard with a
-// version
+/**
+ * Read a jCard (RFC 7095), as an RDAP entity's vcardArray holds it, into its common fields.
+ * Returns null when it has nothing but a version, and throws when it is not a jCard with a
+ * version
+ */
 export function parseToVcardSimple(rawVcard: unknown): RdapVcardSimple | null {
   if (
     !Array.isArray(rawVcard) ||

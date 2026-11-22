@@ -18,7 +18,7 @@ import {
   registrarHasData,
 } from './utils';
 
-// what the transforms read from one server's answer: the query, and the data parsed from it
+/** what the transforms read from one server's answer: the query, and the data parsed from it */
 export interface RdapRecordSource {
   query: string;
   queryType: string;
@@ -28,11 +28,11 @@ export interface WhoisRecordSource {
   query: string;
   queryType: string;
   data?: WhoisDataType;
-  // whether the parser read the response as a name the registry withholds
+  /** whether the parser read the response as a name the registry withholds */
   reserved?: boolean;
 }
 
-// transform rdap domain data to domain data
+/** transform rdap domain data to domain data */
 export function transformRdapDomainData(result: RdapRecordSource): DomainData {
   // ensure we have a domain result
   if (result.queryType !== 'domain' || !result.data) {
@@ -107,7 +107,7 @@ export function transformRdapDomainData(result: RdapRecordSource): DomainData {
   return domainData;
 }
 
-// transform whois domain data to domain data
+/** transform whois domain data to domain data */
 export function transformWhoisDomainData(result: WhoisRecordSource): DomainData {
   // ensure we have a domain result
   if (result.queryType !== 'domain' || !result.data) {

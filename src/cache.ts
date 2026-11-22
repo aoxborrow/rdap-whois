@@ -4,7 +4,7 @@
 import type { CacheKey, CachedHops, HopCache } from './core';
 
 export interface MemoryCacheOptions {
-  // the most protocol lookups to keep. Default 1000
+  /** the most protocol lookups to keep. Default 1000 */
   max?: number;
 }
 
@@ -18,8 +18,10 @@ interface Entry {
 const entryId = (key: CacheKey): string =>
   JSON.stringify([key.protocol, key.server, key.queryType, key.query, key.encoding ?? null]);
 
-// The hops are copied going in and coming out, so a caller that changes the hops it was
-// given cannot change what the cache answers next time
+/**
+ * The hops are copied going in and coming out, so a caller that changes the hops it was
+ * given cannot change what the cache answers next time
+ */
 export function memoryCache(options: MemoryCacheOptions = {}): HopCache {
   const max = options.max ?? 1000;
   if (!(max >= 1)) throw new RangeError(`max must be 1 or more, not ${max}`);

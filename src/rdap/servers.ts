@@ -63,13 +63,15 @@ export function getRdapSubZones(): string[] {
   return (dnsCache ??= new DnsServerCache()).subZones();
 }
 
-// the service provider tags IANA's object-tags file knows (the "ARIN" in "NET-ARIN"), each
-// with the RDAP server for handles carrying it
+/**
+ * the service provider tags IANA's object-tags file knows (the "ARIN" in "NET-ARIN"), each
+ * with the RDAP server for handles carrying it
+ */
 export function getRdapEntityTags(): [string, string][] {
   return entities().entries();
 }
 
-// get the server type, e.g. iana, registry, registrar
+/** get the server type, e.g. iana, registry, registrar */
 export function getServerType(
   queryType: RdapQueryType,
   query: string,
@@ -107,7 +109,7 @@ export function getServerType(
   return UNKNOWN_SERVER_TYPE;
 }
 
-// the RDAP server to ask for a query, as a base URL, or null when none is known
+/** the RDAP server to ask for a query, as a base URL, or null when none is known */
 export function getRdapServer(queryType: RdapQueryType, query: string): string | null {
   // a bare TLD is IANA's to answer
   if (queryType === DOMAIN_QUERY_TYPE && !query.includes('.')) {

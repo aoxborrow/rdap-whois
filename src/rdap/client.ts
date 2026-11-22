@@ -58,16 +58,18 @@ import {
 import { validateRdapDomain } from './validate';
 
 export interface RdapCallOptions extends CallOptions {
-  // ask this server instead of the one the bootstrap data names, as a base URL
+  /** ask this server instead of the one the bootstrap data names, as a base URL */
   server?: string;
-  // what the query is, when it should not be worked out from its text
+  /** what the query is, when it should not be worked out from its text */
   queryType?: QueryType;
 }
 
-// one server's part in an RDAP lookup. `status` says what the rest holds: an answer always
-// has `data`, and a failed hop always has `error`
+/**
+ * one server's part in an RDAP lookup. `status` says what the rest holds: an answer always
+ * has `data`, and a failed hop always has `error`
+ */
 export type RdapHop = {
-  // the server's base URL
+  /** the server's base URL */
   server: string;
   serverType: RdapServerType;
   // the URL that was requested

@@ -22,62 +22,84 @@ import type { WhoisHop } from './whois/client';
 // options
 // ---------------------------------------------------------------------------------------
 
-// what a caller passes to a client: every option is optional, and one left out takes its
-// default
+/**
+ * what a caller passes to a client: every option is optional, and one left out takes its
+ * default
+ */
 export interface RdapWhoisOptions {
-  // how long one network exchange may take, in milliseconds. Default 10 000. Through a
-  // proxy with a connectTimeout, a WHOIS hop may take up to that plus this
+  /**
+   * how long one network exchange may take, in milliseconds. Default 10 000. Through a
+   * proxy with a connectTimeout, a WHOIS hop may take up to that plus this
+   */
   timeout?: number;
-  // how many times to send a request again after a failure that could be temporary.
-  // Default 2; 0 turns retries off
+  /**
+   * how many times to send a request again after a failure that could be temporary.
+   * Default 2; 0 turns retries off
+   */
   retries?: number;
-  // the first retry delay in milliseconds; each later one doubles. Default 250
+  /** the first retry delay in milliseconds; each later one doubles. Default 250 */
   backoff?: number;
-  // how long one call (whois(), rdap() or lookup()) may take in all, in milliseconds,
-  // retries, referrals and waits included. Default 30 000. A wait that would not fit in
-  // the time left (a backoff, a server's Retry-After, a throttled server's queue) is not
-  // waited out: the call fails at once with the error behind it. Infinity for no limit
+  /**
+   * how long one call (whois(), rdap() or lookup()) may take in all, in milliseconds,
+   * retries, referrals and waits included. Default 30 000. A wait that would not fit in
+   * the time left (a backoff, a server's Retry-After, a throttled server's queue) is not
+   * waited out: the call fails at once with the error behind it. Infinity for no limit
+   */
   totalTimeout?: number;
-  // how many referrals to follow, e.g. from a registry to the registrar. Default 1; 0 turns
-  // it off
+  /**
+   * how many referrals to follow, e.g. from a registry to the registrar. Default 1; 0 turns
+   * it off
+   */
   followReferrals?: number;
-  // how many HTTP redirects an RDAP request may follow. Each one is checked against the
-  // target policy first. Default 5; 0 turns it off
+  /**
+   * how many HTTP redirects an RDAP request may follow. Each one is checked against the
+   * target policy first. Default 5; 0 turns it off
+   */
   followRedirects?: number;
-  // the largest response to accept, in bytes. Default 1 000 000
+  /** the largest response to accept, in bytes. Default 1 000 000 */
   maxResponseBytes?: number;
-  // check that an RDAP response is about the domain asked for, and that its registration
-  // date is believable. Default true
+  /**
+   * check that an RDAP response is about the domain asked for, and that its registration
+   * date is believable. Default true
+   */
   validate?: boolean;
-  // the User-Agent header for RDAP requests. Default `rdap-whois/<version> (+<repository>)`,
-  // except in a browser, where none is sent: it is not a CORS-safelisted header, so sending
-  // one would make the browser ask the server first, which many RDAP servers do not answer
+  /**
+   * the User-Agent header for RDAP requests. Default `rdap-whois/<version> (+<repository>)`,
+   * except in a browser, where none is sent: it is not a CORS-safelisted header, so sending
+   * one would make the browser ask the server first, which many RDAP servers do not answer
+   */
   userAgent?: string;
-  // requests in flight to one server at a time. Default 2. A server whose registry
-  // publishes a limit gets that instead (KNOWN_SERVER_LIMITS), and one in `serverLimits`
-  // its own
+  /**
+   * requests in flight to one server at a time. Default 2. A server whose registry
+   * publishes a limit gets that instead (KNOWN_SERVER_LIMITS), and one in `serverLimits`
+   * its own
+   */
   concurrency?: number;
-  // the shortest time between two requests to one server starting, in milliseconds.
-  // Default 250
+  /**
+   * the shortest time between two requests to one server starting, in milliseconds.
+   * Default 250
+   */
   minInterval?: number;
-  // limits by server hostname, which win over the published ones and the two above
+  /** limits by server hostname, which win over the published ones and the two above */
   serverLimits?: Record<string, ServerLimit>;
-  // lookupMany() and lookupAll(): how many lookups are in flight at once. Default 8
+  /** lookupMany() and lookupAll(): how many lookups are in flight at once. Default 8 */
   batchConcurrency?: number;
-  // replaces the RDAP transport: every RDAP request is made with this, and `proxy` is not
-  // applied to it
+  /**
+   * replaces the RDAP transport: every RDAP request is made with this, and `proxy` is not
+   * applied to it
+   */
   fetch?: FetchLike;
-  // which hosts may be contacted
+  /** which hosts may be contacted */
   targets?: TargetPolicy;
-  // a proxy URL for both protocols, or { whois, rdap } with one for each
+  /** a proxy URL for both protocols, or { whois, rdap } with one for each */
   proxy?: ProxyOption;
-  // abort every request made with these options
+  /** abort every request made with these options */
   signal?: AbortSignal;
-  // replaces the runtime's TCP connect
+  /** replaces the runtime's TCP connect */
   connect?: Connect;
-  // called for every network exchange and every decision to make another one
+  /** called for every network exchange and every decision to make another one */
   onEvent?: (event: ClientEvent) => void;
-  // keeps each protocol's answers, so a query asked again is answered without a request
+  /** keeps each protocol's answers, so a query asked again is answered without a request */
   cache?: HopCache;
 }
 
@@ -168,37 +190,45 @@ export function checkOptions<T extends object>(options: T): T {
   return options;
 }
 
-// what can be changed for one call. The per-server limits belong to the client, so they are
-// not among them
+/**
+ * what can be changed for one call. The per-server limits belong to the client, so they are
+ * not among them
+ */
 export type CallOptions = Omit<RdapWhoisOptions, 'concurrency' | 'minInterval' | 'serverLimits'>;
 
 // ---------------------------------------------------------------------------------------
 // cache
 // ---------------------------------------------------------------------------------------
 
-// what one protocol lookup is cached under: the server asked first, as the routing data or
-// the `server` option named it, and the query as it was normalized
+/**
+ * what one protocol lookup is cached under: the server asked first, as the routing data or
+ * the `server` option named it, and the query as it was normalized
+ */
 export interface CacheKey {
   protocol: Protocol;
-  // a hostname for WHOIS, a base URL for RDAP
+  /** a hostname for WHOIS, a base URL for RDAP */
   server: string;
   query: string;
   queryType: QueryType;
-  // the encoding a whois() call asked the first server's response to be read in, when it
-  // set one, since that changes the answer
+  /**
+   * the encoding a whois() call asked the first server's response to be read in, when it
+   * set one, since that changes the answer
+   */
   encoding?: string;
 }
 
-// the hops one protocol lookup returned, the first server's and each referral's
+/** the hops one protocol lookup returned, the first server's and each referral's */
 export type CachedHops = WhoisHop[] | RdapHop[];
 
-// Where whois(), rdap() and lookup() keep each protocol's answers. `get` is asked before
-// the first request of a protocol lookup: hops it returns are the answer, and no request
-// is made; null or undefined is a miss. After a lookup that made its requests, `set` is
-// given the hops with a suggested lifetime in milliseconds (an hour for an answer, five
-// minutes for "no such object", one minute when a referral failed). A lookup whose first
-// server failed is thrown, not cached. The library does not catch what `get` or `set`
-// throws: it fails the call as a failed request would
+/**
+ * Where whois(), rdap() and lookup() keep each protocol's answers. `get` is asked before
+ * the first request of a protocol lookup: hops it returns are the answer, and no request
+ * is made; null or undefined is a miss. After a lookup that made its requests, `set` is
+ * given the hops with a suggested lifetime in milliseconds (an hour for an answer, five
+ * minutes for "no such object", one minute when a referral failed). A lookup whose first
+ * server failed is thrown, not cached. The library does not catch what `get` or `set`
+ * throws: it fails the call as a failed request would
+ */
 export interface HopCache {
   get(key: CacheKey): CachedHops | null | undefined | Promise<CachedHops | null | undefined>;
   set(key: CacheKey, hops: CachedHops, ttl: number): void | Promise<void>;
@@ -217,40 +247,40 @@ function cacheTtl(hops: CachedHops): number {
 // results and events
 // ---------------------------------------------------------------------------------------
 
-// what a server's answer amounted to
+/** what a server's answer amounted to */
 export type HopStatus = 'found' | 'notfound' | 'reserved' | 'error';
 
-// one network exchange, reported when it ends whether it worked or not
+/** one network exchange, reported when it ends whether it worked or not */
 export interface RequestEvent {
   type: 'request';
   protocol: Protocol;
   server: string;
-  // the query line for WHOIS, the URL for RDAP
+  /** the query line for WHOIS, the URL for RDAP */
   query: string;
-  // 1 for the first try
+  /** 1 for the first try */
   attempt: number;
   elapsed: number;
-  // bytes of response received
+  /** bytes of response received */
   bytes: number;
   proxied: boolean;
-  // the HTTP status, for RDAP
+  /** the HTTP status, for RDAP */
   status?: number;
   error?: ErrorInfo;
 }
 
-// the request is about to be sent again
+/** the request is about to be sent again */
 export interface RetryEvent {
   type: 'retry';
   protocol: Protocol;
   server: string;
-  // the attempt that failed
+  /** the attempt that failed */
   attempt: number;
-  // how long until the next one, in milliseconds
+  /** how long until the next one, in milliseconds */
   delay: number;
   error: ErrorInfo;
 }
 
-// another server is about to be asked because a response pointed at it
+/** another server is about to be asked because a response pointed at it */
 export interface ReferralEvent {
   type: 'referral';
   protocol: Protocol;
@@ -258,7 +288,7 @@ export interface ReferralEvent {
   to: string;
 }
 
-// an RDAP server answered with a redirect, which is about to be followed
+/** an RDAP server answered with a redirect, which is about to be followed */
 export interface RedirectEvent {
   type: 'redirect';
   protocol: 'rdap';
@@ -267,17 +297,19 @@ export interface RedirectEvent {
   status: number;
 }
 
-// lookup() is moving on from RDAP to WHOIS
+/** lookup() is moving on from RDAP to WHOIS */
 export interface FallbackEvent {
   type: 'fallback';
   from: 'rdap';
   to: 'whois';
-  // RDAP failed, said the name does not exist, or answered with too little to use
+  /** RDAP failed, said the name does not exist, or answered with too little to use */
   reason: 'error' | 'notfound' | 'insufficient';
 }
 
-// a server's answer could not be made into a record and was passed over, as if it had not
-// answered. `error` is what the transform threw
+/**
+ * a server's answer could not be made into a record and was passed over, as if it had not
+ * answered. `error` is what the transform threw
+ */
 export interface TransformErrorEvent {
   type: 'transform-error';
   protocol: Protocol;

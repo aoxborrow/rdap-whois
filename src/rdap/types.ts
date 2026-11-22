@@ -11,10 +11,10 @@ import {
   RDAP_QUERY_TYPES,
 } from './constants';
 
-// the RDAP server types, same as base server types
+/** the RDAP server types, same as base server types */
 export type RdapServerType = (typeof RDAP_SERVER_TYPES)[number];
 
-// rdap query type
+/** rdap query type */
 export type RdapQueryType = (typeof RDAP_QUERY_TYPES)[number];
 
 export interface ServerCacheBootstrap {
@@ -35,9 +35,10 @@ export interface RdapServerCache {
   hasServer(server: string): boolean;
 }
 
-// parsed/simplified vCard object, used to represent complex vCard objects
+/** parsed/simplified vCard object, used to represent complex vCard objects */
 export type RdapVcardSimple = {
-  version: string; // 'version' field, required
+  /** 'version' field, required */
+  version: string;
   name?: string; // 'fn' (full name) field, required
   kind?: string; // 'kind' field
   org?: string; // 'org' field (primary organization name)
@@ -63,7 +64,7 @@ export type RdapIpNetworkObjectClass = typeof RDAP_IP_NETWORK_OBJECT_CLASS;
 export type RdapAutNumObjectClass = typeof RDAP_AUT_NUM_OBJECT_CLASS;
 export type RdapNameserverObjectClass = typeof RDAP_NAMESERVER_OBJECT_CLASS;
 
-// union of all object classes
+/** union of all object classes */
 export type RdapObjectClass = (typeof RDAP_OBJECT_CLASSES)[number];
 
 export interface RdapLink {
@@ -151,7 +152,7 @@ export interface RdapSecureDNS {
 
 export type RdapNotice = RdapRemark;
 
-// common fields for all RDAP objects
+/** common fields for all RDAP objects */
 export interface RdapBaseObject {
   objectClassName: RdapObjectClass;
   handle?: string;
@@ -165,7 +166,7 @@ export interface RdapBaseObject {
   port43?: string;
 }
 
-// type for RDAP entity roles
+/** type for RDAP entity roles */
 export type RdapEntityRole = keyof typeof RDAP_ENTITY_ROLES;
 
 export interface RdapEntityObject extends RdapBaseObject {
@@ -231,13 +232,13 @@ type RdapBaseResponse = {
   description?: string[]; // error description
 };
 
-// errorCode required, rdapConformance optional
+/** errorCode required, rdapConformance optional */
 export type RdapErrorResponse = RdapBaseResponse & {
   rdapConformance?: string[];
   errorCode: number;
 };
 
-// rdapConformance required, errorCode optional
+/** rdapConformance required, errorCode optional */
 export type RdapCommonResponse = RdapBaseResponse & {
   rdapConformance: string[];
   errorCode: never;
@@ -281,7 +282,7 @@ export type RdapHelpResponse = RdapCommonResponse;
 //     readonly queryType: 'ip';
 //   };
 
-// pass the object class to get a specific response type
+/** pass the object class to get a specific response type */
 export type RdapObjectResponse<O extends RdapObjectClass = RdapObjectClass> = {
   [C in RdapObjectClass]: Extract<
     | RdapDomainResponse

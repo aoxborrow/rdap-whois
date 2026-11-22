@@ -25,7 +25,7 @@ export const RDAP_OBJECT_CLASSES = [
 // IANA rdap server, default for TLDs
 export const IANA_RDAP_SERVER = 'https://rdap.iana.org/';
 
-// the regional internet registries' RDAP servers, by registry
+/** the regional internet registries' RDAP servers, by registry */
 export const RDAP_REGIONAL_REGISTRIES = {
   ARIN: 'https://rdap.arin.net/registry/',
   RIPE: 'https://rdap.db.ripe.net/',
@@ -34,7 +34,7 @@ export const RDAP_REGIONAL_REGISTRIES = {
   AFRINIC: 'https://rdap.afrinic.net/rdap/',
 } as const;
 
-// all entity roles in RDAP responses
+/** all entity roles in RDAP responses */
 export const RDAP_ENTITY_ROLES = {
   registrar: 'Registrar',
   reseller: 'Reseller',

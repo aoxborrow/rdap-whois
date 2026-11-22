@@ -67,10 +67,12 @@ function reviveResult(result: Bag): Bag {
   };
 }
 
-// Give back the Dates in a lookup()'s result (verbose or not), a lookupMany() item, the hops of whois() or
-// rdap() (which is what a cache stores), one hop, or one record, after JSON has made them
-// strings. It returns a copy and leaves what it was given alone. Values that are not a
-// date string stay as they are, so it is safe on an object that still has its Dates
+/**
+ * Give back the Dates in a lookup()'s result (verbose or not), a lookupMany() item, the hops
+ * of whois() or rdap() (which is what a cache stores), one hop, or one record, after JSON has
+ * made them strings. It returns a copy and leaves what it was given alone. Values that are
+ * not a date string stay as they are, so it is safe on an object that still has its Dates
+ */
 export function reviveDates<T>(value: T): T {
   if (Array.isArray(value)) return value.map(reviveHop) as T;
   if (!isBag(value)) return value;

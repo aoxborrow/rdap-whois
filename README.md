@@ -37,6 +37,12 @@ Node.js 22.12 or later, or Cloudflare Workers. The package is ES modules only, w
 declarations; on Node, `require()` loads it too. Bun and Deno should work through their
 Node compatibility, but neither is tested.
 
+On Node 22.12, `require()` prints an `ExperimentalWarning` about loading an ES module; the
+package still loads, and from Node 22.13 the warning is gone. With TypeScript 6, which no
+longer includes `@types/node` by default, a project importing
+`@aoxborrow/rdap-whois/transports/node` needs `"types": ["node"]` in its `tsconfig.json`
+(and `@types/node` installed), because that entry's declarations name Node's modules.
+
 ## Quick start
 
 ```ts

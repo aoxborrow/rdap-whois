@@ -7,9 +7,9 @@ import { ConnectionError, TimeoutError } from '../errors';
 import type { Connect, Connection, ConnectOptions, ConnectTarget } from '../net/types';
 
 export interface NodeTransportOptions {
-  // the local address to connect from
+  /** the local address to connect from */
   localAddress?: string;
-  // extra options for the TLS upgrade, e.g. `ca` for a private certificate authority
+  /** extra options for the TLS upgrade, e.g. `ca` for a private certificate authority */
   tls?: Pick<tls.ConnectionOptions, 'ca' | 'rejectUnauthorized' | 'minVersion'>;
 }
 
@@ -146,7 +146,7 @@ function wrap(socket: net.Socket, describe: string, transport: NodeTransportOpti
   };
 }
 
-// a TCP connect for this runtime, with settings that apply to every connection it opens
+/** a TCP connect for this runtime, with settings that apply to every connection it opens */
 export function createConnect(transport: NodeTransportOptions = {}): Connect {
   return (target: ConnectTarget, options: ConnectOptions = {}) =>
     new Promise<Connection>((resolve, reject) => {
@@ -203,5 +203,5 @@ export function createConnect(transport: NodeTransportOptions = {}): Connect {
     });
 }
 
-// the default TCP connect on Node
+/** the default TCP connect on Node */
 export const connect: Connect = createConnect();

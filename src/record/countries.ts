@@ -1,6 +1,6 @@
 import { ALPHA3_TO_ALPHA2, COUNTRY_NAMES } from './generated/countries';
 
-// valid ISO 3166-1 alpha-2 country codes
+/** valid ISO 3166-1 alpha-2 country codes */
 export type CountryCode = keyof typeof COUNTRY_NAMES;
 
 export const COUNTRY_CODES: readonly CountryCode[] = Object.keys(COUNTRY_NAMES) as CountryCode[];
@@ -24,12 +24,14 @@ function codeForName(name: string): CountryCode | undefined {
 const nameOf = (code: string): string | undefined =>
   (COUNTRY_NAMES as Record<string, readonly string[]>)[code]?.[0];
 
-// normalize country input to ISO 3166-1 alpha-2 code
-// handles various input formats:
-// - 2-letter codes (US, FR, DE)
-// - 3-letter codes (USA, FRA, DEU)
-// - full country names (United States, France, Germany)
-// - common variations and edge cases
+/**
+ * normalize country input to ISO 3166-1 alpha-2 code
+ * handles various input formats:
+ * - 2-letter codes (US, FR, DE)
+ * - 3-letter codes (USA, FRA, DEU)
+ * - full country names (United States, France, Germany)
+ * - common variations and edge cases
+ */
 export function parseCountryCode(input: string | null | undefined): CountryCode | null {
   if (!input || typeof input !== 'string') {
     return null;
@@ -158,7 +160,7 @@ function normalizeCountryName(name: string): string | null {
     .join(' ');
 }
 
-// get country name from 2-letter code
+/** get country name from 2-letter code */
 export function getCountryName(code: CountryCode | null): string | null {
   if (!code) {
     return null;
@@ -167,7 +169,7 @@ export function getCountryName(code: CountryCode | null): string | null {
   return nameOf(code) ?? null;
 }
 
-// validate if a string is a valid ISO 3166-1 alpha-2 country code
+/** validate if a string is a valid ISO 3166-1 alpha-2 country code */
 export function isValidCountryCode(code: string): code is CountryCode {
   return code.length === 2 && /^[A-Z]{2}$/.test(code) && nameOf(code) !== undefined;
 }

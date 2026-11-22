@@ -30,9 +30,11 @@ import {
 } from './data-types';
 import { cleanNameserver, cleanArray, singleValue } from './utils';
 
-// every parsed canonical field, in output order. The parsed data and the fixtures' expected
-// JSON are sorted by it (sortFields), so it must never silently change. Grouped as domain,
-// registrar, contacts, ip/asn/entity.
+/**
+ * every parsed canonical field, in output order. The parsed data and the fixtures' expected
+ * JSON are sorted by it (sortFields), so it must never silently change. Grouped as domain,
+ * registrar, contacts, ip/asn/entity.
+ */
 export const PARSED_FIELDS = [
   // domain fields
   'domainId',
@@ -163,7 +165,7 @@ export const ADDRESS_FIELDS = [
   'billingAddress',
 ];
 
-// fields that are arrays
+/** fields that are arrays */
 export const ARRAY_FIELDS = ['eppStatus', 'eppStatusRaw', 'nameservers', ...ADDRESS_FIELDS];
 
 // date fields that are required to be in our date string format
