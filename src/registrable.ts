@@ -12,10 +12,12 @@ let zones: Set<string> | undefined;
 const routedZones = (): Set<string> =>
   (zones ??= new Set([...REGISTRY_ZONES, ...getRdapSubZones()]));
 
-// the registrable domain of a name: its longest suffix among the ICANN public suffixes and
-// the routing data's own registry zones, plus one label. `www.bbc.co.uk` is `bbc.co.uk`,
-// `www.msu.ac.ru` is `msu.ac.ru`. Null when the name is a suffix itself (`co.uk`, `com`)
-// or is not shaped like a domain name. A TLD nobody runs counts as a suffix
+/**
+ * the registrable domain of a name: its longest suffix among the ICANN public suffixes and
+ * the routing data's own registry zones, plus one label. `www.bbc.co.uk` is `bbc.co.uk`,
+ * `www.msu.ac.ru` is `msu.ac.ru`. Null when the name is a suffix itself (`co.uk`, `com`)
+ * or is not shaped like a domain name. A TLD nobody runs counts as a suffix
+ */
 export function registrableDomain(name: string): string | null {
   if (!isDomainShaped(name)) return null;
   const text = normalizeQuery(name, 'domain');

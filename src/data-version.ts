@@ -5,11 +5,11 @@ import dnsBootstrap from '../data/rdap/dns.json';
 import { TLD_TABLE_UPDATED } from './whois/generated/tlds-updated';
 
 export interface DataVersion {
-  // when IANA published the RDAP bootstrap file for domains (data/rdap/dns.json)
+  /** when IANA published the RDAP bootstrap file for domains (data/rdap/dns.json) */
   rdapBootstrap: string;
-  // when the WHOIS server table last changed
+  /** when the WHOIS server table last changed */
   whoisTables: string;
-  // when the per-server request limits (KNOWN_SERVER_LIMITS) last changed
+  /** when the per-server request limits (KNOWN_SERVER_LIMITS) last changed */
   limits: string;
 }
 

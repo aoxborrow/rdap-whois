@@ -7,11 +7,14 @@ export type { EppStatus };
 
 export type DomainContactType = (typeof DOMAIN_CONTACT_TYPES)[number];
 
-// shared contact shape
+/** a contact on the record: registrant, admin, tech or billing */
 export interface DomainContact {
-  id: string | null; // entity handle in WHOIS/RDAP
-  name: string | null; // contact name or organization name
-  org: string | null; // organization name, only present if different from name
+  /** the contact's handle at the registry or registrar */
+  id: string | null;
+  /** the contact's name, or the organization's when no person is named */
+  name: string | null;
+  /** the organization, when it differs from `name` */
+  org: string | null;
   address: string[] | null;
   city: string | null;
   state: string | null;
@@ -21,13 +24,17 @@ export interface DomainContact {
   phoneExt: string | null;
   fax: string | null;
   faxExt: string | null;
-  email: string | null; // only put emails here, no URLs
-  url: string | null; // use contact-uri, or contact URLs if they're not an email
+  /** an email address, never a URL */
+  email: string | null;
+  /** the contact's contact-uri, else a contact URL that is not an email address */
+  url: string | null;
 }
 
 export interface DomainRegistrar {
-  ianaId: number | null; // IANA ID as number
-  name: string | null; // registrar name
+  /** the registrar's IANA ID */
+  ianaId: number | null;
+  /** the registrar's name */
+  name: string | null;
   address: string[] | null;
   city: string | null;
   state: string | null;
@@ -37,29 +44,38 @@ export interface DomainRegistrar {
   phoneExt: string | null;
   fax: string | null;
   faxExt: string | null;
-  email: string | null; // only put emails here, no URLs
-  url: string | null; // the registrar website, or fallback to contact-uri
+  /** an email address, never a URL */
+  email: string | null;
+  /** the registrar's website, else its contact URL */
+  url: string | null;
   abuseEmail: string | null;
   abusePhone: string | null;
 }
 
-// core domain fields
+/** a domain's registration data, as the record holds it */
 export interface DomainData {
-  domainName: string; // the domain in punycode/ASCII
-  domainNameUnicode: string | null; // the IDN domain in full unicode if IDN, otherwise null
+  /** the domain in ASCII (punycode for an IDN) */
+  domainName: string;
+  /** the domain in Unicode when it is an IDN, otherwise null */
+  domainNameUnicode: string | null;
   creationDate: Date | null;
   expirationDate: Date | null;
   updatedDate: Date | null;
-  nameservers: string[]; // [] when the server gave none
-  dnssec: boolean | null; // whether the domain has DNSSEC enabled; null when the server did not say
-  eppStatus: EppStatus[]; // validated EPP codes only; [] when none
-  // the statuses the server gave that map to no EPP code, as it wrote them: a registry's own
-  // vocabulary (`connect` at DENIC), or RDAP wording that could be either of two codes
+  /** [] when the server gave none */
+  nameservers: string[];
+  /** whether the domain has DNSSEC enabled; null when the server did not say */
+  dnssec: boolean | null;
+  /** validated EPP codes only; [] when none */
+  eppStatus: EppStatus[];
+  /**
+   * the statuses the server gave that map to no EPP code, as it wrote them: a registry's own
+   * vocabulary (`connect` at DENIC), or RDAP wording that could be either of two codes
+   */
   unmappedStatus: string[];
 
-  // the registry itself said the name does not exist, so it can be registered
+  /** the registry itself said the name does not exist, so it can be registered */
   available: boolean;
-  // the registry holds the name back from registration; never true with `available`
+  /** the registry holds the name back from registration; never true with `available` */
   reserved: boolean;
 
   // registrar

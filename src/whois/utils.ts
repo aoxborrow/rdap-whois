@@ -18,7 +18,7 @@ export function cleanArray(array: string[]): string[] {
     );
 }
 
-// clean a nameserver string by removing IPs, brackets, and other non-hostname content
+/** clean a nameserver string by removing IPs, brackets, and other non-hostname content */
 export function cleanNameserver(nameserver: string | null | undefined): string | null {
   if (isEmpty(nameserver)) return null;
 
@@ -34,8 +34,10 @@ export function cleanNameserver(nameserver: string | null | undefined): string |
     .trim();
 }
 
-// clean a status string by removing URLs and any parentheses
-// don't lowercase the status!
+/**
+ * clean a status string by removing URLs and any parentheses
+ * don't lowercase the status!
+ */
 export function cleanStatus(status: string | null | undefined): string | null {
   if (isEmpty(status)) return null;
 
@@ -72,7 +74,7 @@ export function cleanStatus(status: string | null | undefined): string | null {
 const normalizeStatusKey = (status: string) =>
   status.normalize('NFC').toLowerCase().replace(/[_-]/g, '');
 
-// get the EPP status from the whois status string
+/** get the EPP status from the whois status string */
 export const whoisGetEppStatus = (status: string): string | null => {
   const normalized = normalizeStatusKey(status);
   // find the matching key in the map (case insensitive, separator insensitive)
@@ -160,7 +162,7 @@ export const WHOIS_EPP_STATUS_MAP: Record<string, string> = {
   'transfer period': 'transferPeriod',
 };
 
-// a WHOIS DNSSEC value as a yes or no, or null when the text says neither
+/** a WHOIS DNSSEC value as a yes or no, or null when the text says neither */
 export function parseWhoisDnssecValue(dnssec: string | boolean | null | undefined): boolean | null {
   if (typeof dnssec === 'boolean') return dnssec;
   if (isEmpty(dnssec)) return null;

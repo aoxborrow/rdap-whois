@@ -6,9 +6,9 @@ import { abortReason } from './deadline';
 // referral or a batch, and a throttle from one server holds back only that server's queue.
 
 export interface ServerLimit {
-  // requests in flight to one server at a time
+  /** requests in flight to one server at a time */
   concurrency: number;
-  // the shortest time between two requests starting, in milliseconds
+  /** the shortest time between two requests starting, in milliseconds */
   minInterval: number;
 }
 
@@ -37,8 +37,10 @@ function checkLimit(limit: ServerLimit, where: string): ServerLimit {
   return { concurrency: limit.concurrency, minInterval: limit.minInterval };
 }
 
-// the limits registries publish for their servers, by hostname. data/limits.json gives
-// the source of each
+/**
+ * the limits registries publish for their servers, by hostname. data/limits.json gives
+ * the source of each
+ */
 export const KNOWN_SERVER_LIMITS: Readonly<Record<string, ServerLimit>> = Object.freeze(
   Object.fromEntries(
     Object.entries(knownLimits.servers).map(([server, { concurrency, minInterval }]) => [

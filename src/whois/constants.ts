@@ -27,7 +27,7 @@ export function resolveServerAlias(host: string): string {
   return WHOIS_SERVER_ALIASES[host] ?? host;
 }
 
-// the regional internet registries' WHOIS servers, by registry
+/** the regional internet registries' WHOIS servers, by registry */
 export const WHOIS_REGIONAL_REGISTRIES = {
   ARIN: 'whois.arin.net',
   RIPE: 'whois.ripe.net',

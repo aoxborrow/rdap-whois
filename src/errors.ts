@@ -32,25 +32,27 @@ export interface ErrorDetails {
   retryable?: boolean;
 }
 
-// the plain-object form of an error, used where an error is embedded in a result or an
-// event. It keeps everything the error says about where it happened
+/**
+ * the plain-object form of an error, used where an error is embedded in a result or an
+ * event. It keeps everything the error says about where it happened
+ */
 export interface ErrorInfo {
-  // one of the library's error names, or the name of an error from outside the library
+  /** one of the library's error names, or the name of an error from outside the library */
   name: RdapWhoisErrorName | (string & {});
   message: string;
   retryable: boolean;
   protocol?: Protocol;
   server?: string;
   query?: string;
-  // the HTTP status the server answered with
+  /** the HTTP status the server answered with */
   status?: number;
   viaProxy?: boolean;
-  // how long the server asked us to wait, in milliseconds
+  /** how long the server asked us to wait, in milliseconds */
   retryAfter?: number;
   tries?: number;
 }
 
-// the name of every error class the library throws, which is also the `name` of its errors
+/** the name of every error class the library throws, which is also the `name` of its errors */
 export type RdapWhoisErrorName =
   | 'RdapWhoisError'
   | 'InvalidQueryError'
@@ -79,14 +81,14 @@ export class RdapWhoisError extends Error {
   }
 
   override readonly name: RdapWhoisErrorName = 'RdapWhoisError';
-  // whether sending the same request again could succeed
+  /** whether sending the same request again could succeed */
   readonly retryable: boolean;
   readonly protocol?: Protocol;
   readonly server?: string;
   readonly query?: string;
-  // how many times the request was sent before this was thrown, when it was retried
+  /** how many times the request was sent before this was thrown, when it was retried */
   readonly tries?: number;
-  // whether the failure came by way of a proxy and not from the target directly
+  /** whether the failure came by way of a proxy and not from the target directly */
   readonly viaProxy: boolean;
   // what the error was made from, so a copy with more context can be made of it
   readonly #details: ErrorDetails;
@@ -108,7 +110,7 @@ export class RdapWhoisError extends Error {
     return false;
   }
 
-  // the plain-object form, safe to store or send
+  /** the plain-object form, safe to store or send */
   toJSON(): ErrorInfo {
     const info: ErrorInfo = {
       name: this.name,
@@ -126,8 +128,10 @@ export class RdapWhoisError extends Error {
     return info;
   }
 
-  // the same error with more details: a new error of the same class, made through its
-  // constructor, with the original's stack
+  /**
+   * the same error with more details: a new error of the same class, made through its
+   * constructor, with the original's stack
+   */
   withDetails(details: ErrorDetails): this {
     const Class = this.constructor as new (message: string, details: ErrorDetails) => this;
     const copy = new Class(this.message, { ...this.#details, ...details });
@@ -138,8 +142,10 @@ export class RdapWhoisError extends Error {
 
 Object.defineProperty(RdapWhoisError.prototype, BRAND, { value: true });
 
-// the query is not a valid domain, IP address, AS number or handle, or the server asked
-// for is one the target policy refuses
+/**
+ * the query is not a valid domain, IP address, AS number or handle, or the server asked
+ * for is one the target policy refuses
+ */
 export class InvalidQueryError extends RdapWhoisError {
   override readonly name = 'InvalidQueryError' as const;
 }
@@ -149,11 +155,13 @@ export interface NoUsableAnswerDetails extends ErrorDetails {
   attempts?: LookupAttempt[];
 }
 
-// lookup() asked, servers answered, and none of the answers was usable, while no registry
-// said the name does not exist: it could not tell
+/**
+ * lookup() asked, servers answered, and none of the answers was usable, while no registry
+ * said the name does not exist: it could not tell
+ */
 export class NoUsableAnswerError extends RdapWhoisError {
   override readonly name = 'NoUsableAnswerError' as const;
-  // every protocol lookup() tried, as LookupResult.attempts would have listed them
+  /** every protocol lookup() tried, as LookupResult.attempts would have listed them */
   readonly attempts: LookupAttempt[];
 
   constructor(message: string, details: NoUsableAnswerDetails = {}) {
@@ -162,10 +170,12 @@ export class NoUsableAnswerError extends RdapWhoisError {
   }
 }
 
-// connecting or reading took longer than the timeout. A server that stayed silent that long
-// rarely answers the same request sent again, so it is not retried. A proxy that did not
-// open its tunnel in time is: a rotating proxy's next try goes out through another exit.
-// The wait for a free connection to a busy server is retried too, and says so in `retryable`
+/**
+ * connecting or reading took longer than the timeout. A server that stayed silent that long
+ * rarely answers the same request sent again, so it is not retried. A proxy that did not
+ * open its tunnel in time is: a rotating proxy's next try goes out through another exit.
+ * The wait for a free connection to a busy server is retried too, and says so in `retryable`
+ */
 export class TimeoutError extends RdapWhoisError {
   override readonly name = 'TimeoutError' as const;
   protected override defaultRetryable(details: ErrorDetails): boolean {
@@ -180,7 +190,7 @@ export interface RateLimitDetails extends ErrorDetails {
   retryAfter?: number;
 }
 
-// the server refused the request because of a rate limit
+/** the server refused the request because of a rate limit */
 export class RateLimitError extends RdapWhoisError {
   override readonly name = 'RateLimitError' as const;
   readonly raw?: string;
@@ -197,12 +207,12 @@ export class RateLimitError extends RdapWhoisError {
   }
 }
 
-// no WHOIS or RDAP server is known for the query
+/** no WHOIS or RDAP server is known for the query */
 export class NoServerError extends RdapWhoisError {
   override readonly name = 'NoServerError' as const;
 }
 
-// the proxy refused the connection, rejected the credentials or could not reach the target
+/** the proxy refused the connection, rejected the credentials or could not reach the target */
 export class ProxyError extends RdapWhoisError {
   override readonly name = 'ProxyError' as const;
   protected override defaultRetryable(): boolean {
@@ -210,7 +220,7 @@ export class ProxyError extends RdapWhoisError {
   }
 }
 
-// the server closed the connection without sending anything
+/** the server closed the connection without sending anything */
 export class EmptyResponseError extends RdapWhoisError {
   override readonly name = 'EmptyResponseError' as const;
   protected override defaultRetryable(): boolean {
@@ -223,8 +233,10 @@ export interface ResponseDetails extends ErrorDetails {
   status?: number;
 }
 
-// the response could not be used: not parseable, too large, or about a different object.
-// Also a referral or redirect to a host the target policy refuses
+/**
+ * the response could not be used: not parseable, too large, or about a different object.
+ * Also a referral or redirect to a host the target policy refuses
+ */
 export class InvalidResponseError extends RdapWhoisError {
   override readonly name = 'InvalidResponseError' as const;
   readonly status?: number;
@@ -240,7 +252,7 @@ export interface ServerErrorDetails extends ResponseDetails {
   body?: unknown;
 }
 
-// the server answered with an error of its own. Retryable only for a 5xx
+/** the server answered with an error of its own. Retryable only for a 5xx */
 export class ServerError extends RdapWhoisError {
   override readonly name = 'ServerError' as const;
   readonly status?: number;
@@ -257,7 +269,7 @@ export class ServerError extends RdapWhoisError {
   }
 }
 
-// the connection was refused, reset, or closed before the response was complete
+/** the connection was refused, reset, or closed before the response was complete */
 export class ConnectionError extends RdapWhoisError {
   override readonly name = 'ConnectionError' as const;
   protected override defaultRetryable(): boolean {

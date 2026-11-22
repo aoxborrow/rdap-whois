@@ -88,9 +88,11 @@ const DELIMITERS = /[\s<>()[\]"',;:]+/;
 const WITHHELD_MAILBOX =
   /^((redacted|undisclosed|not[._-]?disclosed)|[^@]*[._-]redacted|(\*{3,}|x{3,}|n\/a|none)@)/i;
 
-// whether a value is a server's placeholder for a value it withheld, or a known privacy
-// service in place of the holder. A value with a URL in it is never one, and neither is other
-// text with a real email address in it.
+/**
+ * whether a value is a server's placeholder for a value it withheld, or a known privacy
+ * service in place of the holder. A value with a URL in it is never one, and neither is other
+ * text with a real email address in it.
+ */
 export function isRedacted(value: string | null | undefined): boolean {
   if (!value) return false;
   const text = value.trim();

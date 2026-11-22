@@ -28,19 +28,23 @@ import type { DomainData } from './types';
 import { hasDetails, registrarHasData } from './utils';
 
 export interface DomainRecord extends DomainData {
-  // the reseller the registrar sold the name through, when a server named one
+  /** the reseller the registrar sold the name through, when a server named one */
   reseller: string | null;
-  // `expirationDate` is the registrar's expiry, else the registry's: the registrar is the
-  // one that renews the name, and some registrars send only a `registrar expiration` event.
-  // `registryExpirationDate` is the registry's own expiry, for when it differs from the
-  // registrar's: mostly a registry that has auto-renewed the name a year ahead of the
-  // registrar, which matters for expiry and drop monitoring
+  /**
+   * `expirationDate` is the registrar's expiry, else the registry's: the registrar is the
+   * one that renews the name, and some registrars send only a `registrar expiration` event.
+   * `registryExpirationDate` is the registry's own expiry, for when it differs from the
+   * registrar's: mostly a registry that has auto-renewed the name a year ahead of the
+   * registrar, which matters for expiry and drop monitoring
+   */
   registryExpirationDate: Date | null;
 }
 
-// a field where the registry and the registrar both gave a value and the values differ. For
-// `eppStatus` the two values are each side's client* codes, the ones both sides can set,
-// and either can be []
+/**
+ * a field where the registry and the registrar both gave a value and the values differ. For
+ * `eppStatus` the two values are each side's client* codes, the ones both sides can set,
+ * and either can be []
+ */
 export interface Discrepancy {
   field: 'creationDate' | 'expirationDate' | 'nameservers' | 'eppStatus' | 'dnssec';
   registry: unknown;
@@ -259,7 +263,7 @@ function findDiscrepancies(registry: RecordHop, registrar: RecordHop): Discrepan
   return out;
 }
 
-// the groups of the record that are each taken whole from one server
+/** the groups of the record that are each taken whole from one server */
 export type RecordGroup =
   | 'registrar'
   | 'contacts'
@@ -270,8 +274,10 @@ export type RecordGroup =
   | 'updatedDate'
   | 'expirationDate';
 
-// which server each group of the record came from: the registry or the registrar it
-// referred to, or null when neither gave it
+/**
+ * which server each group of the record came from: the registry or the registrar it
+ * referred to, or null when neither gave it
+ */
 export type RecordProvenance = Record<RecordGroup, 'registry' | 'registrar' | null>;
 
 export interface CombinedRecord {

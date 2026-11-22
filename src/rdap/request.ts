@@ -15,8 +15,10 @@ import { isErrorResponse, isRdapResponse } from './utils';
 // and events are the client's; this is the part between "here is a URL" and "here is what
 // the server said".
 
-// the part of fetch an RDAP request uses, so a caller's fetch, the runtime's and the
-// library's own proxy client are interchangeable
+/**
+ * the part of fetch an RDAP request uses, so a caller's fetch, the runtime's and the
+ * library's own proxy client are interchangeable
+ */
 export type FetchLike = (
   url: string,
   init: {

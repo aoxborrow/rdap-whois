@@ -49,20 +49,24 @@ import {
 import { whoisExchange } from './socket';
 
 export interface WhoisCallOptions extends CallOptions {
-  // ask this server instead of the one the routing data names
+  /** ask this server instead of the one the routing data names */
   server?: string;
-  // the port to connect to. Default 43
+  /** the port to connect to. Default 43 */
   port?: number;
-  // what the query is, when it should not be worked out from its text
+  /** what the query is, when it should not be worked out from its text */
   queryType?: QueryType;
-  // the character encoding of the first server's response, as TextDecoder names it, in
-  // place of the one the routing data has for that server. Default: the routing data's,
-  // else utf-8. A referral is always read in its own server's encoding
+  /**
+   * the character encoding of the first server's response, as TextDecoder names it, in
+   * place of the one the routing data has for that server. Default: the routing data's,
+   * else utf-8. A referral is always read in its own server's encoding
+   */
   encoding?: string;
 }
 
-// one server's part in a WHOIS lookup. `status` says what the rest holds: an answer always
-// has `raw` and `data`, and a failed hop always has `error`
+/**
+ * one server's part in a WHOIS lookup. `status` says what the rest holds: an answer always
+ * has `raw` and `data`, and a failed hop always has `error`
+ */
 export type WhoisHop = {
   server: string;
   serverType: WhoisServerType;
@@ -291,17 +295,19 @@ async function whoisChain(
   return hops;
 }
 
-// what parseWhois() makes of a response
+/** what parseWhois() makes of a response */
 export interface ParsedWhois {
-  // 'throttled' when the response is a rate-limit page rather than an answer
+  /** 'throttled' when the response is a rate-limit page rather than an answer */
   status: HopStatus | 'throttled';
-  // the fields read from the response; null when it is not an answer
+  /** the fields read from the response; null when it is not an answer */
   data: WhoisDataType | null;
 }
 
-// Parse a WHOIS response that was fetched some other way or kept from earlier, as the
-// client parses one it fetched: `server` picks the server's own format, and `queryType`
-// what kind of object to read
+/**
+ * Parse a WHOIS response that was fetched some other way or kept from earlier, as the
+ * client parses one it fetched: `server` picks the server's own format, and `queryType`
+ * what kind of object to read
+ */
 export function parseWhois(
   raw: string,
   server: string,
@@ -319,9 +325,11 @@ export function hasTldServer(domain: string): boolean {
 
 export { getTldZone, getWhoisServer };
 
-// The line of a WHOIS response that marks it as a rate-limit page, as the server wrote it,
-// or null when the response is not one. parseWhois() reports such a response as
-// 'throttled'; this says which line made it so
+/**
+ * The line of a WHOIS response that marks it as a rate-limit page, as the server wrote it,
+ * or null when the response is not one. parseWhois() reports such a response as
+ * 'throttled'; this says which line made it so
+ */
 export function whoisThrottleLine(raw: string, server: string): string | null {
   const host = normalizeServer(server);
   return detectMeta(raw, resolveFormat(host), host).throttled ?? null;

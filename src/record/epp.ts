@@ -2,7 +2,7 @@
 // domain status is normalised to.
 import { isEmpty } from '../common/values';
 
-// list of valid EPP status values in correct case
+/** list of valid EPP status values in correct case */
 export const EPP_STATUS_VALUES = [
   'ok',
   'addPeriod',
@@ -32,7 +32,7 @@ export const EPP_STATUS_VALUES = [
 
 export type EppStatus = (typeof EPP_STATUS_VALUES)[number];
 
-// type guard for a canonical EPP status code, the single gate every eppStatus field passes
+/** type guard for a canonical EPP status code, the single gate every eppStatus field passes */
 export function isEppStatus(status: string | null | undefined): status is EppStatus {
   return !isEmpty(status) && EPP_STATUS_VALUES.includes(status as EppStatus);
 }

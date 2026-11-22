@@ -18,7 +18,7 @@ export type WhoisServer = {
 };
 
 export type ParserOptions = {
-  // date format configuration
+  /** date format configuration */
   dayFirst?: boolean;
 };
 
@@ -32,10 +32,10 @@ export type FieldFormatter<T extends WhoisValue = WhoisValue> = (
 // all possible values for a whois field
 export type WhoisValue = number | boolean | string | string[] | Date | null | undefined;
 
-// the WHOIS server types, same as base server types
+/** the WHOIS server types, same as base server types */
 export type WhoisServerType = ServerType;
 
-// whois query type
+/** whois query type */
 export type WhoisQueryType = QueryType;
 
 // for handling parsed fields without worrying about the type
@@ -43,56 +43,60 @@ export interface WhoisDataBag {
   [key: string]: WhoisValue;
 }
 
-// parsed whois data, by kind of query. Not-found, throttled and reserved are not fields:
-// the parser reports them as the response's status
+/**
+ * parsed whois data, by kind of query. Not-found, throttled and reserved are not fields:
+ * the parser reports them as the response's status
+ */
 export type WhoisDataType = WhoisDomainData | WhoisIpData | WhoisAsnData | WhoisEntityData;
 
 // The parsed data is parser output: every field is present, and null when the response did
 // not give it. Its shape may change in any 0.x release; the domain record is the stable one
 
-// parsed IP fields
+/** parsed IP fields */
 export interface WhoisIpData {
   ipId: string | null;
   ipAddress: string | null;
 }
 
-// parsed ASN fields
+/** parsed ASN fields */
 export interface WhoisAsnData {
   asnId: string | null;
   asnName: string | null;
 }
 
-// parsed Entity fields
+/** parsed Entity fields */
 export interface WhoisEntityData {
   entityId: string | null;
   entityName: string | null;
 }
 
-// parsed domain fields
+/** parsed domain fields */
 export interface WhoisDomainData {
   // Domain fields
   domainId: string | null;
   domainName: string | null;
   creationDate: Date | null;
   expirationDate: Date | null;
-  // the registrar's expiry when the response gives it under its own name ("Registrar
-  // Registration Expiration Date"), which a registry may pass on beside its own
+  /**
+   * the registrar's expiry when the response gives it under its own name ("Registrar
+   * Registration Expiration Date"), which a registry may pass on beside its own
+   */
   registrarExpirationDate: Date | null;
   updatedDate: Date | null;
-  // the statuses that map to EPP codes
+  /** the statuses that map to EPP codes */
   eppStatus: EppStatus[] | null;
-  // every status value as the server wrote it, mapped or not
+  /** every status value as the server wrote it, mapped or not */
   eppStatusRaw: string[] | null;
   nameservers: string[] | null;
-  // whether the domain is signed, or null when the response does not say in words that map
+  /** whether the domain is signed, or null when the response does not say in words that map */
   dnssec: boolean | null;
-  // the DNSSEC value as the server wrote it
+  /** the DNSSEC value as the server wrote it */
   dnssecRaw: string | null;
 
   // Registrar fields
-  // the registrar's identifier as the server wrote it: an IANA ID or a registry's own handle
+  /** the registrar's identifier as the server wrote it: an IANA ID or a registry's own handle */
   registrarId: string | null;
-  // the registrar's IANA ID, when registrarId is one
+  /** the registrar's IANA ID, when registrarId is one */
   registrarIanaId: number | null;
   registrarName: string | null;
   registrarOrg: string | null;

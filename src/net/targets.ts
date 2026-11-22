@@ -15,17 +15,19 @@ export interface PolicyTarget {
   protocol: 'whois' | 'rdap';
   host: string;
   port: number;
-  // the full URL, for RDAP
+  /** the full URL, for RDAP */
   url?: string;
 }
 
 export interface TargetPolicy {
-  // query an http:// RDAP server as given instead of upgrading it to https. Default false
+  /** query an http:// RDAP server as given instead of upgrading it to https. Default false */
   allowInsecure?: boolean;
-  // allow IP literals, localhost and names that are only meaningful on a local network.
-  // Default false
+  /**
+   * allow IP literals, localhost and names that are only meaningful on a local network.
+   * Default false
+   */
   allowPrivate?: boolean;
-  // a further check of the caller's own. Returning false blocks the target
+  /** a further check of the caller's own. Returning false blocks the target */
   allow?: (target: PolicyTarget) => boolean;
 }
 

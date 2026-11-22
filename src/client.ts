@@ -46,63 +46,75 @@ import {
 import { withoutRedacted } from './record/redaction';
 import type { WhoisCallOptions, WhoisHop } from './whois/client';
 
-// lookup() takes every call option. A registrar that fails or has no record after the
-// registry answered leaves the registry's answer standing, with the failed hop in `attempts`
+/**
+ * lookup() takes every call option. A registrar that fails or has no record after the
+ * registry answered leaves the registry's answer standing, with the failed hop in `attempts`
+ */
 export interface LookupOptions extends CallOptions {
-  // use only this protocol, instead of RDAP first and WHOIS as the fallback
+  /** use only this protocol, instead of RDAP first and WHOIS as the fallback */
   protocol?: Protocol;
-  // also return how the record was built: every server's answer, where each group of the
-  // record came from, and where the registry and the registrar disagree
+  /**
+   * also return how the record was built: every server's answer, where each group of the
+   * record came from, and where the registry and the registrar disagree
+   */
   verbose?: boolean;
-  // make the placeholder text a server writes for a value it withheld ("REDACTED FOR
-  // PRIVACY") null in the record, as if the server had not sent it. Off by default, so values
-  // come back as sent; the text is always in `attempts`.
+  /**
+   * make the placeholder text a server writes for a value it withheld ("REDACTED FOR
+   * PRIVACY") null in the record, as if the server had not sent it. Off by default, so values
+   * come back as sent; the text is always in `attempts`.
+   */
   nullRedacted?: boolean;
 }
 
-// lookup()'s options with `verbose` set, which type the result as a VerboseLookupResult
+/** lookup()'s options with `verbose` set, which type the result as a VerboseLookupResult */
 export type VerboseLookupOptions = LookupOptions & { verbose: true };
 
-// one protocol's part in a lookup. `hops` is every server asked, in order, with what each
-// said, and `protocol` says which kind of hop they are: checking it narrows `hops`
+/**
+ * one protocol's part in a lookup. `hops` is every server asked, in order, with what each
+ * said, and `protocol` says which kind of hop they are: checking it narrows `hops`
+ */
 export type LookupAttempt = (
   { protocol: 'rdap'; hops: RdapHop[] } | { protocol: 'whois'; hops: WhoisHop[] }
 ) & {
-  // why the protocol lookup failed as a whole, when it did. When it gave no usable answer
-  // because an answer could not be read, this is why it could not
+  /**
+   * why the protocol lookup failed as a whole, when it did. When it gave no usable answer
+   * because an answer could not be read, this is why it could not
+   */
   error?: ErrorInfo;
 };
 
-// the server whose answer the result rests on
+/** the server whose answer the result rests on */
 export interface LookupSourceInfo {
   protocol: Protocol;
   server: string;
   serverType: ServerType;
-  // the URL that answered, for RDAP
+  /** the URL that answered, for RDAP */
   url?: string;
 }
 
 export interface LookupResult {
-  // the name that was looked up, in ASCII
+  /** the name that was looked up, in ASCII */
   query: string;
-  // what is known about the domain: `available` when the registry said the name does not
-  // exist, `reserved` when it holds the name back, and otherwise a registered name's data
+  /**
+   * what is known about the domain: `available` when the registry said the name does not
+   * exist, `reserved` when it holds the name back, and otherwise a registered name's data
+   */
   record: DomainRecord;
-  // the server the record is based on: the registrar's when it answered, else the registry's
+  /** the server the record is based on: the registrar's when it answered, else the registry's */
   source: LookupSourceInfo;
 }
 
-// what lookup() returns with `verbose: true`
+/** what lookup() returns with `verbose: true` */
 export interface VerboseLookupResult extends LookupResult {
-  // every protocol tried, in order, with each server's answer as it was sent
+  /** every protocol tried, in order, with each server's answer as it was sent */
   attempts: LookupAttempt[];
-  // which server each group of the record came from; null for an available name
+  /** which server each group of the record came from; null for an available name */
   provenance: RecordProvenance | null;
-  // fields where the registry and the registrar disagree
+  /** fields where the registry and the registrar disagree */
   discrepancies: Discrepancy[];
 }
 
-// one name's outcome in a batch: its result, or what its lookup threw. `ok` says which
+/** one name's outcome in a batch: its result, or what its lookup threw. `ok` says which */
 export type LookupManyItem<R extends LookupResult = LookupResult> =
   { query: string; ok: true; result: R } | { query: string; ok: false; error: unknown };
 
@@ -122,12 +134,14 @@ export class RdapWhois {
     return this.core.options;
   }
 
-  // Look a query up over WHOIS and return every server's answer in the order they were
-  // asked: the registry's first, then the registrar's when the registry referred to one.
-  //
-  // The first server failing is thrown, a throttle once retries run out. A server that says
-  // it has no such object is a hop with status 'notfound', and a referral that fails is a
-  // hop with status 'error' next to the hops that answered.
+  /**
+   * Look a query up over WHOIS and return every server's answer in the order they were
+   * asked: the registry's first, then the registrar's when the registry referred to one.
+   *
+   * The first server failing is thrown, a throttle once retries run out. A server that says
+   * it has no such object is a hop with status 'notfound', and a referral that fails is a
+   * hop with status 'error' next to the hops that answered.
+   */
   async whois(query: string, callOptions: WhoisCallOptions = {}): Promise<WhoisHop[]> {
     const { whoisCall } = await loadWhois();
     return this.core.inRun(this.core.merge(callOptions), options =>
@@ -135,12 +149,14 @@ export class RdapWhois {
     );
   }
 
-  // Look a query up over RDAP and return every server's answer in the order they were
-  // asked: the registry's first, then the registrar's when the registry links to one.
-  //
-  // The first server failing is thrown, a throttle once retries run out. A server that says
-  // it has no such object is a hop with status 'notfound', and a referral that fails is a
-  // hop with status 'error' next to the hops that answered.
+  /**
+   * Look a query up over RDAP and return every server's answer in the order they were
+   * asked: the registry's first, then the registrar's when the registry links to one.
+   *
+   * The first server failing is thrown, a throttle once retries run out. A server that says
+   * it has no such object is a hop with status 'notfound', and a referral that fails is a
+   * hop with status 'error' next to the hops that answered.
+   */
   async rdap(query: string, callOptions: RdapCallOptions = {}): Promise<RdapHop[]> {
     return this.core.inRun(this.core.merge(callOptions), options =>
       rdapCall(this.core, query, options)
@@ -288,17 +304,19 @@ export class RdapWhois {
     };
   }
 
-  // Look a domain up and return one answer: RDAP where the TLD has an RDAP server, WHOIS
-  // otherwise or as the fallback.
-  //
-  // The answer is a record: `available` when the registry itself said the name does not
-  // exist, `reserved` when the registry holds it back, and otherwise the registered name's
-  // data. Anything else is thrown: a TLD with no server to ask is a NoServerError, a timeout
-  // or a throttle is never reported as available, and servers that answered with too little
-  // to use are a NoUsableAnswerError.
-  //
-  // With `verbose`, the result also has every server's answer (`attempts`), where each group
-  // of the record came from and where the registry and the registrar disagree.
+  /**
+   * Look a domain up and return one answer: RDAP where the TLD has an RDAP server, WHOIS
+   * otherwise or as the fallback.
+   *
+   * The answer is a record: `available` when the registry itself said the name does not
+   * exist, `reserved` when the registry holds it back, and otherwise the registered name's
+   * data. Anything else is thrown: a TLD with no server to ask is a NoServerError, a timeout
+   * or a throttle is never reported as available, and servers that answered with too little
+   * to use are a NoUsableAnswerError.
+   *
+   * With `verbose`, the result also has every server's answer (`attempts`), where each group
+   * of the record came from and where the registry and the registrar disagree.
+   */
   async lookup(query: string, callOptions: VerboseLookupOptions): Promise<VerboseLookupResult>;
   async lookup(query: string, callOptions?: LookupOptions): Promise<LookupResult>;
   async lookup(query: string, callOptions: LookupOptions = {}): Promise<LookupResult> {
@@ -468,9 +486,11 @@ export class RdapWhois {
     );
   }
 
-  // Look up many names. Results arrive as each lookup finishes, not in the order given,
-  // with `batchConcurrency` lookups in flight. Each server stays inside its own limit, so names
-  // on different registries proceed side by side while one busy registry waits its turn.
+  /**
+   * Look up many names. Results arrive as each lookup finishes, not in the order given,
+   * with `batchConcurrency` lookups in flight. Each server stays inside its own limit, so names
+   * on different registries proceed side by side while one busy registry waits its turn.
+   */
   lookupMany(
     queries: Iterable<string>,
     callOptions: VerboseLookupOptions
@@ -512,7 +532,7 @@ export class RdapWhois {
     }
   }
 
-  // lookupMany(), collected: every outcome, in the order the names were given
+  /** lookupMany(), collected: every outcome, in the order the names were given */
   async lookupAll(
     queries: Iterable<string>,
     callOptions: VerboseLookupOptions
@@ -541,18 +561,20 @@ export class RdapWhois {
 let defaultClient: RdapWhois | undefined;
 const shared = (): RdapWhois => (defaultClient ??= new RdapWhois());
 
-// RdapWhois.lookup() on a client with the default options, shared across the program.
-// Construct an RdapWhois of your own for a proxy, a cache or other limits
+/**
+ * RdapWhois.lookup() on a client with the default options, shared across the program.
+ * Construct an RdapWhois of your own for a proxy, a cache or other limits
+ */
 export function lookup(query: string, options: VerboseLookupOptions): Promise<VerboseLookupResult>;
 export function lookup(query: string, options?: LookupOptions): Promise<LookupResult>;
 export function lookup(query: string, options?: LookupOptions): Promise<LookupResult> {
   return shared().lookup(query, options);
 }
 
-// RdapWhois.whois() on the shared default client
+/** RdapWhois.whois() on the shared default client */
 export const whois = (query: string, options?: WhoisCallOptions): Promise<WhoisHop[]> =>
   shared().whois(query, options);
 
-// RdapWhois.rdap() on the shared default client
+/** RdapWhois.rdap() on the shared default client */
 export const rdap = (query: string, options?: RdapCallOptions): Promise<RdapHop[]> =>
   shared().rdap(query, options);

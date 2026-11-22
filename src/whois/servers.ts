@@ -34,8 +34,10 @@ export function getServerConfig(host: string): WhoisServer {
   return encoding ? { ...config, encoding } : config;
 }
 
-// the type of a WHOIS server as the client reports it on a hop: from the routing data, with
-// a renamed host resolved to its current name
+/**
+ * the type of a WHOIS server as the client reports it on a hop: from the routing data, with
+ * a renamed host resolved to its current name
+ */
 export function getWhoisServerType(host: string): WhoisServerType {
   return getServerConfig(host).serverType;
 }
@@ -86,7 +88,7 @@ export function getTldZone(domain: string): string | null {
   return null;
 }
 
-// determines the appropriate WHOIS server for a given query
+/** determines the appropriate WHOIS server for a given query */
 export function getWhoisServer(queryType: WhoisQueryType, query: string): string | null {
   // an IP address, AS number or handle goes to IANA, which refers to the regional registry
   // that holds it

@@ -57,7 +57,7 @@ export const stripRdapEndpoint = (url: string): string => {
   return endpointIndex !== -1 ? url.substring(0, endpointIndex) : url;
 };
 
-// an RDAP server's base URL in one form: lower case, https, no query path, one trailing slash
+/** an RDAP server's base URL in one form: lower case, https, no query path, one trailing slash */
 export const normalizeRdapServer = (server: string): string => {
   if (!server) return '';
   server = String(server).toLowerCase();
@@ -83,8 +83,10 @@ export const normalizeRdapServer = (server: string): string => {
   return normalizedServer.toLowerCase();
 };
 
-// build the RDAP query path for given query and queryType
-// only IP and ASN are different
+/**
+ * build the RDAP query path for given query and queryType
+ * only IP and ASN are different
+ */
 export function getRdapQueryPath(queryType: RdapQueryType, query: string): string {
   switch (queryType) {
     case DOMAIN_QUERY_TYPE:
@@ -102,7 +104,7 @@ export function getRdapQueryPath(queryType: RdapQueryType, query: string): strin
   }
 }
 
-// type guards for different RDAP response types
+/** type guards for different RDAP response types */
 export function isRdapResponse(r: unknown): r is RdapResponse {
   const input = r as RdapResponseInput;
   return (
@@ -157,7 +159,7 @@ export const isNameserverResponse = (r: RdapResponse): r is RdapNameserverRespon
   return isObjectResponse(r) && r.objectClassName === RDAP_NAMESERVER_OBJECT_CLASS;
 };
 
-// helper function to find entity by role
+/** helper function to find entity by role */
 export const findEntitiesByRole = (
   entities: RdapEntityObject[] | undefined,
   role: RdapEntityRole
@@ -166,7 +168,7 @@ export const findEntitiesByRole = (
   return entities.filter(entity => entity.roles?.includes(role));
 };
 
-// gather all entities by their roles into a map
+/** gather all entities by their roles into a map */
 export const gatherEntitiesByRole = (
   entities: RdapEntityObject[] | undefined
 ): Record<RdapEntityRole, RdapEntityObject[]> => {
@@ -186,7 +188,7 @@ export const gatherEntitiesByRole = (
   );
 };
 
-// helper function to find events by action
+/** helper function to find events by action */
 export const findEventByAction = (
   events: RdapEvent[] | undefined,
   action: string
@@ -195,13 +197,13 @@ export const findEventByAction = (
   return events.find(event => event.eventAction === action);
 };
 
-// helper function to find links by rel
+/** helper function to find links by rel */
 export const findLinkByRel = (links: RdapLink[] | undefined, rel: string): RdapLink | undefined => {
   if (!links) return undefined;
   return links.find(link => link.rel === rel);
 };
 
-// get the EPP status from the RDAP status string
+/** get the EPP status from the RDAP status string */
 export const rdapGetEppStatus = (status: string): string | null => {
   return status in RDAP_EPP_STATUS_MAP ? RDAP_EPP_STATUS_MAP[status] : null;
 };
