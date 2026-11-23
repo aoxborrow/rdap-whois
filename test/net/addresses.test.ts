@@ -1,4 +1,4 @@
-// Which addresses the library connects to: the public ones, judged against the IANA
+// which addresses the library connects to: the public ones, judged against the IANA
 // special-purpose registries for IPv4 and IPv6, and the forms that carry an IPv4 address.
 import { describe, expect, it } from 'vitest';
 import { isIpLiteral, isPublicAddress } from '../../src/net/addresses';

@@ -58,7 +58,7 @@ function withPending(connection: Connection, pending: Uint8Array): Connection {
   };
 }
 
-// The addresses to connect to for `host`, IPv4 first. Every address the name resolves to
+// the addresses to connect to for `host`, IPv4 first. Every address the name resolves to
 // must be public: a name with one private address among public ones is refused whole, since
 // which one a connection would get is up to the resolver. The connection is then made to
 // these addresses and never to the name, so the name cannot resolve somewhere else in between
@@ -130,18 +130,23 @@ export async function openConnection(
     { viaProxy: true }
   );
 
-  // a tunnel through the proxy to one host and port
-  const tunnel = async (to: ConnectTarget, within: AbortSignal): Promise<Connection> => {
+  // the end of the time for every address together
+  const ends = Date.now() + timeout;
+
+  // a tunnel through the proxy to one host and port. Reaching the proxy may take what is
+  // left of the time; the tunnel itself gets a share of what is left after that, split
+  // with the `others` addresses still to try after this one
+  const tunnel = async (to: ConnectTarget, others: number): Promise<Connection> => {
     let connection: Connection | undefined;
     try {
       // reach the proxy. A failure here is the proxy's, whatever the transport called it
       try {
         connection = await connect(
           { host: proxy.host, port: proxy.port },
-          { timeout, signal: within }
+          { timeout, signal: limit.signal }
         );
         if (proxy.protocol === 'https') {
-          connection = await abortable(connection.startTls(proxy.host), within);
+          connection = await abortable(connection.startTls(proxy.host), limit.signal);
         }
       } catch (error) {
         if (signal?.aborted) throw error;
@@ -160,12 +165,19 @@ export async function openConnection(
       }
 
       // ask it for the tunnel
-      const wire = new Wire(connection, within);
+      const attempt = deadline(
+        Math.max(1, Math.floor((ends - Date.now()) / (others + 1))),
+        `Timed out waiting for the proxy to connect to ${to.host}:${to.port}`,
+        limit.signal,
+        { viaProxy: true }
+      );
+      const wire = new Wire(connection, attempt.signal);
       try {
         const auth = { username: proxy.username, password: proxy.password };
         if (proxy.protocol === 'socks5') await socks5Handshake(wire, to, auth);
         else await httpConnectHandshake(wire, to, auth);
       } finally {
+        attempt.clear();
         // released whether or not the handshake worked, so close() below can end the streams
         connection = withPending(connection, wire.release());
       }
@@ -177,30 +189,20 @@ export async function openConnection(
   };
 
   try {
-    if (!resolve) return await tunnel(target, limit.signal);
+    if (!resolve) return await tunnel(target, 0);
     // the tunnel goes to an address checked here, so the proxy is never given a name to
     // resolve for itself. Checked before the proxy is reached, so a refused target costs no
     // connection. When the proxy cannot reach one address, or does not open the tunnel to
-    // it within its share of the time left, the next is tried through it
-    const ends = Date.now() + timeout;
+    // it within its share of the time, the next is tried through it
     const addresses = await publicAddresses(target.host, resolve, limit.signal);
     let failure: unknown;
     for (const [index, host] of addresses.entries()) {
-      const share = Math.floor((ends - Date.now()) / (addresses.length - index));
-      const attempt = deadline(
-        Math.max(1, share),
-        `Timed out waiting for the proxy to connect to ${host}:${target.port}`,
-        limit.signal,
-        { viaProxy: true }
-      );
       try {
-        return await tunnel({ host, port: target.port }, attempt.signal);
+        return await tunnel({ host, port: target.port }, addresses.length - index - 1);
       } catch (error) {
         const another = error instanceof ConnectionError || error instanceof TimeoutError;
         if (limit.signal.aborted || !another) throw error;
         failure = error;
-      } finally {
-        attempt.clear();
       }
     }
     throw failure;

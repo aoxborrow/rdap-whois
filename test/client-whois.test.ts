@@ -74,7 +74,7 @@ const latin1 = (text: string): Uint8Array => Uint8Array.from(text, c => c.charCo
 
 type Responder = (query: string) => WhoisReply | Promise<WhoisReply>;
 
-// A resolver that gives every hostname a public address of its own, so the library's check
+// a resolver that gives every hostname a public address of its own, so the library's check
 // of each address passes and no test asks real DNS. The addresses are never connected to:
 // the connect below, or a test proxy, routes them to local servers
 const addresses = new Map<string, string>();

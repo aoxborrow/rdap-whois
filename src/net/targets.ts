@@ -4,7 +4,7 @@ import ipaddr from 'ipaddr.js';
 // referral hostnames and redirect Location headers all come from a server's response, and
 // without a check the library would connect wherever a response points.
 //
-// This is the check on the name. The addresses a name resolves to are checked where the
+// this is the check on the name. The addresses a name resolves to are checked where the
 // connection is made (openConnection in tunnel.ts): every one must be public, and the
 // connection goes to those addresses, never to the name, so a name cannot point somewhere
 // private (127.0.0.1.nip.io) or be rebound between the check and the connect. allowPrivate

@@ -1,12 +1,12 @@
 import ipaddr from 'ipaddr.js';
 
-// Which IP addresses count as public: the only ones the library connects to unless the
+// which IP addresses count as public: the only ones the library connects to unless the
 // target policy allows private hosts. Everything else is refused, whatever name led to it:
 // loopback, private and shared (CGNAT) space, link-local (cloud metadata at
 // 169.254.169.254 and fe80::/10), unique-local, multicast, broadcast, unspecified,
 // documentation, benchmarking and reserved ranges.
 //
-// An IPv6 address that carries an IPv4 address the way a host would reach it (IPv4-mapped
+// an IPv6 address that carries an IPv4 address the way a host would reach it (IPv4-mapped
 // ::ffff:0:0/96, and the NAT64 prefix 64:ff9b::/96) is judged by that IPv4 address. Other
 // transition forms (6to4, Teredo, IPv4-translated, the local-use NAT64 prefix and the
 // deprecated IPv4-compatible ::/96) are refused outright: no registry server is reached

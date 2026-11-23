@@ -1,10 +1,10 @@
-// The address check at the final connection (AAR-32): every address a server's name
+// the address check at the final connection (AAR-32): every address a server's name
 // resolves to must be public, and the connection goes to those addresses and never to the
 // name, for WHOIS and RDAP, direct and through a proxy, for the first server, referrals and
 // redirects. The resolver is a stand-in, so nothing here asks real DNS.
 import { afterEach, describe, expect, it } from 'vitest';
 import { RdapWhois } from '../src/client';
-import { BlockedTargetError, ConnectionError } from '../src/errors';
+import { BlockedTargetError, ConnectionError, TimeoutError } from '../src/errors';
 import { parseProxy } from '../src/net/proxy';
 import { openConnection } from '../src/net/tunnel';
 import type { Connect, Resolve } from '../src/net/types';
@@ -119,11 +119,14 @@ describe('a direct connection', () => {
     const whois = started(await startWhoisServer(() => RECORD));
     const { resolve } = resolver({ 'whois.example.com': ['93.184.215.1', '93.184.215.2'] });
     const tried: { host: string; timeout?: number }[] = [];
-    // the first address never answers the connection attempt
+    // the first address never answers the connection attempt, so its connect times out
     const connect: Connect = (target, options) => {
       tried.push({ host: target.host, timeout: options?.timeout });
-      if (target.host === '93.184.215.1')
-        return nodeConnect({ host: '10.255.255.1', port: 43 }, options);
+      if (target.host === '93.184.215.1') {
+        return new Promise((_, reject) =>
+          setTimeout(() => reject(new TimeoutError('silent')), options?.timeout)
+        );
+      }
       return nodeConnect({ host: '127.0.0.1', port: whois.port }, options);
     };
     const connection = await openConnection(
@@ -253,6 +256,30 @@ describe('through a proxy', () => {
     ).toBe(RECORD);
     expect(working.requests).toEqual([{ host: '93.184.215.2', port: 43 }]);
     expect(Date.now() - began).toBeLessThan(600);
+  });
+
+  it('lets reaching a slow proxy take the time it needs, beyond one address’s share', async () => {
+    const whois = started(await startWhoisServer(() => RECORD));
+    const proxy = started(
+      await startSocksProxy({ resolve: () => ({ host: '127.0.0.1', port: whois.port }) })
+    );
+    const { resolve } = resolver({ 'whois.example.com': ['93.184.215.1', '93.184.215.2'] });
+    // reaching the proxy takes more than half the time
+    const connect: Connect = async (target, options) => {
+      await new Promise(resolve => setTimeout(resolve, 400));
+      return nodeConnect(target, options);
+    };
+    const connection = await openConnection(
+      { host: 'whois.example.com', port: 43 },
+      {
+        connect,
+        proxy: parseProxy(`socks5://127.0.0.1:${proxy.port}`),
+        resolve,
+        timeout: 600,
+      }
+    );
+    await connection.close();
+    expect(proxy.requests).toEqual([{ host: '93.184.215.1', port: 43 }]);
   });
 
   it('refuses a name that resolves to a private address before reaching the proxy', async () => {
