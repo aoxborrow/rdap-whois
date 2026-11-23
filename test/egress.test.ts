@@ -133,10 +133,30 @@ describe('a direct connection', () => {
     expect(
       await whoisExchange(connection, 'example.com', { timeout: 1000, maxResponseBytes: 1e6 })
     ).toBe(RECORD);
-    expect(tried).toEqual([
-      { host: '93.184.215.1', timeout: 300 },
-      { host: '93.184.215.2', timeout: 300 },
-    ]);
+    expect(tried.map(attempt => attempt.host)).toEqual(['93.184.215.1', '93.184.215.2']);
+    // the first gets half the time, and the second what is left of it
+    expect(tried[0]!.timeout).toBeLessThanOrEqual(300);
+    expect(tried[0]!.timeout).toBeGreaterThan(250);
+    expect(tried[1]!.timeout).toBeLessThanOrEqual(tried[0]!.timeout! + 10);
+  });
+
+  it('gives the time a quick failure leaves to the addresses still to try', async () => {
+    const whois = started(await startWhoisServer(() => RECORD));
+    const { resolve } = resolver({ 'whois.example.com': ['93.184.215.1', '93.184.215.2'] });
+    const tried: (number | undefined)[] = [];
+    // the first address refuses at once
+    const { connect: refusing } = router({ '93.184.215.2': whois });
+    const connect: Connect = (target, options) => {
+      tried.push(options?.timeout);
+      return refusing(target, options);
+    };
+    const connection = await openConnection(
+      { host: 'whois.example.com', port: 43 },
+      { connect, resolve, timeout: 1000 }
+    );
+    await connection.close();
+    expect(tried[0]).toBeLessThanOrEqual(500);
+    expect(tried[1]).toBeGreaterThan(900);
   });
 
   it('hands the name on unresolved when there is no resolver', async () => {

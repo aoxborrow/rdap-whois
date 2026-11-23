@@ -98,15 +98,17 @@ export async function openConnection(
       if (!resolve)
         return await connect(target, { timeout: options.timeout, signal: limit.signal });
       // each address in turn, until one takes the connection. Each gets an equal share of
-      // the time, so one that drops the connection attempt cannot use it all up
+      // the time left, so one that drops the connection attempt cannot use it all up, and
+      // time a quick failure leaves goes to the addresses still to try
+      const ends = Date.now() + options.timeout;
       const addresses = await publicAddresses(target.host, resolve, limit.signal);
-      const share = Math.max(1, Math.floor(options.timeout / addresses.length));
       let failure: unknown;
-      for (const host of addresses) {
+      for (const [index, host] of addresses.entries()) {
+        const share = Math.floor((ends - Date.now()) / (addresses.length - index));
         try {
           return await connect(
             { host, port: target.port },
-            { timeout: share, signal: limit.signal }
+            { timeout: Math.max(1, share), signal: limit.signal }
           );
         } catch (error) {
           const another = error instanceof ConnectionError || error instanceof TimeoutError;
