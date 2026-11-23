@@ -221,6 +221,40 @@ describe('through a proxy', () => {
     expect(proxy.requests.map(request => request.host)).toEqual(['93.184.215.1', '93.184.215.2']);
   });
 
+  it('moves on to the next checked address when the proxy does not open the tunnel in its share of the time', async () => {
+    const whois = started(await startWhoisServer(() => RECORD));
+    const hanging = started(await startSocksProxy({ hang: true }));
+    const working = started(
+      await startSocksProxy({ resolve: () => ({ host: '127.0.0.1', port: whois.port }) })
+    );
+    const { resolve } = resolver({ 'whois.example.com': ['93.184.215.1', '93.184.215.2'] });
+    // the first connection reaches a proxy that never opens the tunnel, the next a working one
+    const tried: string[] = [];
+    const connect: Connect = (target, options) =>
+      nodeConnect(
+        { host: '127.0.0.1', port: tried.length === 0 ? hanging.port : working.port },
+        options
+      ).then(connection => {
+        tried.push(target.host);
+        return connection;
+      });
+    const began = Date.now();
+    const connection = await openConnection(
+      { host: 'whois.example.com', port: 43 },
+      {
+        connect,
+        proxy: parseProxy(`socks5://proxy.example:1080`),
+        resolve,
+        timeout: 600,
+      }
+    );
+    expect(
+      await whoisExchange(connection, 'example.com', { timeout: 1000, maxResponseBytes: 1e6 })
+    ).toBe(RECORD);
+    expect(working.requests).toEqual([{ host: '93.184.215.2', port: 43 }]);
+    expect(Date.now() - began).toBeLessThan(600);
+  });
+
   it('refuses a name that resolves to a private address before reaching the proxy', async () => {
     const proxy = started(await startSocksProxy({}));
     const { resolve } = resolver({ 'whois.example.com': ['169.254.169.254'] });

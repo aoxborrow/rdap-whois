@@ -131,17 +131,17 @@ export async function openConnection(
   );
 
   // a tunnel through the proxy to one host and port
-  const tunnel = async (to: ConnectTarget): Promise<Connection> => {
+  const tunnel = async (to: ConnectTarget, within: AbortSignal): Promise<Connection> => {
     let connection: Connection | undefined;
     try {
       // reach the proxy. A failure here is the proxy's, whatever the transport called it
       try {
         connection = await connect(
           { host: proxy.host, port: proxy.port },
-          { timeout, signal: limit.signal }
+          { timeout, signal: within }
         );
         if (proxy.protocol === 'https') {
-          connection = await abortable(connection.startTls(proxy.host), limit.signal);
+          connection = await abortable(connection.startTls(proxy.host), within);
         }
       } catch (error) {
         if (signal?.aborted) throw error;
@@ -160,7 +160,7 @@ export async function openConnection(
       }
 
       // ask it for the tunnel
-      const wire = new Wire(connection, limit.signal);
+      const wire = new Wire(connection, within);
       try {
         const auth = { username: proxy.username, password: proxy.password };
         if (proxy.protocol === 'socks5') await socks5Handshake(wire, to, auth);
@@ -177,18 +177,30 @@ export async function openConnection(
   };
 
   try {
-    if (!resolve) return await tunnel(target);
+    if (!resolve) return await tunnel(target, limit.signal);
     // the tunnel goes to an address checked here, so the proxy is never given a name to
     // resolve for itself. Checked before the proxy is reached, so a refused target costs no
-    // connection. When the proxy cannot reach one address, the next is tried through it
+    // connection. When the proxy cannot reach one address, or does not open the tunnel to
+    // it within its share of the time left, the next is tried through it
+    const ends = Date.now() + timeout;
     const addresses = await publicAddresses(target.host, resolve, limit.signal);
     let failure: unknown;
-    for (const host of addresses) {
+    for (const [index, host] of addresses.entries()) {
+      const share = Math.floor((ends - Date.now()) / (addresses.length - index));
+      const attempt = deadline(
+        Math.max(1, share),
+        `Timed out waiting for the proxy to connect to ${host}:${target.port}`,
+        limit.signal,
+        { viaProxy: true }
+      );
       try {
-        return await tunnel({ host, port: target.port });
+        return await tunnel({ host, port: target.port }, attempt.signal);
       } catch (error) {
-        if (limit.signal.aborted || !(error instanceof ConnectionError)) throw error;
+        const another = error instanceof ConnectionError || error instanceof TimeoutError;
+        if (limit.signal.aborted || !another) throw error;
         failure = error;
+      } finally {
+        attempt.clear();
       }
     }
     throw failure;
