@@ -152,6 +152,31 @@ describe('through a proxy', () => {
     }
   );
 
+  it('moves on to the next checked address when the proxy cannot reach one', async () => {
+    const whois = started(await startWhoisServer(() => RECORD));
+    const proxy = started(
+      await startSocksProxy({
+        resolve: () => ({ host: '127.0.0.1', port: whois.port }),
+        // host unreachable for the first address
+        reply: host => (host === '93.184.215.1' ? 0x04 : undefined),
+      })
+    );
+    const { resolve } = resolver({ 'whois.example.com': ['93.184.215.1', '93.184.215.2'] });
+    const connection = await openConnection(
+      { host: 'whois.example.com', port: 43 },
+      {
+        connect: nodeConnect,
+        proxy: parseProxy(`socks5://127.0.0.1:${proxy.port}`),
+        resolve,
+        timeout: 1000,
+      }
+    );
+    expect(
+      await whoisExchange(connection, 'example.com', { timeout: 1000, maxResponseBytes: 1e6 })
+    ).toBe(RECORD);
+    expect(proxy.requests.map(request => request.host)).toEqual(['93.184.215.1', '93.184.215.2']);
+  });
+
   it('refuses a name that resolves to a private address before reaching the proxy', async () => {
     const proxy = started(await startSocksProxy({}));
     const { resolve } = resolver({ 'whois.example.com': ['169.254.169.254'] });

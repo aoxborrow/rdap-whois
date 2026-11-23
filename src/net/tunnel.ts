@@ -124,54 +124,69 @@ export async function openConnection(
     signal,
     { viaProxy: true }
   );
-  let connection: Connection | undefined;
-  try {
-    // the tunnel goes to an address checked here when there is a resolver, so the proxy is
-    // never given a name to resolve for itself. Checked before the proxy is reached, so a
-    // refused target costs no connection
-    const to = resolve
-      ? { host: (await publicAddresses(target.host, resolve, limit.signal))[0], port: target.port }
-      : target;
 
-    // reach the proxy. A failure here is the proxy's, whatever the transport called it
+  // a tunnel through the proxy to one host and port
+  const tunnel = async (to: ConnectTarget): Promise<Connection> => {
+    let connection: Connection | undefined;
     try {
-      connection = await connect(
-        { host: proxy.host, port: proxy.port },
-        { timeout, signal: limit.signal }
-      );
-      if (proxy.protocol === 'https') {
-        connection = await abortable(connection.startTls(proxy.host), limit.signal);
+      // reach the proxy. A failure here is the proxy's, whatever the transport called it
+      try {
+        connection = await connect(
+          { host: proxy.host, port: proxy.port },
+          { timeout, signal: limit.signal }
+        );
+        if (proxy.protocol === 'https') {
+          connection = await abortable(connection.startTls(proxy.host), limit.signal);
+        }
+      } catch (error) {
+        if (signal?.aborted) throw error;
+        if (error instanceof TimeoutError) {
+          throw new ProxyError('Timed out connecting to the proxy', {
+            cause: error,
+            viaProxy: true,
+          });
+        }
+        if (error instanceof RdapWhoisError) {
+          throw new ProxyError(`Could not connect to the proxy: ${error.message}`, {
+            cause: error,
+          });
+        }
+        throw error;
       }
+
+      // ask it for the tunnel
+      const wire = new Wire(connection, limit.signal);
+      try {
+        const auth = { username: proxy.username, password: proxy.password };
+        if (proxy.protocol === 'socks5') await socks5Handshake(wire, to, auth);
+        else await httpConnectHandshake(wire, to, auth);
+      } finally {
+        // released whether or not the handshake worked, so close() below can end the streams
+        connection = withPending(connection, wire.release());
+      }
+      return connection;
     } catch (error) {
-      if (signal?.aborted) throw error;
-      if (error instanceof TimeoutError) {
-        throw new ProxyError('Timed out connecting to the proxy', {
-          cause: error,
-          viaProxy: true,
-        });
-      }
-      if (error instanceof RdapWhoisError) {
-        throw new ProxyError(`Could not connect to the proxy: ${error.message}`, {
-          cause: error,
-        });
-      }
+      await connection?.close().catch(() => {});
       throw error;
     }
+  };
 
-    // ask it for the tunnel
-    const wire = new Wire(connection, limit.signal);
-    try {
-      const auth = { username: proxy.username, password: proxy.password };
-      if (proxy.protocol === 'socks5') await socks5Handshake(wire, to, auth);
-      else await httpConnectHandshake(wire, to, auth);
-    } finally {
-      // released whether or not the handshake worked, so close() below can end the streams
-      connection = withPending(connection, wire.release());
+  try {
+    if (!resolve) return await tunnel(target);
+    // the tunnel goes to an address checked here, so the proxy is never given a name to
+    // resolve for itself. Checked before the proxy is reached, so a refused target costs no
+    // connection. When the proxy cannot reach one address, the next is tried through it
+    const addresses = await publicAddresses(target.host, resolve, limit.signal);
+    let failure: unknown;
+    for (const host of addresses) {
+      try {
+        return await tunnel({ host, port: target.port });
+      } catch (error) {
+        if (limit.signal.aborted || !(error instanceof ConnectionError)) throw error;
+        failure = error;
+      }
     }
-    return connection;
-  } catch (error) {
-    await connection?.close().catch(() => {});
-    throw error;
+    throw failure;
   } finally {
     limit.clear();
   }
