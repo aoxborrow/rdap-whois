@@ -6,14 +6,14 @@ import type { ClientEvent } from '../src/core';
 import {
   ConnectionError,
   EmptyResponseError,
-  InvalidQueryError,
+  BlockedTargetError,
   NoServerError,
   RateLimitError,
   RdapWhoisError,
   ServerError,
   TimeoutError,
 } from '../src/errors';
-import type { Connect } from '../src/net/types';
+import type { Connect, Resolve } from '../src/net/types';
 import { connect as nodeConnect } from '../src/transports/node';
 import {
   closedPort,
@@ -74,7 +74,21 @@ const latin1 = (text: string): Uint8Array => Uint8Array.from(text, c => c.charCo
 
 type Responder = (query: string) => WhoisReply | Promise<WhoisReply>;
 
-// start a WHOIS server per hostname and a connect that routes those hostnames to them
+// a resolver that gives every hostname a public address of its own, so the library's check
+// of each address passes and no test asks real DNS. The addresses are never connected to:
+// the connect below, or a test proxy, routes them to local servers
+const addresses = new Map<string, string>();
+const addressOf = (host: string): string => {
+  if (!addresses.has(host)) addresses.set(host, `93.184.215.${addresses.size + 1}`);
+  return addresses.get(host)!;
+};
+// the hostname an address was given to
+const nameOf = (address: string): string =>
+  [...addresses].find(([, value]) => value === address)?.[0] ?? address;
+const resolve: Resolve = host => Promise.resolve([addressOf(host)]);
+
+// start a WHOIS server per hostname and a connect that routes those hostnames' addresses to
+// them. `routes` is keyed by hostname
 async function network(responders: Record<string, Responder>) {
   const routes = new Map<string, { host: string; port: number }>();
   const started: Record<string, Awaited<ReturnType<typeof startWhoisServer>>> = {};
@@ -85,12 +99,12 @@ async function network(responders: Record<string, Responder>) {
     routes.set(host, server);
   }
   const connect: Connect = (target, options) =>
-    nodeConnect(routes.get(target.host) ?? target, options);
-  return { connect, servers: started, routes };
+    nodeConnect(routes.get(nameOf(target.host)) ?? target, options);
+  return { connect, resolve, servers: started, routes };
 }
 
 // fast settings for tests: no spacing between requests, and a short retry delay
-const FAST = { backoff: 1, concurrency: 4, minInterval: 0 };
+const FAST = { backoff: 1, concurrency: 4, minInterval: 0, resolve };
 
 describe('the referral loop', () => {
   it('asks the registry, then the registrar it refers to', async () => {
@@ -102,6 +116,7 @@ describe('the referral loop', () => {
     const client = new RdapWhois({
       ...FAST,
       connect: net.connect,
+      resolve,
       onEvent: e => events.push(e),
     });
 
@@ -212,7 +227,12 @@ describe('a referral that fails', () => {
 
   it('keeps the registry’s answer and reports the failed server beside it', async () => {
     const net = await refusing();
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 1 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 1,
+    });
     const hops = await client.whois('example.com');
 
     expect(hops.map(hop => [hop.server, hop.status])).toEqual([
@@ -233,7 +253,7 @@ describe('a referral that fails', () => {
     const registry = await startWhoisServer(() => REGISTRY_RECORD);
     const proxy = await startSocksProxy({
       resolve: () => ({ host: '127.0.0.1', port: registry.port }),
-      reply: host => (host === REGISTRAR ? 0x04 : undefined),
+      reply: host => (nameOf(host) === REGISTRAR ? 0x04 : undefined),
     });
     servers.push(registry, proxy);
     return proxy;
@@ -256,7 +276,7 @@ describe('a referral that fails', () => {
       tries: 1,
       error: { name: 'ConnectionError', viaProxy: true },
     });
-    expect(proxy.requests.map(request => request.host)).toEqual([REGISTRY, REGISTRAR]);
+    expect(proxy.requests.map(request => nameOf(request.host))).toEqual([REGISTRY, REGISTRAR]);
   });
 
   it('still retries a proxy that could not open its tunnel to the first server', async () => {
@@ -275,7 +295,7 @@ describe('a referral that fails', () => {
     const iana = await startWhoisServer(() => 'refer:        whois.arin.net\r\n');
     const proxy = await startSocksProxy({
       resolve: () => ({ host: '127.0.0.1', port: iana.port }),
-      reply: host => (host === 'whois.arin.net' ? 0x04 : undefined),
+      reply: host => (nameOf(host) === 'whois.arin.net' ? 0x04 : undefined),
     });
     servers.push(iana, proxy);
     const client = new RdapWhois({
@@ -295,7 +315,7 @@ describe('a referral that fails', () => {
     const arin = await startWhoisServer(() => 'ReferralServer: whois://whois.ripe.net\r\n');
     const proxy = await startSocksProxy({
       resolve: () => ({ host: '127.0.0.1', port: arin.port }),
-      reply: host => (host === 'whois.ripe.net' ? 0x04 : undefined),
+      reply: host => (nameOf(host) === 'whois.ripe.net' ? 0x04 : undefined),
     });
     servers.push(arin, proxy);
     const client = new RdapWhois({
@@ -337,7 +357,12 @@ describe('a referral that fails', () => {
       [REGISTRY]: () => REGISTRY_RECORD,
       [REGISTRAR]: () => THROTTLED,
     });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 1 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 1,
+    });
     const hops = await client.whois('example.com');
     expect(hops[1]).toMatchObject({
       status: 'error',
@@ -374,7 +399,12 @@ describe('the first server failing', () => {
   it('is thrown, with where it happened', async () => {
     const net = await network({});
     net.routes.set(REGISTRY, { host: '127.0.0.1', port: await closedPort() });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 0,
+    });
     const error = await client.whois('example.com').catch((e: unknown) => e);
     expect(error).toBeInstanceOf(ConnectionError);
     expect(error).toMatchObject({
@@ -387,7 +417,12 @@ describe('the first server failing', () => {
 
   it('times out', async () => {
     const net = await network({ [REGISTRY]: () => ({ hang: true }) });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 0,
+    });
     await expect(client.whois('example.com', { timeout: 100 })).rejects.toBeInstanceOf(
       TimeoutError
     );
@@ -395,7 +430,12 @@ describe('the first server failing', () => {
 
   it('reports an empty response as an error', async () => {
     const net = await network({ [REGISTRY]: () => '\r\n\r\n' });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 1 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 1,
+    });
     const error = await client.whois('example.com').catch((e: unknown) => e);
     expect(error).toBeInstanceOf(EmptyResponseError);
     expect(net.servers[REGISTRY]?.queries).toHaveLength(2);
@@ -424,6 +464,7 @@ describe('retries', () => {
     const client = new RdapWhois({
       ...FAST,
       connect: net.connect,
+      resolve,
       followReferrals: 0,
       onEvent: e => events.push(e),
     });
@@ -439,7 +480,12 @@ describe('retries', () => {
 
   it('does not retry when retries are off', async () => {
     const net = await network({ [REGISTRY]: () => ({ text: 'Domain', reset: true }) });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 0,
+    });
     await expect(client.whois('example.com')).rejects.toBeInstanceOf(ConnectionError);
     expect(net.servers[REGISTRY]?.queries).toHaveLength(1);
   });
@@ -449,14 +495,24 @@ describe('retries', () => {
     const net = await network({
       [REGISTRY]: () => (++calls < 3 ? THROTTLED : REGISTRY_RECORD),
     });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, followReferrals: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      followReferrals: 0,
+    });
     const hops = await client.whois('example.com');
     expect(hops[0]).toMatchObject({ status: 'found', tries: 3 });
   });
 
   it('always throws a throttle on the first server, carrying the throttle page', async () => {
     const net = await network({ [REGISTRY]: () => THROTTLED });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 1 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 1,
+    });
     const error = (await client.whois('example.com').catch((e: unknown) => e)) as RateLimitError;
     expect(error).toBeInstanceOf(RateLimitError);
     expect(error.raw).toContain('Your connection limit exceeded');
@@ -477,6 +533,7 @@ describe('retries', () => {
     // moment the first gave up its place
     const client = new RdapWhois({
       connect: net.connect,
+      resolve,
       retries: 1,
       backoff: 300,
       followReferrals: 0,
@@ -506,6 +563,7 @@ describe('retries', () => {
     });
     const client = new RdapWhois({
       connect: net.connect,
+      resolve,
       retries: 1,
       backoff: 300,
       followReferrals: 0,
@@ -528,6 +586,7 @@ describe('retries', () => {
     });
     const client = new RdapWhois({
       connect: net.connect,
+      resolve,
       retries: 0,
       backoff: 300,
       followReferrals: 0,
@@ -555,6 +614,7 @@ describe('retries', () => {
     });
     const client = new RdapWhois({
       connect: net.connect,
+      resolve,
       retries: 0,
       timeout: 200,
       followReferrals: 0,
@@ -603,6 +663,7 @@ describe('retries', () => {
     });
     const client = new RdapWhois({
       connect: net.connect,
+      resolve,
       retries: 3,
       backoff: 1000,
       totalTimeout: 200,
@@ -625,6 +686,7 @@ describe('retries', () => {
     });
     const client = new RdapWhois({
       connect: net.connect,
+      resolve,
       retries: 1,
       backoff: 600,
       followReferrals: 0,
@@ -647,7 +709,12 @@ describe('retries', () => {
       [REGISTRY]: () => REGISTRY_RECORD,
       [REGISTRAR]: () => ({ hang: true }),
     });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, timeout: 5000 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      timeout: 5000,
+    });
     const hops = await client.whois('example.com', { totalTimeout: 150 });
     expect(hops.map(hop => hop.status)).toEqual(['found', 'error']);
     expect(hops[1]?.error).toMatchObject({ name: 'TimeoutError' });
@@ -658,6 +725,7 @@ describe('retries', () => {
     const client = new RdapWhois({
       ...FAST,
       connect: net.connect,
+      resolve,
       timeout: 5000,
       retries: 3,
       totalTimeout: 100,
@@ -672,7 +740,12 @@ describe('retries', () => {
   it('stops retrying when the caller aborts', async () => {
     const net = await network({ [REGISTRY]: () => ({ hang: true }) });
     const controller = new AbortController();
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 5 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 5,
+    });
     const pending = client.whois('example.com', { signal: controller.signal });
     setTimeout(() => controller.abort(new Error('caller gave up')), 50);
     await expect(pending).rejects.toThrow('caller gave up');
@@ -681,7 +754,12 @@ describe('retries', () => {
 
   it('rejects with the signal’s own AbortError or TimeoutError', async () => {
     const net = await network({ [REGISTRY]: () => ({ hang: true }) });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 0,
+    });
 
     const controller = new AbortController();
     const aborted = client.whois('example.com', { signal: controller.signal }).catch(e => e);
@@ -704,10 +782,10 @@ describe('the target policy', () => {
   it('refuses a first server that is not a public host', async () => {
     const client = new RdapWhois(FAST);
     await expect(client.whois('example.com', { server: '127.0.0.1' })).rejects.toBeInstanceOf(
-      InvalidQueryError
+      BlockedTargetError
     );
     await expect(client.whois('example.com', { server: 'localhost' })).rejects.toBeInstanceOf(
-      InvalidQueryError
+      BlockedTargetError
     );
   });
 
@@ -729,7 +807,7 @@ describe('the target policy', () => {
       [REGISTRY]: () => REGISTRY_RECORD.replace(REGISTRAR, 'localhost'),
     });
     const connect: Connect = (target, options) => {
-      contacted.push(target.host);
+      contacted.push(nameOf(target.host));
       return net.connect(target, options);
     };
     const client = new RdapWhois({ ...FAST, connect });
@@ -747,7 +825,7 @@ describe('the target policy', () => {
       [REGISTRAR]: () => REGISTRAR_RECORD,
     });
     const connect: Connect = (target, options) => {
-      contacted.push(target.host);
+      contacted.push(nameOf(target.host));
       return net.connect(target, options);
     };
     const client = new RdapWhois({
@@ -759,7 +837,7 @@ describe('the target policy', () => {
 
     expect(contacted).toEqual([REGISTRY]);
     expect(hops.map(hop => hop.status)).toEqual(['found', 'error']);
-    expect(hops[1]).toMatchObject({ server: REGISTRAR, error: { name: 'InvalidResponseError' } });
+    expect(hops[1]).toMatchObject({ server: REGISTRAR, error: { name: 'BlockedTargetError' } });
   });
 });
 
@@ -781,8 +859,8 @@ describe('proxy routing', () => {
 
     const hops = await client.whois('example.com');
     expect(hops[0]?.status).toBe('found');
-    // the proxy was asked for the real server by name
-    expect(proxy.requests).toEqual([{ host: REGISTRY, port: 43 }]);
+    // the proxy was asked for the address the name resolved to here, never for the name
+    expect(proxy.requests).toEqual([{ host: addressOf(REGISTRY), port: 43 }]);
     expect(events[0]).toMatchObject({ type: 'request', proxied: true });
   });
 
@@ -826,7 +904,12 @@ describe('proxy routing', () => {
 describe('options', () => {
   it('lets one call override the client’s settings', async () => {
     const net = await network({ [REGISTRY]: () => ({ text: 'Domain', reset: true }) });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, retries: 3 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      retries: 3,
+    });
     await expect(client.whois('example.com', { retries: 0 })).rejects.toBeInstanceOf(
       ConnectionError
     );
@@ -838,6 +921,7 @@ describe('options', () => {
     const client = new RdapWhois({
       ...FAST,
       connect: net.connect,
+      resolve,
       followReferrals: 0,
       onEvent: () => {
         throw new Error('listener bug');
@@ -851,7 +935,12 @@ describe('options', () => {
     const net = await network({
       'whois.denic.de': () => 'Domain: example.de\r\nStatus: connect\r\n',
     });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, followReferrals: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      followReferrals: 0,
+    });
     await client.whois('example.de');
     expect(net.servers['whois.denic.de']?.queries).toEqual(['-T dn,ace example.de']);
   });
@@ -860,7 +949,12 @@ describe('options', () => {
     const net = await network({
       'whois.registro.br': () => latin1('domain:      nic.br\r\nowner:       Núcleo\r\n'),
     });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, followReferrals: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      followReferrals: 0,
+    });
     const [hop] = await client.whois('nic.br');
     expect(hop?.raw).toContain('owner:       Núcleo');
   });
@@ -893,7 +987,12 @@ describe('options', () => {
 
   it('works out what the query is, and routes it accordingly', async () => {
     const net = await network({ 'whois.iana.org': () => 'refer:        whois.arin.net\r\n' });
-    const client = new RdapWhois({ ...FAST, connect: net.connect, followReferrals: 0 });
+    const client = new RdapWhois({
+      ...FAST,
+      connect: net.connect,
+      resolve,
+      followReferrals: 0,
+    });
     const hops = await client.whois('8.8.8.8');
     // an IP address goes to IANA, not to a TLD's registry
     expect(hops[0]?.server).toBe('whois.iana.org');

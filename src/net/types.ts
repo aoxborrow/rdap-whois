@@ -26,6 +26,12 @@ export interface ConnectOptions {
   signal?: AbortSignal;
 }
 
+/**
+ * resolves a hostname to its IP addresses, every one of them. A transport that can resolve
+ * names exports one, so the library can check each address before it connects
+ */
+export type Resolve = (host: string, options?: { signal?: AbortSignal }) => Promise<string[]>;
+
 /** opens a TCP connection. A transport is a function of this type */
 export type Connect = (target: ConnectTarget, options?: ConnectOptions) => Promise<Connection>;
 

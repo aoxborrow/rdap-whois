@@ -434,8 +434,9 @@ interface RdapWhoisOptions {
   // network
   proxy?: ProxyOption;                       // a proxy URL for both protocols, or { whois, rdap } (default: none); see Proxies
   targets?: TargetPolicy;                    // which hosts may be contacted: allowPrivate, allowInsecure, allow() (default: public hosts only)
-  fetch?: FetchLike;                         // replaces the RDAP transport (default: the runtime's)
-  connect?: Connect;                         // replaces the TCP connect, which WHOIS and proxied requests use (default: the runtime's)
+  fetch?: FetchLike;                         // replaces the RDAP transport, which then makes its own connections (default: the library's own HTTP client; the runtime's fetch on Workers)
+  connect?: Connect;                         // replaces the TCP connect, which every request but a Worker's direct RDAP uses (default: the runtime's)
+  resolve?: Resolve;                         // replaces the resolver whose addresses are checked before each connection (default: node:dns; none on Workers)
 
   // events and caching
   onEvent?: (event: ClientEvent) => void;    // called for every request, retry, referral, redirect, fallback and transform error
@@ -587,23 +588,46 @@ new RdapWhois({
 A proxy is a URL, or `{ url, connectTimeout }` with how long connecting to the proxy and
 getting a tunnel may take. The scheme says how the tunnel is asked for: `socks5://` for
 SOCKS5, `http://` for HTTP CONNECT and `https://` for HTTP CONNECT over TLS to the proxy.
-Either works for WHOIS and for RDAP. The target's name is always resolved by the proxy.
+Either works for WHOIS and for RDAP. Where there is a resolver (everywhere but Workers,
+unless you give one), the target's name is resolved here and the proxy is asked for the
+checked address, not the name (see below).
 `proxy` can be set on the client and on any single call. A proxy whose tunnel times out is
 retried, since a rotating proxy's next try leaves from another address.
 
 ### Which hosts may be contacted
 
 RDAP referral links, WHOIS referral hostnames and redirect `Location` headers all come
-from a server's response. Each is checked before anything connects to it: by default IP
-literals, `localhost` and names that only mean something on a local network are refused,
-and an `http://` RDAP server is upgraded to `https://`.
+from a server's response, and `server` may come from your own users. Each is checked
+twice before anything connects to it, and a refusal is a `BlockedTargetError`, thrown
+before anything is sent and never retried (from a referral it is a failed hop, and the
+answers before it stand):
 
-The check is on the name, not on the address it resolves to: a public-looking name that
-resolves to a private address (`127.0.0.1.nip.io`, or a name rebound between the check and
-the connection) gets through, because the transport resolves the name again when it
-connects. A service that must never reach a private address enforces that where the
-connection is made: in the `fetch` and `connect` it passes in, or with a network egress
-policy. `targets.allow()` adds a check of your own on each name.
+1. **The name.** IP literals, `localhost` and names that only mean something on a local
+   network are refused, and an `http://` RDAP server is upgraded to `https://`.
+   `targets.allow()` adds a check of your own on each name.
+2. **The addresses.** The name is resolved, and refused unless every address it resolves
+   to is public: loopback, private and CGNAT space, link-local (cloud metadata at
+   169.254.169.254), unique-local IPv6, multicast, and the documentation, benchmarking and
+   reserved ranges are not, and IPv4-mapped and NAT64 IPv6 addresses are judged by the
+   IPv4 address they carry. The connection then goes to those addresses, never to the
+   name, so it cannot resolve somewhere else in between (DNS rebinding). Through a proxy,
+   the proxy is asked for the checked address. TLS still verifies the certificate for the
+   name, and RDAP's `Host` header is still the name.
+
+`targets: { allowPrivate: true }` turns both checks off, for a server on your own network.
+
+The address check needs a resolver. On Node, Bun and Deno it is `node:dns`, and every
+request is made on a connection the library opens itself: RDAP uses its own small HTTP/1.1
+client rather than the runtime's `fetch`, one request per connection. Two cases are left
+to you:
+
+- **Your own `fetch`** makes its own connections, so its RDAP requests are not checked by
+  address. `connect` is still given the checked address.
+- **Cloudflare Workers** have no resolver. Cloudflare's sockets refuse localhost, private
+  network and Cloudflare addresses, and the Worker's own `fetch` leaves from Cloudflare's
+  edge, but a name sent to a proxy is resolved at the proxy's exit. Pass `resolve` (a DNS
+  over HTTPS lookup, for one) to have names checked and the proxy given addresses there
+  too, or use a proxy that refuses private destinations itself.
 
 ## Errors
 
@@ -617,16 +641,17 @@ gives the plain-object form used inside results and events, with all of these bu
 
 | Class                  | Retryable | When                                                                       |
 | ---------------------- | --------- | -------------------------------------------------------------------------- |
-| `InvalidQueryError`    | no        | The query is not a valid domain, IP address, AS number or handle, or the `server` asked for is one the target policy refuses |
+| `InvalidQueryError`    | no        | The query is not a valid domain, IP address, AS number or handle            |
 | `NoUsableAnswerError`  | no        | `lookup()`: servers answered, none usably, and no registry said the name does not exist |
 | `TimeoutError`         | through a proxy | Connecting or reading took longer than `timeout`. Retryable when a proxy did not open its tunnel in time, or when the wait was for a free connection to a busy server |
 | `RateLimitError`       | yes       | The server refused the request because of a rate limit                     |
 | `NoServerError`        | no        | No WHOIS or RDAP server is known for the query                             |
 | `ProxyError`           | yes       | The proxy refused, rejected the credentials or could not reach the host    |
 | `EmptyResponseError`   | yes       | The server closed the connection without sending anything                  |
-| `InvalidResponseError` | no        | The response is unparseable, too large or about a different object, or it referred or redirected to a host the target policy refuses |
+| `InvalidResponseError` | no        | The response is unparseable, too large or about a different object        |
 | `ServerError`          | for a 5xx | The server answered with an error of its own                               |
-| `ConnectionError`      | yes       | The connection was refused, reset or closed early                          |
+| `ConnectionError`      | yes       | The connection was refused, reset or closed early, or the name did not resolve (not retried when it does not exist) |
+| `BlockedTargetError`   | no        | The target policy refused the server, a referral or a redirect: by its name, or because an address it resolves to is not public |
 
 A call can also reject with errors that are not the library's own:
 
@@ -661,9 +686,10 @@ is an instance of the other copy's class of the same name.
 Bun and Deno implement the Node APIs the Node transport uses, so the library should work on
 both; neither is tested, and a report that it does not is welcome.
 
-The library picks the TCP transport when the first WHOIS or proxied request needs one: the
-Workers one when `navigator.userAgent` is `'Cloudflare-Workers'`, which is how a Worker
-identifies itself, and the Node one otherwise. A runtime that should not be told apart this
+The library picks the TCP transport when the first request needs one (every request on
+Node, Bun and Deno, where RDAP goes over the library's own HTTP client too; WHOIS and
+proxied requests on Workers): the Workers one when `navigator.userAgent` is
+`'Cloudflare-Workers'`, which is how a Worker identifies itself, and the Node one otherwise. A runtime that should not be told apart this
 way, such as a test that sets `navigator.userAgent`, can pass `connect` to choose: the Node
 transport's `connect` from `@aoxborrow/rdap-whois/transports/node`, or any function of the
 same shape. The same check refuses a proxied RDAP request on Workers unless `fetch` is

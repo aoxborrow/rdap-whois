@@ -64,7 +64,8 @@ export type RdapWhoisErrorName =
   | 'EmptyResponseError'
   | 'InvalidResponseError'
   | 'ServerError'
-  | 'ConnectionError';
+  | 'ConnectionError'
+  | 'BlockedTargetError';
 
 // marks the library's errors under a key every copy of the library shares (see below)
 const BRAND = Symbol.for('@aoxborrow/rdap-whois/error');
@@ -142,10 +143,7 @@ export class RdapWhoisError extends Error {
 
 Object.defineProperty(RdapWhoisError.prototype, BRAND, { value: true });
 
-/**
- * the query is not a valid domain, IP address, AS number or handle, or the server asked
- * for is one the target policy refuses
- */
+/** the query is not a valid domain, IP address, AS number or handle */
 export class InvalidQueryError extends RdapWhoisError {
   override readonly name = 'InvalidQueryError' as const;
 }
@@ -233,10 +231,7 @@ export interface ResponseDetails extends ErrorDetails {
   status?: number;
 }
 
-/**
- * the response could not be used: not parseable, too large, or about a different object.
- * Also a referral or redirect to a host the target policy refuses
- */
+/** the response could not be used: not parseable, too large, or about a different object */
 export class InvalidResponseError extends RdapWhoisError {
   override readonly name = 'InvalidResponseError' as const;
   readonly status?: number;
@@ -267,6 +262,15 @@ export class ServerError extends RdapWhoisError {
   protected override defaultRetryable(details: ServerErrorDetails): boolean {
     return details.status !== undefined && details.status >= 500;
   }
+}
+
+/**
+ * the target policy refused a server: its name is not a public hostname, an IP literal or
+ * an address it resolves to is not public, or the policy's own allow() said no. Thrown
+ * before anything is sent to it, and never retried
+ */
+export class BlockedTargetError extends RdapWhoisError {
+  override readonly name = 'BlockedTargetError' as const;
 }
 
 /** the connection was refused, reset, or closed before the response was complete */

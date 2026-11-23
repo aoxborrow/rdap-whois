@@ -10,6 +10,7 @@ import {
   type QueryType,
 } from '../common/constants';
 import {
+  BlockedTargetError,
   EmptyResponseError,
   InvalidQueryError,
   InvalidResponseError,
@@ -24,6 +25,7 @@ import {
 import {
   Core,
   defaultConnect,
+  screeningResolver,
   type CallOptions,
   type HopStatus,
   type ResolvedOptions,
@@ -131,6 +133,7 @@ async function whoisHop(
           {
             connect: options.connect ?? (await defaultConnect()),
             proxy,
+            resolve: await screeningResolver(options),
             timeout,
             signal: options.run.signal,
           }
@@ -210,7 +213,7 @@ export async function whoisCall(
   // a refusal is a problem with the call
   const allowed = checkWhoisTarget(first, options.port ?? 43, options.targets);
   if (!allowed.ok) {
-    throw new InvalidQueryError(allowed.reason, {
+    throw new BlockedTargetError(allowed.reason, {
       protocol: 'whois',
       server: first,
       query: text,
@@ -260,7 +263,7 @@ async function whoisChain(
       // a referral comes from a server's response, so a refusal is a problem with it
       const target = checkWhoisTarget(referral, 43, options.targets);
       if (!target.ok) {
-        throw new InvalidResponseError(`${last.server} referred to ${referral}: ${target.reason}`, {
+        throw new BlockedTargetError(`${last.server} referred to ${referral}: ${target.reason}`, {
           protocol: 'whois',
           server: referral,
           query: text,

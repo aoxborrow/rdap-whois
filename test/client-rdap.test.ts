@@ -5,9 +5,9 @@ import { afterEach, describe, expect, it } from 'vitest';
 import { RdapWhois } from '../src/client';
 import type { ClientEvent } from '../src/core';
 import {
+  BlockedTargetError,
   ConnectionError,
   EmptyResponseError,
-  InvalidQueryError,
   InvalidResponseError,
   NoServerError,
   RateLimitError,
@@ -265,7 +265,7 @@ describe('a redirect the runtime follows itself (a browser)', () => {
       fetch: browserFetch('http://127.0.0.1/domain/example.com', domain(), asked),
     });
     const error = (await client.rdap('example.com').catch((e: unknown) => e)) as Error;
-    expect(error).toBeInstanceOf(InvalidResponseError);
+    expect(error).toBeInstanceOf(BlockedTargetError);
     expect(error.message).toMatch(/was not followed/);
   });
 
@@ -384,7 +384,7 @@ describe('a referral that fails', () => {
     });
     const hops = await client.rdap('example.com');
     expect(asked).toEqual(['rdap.verisign.com']);
-    expect(hops[1]).toMatchObject({ status: 'error', error: { name: 'InvalidResponseError' } });
+    expect(hops[1]).toMatchObject({ status: 'error', error: { name: 'BlockedTargetError' } });
   });
 });
 
@@ -648,7 +648,7 @@ describe('redirects', () => {
     const error = (await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/` })
       .catch((e: unknown) => e)) as Error;
-    expect(error).toBeInstanceOf(InvalidResponseError);
+    expect(error).toBeInstanceOf(BlockedTargetError);
     expect(error.message).toMatch(/was not followed.*credentials/);
     expect(error.message).not.toContain('secret');
     expect(elsewhere.requests).toHaveLength(0);
@@ -840,13 +840,15 @@ describe('transports', () => {
       ...FAST,
       targets: { allowInsecure: true },
       proxy: { rdap: `socks5://127.0.0.1:${proxy.port}` },
+      resolve: () => Promise.resolve(['93.184.215.10']),
       onEvent: e => events.push(e),
     });
 
     const hops = await client.rdap('example.com', { server: 'http://rdap.example-registry.com/' });
     expect(hops[0]).toMatchObject({ status: 'found', httpStatus: 200 });
-    // the proxy was asked for the server by name, and the request went through it
-    expect(proxy.requests).toEqual([{ host: 'rdap.example-registry.com', port: 80 }]);
+    // the proxy was asked for the address the name resolved to here, never for the name,
+    // and the request went through it, still addressed to the name
+    expect(proxy.requests).toEqual([{ host: '93.184.215.10', port: 80 }]);
     expect(local.requests[0]?.headers.host).toBe('rdap.example-registry.com');
     expect(events[0]).toMatchObject({ type: 'request', proxied: true, status: 200 });
   });
@@ -939,7 +941,7 @@ describe('where a query goes', () => {
     const { asked, client } = capture();
     await expect(
       client.rdap('example.com', { server: 'https://127.0.0.1/' })
-    ).rejects.toBeInstanceOf(InvalidQueryError);
+    ).rejects.toBeInstanceOf(BlockedTargetError);
     expect(asked).toEqual([]);
   });
 });

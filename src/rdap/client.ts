@@ -9,6 +9,7 @@ import {
   type QueryType,
 } from '../common/constants';
 import {
+  BlockedTargetError,
   InvalidQueryError,
   InvalidResponseError,
   NoServerError,
@@ -23,7 +24,9 @@ import {
 import {
   Core,
   defaultConnect,
+  isNodeLike,
   isWorkers,
+  screeningResolver,
   type CallOptions,
   type HopStatus,
   type ResolvedOptions,
@@ -118,26 +121,32 @@ function rdapErrorBody(error: unknown): RdapResponse | null {
   return isRdapResponse(body) && isErrorResponse(body) ? body : null;
 }
 
-// the fetch to make one RDAP request with, and whether it goes through a proxy
+// the fetch to make one RDAP request with, and whether it goes through a proxy. On Node,
+// Bun and Deno every request, direct or proxied, is made by the library's own HTTP client
+// on a connection it opens itself, so each address a name resolves to is checked before it
+// is connected to (see openConnection). A caller's own `fetch` makes its own connections,
+// and so does the runtime's on Workers and in a browser
 async function rdapFetch(
   options: ResolvedOptions
 ): Promise<{ fetch: FetchLike; proxied: boolean }> {
   if (options.fetch) return { fetch: options.fetch, proxied: false };
 
   const proxy = resolveProxy(options.proxy, 'rdap');
-  if (!proxy) {
+  if (!proxy && !isNodeLike()) {
     return { fetch: (input, init) => fetch(input, init), proxied: false };
   }
 
   const connect = options.connect ?? (await defaultConnect());
+  const resolve = await screeningResolver(options);
   const proxyFetch = createProxyFetch({
-    open: (to, signal) => openConnection(to, { connect, proxy, timeout: options.timeout, signal }),
+    open: (to, signal) =>
+      openConnection(to, { connect, proxy, resolve, timeout: options.timeout, signal }),
     timeout: options.timeout,
     maxResponseBytes: options.maxResponseBytes,
   });
   return {
     fetch: (input, init) => proxyFetch(input, { headers: init.headers, signal: init.signal }),
-    proxied: true,
+    proxied: proxy !== undefined,
   };
 }
 
@@ -224,9 +233,9 @@ async function rdapHop(
           if (http.followedNatively && http.finalUrl !== current) {
             const landed = checkRdapTarget(http.finalUrl, options.targets);
             if (!landed.ok) {
-              const error = new InvalidResponseError(
+              const error = new BlockedTargetError(
                 `A redirect from ${host} was not followed: ${landed.reason}`,
-                { ...context, status: http.status }
+                context
               );
               report(http.bytes, http.status, error);
               throw error;
@@ -269,12 +278,9 @@ async function rdapHop(
         }
         const next = checkRdapTarget(exchange.location, options.targets);
         if (!next.ok) {
-          throw new InvalidResponseError(
+          throw new BlockedTargetError(
             `A redirect from ${host} was not followed: ${next.reason}`,
-            {
-              ...context,
-              status: http.status,
-            }
+            context
           );
         }
         core.emit(options, {
@@ -358,7 +364,7 @@ export async function rdapCall(
   // the first server is the caller's to choose, so a refusal is a problem with the call
   const allowed = checkRdapTarget(first, options.targets);
   if (!allowed.ok) {
-    throw new InvalidQueryError(allowed.reason, { protocol: 'rdap', server: first, query: text });
+    throw new BlockedTargetError(allowed.reason, { protocol: 'rdap', server: first, query: text });
   }
 
   return core.cached({ protocol: 'rdap', server: first, query: text, queryType }, options, () =>
@@ -403,7 +409,7 @@ async function rdapChain(
       // the link comes from the server's response, so a refusal is a problem with it
       const target = checkRdapTarget(link.href, options.targets);
       if (!target.ok) {
-        throw new InvalidResponseError(`${last.server} linked to ${link.href}: ${target.reason}`, {
+        throw new BlockedTargetError(`${last.server} linked to ${link.href}: ${target.reason}`, {
           protocol: 'rdap',
           query: text,
         });
