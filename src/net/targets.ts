@@ -4,12 +4,11 @@ import ipaddr from 'ipaddr.js';
 // referral hostnames and redirect Location headers all come from a server's response, and
 // without a check the library would connect wherever a response points.
 //
-// The check is on the name, not on the address it resolves to. A public-looking name that
-// resolves to a private address (127.0.0.1.nip.io, or a name rebound between check and
-// connect) gets through. Resolving here would not close that, since the transport resolves
-// again when it connects, and an isomorphic library has no portable way to pin the address.
-// A service that needs that guarantee should enforce it where the connection is made: in
-// the `fetch` and `connect` it passes in, or with a network egress policy.
+// This is the check on the name. The addresses a name resolves to are checked where the
+// connection is made (openConnection in tunnel.ts): every one must be public, and the
+// connection goes to those addresses, never to the name, so a name cannot point somewhere
+// private (127.0.0.1.nip.io) or be rebound between the check and the connect. allowPrivate
+// turns both checks off.
 
 export interface PolicyTarget {
   protocol: 'whois' | 'rdap';

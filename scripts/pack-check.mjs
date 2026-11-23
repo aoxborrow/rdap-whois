@@ -142,7 +142,7 @@ try {
     // side, loaded on demand, throws the root's error classes
     new m.RdapWhois().whois('example.com', { server: '127.0.0.1' }).then(
       () => { throw new Error('whois() asked a refused server'); },
-      error => { if (!(error instanceof m.InvalidQueryError)) throw new Error("the WHOIS side does not throw the root's error classes"); }
+      error => { if (!(error instanceof m.BlockedTargetError)) throw new Error("the WHOIS side does not throw the root's error classes"); }
     );
     if (utils.getCountryName('DE') !== 'Germany') throw new Error('bad /utils');
     if (typeof node.createConnect !== 'function') throw new Error('bad /transports/node');

@@ -1,10 +1,11 @@
 // The Node transport: TCP with node:net, and the TLS upgrade with node:tls. Bun and Deno
 // run it through their Node compatibility. This is the only file in the library that may
 // import a Node built-in.
+import { lookup } from 'node:dns/promises';
 import net from 'node:net';
 import tls from 'node:tls';
 import { ConnectionError, TimeoutError } from '../errors';
-import type { Connect, Connection, ConnectOptions, ConnectTarget } from '../net/types';
+import type { Connect, Connection, ConnectOptions, ConnectTarget, Resolve } from '../net/types';
 
 export interface NodeTransportOptions {
   /** the local address to connect from */
@@ -202,6 +203,22 @@ export function createConnect(transport: NodeTransportOptions = {}): Connect {
       socket.once('connect', onConnect);
     });
 }
+
+/** every address the system resolver gives for a name, as the default connect would see them */
+export const resolve: Resolve = async host => {
+  try {
+    const answers = await lookup(host, { all: true, verbatim: true });
+    return answers.map(answer => answer.address);
+  } catch (error) {
+    // a name that does not exist will not exist on the next try either; a resolver that
+    // could not answer (EAI_AGAIN) may
+    const code = (error as NodeJS.ErrnoException | undefined)?.code;
+    if (code === 'ENOTFOUND' || code === 'ENODATA') {
+      throw new ConnectionError(`${host} does not resolve`, { cause: error, retryable: false });
+    }
+    throw toLibraryError(error, `resolving ${host}`);
+  }
+};
 
 /** the default TCP connect on Node */
 export const connect: Connect = createConnect();

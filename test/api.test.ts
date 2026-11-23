@@ -162,6 +162,7 @@ describe('the error classes', () => {
       InvalidResponseError: true,
       ServerError: true,
       ConnectionError: true,
+      BlockedTargetError: true,
     };
     expect(classes.map(Class => new Class('x').name).sort()).toEqual(Object.keys(names).sort());
   });

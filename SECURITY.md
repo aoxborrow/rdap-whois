@@ -3,11 +3,12 @@
 The library contacts hosts named in server responses: RDAP referral links, WHOIS referral
 hostnames and HTTP redirects. Its target policy checks each name before connecting, and
 refuses IP literals, `localhost` and names that only mean something on a local network
-unless a caller allows them. The check is on the name, not the address it resolves to, so
-a public name that resolves to a private address is out of its scope (the README says how
-to enforce that). A way past the name check, a response that makes the library
-contact a host the policy should refuse, or anything else that turns untrusted server
-output into harm for the program using the library, is a security problem.
+unless a caller allows them. It then resolves the name, refuses it unless every address is
+public, and connects to those addresses rather than the name. A caller's own `fetch`, and
+a Worker with no `resolve` given, are outside the address check (the README says why). A
+way past either check, a response that makes the library contact a host the policy should
+refuse, or anything else that turns untrusted server output into harm for the program
+using the library, is a security problem.
 
 ## Reporting
 

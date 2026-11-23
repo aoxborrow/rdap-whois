@@ -13,7 +13,7 @@ import { abortable, abortReason, deadline, sleep } from './net/deadline';
 import { DEFAULT_SERVER_LIMIT, ServerLimiter, type ServerLimit } from './net/limiter';
 import type { TargetPolicy } from './net/targets';
 import { VERSION } from './version';
-import type { Connect, ProxyOption } from './net/types';
+import type { Connect, ProxyOption, Resolve } from './net/types';
 import type { FetchLike } from './rdap/request';
 import type { RdapHop } from './rdap/client';
 import type { WhoisHop } from './whois/client';
@@ -97,6 +97,13 @@ export interface RdapWhoisOptions {
   signal?: AbortSignal;
   /** replaces the runtime's TCP connect */
   connect?: Connect;
+  /**
+   * replaces the runtime's resolver (node:dns on Node, Bun and Deno). Each server's name is
+   * resolved with it, the request is refused unless every address is public, and the
+   * connection goes to those addresses. Workers have no resolver, so there a name goes to
+   * the runtime, or to the proxy, as it is unless one is given
+   */
+  resolve?: Resolve;
   /** called for every network exchange and every decision to make another one */
   onEvent?: (event: ClientEvent) => void;
   /** keeps each protocol's answers, so a query asked again is answered without a request */
@@ -358,6 +365,24 @@ export function defaultConnect(): Promise<Connect> {
     isWorkers() ? import('./transports/cloudflare') : import('./transports/node')
   ).then(transport => transport.connect);
   return runtimeConnect;
+}
+
+// whether this runtime has the Node APIs the Node transport uses: Node, and Bun and Deno,
+// which say so in process.versions.node. Not Workers, and not a browser
+export const isNodeLike = (): boolean =>
+  typeof (globalThis as { process?: { versions?: { node?: unknown } } }).process?.versions?.node ===
+    'string' && !isWorkers();
+
+// the resolver whose addresses are checked before each connection, or undefined to hand the
+// name on unresolved: when the target policy allows private hosts, or where the runtime
+// has no resolver and none was given (Workers, where the runtime resolves names itself and
+// its sockets refuse private addresses)
+export async function screeningResolver(
+  options: Pick<ResolvedOptions, 'resolve' | 'targets'>
+): Promise<Resolve | undefined> {
+  if (options.targets?.allowPrivate) return undefined;
+  if (options.resolve) return options.resolve;
+  return isNodeLike() ? (await import('./transports/node')).resolve : undefined;
 }
 
 // The state the clients share: the resolved options, one limiter for every server, and the
