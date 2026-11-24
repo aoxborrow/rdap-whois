@@ -31,7 +31,6 @@ export type {
   TransformErrorEvent,
 } from './core';
 export {
-  BlockedTargetError,
   ConnectionError,
   EmptyResponseError,
   InvalidQueryError,
@@ -53,11 +52,9 @@ export type {
   ConnectOptions,
   ConnectTarget,
   ProxyOption,
-  Resolve,
   ProxySpec,
 } from './net/types';
 export { KNOWN_SERVER_LIMITS, type ServerLimit } from './net/limiter';
-export type { PolicyTarget, TargetPolicy } from './net/targets';
 export type { RdapCallOptions, RdapHop } from './rdap/client';
 export {
   getRdapEntityTags,

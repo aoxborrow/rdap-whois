@@ -59,16 +59,6 @@ describe.skipIf(!LIVE)('live lookups', { timeout: 60_000 }, () => {
     expect(hops[1].serverType).toBe('registrar');
   });
 
-  it('refuses a server whose name resolves to a private address, over either protocol', async () => {
-    // localtest.me and its subdomains resolve to 127.0.0.1 in public DNS
-    await expect(
-      client.whois('example.com', { server: 'whois.localtest.me' })
-    ).rejects.toMatchObject({ name: 'BlockedTargetError', retryable: false });
-    await expect(
-      client.rdap('example.com', { server: 'https://rdap.localtest.me/' })
-    ).rejects.toMatchObject({ name: 'BlockedTargetError', retryable: false });
-  });
-
   it('looks an IP address and an AS number up over RDAP', async () => {
     const [ip] = await client.rdap('8.8.8.8');
     expect(ip.status).toBe('found');

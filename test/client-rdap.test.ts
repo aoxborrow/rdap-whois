@@ -5,9 +5,9 @@ import { afterEach, describe, expect, it } from 'vitest';
 import { RdapWhois } from '../src/client';
 import type { ClientEvent } from '../src/core';
 import {
-  BlockedTargetError,
   ConnectionError,
   EmptyResponseError,
+  InvalidQueryError,
   InvalidResponseError,
   NoServerError,
   RateLimitError,
@@ -81,8 +81,6 @@ function routing(routes: Record<string, HttpTestServer | number>): FetchLike {
 
 // fast settings for tests: no spacing between requests, and a short retry delay
 const FAST = { backoff: 1, concurrency: 4, minInterval: 0 };
-// let the client talk to a local plain-HTTP server directly
-const LOCAL = { ...FAST, targets: { allowInsecure: true, allowPrivate: true } };
 
 describe('the referral loop', () => {
   it('asks the registry, then the registrar it links to', async () => {
@@ -258,21 +256,10 @@ describe('a redirect the runtime follows itself (a browser)', () => {
     expect(asked.every(line => line.startsWith('manual '))).toBe(true);
   });
 
-  it('drops the answer when it ended somewhere the policy refuses', async () => {
-    const asked: string[] = [];
+  it('uses the answer wherever the redirect ended, a local address included', async () => {
     const client = new RdapWhois({
       ...FAST,
-      fetch: browserFetch('http://127.0.0.1/domain/example.com', domain(), asked),
-    });
-    const error = (await client.rdap('example.com').catch((e: unknown) => e)) as Error;
-    expect(error).toBeInstanceOf(BlockedTargetError);
-    expect(error.message).toMatch(/was not followed/);
-  });
-
-  it('uses the answer when it ended somewhere allowed', async () => {
-    const client = new RdapWhois({
-      ...FAST,
-      fetch: browserFetch(`${REGISTRY}domain/example.com`, domain(), []),
+      fetch: browserFetch('http://127.0.0.1/domain/example.com', domain(), []),
     });
     const hops = await client.rdap('example.com');
     expect(hops[0]).toMatchObject({ status: 'found' });
@@ -369,29 +356,12 @@ describe('a referral that fails', () => {
       error: { name: 'RateLimitError' },
     });
   });
-
-  it('never requests a referral the policy blocks', async () => {
-    const registry = await server(json(withReferral()));
-    const asked: string[] = [];
-    const route = routing({ 'rdap.verisign.com': registry });
-    const client = new RdapWhois({
-      ...FAST,
-      targets: { allow: target => target.host !== 'rdap.example-registrar.com' },
-      fetch: (url, init) => {
-        asked.push(new URL(url).hostname);
-        return route(url, init);
-      },
-    });
-    const hops = await client.rdap('example.com');
-    expect(asked).toEqual(['rdap.verisign.com']);
-    expect(hops[1]).toMatchObject({ status: 'error', error: { name: 'BlockedTargetError' } });
-  });
 });
 
 describe('what a response means', () => {
   const ask = async (handler: Handler, options: Record<string, unknown> = {}) => {
     const local = await server(handler);
-    const client = new RdapWhois({ ...LOCAL, retries: 0 });
+    const client = new RdapWhois({ ...FAST, retries: 0 });
     const result = await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/`, ...options })
       .catch((e: unknown) => e);
@@ -473,7 +443,7 @@ describe('what a response means', () => {
   });
 
   it('a refused connection is a ConnectionError', async () => {
-    const client = new RdapWhois({ ...LOCAL, retries: 0 });
+    const client = new RdapWhois({ ...FAST, retries: 0 });
     const error = await client
       .rdap('example.com', { server: `http://127.0.0.1:${await closedPort()}/` })
       .catch((e: unknown) => e);
@@ -485,7 +455,7 @@ describe('what a response means', () => {
 describe('retries and throttling', () => {
   it('does not ask a server that timed out again', async () => {
     const local = await server(() => {});
-    const client = new RdapWhois({ ...LOCAL, timeout: 100, retries: 2 });
+    const client = new RdapWhois({ ...FAST, timeout: 100, retries: 2 });
     const error = await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/` })
       .catch((e: unknown) => e);
@@ -496,7 +466,7 @@ describe('retries and throttling', () => {
 
   it('calls a wait for a free connection retryable, unlike a silent server', async () => {
     const local = await server(() => {});
-    const client = new RdapWhois({ ...LOCAL, retries: 0, concurrency: 1 });
+    const client = new RdapWhois({ ...FAST, retries: 0, concurrency: 1 });
     // the first holds the only connection well past the second's time
     const ask = (timeout: number) =>
       client
@@ -514,7 +484,7 @@ describe('retries and throttling', () => {
       ++calls === 1 ? json('oops', 502)(request, response) : json(domain())(request, response)
     );
     const events: ClientEvent[] = [];
-    const client = new RdapWhois({ ...LOCAL, onEvent: e => events.push(e) });
+    const client = new RdapWhois({ ...FAST, onEvent: e => events.push(e) });
     const hops = await client.rdap('example.com', { server: `http://127.0.0.1:${local.port}/` });
     expect(hops[0]).toMatchObject({ status: 'found', tries: 2 });
     expect(events.map(e => e.type)).toEqual(['request', 'retry', 'request']);
@@ -523,7 +493,7 @@ describe('retries and throttling', () => {
 
   it('does not retry a response that will not change', async () => {
     const local = await server(json('<html>welcome</html>'));
-    const client = new RdapWhois({ ...LOCAL, retries: 3 });
+    const client = new RdapWhois({ ...FAST, retries: 3 });
     await expect(
       client.rdap('example.com', { server: `http://127.0.0.1:${local.port}/` })
     ).rejects.toBeInstanceOf(InvalidResponseError);
@@ -537,7 +507,7 @@ describe('retries and throttling', () => {
         ? json('slow down', 429, { 'Retry-After': '0' })(request, response)
         : json(domain())(request, response)
     );
-    const client = new RdapWhois(LOCAL);
+    const client = new RdapWhois(FAST);
     const hops = await client.rdap('example.com', { server: `http://127.0.0.1:${local.port}/` });
     expect(hops[0]).toMatchObject({ status: 'found', tries: 2 });
   });
@@ -551,7 +521,7 @@ describe('retries and throttling', () => {
     );
     // the 1 s wait is longer than the 300 ms timeout: the retry still waits it out and
     // asks again, instead of timing out in the paused queue
-    const client = new RdapWhois({ ...LOCAL, timeout: 300, retries: 1 });
+    const client = new RdapWhois({ ...FAST, timeout: 300, retries: 1 });
     const hops = await client.rdap('example.com', { server: `http://127.0.0.1:${local.port}/` });
     expect(hops[0]).toMatchObject({ status: 'found', tries: 2 });
     expect(local.requests).toHaveLength(2);
@@ -559,7 +529,7 @@ describe('retries and throttling', () => {
 
   it('gives up at once when the server asks for a long wait', async () => {
     const local = await server(json('slow down', 429, { 'Retry-After': '120' }));
-    const client = new RdapWhois({ ...LOCAL, retries: 3 });
+    const client = new RdapWhois({ ...FAST, retries: 3 });
     const error = (await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/` })
       .catch((e: unknown) => e)) as RateLimitError;
@@ -572,7 +542,7 @@ describe('retries and throttling', () => {
   it('treats a 429 in an RDAP error body as a throttle', async () => {
     const body = { rdapConformance: ['rdap_level_0'], errorCode: 429, title: 'Rate limited' };
     const local = await server(json(body, 429));
-    const client = new RdapWhois({ ...LOCAL, retries: 0 });
+    const client = new RdapWhois({ ...FAST, retries: 0 });
     await expect(
       client.rdap('example.com', { server: `http://127.0.0.1:${local.port}/` })
     ).rejects.toBeInstanceOf(RateLimitError);
@@ -592,7 +562,7 @@ describe('redirects', () => {
   it('follows a redirect and reports where the answer came from', async () => {
     const local = await redirecting(port => `http://127.0.0.1:${port}/moved/domain/example.com`);
     const events: ClientEvent[] = [];
-    const client = new RdapWhois({ ...LOCAL, onEvent: e => events.push(e) });
+    const client = new RdapWhois({ ...FAST, onEvent: e => events.push(e) });
     const base = `http://127.0.0.1:${local.port}/`;
     const hops = await client.rdap('example.com', { server: base });
 
@@ -612,14 +582,14 @@ describe('redirects', () => {
 
   it('follows a relative redirect', async () => {
     const local = await redirecting(() => '/moved/domain/example.com', 307);
-    const client = new RdapWhois(LOCAL);
+    const client = new RdapWhois(FAST);
     const hops = await client.rdap('example.com', { server: `http://127.0.0.1:${local.port}/` });
     expect(hops[0]?.status).toBe('found');
   });
 
   it('reports the redirect as the error when redirects are off', async () => {
     const local = await redirecting(port => `http://127.0.0.1:${port}/moved/domain/example.com`);
-    const client = new RdapWhois({ ...LOCAL, retries: 2 });
+    const client = new RdapWhois({ ...FAST, retries: 2 });
     const error = await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/`, followRedirects: 0 })
       .catch((e: unknown) => e);
@@ -630,7 +600,7 @@ describe('redirects', () => {
 
   it('gives up on a redirect loop', async () => {
     const local = await redirecting(port => `http://127.0.0.1:${port}/again`);
-    const client = new RdapWhois({ ...LOCAL, retries: 0 });
+    const client = new RdapWhois({ ...FAST, retries: 0 });
     const error = await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/`, followRedirects: 3 })
       .catch((e: unknown) => e);
@@ -639,19 +609,14 @@ describe('redirects', () => {
     expect(local.requests).toHaveLength(4);
   });
 
-  it('never follows a redirect to a target the policy blocks', async () => {
-    const elsewhere = await server(json(domain()));
-    const local = await redirecting(
-      () => `http://user:secret@127.0.0.1:${elsewhere.port}/domain/example.com`
-    );
-    const client = new RdapWhois({ ...LOCAL, retries: 0 });
+  it('does not follow a redirect to a URL that is not HTTP', async () => {
+    const local = await redirecting(() => 'ftp://127.0.0.1/domain/example.com');
+    const client = new RdapWhois({ ...FAST, retries: 0 });
     const error = (await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/` })
       .catch((e: unknown) => e)) as Error;
-    expect(error).toBeInstanceOf(BlockedTargetError);
-    expect(error.message).toMatch(/was not followed.*credentials/);
-    expect(error.message).not.toContain('secret');
-    expect(elsewhere.requests).toHaveLength(0);
+    expect(error).toBeInstanceOf(InvalidResponseError);
+    expect(error.message).toMatch(/not an HTTP URL/);
   });
 });
 
@@ -766,7 +731,7 @@ describe('redirects and the limiter', () => {
       response.end();
     });
     const client = new RdapWhois({
-      ...LOCAL,
+      ...FAST,
       concurrency: 1,
       minInterval: 0,
     });
@@ -779,7 +744,7 @@ describe('redirects and the limiter', () => {
 describe('validation', () => {
   const ask = async (body: unknown, options: Record<string, unknown> = {}) => {
     const local = await server(json(body));
-    const client = new RdapWhois({ ...LOCAL, retries: 2 });
+    const client = new RdapWhois({ ...FAST, retries: 2 });
     const result = await client
       .rdap('example.com', { server: `http://127.0.0.1:${local.port}/`, ...options })
       .catch((e: unknown) => e);
@@ -838,17 +803,14 @@ describe('transports', () => {
     const events: ClientEvent[] = [];
     const client = new RdapWhois({
       ...FAST,
-      targets: { allowInsecure: true },
       proxy: { rdap: `socks5://127.0.0.1:${proxy.port}` },
-      resolve: () => Promise.resolve(['93.184.215.10']),
       onEvent: e => events.push(e),
     });
 
     const hops = await client.rdap('example.com', { server: 'http://rdap.example-registry.com/' });
     expect(hops[0]).toMatchObject({ status: 'found', httpStatus: 200 });
-    // the proxy was asked for the address the name resolved to here, never for the name,
-    // and the request went through it, still addressed to the name
-    expect(proxy.requests).toEqual([{ host: '93.184.215.10', port: 80 }]);
+    // the proxy was asked for the server by name, and the request went through it
+    expect(proxy.requests).toEqual([{ host: 'rdap.example-registry.com', port: 80 }]);
     expect(local.requests[0]?.headers.host).toBe('rdap.example-registry.com');
     expect(events[0]).toMatchObject({ type: 'request', proxied: true, status: 200 });
   });
@@ -937,11 +899,9 @@ describe('where a query goes', () => {
     expect(asked).toEqual([]);
   });
 
-  it('a server that is not a public host is refused', async () => {
+  it('a server the caller names is asked as given, a local http:// one included', async () => {
     const { asked, client } = capture();
-    await expect(
-      client.rdap('example.com', { server: 'https://127.0.0.1/' })
-    ).rejects.toBeInstanceOf(BlockedTargetError);
-    expect(asked).toEqual([]);
+    await client.rdap('example.com', { server: 'http://127.0.0.1:8080/' });
+    expect(asked).toEqual(['http://127.0.0.1:8080/domain/example.com']);
   });
 });
