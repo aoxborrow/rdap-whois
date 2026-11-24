@@ -921,6 +921,12 @@ describe('where a query goes', () => {
     expect(asked).toEqual(['http://127.0.0.1:8080/domain/example.com']);
   });
 
+  it('a server named as host:port gets https://', async () => {
+    const { asked, client } = capture();
+    await client.rdap('example.com', { server: 'rdap.example.org:8443' });
+    expect(asked).toEqual(['https://rdap.example.org:8443/domain/example.com']);
+  });
+
   it.each(['ftp://rdap.example.org/', 'not a host'])(
     'a server that is not an RDAP URL (%s) is an InvalidQueryError',
     async server => {

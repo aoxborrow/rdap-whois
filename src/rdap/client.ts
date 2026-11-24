@@ -98,7 +98,7 @@ function rdapBase(server: string, named: boolean): string | null {
   let base: string;
   if (named && /^http:\/\//i.test(text)) base = stripRdapEndpoint(text).replace(/\/+$/, '') + '/';
   else if (/^https?:\/\//i.test(text)) base = normalizeRdapServer(text);
-  else if (/^[a-z][a-z0-9+.-]*:/i.test(text)) return null;
+  else if (/^[a-z][a-z0-9+.-]*:\/\//i.test(text)) return null;
   else base = normalizeRdapServer(text);
   return URL.canParse(base) ? base : null;
 }
