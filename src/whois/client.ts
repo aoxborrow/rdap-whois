@@ -10,7 +10,6 @@ import {
   type QueryType,
 } from '../common/constants';
 import {
-  BlockedTargetError,
   EmptyResponseError,
   InvalidQueryError,
   InvalidResponseError,
@@ -25,7 +24,6 @@ import {
 import {
   Core,
   defaultConnect,
-  screeningResolver,
   type CallOptions,
   type HopStatus,
   type ResolvedOptions,
@@ -33,7 +31,6 @@ import {
   type Running,
 } from '../core';
 import { resolveProxy } from '../net/proxy';
-import { checkWhoisTarget } from '../net/targets';
 import { openConnection } from '../net/tunnel';
 import { detectQueryType, normalizeQuery } from '../query';
 import type { WhoisDataType, WhoisServerType } from './data-types';
@@ -133,7 +130,6 @@ async function whoisHop(
           {
             connect: options.connect ?? (await defaultConnect()),
             proxy,
-            resolve: await screeningResolver(options),
             timeout,
             signal: options.run.signal,
           }
@@ -209,16 +205,6 @@ export async function whoisCall(
       query: text,
     });
   }
-  // the first server is the caller's to choose, through `server` or the target policy, so
-  // a refusal is a problem with the call
-  const allowed = checkWhoisTarget(first, options.port ?? 43, options.targets);
-  if (!allowed.ok) {
-    throw new BlockedTargetError(allowed.reason, {
-      protocol: 'whois',
-      server: first,
-      query: text,
-    });
-  }
 
   return core.cached(
     {
@@ -260,15 +246,6 @@ async function whoisChain(
     const referralOptions = { ...options, port: undefined, encoding: undefined };
     const referralStarted = Date.now();
     try {
-      // a referral comes from a server's response, so a refusal is a problem with it
-      const target = checkWhoisTarget(referral, 43, options.targets);
-      if (!target.ok) {
-        throw new BlockedTargetError(`${last.server} referred to ${referral}: ${target.reason}`, {
-          protocol: 'whois',
-          server: referral,
-          query: text,
-        });
-      }
       // a referral to the server that holds the record keeps the tunnel retry: any referral
       // from IANA (to a regional registry, or the registry of a TLD the routing data does
       // not list), and one to a regional registry or registry (ARIN to RIPE for transferred

@@ -138,11 +138,11 @@ try {
     if (!m.getRdapServer('domain', 'example.com')?.includes('verisign')) throw new Error('the root does not route a domain');
     if (typeof whois.parseWhois !== 'function') throw new Error('bad /whois');
     if (whois.parseWhois('Domain Name: EXAMPLE.COM', 'whois.verisign-grs.com').data?.domainName !== 'example.com') throw new Error('parseWhois does not parse');
-    // a server the target policy refuses is thrown before anything connects, and the WHOIS
-    // side, loaded on demand, throws the root's error classes
-    new m.RdapWhois().whois('example.com', { server: '127.0.0.1' }).then(
-      () => { throw new Error('whois() asked a refused server'); },
-      error => { if (!(error instanceof m.BlockedTargetError)) throw new Error("the WHOIS side does not throw the root's error classes"); }
+    // an empty server is refused before anything connects, and the WHOIS side, loaded on
+    // demand, throws the root's error classes
+    new m.RdapWhois().whois('example.com', { server: '' }).then(
+      () => { throw new Error('whois() answered with no server'); },
+      error => { if (!(error instanceof m.NoServerError)) throw new Error("the WHOIS side does not throw the root's error classes"); }
     );
     if (utils.getCountryName('DE') !== 'Germany') throw new Error('bad /utils');
     if (typeof node.createConnect !== 'function') throw new Error('bad /transports/node');

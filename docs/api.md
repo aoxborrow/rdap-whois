@@ -17,7 +17,7 @@ declarations say what each takes and returns.
 - `getRdapServerType(queryType, query, server)`, `getRdapEntityTags()` (each handle tag
   with its server), `getRdapQueryPath(queryType, query)`, `normalizeRdapServer(url)`
 - `memoryCache(options?)`, `reviveDates(value)`
-- errors: `RdapWhoisError`, `BlockedTargetError`, `InvalidQueryError`, `NoUsableAnswerError`, `TimeoutError`,
+- errors: `RdapWhoisError`, `InvalidQueryError`, `NoUsableAnswerError`, `TimeoutError`,
   `RateLimitError`, `NoServerError`, `ProxyError`, `EmptyResponseError`,
   `InvalidResponseError`, `ServerError`, `ConnectionError`
 - types for options and calls (`LookupOptions` adds `protocol`, `verbose` and
@@ -34,8 +34,8 @@ declarations say what each takes and returns.
 - types for events: `ClientEvent`, `RequestEvent`, `RetryEvent`, `ReferralEvent`,
   `RedirectEvent`, `FallbackEvent`, `TransformErrorEvent`
 - types for the cache: `HopCache`, `CacheKey`, `CachedHops`, `MemoryCacheOptions`
-- types for the network: `Connect`, `Connection`, `ConnectOptions`, `ConnectTarget`, `Resolve`,
-  `FetchLike`, `ProxyOption`, `ProxySpec`, `ServerLimit`, `TargetPolicy`, `PolicyTarget`
+- types for the network: `Connect`, `Connection`, `ConnectOptions`, `ConnectTarget`,
+  `FetchLike`, `ProxyOption`, `ProxySpec`, `ServerLimit`
 
 ## `@aoxborrow/rdap-whois/whois`
 
@@ -80,4 +80,4 @@ importing a constant from it costs about that constant.
 
 ## `@aoxborrow/rdap-whois/transports/node`
 
-- `connect`, `createConnect(options)`, `resolve`, `NodeTransportOptions`
+- `connect`, `createConnect(options)`, `NodeTransportOptions`

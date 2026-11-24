@@ -30,11 +30,8 @@ First release.
   (`@aoxborrow/rdap-whois/whois`).
 - Per-server rate limits, with the limits registries publish (`KNOWN_SERVER_LIMITS`);
   retries with backoff, `Retry-After`, and `totalTimeout` per call.
-- SOCKS5 and HTTP CONNECT proxies for both protocols, and a target policy for the hosts
-  referrals and redirects lead to. Every address a server's name resolves to must be
-  public, and the connection, direct or through a proxy, goes to those addresses and never
-  to the name; a refusal is a `BlockedTargetError`, never retried. The `resolve` option
-  replaces the resolver, and gives Workers one.
+- SOCKS5 and HTTP CONNECT proxies for both protocols. The library connects wherever it is
+  pointed, referrals and redirects included, and leaves destination screening to the caller.
 - `memoryCache()`, the `HopCache` interface, and `reviveDates()`.
 - `DATA_VERSION`: the dates of the RDAP bootstrap, the WHOIS table and the published limits
   built into the release.

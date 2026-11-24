@@ -9,7 +9,6 @@ import {
   type QueryType,
 } from '../common/constants';
 import {
-  BlockedTargetError,
   InvalidQueryError,
   InvalidResponseError,
   NoServerError,
@@ -24,9 +23,7 @@ import {
 import {
   Core,
   defaultConnect,
-  isNodeLike,
   isWorkers,
-  screeningResolver,
   type CallOptions,
   type HopStatus,
   type ResolvedOptions,
@@ -35,7 +32,6 @@ import {
 } from '../core';
 import { resolveProxy } from '../net/proxy';
 import { createProxyFetch } from '../net/proxy-fetch';
-import { checkRdapTarget, type TargetPolicy } from '../net/targets';
 import { openConnection } from '../net/tunnel';
 import { detectQueryType, normalizeQuery } from '../query';
 import {
@@ -93,14 +89,18 @@ export type RdapHop = {
   | { status: 'error'; data: RdapResponse | null; error: ErrorInfo }
 );
 
-// an RDAP server as a base URL with one trailing slash. Plain HTTP is upgraded unless the
-// policy allows it
-function rdapBase(server: string, policy?: TargetPolicy): string {
+// an RDAP server as a base URL with one trailing slash, or null when it is not one. An
+// http:// server the caller names is used as given, while a referral link's is upgraded to
+// https:// as RFC 7481 asks. A name with no scheme gets https://, and any other scheme is
+// not an RDAP server
+function rdapBase(server: string, named: boolean): string | null {
   const text = server.trim();
-  if (policy?.allowInsecure && /^http:\/\//i.test(text)) {
-    return stripRdapEndpoint(text).replace(/\/+$/, '') + '/';
-  }
-  return normalizeRdapServer(text);
+  let base: string;
+  if (named && /^http:\/\//i.test(text)) base = stripRdapEndpoint(text).replace(/\/+$/, '') + '/';
+  else if (/^https?:\/\//i.test(text)) base = normalizeRdapServer(text);
+  else if (/^[a-z][a-z0-9+.-]*:(?!\d+(\/|$))/i.test(text)) return null;
+  else base = normalizeRdapServer(`https://${text}`);
+  return URL.canParse(base) ? base : null;
 }
 
 const hostOf = (url: string): string => new URL(url).hostname;
@@ -121,32 +121,26 @@ function rdapErrorBody(error: unknown): RdapResponse | null {
   return isRdapResponse(body) && isErrorResponse(body) ? body : null;
 }
 
-// the fetch to make one RDAP request with, and whether it goes through a proxy. On Node,
-// Bun and Deno every request, direct or proxied, is made by the library's own HTTP client
-// on a connection it opens itself, so each address a name resolves to is checked before it
-// is connected to (see openConnection). A caller's own `fetch` makes its own connections,
-// and so does the runtime's on Workers and in a browser
+// the fetch to make one RDAP request with, and whether it goes through a proxy
 async function rdapFetch(
   options: ResolvedOptions
 ): Promise<{ fetch: FetchLike; proxied: boolean }> {
   if (options.fetch) return { fetch: options.fetch, proxied: false };
 
   const proxy = resolveProxy(options.proxy, 'rdap');
-  if (!proxy && !isNodeLike()) {
+  if (!proxy) {
     return { fetch: (input, init) => fetch(input, init), proxied: false };
   }
 
   const connect = options.connect ?? (await defaultConnect());
-  const resolve = await screeningResolver(options);
   const proxyFetch = createProxyFetch({
-    open: (to, signal) =>
-      openConnection(to, { connect, proxy, resolve, timeout: options.timeout, signal }),
+    open: (to, signal) => openConnection(to, { connect, proxy, timeout: options.timeout, signal }),
     timeout: options.timeout,
     maxResponseBytes: options.maxResponseBytes,
   });
   return {
     fetch: (input, init) => proxyFetch(input, { headers: init.headers, signal: init.signal }),
-    proxied: proxy !== undefined,
+    proxied: true,
   };
 }
 
@@ -227,21 +221,6 @@ async function rdapHop(
             throw error;
           }
 
-          // A redirect the runtime followed itself could not be checked before it was
-          // followed. Its answer is still only used when the place it ended up passes
-          // the target policy
-          if (http.followedNatively && http.finalUrl !== current) {
-            const landed = checkRdapTarget(http.finalUrl, options.targets);
-            if (!landed.ok) {
-              const error = new BlockedTargetError(
-                `A redirect from ${host} was not followed: ${landed.reason}`,
-                context
-              );
-              report(http.bytes, http.status, error);
-              throw error;
-            }
-          }
-
           // a redirect is followed below, once this host's place is given up
           if (
             isRedirect(http.status) &&
@@ -276,22 +255,25 @@ async function rdapHop(
             status: http.status,
           });
         }
-        const next = checkRdapTarget(exchange.location, options.targets);
-        if (!next.ok) {
-          throw new BlockedTargetError(
-            `A redirect from ${host} was not followed: ${next.reason}`,
-            context
+        const next = exchange.location;
+        if (!/^https?:$/.test(new URL(next).protocol)) {
+          throw new InvalidResponseError(
+            `${host} redirected to ${next}, which is not an HTTP URL`,
+            {
+              ...context,
+              status: http.status,
+            }
           );
         }
         core.emit(options, {
           type: 'redirect',
           protocol: 'rdap',
           from: current,
-          to: next.target.url,
+          to: next,
           status: http.status,
         });
         redirects++;
-        current = next.target.url;
+        current = next;
       }
     },
     { eachHost: true, referral }
@@ -360,11 +342,12 @@ export async function rdapCall(
       query: text,
     });
   }
-  const first = rdapBase(server, options.targets);
-  // the first server is the caller's to choose, so a refusal is a problem with the call
-  const allowed = checkRdapTarget(first, options.targets);
-  if (!allowed.ok) {
-    throw new BlockedTargetError(allowed.reason, { protocol: 'rdap', server: first, query: text });
+  const first = rdapBase(server, options.server !== undefined);
+  if (!first) {
+    throw new InvalidQueryError(`"${server}" is not an RDAP server URL`, {
+      protocol: 'rdap',
+      query: text,
+    });
   }
 
   return core.cached({ protocol: 'rdap', server: first, query: text, queryType }, options, () =>
@@ -406,15 +389,17 @@ async function rdapChain(
     const referralStarted = Date.now();
     let referral = link.href;
     try {
-      // the link comes from the server's response, so a refusal is a problem with it
-      const target = checkRdapTarget(link.href, options.targets);
-      if (!target.ok) {
-        throw new BlockedTargetError(`${last.server} linked to ${link.href}: ${target.reason}`, {
-          protocol: 'rdap',
-          query: text,
-        });
+      const base = rdapBase(link.href, false);
+      if (!base) {
+        throw new InvalidResponseError(
+          `${last.server} linked to ${link.href}, which is not an RDAP server URL`,
+          {
+            protocol: 'rdap',
+            query: text,
+          }
+        );
       }
-      referral = rdapBase(target.target.url, options.targets);
+      referral = base;
       core.emit(options, { type: 'referral', protocol: 'rdap', from: last.server, to: referral });
       hops.push(await rdapHop(core, referral, text, queryType, options, true));
     } catch (error) {

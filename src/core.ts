@@ -11,9 +11,8 @@ import {
 } from './errors';
 import { abortable, abortReason, deadline, sleep } from './net/deadline';
 import { DEFAULT_SERVER_LIMIT, ServerLimiter, type ServerLimit } from './net/limiter';
-import type { TargetPolicy } from './net/targets';
 import { VERSION } from './version';
-import type { Connect, ProxyOption, Resolve } from './net/types';
+import type { Connect, ProxyOption } from './net/types';
 import type { FetchLike } from './rdap/request';
 import type { RdapHop } from './rdap/client';
 import type { WhoisHop } from './whois/client';
@@ -52,8 +51,8 @@ export interface RdapWhoisOptions {
    */
   followReferrals?: number;
   /**
-   * how many HTTP redirects an RDAP request may follow. Each one is checked against the
-   * target policy first. Default 5; 0 turns it off
+   * how many HTTP redirects an RDAP request may follow, to an http:// or https:// URL.
+   * Default 5; 0 turns it off
    */
   followRedirects?: number;
   /** the largest response to accept, in bytes. Default 1 000 000 */
@@ -89,21 +88,12 @@ export interface RdapWhoisOptions {
    * applied to it
    */
   fetch?: FetchLike;
-  /** which hosts may be contacted */
-  targets?: TargetPolicy;
   /** a proxy URL for both protocols, or { whois, rdap } with one for each */
   proxy?: ProxyOption;
   /** abort every request made with these options */
   signal?: AbortSignal;
   /** replaces the runtime's TCP connect */
   connect?: Connect;
-  /**
-   * replaces the runtime's resolver (node:dns on Node, Bun and Deno). Each server's name is
-   * resolved with it, the request is refused unless every address is public, and the
-   * connection goes to those addresses. Workers have no resolver, so there a name goes to
-   * the runtime, or to the proxy, as it is unless one is given
-   */
-  resolve?: Resolve;
   /** called for every network exchange and every decision to make another one */
   onEvent?: (event: ClientEvent) => void;
   /** keeps each protocol's answers, so a query asked again is answered without a request */
@@ -157,10 +147,10 @@ export function given<T extends object>(options: T | undefined): Partial<T> {
 }
 
 // the numeric options and the values each may take: at least `min`, or above it with
-// `above`; a whole number with `integer`; and Infinity only with `infinite`
+// `above`; at most `max`; a whole number with `integer`; and Infinity only with `infinite`
 const NUMBER_RULES: Record<
   string,
-  { min: number; integer?: boolean; infinite?: boolean; above?: boolean }
+  { min: number; max?: number; integer?: boolean; infinite?: boolean; above?: boolean }
 > = {
   timeout: { min: 0, above: true },
   retries: { min: 0, integer: true },
@@ -172,7 +162,7 @@ const NUMBER_RULES: Record<
   concurrency: { min: 1, integer: true },
   minInterval: { min: 0 },
   batchConcurrency: { min: 1, integer: true },
-  port: { min: 1, integer: true },
+  port: { min: 1, max: 65535, integer: true },
 };
 
 // check the numeric options of a merged set, throwing a RangeError for the first that is not
@@ -184,12 +174,15 @@ export function checkOptions<T extends object>(options: T): T {
     const ok =
       typeof value === 'number' &&
       (rule.above ? value > rule.min : value >= rule.min) &&
+      (rule.max === undefined || value <= rule.max) &&
       (rule.integer
         ? Number.isInteger(value)
         : Number.isFinite(value) || (rule.infinite === true && value === Infinity));
     if (!ok) {
       const kind = rule.integer ? 'a whole number' : 'a number';
-      const bound = rule.above ? `above ${rule.min}` : `of at least ${rule.min}`;
+      const bound =
+        (rule.above ? `above ${rule.min}` : `of at least ${rule.min}`) +
+        (rule.max === undefined ? '' : ` and at most ${rule.max}`);
       const shown = typeof value === 'number' ? value : JSON.stringify(value);
       throw new RangeError(`${name} must be ${kind} ${bound}, not ${shown}`);
     }
@@ -365,24 +358,6 @@ export function defaultConnect(): Promise<Connect> {
     isWorkers() ? import('./transports/cloudflare') : import('./transports/node')
   ).then(transport => transport.connect);
   return runtimeConnect;
-}
-
-// whether this runtime has the Node APIs the Node transport uses: Node, and Bun and Deno,
-// which say so in process.versions.node. Not Workers, and not a browser
-export const isNodeLike = (): boolean =>
-  typeof (globalThis as { process?: { versions?: { node?: unknown } } }).process?.versions?.node ===
-    'string' && !isWorkers();
-
-// the resolver whose addresses are checked before each connection, or undefined to hand the
-// name on unresolved: when the target policy allows private hosts, or where the runtime
-// has no resolver and none was given (Workers, where the runtime resolves names itself and
-// its sockets refuse private addresses)
-export async function screeningResolver(
-  options: Pick<ResolvedOptions, 'resolve' | 'targets'>
-): Promise<Resolve | undefined> {
-  if (options.targets?.allowPrivate) return undefined;
-  if (options.resolve) return options.resolve;
-  return isNodeLike() ? (await import('./transports/node')).resolve : undefined;
 }
 
 // The state the clients share: the resolved options, one limiter for every server, and the

@@ -1,14 +1,12 @@
 # Security
 
-The library contacts hosts named in server responses: RDAP referral links, WHOIS referral
-hostnames and HTTP redirects. Its target policy checks each name before connecting, and
-refuses IP literals, `localhost` and names that only mean something on a local network
-unless a caller allows them. It then resolves the name, refuses it unless every address is
-public, and connects to those addresses rather than the name. A caller's own `fetch`, and
-a Worker with no `resolve` given, are outside the address check (the README says why). A
-way past either check, a response that makes the library contact a host the policy should
-refuse, or anything else that turns untrusted server output into harm for the program
-using the library, is a security problem.
+The library connects wherever it is pointed, including the hosts named in server responses:
+RDAP referral links, WHOIS referral hostnames and HTTP redirects. It does not screen
+destinations, so a response that leads it to a private or local address is not a
+vulnerability in the library; a service that needs that guarantee enforces it at the
+connection (the README says how). A response that gets past `maxResponseBytes`, a
+timeout or the redirect limit, or anything else that turns untrusted server output into
+harm for the program using the library, is a security problem.
 
 ## Reporting
 
