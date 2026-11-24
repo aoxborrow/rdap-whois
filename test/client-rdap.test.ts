@@ -924,7 +924,11 @@ describe('where a query goes', () => {
   it('a server named as host:port gets https://', async () => {
     const { asked, client } = capture();
     await client.rdap('example.com', { server: 'rdap.example.org:8443' });
-    expect(asked).toEqual(['https://rdap.example.org:8443/domain/example.com']);
+    await client.rdap('example.com', { server: 'httpserver.example:8080' });
+    expect(asked).toEqual([
+      'https://rdap.example.org:8443/domain/example.com',
+      'https://httpserver.example:8080/domain/example.com',
+    ]);
   });
 
   it.each(['ftp://rdap.example.org/', 'mailto:rdap@example.org', 'not a host'])(
