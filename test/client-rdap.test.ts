@@ -221,6 +221,22 @@ describe('the referral loop', () => {
     await client.rdap('example.com');
     expect(asked[1]).toBe(`${REGISTRAR}domain/example.com`);
   });
+
+  it('reports a referral link that is not an HTTP URL as a failed hop', async () => {
+    const registry = await server(json(withReferral('ftp://rdap.example-registrar.com/rdap/')));
+    const asked: string[] = [];
+    const route = routing({ 'rdap.verisign.com': registry });
+    const client = new RdapWhois({
+      ...FAST,
+      fetch: (url, init) => {
+        asked.push(url);
+        return route(url, init);
+      },
+    });
+    const hops = await client.rdap('example.com');
+    expect(asked).toHaveLength(1);
+    expect(hops[1]).toMatchObject({ status: 'error', error: { name: 'InvalidResponseError' } });
+  });
 });
 
 describe('a redirect the runtime follows itself (a browser)', () => {
@@ -904,4 +920,15 @@ describe('where a query goes', () => {
     await client.rdap('example.com', { server: 'http://127.0.0.1:8080/' });
     expect(asked).toEqual(['http://127.0.0.1:8080/domain/example.com']);
   });
+
+  it.each(['ftp://rdap.example.org/', 'not a host'])(
+    'a server that is not an RDAP URL (%s) is an InvalidQueryError',
+    async server => {
+      const { asked, client } = capture();
+      await expect(client.rdap('example.com', { server })).rejects.toBeInstanceOf(
+        InvalidQueryError
+      );
+      expect(asked).toEqual([]);
+    }
+  );
 });

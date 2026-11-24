@@ -51,8 +51,8 @@ export interface RdapWhoisOptions {
    */
   followReferrals?: number;
   /**
-   * how many HTTP redirects an RDAP request may follow. Each one is checked against the
-   * target policy first. Default 5; 0 turns it off
+   * how many HTTP redirects an RDAP request may follow, to an http:// or https:// URL.
+   * Default 5; 0 turns it off
    */
   followRedirects?: number;
   /** the largest response to accept, in bytes. Default 1 000 000 */

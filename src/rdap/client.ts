@@ -89,14 +89,18 @@ export type RdapHop = {
   | { status: 'error'; data: RdapResponse | null; error: ErrorInfo }
 );
 
-// an RDAP server as a base URL with one trailing slash. An http:// server the caller names
-// is used as given; one from the bootstrap data or a referral link is upgraded to https
-function rdapBase(server: string, named = false): string {
+// an RDAP server as a base URL with one trailing slash, or null when it is not one. An
+// http:// server the caller names is used as given, while a referral link's is upgraded to
+// https:// as RFC 7481 asks. A name with no scheme gets https://, and any other scheme is
+// not an RDAP server
+function rdapBase(server: string, named: boolean): string | null {
   const text = server.trim();
-  if (named && /^http:\/\//i.test(text)) {
-    return stripRdapEndpoint(text).replace(/\/+$/, '') + '/';
-  }
-  return normalizeRdapServer(text);
+  let base: string;
+  if (named && /^http:\/\//i.test(text)) base = stripRdapEndpoint(text).replace(/\/+$/, '') + '/';
+  else if (/^https?:\/\//i.test(text)) base = normalizeRdapServer(text);
+  else if (/^[a-z][a-z0-9+.-]*:/i.test(text)) return null;
+  else base = normalizeRdapServer(text);
+  return URL.canParse(base) ? base : null;
 }
 
 const hostOf = (url: string): string => new URL(url).hostname;
@@ -339,6 +343,12 @@ export async function rdapCall(
     });
   }
   const first = rdapBase(server, options.server !== undefined);
+  if (!first) {
+    throw new InvalidQueryError(`"${server}" is not an RDAP server URL`, {
+      protocol: 'rdap',
+      query: text,
+    });
+  }
 
   return core.cached({ protocol: 'rdap', server: first, query: text, queryType }, options, () =>
     rdapChain(core, first, text, queryType, options)
@@ -379,7 +389,17 @@ async function rdapChain(
     const referralStarted = Date.now();
     let referral = link.href;
     try {
-      referral = rdapBase(link.href);
+      const base = rdapBase(link.href, false);
+      if (!base) {
+        throw new InvalidResponseError(
+          `${last.server} linked to ${link.href}, which is not an RDAP server URL`,
+          {
+            protocol: 'rdap',
+            query: text,
+          }
+        );
+      }
+      referral = base;
       core.emit(options, { type: 'referral', protocol: 'rdap', from: last.server, to: referral });
       hops.push(await rdapHop(core, referral, text, queryType, options, true));
     } catch (error) {

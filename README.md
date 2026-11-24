@@ -595,11 +595,13 @@ The library connects wherever it is pointed: the `server` you pass, the WHOIS re
 hostnames and RDAP links in a server's response, and the redirects it follows, local and
 private addresses included. It does not screen destinations. A service that passes
 untrusted input to it, or must never reach an internal address, enforces that where the
-connection is made: in the `connect` and `fetch` it passes in, through a proxy that refuses
-private addresses, or with a network egress policy.
+connection is made: through a proxy that refuses private addresses, with a network egress
+policy, or in the transports it passes in. `connect` carries WHOIS and proxied RDAP, but
+direct RDAP goes through `fetch`, so egress control in code needs both.
 
-An `http://` RDAP server you name is asked over plain HTTP as given. One from the bootstrap
-data or a referral link is upgraded to `https://`.
+An `http://` RDAP server you name, or a redirect leads to, is asked over plain HTTP as given.
+A referral link's `http://` is upgraded to `https://`, as is the bootstrap data's, and a
+server named without a scheme gets `https://`. Any other scheme is refused.
 
 ## Errors
 
@@ -613,14 +615,14 @@ gives the plain-object form used inside results and events, with all of these bu
 
 | Class                  | Retryable | When                                                                       |
 | ---------------------- | --------- | -------------------------------------------------------------------------- |
-| `InvalidQueryError`    | no        | The query is not a valid domain, IP address, AS number or handle |
+| `InvalidQueryError`    | no        | The query is not a valid domain, IP address, AS number or handle, or the RDAP `server` is not a URL |
 | `NoUsableAnswerError`  | no        | `lookup()`: servers answered, none usably, and no registry said the name does not exist |
 | `TimeoutError`         | through a proxy | Connecting or reading took longer than `timeout`. Retryable when a proxy did not open its tunnel in time, or when the wait was for a free connection to a busy server |
 | `RateLimitError`       | yes       | The server refused the request because of a rate limit                     |
 | `NoServerError`        | no        | No WHOIS or RDAP server is known for the query                             |
 | `ProxyError`           | yes       | The proxy refused, rejected the credentials or could not reach the host    |
 | `EmptyResponseError`   | yes       | The server closed the connection without sending anything                  |
-| `InvalidResponseError` | no        | The response is unparseable, too large or about a different object, or it redirected to a URL that is not HTTP |
+| `InvalidResponseError` | no        | The response is unparseable, too large or about a different object, or it linked or redirected to a URL that is not HTTP |
 | `ServerError`          | for a 5xx | The server answered with an error of its own                               |
 | `ConnectionError`      | yes       | The connection was refused, reset or closed early                          |
 

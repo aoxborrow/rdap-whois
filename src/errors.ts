@@ -143,8 +143,8 @@ export class RdapWhoisError extends Error {
 Object.defineProperty(RdapWhoisError.prototype, BRAND, { value: true });
 
 /**
- * the query is not a valid domain, IP address, AS number or handle, or the server asked
- * for is one the target policy refuses
+ * the query is not a valid domain, IP address, AS number or handle, or the RDAP server
+ * asked for is not a URL
  */
 export class InvalidQueryError extends RdapWhoisError {
   override readonly name = 'InvalidQueryError' as const;
@@ -235,7 +235,7 @@ export interface ResponseDetails extends ErrorDetails {
 
 /**
  * the response could not be used: not parseable, too large, or about a different object.
- * Also a referral or redirect to a host the target policy refuses
+ * Also a referral or redirect to something that is not an http:// or https:// URL
  */
 export class InvalidResponseError extends RdapWhoisError {
   override readonly name = 'InvalidResponseError' as const;
