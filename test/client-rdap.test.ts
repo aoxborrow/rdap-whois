@@ -927,7 +927,7 @@ describe('where a query goes', () => {
     expect(asked).toEqual(['https://rdap.example.org:8443/domain/example.com']);
   });
 
-  it.each(['ftp://rdap.example.org/', 'not a host'])(
+  it.each(['ftp://rdap.example.org/', 'mailto:rdap@example.org', 'not a host'])(
     'a server that is not an RDAP URL (%s) is an InvalidQueryError',
     async server => {
       const { asked, client } = capture();
