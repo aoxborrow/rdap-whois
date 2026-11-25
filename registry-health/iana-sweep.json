@@ -1,7 +1,7 @@
 {
   "source": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
-  "sweptAt": "2026-11-25T21:39:52.415Z",
-  "elapsedSeconds": 404,
+  "sweptAt": "2026-11-25T22:00:31.009Z",
+  "elapsedSeconds": 411,
   "totals": {
     "tlds": 1435,
     "withWhois": 867,

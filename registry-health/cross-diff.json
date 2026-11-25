@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:39:52.823Z",
+  "generatedAt": "2026-11-25T22:00:31.332Z",
   "rdapPublication": "2026-11-20T23:00:03Z",
   "sweep": {
     "moved": [
@@ -691,7 +691,7 @@
     ]
   },
   "coverage": {
-    "both": 1071,
+    "both": 1070,
     "whoisOnly": [
       "ac",
       "ae",
@@ -1135,6 +1135,7 @@
       "you",
       "youtube",
       "zappos",
+      "zara",
       "zip"
     ],
     "neither": [

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T21:39:53.695Z",
-  "ourTlds": 1504,
+  "generatedAt": "2026-11-25T22:00:32.164Z",
+  "ourTlds": 1509,
   "perSource": {
     "debian/whois": {
       "tlds": 1421,
@@ -651,6 +651,11 @@
           "ourEntry": "null"
         },
         {
+          "tld": "zara",
+          "server": "whois.nic.zara",
+          "ourEntry": "null"
+        },
+        {
           "tld": "zip",
           "server": "whois.nic.zip",
           "ourEntry": "null"
@@ -1004,9 +1009,14 @@
         }
       ],
       "weOnly": [
+        "ae.org",
+        "africa.com",
         "alt.za",
+        "ar.com",
         "bentley",
         "cf",
+        "co.com",
+        "com.de",
         "dunlop",
         "es",
         "goo",
@@ -1047,11 +1057,6 @@
           "ourEntry": "null"
         },
         {
-          "tld": "ae.org",
-          "server": "whois.centralnic.com",
-          "ourEntry": "absent"
-        },
-        {
           "tld": "aeroport.fr",
           "server": "whois.smallregistry.net",
           "ourEntry": "absent"
@@ -1059,11 +1064,6 @@
         {
           "tld": "afamilycompany",
           "server": "whois.nic.afamilycompany",
-          "ourEntry": "absent"
-        },
-        {
-          "tld": "africa.com",
-          "server": "whois.centralnic.com",
           "ourEntry": "absent"
         },
         {
@@ -1085,11 +1085,6 @@
           "tld": "app",
           "server": "whois.nic.google",
           "ourEntry": "null"
-        },
-        {
-          "tld": "ar.com",
-          "server": "whois.centralnic.com",
-          "ourEntry": "absent"
         },
         {
           "tld": "audible",
@@ -1224,16 +1219,6 @@
         {
           "tld": "cityeats",
           "server": "whois.nic.cityeats",
-          "ourEntry": "absent"
-        },
-        {
-          "tld": "co.com",
-          "server": "whois.centralnic.net",
-          "ourEntry": "absent"
-        },
-        {
-          "tld": "com.de",
-          "server": "whois.centralnic.com",
           "ourEntry": "absent"
         },
         {
@@ -2064,6 +2049,11 @@
         {
           "tld": "zappos",
           "server": "whois.nic.zappos",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "zara",
+          "server": "whois.afilias-srs.net",
           "ourEntry": "null"
         },
         {
@@ -3162,11 +3152,6 @@
           "tld": "za.com",
           "ours": "whois.centralnic.net",
           "theirs": "whois.centralnic.com"
-        },
-        {
-          "tld": "zara",
-          "ours": "whois.nic.zara",
-          "theirs": "whois.afilias-srs.net"
         }
       ],
       "weOnly": [
@@ -3697,8 +3682,8 @@
     }
   ],
   "newDivergences": [
-    "debian/whois|server-disagrees|pr",
-    "weppos/whois|server-disagrees|pr"
+    "debian/whois|missing-tld|zara",
+    "weppos/whois|missing-tld|zara"
   ],
   "probes": [
     {
@@ -3737,16 +3722,6 @@
       "detail": "Timed out waiting for the proxy to connect to whois.nic.abbvie:43"
     },
     {
-      "tld": "ae.org",
-      "host": "whois.centralnic.com",
-      "sources": [
-        "weppos/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
       "tld": "aeroport.fr",
       "host": "whois.smallregistry.net",
       "sources": [
@@ -3769,17 +3744,6 @@
       "detail": "Could not connect to whois.nic.afamilycompany:43: host unreachable"
     },
     {
-      "tld": "africa.com",
-      "host": "whois.centralnic.com",
-      "sources": [
-        "weppos/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "notfound-fp",
-      "adopted": true,
-      "detail": "notfound: nic.africa.com"
-    },
-    {
       "tld": "aigo",
       "host": "whois.afilias-srs.net",
       "sources": [
@@ -3800,17 +3764,6 @@
       "classification": "refused",
       "adopted": false,
       "detail": "error page: TLD is not supported."
-    },
-    {
-      "tld": "ar.com",
-      "host": "whois.centralnic.com",
-      "sources": [
-        "weppos/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "notfound-fp",
-      "adopted": true,
-      "detail": "notfound: nic.ar.com"
     },
     {
       "tld": "avianca",
@@ -3934,8 +3887,8 @@
       "detail": "Could not connect to whois.nic.cityeats:43: host unreachable"
     },
     {
-      "tld": "co.com",
-      "host": "whois.centralnic.net",
+      "tld": "com.se",
+      "host": "whois.centralnic.com",
       "sources": [
         "weppos/whois"
       ],
@@ -3944,14 +3897,48 @@
       "adopted": true
     },
     {
-      "tld": "com.de",
-      "host": "whois.centralnic.com",
+      "tld": "comcast",
+      "host": "whois.nic.comcast",
       "sources": [
         "weppos/whois"
       ],
       "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.comcast:43: host unreachable"
+    },
+    {
+      "tld": "cookingchannel",
+      "host": "whois.nic.cookingchannel",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.cookingchannel:43: host unreachable"
+    },
+    {
+      "tld": "csc",
+      "host": "whois.nic.csc",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.csc:43: host unreachable"
+    },
+    {
+      "tld": "dabur",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
     },
     {
       "tld": "ieee",
@@ -3977,10 +3964,6 @@
   ],
   "adopted": {
     "za": "whois.nic.za",
-    "ae.org": "whois.centralnic.com",
-    "africa.com": "whois.centralnic.com",
-    "ar.com": "whois.centralnic.com",
-    "co.com": "whois.centralnic.net",
-    "com.de": "whois.centralnic.com"
+    "com.se": "whois.centralnic.com"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:46:43.490Z",
+  "generatedAt": "2026-11-25T22:06:56.855Z",
   "mode": "live",
   "oracles": [
     "whoiser",
@@ -7,279 +7,93 @@
     "weppos",
     "rdap"
   ],
-  "compared": 17,
+  "compared": 19,
   "oracleStats": {
     "whoiser": {
-      "parsed": 17,
+      "parsed": 19,
       "errors": 0,
       "notFound": 0
     },
     "likexian": {
-      "parsed": 16,
-      "errors": 1,
+      "parsed": 19,
+      "errors": 0,
       "notFound": 0
     },
     "weppos": {
-      "parsed": 17,
+      "parsed": 19,
       "errors": 0,
       "notFound": 0
     },
     "rdap": {
-      "parsed": 9,
+      "parsed": 16,
       "errors": 0,
       "notFound": 0
     }
   },
   "buckets": {
-    "we-missing": 13,
+    "we-missing": 19,
     "value-mismatch": 5,
-    "we-extra": 11
+    "we-extra": 2
   },
-  "groups": 29,
+  "groups": 26,
   "byKey": {
-    "whois.domreg.lt|registrant_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "vmedia.lt",
-          "ours": "egidijus@virtualmedia.lt",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.domreg.lt|registrant_org|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "vmedia.lt",
-          "ours": "uab \"virtualmedia\"",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.dotukr.com|creation_date|value-mismatch": {
+    "whois.nic.ar|registrant_name|value-mismatch": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
         "whoiser"
       ],
-      "top100": false,
+      "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "2019-09-20T06:46:01Z",
+          "query": "ngfederal.ar",
+          "ours": "norberto eduardo vecchietti",
           "votes": {
-            "whoiser": "20-Sep-2019 06:46:01 UTC"
+            "whoiser": "20290212821"
           }
         }
       ]
     },
-    "whois.dotukr.com|domain_name|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "полотенца.укр",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.dotukr.com|expiration_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "2028-09-20T06:46:01Z",
-          "votes": {
-            "whoiser": "20-Sep-2028 06:46:01 UTC"
-          }
-        }
-      ]
-    },
-    "whois.dotukr.com|nameservers|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": [
-            "ns116.inhostedns.com",
-            "ns216.inhostedns.net",
-            "ns316.inhostedns.org"
-          ],
-          "votes": {}
-        }
-      ]
-    },
-    "whois.dotukr.com|registrant_name|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "hidden",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.dotukr.com|status|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": [
-            "ok"
-          ],
-          "votes": {}
-        }
-      ]
-    },
-    "whois.dotukr.com|updated_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "2026-03-31T17:12:27Z",
-          "votes": {
-            "whoiser": "31-Mar-2026 17:12:27 UTC"
-          }
-        }
-      ]
-    },
-    "whois.nic.cr|registrant_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "jpsenlinea.go.cr",
-          "ours": "rortiz@jps.go.cr",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.cr|registrant_name|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "jpsenlinea.go.cr",
-          "ours": "ronald ortiz mendez",
-          "votes": {
-            "whoiser": "cn_1604"
-          }
-        }
-      ]
-    },
-    "whois.nic.cr|registrant_org|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "jpsenlinea.go.cr",
-          "ours": "junta de proteccion social de san jose",
-          "votes": {
-            "whoiser": "junta de proteccion social de san jose junta de protección social",
-            "likexian": "cn_1604"
-          }
-        }
-      ]
-    },
-    "whois.nic.cr|tech_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "jpsenlinea.go.cr",
-          "ours": "rortiz@jps.go.cr",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.cr|tech_name|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "jpsenlinea.go.cr",
-          "ours": "ronald ortiz mendez",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.ge|registrant_org|we-missing": {
+    "whois.nic.ar|registrant_org|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
         "likexian"
       ],
-      "top100": false,
+      "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "gtu.ge",
+          "query": "ngfederal.ar",
           "ours": null,
           "votes": {
-            "likexian": "georgian technical university"
+            "likexian": "20290212821"
           }
         }
       ]
     },
-    "whois.nic.hosting|registrant_email|we-missing": {
+    "whois.nic.ar|status|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "ngfederal.ar",
+          "ours": null,
+          "votes": {
+            "rdap": [
+              "ok"
+            ]
+          }
+        }
+      ]
+    },
+    "whois.nic.boats|registrant_email|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -289,10 +103,64 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "netx.hosting",
+          "query": "gtrsoft.boats",
           "ours": null,
           "votes": {
-            "rdap": "soft4gad@gmail.com"
+            "rdap": "db0ec424a3a241eea8eb3cdbdc050940.protect@withheldforprivacy.com"
+          }
+        }
+      ]
+    },
+    "whois.nic.boats|registrant_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "gtrsoft.boats",
+          "ours": null,
+          "votes": {
+            "rdap": "privacy service provided by withheld for privacy llc"
+          }
+        }
+      ]
+    },
+    "whois.nic.cam|registrant_email|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "slot777jp2.cam",
+          "ours": null,
+          "votes": {
+            "rdap": "c831fa6512f54310b8e31fba3c3a8621.protect@withheldforprivacy.com"
+          }
+        }
+      ]
+    },
+    "whois.nic.cam|registrant_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "slot777jp2.cam",
+          "ours": null,
+          "votes": {
+            "rdap": "privacy service provided by withheld for privacy llc"
           }
         }
       ]
@@ -307,51 +175,15 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "netx.hosting",
+          "query": "taenzer.hosting",
           "ours": null,
           "votes": {
-            "rdap": "ievgen shneider"
+            "rdap": "tänzermedien gmbh"
           }
         }
       ]
     },
-    "whois.nic.sbs|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "ac-milan.sbs",
-          "ours": null,
-          "votes": {
-            "rdap": "super privacy service ltd c/o global domain group"
-          }
-        }
-      ]
-    },
-    "whois.nic.sbs|registrant_org|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "ac-milan.sbs",
-          "ours": null,
-          "votes": {
-            "rdap": "global domain group privacy service"
-          }
-        }
-      ]
-    },
-    "whois.nic.schwarz|registrant_name|we-missing": {
+    "whois.nic.monster|registrant_email|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -361,15 +193,15 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "leaflets.schwarz",
+          "query": "beamyorosia.monster",
           "ours": null,
           "votes": {
-            "rdap": "domain admin"
+            "rdap": "beamyorosia.monster@fablovkawhoisprotection.com"
           }
         }
       ]
     },
-    "whois.nic.wiki|registrant_name|we-missing": {
+    "whois.nic.monster|registrant_name|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -379,15 +211,189 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "aurakingdom.wiki",
+          "query": "beamyorosia.monster",
           "ours": null,
           "votes": {
-            "rdap": "privacy service provided by withheld for privacy llc"
+            "rdap": "whois protection, this company does not own this domain name s.r.o."
           }
         }
       ]
     },
-    "whois.norid.no|domain_id|we-extra": {
+    "whois.nic.yachts|registrant_email|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "5kdg789.yachts",
+          "ours": null,
+          "votes": {
+            "rdap": "pwp-c0ae01b8dd3308bdce84a188994002ab@privacyguardian.org"
+          }
+        }
+      ]
+    },
+    "whois.nic.yachts|registrant_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "5kdg789.yachts",
+          "ours": null,
+          "votes": {
+            "rdap": "privacy user #293bcac5"
+          }
+        }
+      ]
+    },
+    "whois.nic.yachts|registrant_org|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "5kdg789.yachts",
+          "ours": null,
+          "votes": {
+            "rdap": "see privacyguardian.org"
+          }
+        }
+      ]
+    },
+    "whois.nixiregistry.in|registrant_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "apnaongc.in",
+          "ours": null,
+          "votes": {
+            "rdap": "ongc"
+          }
+        }
+      ]
+    },
+    "whois.register.si|registrant_name|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "geo-zs.si",
+          "ours": null,
+          "votes": {
+            "whoiser": "g38142"
+          }
+        }
+      ]
+    },
+    "whois.register.si|registrant_org|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "geo-zs.si",
+          "ours": null,
+          "votes": {
+            "likexian": "g38142"
+          }
+        }
+      ]
+    },
+    "whois.register.si|updated_date|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "rdap"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "geo-zs.si",
+          "ours": null,
+          "votes": {
+            "rdap": "2026-05-07T00:00:00Z"
+          }
+        }
+      ]
+    },
+    "whois.ua|creation_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 3,
+      "oracles": [
+        "whoiser",
+        "likexian",
+        "weppos",
+        "rdap"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "privacy.com.ua",
+          "ours": "2009-07-15T23:55:31Z",
+          "votes": {
+            "whoiser": "2009-07-15 23:55:31+03",
+            "likexian": "2009-07-15T20:55:31Z",
+            "weppos": "2009-07-15T20:55:31Z",
+            "rdap": "2009-07-15T20:55:31Z"
+          }
+        }
+      ]
+    },
+    "whois.ua|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 3,
+      "oracles": [
+        "whoiser",
+        "likexian",
+        "weppos",
+        "rdap"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "privacy.com.ua",
+          "ours": "2027-07-15T23:55:30Z",
+          "votes": {
+            "whoiser": "2027-07-15 23:55:30+03",
+            "likexian": "2027-07-15T20:55:30Z",
+            "weppos": "2027-07-15T20:55:30Z",
+            "rdap": "2027-07-15T20:55:30Z"
+          }
+        }
+      ]
+    },
+    "whois.ua|registrar_abuse_email|we-extra": {
       "count": 1,
       "maxAgree": 0,
       "oracles": [],
@@ -395,135 +401,131 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "travsport.no",
-          "ours": "TRA3230D-NORID",
+          "query": "privacy.com.ua",
+          "ours": "abuse@ukrnames.com",
           "votes": {}
         }
       ]
     },
-    "whois.norid.no|nameservers|we-missing": {
+    "whois.ua|registrar_abuse_phone|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "privacy.com.ua",
+          "ours": "+380.577626123",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.ua|registrar_id|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
-        "rdap"
+        "whoiser"
       ],
       "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "travsport.no",
+          "query": "privacy.com.ua",
           "ours": null,
           "votes": {
+            "whoiser": "ua.ukrnames"
+          }
+        }
+      ]
+    },
+    "whois.ua|status|value-mismatch": {
+      "count": 1,
+      "maxAgree": 3,
+      "oracles": [
+        "whoiser",
+        "likexian",
+        "rdap"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "privacy.com.ua",
+          "ours": [
+            "linked",
+            "ok"
+          ],
+          "votes": {
+            "whoiser": [
+              "ok"
+            ],
+            "likexian": [
+              "ok"
+            ],
             "rdap": [
-              "ns1.o-dns.net",
-              "ns2.o-dns.no",
-              "ns3.o-dns.org",
-              "ns4.o-dns.se"
+              "ok"
             ]
           }
         }
       ]
     },
-    "whois.norid.no|registrar_id|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "travsport.no",
-          "ours": "REG318-NORID",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.norid.no|registrar_name|we-missing": {
+    "whois.ua|tech_email|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
-        "rdap"
+        "likexian"
       ],
       "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "travsport.no",
+          "query": "privacy.com.ua",
           "ours": null,
           "votes": {
-            "rdap": "orange business digital norway as"
+            "likexian": "not published"
           }
         }
       ]
     },
-    "whois.norid.no|registrar_url|we-missing": {
+    "whois.ua|tech_name|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
-        "rdap"
+        "likexian"
       ],
       "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "travsport.no",
+          "query": "privacy.com.ua",
           "ours": null,
           "votes": {
-            "rdap": "basefarm.no"
+            "likexian": "not published"
           }
         }
       ]
     },
-    "whois.registry.click|registrant_email|we-missing": {
+    "whois.ua|updated_date|value-mismatch": {
       "count": 1,
-      "maxAgree": 1,
+      "maxAgree": 3,
       "oracles": [
+        "whoiser",
+        "likexian",
+        "weppos",
         "rdap"
       ],
-      "top100": false,
-      "top100Strong": false,
+      "top100": true,
+      "top100Strong": true,
       "samples": [
         {
-          "query": "streamingcommunityz.food",
-          "ours": null,
+          "query": "privacy.com.ua",
+          "ours": "2026-08-14T23:58:02Z",
           "votes": {
-            "rdap": "pwp-4def3cfb58b7f19bf9af4629093f046f@privacyguardian.org"
-          }
-        }
-      ]
-    },
-    "whois.registry.click|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "streamingcommunityz.food",
-          "ours": null,
-          "votes": {
-            "rdap": "privacy user #997f8cbc"
-          }
-        }
-      ]
-    },
-    "whois.registry.click|registrant_org|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "streamingcommunityz.food",
-          "ours": null,
-          "votes": {
-            "rdap": "see privacyguardian.org"
+            "whoiser": "2026-08-14 23:58:02+03",
+            "likexian": "2026-08-14T20:58:02Z",
+            "weppos": "2026-08-14T20:58:02Z",
+            "rdap": "2026-08-14T20:58:02Z"
           }
         }
       ]
