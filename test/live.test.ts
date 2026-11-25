@@ -46,7 +46,9 @@ describe.skipIf(!LIVE)('live lookups', { timeout: 60_000 }, () => {
     expect(hops.length).toBe(2);
     expect(hops[0].serverType).toBe('registry');
     expect(hops[0].status).toBe('found');
-    expect(hops[1].serverType).toBe('registrar');
+    // the registrar is a server the routing data does not know, so its hop says 'unknown';
+    // only the combined record calls it the registrar
+    expect(hops[1].serverType).toBe('unknown');
     expect(hops[1].raw).toBeTruthy();
   });
 
@@ -56,7 +58,7 @@ describe.skipIf(!LIVE)('live lookups', { timeout: 60_000 }, () => {
     expect(hops[0].status).toBe('found');
     expect(hops[0].httpStatus).toBe(200);
     expect(hops.length).toBe(2);
-    expect(hops[1].serverType).toBe('registrar');
+    expect(hops[1].serverType).toBe('unknown');
   });
 
   it('looks an IP address and an AS number up over RDAP', async () => {

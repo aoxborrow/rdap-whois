@@ -72,6 +72,10 @@ export type DecisionInputs = {
   whoisState: Record<string, ProbeRecord>;
   // hand overrides (never touched; a TLD pinned here is exempt from phase-out)
   overriddenTlds: Set<string>;
+  // TLDs already listed as moat outages in the committed decisions.json. A known outage
+  // is still reported, but only one that was not known turns the run red, so an outage
+  // that outlives the week it was first reported does not hold the alert open forever
+  knownMoatOutages?: Set<string>;
   // injectable clock + tunable durations (default to the constants above; tests pin them)
   now?: Date;
   minAgeDays?: number;
@@ -118,7 +122,8 @@ export type Decisions = {
   // a TLD whose merged route points at a server that probed unhealthy (e.g. a freshly
   // adopted IANA server that doesn't actually answer) — flag, don't auto-revert
   unhealthyRoutes: UnhealthyAdoption[];
-  // whether the run should fail the build (currently: any sustained moat outage)
+  // whether the run should fail the build: a sustained moat outage the committed
+  // decisions.json did not already list
   red: boolean;
 };
 
@@ -139,6 +144,7 @@ export function decide(inputs: DecisionInputs): Decisions {
     ianaListsServer,
     whoisState,
     overriddenTlds,
+    knownMoatOutages = new Set<string>(),
     now = new Date(),
     minAgeDays = PHASEOUT_MIN_AGE_DAYS,
     minFailures = PHASEOUT_MIN_FAILURES,
@@ -276,7 +282,7 @@ export function decide(inputs: DecisionInputs): Decisions {
     moatWatch,
     candidates,
     unhealthyRoutes,
-    red: moatOutages.length > 0,
+    red: moatOutages.some(m => !knownMoatOutages.has(m.tld)),
   };
 }
 

@@ -110,7 +110,10 @@ function normalizeScalar(kind: (typeof FIELD_KIND)[OracleFieldName], value: stri
   switch (kind) {
     case 'date':
       // near-verbatim — dates compare through datesEquivalent, not equality; fractional
-      // seconds are stripped because parseFixtureDateString can't read them
+      // seconds are stripped because parseFixtureDateString can't read them. A year-0 or
+      // year-1 date is a placeholder some registrars print for no date (Namecheap's
+      // `Updated Date: 0001-01-01T00:00:00.00Z`), so it counts as no value
+      if (/^\s*000[01]-/.test(value)) return '';
       return value.trim().replace(/(\.\d+)(?=Z$|[+-]\d)/, '');
     case 'url':
       return clean(value)

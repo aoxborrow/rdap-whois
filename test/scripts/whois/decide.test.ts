@@ -204,6 +204,23 @@ describe('registry-health decide()', () => {
     expect(d.red).toBe(true); // sustained moat outage turns the build red
   });
 
+  it('keeps reporting a moat outage the last run already listed, without turning red', () => {
+    const moat = {
+      tldServers: { xx: 'whois.nic.xx', yy: 'whois.nic.yy' },
+      rdapListedTlds: new Set<string>(),
+      rdapHealthyTlds: new Set<string>(),
+      whoisState: {
+        'whois.nic.xx': record('dead-candidate', 5),
+        'whois.nic.yy': record('dead-candidate', 5),
+      },
+    };
+    const known = decide(inputs({ ...moat, knownMoatOutages: new Set(['xx', 'yy']) }));
+    expect(known.moatOutages.map(m => m.tld)).toEqual(['xx', 'yy']);
+    expect(known.red).toBe(false);
+    const fresh = decide(inputs({ ...moat, knownMoatOutages: new Set(['xx']) }));
+    expect(fresh.red).toBe(true);
+  });
+
   it('holds a freshly-dead moat as a watch entry, not red', () => {
     const d = decide(
       inputs({

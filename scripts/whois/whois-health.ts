@@ -118,7 +118,11 @@ function loadIanaListsServer(): Record<string, boolean> {
   return map;
 }
 
-function renderReport(decisions: Decisions, whoisState: HealthState['whois']): string {
+function renderReport(
+  decisions: Decisions,
+  whoisState: HealthState['whois'],
+  knownMoatOutages: Set<string>
+): string {
   const probed = Object.keys(whoisState).length;
   const dead = Object.values(whoisState).filter(r => r.classification === 'dead-candidate').length;
   const refused = Object.values(whoisState).filter(r => r.classification === 'refused').length;
@@ -130,17 +134,22 @@ function renderReport(decisions: Decisions, whoisState: HealthState['whois']): s
   );
   lines.push('');
 
-  if (decisions.red) {
+  if (decisions.moatOutages.length) {
     const cc = countCcMoatOutages(decisions.moatOutages);
-    lines.push(`## 🔴 Moat outages (${decisions.moatOutages.length}, ${cc} ccTLD) — build RED`);
+    const fresh = decisions.moatOutages.filter(m => !knownMoatOutages.has(m.tld)).length;
+    lines.push(
+      decisions.red
+        ? `## 🔴 Moat outages (${decisions.moatOutages.length}, ${cc} ccTLD, ${fresh} new) — build RED`
+        : `## 🟠 Moat outages (${decisions.moatOutages.length}, ${cc} ccTLD, none new)`
+    );
     lines.push('');
     lines.push(
-      `Dead whois with NO RDAP fallback (down ≥${MOAT_RED_AGE_DAYS}d) — these TLDs are unlookupable. Never auto-nulled.`
+      `Dead whois with NO RDAP fallback (down ≥${MOAT_RED_AGE_DAYS}d) — these TLDs are unlookupable. Never auto-nulled. Only an outage the last committed report did not list turns the build red.`
     );
     lines.push('');
     for (const m of decisions.moatOutages) {
       lines.push(
-        `- **${m.tld}** → ${m.server} (dead ${m.deadDays}d, ×${m.consecutiveFailures})${m.detail ? ` — ${m.detail}` : ''}`
+        `- **${m.tld}** → ${m.server} (dead ${m.deadDays}d, ×${m.consecutiveFailures})${knownMoatOutages.has(m.tld) ? '' : ' — new'}${m.detail ? ` — ${m.detail}` : ''}`
       );
     }
     lines.push('');
@@ -359,6 +368,11 @@ function main(): void {
   const state = loadState();
   const overrides = loadJson<Record<string, string | null>>(`${WHOIS_DIR}tlds-overrides.json`, {});
   const { rdapListedTlds, rdapHealthyTlds } = loadRdapRouteSets(state.rdap);
+  // the outages the last committed run already reported, read before this run overwrites
+  // decisions.json
+  const knownMoatOutages = new Set(
+    loadJson<Partial<Decisions>>(REPORT_JSON, {}).moatOutages?.map(m => m.tld) ?? []
+  );
   const decisions = decide({
     tldServers: getTldServers(),
     rdapListedTlds,
@@ -366,6 +380,7 @@ function main(): void {
     ianaListsServer: loadIanaListsServer(),
     whoisState: state.whois,
     overriddenTlds: new Set(Object.keys(overrides)),
+    knownMoatOutages,
   });
 
   // Stages 3–4 mutate committed source data (phase-out file, overrides, generated map).
@@ -454,7 +469,7 @@ function main(): void {
   // ── stage 7: report ──────────────────────────────────────────────────────
   mkdirSync(HEALTH_DIR, { recursive: true });
   writeFileSync(REPORT_JSON, JSON.stringify(decisions, null, 2) + '\n', 'utf8');
-  let md = renderReport(decisions, state.whois);
+  let md = renderReport(decisions, state.whois, knownMoatOutages);
   md += `\n## Parser regression\n\n${parser.checked} fixtures, ${parser.score}% parse clean; ${parser.top100Regressions} top-100 regression(s).\n`;
   md += renderOracleSection();
   md += renderCommunitySection();
@@ -467,7 +482,7 @@ function main(): void {
 
   if (red) {
     const reasons = [
-      decisions.red ? `${decisions.moatOutages.length} moat outage(s)` : null,
+      decisions.red ? 'new moat outage(s)' : null,
       parserRed ? `${parser.top100Regressions} top-100 parser regression(s)` : null,
       oracleRed ? `${oracle.redKeys.length} new top-100 oracle divergence(s)` : null,
     ].filter(Boolean);
