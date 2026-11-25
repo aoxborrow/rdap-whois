@@ -1,0 +1,38 @@
+{
+  "rdap.gmoregistry.net": {
+    "protocol": "rdap",
+    "runs": 1,
+    "firstSeen": "2026-11-25T21:33:06.914Z",
+    "lastSeen": "2026-11-25T21:33:06.914Z",
+    "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "whois.nic.ch": {
+    "protocol": "whois",
+    "runs": 1,
+    "firstSeen": "2026-11-25T21:45:03.943Z",
+    "lastSeen": "2026-11-25T21:45:03.943Z",
+    "detail": "whois.nic.ch is rate limiting",
+    "limit": {
+      "concurrency": 1,
+      "minInterval": 1000
+    },
+    "published": true
+  },
+  "whois.nic.li": {
+    "protocol": "whois",
+    "runs": 1,
+    "firstSeen": "2026-11-25T21:45:03.943Z",
+    "lastSeen": "2026-11-25T21:45:03.943Z",
+    "detail": "whois.nic.li is rate limiting",
+    "limit": {
+      "concurrency": 1,
+      "minInterval": 1000
+    },
+    "published": true
+  }
+}

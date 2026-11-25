@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T22:58:46.039Z",
-  "ourTlds": 1502,
+  "generatedAt": "2026-11-25T21:39:53.695Z",
+  "ourTlds": 1504,
   "perSource": {
     "debian/whois": {
       "tlds": 1421,
@@ -431,16 +431,6 @@
           "ourEntry": "null"
         },
         {
-          "tld": "pru",
-          "server": "whois.nic.pru",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "prudential",
-          "server": "whois.nic.prudential",
-          "ourEntry": "null"
-        },
-        {
           "tld": "read",
           "server": "whois.nic.read",
           "ourEntry": "null"
@@ -473,11 +463,6 @@
         {
           "tld": "safe",
           "server": "whois.nic.safe",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "sas",
-          "server": "whois.nic.sas",
           "ourEntry": "null"
         },
         {
@@ -531,28 +516,8 @@
           "ourEntry": "null"
         },
         {
-          "tld": "spb.ru",
-          "server": "whois.flexireg.net",
-          "ourEntry": "absent"
-        },
-        {
-          "tld": "spb.su",
-          "server": "whois.flexireg.net",
-          "ourEntry": "absent"
-        },
-        {
           "tld": "spot",
           "server": "whois.nic.spot",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "staples",
-          "server": "whois.nic.staples",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "statefarm",
-          "server": "whois.nic.statefarm",
           "ourEntry": "null"
         },
         {
@@ -566,28 +531,8 @@
           "ourEntry": "null"
         },
         {
-          "tld": "target",
-          "server": "whois.nic.target",
-          "ourEntry": "null"
-        },
-        {
           "tld": "tci",
           "server": "whois.nic.tci",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "tjmaxx",
-          "server": "whois.nic.tjmaxx",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "tjx",
-          "server": "whois.nic.tjx",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "tkmaxx",
-          "server": "whois.nic.tkmaxx",
           "ourEntry": "null"
         },
         {
@@ -611,11 +556,6 @@
           "ourEntry": "null"
         },
         {
-          "tld": "vivo",
-          "server": "whois.nic.vivo",
-          "ourEntry": "null"
-        },
-        {
           "tld": "vlaanderen",
           "server": "whois.nic.vlaanderen",
           "ourEntry": "null"
@@ -631,33 +571,13 @@
           "ourEntry": "null"
         },
         {
-          "tld": "weather",
-          "server": "whois.nic.weather",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "weatherchannel",
-          "server": "whois.nic.weatherchannel",
-          "ourEntry": "null"
-        },
-        {
           "tld": "wed",
           "server": "whois.nic.wed",
           "ourEntry": "null"
         },
         {
-          "tld": "williamhill",
-          "server": "whois.nic.williamhill",
-          "ourEntry": "null"
-        },
-        {
           "tld": "windows",
           "server": "whois.nic.windows",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "winners",
-          "server": "whois.nic.winners",
           "ourEntry": "null"
         },
         {
@@ -681,33 +601,13 @@
           "ourEntry": "null"
         },
         {
-          "tld": "xn--imr513n",
-          "server": "whois.nic.xn--imr513n",
-          "ourEntry": "null"
-        },
-        {
           "tld": "xn--jlq480n2rg",
           "server": "whois.nic.xn--jlq480n2rg",
           "ourEntry": "null"
         },
         {
-          "tld": "xn--mgba3a3ejt",
-          "server": "whois.nic.xn--mgba3a3ejt",
-          "ourEntry": "null"
-        },
-        {
           "tld": "xn--mgbt3dhd",
           "server": "whois.nic.xn--mgbt3dhd",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "xn--nyqy26a",
-          "server": "whois.nic.xn--nyqy26a",
-          "ourEntry": "null"
-        },
-        {
-          "tld": "xn--otu796d",
-          "server": "whois.nic.xn--otu796d",
           "ourEntry": "null"
         },
         {
@@ -949,7 +849,7 @@
         },
         {
           "tld": "pr",
-          "ours": "whois.afilias-srs.net",
+          "ours": "whois.identitydigital.services",
           "theirs": "whois.nic.pr"
         },
         {
@@ -2849,6 +2749,11 @@
           "theirs": "whois.dotpostregistry.net"
         },
         {
+          "tld": "pr",
+          "ours": "whois.identitydigital.services",
+          "theirs": "whois.afilias-srs.net"
+        },
+        {
           "tld": "pro",
           "ours": "whois.nic.pro",
           "theirs": "whois.afilias.net"
@@ -3402,27 +3307,43 @@
         "pp.ru",
         "pp.ua",
         "praxi",
+        "pru",
+        "prudential",
         "qpon",
         "ren",
         "safety",
         "sakura",
+        "sas",
         "sd",
         "sener",
         "sohu",
         "spa",
+        "spb.ru",
+        "spb.su",
         "sr",
+        "staples",
+        "statefarm",
         "suzuki",
         "taobao",
+        "target",
         "td",
         "tdk",
+        "tjmaxx",
+        "tjx",
+        "tkmaxx",
         "tmall",
         "tube",
         "uk.co",
         "unicom",
         "vi",
+        "vivo",
         "watches",
+        "weather",
+        "weatherchannel",
         "web.com",
         "weir",
+        "williamhill",
+        "winners",
         "xn--1ck2e1b",
         "xn--45q11c",
         "xn--4dbrk0ce",
@@ -3434,10 +3355,14 @@
         "xn--fct429k",
         "xn--gckr3f0f",
         "xn--gk3at1e",
+        "xn--imr513n",
         "xn--jvr189m",
         "xn--l1acc",
+        "xn--mgba3a3ejt",
         "xn--mgbcpq6gpa1a",
         "xn--ngbrx",
+        "xn--nyqy26a",
+        "xn--otu796d",
         "xn--pgbs0dh",
         "xn--q7ce6a",
         "xn--qxa6a",
@@ -3771,7 +3696,10 @@
       "ourEntry": "null"
     }
   ],
-  "newDivergences": [],
+  "newDivergences": [
+    "debian/whois|server-disagrees|pr",
+    "weppos/whois|server-disagrees|pr"
+  ],
   "probes": [
     {
       "tld": "abarth",
@@ -3780,9 +3708,21 @@
         "weppos/whois"
       ],
       "bucket": "missing-tld",
-      "classification": "dead-candidate",
+      "classification": "refused",
       "adopted": false,
-      "detail": "Connection error: Proxy connection timed out"
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "abbvie",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "debian/whois",
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
     },
     {
       "tld": "abbvie",
@@ -3794,19 +3734,224 @@
       "bucket": "missing-tld",
       "classification": "dead-candidate",
       "adopted": false,
-      "detail": "Connection error: Proxy connection timed out"
+      "detail": "Timed out waiting for the proxy to connect to whois.nic.abbvie:43"
     },
     {
-      "tld": "abbvie",
-      "host": "whois.afilias-srs.net",
+      "tld": "ae.org",
+      "host": "whois.centralnic.com",
       "sources": [
-        "debian/whois",
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "aeroport.fr",
+      "host": "whois.smallregistry.net",
+      "sources": [
         "weppos/whois"
       ],
       "bucket": "missing-tld",
       "classification": "dead-candidate",
       "adopted": false,
-      "detail": "Connection error: Proxy connection timed out"
+      "detail": "Timed out waiting for the proxy to connect to whois.smallregistry.net:43"
+    },
+    {
+      "tld": "afamilycompany",
+      "host": "whois.nic.afamilycompany",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.afamilycompany:43: host unreachable"
+    },
+    {
+      "tld": "africa.com",
+      "host": "whois.centralnic.com",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "notfound-fp",
+      "adopted": true,
+      "detail": "notfound: nic.africa.com"
+    },
+    {
+      "tld": "aigo",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "alfaromeo",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "ar.com",
+      "host": "whois.centralnic.com",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "notfound-fp",
+      "adopted": true,
+      "detail": "notfound: nic.ar.com"
+    },
+    {
+      "tld": "avianca",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "avocat.fr",
+      "host": "whois.smallregistry.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Timed out waiting for the proxy to connect to whois.smallregistry.net:43"
+    },
+    {
+      "tld": "budapest",
+      "host": "whois-dub.mm-registry.com",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Timed out waiting for the proxy to connect to whois-dub.mm-registry.com:43"
+    },
+    {
+      "tld": "bugatti",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "cancerresearch",
+      "host": "whois.nic.cancerresearch",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.cancerresearch:43: host unreachable"
+    },
+    {
+      "tld": "caseih",
+      "host": "whois.nic.caseih",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.caseih:43: host unreachable"
+    },
+    {
+      "tld": "cbs",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "ceb",
+      "host": "whois.afilias-srs.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "refused",
+      "adopted": false,
+      "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "chambagri.fr",
+      "host": "whois.smallregistry.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Timed out waiting for the proxy to connect to whois.smallregistry.net:43"
+    },
+    {
+      "tld": "chirurgiens-dentistes.fr",
+      "host": "whois.smallregistry.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Timed out waiting for the proxy to connect to whois.smallregistry.net:43"
+    },
+    {
+      "tld": "cityeats",
+      "host": "whois.nic.cityeats",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "dead-candidate",
+      "adopted": false,
+      "detail": "Could not connect to whois.nic.cityeats:43: host unreachable"
+    },
+    {
+      "tld": "co.com",
+      "host": "whois.centralnic.net",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
+    },
+    {
+      "tld": "com.de",
+      "host": "whois.centralnic.com",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "healthy",
+      "adopted": true
     },
     {
       "tld": "ieee",
@@ -3817,209 +3962,7 @@
       "bucket": "missing-tld",
       "classification": "dead-candidate",
       "adopted": false,
-      "detail": "Connection error: Proxy connection timed out"
-    },
-    {
-      "tld": "pru",
-      "host": "whois.nic.pru",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "prudential",
-      "host": "whois.nic.prudential",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "sas",
-      "host": "whois.nic.sas",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "spb.ru",
-      "host": "whois.flexireg.net",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "notfound-fp",
-      "adopted": true,
-      "detail": "Object Not Found: The requested object does not exist."
-    },
-    {
-      "tld": "spb.su",
-      "host": "whois.flexireg.net",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "notfound-fp",
-      "adopted": true,
-      "detail": "Object Not Found: The requested object does not exist."
-    },
-    {
-      "tld": "staples",
-      "host": "whois.nic.staples",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "statefarm",
-      "host": "whois.nic.statefarm",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "target",
-      "host": "whois.nic.target",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "tjmaxx",
-      "host": "whois.nic.tjmaxx",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "tjx",
-      "host": "whois.nic.tjx",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "tkmaxx",
-      "host": "whois.nic.tkmaxx",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "vivo",
-      "host": "whois.nic.vivo",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "weather",
-      "host": "whois.nic.weather",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "weatherchannel",
-      "host": "whois.nic.weatherchannel",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "williamhill",
-      "host": "whois.nic.williamhill",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "winners",
-      "host": "whois.nic.winners",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "xn--imr513n",
-      "host": "whois.nic.xn--imr513n",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "xn--mgba3a3ejt",
-      "host": "whois.nic.xn--mgba3a3ejt",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "xn--nyqy26a",
-      "host": "whois.nic.xn--nyqy26a",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
-      "tld": "xn--otu796d",
-      "host": "whois.nic.xn--otu796d",
-      "sources": [
-        "debian/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
+      "detail": "Timed out waiting for the proxy to connect to whois.nic.ieee:43"
     },
     {
       "tld": "za",
@@ -4033,26 +3976,11 @@
     }
   ],
   "adopted": {
-    "pru": "whois.nic.pru",
-    "prudential": "whois.nic.prudential",
-    "sas": "whois.nic.sas",
-    "spb.ru": "whois.flexireg.net",
-    "spb.su": "whois.flexireg.net",
-    "staples": "whois.nic.staples",
-    "statefarm": "whois.nic.statefarm",
-    "target": "whois.nic.target",
-    "tjmaxx": "whois.nic.tjmaxx",
-    "tjx": "whois.nic.tjx",
-    "tkmaxx": "whois.nic.tkmaxx",
-    "vivo": "whois.nic.vivo",
-    "weather": "whois.nic.weather",
-    "weatherchannel": "whois.nic.weatherchannel",
-    "williamhill": "whois.nic.williamhill",
-    "winners": "whois.nic.winners",
-    "xn--mgba3a3ejt": "whois.nic.xn--mgba3a3ejt",
-    "xn--imr513n": "whois.nic.xn--imr513n",
-    "xn--nyqy26a": "whois.nic.xn--nyqy26a",
-    "xn--otu796d": "whois.nic.xn--otu796d",
-    "za": "whois.nic.za"
+    "za": "whois.nic.za",
+    "ae.org": "whois.centralnic.com",
+    "africa.com": "whois.centralnic.com",
+    "ar.com": "whois.centralnic.com",
+    "co.com": "whois.centralnic.net",
+    "com.de": "whois.centralnic.com"
   }
 }

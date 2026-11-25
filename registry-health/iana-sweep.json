@@ -1,11 +1,11 @@
 {
   "source": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
-  "sweptAt": "2026-11-16T22:58:41.637Z",
-  "elapsedSeconds": 335,
+  "sweptAt": "2026-11-25T21:39:52.415Z",
+  "elapsedSeconds": 404,
   "totals": {
-    "tlds": 1436,
-    "withWhois": 869,
-    "withoutWhois": 567,
+    "tlds": 1435,
+    "withWhois": 867,
+    "withoutWhois": 568,
     "failed": 0,
     "carriedForward": 0
   },
@@ -1872,7 +1872,7 @@
       "status": "ACTIVE"
     },
     "ggee": {
-      "server": "whois.nic.ggee",
+      "server": null,
       "status": "ACTIVE"
     },
     "gh": {
@@ -3648,7 +3648,7 @@
       "status": "ACTIVE"
     },
     "pr": {
-      "server": "whois.afilias-srs.net",
+      "server": "whois.identitydigital.services",
       "status": "ACTIVE"
     },
     "praxi": {
@@ -5049,10 +5049,6 @@
     },
     "xerox": {
       "server": "whois.nic.xerox",
-      "status": "ACTIVE"
-    },
-    "xihuan": {
-      "server": "whois.teleinfo.cn",
       "status": "ACTIVE"
     },
     "xin": {
