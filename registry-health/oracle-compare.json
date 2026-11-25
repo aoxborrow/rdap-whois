@@ -1,36 +1,56 @@
 {
-  "generatedAt": "2026-11-16T23:26:48.393Z",
+  "generatedAt": "2026-11-25T21:45:13.607Z",
   "mode": "corpus",
   "oracles": [
     "whoiser",
     "likexian",
     "weppos"
   ],
-  "compared": 2879,
+  "compared": 2881,
   "oracleStats": {
     "whoiser": {
-      "parsed": 2879,
+      "parsed": 2881,
       "errors": 0,
       "notFound": 0
     },
     "likexian": {
-      "parsed": 2866,
+      "parsed": 2868,
       "errors": 12,
       "notFound": 1
     },
     "weppos": {
-      "parsed": 2874,
+      "parsed": 2877,
       "errors": 0,
-      "notFound": 5
+      "notFound": 4
     }
   },
   "buckets": {
-    "we-missing": 240,
-    "value-mismatch": 301,
-    "we-extra": 833
+    "we-missing": 241,
+    "value-mismatch": 303,
+    "we-extra": 836
   },
-  "groups": 432,
-  "newKeys": [],
+  "groups": 419,
+  "newKeys": [
+    "whois.biz.ua|expiration_date|value-mismatch",
+    "whois.bnnic.bn|nameservers|value-mismatch",
+    "whois.cdmon.com|updated_date|we-missing",
+    "whois.co.ua|expiration_date|value-mismatch",
+    "whois.imena.bg|nameservers|we-extra",
+    "whois.isoc.org.il|admin_email|we-missing",
+    "whois.isoc.org.il|registrant_org|we-missing",
+    "whois.isoc.org.il|tech_email|we-missing",
+    "whois.markmonitor.com|expiration_date|value-mismatch",
+    "whois.nic.cl|creation_date|value-mismatch",
+    "whois.nic.cl|expiration_date|value-mismatch",
+    "whois.nic.cl|nameservers|we-extra",
+    "whois.nic.cl|registrant_name|we-extra",
+    "whois.nic.kz|creation_date|value-mismatch",
+    "whois.nic.kz|expiration_date|value-mismatch",
+    "whois.nic.kz|registrant_email|we-extra",
+    "whois.nic.kz|status|value-mismatch",
+    "whois.nic.kz|updated_date|value-mismatch",
+    "whois.pp.ua|expiration_date|value-mismatch"
+  ],
   "redKeys": [],
   "byKey": {
     "whois.acens.net|registrar_abuse_phone|we-extra": {
@@ -59,7 +79,7 @@
       "samples": [
         {
           "query": "noticiaslatam.lat",
-          "ours": "2024-02-19T12:01:47Z",
+          "ours": "2024-02-19T18:01:47Z",
           "votes": {
             "whoiser": "2024-02-19T12:01:47-0600",
             "likexian": "2024-02-19T12:01:47-0600"
@@ -79,10 +99,10 @@
       "samples": [
         {
           "query": "noticiaslatam.lat",
-          "ours": "2026-02-19T00:00:00Z",
+          "ours": "2027-02-19T06:00:00Z",
           "votes": {
-            "whoiser": "2026-02-19T00:00:00-0600",
-            "likexian": "2026-02-19T00:00:00-0600"
+            "whoiser": "2027-02-19T00:00:00-0600",
+            "likexian": "2027-02-19T00:00:00-0600"
           }
         }
       ]
@@ -99,10 +119,10 @@
       "samples": [
         {
           "query": "noticiaslatam.lat",
-          "ours": "2024-06-07T03:28:47Z",
+          "ours": "2026-06-08T16:15:38Z",
           "votes": {
-            "whoiser": "2024-06-07T03:28:47-0500",
-            "likexian": "2024-06-07T03:28:47-0500"
+            "whoiser": "2026-06-08T10:15:38-0600",
+            "likexian": "2026-06-08T10:15:38-0600"
           }
         }
       ]
@@ -397,8 +417,8 @@
         {
           "query": "automobile.tn",
           "ours": [
-            "ns1.tunitech.net",
-            "ns2.tunitech.net"
+            "sam.ns.cloudflare.com",
+            "sasha.ns.cloudflare.com"
           ],
           "votes": {}
         },
@@ -568,10 +588,30 @@
       "samples": [
         {
           "query": "nic.biz.ua",
-          "ours": "2009-11-06T11:56:47Z",
+          "ours": "2003-09-21T12:33:44Z",
           "votes": {
-            "whoiser": "06-Nov-2009 11:56:47 UTC",
-            "likexian": "06-Nov-2009 11:56:47 UTC"
+            "whoiser": "21-Sep-2003 12:33:44 UTC",
+            "likexian": "21-Sep-2003 12:33:44 UTC"
+          }
+        }
+      ]
+    },
+    "whois.biz.ua|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 2,
+      "oracles": [
+        "whoiser",
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "nic.biz.ua",
+          "ours": "2027-09-21T12:33:44Z",
+          "votes": {
+            "whoiser": "21-Sep-2027 12:33:44 UTC",
+            "likexian": "21-Sep-2027 12:33:44 UTC"
           }
         }
       ]
@@ -588,10 +628,10 @@
       "samples": [
         {
           "query": "nic.biz.ua",
-          "ours": "2009-11-06T11:56:47Z",
+          "ours": "2026-09-16T12:58:48Z",
           "votes": {
-            "whoiser": "06-Nov-2009 11:56:47 UTC",
-            "likexian": "06-Nov-2009 11:56:47 UTC"
+            "whoiser": "16-Sep-2026 12:58:48 UTC",
+            "likexian": "16-Sep-2026 12:58:48 UTC"
           }
         }
       ]
@@ -641,6 +681,31 @@
           "query": "google.com.bn",
           "ours": "integricity corporation sdn bhd (bnc304t)",
           "votes": {}
+        }
+      ]
+    },
+    "whois.bnnic.bn|nameservers|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "bnnic.bn",
+          "ours": [
+            "ns104.brunet.bn",
+            "ns204.brunet.bn"
+          ],
+          "votes": {
+            "likexian": [
+              "202.160.6.206)",
+              "ns104.brunet.bn",
+              "ns204.brunet.bn"
+            ]
+          }
         }
       ]
     },
@@ -763,7 +828,7 @@
       "samples": [
         {
           "query": "115.xn--90ais",
-          "ours": "hidden! details are available at https://whois.cctld.by",
+          "ours": "sglem@it-minsk.by",
           "votes": {}
         }
       ]
@@ -912,6 +977,28 @@
         }
       ]
     },
+    "whois.cdmon.com|updated_date|we-missing": {
+      "count": 1,
+      "maxAgree": 3,
+      "oracles": [
+        "whoiser",
+        "likexian",
+        "weppos"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "boqueria.barcelona",
+          "ours": null,
+          "votes": {
+            "whoiser": "1970-01-01T01:00:00Z",
+            "likexian": "1970-01-01T01:00:00Z",
+            "weppos": "1970-01-01T01:00:00Z"
+          }
+        }
+      ]
+    },
     "whois.cnnic.cn|registrar_id|we-missing": {
       "count": 5,
       "maxAgree": 1,
@@ -956,10 +1043,30 @@
       "samples": [
         {
           "query": "nic.co.ua",
-          "ours": "2010-07-12T19:59:05Z",
+          "ours": "2005-01-01T00:00:00Z",
           "votes": {
-            "whoiser": "12-Jul-2010 19:59:05 UTC",
-            "likexian": "12-Jul-2010 19:59:05 UTC"
+            "whoiser": "01-Jan-2005 00:00:00 UTC",
+            "likexian": "01-Jan-2005 00:00:00 UTC"
+          }
+        }
+      ]
+    },
+    "whois.co.ua|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 2,
+      "oracles": [
+        "whoiser",
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "nic.co.ua",
+          "ours": "2027-09-21T12:33:44Z",
+          "votes": {
+            "whoiser": "21-Sep-2027 12:33:44 UTC",
+            "likexian": "21-Sep-2027 12:33:44 UTC"
           }
         }
       ]
@@ -976,10 +1083,10 @@
       "samples": [
         {
           "query": "nic.co.ua",
-          "ours": "2013-09-30T09:52:11Z",
+          "ours": "2026-09-16T12:58:50Z",
           "votes": {
-            "whoiser": "30-Sep-2013 09:52:11 UTC",
-            "likexian": "30-Sep-2013 09:52:11 UTC"
+            "whoiser": "16-Sep-2026 12:58:50 UTC",
+            "likexian": "16-Sep-2026 12:58:50 UTC"
           }
         }
       ]
@@ -993,54 +1100,18 @@
       "samples": [
         {
           "query": "betpawa.ug",
-          "ours": "2024-08-30T13:36:40Z",
+          "ours": "2026-09-07T15:09:27Z",
           "votes": {}
         },
         {
           "query": "djerycom.ug",
-          "ours": "2026-01-03T10:12:31Z",
+          "ours": "2026-01-03T07:12:31Z",
           "votes": {}
         },
         {
           "query": "fortebet.ug",
-          "ours": "2024-10-30T14:47:57Z",
+          "ours": "2026-11-04T07:38:05Z",
           "votes": {}
-        }
-      ]
-    },
-    "whois.denic.de|updated_date|value-mismatch": {
-      "count": 5,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.de",
-          "ours": "2018-03-12T21:44:25Z",
-          "votes": {
-            "whoiser": "2018-03-12T21:44:25+01:00",
-            "likexian": "2018-03-12T20:44:25Z"
-          }
-        },
-        {
-          "query": "nic.de",
-          "ours": "2020-05-28T14:29:55Z",
-          "votes": {
-            "whoiser": "2020-05-28T14:29:55+02:00",
-            "likexian": "2020-05-28T12:29:55Z"
-          }
-        },
-        {
-          "query": "t-online.de",
-          "ours": "2023-07-18T08:14:40Z",
-          "votes": {
-            "whoiser": "2023-07-18T08:14:40+02:00",
-            "likexian": "2023-07-18T06:14:40Z"
-          }
         }
       ]
     },
@@ -1224,7 +1295,7 @@
           "query": "allegro.pl",
           "ours": null,
           "votes": {
-            "likexian": "fax: +1.4945031216"
+            "likexian": "fax: +1.3026365454"
           }
         }
       ]
@@ -1250,80 +1321,6 @@
           "query": "publico.pt",
           "ours": "pt",
           "votes": {}
-        }
-      ]
-    },
-    "whois.dns.pt|registrant_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "publico.pt",
-          "ours": "it@publico.pt,lpoliveira@gmail.com",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.domain.com|creation_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 2,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "justfor.fans",
-          "ours": "2018-01-19T19:24:16Z",
-          "votes": {
-            "whoiser": "2018-01-19T19:24:16",
-            "likexian": "2018-01-19T19:24:16"
-          }
-        }
-      ]
-    },
-    "whois.domain.com|expiration_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 2,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "justfor.fans",
-          "ours": "2031-01-19T23:59:59Z",
-          "votes": {
-            "whoiser": "2031-01-19T23:59:59",
-            "likexian": "2031-01-19T23:59:59"
-          }
-        }
-      ]
-    },
-    "whois.domain.com|updated_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 2,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "justfor.fans",
-          "ours": "2025-01-21T14:01:01Z",
-          "votes": {
-            "whoiser": "2025-01-21T14:01:01",
-            "likexian": "2025-01-21T14:01:01"
-          }
         }
       ]
     },
@@ -1484,9 +1481,9 @@
         },
         {
           "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "2026-09-20T06:46:01Z",
+          "ours": "2028-09-20T06:46:01Z",
           "votes": {
-            "whoiser": "20-Sep-2026 06:46:01 UTC"
+            "whoiser": "20-Sep-2028 06:46:01 UTC"
           }
         }
       ]
@@ -1604,9 +1601,9 @@
         },
         {
           "query": "xn--80ajrjcbe1a2b.xn--j1amh",
-          "ours": "2025-02-11T09:37:58Z",
+          "ours": "2026-03-31T17:12:27Z",
           "votes": {
-            "whoiser": "11-Feb-2025 09:37:58 UTC"
+            "whoiser": "31-Mar-2026 17:12:27 UTC"
           }
         }
       ]
@@ -1703,10 +1700,10 @@
       "samples": [
         {
           "query": "historicenvironment.scot",
-          "ours": "2025-10-28T16:22:28Z",
+          "ours": "2027-10-28T16:22:28Z",
           "votes": {
-            "whoiser": "2025-10-28T16:22:28",
-            "likexian": "2025-10-28T16:22:28"
+            "whoiser": "2027-10-28T16:22:28",
+            "likexian": "2027-10-28T16:22:28"
           }
         }
       ]
@@ -1723,10 +1720,10 @@
       "samples": [
         {
           "query": "historicenvironment.scot",
-          "ours": "2024-09-29T02:13:30Z",
+          "ours": "2026-09-29T02:13:53Z",
           "votes": {
-            "whoiser": "2024-09-29T02:13:30",
-            "likexian": "2024-09-29T02:13:30"
+            "whoiser": "2026-09-29T02:13:53",
+            "likexian": "2026-09-29T02:13:53"
           }
         }
       ]
@@ -1825,9 +1822,9 @@
       "samples": [
         {
           "query": "google.ee",
-          "ours": "2024-10-11T19:50:15Z",
+          "ours": "2026-10-19T19:45:09Z",
           "votes": {
-            "whoiser": "2024-10-11 19:50:15 +03:00 Not Disclosed - Visit www.internet.ee for webbased WHOIS Not Disclosed - Visit www.internet.ee for webbased WHOIS 2020-07-01 13:55:58 +03:00 2010-11-10 14:15:06 +02:00",
+            "whoiser": "2026-10-19 19:45:09 +03:00 Not Disclosed - Visit www.internet.ee for webbased WHOIS Not Disclosed - Visit www.internet.ee for webbased WHOIS 2026-07-24 10:58:40 +03:00 2010-11-10 14:15:06 +02:00",
             "likexian": "2010-11-10 14:15:06 +02:00"
           }
         }
@@ -1922,12 +1919,17 @@
       ]
     },
     "whois.fi|registrant_email|we-extra": {
-      "count": 2,
+      "count": 3,
       "maxAgree": 0,
       "oracles": [],
       "top100": true,
       "top100Strong": false,
       "samples": [
+        {
+          "query": "druid.fi",
+          "ours": "boyan@cloudns.net",
+          "votes": {}
+        },
         {
           "query": "google.fi",
           "ours": "ccops@markmonitor.com",
@@ -2189,24 +2191,6 @@
         }
       ]
     },
-    "whois.hkirc.hk|admin_name|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.hk",
-          "ours": "administrator",
-          "votes": {
-            "likexian": "domain administrator"
-          }
-        }
-      ]
-    },
     "whois.hkirc.hk|registrant_name|we-extra": {
       "count": 5,
       "maxAgree": 0,
@@ -2228,24 +2212,6 @@
           "query": "google.com.hk",
           "ours": "company english name (it should be the same as the registered/corporation name on your business register certificate or relevant documents): hong kong internet holding limited",
           "votes": {}
-        }
-      ]
-    },
-    "whois.hkirc.hk|tech_name|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.hk",
-          "ours": "administrator",
-          "votes": {
-            "likexian": "domain administrator"
-          }
         }
       ]
     },
@@ -2388,21 +2354,21 @@
           "query": "abc.xyz",
           "ours": null,
           "votes": {
-            "whoiser": "vud.zuf cof sanudomafe"
+            "whoiser": "xyz.com llc centralnic"
           }
         },
         {
           "query": "amazonbot.amazon",
           "ours": null,
           "votes": {
-            "whoiser": "baleme zimopufe docuguci, vib. zejiju zogobite kizikuga, fad pobijiw"
+            "whoiser": "amazon registry services, inc. amazon registry services, inc nominet"
           }
         },
         {
           "query": "ipv4only.arpa",
           "ours": null,
           "votes": {
-            "whoiser": "lifutuvu timibugazibe noduc (pev) fovidezi micetamosep hir cotohube cumuf pec pivetow (mulad)"
+            "whoiser": "internet architecture board (iab) internet corporation for assigned names and numbers (icann)"
           }
         }
       ]
@@ -2471,34 +2437,6 @@
         }
       ]
     },
-    "whois.id|registrar_abuse_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.co.id",
-          "ours": "https://pandi.id/domain-abuse-form/?lang=en",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.id|registrar_name|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.co.id",
-          "ours": "pt digital registra indonesia",
-          "votes": {}
-        }
-      ]
-    },
     "whois.iis.nu|registrant_org|we-missing": {
       "count": 5,
       "maxAgree": 1,
@@ -2560,6 +2498,23 @@
           "votes": {
             "likexian": "mmr8008-171440"
           }
+        }
+      ]
+    },
+    "whois.imena.bg|nameservers|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn----7sbkofbbj4akz.xn--90ae",
+          "ours": [
+            "jonah.ns.cloudflare.com",
+            "mimi.ns.cloudflare.com"
+          ],
+          "votes": {}
         }
       ]
     },
@@ -2761,6 +2716,24 @@
         }
       ]
     },
+    "whois.isoc.org.il|admin_email|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "ynet.co.il",
+          "ours": null,
+          "votes": {
+            "likexian": "domain at yit.co.il"
+          }
+        }
+      ]
+    },
     "whois.isoc.org.il|creation_date|we-extra": {
       "count": 5,
       "maxAgree": 0,
@@ -2834,7 +2807,7 @@
       ]
     },
     "whois.isoc.org.il|registrant_name|we-extra": {
-      "count": 5,
+      "count": 4,
       "maxAgree": 0,
       "oracles": [],
       "top100": true,
@@ -2854,6 +2827,24 @@
           "query": "partner.co.il",
           "ours": "domain admin",
           "votes": {}
+        }
+      ]
+    },
+    "whois.isoc.org.il|registrant_org|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "ynet.co.il",
+          "ours": null,
+          "votes": {
+            "likexian": "yediot information technologies ltd"
+          }
         }
       ]
     },
@@ -2878,6 +2869,24 @@
           "query": "partner.co.il",
           "ours": "www.domainthenet.com",
           "votes": {}
+        }
+      ]
+    },
+    "whois.isoc.org.il|tech_email|we-missing": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "ynet.co.il",
+          "ours": null,
+          "votes": {
+            "likexian": "registrar at netvision.net.il"
+          }
         }
       ]
     },
@@ -3200,18 +3209,18 @@
       "samples": [
         {
           "query": "google.co.jp",
-          "ours": "2024-04-01T01:02:39Z",
+          "ours": "2026-04-01T01:02:00Z",
           "votes": {
-            "whoiser": "2024/04/01 01:02:39 (JST)",
-            "likexian": "2024/04/01 01:02:39 (JST)"
+            "whoiser": "2026/04/01 01:02:00 (JST)",
+            "likexian": "2026/04/01 01:02:00 (JST)"
           }
         },
         {
           "query": "google.ne.jp",
-          "ours": "2024-10-25T15:14:53Z",
+          "ours": "2026-10-01T01:02:04Z",
           "votes": {
-            "whoiser": "2024/10/25 15:14:53 (JST)",
-            "likexian": "2024/10/25 15:14:53 (JST)"
+            "whoiser": "2026/10/01 01:02:04 (JST)",
+            "likexian": "2026/10/01 01:02:04 (JST)"
           }
         },
         {
@@ -3249,7 +3258,7 @@
       ]
     },
     "whois.kg|admin_name|we-extra": {
-      "count": 2,
+      "count": 3,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -3258,6 +3267,11 @@
         {
           "query": "ktnet.kg",
           "ours": "оао \"кыргызтелеком\"",
+          "votes": {}
+        },
+        {
+          "query": "nic.kg",
+          "ours": "kv gmbh",
           "votes": {}
         },
         {
@@ -3380,7 +3394,7 @@
       ]
     },
     "whois.kg|tech_name|we-extra": {
-      "count": 2,
+      "count": 3,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -3389,6 +3403,11 @@
         {
           "query": "ktnet.kg",
           "ours": "оао \"кыргызтелеком\"",
+          "votes": {}
+        },
+        {
+          "query": "nic.kg",
+          "ours": "kv gmbh",
           "votes": {}
         },
         {
@@ -3555,6 +3574,46 @@
           "query": "ppomppu.co.kr",
           "ours": "whois.co.kr",
           "votes": {}
+        }
+      ]
+    },
+    "whois.markmonitor.com|expiration_date|value-mismatch": {
+      "count": 8,
+      "maxAgree": 2,
+      "oracles": [
+        "whoiser",
+        "likexian",
+        "weppos"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "abc.xyz",
+          "ours": "2027-03-20T00:00:00Z",
+          "votes": {
+            "whoiser": "2027-03-20T07:00:00+00:00 2027-03-20T00:00:00.000+00:00",
+            "likexian": "2027-03-20T07:00:00Z",
+            "weppos": "2027-03-20T07:00:00Z"
+          }
+        },
+        {
+          "query": "goo.gl",
+          "ours": "2027-01-01T00:00:00Z",
+          "votes": {
+            "whoiser": "2027-01-01T08:00:00+00:00 2027-01-01T00:00:00.000+00:00",
+            "likexian": "2027-01-01T08:00:00Z",
+            "weppos": "2027-01-01T08:00:00Z"
+          }
+        },
+        {
+          "query": "google.ac",
+          "ours": "2027-04-03T00:00:00Z",
+          "votes": {
+            "whoiser": "2027-04-03T07:00:00+00:00 2027-04-03T00:00:00.000+00:00",
+            "likexian": "2027-04-03T07:00:00Z",
+            "weppos": "2027-04-03T07:00:00Z"
+          }
         }
       ]
     },
@@ -3966,66 +4025,6 @@
         }
       ]
     },
-    "whois.nameshield.net|creation_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "visit.alsace",
-          "ours": "2015-09-18T00:00:00Z",
-          "votes": {
-            "whoiser": "2015-09-18T00:00:00+02:00",
-            "likexian": "2015-09-17T22:00:00Z"
-          }
-        }
-      ]
-    },
-    "whois.nameshield.net|expiration_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "visit.alsace",
-          "ours": "2025-09-18T00:00:00Z",
-          "votes": {
-            "whoiser": "2025-09-18T00:00:00+02:00",
-            "likexian": "2025-09-17T22:00:00Z"
-          }
-        }
-      ]
-    },
-    "whois.nameshield.net|updated_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "visit.alsace",
-          "ours": "2024-09-17T00:00:00Z",
-          "votes": {
-            "whoiser": "2024-09-17T00:00:00+02:00",
-            "likexian": "2024-09-16T22:00:00Z"
-          }
-        }
-      ]
-    },
     "whois.nc|nameservers|we-extra": {
       "count": 5,
       "maxAgree": 0,
@@ -4231,14 +4230,14 @@
           "query": "google.at",
           "ours": null,
           "votes": {
-            "likexian": "CH0438923-WPUZZ"
+            "likexian": "GI7803025-NICAT"
           }
         },
         {
           "query": "univie.ac.at",
           "ours": null,
           "votes": {
-            "likexian": "PV2069631-FAGWR"
+            "likexian": "UH1428893-NICAT"
           }
         }
       ]
@@ -4422,7 +4421,7 @@
       ]
     },
     "whois.nic.bo|admin_email|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -4430,13 +4429,18 @@
       "samples": [
         {
           "query": "google.bo",
-          "ours": "dns-admin@google.com",
+          "ours": "dns-admin en google.com",
+          "votes": {}
+        },
+        {
+          "query": "google.com.bo",
+          "ours": "dns-admin en google.com",
           "votes": {}
         }
       ]
     },
     "whois.nic.bo|admin_name|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -4446,53 +4450,16 @@
           "query": "google.bo",
           "ours": "domain administrator",
           "votes": {}
-        }
-      ]
-    },
-    "whois.nic.bo|creation_date|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
+        },
         {
-          "query": "google.bo",
-          "ours": "2019-01-15T00:00:00Z",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.bo|domain_name|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.bo",
-          "ours": "google.bo",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.bo|expiration_date|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.bo",
-          "ours": "2026-01-15T00:00:00Z",
+          "query": "google.com.bo",
+          "ours": "domain administrator",
           "votes": {}
         }
       ]
     },
     "whois.nic.bo|registrant_country|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -4502,25 +4469,16 @@
           "query": "google.bo",
           "ours": "estados unidos de america",
           "votes": {}
-        }
-      ]
-    },
-    "whois.nic.bo|registrant_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
+        },
         {
-          "query": "google.bo",
-          "ours": "dns-admin@google.com",
+          "query": "google.com.bo",
+          "ours": "estados unidos de america",
           "votes": {}
         }
       ]
     },
-    "whois.nic.bo|registrant_name|we-extra": {
-      "count": 1,
+    "whois.nic.bo|registrant_email|we-extra": {
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -4528,13 +4486,18 @@
       "samples": [
         {
           "query": "google.bo",
-          "ours": "google llc",
+          "ours": "dns-admin en google.com",
+          "votes": {}
+        },
+        {
+          "query": "google.com.bo",
+          "ours": "dns-admin en google.com",
           "votes": {}
         }
       ]
     },
     "whois.nic.bo|tech_email|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -4542,13 +4505,18 @@
       "samples": [
         {
           "query": "google.bo",
-          "ours": "ccops@markmonitor.com",
+          "ours": "ccops en markmonitor.com",
+          "votes": {}
+        },
+        {
+          "query": "google.com.bo",
+          "ours": "ccops en markmonitor.com",
           "votes": {}
         }
       ]
     },
     "whois.nic.bo|tech_name|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
@@ -4556,6 +4524,11 @@
       "samples": [
         {
           "query": "google.bo",
+          "ours": "domain",
+          "votes": {}
+        },
+        {
+          "query": "google.com.bo",
           "ours": "domain",
           "votes": {}
         }
@@ -4654,6 +4627,75 @@
         }
       ]
     },
+    "whois.nic.cl|creation_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "mercadolibre.cl",
+          "ours": "2000-05-17T21:30:43Z",
+          "votes": {
+            "whoiser": "2000-05-17 21:30:43 CLST"
+          }
+        }
+      ]
+    },
+    "whois.nic.cl|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "whoiser"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "mercadolibre.cl",
+          "ours": "2028-06-13T17:30:04Z",
+          "votes": {
+            "whoiser": "2028-06-13 17:30:04 CLST"
+          }
+        }
+      ]
+    },
+    "whois.nic.cl|nameservers|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "mercadolibre.cl",
+          "ours": [
+            "ns-1035.awsdns-01.org",
+            "ns-1789.awsdns-31.co.uk",
+            "ns-47.awsdns-05.com",
+            "ns-754.awsdns-30.net"
+          ],
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.cl|registrant_name|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "mercadolibre.cl",
+          "ours": "mercadolibre chile limitada",
+          "votes": {}
+        }
+      ]
+    },
     "whois.nic.cr|admin_email|we-extra": {
       "count": 2,
       "maxAgree": 0,
@@ -4663,7 +4705,7 @@
       "samples": [
         {
           "query": "google.co.cr",
-          "ours": "ccops@markmonitor.com",
+          "ours": "dns-admin@google.com",
           "votes": {}
         },
         {
@@ -4682,7 +4724,7 @@
       "samples": [
         {
           "query": "google.co.cr",
-          "ours": "markmonitor inc",
+          "ours": "dns admin",
           "votes": {}
         },
         {
@@ -4701,7 +4743,7 @@
       "samples": [
         {
           "query": "google.co.cr",
-          "ours": "ccops@markmonitor.com",
+          "ours": "dns-admin@google.com",
           "votes": {}
         },
         {
@@ -4727,9 +4769,9 @@
       "samples": [
         {
           "query": "google.co.cr",
-          "ours": "markmonitor inc",
+          "ours": "domain administrator",
           "votes": {
-            "whoiser": "cn_10"
+            "whoiser": "mmr-171195"
           }
         },
         {
@@ -4749,7 +4791,7 @@
       ]
     },
     "whois.nic.cr|registrant_org|value-mismatch": {
-      "count": 3,
+      "count": 4,
       "maxAgree": 1,
       "oracles": [
         "whoiser",
@@ -4758,6 +4800,14 @@
       "top100": false,
       "top100Strong": false,
       "samples": [
+        {
+          "query": "google.co.cr",
+          "ours": "google llc",
+          "votes": {
+            "whoiser": "google llc google inc. markmonitor, inc.",
+            "likexian": "mmr-171195"
+          }
+        },
         {
           "query": "jps.go.cr",
           "ours": "junta de proteccion social de san jose",
@@ -4772,14 +4822,6 @@
           "votes": {
             "whoiser": "academia nacional de ciencias nic costa rica",
             "likexian": "cn_1633"
-          }
-        },
-        {
-          "query": "saint2.cr",
-          "ours": "byteflare ltd",
-          "votes": {
-            "whoiser": "byteflare ltd byteflare",
-            "likexian": "cn_11428"
           }
         }
       ]
@@ -4817,7 +4859,7 @@
       "samples": [
         {
           "query": "google.co.cr",
-          "ours": "markmonitor inc",
+          "ours": "domain provisioning",
           "votes": {}
         },
         {
@@ -4829,26 +4871,6 @@
           "query": "nic.cr",
           "ours": "equipo tecnico",
           "votes": {}
-        }
-      ]
-    },
-    "whois.nic.cr|updated_date|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.co.cr",
-          "ours": null,
-          "votes": {
-            "whoiser": "28.05.2024 12:44:39",
-            "likexian": "2024-05-28T12:44:39Z"
-          }
         }
       ]
     },
@@ -5173,12 +5195,17 @@
       ]
     },
     "whois.nic.kz|admin_email|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
       "top100Strong": false,
       "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "hostmaster@hoster.kz",
+          "votes": {}
+        },
         {
           "query": "xn--e1anb.xn--80ao21a",
           "ours": "info@nic.kz",
@@ -5187,12 +5214,17 @@
       ]
     },
     "whois.nic.kz|admin_name|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
       "top100Strong": false,
       "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "сухачев денис сергеевич",
+          "votes": {}
+        },
         {
           "query": "xn--e1anb.xn--80ao21a",
           "ours": "kaznic organization",
@@ -5200,16 +5232,90 @@
         }
       ]
     },
+    "whois.nic.kz|creation_date|value-mismatch": {
+      "count": 2,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "2004-10-19T09:01:55Z",
+          "votes": {
+            "likexian": "2004-10-19 09:01:55 (GMT+0:00)"
+          }
+        },
+        {
+          "query": "xn--e1anb.xn--80ao21a",
+          "ours": "2012-04-10T09:41:10Z",
+          "votes": {
+            "likexian": "2012-04-10 09:41:10 (GMT+0:00)"
+          }
+        }
+      ]
+    },
+    "whois.nic.kz|expiration_date|value-mismatch": {
+      "count": 2,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "2030-10-18T19:00:00Z",
+          "votes": {
+            "likexian": "2030-10-18 19:00:00 (GMT+0:00)"
+          }
+        },
+        {
+          "query": "xn--e1anb.xn--80ao21a",
+          "ours": "2027-04-10T09:41:10Z",
+          "votes": {
+            "likexian": "2027-04-10 09:41:10 (GMT+0:00)"
+          }
+        }
+      ]
+    },
     "whois.nic.kz|registrant_country|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
       "top100Strong": false,
       "samples": [
         {
+          "query": "hoster.kz",
+          "ours": "kz",
+          "votes": {}
+        },
+        {
           "query": "xn--e1anb.xn--80ao21a",
           "ours": "kz",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.nic.kz|registrant_email|we-extra": {
+      "count": 2,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "hostmaster@hoster.kz",
+          "votes": {}
+        },
+        {
+          "query": "xn--e1anb.xn--80ao21a",
+          "ours": "info@nic.kz",
           "votes": {}
         }
       ]
@@ -5229,12 +5335,17 @@
       ]
     },
     "whois.nic.kz|registrant_org|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
       "top100Strong": false,
       "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "too \"kompaniia hoster.kz\"",
+          "votes": {}
+        },
         {
           "query": "xn--e1anb.xn--80ao21a",
           "ours": "kaznic",
@@ -5243,16 +5354,44 @@
       ]
     },
     "whois.nic.kz|registrar_name|we-extra": {
-      "count": 1,
+      "count": 2,
       "maxAgree": 0,
       "oracles": [],
       "top100": false,
       "top100Strong": false,
       "samples": [
         {
+          "query": "hoster.kz",
+          "ours": "hoster.kz",
+          "votes": {}
+        },
+        {
           "query": "xn--e1anb.xn--80ao21a",
           "ours": "kaznic",
           "votes": {}
+        }
+      ]
+    },
+    "whois.nic.kz|status|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "xn--e1anb.xn--80ao21a",
+          "ours": [
+            "ok"
+          ],
+          "votes": {
+            "likexian": [
+              "ok",
+              "vko"
+            ]
+          }
         }
       ]
     },
@@ -5277,6 +5416,31 @@
           "query": "kolesa.kz",
           "ours": "[hidden personal data]",
           "votes": {}
+        }
+      ]
+    },
+    "whois.nic.kz|updated_date|value-mismatch": {
+      "count": 2,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": false,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "hoster.kz",
+          "ours": "2026-07-31T09:56:08Z",
+          "votes": {
+            "likexian": "2026-07-31 09:56:08 (GMT+0:00)"
+          }
+        },
+        {
+          "query": "xn--e1anb.xn--80ao21a",
+          "ours": "2022-12-21T08:26:12Z",
+          "votes": {
+            "likexian": "2022-12-21 08:26:12 (GMT+0:00)"
+          }
         }
       ]
     },
@@ -5585,9 +5749,9 @@
       "samples": [
         {
           "query": "google.lv",
-          "ours": "2025-04-09T05:12:31Z",
+          "ours": "2026-11-22T06:12:37Z",
           "votes": {
-            "whoiser": "2025-04-09T05:12:31+00:00"
+            "whoiser": "2026-11-22T06:12:37+00:00"
           }
         },
         {
@@ -5620,20 +5784,6 @@
         }
       ]
     },
-    "whois.nic.md|creation_date|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "999.md",
-          "ours": "1999-12-05T00:00:00Z",
-          "votes": {}
-        }
-      ]
-    },
     "whois.nic.md|domain_name|we-extra": {
       "count": 4,
       "maxAgree": 0,
@@ -5654,37 +5804,6 @@
         {
           "query": "obsidian.md",
           "ours": "obsidian.md",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.md|expiration_date|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "999.md",
-          "ours": "2025-12-05T00:00:00Z",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.md|nameservers|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "999.md",
-          "ours": [
-            "pdns03.domaincontrol.com",
-            "pdns04.domaincontrol.com"
-          ],
           "votes": {}
         }
       ]
@@ -5711,36 +5830,6 @@
           "votes": {
             "likexian": "eliteh trade srl"
           }
-        }
-      ]
-    },
-    "whois.nic.md|registrar_name|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "999.md",
-          "ours": "host.md",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.nic.md|status|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "999.md",
-          "ours": [
-            "ok"
-          ],
-          "votes": {}
         }
       ]
     },
@@ -5952,25 +6041,6 @@
         }
       ]
     },
-    "whois.nic.net.sa|registrant_name|we-extra": {
-      "count": 2,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.com.sa",
-          "ours": "google llc",
-          "votes": {}
-        },
-        {
-          "query": "saudigazette.com.sa",
-          "ours": "okaz for press and publication مؤسسة عكاظ للصحافة والنشر",
-          "votes": {}
-        }
-      ]
-    },
     "whois.nic.org.uy|creation_date|we-missing": {
       "count": 1,
       "maxAgree": 1,
@@ -6120,20 +6190,6 @@
         }
       ]
     },
-    "whois.nic.priv.at|registrant_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "nic.priv.at",
-          "ours": "hostmaster@nic.priv.at",
-          "votes": {}
-        }
-      ]
-    },
     "whois.nic.priv.at|registrant_org|we-extra": {
       "count": 1,
       "maxAgree": 0,
@@ -6181,8 +6237,8 @@
           "query": "nic.priv.at",
           "ours": null,
           "votes": {
-            "whoiser": "fa3299f6dc6b@example.com 20021013",
-            "likexian": "fa3299f6dc6b@example.com 20021013",
+            "whoiser": "cm@nic.priv.at 20021013",
+            "likexian": "cm@nic.priv.at 20021013",
             "weppos": "2002-10-13T00:00:00Z"
           }
         }
@@ -6594,7 +6650,7 @@
         },
         {
           "query": "google.sn",
-          "ours": "2025-12-31T12:00:00Z",
+          "ours": "2026-12-31T12:00:00Z",
           "votes": {}
         },
         {
@@ -6840,7 +6896,7 @@
         },
         {
           "query": "google.sn",
-          "ours": "2024-12-07T20:37:07Z",
+          "ours": "2025-12-06T17:12:28Z",
           "votes": {}
         },
         {
@@ -6912,11 +6968,11 @@
         },
         {
           "query": "google.st",
-          "ours": "2025-06-15T18:24:45Z",
+          "ours": "2027-06-15T18:24:45Z",
           "votes": {
-            "whoiser": "2025-06-15",
-            "likexian": "2025-06-15T00:00:00Z",
-            "weppos": "2025-06-15T00:00:00Z"
+            "whoiser": "2027-06-15",
+            "likexian": "2027-06-15T00:00:00Z",
+            "weppos": "2027-06-15T00:00:00Z"
           }
         },
         {
@@ -6952,11 +7008,11 @@
         },
         {
           "query": "google.st",
-          "ours": "2024-05-14T09:54:57Z",
+          "ours": "2026-05-14T10:25:52Z",
           "votes": {
-            "whoiser": "2024-05-14",
-            "likexian": "2024-05-14T00:00:00Z",
-            "weppos": "2024-05-14T00:00:00Z"
+            "whoiser": "2026-05-14",
+            "likexian": "2026-05-14T00:00:00Z",
+            "weppos": "2026-05-14T00:00:00Z"
           }
         },
         {
@@ -7323,47 +7379,6 @@
         }
       ]
     },
-    "whois.nic.tm|nameservers|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "weppos"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "nic.tm",
-          "ours": [
-            "194.0.1.11",
-            "194.0.2.11",
-            "2001:678:5::b",
-            "74.116.179.11",
-            "dns01.nic.tm",
-            "dns1.nic.tm",
-            "dns2.nic.tm",
-            "dns3.nic.tm"
-          ],
-          "votes": {
-            "whoiser": [
-              "dns01.nic.tm",
-              "dns1.nic.tm",
-              "dns2.nic.tm",
-              "dns3.nic.tm"
-            ],
-            "weppos": [
-              "dns01.nic.tm",
-              "dns1.nic.tm",
-              "dns2.nic.tm",
-              "dns3.nic.tm",
-              "dns6.nic.tm",
-              "dns7.nic.tm"
-            ]
-          }
-        }
-      ]
-    },
     "whois.nic.tr|registrar_id|we-extra": {
       "count": 1,
       "maxAgree": 0,
@@ -7387,7 +7402,7 @@
       "samples": [
         {
           "query": "google.com.tr",
-          "ours": "2025-04-09T15:03:48Z",
+          "ours": "2025-04-09T12:03:48Z",
           "votes": {}
         }
       ]
@@ -7541,24 +7556,6 @@
           "votes": {
             "whoiser": "mercadolibre venezuela s.r.l. markmonitor inc.",
             "likexian": "con000036648"
-          }
-        }
-      ]
-    },
-    "whois.nic.ve|registrant_org|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "nic.ve",
-          "ours": null,
-          "votes": {
-            "likexian": "con000031823"
           }
         }
       ]
@@ -8008,10 +8005,10 @@
       "samples": [
         {
           "query": "likemanga.ink",
-          "ours": "2025-09-24T06:44:18Z",
+          "ours": "2027-09-24T06:44:18Z",
           "votes": {
-            "whoiser": "2025-09-24T06:44:18",
-            "likexian": "2025-09-24T06:44:18"
+            "whoiser": "2027-09-24T06:44:18",
+            "likexian": "2027-09-24T06:44:18"
           }
         },
         {
@@ -8036,10 +8033,10 @@
       "samples": [
         {
           "query": "likemanga.ink",
-          "ours": "2024-09-24T07:00:08Z",
+          "ours": "2026-08-07T22:59:28Z",
           "votes": {
-            "whoiser": "2024-09-24T07:00:08",
-            "likexian": "2024-09-24T07:00:08"
+            "whoiser": "2026-08-07T22:59:28",
+            "likexian": "2026-08-07T22:59:28"
           }
         },
         {
@@ -8048,34 +8045,6 @@
           "votes": {
             "whoiser": "2025-01-12T16:31:12",
             "likexian": "2025-01-12T16:31:12"
-          }
-        }
-      ]
-    },
-    "whois.ovh.com|expiration_date|value-mismatch": {
-      "count": 2,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser",
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "chin-mudra.yoga",
-          "ours": "2032-08-23T13:42:20Z",
-          "votes": {
-            "whoiser": "2032-08-23T13:42:20+02:00",
-            "likexian": "2032-08-23T11:42:20Z"
-          }
-        },
-        {
-          "query": "phishing.army",
-          "ours": "2025-12-19T11:30:14Z",
-          "votes": {
-            "whoiser": "2025-12-19T11:30:14+01:00",
-            "likexian": "2025-12-19T10:30:14Z"
           }
         }
       ]
@@ -8120,10 +8089,30 @@
       "samples": [
         {
           "query": "nic.pp.ua",
-          "ours": "2009-11-06T11:56:47Z",
+          "ours": "2025-06-17T12:59:05Z",
           "votes": {
-            "whoiser": "06-Nov-2009 11:56:47 UTC",
-            "likexian": "06-Nov-2009 11:56:47 UTC"
+            "whoiser": "17-Jun-2025 12:59:05 UTC",
+            "likexian": "17-Jun-2025 12:59:05 UTC"
+          }
+        }
+      ]
+    },
+    "whois.pp.ua|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 2,
+      "oracles": [
+        "whoiser",
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": true,
+      "samples": [
+        {
+          "query": "nic.pp.ua",
+          "ours": "2027-06-17T12:59:05Z",
+          "votes": {
+            "whoiser": "17-Jun-2027 12:59:05 UTC",
+            "likexian": "17-Jun-2027 12:59:05 UTC"
           }
         }
       ]
@@ -8140,10 +8129,10 @@
       "samples": [
         {
           "query": "nic.pp.ua",
-          "ours": "2013-07-15T09:47:18Z",
+          "ours": "2026-02-27T02:03:40Z",
           "votes": {
-            "whoiser": "15-Jul-2013 09:47:18 UTC",
-            "likexian": "15-Jul-2013 09:47:18 UTC"
+            "whoiser": "27-Feb-2026 02:03:40 UTC",
+            "likexian": "27-Feb-2026 02:03:40 UTC"
           }
         }
       ]
@@ -8611,7 +8600,7 @@
       ]
     },
     "whois.registry.qa|updated_date|value-mismatch": {
-      "count": 2,
+      "count": 1,
       "maxAgree": 2,
       "oracles": [
         "whoiser",
@@ -8620,14 +8609,6 @@
       "top100": false,
       "top100Strong": false,
       "samples": [
-        {
-          "query": "ooredoo.qa",
-          "ours": "2024-05-23T11:16:59Z",
-          "votes": {
-            "whoiser": "23-May-2024 11:16:59 UTC",
-            "likexian": "23-May-2024 11:16:59 UTC"
-          }
-        },
         {
           "query": "registry.qa",
           "ours": "2023-07-31T06:20:22Z",
@@ -8958,102 +8939,8 @@
         }
       ]
     },
-    "whois.srs.net.nz|creation_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "weppos"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.co.nz",
-          "ours": "1999-02-17T00:00:00Z",
-          "votes": {
-            "weppos": "1999-02-16T11:00:00Z"
-          }
-        }
-      ]
-    },
-    "whois.srs.net.nz|expiration_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "weppos"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.co.nz",
-          "ours": "2014-02-17T00:00:00Z",
-          "votes": {
-            "weppos": "2014-02-16T11:00:00Z"
-          }
-        }
-      ]
-    },
-    "whois.srs.net.nz|status|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "google.co.nz",
-          "ours": null,
-          "votes": {
-            "likexian": [
-              "200"
-            ]
-          }
-        }
-      ]
-    },
-    "whois.srs.net.nz|updated_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 2,
-      "oracles": [
-        "likexian",
-        "weppos"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "google.co.nz",
-          "ours": "2013-01-16T23:20:24Z",
-          "votes": {
-            "likexian": "2013-01-16T10:20:24Z",
-            "weppos": "2013-01-16T10:20:24Z"
-          }
-        }
-      ]
-    },
-    "whois.tcinet.ru|admin_email|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "weppos"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "nic.su",
-          "ours": null,
-          "votes": {
-            "weppos": "ru-ncc@nic.ru"
-          }
-        }
-      ]
-    },
     "whois.tcinet.ru|admin_name|we-missing": {
-      "count": 6,
+      "count": 7,
       "maxAgree": 1,
       "oracles": [
         "likexian"
@@ -9241,11 +9128,11 @@
       "samples": [
         {
           "query": "delfi.ee",
-          "ours": "2025-03-04T11:45:04Z",
+          "ours": "2026-10-29T08:05:22Z",
           "votes": {
-            "whoiser": "2025-03-04 11:45:04 +02:00 Not Disclosed - Visit www.internet.ee for webbased WHOIS Not Disclosed - Visit www.internet.ee for webbased WHOIS 2020-07-01 13:55:58 +03:00 2018-09-18 12:17:11 +03:00",
+            "whoiser": "2026-10-29 08:05:22 +02:00 Not Disclosed - Visit www.internet.ee for webbased WHOIS Not Disclosed - Visit www.internet.ee for webbased WHOIS 2026-07-24 10:58:40 +03:00 2018-09-18 12:17:11 +03:00",
             "likexian": "2018-09-18 12:17:11 +03:00",
-            "weppos": "2025-03-04T09:45:04Z"
+            "weppos": "2026-10-29T06:05:22Z"
           }
         },
         {
@@ -9322,17 +9209,17 @@
       "samples": [
         {
           "query": "google.com.tr",
-          "ours": "2025-04-09T11:23:50Z",
+          "ours": "2026-11-22T08:02:23Z",
           "votes": {}
         },
         {
           "query": "hurriyet.com.tr",
-          "ours": "2026-07-16T14:31:42Z",
+          "ours": "2026-07-16T11:31:42Z",
           "votes": {}
         },
         {
           "query": "milliyet.com.tr",
-          "ours": "2026-07-16T14:31:42Z",
+          "ours": "2026-07-16T11:31:42Z",
           "votes": {}
         }
       ]
@@ -9416,10 +9303,10 @@
         },
         {
           "query": "google.com.tw",
-          "ours": "2025-11-08T16:00:00Z",
+          "ours": "2027-11-08T16:00:00Z",
           "votes": {
-            "likexian": "2025-11-09T08:00:00Z",
-            "weppos": "2025-11-09T00:00:00Z"
+            "likexian": "2027-11-09T08:00:00Z",
+            "weppos": "2027-11-09T00:00:00Z"
           }
         },
         {
@@ -9607,7 +9494,7 @@
           "query": "betpawa.co.tz",
           "ours": null,
           "votes": {
-            "whoiser": "mcrc425208"
+            "whoiser": "mcrc456656"
           }
         },
         {
@@ -9639,7 +9526,7 @@
           "query": "betpawa.co.tz",
           "ours": null,
           "votes": {
-            "likexian": "mcrc425208"
+            "likexian": "mcrc456656"
           }
         },
         {
@@ -9754,11 +9641,11 @@
       "samples": [
         {
           "query": "google.com.ua",
-          "ours": "2025-12-04T00:00:00Z",
+          "ours": "2027-12-04T00:00:00Z",
           "votes": {
-            "whoiser": "2025-12-04 00:00:00+02",
-            "likexian": "2025-12-03T22:00:00Z",
-            "weppos": "2025-12-03T22:00:00Z"
+            "whoiser": "2027-12-04 00:00:00+02",
+            "likexian": "2027-12-03T22:00:00Z",
+            "weppos": "2027-12-03T22:00:00Z"
           }
         },
         {
@@ -9852,7 +9739,7 @@
       "samples": [
         {
           "query": "google.com.ua",
-          "ours": "+1.2083895740",
+          "ours": "+12083895740",
           "votes": {}
         },
         {
@@ -10038,11 +9925,11 @@
       "samples": [
         {
           "query": "google.com.ua",
-          "ours": "2024-11-02T11:51:05Z",
+          "ours": "2026-11-02T12:27:25Z",
           "votes": {
-            "whoiser": "2024-11-02 11:51:05+02",
-            "likexian": "2024-11-02T09:51:05Z",
-            "weppos": "2024-11-02T09:51:05Z"
+            "whoiser": "2026-11-02 12:27:25+02",
+            "likexian": "2026-11-02T10:27:25Z",
+            "weppos": "2026-11-02T10:27:25Z"
           }
         },
         {

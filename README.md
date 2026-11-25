@@ -13,8 +13,8 @@
 - **Registry and Registrar Merged** - Follows the registry's referral to the registrar and takes each field from the side that holds it
 - **Availability Checks** - `record.available` and `record.reserved` tell you whether a name is free to register
 <!-- coverage:start: written by `npm run coverage` from the routing data and the fixtures -->
-- **1,386 of 1,445 TLDs** - 1,203 over RDAP and 1,254 over WHOIS (the other 59 publish no server),
-  with WHOIS formats tuned for the servers of 127 TLDs and recorded responses testing 1,102 TLDs and 181 registrars.
+- **1,386 of 1,445 TLDs** - 1,203 over RDAP and 1,253 over WHOIS (the other 59 publish no server),
+  with WHOIS formats tuned for the servers of 127 TLDs and recorded responses testing 1,101 TLDs and 181 registrars.
   Every zone is listed in [docs/coverage.md](https://github.com/aoxborrow/rdap-whois/blob/main/docs/coverage.md)
 <!-- coverage:end -->
 - **Runs on Node.js and Workers** - WHOIS over `node:net` or `cloudflare:sockets` (no `nodejs_compat` flag), and RDAP anywhere `fetch` runs, browsers included where the server allows CORS

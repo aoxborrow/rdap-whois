@@ -1,6 +1,6 @@
 {
   "description": "RDAP bootstrap file for service provider object tags",
-  "publication": "2026-10-10T00:00:03Z",
+  "publication": "2026-11-24T01:00:03Z",
   "services": [
     [
       [
@@ -89,6 +89,17 @@
       ],
       [
         "https://rdap.astronym.com/"
+      ]
+    ],
+    [
+      [
+        "andy@hxr.us"
+      ],
+      [
+        "rcode3"
+      ],
+      [
+        "https://bootstrap.rcode3.com/rdap/"
       ]
     ]
   ],
