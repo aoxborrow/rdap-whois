@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T21:45:13.607Z",
+  "generatedAt": "2026-11-25T22:05:55.463Z",
   "mode": "corpus",
   "oracles": [
     "whoiser",
@@ -30,27 +30,7 @@
     "we-extra": 836
   },
   "groups": 419,
-  "newKeys": [
-    "whois.biz.ua|expiration_date|value-mismatch",
-    "whois.bnnic.bn|nameservers|value-mismatch",
-    "whois.cdmon.com|updated_date|we-missing",
-    "whois.co.ua|expiration_date|value-mismatch",
-    "whois.imena.bg|nameservers|we-extra",
-    "whois.isoc.org.il|admin_email|we-missing",
-    "whois.isoc.org.il|registrant_org|we-missing",
-    "whois.isoc.org.il|tech_email|we-missing",
-    "whois.markmonitor.com|expiration_date|value-mismatch",
-    "whois.nic.cl|creation_date|value-mismatch",
-    "whois.nic.cl|expiration_date|value-mismatch",
-    "whois.nic.cl|nameservers|we-extra",
-    "whois.nic.cl|registrant_name|we-extra",
-    "whois.nic.kz|creation_date|value-mismatch",
-    "whois.nic.kz|expiration_date|value-mismatch",
-    "whois.nic.kz|registrant_email|we-extra",
-    "whois.nic.kz|status|value-mismatch",
-    "whois.nic.kz|updated_date|value-mismatch",
-    "whois.pp.ua|expiration_date|value-mismatch"
-  ],
+  "newKeys": [],
   "redKeys": [],
   "byKey": {
     "whois.acens.net|registrar_abuse_phone|we-extra": {

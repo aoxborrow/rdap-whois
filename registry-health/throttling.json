@@ -13,9 +13,9 @@
   },
   "whois.nic.ch": {
     "protocol": "whois",
-    "runs": 1,
+    "runs": 2,
     "firstSeen": "2026-11-25T21:45:03.943Z",
-    "lastSeen": "2026-11-25T21:45:03.943Z",
+    "lastSeen": "2026-11-25T22:05:48.520Z",
     "detail": "whois.nic.ch is rate limiting",
     "limit": {
       "concurrency": 1,
@@ -25,9 +25,9 @@
   },
   "whois.nic.li": {
     "protocol": "whois",
-    "runs": 1,
+    "runs": 2,
     "firstSeen": "2026-11-25T21:45:03.943Z",
-    "lastSeen": "2026-11-25T21:45:03.943Z",
+    "lastSeen": "2026-11-25T22:05:48.520Z",
     "detail": "whois.nic.li is rate limiting",
     "limit": {
       "concurrency": 1,

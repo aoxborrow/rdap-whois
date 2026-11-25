@@ -19,6 +19,7 @@ export const REGISTRY_ZONES: readonly string[] = [
   "co.za",
   "com.de",
   "com.ru",
+  "com.se",
   "de.com",
   "e164.arpa",
   "edu.cn",
