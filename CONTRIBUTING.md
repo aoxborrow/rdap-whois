@@ -148,7 +148,7 @@ No npm token is stored in the repository.
 sample. It probes every WHOIS server and RDAP base through a rotating proxy, refreshes
 IANA's data, runs the parser regression and the oracle cross-checks, keeps the state in
 `registry-health/`, and opens one rolling pull request with the data diff and
-`registry-health/report.md`. An outage with no RDAP to fall back on, or a top-100 parser
+`registry-health/report.md`. A new outage with no RDAP to fall back on, or a top-100 parser
 regression, opens a `registry-health` issue; a failing live suite opens a `live-suite`
 issue.
 

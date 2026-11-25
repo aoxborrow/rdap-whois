@@ -11,7 +11,7 @@ name: Registry Health
 #            When the offline checks pass and the repository variable REGISTRY_DATA_AUTOMERGE
 #            is 'true', the pull request merges itself once its required checks pass.
 #            Merging it each week is what lets the failure counters build up.
-#   alert    an actionable regression (an outage with no RDAP to fall back on, a top-100
+#   alert    an actionable regression (a new outage with no RDAP to fall back on, a top-100
 #            parser regression, a new top-100 parser disagreement two oracles share) or a
 #            failed run opens or updates one `registry-health` issue; a clean run closes it.
 #   live     the live suite: a few real lookups end to end. A failure opens or updates one

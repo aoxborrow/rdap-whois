@@ -145,9 +145,11 @@ top-100 registrar server that at least two oracles agree on turns the run red.
   its required checks pass. A pull request opened with the default token starts no
   workflows, so a `REGISTRY_HEALTH_TOKEN` secret is needed for its checks to run. The job
   does not fail on an actionable regression; it records it.
-- **alert** opens or comments on one `registry-health` issue when the refresh found an
+- **alert** opens or comments on one `registry-health` issue when the refresh found a new
   outage with no RDAP to fall back on, a top-100 parser regression or oracle divergence, or
-  did not finish, and closes it on the next clean run.
+  did not finish, and closes it on the next clean run. An outage is new when the committed
+  `registry-health/decisions.json` does not list it yet; one it lists stays in the report
+  without holding the issue open, so merging the weekly pull request is what acknowledges it.
 - **live** runs the library's live suite (`LIVE=1`, plus the rdap.org check) and keeps one
   `live-suite` issue the same way.
 
