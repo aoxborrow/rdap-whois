@@ -65,9 +65,11 @@ export const normalizeRdapServer = (server: string): string => {
   // remove any existing endpoint paths (and anything that follow), e.g. /domain/one.com
   let normalizedServer = stripRdapEndpoint(server);
 
-  // replace HTTP with HTTPS if needed
+  // replace HTTP with HTTPS if needed. An explicit :80 named the plaintext port, so it goes
+  // and the https default applies; any other port is kept, since nothing says where TLS is
   if (normalizedServer.startsWith('http://')) {
-    normalizedServer = 'https://' + normalizedServer.substring(7);
+    normalizedServer =
+      'https://' + normalizedServer.substring(7).replace(/^([^/]*):80(?=\/|$)/, '$1');
   }
 
   // add HTTPS if no protocol is specified

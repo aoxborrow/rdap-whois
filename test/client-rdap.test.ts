@@ -222,6 +222,37 @@ describe('the referral loop', () => {
     expect(asked[1]).toBe(`${REGISTRAR}domain/example.com`);
   });
 
+  it.each([
+    ['http://rdap.example-registrar.com:80/rdap/', REGISTRAR],
+    ['http://rdap.example-registrar.com/rdap/', REGISTRAR],
+    [
+      'http://rdap.example-registrar.com:8080/rdap/',
+      'https://rdap.example-registrar.com:8080/rdap/',
+    ],
+    [
+      'https://rdap.example-registrar.com:8443/rdap/',
+      'https://rdap.example-registrar.com:8443/rdap/',
+    ],
+  ])('asks the referral link %s at %s', async (link, base) => {
+    const registry = await server(json(withReferral(`${link}domain/EXAMPLE.COM`)));
+    const registrar = await server(json(domain()));
+    const asked: string[] = [];
+    const route = routing({
+      'rdap.verisign.com': registry,
+      'rdap.example-registrar.com': registrar,
+    });
+    const client = new RdapWhois({
+      ...FAST,
+      fetch: (url, init) => {
+        asked.push(url);
+        return route(url, init);
+      },
+    });
+    const hops = await client.rdap('example.com');
+    expect(asked[1]).toBe(`${base}domain/example.com`);
+    expect(hops[1]?.server).toBe(base);
+  });
+
   it('reports a referral link that is not an HTTP URL as a failed hop', async () => {
     const registry = await server(json(withReferral('ftp://rdap.example-registrar.com/rdap/')));
     const asked: string[] = [];
