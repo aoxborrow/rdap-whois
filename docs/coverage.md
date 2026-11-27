@@ -26,20 +26,20 @@ the parse expected of them.
 
 |  | TLDs | All zones |
 | --- | ---: | ---: |
-| Zones | 1445 | 1510 |
+| Zones | 1446 | 1511 |
 | RDAP | 1203 | 1242 |
 | WHOIS | 1251 | 1316 |
-| RDAP or WHOIS | 1386 | 1451 |
+| RDAP or WHOIS | 1387 | 1452 |
 | Neither: no lookup possible | 59 | 59 |
-| WHOIS only | 183 | 209 |
-| WHOIS server with a tuned parser | 127 | 133 |
-| WHOIS server with recorded tests | 1100 | 1141 |
-| RDAP ok | 1195 | 1234 |
-| WHOIS ok | 859 | 903 |
+| WHOIS only | 184 | 210 |
+| WHOIS server with a tuned parser | 126 | 132 |
+| WHOIS server with recorded tests | 1099 | 1140 |
+| RDAP ok | 1197 | 1236 |
+| WHOIS ok | 856 | 900 |
 
-Recorded tests: 1145 responses from 1011
-WHOIS servers that zones are routed to (they serve 1141 zones), and
-255 from 184 other servers,
+Recorded tests: 1144 responses from 1010
+WHOIS servers that zones are routed to (they serve 1140 zones), and
+256 from 185 other servers,
 mostly registrars ([below](#registrars-and-other-servers)).
 
 ## Zones
@@ -54,7 +54,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | abc | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.abc | ok | generic-kv | 1 |
 | able | https://rdap.nic.able/ | ok | whois.nic.able | ok | generic-kv |  |
 | abogado | https://rdap.nic.abogado/ | ok | whois.nic.abogado | ok | generic-kv | 1 |
-| abudhabi | https://rdap.nic.abudhabi/ | ok | whois.nic.abudhabi | ok | generic-kv |  |
+| abudhabi | https://rdap.nic.abudhabi/ | ok | whois.nic.abudhabi | failing | generic-kv |  |
 | ac |  |  | whois.nic.ac | ok | generic-kv | 2 |
 | ac.ru |  |  | whois.free.net | misreads | generic-kv |  |
 | ac.uk | https://rdap.nominet.uk/uk/ | ok | whois.ja.net | ok | **labeled-blocks** | 1 |
@@ -63,7 +63,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | accenture | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.accenture | ok | generic-kv | 1 |
 | accountant | https://rdap.nic.accountant/ | ok | whois.nic.accountant | ok | generic-kv | 1 |
 | accountants | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.accountants | refuses | generic-kv | 1 |
-| aco | https://rdap.nic.aco/ | suspect | whois.afilias-srs.net | misreads | generic-kv | 2 |
+| aco | https://rdap.nic.aco/ | ok | whois.afilias-srs.net | misreads | generic-kv | 2 |
 | actor | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.actor | refuses | generic-kv | 1 |
 | ad | https://rdap.nic.ad/ | ok | whois.nic.ad | ok | generic-kv | 1 |
 | ads | https://pubapi.registry.google/rdap/ | ok |  |  |  |  |
@@ -233,7 +233,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | buy | https://rdap.nominet.uk/buy/ | ok |  |  |  |  |
 | buzz | https://rdap.nic.buzz/ | ok | whois.nic.buzz | ok | generic-kv | 1 |
 | bv |  |  |  |  |  |  |
-| bw |  |  | whois.nic.net.bw | failing | generic-kv | 1 |
+| bw |  |  | whois.nic.net.bw | ok | generic-kv | 1 |
 | by |  |  | whois.cctld.by | ok | **generic-kv** | 2 |
 | bz |  |  | whois.afilias-grs.info | misreads | generic-kv | 3 |
 | bzh | https://rdap.nic.bzh/ | ok | whois.nic.bzh | ok | generic-kv | 1 |
@@ -355,7 +355,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | cruises | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.cruises | refuses | generic-kv | 1 |
 | cu |  |  |  |  |  |  |
 | cuisinella | https://rdap.nic.cuisinella/ | ok | whois.nic.cuisinella | ok | generic-kv | 1 |
-| cv | https://rdap.nic.cv/ | failing | whois.nic.cv | failing | **cocca** | 1 |
+| cv | https://rdap.nic.cv/ | ok | whois.nic.cv | failing | **cocca** | 1 |
 | cw |  |  |  |  |  |  |
 | cx | https://rdap.nic.cx/ | ok | whois.nic.cx | failing | **cocca** | 2 |
 | cy |  |  |  |  |  |  |
@@ -406,11 +406,12 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | doctor | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.doctor | refuses | generic-kv | 1 |
 | dog | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.dog | refuses | generic-kv | 1 |
 | domains | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.domains | refuses | generic-kv | 1 |
+| doosan |  |  | whois.nic.xn--cg4bki | misreads | generic-kv |  |
 | dot | https://rdap.mobile-registry.com/rdap/ | ok | whois.nic.dot | ok | generic-kv | 1 |
 | download | https://rdap.nic.download/ | ok | whois.nic.download | ok | generic-kv | 1 |
 | drive | https://pubapi.registry.google/rdap/ | ok |  |  |  |  |
 | dtv | https://rdap.mobile-registry.com/rdap/ | ok | whois.nic.dtv | ok | generic-kv | 1 |
-| dubai | https://rdap.nic.dubai/ | ok | whois.nic.dubai | ok | generic-kv |  |
+| dubai | https://rdap.nic.dubai/ | ok | whois.nic.dubai | failing | generic-kv |  |
 | dunlop |  |  | whois.nic.dunlop | failing | generic-kv |  |
 | dupont | https://rdap.nic.dupont/ | ok | whois.nic.dupont | ok | generic-kv |  |
 | durban | https://rdap.nic.durban/rdap/ | ok | whois.nic.durban | ok | generic-kv | 1 |
@@ -471,7 +472,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | feedback | https://rdap.registry.click/rdap/ | ok | whois.registry.click | ok | generic-kv | 14 |
 | ferrari | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.ferrari | ok | generic-kv | 1 |
 | ferrero | https://rdap.nic.ferrero/ | ok | whois.nic.ferrero | ok | generic-kv |  |
-| fi | https://rdap.fi/rdap/rdap/ | ok | whois.fi | ok | **generic-kv** | 1 |
+| fi | https://rdap.fi/rdap/rdap/ | ok | whois.fi | suspect | **generic-kv** | 1 |
 | fidelity | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.fidelity | ok | generic-kv | 1 |
 | fido | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.fido | ok | generic-kv | 1 |
 | film | https://rdap.nic.film/ | ok | whois.nic.film | ok | generic-kv | 1 |
@@ -485,7 +486,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | fishing | https://rdap.nic.fishing/ | ok | whois.nic.fishing | ok | generic-kv | 1 |
 | fit | https://rdap.nic.fit/ | ok | whois.nic.fit | ok | generic-kv | 1 |
 | fitness | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.fitness | refuses | generic-kv | 1 |
-| fj | https://www.rdap.fj/ | failing | www.whois.fj | failing | **generic-kv** | 1 |
+| fj | https://www.rdap.fj/ | ok |  |  |  |  |
 | fk |  |  |  |  |  |  |
 | flickr | https://rdap.nic.flickr/ | ok | whois.nic.flickr | ok | generic-kv |  |
 | flights | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.flights | refuses | generic-kv | 1 |
@@ -877,7 +878,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | museum | https://rdap.nic.museum/ | ok | whois.nic.museum | ok | generic-kv | 1 |
 | music | https://rdap.registryservices.music/rdap/ | ok | whois.registryservices.music | ok | generic-kv | 1 |
 | mv |  |  |  |  |  |  |
-| mw |  |  | whois.nic.mw | failing | **fred** | 1 |
+| mw |  |  | whois.nic.mw | ok | **fred** | 1 |
 | mx |  |  | whois.mx | ok | **block-scoped** | 1 |
 | my |  |  | whois.mynic.my | ok | generic-kv | 1 |
 | mz |  |  | whois.nic.mz | ok | generic-kv | 1 |
@@ -887,7 +888,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | name | https://tld-rdap.verisign.com/name/v1/ | ok | whois.nic.name | ok | generic-kv | 2 |
 | navy | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.navy | refuses | generic-kv | 1 |
 | nba | https://rdap.nic.nba/ | ok | whois.nic.nba | ok | generic-kv |  |
-| nc |  |  | whois.nc | ok | **generic-kv** | 1 |
+| nc |  |  | whois.nc | failing | **generic-kv** | 1 |
 | ne |  |  |  |  |  |  |
 | nec | https://rdap.gmoregistry.net/rdap/ | ok | whois.nic.nec | failing | generic-kv |  |
 | net | https://rdap.verisign.com/net/v1/ | ok | whois.verisign-grs.com | ok | generic-kv | 11 |
@@ -1372,7 +1373,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | works | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.works | refuses | generic-kv | 1 |
 | world | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.world | refuses | generic-kv | 1 |
 | wow | https://rdap.nominet.uk/wow/ | ok |  |  |  |  |
-| ws |  |  | whois.website.ws | ok | generic-kv | 1 |
+| ws |  |  | whois.website.ws | failing | generic-kv | 1 |
 | wtc | https://rdap.nic.wtc/ | ok | whois.nic.wtc | ok | generic-kv | 1 |
 | wtf | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.wtf | refuses | generic-kv | 1 |
 | xbox | https://rdap.nominet.uk/xbox/ | ok |  |  |  |  |
@@ -1489,7 +1490,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | xn--mxtq1m | https://rdap.twnic.tw/rdap/ | ok | whois.nic.xn--mxtq1m | ok | generic-kv | 1 |
 | xn--ngbc5azd | https://rdap.nic.xn--ngbc5azd/ | ok | whois.nic.xn--ngbc5azd | ok | generic-kv | 2 |
 | xn--ngbe9e0a | https://rdap.registry.kfh/rdap/ | ok | whois.nic.xn--ngbe9e0a | ok | generic-kv | 1 |
-| xn--ngbrx | https://rdap.nic.xn--ngbrx/ | ok | whois.nic.xn--ngbrx | ok | generic-kv |  |
+| xn--ngbrx | https://rdap.nic.xn--ngbrx/ | ok | whois.nic.xn--ngbrx | failing | generic-kv |  |
 | xn--node |  |  |  |  |  |  |
 | xn--nqv7f | https://rdap.publicinterestregistry.org/rdap/ | ok | whois.nic.xn--nqv7f | ok | generic-kv | 1 |
 | xn--nqv7fs00ema | https://rdap.publicinterestregistry.org/rdap/ | ok | whois.nic.xn--nqv7fs00ema | ok | generic-kv | 1 |
@@ -1536,7 +1537,7 @@ mostly registrars ([below](#registrars-and-other-servers)).
 | yahoo | https://rdap.identitydigital.services/rdap/ | ok | whois.nic.yahoo | ok | generic-kv | 1 |
 | yamaxun | https://rdap.nominet.uk/yamaxun/ | ok |  |  |  |  |
 | yandex | https://rdap.nic.yandex/rdap/ | ok | whois.nic.yandex | ok | generic-kv | 1 |
-| ye | https://rdap.y.net.ye/ | ok | whois.y.net.ye | failing | generic-kv | 1 |
+| ye | https://rdap.y.net.ye/ | failing | whois.y.net.ye | ok | generic-kv | 1 |
 | yodobashi | https://rdap.gmoregistry.net/rdap/ | ok | whois.nic.gmo | failing | generic-kv | 1 |
 | yoga | https://rdap.nic.yoga/ | ok | whois.nic.yoga | ok | generic-kv | 1 |
 | yokohama | https://rdap.gmoregistry.net/rdap/ | ok | whois.nic.yokohama | failing | generic-kv |  |
@@ -1753,3 +1754,4 @@ its own. Status is shown only for the servers the health run probes.
 | whois.whois.co.kr |  | generic-kv | 1 |
 | whois.wildwestdomains.com |  | generic-kv | 1 |
 | whois.yoursrs.com |  | generic-kv | 1 |
+| www.whois.fj | failing | **generic-kv** | 1 |

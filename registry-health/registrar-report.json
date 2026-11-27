@@ -1,5 +1,5 @@
 {
-  "probedAt": "2026-11-27T09:36:35.008Z",
+  "probedAt": "2026-11-27T10:39:12.615Z",
   "coverage": {
     "accredited": 3323,
     "whois": 2383,
@@ -10,29 +10,29 @@
     "rdapBases": 475
   },
   "healthy": {
-    "whois": 2275,
-    "rdap": 3229,
-    "either": 3243
+    "whois": 2274,
+    "rdap": 3235,
+    "either": 3247
   },
   "servers": {
     "whois": {
-      "dead-candidate": 75,
-      "healthy": 180,
-      "suspect": 6,
+      "dead-candidate": 77,
+      "healthy": 178,
+      "suspect": 5,
       "refused": 3,
-      "notfound-fp": 16
+      "notfound-fp": 16,
+      "throttled": 1
     },
     "rdap": {
-      "suspect": 55,
-      "healthy": 385,
-      "dead-candidate": 34,
-      "throttled": 1
+      "healthy": 391,
+      "suspect": 53,
+      "dead-candidate": 31
     }
   },
   "parse": {
     "minScore": 7,
-    "answered": 173,
-    "parsed": 173,
+    "answered": 172,
+    "parsed": 172,
     "registrarsAnswered": 2268,
     "registrarsParsed": 2268,
     "unparsed": [],
@@ -46,11 +46,6 @@
         "host": "rdap.routing.net",
         "registrars": 1,
         "firstLine": "Query Limit reached"
-      },
-      {
-        "host": "whois.domainoriental.com",
-        "registrars": 1,
-        "firstLine": "Your request is too frequent,Please try again later!"
       },
       {
         "host": "whois.global-village.de",
@@ -74,5 +69,5 @@
       }
     ]
   },
-  "elapsedSeconds": 204
+  "elapsedSeconds": 210
 }
