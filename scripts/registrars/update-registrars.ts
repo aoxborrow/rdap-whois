@@ -14,7 +14,7 @@
 // state.json, so its failure counter starts again on the new one.
 //
 // Run: npm run registrars:update [--offline] [--no-save]
-import { PHASEOUT_MIN_FAILURES } from '../whois/decide';
+import { deadDaysSince, PHASEOUT_MIN_AGE_DAYS, PHASEOUT_MIN_FAILURES } from '../whois/decide';
 import { getTldServers } from '../whois/generate-tlds';
 import { toolingClient, TOOLING_USER_AGENT } from '../lib/client';
 import { loadState, runPool, saveState } from '../registry-health/state';
@@ -121,10 +121,12 @@ async function main(): Promise<void> {
     console.log(`  ${named} named their registrar`);
   }
 
-  // a server whose probes have failed as phase-out evidence as many weeks running as the TLD
-  // phase-out gate asks for is retired, and stays retired in the list until live evidence picks
-  // it again
+  // a server that has failed to connect as many runs running, and gone without a proper answer
+  // as long, as the TLD phase-out gate asks for is retired, and stays retired in the list until
+  // live evidence picks it again. A refusal is left out: the probe asks one domain, and a
+  // registrar server may refuse that one's TLD and answer the rest
   const state = loadState();
+  const now = new Date();
   const retired = new Set([
     ...previous.retired,
     ...Object.entries(state.registrars ?? {}).flatMap(([id, health]) => {
@@ -132,8 +134,9 @@ async function main(): Promise<void> {
       const record = health.whois;
       return host &&
         record &&
-        ['dead-candidate', 'refused'].includes(record.classification) &&
-        record.consecutiveFailures >= PHASEOUT_MIN_FAILURES
+        record.classification === 'dead-candidate' &&
+        record.consecutiveFailures >= PHASEOUT_MIN_FAILURES &&
+        deadDaysSince(record, now) >= PHASEOUT_MIN_AGE_DAYS
         ? [host]
         : [];
     }),
