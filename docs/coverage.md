@@ -6,7 +6,7 @@
 Which zones the library can look up, over which protocol, and how well. A zone is a TLD,
 or a second-level zone with a registry of its own (`co.uk` is not one, `br.com` is).
 
-Server status is from the registry-health run of 2026-11-25, which
+Server status is from the registry-health run of 2026-11-27, which
 probes every server weekly with a name known to be registered:
 
 - **ok**: answered with a record, or with a rate-limit notice
@@ -39,7 +39,7 @@ the parse expected of them.
 
 Recorded tests: 1145 responses from 1011
 WHOIS servers that zones are routed to (they serve 1141 zones), and
-252 from 181 other servers,
+255 from 184 other servers,
 mostly registrars ([below](#registrars-and-other-servers)).
 
 ## Zones
@@ -1625,6 +1625,7 @@ its own. Status is shown only for the servers the health run probes.
 | whois.35.com |  | generic-kv | 1 |
 | whois.abion.com |  | generic-kv | 1 |
 | whois.acens.net |  | generic-kv | 1 |
+| whois.aitdomains.com |  | generic-kv | 1 |
 | whois.akky.mx |  | generic-kv | 1 |
 | whois.apiname.com |  | generic-kv | 1 |
 | whois.audns.net.au |  | **icann** | 1 |
@@ -1655,10 +1656,12 @@ its own. Status is shown only for the servers the health run probes.
 | whois.eenet.ee |  | **block-scoped** | 1 |
 | whois.entorno.com |  | generic-kv | 1 |
 | whois.evonames.com |  | generic-kv | 1 |
+| whois.french-connexion.com |  | generic-kv | 1 |
 | whois.gabia.com |  | generic-kv | 1 |
 | whois.goaustraliadomains.com |  | generic-kv | 1 |
 | whois.gtlds.nic.br | failing | generic-kv | 1 |
 | whois.hostinger.com |  | generic-kv | 1 |
+| whois.hupo.com |  | generic-kv | 1 |
 | whois.imena.ua |  | generic-kv | 1 |
 | whois.inregistry.net |  | **generic-kv** | 1 |
 | whois.instra.net |  | generic-kv | 1 |

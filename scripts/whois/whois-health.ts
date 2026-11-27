@@ -47,6 +47,7 @@ import { HEALTH_DIR, PACKAGE_DIR, WHOIS_DATA_DIR } from '../lib/paths';
 import { pruneOverrides } from './prune-overrides';
 import { loadState, type HealthState } from '../registry-health/state';
 import { loadThrottling } from '../registry-health/throttling';
+import { renderRegistrarSection } from '../registrars/report';
 
 const WHOIS_DIR = WHOIS_DATA_DIR;
 const PHASEOUT_FILE = `${WHOIS_DIR}tlds-phaseout.json`;
@@ -473,6 +474,7 @@ function main(): void {
   md += `\n## Parser regression\n\n${parser.checked} fixtures, ${parser.score}% parse clean; ${parser.top100Regressions} top-100 regression(s).\n`;
   md += renderOracleSection();
   md += renderCommunitySection();
+  md += renderRegistrarSection();
   writeFileSync(REPORT_MD, md + '\n', 'utf8');
 
   const red = decisions.red || parserRed || oracleRed;

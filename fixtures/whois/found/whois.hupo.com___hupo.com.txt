@@ -1,0 +1,24 @@
+###%%% QRY: hupo.com
+###%%% SRV: whois.hupo.com
+###%%% TME: 2026-11-27T09:13:58Z
+
+Domain Name: hupo.com
+Registry Domain ID: 
+Registrar Whois Server: whois.hupo.com
+Registrar URL: http://www.hupo.com
+Creation Date: 2001-02-14 13:26:21
+Registrar Registration Expiration Date: 2027-02-14 13:26:21
+Registrar: GUANGZHOU MING YANG INFORMATION TECHNOLOGY CO., LTD
+Registrar IANA ID: 1417
+Registrar Abuse Contact Email: abuse@hupo.com
+Registrar Abuse Contact Phone: +86.2085566200
+Reseller
+Domain Status: clientDeleteProhibited <a href='http://icann.org/epp#clientDeleteProhibited' target='_blank'>http://icann.org/epp#clientDeleteProhibited</a>
+Domain Status: clientTransferProhibited <a href='http://icann.org/epp#clientTransferProhibited' target='_blank'>http://icann.org/epp#clientTransferProhibited</a>
+Registry Registrant ID: Not Available From Registry
+Name Server: ns1.hupo.com
+Name Server: ns2.hupo.com
+Name Server: ns3.hupo.com
+Name Server: ns4.hupo.com
+DNSSEC: unsigned
+For more information on Whois status codes, please visit: <a href='https://www.icann.org/resources/pages/epp-status-codes-list-2014-06-18-en' target='_blank'>https://www.icann.org/resources/pages/epp-status-codes-list-2014-06-18-en</a>.<br /><br />For complete domain details go to: <a href="http://www.hupo.com/whois/?domain=hupo.com" target="_blank">http://www.hupo.com/whois/?domain=hupo.com

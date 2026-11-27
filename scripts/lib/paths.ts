@@ -19,6 +19,10 @@ export const RDAP_DATA_DIR = fromPackage('data/rdap/');
 // the registry-health state, decisions and reports. Committed, never published
 export const HEALTH_DIR = fromPackage('registry-health/');
 
+// the registrar server list: every accredited registrar's RDAP base and WHOIS server. Tooling
+// data, never built into the library
+export const REGISTRARS_FILE = fromPackage('registry-health/registrars.json');
+
 // the tables the generators write into the library's source
 export const GENERATED_DIR = fromPackage('src/whois/generated/');
 

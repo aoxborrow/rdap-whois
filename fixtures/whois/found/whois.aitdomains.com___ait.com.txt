@@ -1,0 +1,65 @@
+###%%% QRY: ait.com
+###%%% SRV: whois.aitdomains.com
+###%%% TME: 2026-11-27T09:13:31Z
+
+Domain Name: AIT.COM
+ Registrar WHOIS Server: whois.aitdomains.com
+ Registrar URL: https://ait.com
+ Updated Date: 2026-03-12T14:03:54Z
+ Creation Date: 1997-09-30T04:00:00Z
+ Registrar Expiration Date: 2029-09-29T14:03:48Z
+ Registrar: CSMJBS Enterprises
+ Registrar IANA ID: 57
+ Registrar Abuse Contact Email: abuse@ait.com
+ Registrar Abuse Contact Phone: +1.9103211200
+ Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+ Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+ Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+ Registrant Name: CSMJBS Enterprises - Private Registration
+ Registrant Organization: CSMJBS Enterprises - Private Registration
+ Registrant Street: 5412 Lavender Ct. 
+ Registrant City: N. Las Vegas
+ Registrant State/Province: NV
+ Registrant Postal Code: 89031-0520
+ Registrant Country: US
+ Registrant Phone: +1.9103211200
+ Registrant Fax: +1.9103211390
+ Registrant Email: privateregistration@nameservices.net
+ Admin Name: CSMJBS Enterprises - Private Registration
+ Admin Organization: CSMJBS Enterprises - Private Registration
+ Admin Street: 5412 Lavender Ct. 
+ Admin City: N. Las Vegas
+ Admin State/Province: NV
+ Admin Postal Code: 89031-0520
+ Admin Country: US
+ Admin Phone: +1.9103211200
+ Admin Fax: +1.9103211390
+ Admin Email: privateregistration@nameservices.net
+ Tech Name: CSMJBS Enterprises - Private Registration
+ Tech Organization: CSMJBS Enterprises - Private Registration
+ Tech Street: 5412 Lavender Ct. 
+ Tech City: N. Las Vegas
+ Tech State/Province: NV
+ Tech Postal Code: 89031-0520
+ Tech Country: US
+ Tech Phone: +1.9103211200
+ Tech Fax: +1.9103211390
+ Tech Email: privateregistration@nameservices.net
+ Name Server: CF1.AIT.COM
+ Name Server: CF0.AIT.COM
+ DNSSEC: unsigned
+ URL of ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+ >>> Last update of WHOIS database: 2026-11-27T04:13:31Z <<<
+ 
+  The Data in CSMJBS Enterprises - PRIVATE REGISTRATION WHOIS database is provided by
+  THE CSMJBS Enterprises for information purposes, and to assist persons
+  in obtaining information about or related to a domain name registration record.
+  THE CSMJBS Enterprises does not guarantee its accuracy.  By submitting a 
+  WHOIS query, you agree that you will use this Data only for lawful purposes 
+  and that, under no circumstances will you use this Data to: (1) allow, enable, 
+  or otherwise support the transmission of mass unsolicited, commercial advertising 
+  or solicitations via e-mail (spam); or  (2) enable high volume, automated, 
+  electronic processes that apply to THE CSMJBS Enterprises (or its systems). 
+                   
+  THE CSMJBS Enterprises reserves the right to modify these terms at any time.
+  By submitting this query, you agree to abide by this policy.

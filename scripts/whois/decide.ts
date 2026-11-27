@@ -48,7 +48,7 @@ const DAY_MS = 86_400_000;
 // added in §10.3 so "never worked" can age). FLOORED, not rounded: this feeds the
 // phase-out/moat safety gates, and rounding would let a server 89.5d dead report 90 and
 // clear the 90-day minimum early. Whole-day floor ⇒ the gate only opens at a full N days.
-function deadDaysSince(record: ProbeRecord, now: Date): number {
+export function deadDaysSince(record: ProbeRecord, now: Date): number {
   const anchor = record.lastHealthyAt ?? record.firstProbeAt;
   if (!anchor) return 0;
   return Math.max(0, Math.floor((now.getTime() - new Date(anchor).getTime()) / DAY_MS));

@@ -1,9 +1,12 @@
 #!/usr/bin/env tsx
 // `npm run registry:health` — the scheduled unit (docs/registry-health.md §10.1). A thin
-// wrapper that runs the two health lanes in dependency order:
+// wrapper that runs the three health lanes in dependency order:
 //
-//   1. rdap:health   (standalone: refresh bootstrap → probe RDAP → owns state.rdap)
-//   2. whois:health  (IANA sweep → probe whois → decide → regenerate → parser check)
+//   1. rdap:health        (standalone: refresh bootstrap → probe RDAP → owns state.rdap)
+//   2. registrars:health  (standalone: registrar list → probe registrar servers → owns
+//                          state.registrars; never red)
+//   3. whois:health       (IANA sweep → probe whois → decide → regenerate → parser check →
+//                          the report, registrar section included)
 //
 // The order is load-bearing: the whois decision engine reads the COMMITTED rdap state
 // that rdap:health just wrote — a whois server is only phased out when the TLD has a
@@ -46,7 +49,11 @@ function main(): void {
   // rdap first — the whois decision reads the rdap state this produces
   run('rdap:health', packageScript('rdap:health', passthrough));
 
-  // whois second — throws (→ non-zero exit here) on an actionable regression
+  // registrars before whois, whose report renders their section and whose red exit would
+  // otherwise skip them
+  run('registrars:health', packageScript('registrars:health', passthrough));
+
+  // whois last — throws (→ non-zero exit here) on an actionable regression
   run('whois:health', packageScript('whois:health', passthrough));
 
   console.log(`\n✅ registry:health done (${Math.round((Date.now() - started) / 1000)}s)`);
