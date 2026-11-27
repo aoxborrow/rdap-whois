@@ -122,10 +122,12 @@ async function main(): Promise<void> {
   }
 
   // a server whose probes have failed as phase-out evidence as many weeks running as the TLD
-  // phase-out gate asks for is retired: only live evidence brings it back
+  // phase-out gate asks for is retired, and stays retired in the list until live evidence picks
+  // it again
   const state = loadState();
-  const retired = new Set(
-    Object.entries(state.registrars ?? {}).flatMap(([id, health]) => {
+  const retired = new Set([
+    ...previous.retired,
+    ...Object.entries(state.registrars ?? {}).flatMap(([id, health]) => {
       const host = previous.registrars[id]?.whois;
       const record = health.whois;
       return host &&
@@ -134,13 +136,14 @@ async function main(): Promise<void> {
         record.consecutiveFailures >= PHASEOUT_MIN_FAILURES
         ? [host]
         : [];
-    })
-  );
+    }),
+  ]);
   const registrars = buildRegistrars(iana.registrars, evidence, previous.registrars, retired);
+  const chosen = new Set(Object.values(registrars).map(r => r.whois));
+  const stillRetired = [...retired].filter(host => !chosen.has(host));
   const stats = coverage(registrars);
-  const mapped = new Set(Object.values(registrars).map(r => r.whois));
   const evidenced = new Set(evidence.map(e => e.host));
-  const unmappedSeeds = seeds.filter(h => !mapped.has(h));
+  const unmappedSeeds = seeds.filter(h => !chosen.has(h));
   const unknownSeeds = unmappedSeeds.filter(h => !evidenced.has(h));
 
   console.log(
@@ -165,7 +168,7 @@ async function main(): Promise<void> {
       if (health.rdap && before?.rdap !== now.rdap) delete health.rdap;
     }
     saveState(state);
-    saveRegistrars({ ...previous, updated: iana.updated, registrars });
+    saveRegistrars({ ...previous, updated: iana.updated, registrars, retired: stillRetired });
     console.log('\nwrote registry-health/registrars.json');
   }
   console.log(`elapsed: ${Math.round((Date.now() - started) / 1000)}s`);

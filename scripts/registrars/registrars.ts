@@ -33,6 +33,9 @@ export type RegistrarList = {
   // the date of the IANA registry the list was built from
   updated: string;
   registrars: Record<string, RegistrarEntry>;
+  // WHOIS servers retired after weeks of failed probes; one leaves only when live evidence
+  // picks it again
+  retired: string[];
 };
 
 export type Evidence = {
@@ -147,15 +150,21 @@ export function seedHosts(): string[] {
 
 export function loadRegistrars(): RegistrarList {
   if (!existsSync(REGISTRARS_FILE))
-    return { description: DESCRIPTION, updated: '', registrars: {} };
-  return JSON.parse(readFileSync(REGISTRARS_FILE, 'utf8')) as RegistrarList;
+    return { description: DESCRIPTION, updated: '', registrars: {}, retired: [] };
+  const list = JSON.parse(readFileSync(REGISTRARS_FILE, 'utf8')) as RegistrarList;
+  return { ...list, retired: list.retired ?? [] };
 }
 
 export function saveRegistrars(list: RegistrarList): void {
   const registrars = Object.fromEntries(
     Object.entries(list.registrars).sort(([a], [b]) => Number(a) - Number(b))
   );
-  const out: RegistrarList = { description: DESCRIPTION, updated: list.updated, registrars };
+  const out: RegistrarList = {
+    description: DESCRIPTION,
+    updated: list.updated,
+    registrars,
+    retired: [...new Set(list.retired)].sort(),
+  };
   writeFileSync(REGISTRARS_FILE, JSON.stringify(out, null, 2) + '\n', 'utf8');
 }
 
