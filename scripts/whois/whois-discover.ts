@@ -23,6 +23,7 @@ import { summarizeBySource, type DiscoverySource } from '../registry-health/disc
 import { probeWhoisServer } from './probe/whois-probe';
 import { runPool } from '../registry-health/state';
 import { HEALTH_DIR, WHOIS_DATA_DIR } from '../lib/paths';
+import { writeTlds } from './generate-tlds';
 
 const DISCOVERED_FILE = `${WHOIS_DATA_DIR}tlds-discovered.json`;
 const REPORT_DIR = HEALTH_DIR;
@@ -107,7 +108,7 @@ async function main(): Promise<void> {
     if (++done % 25 === 0) console.log(`  …${done}/${targets.length} probed`);
   });
 
-  // discovered layer — verified replacement servers, auto-merged by whois:generate
+  // discovered layer — verified replacement servers, merged into data/tlds.json
   // (ascii ← extra ← auto ← discovered ← phaseout ← overrides). The job only appends
   // verified-alive servers here; merging the PR adopts them. Merge with prior, sorted.
   const existing: Record<string, string> = existsSync(DISCOVERED_FILE)
@@ -116,6 +117,7 @@ async function main(): Promise<void> {
   const merged = { ...existing, ...discovered };
   const sorted = Object.fromEntries(Object.entries(merged).sort(([a], [b]) => a.localeCompare(b)));
   writeFileSync(DISCOVERED_FILE, JSON.stringify(sorted, null, 2) + '\n', 'utf8');
+  writeTlds();
 
   // per-source productivity — a source stuck at 0 across runs only echoes IANA/another
   // source and can be dropped (§10.4). alive = the discovery adoption criterion.
@@ -155,9 +157,7 @@ async function main(): Promise<void> {
   );
   console.log(`discovered layer: data/whois/tlds-discovered.json`);
   console.log(`report: ${REPORT_FILE}`);
-  console.log(
-    `\nreview the diff, then \`npm run whois:generate\` to regenerate the map (merge adopts)`
-  );
+  console.log(`\nreview the diff; data/tlds.json is already regenerated (merge adopts)`);
   process.exit(0);
 }
 

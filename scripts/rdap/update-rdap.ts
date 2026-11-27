@@ -8,6 +8,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { RDAP_DATA_DIR } from '../lib/paths';
+import { writeTlds } from '../whois/generate-tlds';
 
 // get current directory
 const __filename = fileURLToPath(import.meta.url);
@@ -123,6 +124,7 @@ const downloadRdapFiles = async (): Promise<void> => {
 
   await Promise.all(downloadPromises);
   console.log('All RDAP files downloaded successfully!');
+  writeTlds();
 };
 
 const run = process.argv.includes('--diff') ? diffRdapFiles : downloadRdapFiles;

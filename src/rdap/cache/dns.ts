@@ -1,18 +1,24 @@
-import dnsBootstrap from '../../../data/rdap/dns.json';
-import dnsDiscovered from '../../../data/rdap/dns-discovered.json';
-import dnsOverrides from '../../../data/rdap/dns-overrides.json';
+import { tldRoutes } from '../../tlds';
 import { BaseServerCache } from './base';
-import { applyRdapOverrides, type RdapOverrideLayer } from './overrides';
+import { RDAP_BOOTSTRAP_PUBLISHED } from '../../whois/generated/tlds-updated';
 
 export class DnsServerCache extends BaseServerCache {
   constructor() {
-    // https://data.iana.org/rdap/dns.json
-    super(dnsBootstrap);
-    // Over IANA's bootstrap file go two layers: servers found by probing registries that
-    // IANA does not list, then hand-kept corrections, which win. Order:
-    // bootstrap ← discovered ← overrides.
-    applyRdapOverrides(this.cache, dnsDiscovered);
-    applyRdapOverrides(this.cache, dnsOverrides);
+    // the resolved routing table (data/tlds.json): IANA's bootstrap file
+    // (https://data.iana.org/rdap/dns.json), with the servers found by probing registries
+    // IANA does not list and the hand-kept corrections merged over it at build time
+    super({
+      description: 'RDAP routes for domains from data/tlds.json',
+      publication: RDAP_BOOTSTRAP_PUBLISHED,
+      services: [],
+      version: '1.0',
+    });
+  }
+
+  initCache() {
+    for (const [zone, route] of tldRoutes()) {
+      if (route.rdap) this.cache.set(zone, route.rdap);
+    }
   }
 
   getServer(query: string): string | null {

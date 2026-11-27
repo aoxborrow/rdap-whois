@@ -14,9 +14,17 @@ Node 22.12 or later, and npm:
 npm install
 ```
 
-The generated tables (`src/whois/generated/`, `src/record/generated/`) are committed, so a
-fresh clone builds and tests as it is; regenerate them only after changing what they are
-made from.
+The generated tables (`data/tlds.json`, `src/whois/generated/`, `src/record/generated/`) are
+committed, so a fresh clone builds and tests as it is; regenerate them only after changing
+what they are made from.
+
+`data/tlds.json` is the routing table the library reads: for every zone, its WHOIS server and
+RDAP base URL and the layer each came from (`whoisSource`: `ascii`, `extra`, `auto`,
+`discovered`, `phaseout` or `overrides`; `rdapSource`: `iana`, `discovered` or `overrides`;
+`null` when no layer of that protocol names the zone). The servers are in the forms
+`registry-health/state.json` keys health by. It is made from the layers in `data/whois/` and
+`data/rdap/` by `npm run whois:generate:tlds`, which every script that writes a layer runs
+for you; edit a layer, never the table. `npm test` fails when the table is stale.
 
 | Command                    | What it does                                                        |
 | -------------------------- | ------------------------------------------------------------------- |
@@ -68,7 +76,7 @@ It asks the server for the name and stops unless the answer is a record. Then it
 the answer as `fixtures/whois/found/<server>___<name>.txt` with the parse
 beside it as `.json`; routes the zone to the server in `data/whois/tlds-extra.json` (a
 zone nothing routes yet) or `data/whois/tlds-overrides.json` (replacing what another layer
-says); regenerates `src/whois/generated/tlds.ts`; and prints which fields of a domain
+says); regenerates `data/tlds.json`; and prints which fields of a domain
 record the parser left empty. Run `npm test` and commit what it wrote.
 
 If fields come back empty that the response has, the server needs a format of its own:
@@ -134,7 +142,7 @@ git push origin main v0.1.1
 ```
 
 Routing data reaches users only in releases: there is no runtime download. So a merged
-weekly registry-health pull request that changed `data/` or `src/whois/generated/` is
+weekly registry-health pull request that changed `data/tlds.json` or `src/whois/generated/` is
 followed by a patch release. Code changes follow semver, with 0.x minors for breaking
 changes.
 

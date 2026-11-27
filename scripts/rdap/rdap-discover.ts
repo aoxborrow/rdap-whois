@@ -20,6 +20,7 @@ import { summarizeBySource, type DiscoverySource } from '../registry-health/disc
 import { probeRdapBase } from './probe/rdap-probe';
 import { runPool } from '../registry-health/state';
 import { HEALTH_DIR, RDAP_DATA_DIR } from '../lib/paths';
+import { writeTlds } from '../whois/generate-tlds';
 
 const DISCOVERED_FILE = `${RDAP_DATA_DIR}dns-discovered.json`;
 const REPORT_DIR = HEALTH_DIR;
@@ -108,6 +109,7 @@ async function main(): Promise<void> {
   const merged = { ...existing, ...discovered };
   const sorted = Object.fromEntries(Object.entries(merged).sort(([a], [b]) => a.localeCompare(b)));
   writeFileSync(DISCOVERED_FILE, JSON.stringify(sorted, null, 2) + '\n', 'utf8');
+  writeTlds();
 
   // per-source productivity — so a source that never yields anything (i.e. it only
   // echoes IANA/another source) shows up and can be dropped (§10.4). Sum across attempts.
@@ -149,11 +151,11 @@ async function main(): Promise<void> {
     `\ndiscovered ${Object.keys(discovered).length} new working RDAP endpoint(s) in ${elapsed}s ` +
       `(${Object.keys(merged).length} total in the discovered layer)`
   );
-  console.log(`proposed diff: data/rdap/dns-discovered.json`);
+  console.log(`proposed diff: data/rdap/dns-discovered.json and data/tlds.json`);
   console.log(`report: registry-health/discovery-rdap.json`);
   console.log(
-    `\nnever auto-adopted — review the diff, then \`npm run whois:generate\` is NOT needed ` +
-      `(RDAP loads dns-discovered.json at import; prod picks it up on deploy)`
+    `\nnever auto-adopted — review the diff; data/tlds.json, which the library routes by, ` +
+      `is already regenerated`
   );
   process.exit(0);
 }

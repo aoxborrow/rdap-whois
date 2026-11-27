@@ -18,12 +18,13 @@
 // M2/M3 decision engine's job, not this sweep's.
 //
 // Run:  npm run whois:update-tlds [--limit N] [--concurrency N]
-// Then: npm run whois:generate  (and commit both diffs)
+// It regenerates data/tlds.json; commit both diffs
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { IANA_WHOIS_SERVER } from '../../src/whois/constants';
 import { parseReferralServer } from '../../src/whois/servers';
 import { toolingClient } from '../lib/client';
 import { HEALTH_DIR, WHOIS_DATA_DIR } from '../lib/paths';
+import { writeTlds } from './generate-tlds';
 
 const IANA_TLD_LIST_URL = 'https://data.iana.org/TLD/tlds-alpha-by-domain.txt';
 
@@ -165,6 +166,7 @@ async function main(): Promise<void> {
     [...autoEntries.keys()].sort().map(tld => [tld, autoEntries.get(tld) ?? null])
   );
   writeFileSync(AUTO_FILE, JSON.stringify(auto, null, 2) + '\n', 'utf8');
+  writeTlds();
 
   // sweep report: per-TLD status + failures, for the cross-diff and the PR body
   const withWhois = Object.values(auto).filter(Boolean).length;
@@ -192,7 +194,6 @@ async function main(): Promise<void> {
   );
   console.log(`wrote ${AUTO_FILE}`);
   console.log(`wrote ${REPORT_FILE}`);
-  console.log('next: npm run whois:generate');
   process.exit(0);
 }
 

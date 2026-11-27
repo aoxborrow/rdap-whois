@@ -1,7 +1,7 @@
 // WHOIS server ROUTING: which host answers for a query, how to ask it, and what kind of
 // server it is. The ./servers/ directory beside it is unrelated: it is per-host PARSE data,
 // reached via formatConfig() in ./formats.
-import { TLD_SERVERS } from './generated/tlds';
+import { tldRoute, tldRoutes } from '../tlds';
 import {
   DOMAIN_QUERY_TYPE,
   UNKNOWN_SERVER_TYPE,
@@ -74,7 +74,7 @@ export function getTldServer(domain: string): string | null {
     return IANA_WHOIS_SERVER;
   }
   const zone = getTldZone(domain);
-  return zone === null ? null : TLD_SERVERS[zone];
+  return zone === null ? null : tldRoute(zone)!.whois;
 }
 
 // the zone above a domain that has a WHOIS server: the longest one, starting below the name
@@ -83,7 +83,7 @@ export function getTldZone(domain: string): string | null {
   domain = normalizeDomain(domain);
   while (domain.includes('.')) {
     domain = domain.substring(domain.indexOf('.') + 1);
-    if (TLD_SERVERS[domain]) return domain;
+    if (tldRoute(domain)?.whois) return domain;
   }
   return null;
 }
@@ -107,7 +107,7 @@ export function getWhoisServer(queryType: WhoisQueryType, query: string): string
   // a TLD the table lists with no server has none: IANA would answer with the TLD's own
   // record (its creation date, its DS), which reads as the domain's
   const tld = normalizeDomain(query).split('.').pop() ?? '';
-  if (Object.hasOwn(TLD_SERVERS, tld)) {
+  if (tldRoute(tld)?.whoisSource) {
     return null;
   }
 
@@ -121,7 +121,9 @@ export function getWhoisServer(queryType: WhoisQueryType, query: string): string
 let registryHosts: Set<string> | undefined;
 function registryServers(): Set<string> {
   return (registryHosts ??= new Set(
-    Object.values(TLD_SERVERS).filter((host): host is string => !!host)
+    tldRoutes()
+      .map(([, route]) => route.whois)
+      .filter((host): host is string => !!host)
   ));
 }
 

@@ -181,6 +181,7 @@ jobs:
             registry-health/**
             data/whois/**
             data/rdap/**
+            data/tlds.json
             src/whois/generated/**
             docs/coverage.md
             README.md

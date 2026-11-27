@@ -3,8 +3,7 @@
 // are dead, and TLDs with no working lookup — not all ~1,500 TLDs. Reading prior-run
 // committed state is deliberate: discovery is slow and propose-only, so last run's verdict
 // is fine, and it keeps the rdap lane independent of the whois lane at runtime (§10.1).
-import { DnsServerCache } from '../../src/rdap/cache/dns';
-import { getTldServers } from '../whois/generate-tlds';
+import { getRdapRoutes, getTldServers } from '../whois/generate-tlds';
 import { loadState } from './state';
 
 export type ProblemSet = {
@@ -19,12 +18,11 @@ export type ProblemSet = {
 export function computeProblemSet(): ProblemSet {
   const tldServers = getTldServers();
   const state = loadState();
-  const cache = new DnsServerCache();
 
   // RDAP route sets (same construction the whois decision uses, §10.2)
   const rdapListed = new Set<string>();
   const rdapHealthy = new Set<string>();
-  for (const [tld, base] of cache.entries()) {
+  for (const [tld, base] of Object.entries(getRdapRoutes())) {
     const key = tld.toLowerCase();
     rdapListed.add(key);
     if (state.rdap[base]?.classification === 'healthy') rdapHealthy.add(key);

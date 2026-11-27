@@ -1,30 +1,51 @@
-// The committed TLD map is codegen output: data/whois/tlds-*.json are the source layers,
-// generated/whois/tlds.ts is what the live lookup flow actually routes by (servers.ts
-// imports TLD_SERVERS from there). Nothing at runtime reads the JSON, so an edited layer
-// that was never regenerated is INVISIBLE — prod keeps the old routing. The first test is
-// that guard, the TLD-map twin of the servers registry lockstep test; the rest pin
-// the two asymmetric null rules the merge depends on.
+// data/tlds.json is codegen output: data/whois/tlds-*.json and data/rdap/dns*.json are the
+// source layers, data/tlds.json is what the library actually routes by. Nothing at runtime
+// reads the layers, so an edited layer that was never regenerated is INVISIBLE — prod keeps
+// the old routing. The first test is that guard, the routing-table twin of the servers
+// registry lockstep test; the rest pin the two asymmetric null rules the WHOIS merge depends
+// on.
+import { readFileSync } from 'node:fs';
 import { describe, expect, it } from 'vitest';
-import { TLD_SERVERS } from '../../../src/whois/generated/tlds';
 import tldsAscii from '../../../data/whois/tlds-ascii.json';
 import tldsAuto from '../../../data/whois/tlds-auto.json';
 import tldsDiscovered from '../../../data/whois/tlds-discovered.json';
 import tldsExtra from '../../../data/whois/tlds-extra.json';
 import tldsOverrides from '../../../data/whois/tlds-overrides.json';
 import tldsPhaseout from '../../../data/whois/tlds-phaseout.json';
+import dnsBootstrap from '../../../data/rdap/dns.json';
 import { REGISTRY_ZONES } from '../../../src/whois/generated/zones';
-import { getTldServers, mergeTldLayers, registryZones } from '../../../scripts/whois/generate-tlds';
+import { RDAP_BOOTSTRAP_PUBLISHED } from '../../../src/whois/generated/tlds-updated';
+import {
+  mergeTldLayers,
+  registryZones,
+  resolveTlds,
+  serializeTlds,
+} from '../../../scripts/whois/generate-tlds';
+import { TLDS_FILE } from '../../../scripts/lib/paths';
 
-describe('generated TLD map', () => {
+describe('generated routing table', () => {
   it('matches the source layers (regen: npm run whois:generate:tlds)', () => {
     expect(
-      getTldServers(),
-      'stale generated/whois/tlds.ts — run `npm run whois:generate:tlds`'
-    ).toEqual(TLD_SERVERS);
+      readFileSync(TLDS_FILE, 'utf8'),
+      'stale data/tlds.json — run `npm run whois:generate:tlds`'
+    ).toBe(serializeTlds(resolveTlds()));
     expect(
       registryZones(),
       'stale generated/whois/zones.ts — run `npm run whois:generate:tlds`'
     ).toEqual(REGISTRY_ZONES);
+    expect(
+      RDAP_BOOTSTRAP_PUBLISHED,
+      'stale generated/whois/tlds-updated.ts — run `npm run whois:generate:tlds`'
+    ).toBe(dnsBootstrap.publication.slice(0, 10));
+  });
+
+  it('names a source for every server it holds', () => {
+    for (const [zone, route] of Object.entries(resolveTlds())) {
+      expect(zone, 'zones are lowercase').toBe(zone.toLowerCase());
+      if (route.whois) expect(route.whoisSource, zone).not.toBeNull();
+      if (route.rdap) expect(route.rdapSource, zone).not.toBeNull();
+      expect(route.whoisSource ?? route.rdapSource, `${zone} is named by no layer`).not.toBeNull();
+    }
   });
 
   it('an auto null never unroutes a server the layers below still provide', () => {
@@ -48,8 +69,10 @@ describe('generated TLD map', () => {
   it('an override wins over every layer below it', () => {
     const base = mergeTldLayers({ includeOverrides: false });
     const merged = mergeTldLayers();
+    const resolved = resolveTlds();
     for (const [tld, host] of Object.entries(tldsOverrides as Record<string, string | null>)) {
       expect(merged[tld], `override ${tld}`).toBe(host);
+      expect(resolved[tld].whoisSource, `override ${tld}`).toBe('overrides');
     }
     // At least one override must actually deviate from the base, or the rule above is
     // vacuous — prune-overrides deletes any override the lower layers already reproduce,
