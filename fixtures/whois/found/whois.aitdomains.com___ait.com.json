@@ -1,0 +1,68 @@
+{
+  "query": "ait.com",
+  "server": "whois.aitdomains.com",
+  "domainName": "ait.com",
+  "creationDate": "1997-09-30T04:00:00Z",
+  "expirationDate": "2029-09-29T14:03:48Z",
+  "registrarExpirationDate": "2029-09-29T14:03:48Z",
+  "updatedDate": "2026-03-12T14:03:54Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited",
+    "clientUpdateProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited",
+    "clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited",
+    "clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+  ],
+  "nameservers": [
+    "cf0.ait.com",
+    "cf1.ait.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "57",
+  "registrarIanaId": 57,
+  "registrarName": "CSMJBS Enterprises",
+  "registrarUrl": "https://ait.com",
+  "registrarAbuseEmail": "abuse@ait.com",
+  "registrarAbusePhone": "+1.9103211200",
+  "registrarWhoisServer": "whois.aitdomains.com",
+  "registrantName": "CSMJBS Enterprises - Private Registration",
+  "registrantOrg": "CSMJBS Enterprises - Private Registration",
+  "registrantAddress": [
+    "5412 Lavender Ct."
+  ],
+  "registrantCity": "N. Las Vegas",
+  "registrantState": "NV",
+  "registrantPostalCode": "89031-0520",
+  "registrantCountry": "US",
+  "registrantPhone": "+1.9103211200",
+  "registrantFax": "+1.9103211390",
+  "registrantEmail": "privateregistration@nameservices.net",
+  "adminName": "CSMJBS Enterprises - Private Registration",
+  "adminOrg": "CSMJBS Enterprises - Private Registration",
+  "adminAddress": [
+    "5412 Lavender Ct."
+  ],
+  "adminCity": "N. Las Vegas",
+  "adminState": "NV",
+  "adminPostalCode": "89031-0520",
+  "adminCountry": "US",
+  "adminPhone": "+1.9103211200",
+  "adminFax": "+1.9103211390",
+  "adminEmail": "privateregistration@nameservices.net",
+  "techName": "CSMJBS Enterprises - Private Registration",
+  "techOrg": "CSMJBS Enterprises - Private Registration",
+  "techAddress": [
+    "5412 Lavender Ct."
+  ],
+  "techCity": "N. Las Vegas",
+  "techState": "NV",
+  "techPostalCode": "89031-0520",
+  "techCountry": "US",
+  "techPhone": "+1.9103211200",
+  "techFax": "+1.9103211390",
+  "techEmail": "privateregistration@nameservices.net"
+}

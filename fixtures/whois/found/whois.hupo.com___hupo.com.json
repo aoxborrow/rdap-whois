@@ -1,0 +1,32 @@
+{
+  "query": "hupo.com",
+  "server": "whois.hupo.com",
+  "domainName": "hupo.com",
+  "creationDate": "2001-02-14T13:26:21Z",
+  "expirationDate": "2027-02-14T13:26:21Z",
+  "registrarExpirationDate": "2027-02-14T13:26:21Z",
+  "eppStatus": [
+    "clientDeleteProhibited",
+    "clientTransferProhibited"
+  ],
+  "eppStatusRaw": [
+    "clientDeleteProhibited <a href='http://icann.org/epp#clientDeleteProhibited' target='_blank'>http://icann.org/epp#clientDeleteProhibited</a>",
+    "clientTransferProhibited <a href='http://icann.org/epp#clientTransferProhibited' target='_blank'>http://icann.org/epp#clientTransferProhibited</a>"
+  ],
+  "nameservers": [
+    "ns1.hupo.com",
+    "ns2.hupo.com",
+    "ns3.hupo.com",
+    "ns4.hupo.com"
+  ],
+  "dnssec": false,
+  "dnssecRaw": "unsigned",
+  "registrarId": "1417",
+  "registrarIanaId": 1417,
+  "registrarName": "GUANGZHOU MING YANG INFORMATION TECHNOLOGY CO., LTD",
+  "registrarUrl": "http://www.hupo.com",
+  "registrarAbuseEmail": "abuse@hupo.com",
+  "registrarAbusePhone": "+86.2085566200",
+  "registrarWhoisServer": "whois.hupo.com",
+  "registrantId": "Not Available From Registry"
+}

@@ -1,0 +1,73 @@
+###%%% QRY: french-connexion.com
+###%%% SRV: whois.french-connexion.com
+###%%% TME: 2026-11-27T09:13:30Z
+
+****************************************************
+*******   French Connexion WhoisServer 1.0  ********
+****************************************************
+
+Domain name:french-connexion.com
+Registry Domain ID: 45
+Registrar WHOIS Server: whois.verisign-grs.com
+Registrar URL: http://www.domaine.fr
+Updated Date:2026-06-10T 03:02:23Z
+Creation Date:2016-06-30T 02:16:21Z
+Registrar Registration Expiration Date:2027-07-10T 00:00:00Z
+
+Registrar:Domaine.Fr
+Registrar IANA ID: 601
+Registrar Abuse Contact Email: abuse@Domaine.Fr
+Registrar Abuse Contact Phone: +33.825701700
+Reseller: Domaine.Fr
+Domain Status: ok    https://icann.org/epp#ok
+Registry Registrant ID:
+Registrant Organization:Inovacom
+Registrant Name:Inovacom Inovacom
+Registrant Address1:1 rue desboutin
+Registrant City:Nice
+Registrant State/Province:Alpes Maritimes
+Registrant Postal Code:06300
+Registrant Country:FR
+Registrant Phone:+33.825701700
+Registrant Fax:
+Registrant Email:inovacom@domaine.fr
+Registry Admin ID:
+Admin Organization:Inovacom
+Admin Name:Inovacom Inovacom
+Admin Address1:1 rue desboutin
+Admin City:Nice
+Admin State/Province:Alpes Maritimes
+Admin Postal Code:06300
+Admin Country:FR
+Admin Phone:+33.825701700
+Admin Fax:
+Admin Email:inovacom@domaine.fr
+Registry Tech ID:
+Tech Organization:Inovacom
+Tech Name:Inovacom Inovacom
+Tech Address1:1 rue desboutin
+Tech City:Nice
+Tech State/Province:Alpes Maritimes
+Tech Postal Code:06300
+Tech Country:FR
+Tech Phone:+33.825701700
+Tech Fax:
+Tech Email:inovacom@domaine.fr
+Name Server:DNS2.FRENCH-CONNEXION.COM
+Name Server:DNS40.DOMAINE.FR
+DNSSEC:unsigned
+Registry Billing ID:
+Billing Organization:Inovacom
+Billing Name:Inovacom Inovacom
+Billing Address1:1 rue desboutin
+Billing City:Nice
+Billing State/Province:Alpes Maritimes
+Billing Postal Code:06300
+Billing Country:FR
+Billing Phone:+33.825701700
+Billing Fax:
+Billing Email:inovacom@domaine.fr
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2026-11-26T 19:30:22Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

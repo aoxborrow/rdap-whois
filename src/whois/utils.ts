@@ -52,6 +52,7 @@ export function cleanStatus(status: string | null | undefined): string | null {
   return (
     raw
       .replace(/\s*\(https?:\/\/.*?\)/gi, '') // remove URLs in parentheses (case insensitive)
+      .replace(/\s*<a\s.*$/i, '') // remove an HTML link after the code (whois.hupo.com)
       // trailing ` - <description or url>`: an EPP status code is a single word, so anything after
       // a ` - ` (or ` -- `) separator is the registry's gloss (`ok - Normal state.`, whois.nic.kz)
       // or the epp link (`clientTransferProhibited -- http://…`, whois.pananames.com) — drop it,

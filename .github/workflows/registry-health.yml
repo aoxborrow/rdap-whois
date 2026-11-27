@@ -3,8 +3,8 @@ name: Registry Health
 # The weekly registry-health run (docs: CONTRIBUTING.md, "Registry health"). Three jobs, so
 # the data refresh and the alerting are separate:
 #
-#   refresh  probes every WHOIS server and RDAP base, refreshes the registry truth (IANA and
-#            the RDAP bootstrap files), runs the parser regression and the cross-checks,
+#   refresh  probes every WHOIS server and RDAP base (the TLDs' and the registrars'),
+#            refreshes the registry truth (IANA, its registrar IDs and the RDAP bootstrap files), runs the parser regression and the cross-checks,
 #            keeps the state (failure counters, known differences, throttling), regenerates
 #            the routing table and the coverage page, runs the offline checks on the result,
 #            and opens or updates one rolling pull request with the data diff and the report.

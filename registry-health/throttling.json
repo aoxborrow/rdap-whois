@@ -1,10 +1,94 @@
 {
+  "rdap.123-reg.co.uk": {
+    "protocol": "rdap",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:10:51.753Z",
+    "lastSeen": "2026-11-27T09:10:51.753Z",
+    "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
   "rdap.gmoregistry.net": {
     "protocol": "rdap",
     "runs": 1,
     "firstSeen": "2026-11-25T21:33:06.914Z",
     "lastSeen": "2026-11-25T21:33:06.914Z",
     "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "rdap.gocanadadomains.com": {
+    "protocol": "rdap",
+    "runs": 2,
+    "firstSeen": "2026-11-27T09:10:51.753Z",
+    "lastSeen": "2026-11-27T09:24:10.980Z",
+    "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "rdap.gofrancedomains.com": {
+    "protocol": "rdap",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:10:51.753Z",
+    "lastSeen": "2026-11-27T09:10:51.753Z",
+    "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "rdap.gomontenegrodomains.com": {
+    "protocol": "rdap",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:24:10.980Z",
+    "lastSeen": "2026-11-27T09:24:10.980Z",
+    "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "whois.bluerazor.com": {
+    "protocol": "whois",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:24:10.979Z",
+    "lastSeen": "2026-11-27T09:24:10.979Z",
+    "detail": "whois.bluerazor.com is rate limiting",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "whois.goaustraliadomains.com": {
+    "protocol": "whois",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:10:51.752Z",
+    "lastSeen": "2026-11-27T09:10:51.752Z",
+    "detail": "whois.goaustraliadomains.com is rate limiting",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
+  "whois.meshdigital.com": {
+    "protocol": "whois",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:24:10.979Z",
+    "lastSeen": "2026-11-27T09:24:10.979Z",
+    "detail": "whois.meshdigital.com is rate limiting",
     "limit": {
       "concurrency": 2,
       "minInterval": 250
@@ -34,5 +118,17 @@
       "minInterval": 1000
     },
     "published": true
+  },
+  "whois.wildwestdomains.com": {
+    "protocol": "whois",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:24:10.979Z",
+    "lastSeen": "2026-11-27T09:24:10.979Z",
+    "detail": "whois.wildwestdomains.com is rate limiting",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
   }
 }

@@ -62,13 +62,14 @@ export const ICANN_ALIASES: AliasTable = {
   expirationDate: [
     'Registry Expiry Date',
     'Registrar Registration Expiration Date',
+    'Registrar Expiration Date',
     'Expiration Date',
     'Expiry Date',
     'Expires On',
   ],
   // the registrar's expiry, which a registry may pass on beside its own (CoCCA, ZACR). A
   // registrar's own server gives only this one, and it is the expirationDate there too
-  registrarExpirationDate: ['Registrar Registration Expiration Date'],
+  registrarExpirationDate: ['Registrar Registration Expiration Date', 'Registrar Expiration Date'],
   updatedDate: ['Updated Date', 'Last Updated On', 'Last Update', 'Last Modified'],
   eppStatus: ['Domain Status', 'Status'],
   nameservers: ['Name Server', 'Name Servers', 'Nameserver'],

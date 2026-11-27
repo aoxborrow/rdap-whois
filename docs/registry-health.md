@@ -18,6 +18,7 @@ if `scripts/`, `registry-health/`, `fixtures/`, `test/`, `src/` or `data/` reach
 | `scripts/lib/` | `paths.ts` (every directory the tooling reads or writes) and `client.ts` (the tooling's client, fetch and proxy) |
 | `scripts/registry-health/` | `registry:health` (the weekly unit), the probe state, the throttling record, the discovery sources, the cross-diff and the community diff |
 | `scripts/whois/` | the WHOIS lane (`whois:health`, probes, decisions, IANA sweep, discovery), the two TLD generators, the parser and fixture tools, the oracles (`oracles/`, with the Go and Ruby wrappers), `data/` (the Tranco name pool) and `archive/` |
+| `scripts/registrars/` | the registrar lane (`registrars:health`): the registrar server list, its probes and the registrar section of the report |
 | `scripts/rdap/` | the RDAP lane (`rdap:health`, probes, discovery, bootstrap refresh), the validation dry run, the hop comparison, the rdap.org redirect helper |
 | `scripts/proxy-check.ts` | which address requests leave from through the proxy |
 | `scripts/coverage.ts` | `docs/coverage.md` and the README's numbers |
@@ -45,8 +46,10 @@ Run as `npm run <script>`.
 | Script | What |
 | --- | --- |
 | `who <query> [--whois \| --rdap] [--raw] [--server s]` | one lookup through the `rdap-whois` command, printed as JSON |
-| `registry:health` | the weekly unit: `rdap:health`, then `whois:health`. Flags: `--report-only`, `--skip-refresh`, `--skip-probes`, `--decide-only`, `--discover`, `--sample N`, `--limit N` |
-| `rdap:health`, `whois:health` | one lane each |
+| `registry:health` | the weekly unit: `rdap:health`, `registrars:health`, then `whois:health`. Flags: `--report-only`, `--skip-refresh`, `--skip-probes`, `--decide-only`, `--discover`, `--sample N`, `--limit N` |
+| `rdap:health`, `registrars:health`, `whois:health` | one lane each |
+| `registrars:update` | rebuild `registry-health/registrars.json` from IANA's registrar IDs and the WHOIS evidence (`--offline` skips the live part) |
+| `registrars:check-servers` | probe every registrar WHOIS server and RDAP base into `state.json` (`--dump DIR` keeps each WHOIS answer) |
 | `rdap:update`, `whois:update-tlds` | refresh the RDAP bootstrap files, sweep IANA for WHOIS servers |
 | `rdap:check-servers`, `whois:check-servers` | probe every RDAP base / WHOIS server into `state.json` |
 | `rdap:discover`, `whois:discover` | look for replacements for the problem set |
@@ -89,6 +92,40 @@ connection failures or refusals, at least 45 days without a proper answer, IANA 
 and a working RDAP server for the zone. Nothing is
 adopted automatically either: discovery and the community lists propose, probes verify, and
 the weekly pull request is reviewed by a person.
+
+## Registrars
+
+The registrar lane runs between the RDAP and WHOIS lanes and never turns the run red: a
+registrar's server going down breaks no TLD route.
+
+`registrars:update` builds `registry-health/registrars.json`: every ICANN-accredited
+registrar by IANA registrar ID, with the RDAP base IANA's registrar-ids registry lists for it,
+a WHOIS server, and a domain a registry confirmed it sponsors. WHOIS servers carry no ID, so
+each is matched to registrars from evidence, a host and an ID seen in one answer: a registry's
+answer names the sponsor's IANA ID and `Registrar WHOIS Server`, and a registrar server's own
+answer names the ID it speaks for. The evidence comes from the fixture corpus and, live, from
+Verisign's answer for the domain of every registrar server under .com and .net, plus each
+server already in `data/whois/registrars.json` that nothing matched yet, asked for its own
+domain. A registrar's WHOIS server is the one with the most live evidence, then one on its RDAP
+base's domain, then the most evidence of any age. A registrar with no evidence takes the server
+of the others on its RDAP base when they all name one on that base's domain, which covers the
+drop-catch families that run hundreds of accreditations on one platform (DropCatch on
+NameBright, Gname, Dynadot). A registry's own server named as a registrar's is dropped.
+
+`registrars:check-servers` probes each distinct WHOIS server and RDAP base once, with the
+TLD probes' harness and classification (a conformant RDAP 404 is live), and every registrar on
+it gets the outcome. The probe query is a domain the fixture corpus recorded on the WHOIS
+server, then a confirmed domain, then the domain of the server's own hostname. The outcomes
+land in `state.json` under `registrars`, keyed by IANA ID:
+`{ name?, whois?, rdap? }`, each record the same shape as a TLD server's. A registrar whose
+server changes starts a fresh record for it. The throttling goes into `throttling.json` as
+the other lanes' does.
+
+The lane also measures how well the library parses registrar WHOIS: of the servers that
+answered with a record, how many gave at least 7 of the record's 13 core fields. That and the
+coverage counts are in `registry-health/registrar-report.json` and the report's
+**Registrars** section, which also lists answers that held no record at all (a rate-limit or
+refusal notice the client did not recognize, or a notfound it missed).
 
 ## Request limits
 

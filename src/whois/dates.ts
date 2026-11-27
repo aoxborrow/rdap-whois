@@ -120,7 +120,11 @@ const ISO_WITH_ZONE = /^\d{4}-\d{2}-\d{2}[T ]\d{2}:\d{2}:\d{2}(\.\d+)?(Z|[+-]\d{
 /** parse date strings using date-fns and lots of formats */
 export function parseDate(value: string, options?: ParserOptions): Date | null {
   if (!value) return null;
-  const text = value.trim().toUpperCase();
+  // a space after the T (`2026-06-10T 03:02:23Z`, whois.french-connexion.com) is dropped
+  const text = value
+    .trim()
+    .toUpperCase()
+    .replace(/^(\d{4}-\d{2}-\d{2}T)\s+/, '$1');
   if (ISO_WITH_ZONE.test(text)) {
     // Date.parse rolls an impossible day over (February 30 is March 2), so the day is
     // checked against the month first

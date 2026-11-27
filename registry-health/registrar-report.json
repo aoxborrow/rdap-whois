@@ -1,0 +1,79 @@
+{
+  "probedAt": "2026-11-27T09:24:10.886Z",
+  "coverage": {
+    "accredited": 3323,
+    "whois": 2383,
+    "rdap": 3320,
+    "both": 2383,
+    "neither": 3,
+    "whoisServers": 281,
+    "rdapBases": 475
+  },
+  "healthy": {
+    "whois": 2273,
+    "rdap": 3228,
+    "either": 3243
+  },
+  "servers": {
+    "whois": {
+      "healthy": 178,
+      "dead-candidate": 76,
+      "suspect": 5,
+      "refused": 3,
+      "throttled": 3,
+      "notfound-fp": 16
+    },
+    "rdap": {
+      "healthy": 384,
+      "suspect": 53,
+      "dead-candidate": 36,
+      "throttled": 2
+    }
+  },
+  "parse": {
+    "minScore": 7,
+    "answered": 171,
+    "parsed": 171,
+    "registrarsAnswered": 2266,
+    "registrarsParsed": 2266,
+    "unparsed": [],
+    "noRecord": [
+      {
+        "host": "grs-whois.aliyun.com",
+        "registrars": 1,
+        "firstLine": "Allow only queries : com,net,cc,tv"
+      },
+      {
+        "host": "rdap.routing.net",
+        "registrars": 1,
+        "firstLine": "Query Limit reached"
+      },
+      {
+        "host": "whois.domainoriental.com",
+        "registrars": 1,
+        "firstLine": "Your request is too frequent,Please try again later!"
+      },
+      {
+        "host": "whois.global-village.de",
+        "registrars": 1,
+        "firstLine": "For thick registries use the web whois http://whois.global-village.de"
+      },
+      {
+        "host": "whois.infomaniak.com",
+        "registrars": 1,
+        "firstLine": "There is no match for this domain name."
+      },
+      {
+        "host": "whois.register.eu",
+        "registrars": 1,
+        "firstLine": "RESTRICTED - ICANN prohohibited domain name."
+      },
+      {
+        "host": "whois.xtom.com",
+        "registrars": 1,
+        "firstLine": "NOTICE: In accordance with ICANN compliance policies, our whois server has been discontinued. Please use the RDAP protoc"
+      }
+    ]
+  },
+  "elapsedSeconds": 214
+}

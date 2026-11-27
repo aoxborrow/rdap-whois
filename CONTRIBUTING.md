@@ -145,7 +145,8 @@ No npm token is stored in the repository.
 ### Registry health
 
 `.github/workflows/registry-health.yml` runs every Monday, and on demand with a `dry_run`
-sample. It probes every WHOIS server and RDAP base through a rotating proxy, refreshes
+sample. It probes every WHOIS server and RDAP base, the TLDs' and the registrars', through a
+rotating proxy, refreshes
 IANA's data, runs the parser regression and the oracle cross-checks, keeps the state in
 `registry-health/`, and opens one rolling pull request with the data diff and
 `registry-health/report.md`. A new outage with no RDAP to fall back on, or a top-100 parser

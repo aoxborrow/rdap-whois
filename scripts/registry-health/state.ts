@@ -73,10 +73,21 @@ export type ProbeRecord = {
   detail: string | null;
 };
 
+// one accredited registrar by IANA ID: the probe records of its WHOIS server and RDAP base
+// (registry-health/registrars.json), each the same record a TLD server gets. Several registrars
+// sharing a server each carry a copy of its one probe
+export type RegistrarHealth = {
+  name?: string;
+  whois?: ProbeRecord;
+  rdap?: ProbeRecord;
+};
+
 export type HealthState = {
   updatedAt: string;
   whois: Record<string, ProbeRecord>;
   rdap: Record<string, ProbeRecord>;
+  // the registrar lane (scripts/registrars/), absent until it first runs
+  registrars?: Record<string, RegistrarHealth>;
 };
 
 const ALIVE: ProbeClassification[] = ['healthy', 'notfound-fp', 'throttled'];
@@ -128,6 +139,20 @@ export function saveState(state: HealthState): void {
     whois: sortRecords(state.whois),
     rdap: sortRecords(state.rdap),
   };
+  if (state.registrars) {
+    sorted.registrars = Object.fromEntries(
+      Object.entries(state.registrars)
+        .sort(([a], [b]) => Number(a) - Number(b))
+        .map(([id, { name, whois, rdap }]) => [
+          id,
+          {
+            ...(name !== undefined && { name }),
+            ...(whois && { whois: orderRecord(whois) }),
+            ...(rdap && { rdap: orderRecord(rdap) }),
+          },
+        ])
+    );
+  }
   mkdirSync(STATE_DIR, { recursive: true });
   writeFileSync(STATE_FILE, JSON.stringify(sorted, null, 2) + '\n', 'utf8');
 }
