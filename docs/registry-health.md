@@ -187,8 +187,9 @@ top-100 registrar server that at least two oracles agree on turns the run red.
   did not finish, and closes it on the next clean run. An outage is new when the committed
   `registry-health/decisions.json` does not list it yet; one it lists stays in the report
   without holding the issue open, so merging the weekly pull request is what acknowledges it.
-- **live** runs the library's live suite (`LIVE=1`, plus the rdap.org check) and keeps one
-  `live-suite` issue the same way.
+- **live** runs the library's live suite (`LIVE=1`, plus the rdap.org check) through the
+  same proxy as the probes, since some registries (whois.nic.io) drop datacenter addresses,
+  and keeps one `live-suite` issue the same way.
 
 `workflow_dispatch` with `dry_run` runs a report-only sample that writes nothing and opens
 no pull request or issue. A merged weekly pull request that changed the routing data is

@@ -14,8 +14,9 @@ name: Registry Health
 #   alert    an actionable regression (a new outage with no RDAP to fall back on, a top-100
 #            parser regression, a new top-100 parser disagreement two oracles share) or a
 #            failed run opens or updates one `registry-health` issue; a clean run closes it.
-#   live     the live suite: a few real lookups end to end. A failure opens or updates one
-#            `live-suite` issue.
+#   live     the live suite: a few real lookups end to end, through the same proxy as the
+#            refresh (some registries drop datacenter addresses). A failure opens or updates
+#            one `live-suite` issue.
 #
 # Secrets: PROXY_USERNAME_DEFAULT and PROXY_PASSWORD_DEFAULT (the rotating proxy the probes
 # go through; registries rate-limit datacenter addresses), and optionally
@@ -261,6 +262,8 @@ jobs:
         id: suite
         env:
           LIVE: '1'
+          PROXY_USERNAME_DEFAULT: ${{ secrets.PROXY_USERNAME_DEFAULT }}
+          PROXY_PASSWORD_DEFAULT: ${{ secrets.PROXY_PASSWORD_DEFAULT }}
         run: |
           set +e
           npm test -- test/live.test.ts test/scripts/rdap/redirect.test.ts
