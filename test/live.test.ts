@@ -7,16 +7,22 @@
 // Only things that do not rotate are pinned: creation dates and which server answered.
 // One name per TLD, so one registry having a bad day costs one case.
 //
-// The client is the tooling's (scripts/lib/client.ts): it goes through the proxy when one is
-// configured, as the weekly CI job does, since some registries (whois.nic.io) drop
-// datacenter addresses, and direct otherwise.
+// The proxy is the tooling's (scripts/lib/client.ts), set from the environment. The weekly
+// CI job sets it, since some registries (whois.nic.io) drop datacenter addresses, so there
+// the suite covers the proxied path: RDAP through the library's tunnelled fetch, WHOIS
+// through SOCKS5. With no proxy set, the client is the library's default (the runtime's
+// fetch and its own TCP transport), so run it locally without one to cover that path.
 import { describe, expect, it } from 'vitest';
-import { toolingClient } from '../scripts/lib/client';
+import { toolingProxy } from '../scripts/lib/client';
+import { RdapWhois } from '../src/index';
 
 const LIVE = process.env.LIVE === '1';
 
 describe.skipIf(!LIVE)('live lookups', { timeout: 60_000 }, () => {
-  const client = toolingClient({ userAgent: 'rdap-whois live tests' });
+  const client = new RdapWhois({
+    userAgent: 'rdap-whois live tests',
+    proxy: { whois: toolingProxy('whois'), rdap: toolingProxy('rdap') },
+  });
 
   it('looks a .com up over RDAP', async () => {
     const { record, source, attempts } = await client.lookup('example.com', { verbose: true });
