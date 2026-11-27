@@ -138,7 +138,7 @@
       "name": "IONOS SE",
       "rdap": "https://rdap.ionos.com/",
       "whois": "whois.ionos.com",
-      "domain": "nhsinform.scot"
+      "domain": "1und1.com"
     },
     "84": {
       "name": "UK-2 Limited",
@@ -2291,8 +2291,8 @@
     "1151": {
       "name": "Go Australia Domains, LLC",
       "rdap": "https://rdap.goaustraliadomains.com/v1/",
-      "whois": "whois.goaustraliadomains.com",
-      "domain": null
+      "whois": "whois.godaddy.com",
+      "domain": "realestate.immobilien"
     },
     "1152": {
       "name": "Go Montenegro Domains, LLC",
@@ -7697,8 +7697,8 @@
     "2287": {
       "name": "DNS Africa Ltd",
       "rdap": "https://rdap.dns.business/rdap/",
-      "whois": "capetown-whois.registry.net.za",
-      "domain": null
+      "whois": "whois.gateway.africa",
+      "domain": "registry.capetown"
     },
     "2288": {
       "name": "Metaregistrar BV",

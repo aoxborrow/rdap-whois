@@ -14,6 +14,7 @@
 // state.json, so its failure counter starts again on the new one.
 //
 // Run: npm run registrars:update [--offline] [--no-save]
+import { PHASEOUT_MIN_FAILURES } from '../whois/decide';
 import { getTldServers } from '../whois/generate-tlds';
 import { toolingClient, TOOLING_USER_AGENT } from '../lib/client';
 import { loadState, runPool, saveState } from '../registry-health/state';
@@ -70,11 +71,12 @@ async function main(): Promise<void> {
   const registryServers = new Set(
     Object.values(getTldServers()).filter((s): s is string => Boolean(s))
   );
-  const evidence: Evidence[] = fixtureEvidence(registryServers);
+  const seeds = seedHosts();
+  const registrarServers = new Set(seeds);
+  const evidence: Evidence[] = fixtureEvidence(registryServers, registrarServers);
   console.log(`fixture corpus: ${evidence.length} answers naming a registrar`);
 
   const previous = loadRegistrars();
-  const seeds = seedHosts();
 
   if (!offline) {
     // every registrar server's domain under .com/.net, asked of the thin registry
@@ -93,7 +95,8 @@ async function main(): Promise<void> {
     let learned = 0;
     await runPool(domains, CONCURRENCY, PACE_MS, async domain => {
       const raw = await ask(VERISIGN, domain);
-      const found = raw && evidenceFrom(VERISIGN, domain, raw, registryServers, true);
+      const found =
+        raw && evidenceFrom(VERISIGN, domain, raw, registryServers, registrarServers, true);
       if (found) {
         evidence.push(found);
         learned++;
@@ -109,7 +112,7 @@ async function main(): Promise<void> {
     await runPool(unmatched, CONCURRENCY, PACE_MS, async host => {
       const domain = registrableDomain(host)!;
       const raw = await ask(host, domain);
-      const found = raw && evidenceFrom(host, domain, raw, registryServers, true);
+      const found = raw && evidenceFrom(host, domain, raw, registryServers, registrarServers, true);
       if (found) {
         evidence.push(found);
         named++;
@@ -118,7 +121,22 @@ async function main(): Promise<void> {
     console.log(`  ${named} named their registrar`);
   }
 
-  const registrars = buildRegistrars(iana.registrars, evidence, previous.registrars);
+  // a server whose probes have failed as phase-out evidence as many weeks running as the TLD
+  // phase-out gate asks for is retired: only live evidence brings it back
+  const state = loadState();
+  const retired = new Set(
+    Object.entries(state.registrars ?? {}).flatMap(([id, health]) => {
+      const host = previous.registrars[id]?.whois;
+      const record = health.whois;
+      return host &&
+        record &&
+        ['dead-candidate', 'refused'].includes(record.classification) &&
+        record.consecutiveFailures >= PHASEOUT_MIN_FAILURES
+        ? [host]
+        : [];
+    })
+  );
+  const registrars = buildRegistrars(iana.registrars, evidence, previous.registrars, retired);
   const stats = coverage(registrars);
   const mapped = new Set(Object.values(registrars).map(r => r.whois));
   const evidenced = new Set(evidence.map(e => e.host));
@@ -139,7 +157,6 @@ async function main(): Promise<void> {
     console.log('\n--no-save: registry-health/registrars.json NOT written');
   } else {
     // a changed server starts a fresh probe history
-    const state = loadState();
     for (const [id, health] of Object.entries(state.registrars ?? {})) {
       const before = previous.registrars[id];
       const now = registrars[id];

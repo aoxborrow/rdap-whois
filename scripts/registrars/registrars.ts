@@ -89,23 +89,29 @@ export function readRegistrarLines(raw: string): { id: string | null; host: stri
   };
 }
 
-// one piece of evidence from a response `server` sent for `domain`. A registry's server (one
-// that routes a TLD) names the sponsoring registrar; any other server is taken as a registrar's
-// when its answer names an ID. A registry's own server named as the registrar's is dropped:
-// some registries print theirs there
+// one piece of evidence from a response `server` sent for `domain`. It speaks for the server
+// itself only when the server is no registry's (it routes no TLD) and its answer names it as the
+// registrar's WHOIS server, or names none and the server is a known registrar server
+// (`registrarServers`). Any other answer naming an ID is about the sponsor: a registry's, or
+// one from a server routing no longer reaches, such as a registry's alias or retired host. A
+// registry's own server named as the registrar's is dropped: some registries print theirs there
 export function evidenceFrom(
   server: string,
   domain: string,
   raw: string,
   registryServers: Set<string>,
+  registrarServers: Set<string>,
   live: boolean
 ): Evidence | null {
   const { id, host } = readRegistrarLines(raw);
   if (!id) return null;
-  if (!registryServers.has(server)) return { id, host: server, kind: 'self', domain, live };
+  const speaksForItself = host ? host === server : registrarServers.has(server);
+  if (!registryServers.has(server) && speaksForItself) {
+    return { id, host: server, kind: 'self', domain, live };
+  }
   return {
     id,
-    host: host && !registryServers.has(host) ? host : null,
+    host: host && host !== server && !registryServers.has(host) ? host : null,
     kind: 'referral',
     domain,
     live,
@@ -113,7 +119,10 @@ export function evidenceFrom(
 }
 
 // the evidence the fixture corpus holds: every recorded answer, named <server>___<query>.txt
-export function fixtureEvidence(registryServers: Set<string>): Evidence[] {
+export function fixtureEvidence(
+  registryServers: Set<string>,
+  registrarServers: Set<string>
+): Evidence[] {
   const evidence: Evidence[] = [];
   for (const dir of ['found', 'reserved']) {
     const path = `${WHOIS_FIXTURES_DIR}${dir}/`;
@@ -123,7 +132,7 @@ export function fixtureEvidence(registryServers: Set<string>): Evidence[] {
       const [server, domain] = file.slice(0, -4).split('___');
       if (!server || !domain) continue;
       const raw = readFileSync(`${path}${file}`, 'utf8');
-      const found = evidenceFrom(server, domain, raw, registryServers, false);
+      const found = evidenceFrom(server, domain, raw, registryServers, registrarServers, false);
       if (found) evidence.push(found);
     }
   }
@@ -157,11 +166,14 @@ export function saveRegistrars(list: RegistrarList): void {
 // of any age, then the earlier list's. A registrar with no evidence takes the server of the
 // others on its RDAP base when they all name the same one on that base's domain: the drop-catch
 // families (DropCatch on NameBright, Gname, Dynadot) run hundreds of accreditations on one
-// platform. With neither, the earlier list's server stands
+// platform. With neither, the earlier list's server stands. A retired server (one whose probes
+// have failed as phase-out evidence for weeks, see update-registrars.ts) is chosen again only on
+// live evidence: the fixture corpus and the earlier list never bring it back
 export function buildRegistrars(
   iana: IanaRegistrar[],
   evidence: Evidence[],
-  previous: Record<string, RegistrarEntry>
+  previous: Record<string, RegistrarEntry>,
+  retired: Set<string> = new Set()
 ): Record<string, RegistrarEntry> {
   const hostVotes = new Map<string, Map<string, { live: number; all: number }>>();
   const domains = new Map<string, Set<string>>();
@@ -187,14 +199,16 @@ export function buildRegistrars(
     const before = previous[id];
     const rdapDomain = rdap ? registrableDomain(new URL(rdap).hostname) : null;
     const sameDomain = (host: string): number => Number(registrableDomain(host) === rdapDomain);
-    const votes = [...(hostVotes.get(id) ?? new Map()).entries()].sort(
-      ([a, x], [b, y]) =>
-        y.live - x.live ||
-        sameDomain(b) - sameDomain(a) ||
-        y.all - x.all ||
-        Number(b === before?.whois) - Number(a === before?.whois) ||
-        a.localeCompare(b)
-    );
+    const votes = [...(hostVotes.get(id) ?? new Map()).entries()]
+      .filter(([host, vote]) => vote.live > 0 || !retired.has(host))
+      .sort(
+        ([a, x], [b, y]) =>
+          y.live - x.live ||
+          sameDomain(b) - sameDomain(a) ||
+          y.all - x.all ||
+          Number(b === before?.whois) - Number(a === before?.whois) ||
+          a.localeCompare(b)
+      );
     const whois = votes[0]?.[0] ?? null;
     const own = new Set([rdapDomain, whois && registrableDomain(whois)]);
     const gtld = (domain: string): number => Number(!/\.[a-z]{2}$/.test(domain));
@@ -220,7 +234,10 @@ export function buildRegistrars(
     }
     for (const entry of entries) entry.whois ??= host;
   }
-  for (const [id, entry] of Object.entries(registrars)) entry.whois ??= previous[id]?.whois ?? null;
+  for (const [id, entry] of Object.entries(registrars)) {
+    const before = previous[id]?.whois;
+    entry.whois ??= before && !retired.has(before) ? before : null;
+  }
   return registrars;
 }
 

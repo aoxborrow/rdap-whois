@@ -1,3 +1,5 @@
+import { readFileSync } from 'node:fs';
+import { fileURLToPath } from 'node:url';
 import { describe, expect, it } from 'vitest';
 import {
   buildRegistrars,
@@ -52,19 +54,14 @@ describe('normalizeHost', () => {
 
 describe('evidenceFrom', () => {
   const registries = new Set(['whois.verisign-grs.com', 'whois.nic.example']);
+  const registrars = new Set(['whois.known-registrar.com']);
   const answer = (host: string): string =>
     `Domain Name: EXAMPLE.COM\nRegistrar WHOIS Server: ${host}\nRegistrar IANA ID: 1068\n`;
+  const from = (server: string, raw: string, domain = 'example.com') =>
+    evidenceFrom(server, domain, raw, registries, registrars, true);
 
   it("takes a registry's answer as a referral naming the sponsor's server", () => {
-    expect(
-      evidenceFrom(
-        'whois.verisign-grs.com',
-        'example.com',
-        answer('whois.namecheap.com'),
-        registries,
-        true
-      )
-    ).toEqual({
+    expect(from('whois.verisign-grs.com', answer('whois.namecheap.com'))).toEqual({
       id: '1068',
       host: 'whois.namecheap.com',
       kind: 'referral',
@@ -75,32 +72,46 @@ describe('evidenceFrom', () => {
 
   it("drops a registry's own server named as the registrar's", () => {
     expect(
-      evidenceFrom(
-        'whois.verisign-grs.com',
-        'x.example',
-        answer('whois.nic.example'),
-        registries,
-        false
-      )?.host
+      from('whois.verisign-grs.com', answer('whois.nic.example'), 'x.example')?.host
     ).toBeNull();
   });
 
   it("takes a registrar server's own answer as evidence for itself", () => {
-    expect(
-      evidenceFrom(
-        'whois.namecheap.com',
-        'example.com',
-        answer('whois.namecheap.com'),
-        registries,
-        false
-      )
-    ).toMatchObject({ id: '1068', host: 'whois.namecheap.com', kind: 'self' });
+    expect(from('whois.namecheap.com', answer('whois.namecheap.com'))).toMatchObject({
+      id: '1068',
+      host: 'whois.namecheap.com',
+      kind: 'self',
+    });
+    expect(from('whois.known-registrar.com', 'Registrar IANA ID: 1068\n')).toMatchObject({
+      host: 'whois.known-registrar.com',
+      kind: 'self',
+    });
+  });
+
+  it('takes an unrouted server naming another server as a referral, not as itself', () => {
+    // a retired ZACR host: routing now sends .capetown to whois.nic.capetown
+    const raw = readFileSync(
+      fileURLToPath(
+        new URL(
+          '../../../fixtures/whois/found/capetown-whois.registry.net.za___registry.capetown.txt',
+          import.meta.url
+        )
+      ),
+      'utf8'
+    );
+    expect(from('capetown-whois.registry.net.za', raw, 'registry.capetown')).toMatchObject({
+      id: '2287',
+      host: 'whois.gateway.africa',
+      kind: 'referral',
+    });
+    expect(from('whois.unknown.example', 'Registrar IANA ID: 1068\n')).toMatchObject({
+      host: null,
+      kind: 'referral',
+    });
   });
 
   it('finds nothing in an answer that names no IANA ID', () => {
-    expect(
-      evidenceFrom('whois.verisign-grs.com', 'example.com', 'No match', registries, true)
-    ).toBeNull();
+    expect(from('whois.verisign-grs.com', 'No match')).toBeNull();
   });
 });
 
@@ -173,6 +184,20 @@ describe('buildRegistrars', () => {
     expect(built['2'].whois).toBe('whois.namebright.com');
     // two different servers on one base, neither on its domain: no guess
     expect(built['5'].whois).toBeNull();
+  });
+
+  it('chooses a retired server again only on live evidence', () => {
+    const before = { name: 'Old', rdap: null, whois: 'whois.gone.com', domain: null };
+    const retired = new Set(['whois.gone.com']);
+    const built = buildRegistrars(
+      [iana('1', null), iana('2', null), iana('3', null)],
+      [vote('2', 'whois.gone.com', false), vote('3', 'whois.gone.com', true)],
+      { '1': before, '2': before, '3': before },
+      retired
+    );
+    expect(built['1'].whois).toBeNull();
+    expect(built['2'].whois).toBeNull();
+    expect(built['3'].whois).toBe('whois.gone.com');
   });
 
   it("keeps the earlier list's server and domain when there is no evidence", () => {

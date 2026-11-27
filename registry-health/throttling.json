@@ -1,4 +1,16 @@
 {
+  "easydns.rdap.tucows.com": {
+    "protocol": "rdap",
+    "runs": 1,
+    "firstSeen": "2026-11-27T09:36:35.071Z",
+    "lastSeen": "2026-11-27T09:36:35.071Z",
+    "detail": "429",
+    "limit": {
+      "concurrency": 2,
+      "minInterval": 250
+    },
+    "published": false
+  },
   "rdap.123-reg.co.uk": {
     "protocol": "rdap",
     "runs": 1,
