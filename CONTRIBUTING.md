@@ -34,7 +34,10 @@ made from.
 CI runs all of these but `who` on Node 22 and 24 for every pull request, forks included;
 none of them needs a secret, and none but `check:examples`'s install needs the network.
 `who` asks real servers, and so does `LIVE=1 npm test -- test/live.test.ts`, a small set
-of lookups against real servers that is skipped otherwise.
+of lookups against real servers that is skipped otherwise. It goes through the proxy when
+`PROXY_USERNAME_DEFAULT` and `PROXY_PASSWORD_DEFAULT` (or `RDAP_WHOIS_PROXY`) are set in
+the environment, as the weekly run does, and direct otherwise; only a direct run covers the
+library's default transports.
 
 Scripts that query servers or write fixtures read a `.env` in the package root:
 
