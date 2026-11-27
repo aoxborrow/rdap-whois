@@ -121,11 +121,11 @@ async function main(): Promise<void> {
     console.log(`  ${named} named their registrar`);
   }
 
-  // a server whose probes have failed as phase-out evidence (a connection failure or a refusal)
-  // as many runs running, and gone without a proper answer as long, as the TLD phase-out gate
-  // asks for is retired, and stays retired in the list until live evidence picks it again. A
-  // refusal counts as the TLD gate counts one for the TLD it asked about: the probe domain is
-  // one its registrars sponsor, so a server that has refused it for 45 days is of no use for them
+  // a server is retired when it has gone without a proper answer for as many runs and days as
+  // the TLD phase-out gate asks for, and its latest probe could not connect at all. A server
+  // that still answers, even with a refusal, is never retired: the probe domain may be one its
+  // registrars no longer sponsor. A retired server stays in the list's `retired` until live
+  // evidence picks it again
   const state = loadState();
   const now = new Date();
   const retired = new Set([
@@ -135,7 +135,7 @@ async function main(): Promise<void> {
       const record = health.whois;
       return host &&
         record &&
-        ['dead-candidate', 'refused'].includes(record.classification) &&
+        record.classification === 'dead-candidate' &&
         record.consecutiveFailures >= PHASEOUT_MIN_FAILURES &&
         deadDaysSince(record, now) >= PHASEOUT_MIN_AGE_DAYS
         ? [host]
