@@ -1,6 +1,6 @@
 import { tldRoutes } from '../../tlds';
 import { BaseServerCache } from './base';
-import { RDAP_BOOTSTRAP_PUBLISHED } from '../../whois/generated/tlds-updated';
+import { RDAP_BOOTSTRAP_PUBLISHED } from '../../generated/tlds-updated';
 
 export class DnsServerCache extends BaseServerCache {
   constructor() {

@@ -14,7 +14,7 @@ import tldsOverrides from '../../../data/whois/tlds-overrides.json';
 import tldsPhaseout from '../../../data/whois/tlds-phaseout.json';
 import dnsBootstrap from '../../../data/rdap/dns.json';
 import { REGISTRY_ZONES } from '../../../src/whois/generated/zones';
-import { RDAP_BOOTSTRAP_PUBLISHED } from '../../../src/whois/generated/tlds-updated';
+import { RDAP_BOOTSTRAP_PUBLISHED } from '../../../src/generated/tlds-updated';
 import {
   mergeTldLayers,
   registryZones,
@@ -35,7 +35,7 @@ describe('generated routing table', () => {
     ).toEqual(REGISTRY_ZONES);
     expect(
       RDAP_BOOTSTRAP_PUBLISHED,
-      'stale generated/whois/tlds-updated.ts — run `npm run whois:generate:tlds`'
+      'stale src/generated/tlds-updated.ts — run `npm run whois:generate:tlds`'
     ).toBe(dnsBootstrap.publication.slice(0, 10));
   });
 

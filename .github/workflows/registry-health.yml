@@ -183,6 +183,7 @@ jobs:
             data/rdap/**
             data/tlds.json
             src/whois/generated/**
+            src/generated/**
             docs/coverage.md
             README.md
 

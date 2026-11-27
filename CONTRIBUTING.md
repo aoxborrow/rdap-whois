@@ -14,7 +14,7 @@ Node 22.12 or later, and npm:
 npm install
 ```
 
-The generated tables (`data/tlds.json`, `src/whois/generated/`, `src/record/generated/`) are
+The generated tables (`data/tlds.json`, `src/generated/`, `src/whois/generated/`, `src/record/generated/`) are
 committed, so a fresh clone builds and tests as it is; regenerate them only after changing
 what they are made from.
 
@@ -142,7 +142,7 @@ git push origin main v0.1.1
 ```
 
 Routing data reaches users only in releases: there is no runtime download. So a merged
-weekly registry-health pull request that changed `data/tlds.json` or `src/whois/generated/` is
+weekly registry-health pull request that changed `data/tlds.json` or the generated tables is
 followed by a patch release. Code changes follow semver, with 0.x minors for breaking
 changes.
 

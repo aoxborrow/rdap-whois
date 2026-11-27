@@ -3,7 +3,13 @@ import fs from 'fs';
 import { normalizeServer } from '../../src/common/utils';
 import { normalizeRdapServer } from '../../src/rdap/utils';
 import type { RdapSource, TldRoute, WhoisSource } from '../../src/tlds';
-import { GENERATED_DIR, RDAP_DATA_DIR, TLDS_FILE, WHOIS_DATA_DIR } from '../lib/paths';
+import {
+  GENERATED_DIR,
+  RDAP_DATA_DIR,
+  SHARED_GENERATED_DIR,
+  TLDS_FILE,
+  WHOIS_DATA_DIR,
+} from '../lib/paths';
 
 export type TldMap = Record<string, string | null>;
 
@@ -18,10 +24,10 @@ function loadLayer(file: string): TldMap {
   return fs.existsSync(file) ? (JSON.parse(fs.readFileSync(file, 'utf8')) as TldMap) : {};
 }
 
-// src/whois/generated/tlds-updated.ts, the day the WHOIS table last changed and the day IANA
+// src/generated/tlds-updated.ts, the day the WHOIS table last changed and the day IANA
 // published the RDAP bootstrap. A module of its own, so DATA_VERSION, which the package root
 // exports, loads neither the table nor the bootstrap file with it
-const updatedFile = `${GENERATED_DIR}tlds-updated.ts`;
+const updatedFile = `${SHARED_GENERATED_DIR}tlds-updated.ts`;
 
 // The WHOIS layers, lowest first:
 //   ascii      static snapshot, originally from https://github.com/WooMai/whois-servers —

@@ -1,7 +1,7 @@
 // how old the routing data and limits built into this release are, as UTC dates
 // (YYYY-MM-DD). There is no update at runtime: new data comes with a new release.
 import knownLimits from '../data/limits.json';
-import { RDAP_BOOTSTRAP_PUBLISHED, TLD_TABLE_UPDATED } from './whois/generated/tlds-updated';
+import { RDAP_BOOTSTRAP_PUBLISHED, TLD_TABLE_UPDATED } from './generated/tlds-updated';
 
 export interface DataVersion {
   /** when IANA published the RDAP bootstrap file for domains (data/rdap/dns.json) */
