@@ -1,137 +1,136 @@
 # Registry health report (whois lane)
 
-Probed 1269 whois servers; 211 dead-candidate, 245 refused (an error page instead of a record).
+Probed 1270 whois servers; 213 dead-candidate, 245 refused (an error page instead of a record).
 
-## 🟠 Moat outages (43, 19 ccTLD, none new)
+## 🟠 Moat outages (41, 17 ccTLD, none new)
 
 Dead whois with NO RDAP fallback (down ≥14d) — these TLDs are unlookupable. Never auto-nulled. Only an outage the last committed report did not list turns the build red.
 
-- **ac.za** → whois.ac.za (dead 134d, ×10) — Could not connect to whois.ac.za:43: host unreachable
-- **af** → whois.nic.af (dead 15d, ×3) — Timed out waiting for the proxy to connect to whois.nic.af:43
-- **alt.za** → whois.alt.za (dead 134d, ×10) — Could not connect to whois.alt.za:43: host unreachable
-- **bentley** → whois.nic.bentley (dead 134d, ×10) — Could not connect to whois.nic.bentley:43: host unreachable
-- **bw** → whois.nic.net.bw (dead 15d, ×3) — Could not connect to whois.nic.net.bw:43: host unreachable
-- **cf** → whois.dot.cf (dead 134d, ×10) — Could not connect to whois.dot.cf:43: host unreachable
-- **dunlop** → whois.nic.dunlop (dead 134d, ×10) — Could not connect to whois.nic.dunlop:43: host unreachable
-- **edu.cn** → whois.edu.cn (dead 134d, ×10) — Could not connect to whois.edu.cn:43: host unreachable
-- **edu.ru** → whois.informika.ru (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.informika.ru:43
-- **es** → whois.nic.es (dead 121d, ×6) — Timed out waiting for the proxy to connect to whois.nic.es:43
-- **eu.org** → whois.eu.org (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.eu.org:43
-- **goo** → whois.nic.gmo (dead 86d, ×4) — Timed out waiting for the proxy to connect to whois.nic.gmo:43
-- **gov.za** → whois.gov.za (dead 86d, ×4) — Timed out waiting for the proxy to connect to whois.gov.za:43
-- **gp** → whois.nic.gp (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.nic.gp:43
-- **helsinki** → whois.nic.helsinki (dead 86d, ×4) — Could not connect to whois.nic.helsinki:43: host unreachable
-- **hm** → whois.registry.hm (dead 134d, ×10) — Could not connect to whois.registry.hm:43: host unreachable
-- **iq** → whois.cmc.iq (dead 134d, ×10) — Could not connect to whois.cmc.iq:43: host unreachable
-- **juniper** → whois.nic.juniper (dead 86d, ×4) — Could not connect to whois.nic.juniper:43: host unreachable
-- **ki** → whois.nic.ki (dead 15d, ×3) — Timed out waiting for the proxy to connect to whois.nic.ki:43
-- **lancaster** → whois.nic.lancaster (dead 134d, ×10) — Could not connect to whois.nic.lancaster:43: host unreachable
-- **lk** → whois.nic.lk (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.nic.lk:43
-- **ma** → whois.registre.ma (dead 15d, ×3) — Timed out waiting for the proxy to connect to whois.registre.ma:43
-- **mt** → whois.nic.org.mt (dead 134d, ×10) — Could not connect to whois.nic.org.mt:43: host unreachable
-- **mw** → whois.nic.mw (dead 15d, ×3) — Timed out waiting for the proxy to connect to whois.nic.mw:43
-- **pf** → whois.registry.pf (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.registry.pf:43
-- **ps** → whois.pnina.ps (dead 134d, ×10) — Could not connect to whois.pnina.ps:43: host unreachable
-- **redstone** → whois.nic.redstone (dead 134d, ×10) — Could not connect to whois.nic.redstone:43: host unreachable
-- **sb** → whois.nic.net.sb (dead 15d, ×3) — Timed out waiting for the proxy to connect to whois.nic.net.sb:43
-- **sy** → whois.tld.sy (dead 86d, ×4) — Could not connect to whois.tld.sy:43: host unreachable
-- **tk** → whois.dot.tk (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.dot.tk:43
-- **tl** → whois.nic.tl (dead 15d, ×3) — Timed out waiting for the proxy to connect to whois.nic.tl:43
-- **uk.co** → whois.uk.co (dead 134d, ×10) — Could not connect to whois.uk.co:43: host unreachable
-- **uy** → whois.nic.org.uy (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.nic.org.uy:43
-- **wolterskluwer** → whois.nic.wolterskluwer (dead 134d, ×10) — Could not connect to whois.nic.wolterskluwer:43: host unreachable
-- **xn--fzc2c9e2c** → whois.nic.lk (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.nic.lk:43
-- **xn--l1acc** → whois.mn (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.mn:43
-- **xn--mgbtx2b** → whois.cmc.iq (dead 134d, ×10) — Could not connect to whois.cmc.iq:43: host unreachable
-- **xn--ogbpf8fl** → whois.tld.sy (dead 86d, ×4) — Could not connect to whois.tld.sy:43: host unreachable
-- **xn--wgbh1c** → whois.dotmasr.eg (dead 134d, ×10) — Could not connect to whois.dotmasr.eg:43: host unreachable
-- **xn--xkc2al3hye2a** → whois.nic.lk (dead 134d, ×10) — Timed out waiting for the proxy to connect to whois.nic.lk:43
-- **xn--ygbi2ammx** → whois.pnina.ps (dead 134d, ×10) — Could not connect to whois.pnina.ps:43: host unreachable
-- **za.net** → whois.za.net (dead 134d, ×10) — Could not connect to whois.za.net:43: host unreachable
-- **za.org** → whois.za.org (dead 134d, ×10) — Could not connect to whois.za.org:43: host unreachable
+- **ac.za** → whois.ac.za (dead 136d, ×11) — Could not connect to whois.ac.za:43: host unreachable
+- **af** → whois.nic.af (dead 17d, ×4) — Timed out waiting for the proxy to connect to whois.nic.af:43
+- **alt.za** → whois.alt.za (dead 136d, ×11) — Could not connect to whois.alt.za:43: host unreachable
+- **bentley** → whois.nic.bentley (dead 136d, ×11) — Could not connect to whois.nic.bentley:43: host unreachable
+- **cf** → whois.dot.cf (dead 136d, ×11) — Could not connect to whois.dot.cf:43: host unreachable
+- **dunlop** → whois.nic.dunlop (dead 136d, ×11) — Could not connect to whois.nic.dunlop:43: host unreachable
+- **edu.cn** → whois.edu.cn (dead 136d, ×11) — Could not connect to whois.edu.cn:43: host unreachable
+- **edu.ru** → whois.informika.ru (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.informika.ru:43
+- **es** → whois.nic.es (dead 122d, ×7) — Timed out waiting for the proxy to connect to whois.nic.es:43
+- **eu.org** → whois.eu.org (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.eu.org:43
+- **goo** → whois.nic.gmo (dead 87d, ×5) — Timed out waiting for the proxy to connect to whois.nic.gmo:43
+- **gov.za** → whois.gov.za (dead 87d, ×5) — Timed out waiting for the proxy to connect to whois.gov.za:43
+- **gp** → whois.nic.gp (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.nic.gp:43
+- **helsinki** → whois.nic.helsinki (dead 87d, ×5) — Could not connect to whois.nic.helsinki:43: host unreachable
+- **hm** → whois.registry.hm (dead 136d, ×11) — Could not connect to whois.registry.hm:43: host unreachable
+- **iq** → whois.cmc.iq (dead 136d, ×11) — Could not connect to whois.cmc.iq:43: host unreachable
+- **juniper** → whois.nic.juniper (dead 87d, ×5) — Could not connect to whois.nic.juniper:43: host unreachable
+- **ki** → whois.nic.ki (dead 17d, ×4) — Timed out waiting for the proxy to connect to whois.nic.ki:43
+- **lancaster** → whois.nic.lancaster (dead 136d, ×11) — Could not connect to whois.nic.lancaster:43: host unreachable
+- **lk** → whois.nic.lk (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.nic.lk:43
+- **ma** → whois.registre.ma (dead 17d, ×4) — Timed out waiting for the proxy to connect to whois.registre.ma:43
+- **mt** → whois.nic.org.mt (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.nic.org.mt:43
+- **pf** → whois.registry.pf (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.registry.pf:43
+- **ps** → whois.pnina.ps (dead 136d, ×11) — Could not connect to whois.pnina.ps:43: host unreachable
+- **redstone** → whois.nic.redstone (dead 136d, ×11) — Could not connect to whois.nic.redstone:43: host unreachable
+- **sb** → whois.nic.net.sb (dead 17d, ×4) — Timed out waiting for the proxy to connect to whois.nic.net.sb:43
+- **sy** → whois.tld.sy (dead 87d, ×5) — Could not connect to whois.tld.sy:43: host unreachable
+- **tk** → whois.dot.tk (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.dot.tk:43
+- **tl** → whois.nic.tl (dead 17d, ×4) — Timed out waiting for the proxy to connect to whois.nic.tl:43
+- **uk.co** → whois.uk.co (dead 136d, ×11) — Could not connect to whois.uk.co:43: host unreachable
+- **uy** → whois.nic.org.uy (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.nic.org.uy:43
+- **wolterskluwer** → whois.nic.wolterskluwer (dead 136d, ×11) — Could not connect to whois.nic.wolterskluwer:43: host unreachable
+- **xn--fzc2c9e2c** → whois.nic.lk (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.nic.lk:43
+- **xn--l1acc** → whois.mn (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.mn:43
+- **xn--mgbtx2b** → whois.cmc.iq (dead 136d, ×11) — Could not connect to whois.cmc.iq:43: host unreachable
+- **xn--ogbpf8fl** → whois.tld.sy (dead 87d, ×5) — Could not connect to whois.tld.sy:43: host unreachable
+- **xn--wgbh1c** → whois.dotmasr.eg (dead 136d, ×11) — Could not connect to whois.dotmasr.eg:43: host unreachable
+- **xn--xkc2al3hye2a** → whois.nic.lk (dead 136d, ×11) — Timed out waiting for the proxy to connect to whois.nic.lk:43
+- **xn--ygbi2ammx** → whois.pnina.ps (dead 136d, ×11) — Could not connect to whois.pnina.ps:43: host unreachable
+- **za.net** → whois.za.net (dead 136d, ×11) — Could not connect to whois.za.net:43: host unreachable
+- **za.org** → whois.za.org (dead 136d, ×11) — Could not connect to whois.za.org:43: host unreachable
 
-## 🟡 Moat watch (3, 3 ccTLD)
+## 🟡 Moat watch (5, 5 ccTLD)
 
 Dead whois with NO RDAP, down <14d — red if they persist. Never nulled.
 
-- jo → whois.nic.net.jo (dead 0d, ×1) — Timed out waiting for the proxy to connect to whois.nic.net.jo:43
-- pt → whois.dns.pt (dead 8d, ×2) — Timed out waiting for the proxy to connect to whois.dns.pt:43
-- so → whois.nic.so (dead 8d, ×2) — Timed out waiting for the proxy to connect to whois.nic.so:43
+- jo → whois.nic.net.jo (dead 1d, ×2) — Timed out waiting for the proxy to connect to whois.nic.net.jo:43
+- nc → whois.nc (dead 1d, ×1) — Timed out waiting for the proxy to connect to whois.nc:43
+- pt → whois.dns.pt (dead 10d, ×3) — Timed out waiting for the proxy to connect to whois.dns.pt:43
+- so → whois.nic.so (dead 10d, ×3) — Timed out waiting for the proxy to connect to whois.nic.so:43
+- ws → whois.website.ws (dead 1d, ×1) — Timed out waiting for the proxy to connect to whois.website.ws:43
 
-## Phase-outs applied (2)
+## Phase-outs applied (1)
 
 Routed to null (dead ≥45d + ≥4 failed probes + IANA dropped the line + working RDAP):
 
-- **ggee** → ~~whois.nic.ggee~~ null (dead 86d, ×4)
-- **pioneer** → ~~whois.nic.gmo~~ null (dead 86d, ×4)
+- **fj** → ~~www.whois.fj~~ null (dead 119d, ×6)
 
-## Phase-out candidates (335)
+## Phase-out candidates (336)
 
 Dead/failing but not yet phased out:
 
-- academy → whois.nic.academy (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- accountants → whois.nic.accountants (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- actor → whois.nic.actor (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- agency → whois.nic.agency (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- airforce → whois.nic.airforce (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- apartments → whois.nic.apartments (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- archi → whois.nic.archi (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- army → whois.nic.army (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- as → whois.nic.as (dead 86d, ×4) — IANA still lists a whois server
-- associates → whois.nic.associates (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- attorney → whois.nic.attorney (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- auction → whois.nic.auction (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- band → whois.nic.band (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- bargains → whois.nic.bargains (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- bbc → whois.nic.bbc (dead 134d, ×10) — IANA still lists a whois server
-- bet → whois.nic.bet (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- bike → whois.nic.bike (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- bingo → whois.nic.bingo (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- bio → whois.nic.bio (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- black → whois.nic.black (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- blue → whois.nic.blue (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- boutique → whois.nic.boutique (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- bridgestone → whois.nic.bridgestone (dead 86d, ×4) — IANA still lists a whois server
-- broker → whois.nic.broker (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- brother → whois.nic.brother (dead 86d, ×4) — IANA still lists a whois server
-- builders → whois.nic.builders (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- business → whois.nic.business (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- cab → whois.nic.cab (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- cafe → whois.nic.cafe (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- camera → whois.nic.camera (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- camp → whois.nic.camp (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- canon → whois.nic.canon (dead 86d, ×4) — IANA still lists a whois server
-- capital → whois.nic.capital (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- cards → whois.nic.cards (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- care → whois.nic.care (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- careers → whois.nic.careers (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- cash → whois.nic.cash (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- casino → whois.nic.casino (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- catering → whois.nic.catering (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- center → whois.nic.center (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- chat → whois.nic.chat (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- cheap → whois.nic.cheap (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- church → whois.nic.church (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- circle → whois.nic.circle (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- city → whois.nic.city (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- claims → whois.nic.claims (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- cleaning → whois.nic.cleaning (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- clinic → whois.nic.clinic (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- clothing → whois.nic.clothing (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- coach → whois.nic.coach (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- codes → whois.nic.codes (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- coffee → whois.nic.coffee (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- community → whois.nic.community (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- company → whois.nic.company (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- computer → whois.nic.computer (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- condos → whois.nic.condos (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- construction → whois.nic.construction (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- consulting → whois.nic.consulting (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- contact → whois.nic.contact (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- contractors → whois.nic.contractors (dead 15d, ×3) — dead only 15d (<45d); only 3 failed probe(s) (<4)
-- …and 275 more (see decisions.json)
+- abudhabi → whois.nic.abudhabi (dead 1d, ×1) — dead only 1d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server
+- academy → whois.nic.academy (dead 17d, ×4) — dead only 17d (<45d)
+- accountants → whois.nic.accountants (dead 17d, ×4) — dead only 17d (<45d)
+- actor → whois.nic.actor (dead 17d, ×4) — dead only 17d (<45d)
+- agency → whois.nic.agency (dead 17d, ×4) — dead only 17d (<45d)
+- airforce → whois.nic.airforce (dead 17d, ×4) — dead only 17d (<45d)
+- apartments → whois.nic.apartments (dead 17d, ×4) — dead only 17d (<45d)
+- archi → whois.nic.archi (dead 17d, ×4) — dead only 17d (<45d)
+- army → whois.nic.army (dead 17d, ×4) — dead only 17d (<45d)
+- as → whois.nic.as (dead 87d, ×5) — IANA still lists a whois server
+- associates → whois.nic.associates (dead 17d, ×4) — dead only 17d (<45d)
+- attorney → whois.nic.attorney (dead 17d, ×4) — dead only 17d (<45d)
+- auction → whois.nic.auction (dead 17d, ×4) — dead only 17d (<45d)
+- band → whois.nic.band (dead 17d, ×4) — dead only 17d (<45d)
+- bargains → whois.nic.bargains (dead 17d, ×4) — dead only 17d (<45d)
+- bbc → whois.nic.bbc (dead 136d, ×11) — IANA still lists a whois server
+- bet → whois.nic.bet (dead 17d, ×4) — dead only 17d (<45d)
+- bike → whois.nic.bike (dead 17d, ×4) — dead only 17d (<45d)
+- bingo → whois.nic.bingo (dead 17d, ×4) — dead only 17d (<45d)
+- bio → whois.nic.bio (dead 17d, ×4) — dead only 17d (<45d)
+- black → whois.nic.black (dead 17d, ×4) — dead only 17d (<45d)
+- blue → whois.nic.blue (dead 17d, ×4) — dead only 17d (<45d)
+- boutique → whois.nic.boutique (dead 17d, ×4) — dead only 17d (<45d)
+- bridgestone → whois.nic.bridgestone (dead 87d, ×5) — RDAP listed but unhealthy
+- broker → whois.nic.broker (dead 17d, ×4) — dead only 17d (<45d)
+- brother → whois.nic.brother (dead 87d, ×5) — RDAP listed but unhealthy
+- builders → whois.nic.builders (dead 17d, ×4) — dead only 17d (<45d)
+- business → whois.nic.business (dead 17d, ×4) — dead only 17d (<45d)
+- cab → whois.nic.cab (dead 17d, ×4) — dead only 17d (<45d)
+- cafe → whois.nic.cafe (dead 17d, ×4) — dead only 17d (<45d)
+- camera → whois.nic.camera (dead 17d, ×4) — dead only 17d (<45d)
+- camp → whois.nic.camp (dead 17d, ×4) — dead only 17d (<45d)
+- canon → whois.nic.canon (dead 87d, ×5) — RDAP listed but unhealthy
+- capital → whois.nic.capital (dead 17d, ×4) — dead only 17d (<45d)
+- cards → whois.nic.cards (dead 17d, ×4) — dead only 17d (<45d)
+- care → whois.nic.care (dead 17d, ×4) — dead only 17d (<45d)
+- careers → whois.nic.careers (dead 17d, ×4) — dead only 17d (<45d)
+- cash → whois.nic.cash (dead 17d, ×4) — dead only 17d (<45d)
+- casino → whois.nic.casino (dead 17d, ×4) — dead only 17d (<45d)
+- catering → whois.nic.catering (dead 17d, ×4) — dead only 17d (<45d)
+- center → whois.nic.center (dead 17d, ×4) — dead only 17d (<45d)
+- chat → whois.nic.chat (dead 17d, ×4) — dead only 17d (<45d)
+- cheap → whois.nic.cheap (dead 17d, ×4) — dead only 17d (<45d)
+- church → whois.nic.church (dead 17d, ×4) — dead only 17d (<45d)
+- circle → whois.nic.circle (dead 17d, ×4) — dead only 17d (<45d)
+- city → whois.nic.city (dead 17d, ×4) — dead only 17d (<45d)
+- claims → whois.nic.claims (dead 17d, ×4) — dead only 17d (<45d)
+- cleaning → whois.nic.cleaning (dead 17d, ×4) — dead only 17d (<45d)
+- clinic → whois.nic.clinic (dead 17d, ×4) — dead only 17d (<45d)
+- clothing → whois.nic.clothing (dead 17d, ×4) — dead only 17d (<45d)
+- coach → whois.nic.coach (dead 17d, ×4) — dead only 17d (<45d)
+- codes → whois.nic.codes (dead 17d, ×4) — dead only 17d (<45d)
+- coffee → whois.nic.coffee (dead 17d, ×4) — dead only 17d (<45d)
+- community → whois.nic.community (dead 17d, ×4) — dead only 17d (<45d)
+- company → whois.nic.company (dead 17d, ×4) — dead only 17d (<45d)
+- computer → whois.nic.computer (dead 17d, ×4) — dead only 17d (<45d)
+- condos → whois.nic.condos (dead 17d, ×4) — dead only 17d (<45d)
+- construction → whois.nic.construction (dead 17d, ×4) — dead only 17d (<45d)
+- consulting → whois.nic.consulting (dead 17d, ×4) — dead only 17d (<45d)
+- contact → whois.nic.contact (dead 17d, ×4) — dead only 17d (<45d)
+- …and 276 more (see decisions.json)
 
-## Unhealthy routes (247)
+## Unhealthy routes (248)
 
 Routes pointing at servers that answered oddly (suspect/error) or with an error page instead of a record (refused) — worth a look:
 
@@ -166,35 +165,70 @@ Routes pointing at servers that answered oddly (suspect/error) or with an error 
 - catering → whois.nic.catering [refused] — error page: TLD is not supported.
 - center → whois.nic.center [refused] — error page: TLD is not supported.
 
-## Throttling seen (3)
+## Throttling seen (12)
 
 Servers that throttled a probe, the runs they did it in, and the limit the library applied (`published` = from data/limits.json):
 
-- whois.nic.ch (whois) ×2, last 2026-11-25 — 1 in flight, 1000 ms apart, published
-- whois.nic.li (whois) ×2, last 2026-11-25 — 1 in flight, 1000 ms apart, published
-- rdap.gmoregistry.net (rdap) ×1, last 2026-11-25 — 2 in flight, 250 ms apart
+- whois.nic.ch (whois) ×3, last 2026-11-27 — 1 in flight, 1000 ms apart, published
+- whois.nic.li (whois) ×3, last 2026-11-27 — 1 in flight, 1000 ms apart, published
+- whois.meshdigital.com (whois) ×2, last 2026-11-27 — 2 in flight, 250 ms apart
+- rdap.gmoregistry.net (rdap) ×2, last 2026-11-27 — 2 in flight, 250 ms apart
+- easydns.rdap.tucows.com (rdap) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
+- rdap.gocanadadomains.com (rdap) ×2, last 2026-11-27 — 2 in flight, 250 ms apart
+- rdap.gomontenegrodomains.com (rdap) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
+- whois.bluerazor.com (whois) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
+- whois.wildwestdomains.com (whois) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
+- rdap.123-reg.co.uk (rdap) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
+- rdap.gofrancedomains.com (rdap) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
+- whois.goaustraliadomains.com (whois) ×1, last 2026-11-27 — 2 in flight, 250 ms apart
 
 ## Parser regression
 
-1397 fixtures, 100.0% parse clean; 0 top-100 regression(s).
+1400 fixtures, 100.0% parse clean; 0 top-100 regression(s).
 
 ## Oracle cross-check
 
-- corpus: 2881 response(s) vs whoiser+likexian+weppos — 241 we-missing, 303 value-mismatch, 836 we-extra (419 groups)
-- live sample: 19 response(s) vs whoiser+likexian+weppos+rdap — 19 we-missing, 5 value-mismatch, 2 we-extra (26 groups)
+- corpus: 2884 response(s) vs whoiser+likexian+weppos — 241 we-missing, 306 value-mismatch, 838 we-extra (424 groups)
+- live sample: 13 response(s) vs whoiser+likexian+weppos+rdap — 8 we-missing, 0 value-mismatch, 1 we-extra (9 groups)
 
-_No new divergence groups — all current differences previously reviewed._
+New divergence groups since last review (5):
+- whois.aitdomains.com|expiration_date|we-extra
+- whois.french-connexion.com|creation_date|value-mismatch
+- whois.french-connexion.com|dnssec|we-extra
+- whois.french-connexion.com|expiration_date|value-mismatch
+- whois.french-connexion.com|updated_date|value-mismatch
 
 ## Community server-list diff
 
-- debian/whois: 1421 TLDs — 131 missing-tld, 69 server-disagrees, 27 we-only
-- weppos/whois: 1320 TLDs — 204 missing-tld, 218 server-disagrees, 201 we-only
+- debian/whois: 1421 TLDs — 133 missing-tld, 68 server-disagrees, 28 we-only
+- weppos/whois: 1320 TLDs — 205 missing-tld, 218 server-disagrees, 201 we-only
 
 Probe-verified additions to the discovered layer (2):
 - **za** → whois.nic.za
-- **com.se** → whois.centralnic.com
+- **doosan** → whois.nic.xn--cg4bki
 
-New divergences since last review (2):
-- debian/whois|missing-tld|zara
-- weppos/whois|missing-tld|zara
+New divergences since last review (4):
+- debian/whois|missing-tld|ggee
+- debian/whois|missing-tld|pioneer
+- weppos/whois|missing-tld|ggee
+- weppos/whois|missing-tld|pioneer
+
+## Registrars
+
+3323 accredited registrars (registry-health/registrars.json): 3320 with an RDAP base, 2383 with a known WHOIS server, 2383 both, 3 neither.
+
+- Healthy: 3235 by RDAP, 2274 by WHOIS, 3247 by either
+- RDAP bases (475): 391 healthy, 53 suspect, 31 dead-candidate
+- WHOIS servers (280): 178 healthy, 77 dead-candidate, 16 notfound-fp, 5 suspect, 3 refused, 1 throttled
+- Parsed: 172 of the 172 WHOIS servers that answered with a record (2268 of 2268 registrars) gave at least 7 of the record's core fields
+- Probed in 210s
+
+Answered with a notice instead of a record (6), worth a notfound, throttle or refusal pattern:
+
+- grs-whois.aliyun.com: `Allow only queries : com,net,cc,tv`
+- rdap.routing.net: `Query Limit reached`
+- whois.global-village.de: `For thick registries use the web whois http://whois.global-village.de`
+- whois.infomaniak.com: `There is no match for this domain name.`
+- whois.register.eu: `RESTRICTED - ICANN prohohibited domain name.`
+- whois.xtom.com: `NOTICE: In accordance with ICANN compliance policies, our whois server has been discontinued. Please use the RDAP protoc`
 

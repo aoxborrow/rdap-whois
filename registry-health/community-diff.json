@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T22:00:32.164Z",
-  "ourTlds": 1509,
+  "generatedAt": "2026-11-27T10:47:10.379Z",
+  "ourTlds": 1510,
   "perSource": {
     "debian/whois": {
       "tlds": 1421,
@@ -211,6 +211,11 @@
           "ourEntry": "null"
         },
         {
+          "tld": "ggee",
+          "server": "whois.nic.ggee",
+          "ourEntry": "null"
+        },
+        {
           "tld": "gle",
           "server": "whois.nic.gle",
           "ourEntry": "null"
@@ -408,6 +413,11 @@
         {
           "tld": "pin",
           "server": "whois.nic.pin",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pioneer",
+          "server": "whois.nic.pioneer",
           "ourEntry": "null"
         },
         {
@@ -848,11 +858,6 @@
           "theirs": "whois.nic.pid"
         },
         {
-          "tld": "pioneer",
-          "ours": "whois.nic.gmo",
-          "theirs": "whois.nic.pioneer"
-        },
-        {
           "tld": "pr",
           "ours": "whois.identitydigital.services",
           "theirs": "whois.nic.pr"
@@ -1017,6 +1022,7 @@
         "cf",
         "co.com",
         "com.de",
+        "com.se",
         "dunlop",
         "es",
         "goo",
@@ -1222,11 +1228,6 @@
           "ourEntry": "absent"
         },
         {
-          "tld": "com.se",
-          "server": "whois.centralnic.com",
-          "ourEntry": "absent"
-        },
-        {
           "tld": "comcast",
           "server": "whois.nic.comcast",
           "ourEntry": "absent"
@@ -1390,6 +1391,11 @@
           "tld": "geometre-expert.fr",
           "server": "whois.smallregistry.net",
           "ourEntry": "absent"
+        },
+        {
+          "tld": "ggee",
+          "server": "whois.nic.ggee",
+          "ourEntry": "null"
         },
         {
           "tld": "glade",
@@ -1719,6 +1725,11 @@
         {
           "tld": "pin",
           "server": "whois.nic.pin",
+          "ourEntry": "null"
+        },
+        {
+          "tld": "pioneer",
+          "server": "whois.nic.gmo",
           "ourEntry": "null"
         },
         {
@@ -3451,6 +3462,11 @@
       "ourEntry": "null"
     },
     {
+      "tld": "ggee",
+      "server": "whois.nic.ggee",
+      "ourEntry": "null"
+    },
+    {
       "tld": "google",
       "server": "whois.nic.google",
       "ourEntry": "null"
@@ -3682,8 +3698,10 @@
     }
   ],
   "newDivergences": [
-    "debian/whois|missing-tld|zara",
-    "weppos/whois|missing-tld|zara"
+    "debian/whois|missing-tld|ggee",
+    "debian/whois|missing-tld|pioneer",
+    "weppos/whois|missing-tld|ggee",
+    "weppos/whois|missing-tld|pioneer"
   ],
   "probes": [
     {
@@ -3750,9 +3768,9 @@
         "weppos/whois"
       ],
       "bucket": "missing-tld",
-      "classification": "refused",
+      "classification": "dead-candidate",
       "adopted": false,
-      "detail": "error page: TLD is not supported."
+      "detail": "Timed out waiting for the proxy to connect to whois.afilias-srs.net:43"
     },
     {
       "tld": "alfaromeo",
@@ -3887,16 +3905,6 @@
       "detail": "Could not connect to whois.nic.cityeats:43: host unreachable"
     },
     {
-      "tld": "com.se",
-      "host": "whois.centralnic.com",
-      "sources": [
-        "weppos/whois"
-      ],
-      "bucket": "missing-tld",
-      "classification": "healthy",
-      "adopted": true
-    },
-    {
       "tld": "comcast",
       "host": "whois.nic.comcast",
       "sources": [
@@ -3941,6 +3949,17 @@
       "detail": "error page: TLD is not supported."
     },
     {
+      "tld": "doosan",
+      "host": "whois.nic.xn--cg4bki",
+      "sources": [
+        "weppos/whois"
+      ],
+      "bucket": "missing-tld",
+      "classification": "notfound-fp",
+      "adopted": true,
+      "detail": "notfound: nic.doosan"
+    },
+    {
       "tld": "ieee",
       "host": "whois.nic.ieee",
       "sources": [
@@ -3964,6 +3983,6 @@
   ],
   "adopted": {
     "za": "whois.nic.za",
-    "com.se": "whois.centralnic.com"
+    "doosan": "whois.nic.xn--cg4bki"
   }
 }

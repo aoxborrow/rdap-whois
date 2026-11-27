@@ -1,11 +1,11 @@
 {
   "source": "https://data.iana.org/TLD/tlds-alpha-by-domain.txt",
-  "sweptAt": "2026-11-25T22:00:31.009Z",
-  "elapsedSeconds": 411,
+  "sweptAt": "2026-11-27T10:47:09.282Z",
+  "elapsedSeconds": 476,
   "totals": {
     "tlds": 1435,
-    "withWhois": 867,
-    "withoutWhois": 568,
+    "withWhois": 843,
+    "withoutWhois": 592,
     "failed": 0,
     "carriedForward": 0
   },
@@ -772,7 +772,7 @@
       "status": "ACTIVE"
     },
     "canon": {
-      "server": "whois.nic.canon",
+      "server": null,
       "status": "ACTIVE"
     },
     "capetown": {
@@ -1220,7 +1220,7 @@
       "status": "ACTIVE"
     },
     "datsun": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "day": {
@@ -1348,7 +1348,7 @@
       "status": "ACTIVE"
     },
     "dnp": {
-      "server": "whois.nic.dnp",
+      "server": null,
       "status": "ACTIVE"
     },
     "do": {
@@ -1932,7 +1932,7 @@
       "status": "ACTIVE"
     },
     "gmo": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "gmx": {
@@ -1952,7 +1952,7 @@
       "status": "ACTIVE"
     },
     "goldpoint": {
-      "server": "whois.nic.goldpoint",
+      "server": null,
       "status": "ACTIVE"
     },
     "golf": {
@@ -2120,7 +2120,7 @@
       "status": "ACTIVE"
     },
     "hitachi": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "hiv": {
@@ -2312,7 +2312,7 @@
       "status": "ACTIVE"
     },
     "infiniti": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "info": {
@@ -2412,7 +2412,7 @@
       "status": "ACTIVE"
     },
     "jcb": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "je": {
@@ -2492,7 +2492,7 @@
       "status": "ACTIVE"
     },
     "kddi": {
-      "server": "whois.nic.kddi",
+      "server": null,
       "status": "ACTIVE"
     },
     "ke": {
@@ -2604,7 +2604,7 @@
       "status": "ACTIVE"
     },
     "kyoto": {
-      "server": "whois.nic.kyoto",
+      "server": null,
       "status": "ACTIVE"
     },
     "kz": {
@@ -2796,7 +2796,7 @@
       "status": "ACTIVE"
     },
     "lotte": {
-      "server": "whois.nic.lotte",
+      "server": null,
       "status": "ACTIVE"
     },
     "lotto": {
@@ -3184,7 +3184,7 @@
       "status": "ACTIVE"
     },
     "nagoya": {
-      "server": "whois.nic.nagoya",
+      "server": null,
       "status": "ACTIVE"
     },
     "name": {
@@ -3268,7 +3268,7 @@
       "status": "ACTIVE"
     },
     "nhk": {
-      "server": "whois.nic.nhk",
+      "server": null,
       "status": "ACTIVE"
     },
     "ni": {
@@ -3276,7 +3276,7 @@
       "status": "ACTIVE"
     },
     "nico": {
-      "server": "whois.nic.nico",
+      "server": null,
       "status": "ACTIVE"
     },
     "nike": {
@@ -3292,7 +3292,7 @@
       "status": "ACTIVE"
     },
     "nissan": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "nissay": {
@@ -3372,7 +3372,7 @@
       "status": "ACTIVE"
     },
     "okinawa": {
-      "server": "whois.nic.okinawa",
+      "server": null,
       "status": "ACTIVE"
     },
     "olayan": {
@@ -3444,7 +3444,7 @@
       "status": "ACTIVE"
     },
     "otsuka": {
-      "server": "whois.nic.otsuka",
+      "server": null,
       "status": "ACTIVE"
     },
     "ott": {
@@ -3928,7 +3928,7 @@
       "status": "ACTIVE"
     },
     "ryukyu": {
-      "server": "whois.nic.ryukyu",
+      "server": null,
       "status": "ACTIVE"
     },
     "sa": {
@@ -4144,7 +4144,7 @@
       "status": "ACTIVE"
     },
     "shop": {
-      "server": "whois.nic.shop",
+      "server": null,
       "status": "ACTIVE"
     },
     "shopping": {
@@ -4392,7 +4392,7 @@
       "status": "ACTIVE"
     },
     "suzuki": {
-      "server": "whois.nic.suzuki",
+      "server": null,
       "status": "ACTIVE"
     },
     "sv": {
@@ -4604,7 +4604,7 @@
       "status": "ACTIVE"
     },
     "tokyo": {
-      "server": "whois.nic.tokyo",
+      "server": null,
       "status": "ACTIVE"
     },
     "tools": {
@@ -4620,7 +4620,7 @@
       "status": "ACTIVE"
     },
     "toshiba": {
-      "server": "whois.nic.toshiba",
+      "server": null,
       "status": "ACTIVE"
     },
     "total": {
@@ -5688,7 +5688,7 @@
       "status": "ACTIVE"
     },
     "yodobashi": {
-      "server": "whois.nic.gmo",
+      "server": null,
       "status": "ACTIVE"
     },
     "yoga": {
@@ -5696,7 +5696,7 @@
       "status": "ACTIVE"
     },
     "yokohama": {
-      "server": "whois.nic.yokohama",
+      "server": null,
       "status": "ACTIVE"
     },
     "you": {

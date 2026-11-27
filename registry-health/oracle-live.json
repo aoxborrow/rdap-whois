@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T22:06:56.855Z",
+  "generatedAt": "2026-11-27T10:55:37.960Z",
   "mode": "live",
   "oracles": [
     "whoiser",
@@ -7,73 +7,69 @@
     "weppos",
     "rdap"
   ],
-  "compared": 19,
+  "compared": 13,
   "oracleStats": {
     "whoiser": {
-      "parsed": 19,
+      "parsed": 13,
       "errors": 0,
       "notFound": 0
     },
     "likexian": {
-      "parsed": 19,
+      "parsed": 13,
       "errors": 0,
       "notFound": 0
     },
     "weppos": {
-      "parsed": 19,
+      "parsed": 13,
       "errors": 0,
       "notFound": 0
     },
     "rdap": {
-      "parsed": 16,
+      "parsed": 9,
       "errors": 0,
       "notFound": 0
     }
   },
   "buckets": {
-    "we-missing": 19,
-    "value-mismatch": 5,
-    "we-extra": 2
+    "we-missing": 8,
+    "value-mismatch": 0,
+    "we-extra": 1
   },
-  "groups": 26,
+  "groups": 9,
   "byKey": {
-    "whois.nic.ar|registrant_name|value-mismatch": {
+    "whois.nic.cz|admin_name|we-extra": {
       "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser"
-      ],
+      "maxAgree": 0,
+      "oracles": [],
       "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "ngfederal.ar",
-          "ours": "norberto eduardo vecchietti",
-          "votes": {
-            "whoiser": "20290212821"
-          }
+          "query": "uoou.cz",
+          "ours": "zdeněk hach",
+          "votes": {}
         }
       ]
     },
-    "whois.nic.ar|registrant_org|we-missing": {
+    "whois.nic.cz|registrar_id|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
-        "likexian"
+        "weppos"
       ],
       "top100": true,
       "top100Strong": false,
       "samples": [
         {
-          "query": "ngfederal.ar",
+          "query": "uoou.cz",
           "ours": null,
           "votes": {
-            "likexian": "20290212821"
+            "weppos": "REG-WEBGLOBE"
           }
         }
       ]
     },
-    "whois.nic.ar|status|we-missing": {
+    "whois.nic.cz|status|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -83,7 +79,7 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "ngfederal.ar",
+          "query": "uoou.cz",
           "ours": null,
           "votes": {
             "rdap": [
@@ -93,7 +89,7 @@
         }
       ]
     },
-    "whois.nic.boats|registrant_email|we-missing": {
+    "whois.nic.hair|registrant_email|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -103,15 +99,15 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "gtrsoft.boats",
+          "query": "lordyx.hair",
           "ours": null,
           "votes": {
-            "rdap": "db0ec424a3a241eea8eb3cdbdc050940.protect@withheldforprivacy.com"
+            "rdap": "0e09ce3da3cc45448d15392d3311460b.protect@withheldforprivacy.com"
           }
         }
       ]
     },
-    "whois.nic.boats|registrant_name|we-missing": {
+    "whois.nic.hair|registrant_name|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -121,7 +117,7 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "gtrsoft.boats",
+          "query": "lordyx.hair",
           "ours": null,
           "votes": {
             "rdap": "privacy service provided by withheld for privacy llc"
@@ -129,151 +125,7 @@
         }
       ]
     },
-    "whois.nic.cam|registrant_email|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "slot777jp2.cam",
-          "ours": null,
-          "votes": {
-            "rdap": "c831fa6512f54310b8e31fba3c3a8621.protect@withheldforprivacy.com"
-          }
-        }
-      ]
-    },
-    "whois.nic.cam|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "slot777jp2.cam",
-          "ours": null,
-          "votes": {
-            "rdap": "privacy service provided by withheld for privacy llc"
-          }
-        }
-      ]
-    },
-    "whois.nic.hosting|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "taenzer.hosting",
-          "ours": null,
-          "votes": {
-            "rdap": "tänzermedien gmbh"
-          }
-        }
-      ]
-    },
-    "whois.nic.monster|registrant_email|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "beamyorosia.monster",
-          "ours": null,
-          "votes": {
-            "rdap": "beamyorosia.monster@fablovkawhoisprotection.com"
-          }
-        }
-      ]
-    },
-    "whois.nic.monster|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "beamyorosia.monster",
-          "ours": null,
-          "votes": {
-            "rdap": "whois protection, this company does not own this domain name s.r.o."
-          }
-        }
-      ]
-    },
-    "whois.nic.yachts|registrant_email|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "5kdg789.yachts",
-          "ours": null,
-          "votes": {
-            "rdap": "pwp-c0ae01b8dd3308bdce84a188994002ab@privacyguardian.org"
-          }
-        }
-      ]
-    },
-    "whois.nic.yachts|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "5kdg789.yachts",
-          "ours": null,
-          "votes": {
-            "rdap": "privacy user #293bcac5"
-          }
-        }
-      ]
-    },
-    "whois.nic.yachts|registrant_org|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "rdap"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "5kdg789.yachts",
-          "ours": null,
-          "votes": {
-            "rdap": "see privacyguardian.org"
-          }
-        }
-      ]
-    },
-    "whois.nixiregistry.in|registrant_name|we-missing": {
+    "whois.nic.uk|registrant_email|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -283,51 +135,15 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "apnaongc.in",
+          "query": "dale-law.co.uk",
           "ours": null,
           "votes": {
-            "rdap": "ongc"
+            "rdap": "redacted@nominet.uk"
           }
         }
       ]
     },
-    "whois.register.si|registrant_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "whoiser"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "geo-zs.si",
-          "ours": null,
-          "votes": {
-            "whoiser": "g38142"
-          }
-        }
-      ]
-    },
-    "whois.register.si|registrant_org|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": false,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "geo-zs.si",
-          "ours": null,
-          "votes": {
-            "likexian": "g38142"
-          }
-        }
-      ]
-    },
-    "whois.register.si|updated_date|we-missing": {
+    "whois.y.net.ye|creation_date|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
@@ -337,195 +153,48 @@
       "top100Strong": false,
       "samples": [
         {
-          "query": "geo-zs.si",
+          "query": "alfaresgroup.com.ye",
           "ours": null,
           "votes": {
-            "rdap": "2026-05-07T00:00:00Z"
+            "rdap": "2000-01-01T00:00:00Z"
           }
         }
       ]
     },
-    "whois.ua|creation_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 3,
-      "oracles": [
-        "whoiser",
-        "likexian",
-        "weppos",
-        "rdap"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": "2009-07-15T23:55:31Z",
-          "votes": {
-            "whoiser": "2009-07-15 23:55:31+03",
-            "likexian": "2009-07-15T20:55:31Z",
-            "weppos": "2009-07-15T20:55:31Z",
-            "rdap": "2009-07-15T20:55:31Z"
-          }
-        }
-      ]
-    },
-    "whois.ua|expiration_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 3,
-      "oracles": [
-        "whoiser",
-        "likexian",
-        "weppos",
-        "rdap"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": "2027-07-15T23:55:30Z",
-          "votes": {
-            "whoiser": "2027-07-15 23:55:30+03",
-            "likexian": "2027-07-15T20:55:30Z",
-            "weppos": "2027-07-15T20:55:30Z",
-            "rdap": "2027-07-15T20:55:30Z"
-          }
-        }
-      ]
-    },
-    "whois.ua|registrar_abuse_email|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": "abuse@ukrnames.com",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.ua|registrar_abuse_phone|we-extra": {
-      "count": 1,
-      "maxAgree": 0,
-      "oracles": [],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": "+380.577626123",
-          "votes": {}
-        }
-      ]
-    },
-    "whois.ua|registrar_id|we-missing": {
+    "whois.y.net.ye|expiration_date|we-missing": {
       "count": 1,
       "maxAgree": 1,
       "oracles": [
-        "whoiser"
+        "rdap"
       ],
-      "top100": true,
+      "top100": false,
       "top100Strong": false,
       "samples": [
         {
-          "query": "privacy.com.ua",
+          "query": "alfaresgroup.com.ye",
           "ours": null,
           "votes": {
-            "whoiser": "ua.ukrnames"
+            "rdap": "2040-12-31T23:59:59Z"
           }
         }
       ]
     },
-    "whois.ua|status|value-mismatch": {
+    "whois.y.net.ye|status|we-missing": {
       "count": 1,
-      "maxAgree": 3,
+      "maxAgree": 1,
       "oracles": [
-        "whoiser",
-        "likexian",
         "rdap"
       ],
-      "top100": true,
-      "top100Strong": true,
+      "top100": false,
+      "top100Strong": false,
       "samples": [
         {
-          "query": "privacy.com.ua",
-          "ours": [
-            "linked",
-            "ok"
-          ],
+          "query": "alfaresgroup.com.ye",
+          "ours": null,
           "votes": {
-            "whoiser": [
-              "ok"
-            ],
-            "likexian": [
-              "ok"
-            ],
             "rdap": [
               "ok"
             ]
-          }
-        }
-      ]
-    },
-    "whois.ua|tech_email|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": null,
-          "votes": {
-            "likexian": "not published"
-          }
-        }
-      ]
-    },
-    "whois.ua|tech_name|we-missing": {
-      "count": 1,
-      "maxAgree": 1,
-      "oracles": [
-        "likexian"
-      ],
-      "top100": true,
-      "top100Strong": false,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": null,
-          "votes": {
-            "likexian": "not published"
-          }
-        }
-      ]
-    },
-    "whois.ua|updated_date|value-mismatch": {
-      "count": 1,
-      "maxAgree": 3,
-      "oracles": [
-        "whoiser",
-        "likexian",
-        "weppos",
-        "rdap"
-      ],
-      "top100": true,
-      "top100Strong": true,
-      "samples": [
-        {
-          "query": "privacy.com.ua",
-          "ours": "2026-08-14T23:58:02Z",
-          "votes": {
-            "whoiser": "2026-08-14 23:58:02+03",
-            "likexian": "2026-08-14T20:58:02Z",
-            "weppos": "2026-08-14T20:58:02Z",
-            "rdap": "2026-08-14T20:58:02Z"
           }
         }
       ]

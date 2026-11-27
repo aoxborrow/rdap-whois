@@ -1,318 +1,298 @@
 {
   "phaseout": [
     {
-      "tld": "ggee",
-      "server": "whois.nic.ggee",
-      "consecutiveFailures": 4,
-      "deadDays": 86
-    },
-    {
-      "tld": "pioneer",
-      "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86
+      "tld": "fj",
+      "server": "www.whois.fj",
+      "consecutiveFailures": 6,
+      "deadDays": 119
     }
   ],
   "moatOutages": [
     {
       "tld": "ac.za",
       "server": "whois.ac.za",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.ac.za:43: host unreachable"
     },
     {
       "tld": "af",
       "server": "whois.nic.af",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
+      "consecutiveFailures": 4,
+      "deadDays": 17,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.af:43"
     },
     {
       "tld": "alt.za",
       "server": "whois.alt.za",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.alt.za:43: host unreachable"
     },
     {
       "tld": "bentley",
       "server": "whois.nic.bentley",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.nic.bentley:43: host unreachable"
-    },
-    {
-      "tld": "bw",
-      "server": "whois.nic.net.bw",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "detail": "Could not connect to whois.nic.net.bw:43: host unreachable"
     },
     {
       "tld": "cf",
       "server": "whois.dot.cf",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.dot.cf:43: host unreachable"
     },
     {
       "tld": "dunlop",
       "server": "whois.nic.dunlop",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.nic.dunlop:43: host unreachable"
     },
     {
       "tld": "edu.cn",
       "server": "whois.edu.cn",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.edu.cn:43: host unreachable"
     },
     {
       "tld": "edu.ru",
       "server": "whois.informika.ru",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.informika.ru:43"
     },
     {
       "tld": "es",
       "server": "whois.nic.es",
-      "consecutiveFailures": 6,
-      "deadDays": 121,
+      "consecutiveFailures": 7,
+      "deadDays": 122,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.es:43"
     },
     {
       "tld": "eu.org",
       "server": "whois.eu.org",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.eu.org:43"
     },
     {
       "tld": "goo",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.gmo:43"
     },
     {
       "tld": "gov.za",
       "server": "whois.gov.za",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "detail": "Timed out waiting for the proxy to connect to whois.gov.za:43"
     },
     {
       "tld": "gp",
       "server": "whois.nic.gp",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.gp:43"
     },
     {
       "tld": "helsinki",
       "server": "whois.nic.helsinki",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "detail": "Could not connect to whois.nic.helsinki:43: host unreachable"
     },
     {
       "tld": "hm",
       "server": "whois.registry.hm",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.registry.hm:43: host unreachable"
     },
     {
       "tld": "iq",
       "server": "whois.cmc.iq",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.cmc.iq:43: host unreachable"
     },
     {
       "tld": "juniper",
       "server": "whois.nic.juniper",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "detail": "Could not connect to whois.nic.juniper:43: host unreachable"
     },
     {
       "tld": "ki",
       "server": "whois.nic.ki",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
+      "consecutiveFailures": 4,
+      "deadDays": 17,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.ki:43"
     },
     {
       "tld": "lancaster",
       "server": "whois.nic.lancaster",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.nic.lancaster:43: host unreachable"
     },
     {
       "tld": "lk",
       "server": "whois.nic.lk",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.lk:43"
     },
     {
       "tld": "ma",
       "server": "whois.registre.ma",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
+      "consecutiveFailures": 4,
+      "deadDays": 17,
       "detail": "Timed out waiting for the proxy to connect to whois.registre.ma:43"
     },
     {
       "tld": "mt",
       "server": "whois.nic.org.mt",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
-      "detail": "Could not connect to whois.nic.org.mt:43: host unreachable"
-    },
-    {
-      "tld": "mw",
-      "server": "whois.nic.mw",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "detail": "Timed out waiting for the proxy to connect to whois.nic.mw:43"
+      "consecutiveFailures": 11,
+      "deadDays": 136,
+      "detail": "Timed out waiting for the proxy to connect to whois.nic.org.mt:43"
     },
     {
       "tld": "pf",
       "server": "whois.registry.pf",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.registry.pf:43"
     },
     {
       "tld": "ps",
       "server": "whois.pnina.ps",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.pnina.ps:43: host unreachable"
     },
     {
       "tld": "redstone",
       "server": "whois.nic.redstone",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.nic.redstone:43: host unreachable"
     },
     {
       "tld": "sb",
       "server": "whois.nic.net.sb",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
+      "consecutiveFailures": 4,
+      "deadDays": 17,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.net.sb:43"
     },
     {
       "tld": "sy",
       "server": "whois.tld.sy",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "detail": "Could not connect to whois.tld.sy:43: host unreachable"
     },
     {
       "tld": "tk",
       "server": "whois.dot.tk",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.dot.tk:43"
     },
     {
       "tld": "tl",
       "server": "whois.nic.tl",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
+      "consecutiveFailures": 4,
+      "deadDays": 17,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.tl:43"
     },
     {
       "tld": "uk.co",
       "server": "whois.uk.co",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.uk.co:43: host unreachable"
     },
     {
       "tld": "uy",
       "server": "whois.nic.org.uy",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.org.uy:43"
     },
     {
       "tld": "wolterskluwer",
       "server": "whois.nic.wolterskluwer",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.nic.wolterskluwer:43: host unreachable"
     },
     {
       "tld": "xn--fzc2c9e2c",
       "server": "whois.nic.lk",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.lk:43"
     },
     {
       "tld": "xn--l1acc",
       "server": "whois.mn",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.mn:43"
     },
     {
       "tld": "xn--mgbtx2b",
       "server": "whois.cmc.iq",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.cmc.iq:43: host unreachable"
     },
     {
       "tld": "xn--ogbpf8fl",
       "server": "whois.tld.sy",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "detail": "Could not connect to whois.tld.sy:43: host unreachable"
     },
     {
       "tld": "xn--wgbh1c",
       "server": "whois.dotmasr.eg",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.dotmasr.eg:43: host unreachable"
     },
     {
       "tld": "xn--xkc2al3hye2a",
       "server": "whois.nic.lk",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.lk:43"
     },
     {
       "tld": "xn--ygbi2ammx",
       "server": "whois.pnina.ps",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.pnina.ps:43: host unreachable"
     },
     {
       "tld": "za.net",
       "server": "whois.za.net",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.za.net:43: host unreachable"
     },
     {
       "tld": "za.org",
       "server": "whois.za.org",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "detail": "Could not connect to whois.za.org:43: host unreachable"
     }
   ],
@@ -320,2370 +300,2391 @@
     {
       "tld": "jo",
       "server": "whois.nic.net.jo",
-      "consecutiveFailures": 1,
-      "deadDays": 0,
+      "consecutiveFailures": 2,
+      "deadDays": 1,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.net.jo:43"
+    },
+    {
+      "tld": "nc",
+      "server": "whois.nc",
+      "consecutiveFailures": 1,
+      "deadDays": 1,
+      "detail": "Timed out waiting for the proxy to connect to whois.nc:43"
     },
     {
       "tld": "pt",
       "server": "whois.dns.pt",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
+      "consecutiveFailures": 3,
+      "deadDays": 10,
       "detail": "Timed out waiting for the proxy to connect to whois.dns.pt:43"
     },
     {
       "tld": "so",
       "server": "whois.nic.so",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
+      "consecutiveFailures": 3,
+      "deadDays": 10,
       "detail": "Timed out waiting for the proxy to connect to whois.nic.so:43"
+    },
+    {
+      "tld": "ws",
+      "server": "whois.website.ws",
+      "consecutiveFailures": 1,
+      "deadDays": 1,
+      "detail": "Timed out waiting for the proxy to connect to whois.website.ws:43"
     }
   ],
   "candidates": [
     {
+      "tld": "abudhabi",
+      "server": "whois.nic.abudhabi",
+      "consecutiveFailures": 1,
+      "deadDays": 1,
+      "reason": "dead only 1d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
+    },
+    {
       "tld": "academy",
       "server": "whois.nic.academy",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "accountants",
       "server": "whois.nic.accountants",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "actor",
       "server": "whois.nic.actor",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "agency",
       "server": "whois.nic.agency",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "airforce",
       "server": "whois.nic.airforce",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "apartments",
       "server": "whois.nic.apartments",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "archi",
       "server": "whois.nic.archi",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "army",
       "server": "whois.nic.army",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "as",
       "server": "whois.nic.as",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "reason": "IANA still lists a whois server"
     },
     {
       "tld": "associates",
       "server": "whois.nic.associates",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "attorney",
       "server": "whois.nic.attorney",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "auction",
       "server": "whois.nic.auction",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "band",
       "server": "whois.nic.band",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "bargains",
       "server": "whois.nic.bargains",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "bbc",
       "server": "whois.nic.bbc",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "reason": "IANA still lists a whois server"
     },
     {
       "tld": "bet",
       "server": "whois.nic.bet",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "bike",
       "server": "whois.nic.bike",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "bingo",
       "server": "whois.nic.bingo",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "bio",
       "server": "whois.nic.bio",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "black",
       "server": "whois.nic.black",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "blue",
       "server": "whois.nic.blue",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "boutique",
       "server": "whois.nic.boutique",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "bridgestone",
       "server": "whois.nic.bridgestone",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "broker",
       "server": "whois.nic.broker",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "brother",
       "server": "whois.nic.brother",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "builders",
       "server": "whois.nic.builders",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "business",
       "server": "whois.nic.business",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cab",
       "server": "whois.nic.cab",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cafe",
       "server": "whois.nic.cafe",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "camera",
       "server": "whois.nic.camera",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "camp",
       "server": "whois.nic.camp",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "canon",
       "server": "whois.nic.canon",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "capital",
       "server": "whois.nic.capital",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cards",
       "server": "whois.nic.cards",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "care",
       "server": "whois.nic.care",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "careers",
       "server": "whois.nic.careers",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cash",
       "server": "whois.nic.cash",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "casino",
       "server": "whois.nic.casino",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "catering",
       "server": "whois.nic.catering",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "center",
       "server": "whois.nic.center",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "chat",
       "server": "whois.nic.chat",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cheap",
       "server": "whois.nic.cheap",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "church",
       "server": "whois.nic.church",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "circle",
       "server": "whois.nic.circle",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "city",
       "server": "whois.nic.city",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "claims",
       "server": "whois.nic.claims",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cleaning",
       "server": "whois.nic.cleaning",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "clinic",
       "server": "whois.nic.clinic",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "clothing",
       "server": "whois.nic.clothing",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "coach",
       "server": "whois.nic.coach",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "codes",
       "server": "whois.nic.codes",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "coffee",
       "server": "whois.nic.coffee",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "community",
       "server": "whois.nic.community",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "company",
       "server": "whois.nic.company",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "computer",
       "server": "whois.nic.computer",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "condos",
       "server": "whois.nic.condos",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "construction",
       "server": "whois.nic.construction",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "consulting",
       "server": "whois.nic.consulting",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "contact",
       "server": "whois.nic.contact",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "contractors",
       "server": "whois.nic.contractors",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cool",
       "server": "whois.nic.cool",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "coupons",
       "server": "whois.nic.coupons",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "credit",
       "server": "whois.nic.credit",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "creditcard",
       "server": "whois.nic.creditcard",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cruises",
       "server": "whois.nic.cruises",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "cv",
       "server": "whois.nic.cv",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "RDAP listed but unhealthy"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "IANA still lists a whois server"
     },
     {
       "tld": "cx",
       "server": "whois.nic.cx",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4); IANA still lists a whois server"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d); IANA still lists a whois server"
     },
     {
       "tld": "dance",
       "server": "whois.nic.dance",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "dating",
       "server": "whois.nic.dating",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "datsun",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "deals",
       "server": "whois.nic.deals",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "degree",
       "server": "whois.nic.degree",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "delivery",
       "server": "whois.nic.delivery",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "democrat",
       "server": "whois.nic.democrat",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "dental",
       "server": "whois.nic.dental",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "dentist",
       "server": "whois.nic.dentist",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "diamonds",
       "server": "whois.nic.diamonds",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "digital",
       "server": "whois.nic.digital",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "direct",
       "server": "whois.nic.direct",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "directory",
       "server": "whois.nic.directory",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "discount",
       "server": "whois.nic.discount",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "dnp",
       "server": "whois.nic.dnp",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "doctor",
       "server": "whois.nic.doctor",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "dog",
       "server": "whois.nic.dog",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "domains",
       "server": "whois.nic.domains",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
+    },
+    {
+      "tld": "dubai",
+      "server": "whois.nic.dubai",
+      "consecutiveFailures": 1,
+      "deadDays": 1,
+      "reason": "dead only 1d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
     },
     {
       "tld": "education",
       "server": "whois.nic.education",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "email",
       "server": "whois.nic.email",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "energy",
       "server": "whois.nic.energy",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "engineer",
       "server": "whois.nic.engineer",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "engineering",
       "server": "whois.nic.engineering",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "enterprises",
       "server": "whois.nic.enterprises",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "epson",
       "server": "whois.nic.epson",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "equipment",
       "server": "whois.nic.equipment",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "estate",
       "server": "whois.nic.estate",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "events",
       "server": "whois.nic.events",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "exchange",
       "server": "whois.nic.exchange",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "expert",
       "server": "whois.nic.expert",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "exposed",
       "server": "whois.nic.exposed",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "express",
       "server": "whois.nic.express",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "fail",
       "server": "whois.nic.fail",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "family",
       "server": "whois.nic.family",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "fan",
       "server": "whois.nic.fan",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "farm",
       "server": "whois.nic.farm",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "finance",
       "server": "whois.nic.finance",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "financial",
       "server": "whois.nic.financial",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "firestone",
       "server": "whois.nic.firestone",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "fish",
       "server": "whois.nic.fish",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "fitness",
       "server": "whois.nic.fitness",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
-    },
-    {
-      "tld": "fj",
-      "server": "www.whois.fj",
-      "consecutiveFailures": 5,
-      "deadDays": 117,
-      "reason": "RDAP listed but unhealthy"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "flights",
       "server": "whois.nic.flights",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "florist",
       "server": "whois.nic.florist",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "football",
       "server": "whois.nic.football",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "forex",
       "server": "whois.nic.forex",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "forsale",
       "server": "whois.nic.forsale",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "fujitsu",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "fund",
       "server": "whois.nic.fund",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "furniture",
       "server": "whois.nic.furniture",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "futbol",
       "server": "whois.nic.futbol",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "fyi",
       "server": "whois.nic.fyi",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "gallery",
       "server": "whois.nic.gallery",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "games",
       "server": "whois.nic.games",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "gdn",
       "server": "whois.nic.gdn",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "reason": "IANA still lists a whois server"
     },
     {
       "tld": "gifts",
       "server": "whois.nic.gifts",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "glass",
       "server": "whois.nic.glass",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "global",
       "server": "whois.nic.global",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "gmbh",
       "server": "whois.nic.gmbh",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "gmo",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "gold",
       "server": "whois.nic.gold",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "goldpoint",
       "server": "whois.nic.goldpoint",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "golf",
       "server": "whois.nic.golf",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "gop",
       "server": "whois.nic.gop",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "reason": "IANA still lists a whois server"
     },
     {
       "tld": "got",
       "server": "whois.nic.got",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "graphics",
       "server": "whois.nic.graphics",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "gratis",
       "server": "whois.nic.gratis",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "green",
       "server": "whois.nic.green",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "gripe",
       "server": "whois.nic.gripe",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "group",
       "server": "whois.nic.group",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "gs",
       "server": "whois.nic.gs",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4); IANA still lists a whois server"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d); IANA still lists a whois server"
     },
     {
       "tld": "guide",
       "server": "whois.nic.guide",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "guru",
       "server": "whois.nic.guru",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "gy",
       "server": "whois.registry.gy",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4); IANA still lists a whois server"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d); IANA still lists a whois server"
     },
     {
       "tld": "haus",
       "server": "whois.nic.haus",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "healthcare",
       "server": "whois.nic.healthcare",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "hisamitsu",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "hitachi",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "hockey",
       "server": "whois.nic.hockey",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "holdings",
       "server": "whois.nic.holdings",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "holiday",
       "server": "whois.nic.holiday",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "honda",
       "server": "whois.nic.honda",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "hospital",
       "server": "whois.nic.hospital",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "house",
       "server": "whois.nic.house",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "ht",
       "server": "whois.nic.ht",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
+      "consecutiveFailures": 5,
+      "deadDays": 87,
       "reason": "IANA still lists a whois server"
     },
     {
       "tld": "hyundai",
       "server": "whois.nic.hyundai",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "immo",
       "server": "whois.nic.immo",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "immobilien",
       "server": "whois.nic.immobilien",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "industries",
       "server": "whois.nic.industries",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "infiniti",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "info",
       "server": "whois.nic.info",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "institute",
       "server": "whois.nic.institute",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "insure",
       "server": "whois.nic.insure",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "international",
       "server": "whois.nic.international",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "investments",
       "server": "whois.nic.investments",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "irish",
       "server": "whois.nic.irish",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "jcb",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "jetzt",
       "server": "whois.nic.jetzt",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "jewelry",
       "server": "whois.nic.jewelry",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "jot",
       "server": "whois.nic.jot",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "kaufen",
       "server": "whois.nic.kaufen",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "kddi",
       "server": "whois.nic.kddi",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "kia",
       "server": "whois.nic.kia",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "kim",
       "server": "whois.nic.kim",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "kitchen",
       "server": "whois.nic.kitchen",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "komatsu",
       "server": "whois.nic.komatsu",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "kyoto",
       "server": "whois.nic.kyoto",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "land",
       "server": "whois.nic.land",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "lawyer",
       "server": "whois.nic.lawyer",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "lease",
       "server": "whois.nic.lease",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "legal",
       "server": "whois.nic.legal",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "lexus",
       "server": "whois.nic.lexus",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "lgbt",
       "server": "whois.nic.lgbt",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "life",
       "server": "whois.nic.life",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "lighting",
       "server": "whois.nic.lighting",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "limited",
       "server": "whois.nic.limited",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "limo",
       "server": "whois.nic.limo",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "live",
       "server": "whois.nic.live",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "llc",
       "server": "whois.nic.llc",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "loans",
       "server": "whois.nic.loans",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "lotte",
       "server": "whois.nic.lotte",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "lotto",
       "server": "whois.nic.lotto",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "ltd",
       "server": "whois.nic.ltd",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "maison",
       "server": "whois.nic.maison",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "management",
       "server": "whois.nic.management",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "market",
       "server": "whois.nic.market",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "marketing",
       "server": "whois.nic.marketing",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "markets",
       "server": "whois.nic.markets",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "mba",
       "server": "whois.nic.mba",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "media",
       "server": "whois.nic.media",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "memorial",
       "server": "whois.nic.memorial",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "mitsubishi",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "mobi",
       "server": "whois.nic.mobi",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "moda",
       "server": "whois.nic.moda",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "money",
       "server": "whois.nic.money",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "mortgage",
       "server": "whois.nic.mortgage",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "movie",
       "server": "whois.nic.movie",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "ms",
       "server": "whois.nic.ms",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4); IANA still lists a whois server"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d); IANA still lists a whois server"
     },
     {
       "tld": "nagoya",
       "server": "whois.nic.nagoya",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "navy",
       "server": "whois.nic.navy",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "nec",
       "server": "whois.nic.nec",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "network",
       "server": "whois.nic.network",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "news",
       "server": "whois.nic.news",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "nf",
       "server": "whois.nic.nf",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4); IANA still lists a whois server"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d); IANA still lists a whois server"
     },
     {
       "tld": "ng",
       "server": "whois.nic.net.ng",
-      "consecutiveFailures": 5,
-      "deadDays": 117,
+      "consecutiveFailures": 6,
+      "deadDays": 119,
       "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "nhk",
       "server": "whois.nic.nhk",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "nico",
       "server": "whois.nic.nico",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "ninja",
       "server": "whois.nic.ninja",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "nissan",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "okinawa",
       "server": "whois.nic.okinawa",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "onl",
       "server": "whois.nic.onl",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "organic",
       "server": "whois.nic.organic",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "otsuka",
       "server": "whois.nic.otsuka",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "panasonic",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "partners",
       "server": "whois.nic.partners",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "parts",
       "server": "whois.nic.parts",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "pet",
       "server": "whois.nic.pet",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "photography",
       "server": "whois.nic.photography",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "photos",
       "server": "whois.nic.photos",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "pictures",
       "server": "whois.nic.pictures",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "pink",
       "server": "whois.nic.pink",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "pizza",
       "server": "whois.nic.pizza",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "place",
       "server": "whois.nic.place",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "playstation",
       "server": "whois.nic.playstation",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "plumbing",
       "server": "whois.nic.plumbing",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "plus",
       "server": "whois.nic.plus",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "poker",
       "server": "whois.nic.poker",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "pro",
       "server": "whois.nic.pro",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "productions",
       "server": "whois.nic.productions",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "promo",
       "server": "whois.nic.promo",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "properties",
       "server": "whois.nic.properties",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "pub",
       "server": "whois.nic.pub",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "recipes",
       "server": "whois.nic.recipes",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "red",
       "server": "whois.nic.red",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "rehab",
       "server": "whois.nic.rehab",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "reise",
       "server": "whois.nic.reise",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "reisen",
       "server": "whois.nic.reisen",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "rentals",
       "server": "whois.nic.rentals",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "repair",
       "server": "whois.nic.repair",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "report",
       "server": "whois.nic.report",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "republican",
       "server": "whois.nic.republican",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "restaurant",
       "server": "whois.nic.restaurant",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "reviews",
       "server": "whois.nic.reviews",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "ricoh",
       "server": "whois.nic.ricoh",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "rip",
       "server": "whois.nic.rip",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "rocks",
       "server": "whois.nic.rocks",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "run",
       "server": "whois.nic.run",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "ryukyu",
       "server": "whois.nic.ryukyu",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "safety",
       "server": "whois.nic.safety",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "sale",
       "server": "whois.nic.sale",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "salon",
       "server": "whois.nic.salon",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "sarl",
       "server": "whois.nic.sarl",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "school",
       "server": "whois.nic.school",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "schule",
       "server": "whois.nic.schule",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "services",
       "server": "whois.nic.services",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "sharp",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "shiksha",
       "server": "whois.nic.shiksha",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "shoes",
       "server": "whois.nic.shoes",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "shop",
       "server": "whois.nic.shop",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "shopping",
       "server": "whois.nic.shopping",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "show",
       "server": "whois.nic.show",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "singles",
       "server": "whois.nic.singles",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "ski",
       "server": "whois.nic.ski",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "soccer",
       "server": "whois.nic.soccer",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "social",
       "server": "whois.nic.social",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "softbank",
       "server": "whois.nic.softbank",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "software",
       "server": "whois.nic.software",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "solar",
       "server": "whois.nic.solar",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "solutions",
       "server": "whois.nic.solutions",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "sony",
       "server": "whois.nic.sony",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "studio",
       "server": "whois.nic.studio",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "style",
       "server": "whois.nic.style",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "supplies",
       "server": "whois.nic.supplies",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "supply",
       "server": "whois.nic.supply",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "support",
       "server": "whois.nic.support",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "surgery",
       "server": "whois.nic.surgery",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "suzuki",
       "server": "whois.nic.suzuki",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "systems",
       "server": "whois.nic.systems",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "tax",
       "server": "whois.nic.tax",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "taxi",
       "server": "whois.nic.taxi",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "team",
       "server": "whois.nic.team",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "technology",
       "server": "whois.nic.technology",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "tennis",
       "server": "whois.nic.tennis",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "theater",
       "server": "whois.nic.theater",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "tienda",
       "server": "whois.nic.tienda",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "tips",
       "server": "whois.nic.tips",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "tires",
       "server": "whois.nic.tires",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "today",
       "server": "whois.nic.today",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "tokyo",
       "server": "whois.nic.tokyo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "tools",
       "server": "whois.nic.tools",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "toray",
       "server": "whois.nic.toray",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "toshiba",
       "server": "whois.nic.toshiba",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "tours",
       "server": "whois.nic.tours",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "town",
       "server": "whois.nic.town",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "toyota",
       "server": "whois.nic.toyota",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "toys",
       "server": "whois.nic.toys",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "trading",
       "server": "whois.nic.trading",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "training",
       "server": "whois.nic.training",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "travel",
       "server": "whois.nic.travel",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "university",
       "server": "whois.nic.university",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "vacations",
       "server": "whois.nic.vacations",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "ventures",
       "server": "whois.nic.ventures",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "vet",
       "server": "whois.nic.vet",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "viajes",
       "server": "whois.nic.viajes",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "video",
       "server": "whois.nic.video",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "villas",
       "server": "whois.nic.villas",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "vin",
       "server": "whois.nic.vin",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "vision",
       "server": "whois.nic.vision",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "vote",
       "server": "whois.nic.vote",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "voto",
       "server": "whois.nic.voto",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "voyage",
       "server": "whois.nic.voyage",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "watch",
       "server": "whois.nic.watch",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "watches",
       "server": "whois.nic.watches",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "wine",
       "server": "whois.nic.wine",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "works",
       "server": "whois.nic.works",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "world",
       "server": "whois.nic.world",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "wtf",
       "server": "whois.nic.wtf",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "xn--5tzm5g",
       "server": "whois.nic.xn--5tzm5g",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "xn--6frz82g",
       "server": "whois.nic.xn--6frz82g",
-      "consecutiveFailures": 3,
-      "deadDays": 15,
-      "reason": "dead only 15d (<45d); only 3 failed probe(s) (<4)"
+      "consecutiveFailures": 4,
+      "deadDays": 17,
+      "reason": "dead only 17d (<45d)"
     },
     {
       "tld": "xn--czrs0t",
       "server": "whois.nic.xn--czrs0t",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "xn--fjq720a",
       "server": "whois.nic.xn--fjq720a",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
+    },
+    {
+      "tld": "xn--ngbrx",
+      "server": "whois.nic.xn--ngbrx",
+      "consecutiveFailures": 1,
+      "deadDays": 1,
+      "reason": "dead only 1d (<45d); only 1 failed probe(s) (<4); IANA still lists a whois server"
     },
     {
       "tld": "xn--ses554g",
       "server": "whois.nic.xn--ses554g",
-      "consecutiveFailures": 10,
-      "deadDays": 134,
+      "consecutiveFailures": 11,
+      "deadDays": 136,
       "reason": "IANA still lists a whois server"
     },
     {
       "tld": "xn--unup4y",
       "server": "whois.nic.xn--unup4y",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "xn--vhquv",
       "server": "whois.nic.xn--vhquv",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
-    },
-    {
-      "tld": "ye",
-      "server": "whois.y.net.ye",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4); IANA still lists a whois server"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     },
     {
       "tld": "yodobashi",
       "server": "whois.nic.gmo",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "yokohama",
       "server": "whois.nic.yokohama",
-      "consecutiveFailures": 4,
-      "deadDays": 86,
-      "reason": "IANA still lists a whois server"
+      "consecutiveFailures": 5,
+      "deadDays": 87,
+      "reason": "RDAP listed but unhealthy"
     },
     {
       "tld": "zone",
       "server": "whois.nic.zone",
-      "consecutiveFailures": 2,
-      "deadDays": 8,
-      "reason": "dead only 8d (<45d); only 2 failed probe(s) (<4)"
+      "consecutiveFailures": 3,
+      "deadDays": 10,
+      "reason": "dead only 10d (<45d); only 3 failed probe(s) (<4)"
     }
   ],
   "unhealthyRoutes": [
@@ -3208,6 +3209,12 @@
       "server": "whois.nic.farm",
       "classification": "refused",
       "detail": "error page: TLD is not supported."
+    },
+    {
+      "tld": "fi",
+      "server": "whois.fi",
+      "classification": "suspect",
+      "detail": "whois.fi sent an empty response"
     },
     {
       "tld": "finance",

@@ -25,9 +25,9 @@
   },
   "rdap.gmoregistry.net": {
     "protocol": "rdap",
-    "runs": 1,
+    "runs": 2,
     "firstSeen": "2026-11-25T21:33:06.914Z",
-    "lastSeen": "2026-11-25T21:33:06.914Z",
+    "lastSeen": "2026-11-27T10:32:13.783Z",
     "detail": "429",
     "limit": {
       "concurrency": 2,
@@ -97,9 +97,9 @@
   },
   "whois.meshdigital.com": {
     "protocol": "whois",
-    "runs": 1,
+    "runs": 2,
     "firstSeen": "2026-11-27T09:24:10.979Z",
-    "lastSeen": "2026-11-27T09:24:10.979Z",
+    "lastSeen": "2026-11-27T10:39:12.670Z",
     "detail": "whois.meshdigital.com is rate limiting",
     "limit": {
       "concurrency": 2,
@@ -109,9 +109,9 @@
   },
   "whois.nic.ch": {
     "protocol": "whois",
-    "runs": 2,
+    "runs": 3,
     "firstSeen": "2026-11-25T21:45:03.943Z",
-    "lastSeen": "2026-11-25T22:05:48.520Z",
+    "lastSeen": "2026-11-27T10:53:06.710Z",
     "detail": "whois.nic.ch is rate limiting",
     "limit": {
       "concurrency": 1,
@@ -121,9 +121,9 @@
   },
   "whois.nic.li": {
     "protocol": "whois",
-    "runs": 2,
+    "runs": 3,
     "firstSeen": "2026-11-25T21:45:03.943Z",
-    "lastSeen": "2026-11-25T22:05:48.520Z",
+    "lastSeen": "2026-11-27T10:53:06.710Z",
     "detail": "whois.nic.li is rate limiting",
     "limit": {
       "concurrency": 1,

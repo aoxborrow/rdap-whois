@@ -1,36 +1,42 @@
 {
-  "generatedAt": "2026-11-25T22:05:55.463Z",
+  "generatedAt": "2026-11-27T10:53:15.101Z",
   "mode": "corpus",
   "oracles": [
     "whoiser",
     "likexian",
     "weppos"
   ],
-  "compared": 2881,
+  "compared": 2884,
   "oracleStats": {
     "whoiser": {
-      "parsed": 2881,
+      "parsed": 2884,
       "errors": 0,
       "notFound": 0
     },
     "likexian": {
-      "parsed": 2868,
+      "parsed": 2871,
       "errors": 12,
       "notFound": 1
     },
     "weppos": {
-      "parsed": 2877,
+      "parsed": 2880,
       "errors": 0,
       "notFound": 4
     }
   },
   "buckets": {
     "we-missing": 241,
-    "value-mismatch": 303,
-    "we-extra": 836
+    "value-mismatch": 306,
+    "we-extra": 838
   },
-  "groups": 419,
-  "newKeys": [],
+  "groups": 424,
+  "newKeys": [
+    "whois.aitdomains.com|expiration_date|we-extra",
+    "whois.french-connexion.com|creation_date|value-mismatch",
+    "whois.french-connexion.com|dnssec|we-extra",
+    "whois.french-connexion.com|expiration_date|value-mismatch",
+    "whois.french-connexion.com|updated_date|value-mismatch"
+  ],
   "redKeys": [],
   "byKey": {
     "whois.acens.net|registrar_abuse_phone|we-extra": {
@@ -43,6 +49,20 @@
         {
           "query": "xunta.gal",
           "ours": "+34.911418583",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.aitdomains.com|expiration_date|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "ait.com",
+          "ours": "2029-09-29T14:03:48Z",
           "votes": {}
         }
       ]
@@ -1968,6 +1988,74 @@
           "ours": null,
           "votes": {
             "likexian": "101domain grs limited"
+          }
+        }
+      ]
+    },
+    "whois.french-connexion.com|creation_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "french-connexion.com",
+          "ours": "2016-06-30T02:16:21Z",
+          "votes": {
+            "likexian": "2016-06-30T 02:16:21Z"
+          }
+        }
+      ]
+    },
+    "whois.french-connexion.com|dnssec|we-extra": {
+      "count": 1,
+      "maxAgree": 0,
+      "oracles": [],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "french-connexion.com",
+          "ours": "unsigned",
+          "votes": {}
+        }
+      ]
+    },
+    "whois.french-connexion.com|expiration_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "french-connexion.com",
+          "ours": "2027-07-10T00:00:00Z",
+          "votes": {
+            "likexian": "2027-07-10T 00:00:00Z"
+          }
+        }
+      ]
+    },
+    "whois.french-connexion.com|updated_date|value-mismatch": {
+      "count": 1,
+      "maxAgree": 1,
+      "oracles": [
+        "likexian"
+      ],
+      "top100": true,
+      "top100Strong": false,
+      "samples": [
+        {
+          "query": "french-connexion.com",
+          "ours": "2026-06-10T03:02:23Z",
+          "votes": {
+            "likexian": "2026-06-10T 03:02:23Z"
           }
         }
       ]
