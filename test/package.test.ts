@@ -183,13 +183,12 @@ async function bundledModules(code: string): Promise<string[]> {
   );
 }
 
-// the WHOIS parser, its per-server formats and the TLD table
+// the WHOIS parser and its per-server formats
 const WHOIS_PARSER = [
   'src/whois/mapping.ts',
   'src/whois/formats.ts',
   'src/whois/servers.ts',
   'src/whois/client.ts',
-  'src/whois/generated/tlds.ts',
 ];
 // the parser's formatters and its date reading, which loads date-fns: slow to import on Node
 const WHOIS_DATES = ['src/whois/base.ts', 'src/whois/dates.ts'];

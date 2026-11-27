@@ -16,7 +16,7 @@ import * as utils from '../src/utils';
 import * as whois from '../src/whois/index';
 import type { WhoisHop } from '../src/whois/client';
 import type { WhoisDataType } from '../src/whois/data-types';
-import { TLD_TABLE_UPDATED } from '../src/whois/generated/tlds-updated';
+import { TLD_TABLE_UPDATED } from '../src/generated/tlds-updated';
 import { VERSION } from '../src/version';
 
 const DOMAIN = {

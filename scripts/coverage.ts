@@ -16,10 +16,10 @@
 import { existsSync, mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { dirname } from 'node:path';
 import { formatConfig, resolveFormat } from '../src/whois/formats';
-import { TLD_SERVERS } from '../src/whois/generated/tlds';
+import { tldRoute, tldRoutes } from '../src/tlds';
 import { getRdapServer } from '../src/rdap/servers';
 import { normalizeRdapServer } from '../src/rdap/utils';
-import { HEALTH_DIR, PACKAGE_DIR, RDAP_DATA_DIR, WHOIS_FIXTURES_DIR } from './lib/paths';
+import { HEALTH_DIR, PACKAGE_DIR, WHOIS_FIXTURES_DIR } from './lib/paths';
 
 const OUT_FILE = `${PACKAGE_DIR}docs/coverage.md`;
 const README_FILE = `${PACKAGE_DIR}README.md`;
@@ -67,17 +67,6 @@ function zoneServerTests(rows: Row[]): number[] {
 
 const readJson = <T>(file: string): T => JSON.parse(readFileSync(file, 'utf8')) as T;
 
-// every zone named by the RDAP layers: IANA's bootstrap, the probed servers and the
-// hand-kept corrections
-function rdapZones(): string[] {
-  const bootstrap = readJson<{ services: [string[], string[]][] }>(`${RDAP_DATA_DIR}dns.json`);
-  const zones = bootstrap.services.flatMap(([names]) => names);
-  for (const layer of ['dns-discovered.json', 'dns-overrides.json']) {
-    zones.push(...Object.keys(readJson<Record<string, unknown>>(`${RDAP_DATA_DIR}${layer}`)));
-  }
-  return zones.map(zone => zone.toLowerCase());
-}
-
 // recorded responses with a golden beside them, per server
 function fixtureCounts(): Map<string, number> {
   const counts = new Map<string, number>();
@@ -96,13 +85,13 @@ function health(entry: HealthEntry | undefined): string {
 
 function buildRows(state: HealthState): Row[] {
   const fixtures = fixtureCounts();
-  const zones = [...new Set([...Object.keys(TLD_SERVERS), ...rdapZones()])].sort((a, b) =>
-    a.localeCompare(b)
-  );
+  const zones = tldRoutes()
+    .map(([zone]) => zone)
+    .sort((a, b) => a.localeCompare(b));
   return zones.map(zone => {
     // a name inside the zone, so the RDAP lookup walks to this zone and no further
     const rdap = getRdapServer('domain', `example.${zone}`);
-    const whois = TLD_SERVERS[zone] ?? null;
+    const whois = tldRoute(zone)?.whois ?? null;
     const rdapKey = rdap ? normalizeRdapServer(rdap) : null;
     return {
       zone,

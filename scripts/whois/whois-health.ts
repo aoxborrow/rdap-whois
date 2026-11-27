@@ -32,8 +32,7 @@
 import { execSync } from 'node:child_process';
 import { packageScript } from '../lib/run';
 import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
-import { DnsServerCache } from '../../src/rdap/cache/dns';
-import { getTldServers } from './generate-tlds';
+import { getRdapRoutes, getTldServers } from './generate-tlds';
 import {
   countCcMoatOutages,
   decide,
@@ -85,20 +84,19 @@ function loadJson<T>(path: string, fallback: T): T {
 
 // Build the two RDAP inputs the decision engine needs, entirely from the COMMITTED rdap
 // state (§10.1: the whois lane never probes RDAP itself):
-//   - rdapListedTlds:  every TLD with a route in the merged DnsServerCache — the same
-//     bootstrap ← discovered ← overrides map the RDAP tool routes by (§10.4). A whois
+//   - rdapListedTlds:  every TLD with an RDAP route in the layers, read fresh — the same
+//     bootstrap ← discovered ← overrides merge data/tlds.json holds (§10.4). A whois
 //     server with no entry here is the whois-only moat.
 //   - rdapHealthyTlds: those whose routed base URL last probed `healthy` in state.rdap —
 //     §10.2's probe-verified "working RDAP route". `check-rdap` records state keyed by
-//     the same normalizeRdapServer() form the cache routes by, so the keys line up.
+//     the same normalizeRdapServer() form the routes use, so the keys line up.
 function loadRdapRouteSets(rdapState: HealthState['rdap']): {
   rdapListedTlds: Set<string>;
   rdapHealthyTlds: Set<string>;
 } {
-  const cache = new DnsServerCache();
   const rdapListedTlds = new Set<string>();
   const rdapHealthyTlds = new Set<string>();
-  for (const [tld, base] of cache.entries()) {
+  for (const [tld, base] of Object.entries(getRdapRoutes())) {
     const key = tld.toLowerCase();
     rdapListedTlds.add(key);
     if (rdapState[base]?.classification === 'healthy') rdapHealthyTlds.add(key);

@@ -9,6 +9,12 @@ Routing data (which server answers for which TLD) changes in patch releases, lis
 
 ## [Unreleased]
 
+### Changed
+
+- WHOIS and RDAP routing for domains read one resolved table, `data/tlds.json`, generated
+  from the routing layers, with the layer each server came from. RDAP no longer merges its
+  layers when the library loads. Every zone routes as before.
+
 ## [0.1.0] - 2026-11-22
 
 First release.

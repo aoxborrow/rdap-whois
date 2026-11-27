@@ -57,7 +57,7 @@ export function deadDaysSince(record: ProbeRecord, now: Date): number {
 export type DecisionInputs = {
   // current merged routing map (static ← auto), tld → server|null
   tldServers: Record<string, string | null>;
-  // TLDs with an RDAP route at all — present in the merged DnsServerCache (IANA bootstrap
+  // TLDs with an RDAP route at all — present in the merged RDAP layers (IANA bootstrap
   // ← discovered ← overrides, §10.4). Defines moat membership: a whois server with NO
   // entry here is the product's whois-only moat.
   rdapListedTlds: Set<string>;

@@ -15,7 +15,7 @@
 import { readFileSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { normalizeRdapServer } from '../../src/rdap/utils';
-import { DnsServerCache } from '../../src/rdap/cache/dns';
+import { getRdapRoutes } from '../whois/generate-tlds';
 import {
   loadState,
   recordProbe,
@@ -59,11 +59,11 @@ function buildProbeList(): Array<{ base: string; path: string }> {
   for (const [keys, urls] of load('dns').services) {
     for (const url of urls) add(url, `domain/nic.${keys[0].toLowerCase()}`);
   }
-  // ALSO probe every base the merged DnsServerCache routes domains to — the discovered
+  // ALSO probe every base the merged layers route domains to — the discovered
   // and overrides layers (§10.4) add bases absent from the bootstrap JSON above. Without
   // a probe record, a discovered/override-only endpoint stays "RDAP listed but unhealthy"
   // in decide() forever and can never enable a phase-out, even when the endpoint works.
-  for (const [pattern, base] of new DnsServerCache().entries()) {
+  for (const [pattern, base] of Object.entries(getRdapRoutes())) {
     add(base, `domain/nic.${pattern.toLowerCase()}`);
   }
   for (const [keys, urls] of load('asn').services) {
